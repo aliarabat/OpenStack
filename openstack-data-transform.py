@@ -37,9 +37,6 @@ def retrieve_reviewers(df, index):
                                      sep="_",
                                      errors='ignore')
 
-    del reviewers_df["tags"]
-    del reviewers_df["display_name"]
-
     reviewers_df.columns = reviewers_df.columns.str.replace(
         "_account_id", "account_id")
 
@@ -111,7 +108,7 @@ def retrieve_files(df, index):
     for row in np.array(files_df):
         file_keys = row["files"].keys()
         for fk in file_keys:
-            new_row = { "name": fk, **row, **row["files"][fk] }
+            new_row = {"name": fk, **row, **row["files"][fk]}
             files_data.append(new_row)
 
     files_df = pd.DataFrame(files_data)

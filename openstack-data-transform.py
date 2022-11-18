@@ -111,7 +111,7 @@ def retrieve_files(df, index):
     for row in np.array(files_df):
         file_keys = row["files"].keys()
         for fk in file_keys:
-            new_row = row | {"name": fk} | row["files"][fk]
+            new_row = { "name": fk, **row, **row["files"][fk] }
             files_data.append(new_row)
 
     files_df = pd.DataFrame(files_data)

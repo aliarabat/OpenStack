@@ -126,10 +126,12 @@ def retrieve_files(df, index):
 
 
 def calc_nbr_files(row):
-    current_revision = row["revisions"][row["current_revision"]]
-    if "files" not in current_revision.keys():
+    current_revision = row["current_revision"];
+    revisions  = row["revisions"]
+    if current_revision is None or "files" not in revisions[current_revision].keys():
         return 0
-    return len(current_revision["files"])
+
+    return len(revisions[current_revision]["files"])
 
 
 def retrieve_changes(data, index):

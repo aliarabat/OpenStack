@@ -5,9 +5,11 @@ from pathlib import Path
 import os
 import helpers as hpr
 
+directory_prefix = "~/OpenStack/"
+
 
 def process_json_file(file_name):
-    with open('./OpenStack/Data/%s' % (file_name), 'r') as string:
+    with open('%sData/%s' % (directory_prefix, file_name), 'r') as string:
         dict_data = json.load(string)
     string.close()
     return dict_data
@@ -42,7 +44,7 @@ def retrieve_reviewers(df, index):
 
     reviewers_df = reviewers_df[main_columns]
 
-    filepath = './OpenStack/reviewers/reviewers_data_%d.csv' % index
+    filepath = '%sreviewers/reviewers_data_%d.csv' % (directory_prefix, index)
     reviewers_df.to_csv(filepath, index=False, encoding='utf-8')
 
 
@@ -82,7 +84,7 @@ def retrieve_messages(df, index):
 
     messages_df = messages_df[new_columns]
 
-    filepath = './OpenStack/messages/messages_data_%d.csv' % index
+    filepath = '%smessages/messages_data_%d.csv' % (directory_prefix, index)
     messages_df.to_csv(filepath, index=False, encoding='utf-8')
 
 
@@ -119,7 +121,7 @@ def retrieve_files(df, index):
     files_df = files_df.drop(columns=["files", "status", "old_path", "binary"],
                              errors="ignore")
 
-    file_path = "./OpenStack/files/files_data_%d.csv" % index
+    file_path = "%s/files/files_data_%d.csv" % (directory_prefix, index)
     files_df.to_csv(file_path, index=False, encoding='utf-8')
 
 
@@ -163,7 +165,7 @@ def retrieve_changes(data, index):
     del changes_df["messages"]
     del changes_df["revisions"]
 
-    filepath = "./OpenStack/changes/changes_data_%d.csv" % index
+    filepath = "%s/changes/changes_data_%d.csv" % (directory_prefix, index)
     changes_df.to_csv(filepath, index=False, encoding='utf-8')
 
     return df
@@ -173,15 +175,15 @@ if __name__ == "__main__":
 
     start_date = hpr.generate_date("This script started at")
 
-    os.makedirs("./OpenStack/changes", exist_ok=True)
-    os.makedirs("./OpenStack/reviewers", exist_ok=True)
-    os.makedirs("./OpenStack/messages", exist_ok=True)
-    os.makedirs("./OpenStack/files", exist_ok=True)
+    os.makedirs("%schanges" % directory_prefix, exist_ok=True)
+    os.makedirs("%sreviewers" % directory_prefix, exist_ok=True)
+    os.makedirs("%smessages" % directory_prefix, exist_ok=True)
+    os.makedirs("%sfiles" % directory_prefix, exist_ok=True)
 
     index = 0
     # file_path = "openstack_data_train.json"
-    for f in hpr.list_file("./OpenStack/Data"):
-    # for index in range(1):
+    for f in hpr.list_file("%sData" % directory_prefix):
+        # for index in range(1):
         print("Index =====>  %d" % index)
 
         original_data = process_json_file(f)

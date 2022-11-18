@@ -6,7 +6,9 @@ import os
 import helpers as hpr
 import shutil
 
-directory_prefix = "/home/as98450/OpenStack/"
+# directory_prefix = "/home/as98450/OpenStack/"
+
+directory_prefix = "C:/Users/Ali/Documents/PhD/projects/OpenStack/OpenStack/"
 
 
 def process_json_file(file_name):
@@ -171,7 +173,7 @@ def retrieve_changes(data, index):
 
 if __name__ == "__main__":
 
-    start_date = hpr.generate_date("This script started at")
+    start_date, start_header = hpr.generate_date("This script started at")
 
     changes_dir = "%schanges" % directory_prefix
     reviewers_dir = "%sreviewers" % directory_prefix
@@ -201,6 +203,10 @@ if __name__ == "__main__":
 
         index += 1
 
-    end_date = hpr.generate_date("This script ended at")
+    end_date, end_header = hpr.generate_date("This script ended at")
+
+    print(start_header)
+
+    print(end_header)
 
     hpr.diff_dates(start_date, end_date)

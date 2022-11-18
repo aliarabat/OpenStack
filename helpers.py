@@ -18,8 +18,7 @@ def convert(seconds):
 
 def generate_date(header):
     date = datetime.now().strftime("%Y/%m/%d %H:%M:%S:%f")
-    print("{} {}".format(header, date))
-    return date
+    return date, "{} {}".format(header, date)
 
 
 def diff_dates(start_date, end_date):

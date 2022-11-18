@@ -4,6 +4,7 @@ import json
 from pathlib import Path
 import os
 import helpers as hpr
+import shutil
 
 directory_prefix = "/home/as98450/OpenStack/"
 
@@ -125,11 +126,6 @@ def retrieve_files(df, index):
     files_df.to_csv(file_path, index=False, encoding='utf-8')
 
 
-def calc_nbr_files(row):
-    print(row)
-    return len(row["revisions"][row["current_revision"]]["files"])
-
-
 def retrieve_changes(data, index):
     changes_columns = [
         "id", "project", "branch", "topic", "change_id", "owner", "subject",
@@ -179,10 +175,10 @@ if __name__ == "__main__":
     reviewers_dir = "%sreviewers" % directory_prefix
     messages_dir = "%smessages" % directory_prefix
     files_dir = "%sfiles" % directory_prefix
- 
+
     for dir in list([changes_dir, reviewers_dir, messages_dir, files_dir]):
         if os.path.exists(dir):
-            os.rmdir(dir)
+            shutil.rmtree(path=dir)
         os.makedirs(dir)
 
     index = 0

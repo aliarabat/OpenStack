@@ -5,7 +5,7 @@ from pathlib import Path
 import os
 import helpers as hpr
 
-directory_prefix = "~/OpenStack/"
+directory_prefix = "/home/as98450/OpenStack/"
 
 
 def process_json_file(file_name):
@@ -175,10 +175,10 @@ if __name__ == "__main__":
 
     start_date = hpr.generate_date("This script started at")
 
-    os.makedirs("%schanges" % directory_prefix, exist_ok=True)
-    os.makedirs("%sreviewers" % directory_prefix, exist_ok=True)
-    os.makedirs("%smessages" % directory_prefix, exist_ok=True)
-    os.makedirs("%sfiles" % directory_prefix, exist_ok=True)
+    os.makedirs("%schanges" % directory_prefix)
+    os.makedirs("%sreviewers" % directory_prefix)
+    os.makedirs("%smessages" % directory_prefix)
+    os.makedirs("%sfiles" % directory_prefix)
 
     index = 0
     # file_path = "openstack_data_train.json"

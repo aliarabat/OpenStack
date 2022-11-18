@@ -175,10 +175,15 @@ if __name__ == "__main__":
 
     start_date = hpr.generate_date("This script started at")
 
-    os.makedirs("%schanges" % directory_prefix)
-    os.makedirs("%sreviewers" % directory_prefix)
-    os.makedirs("%smessages" % directory_prefix)
-    os.makedirs("%sfiles" % directory_prefix)
+    changes_dir = "%schanges" % directory_prefix
+    reviewers_dir = "%sreviewers" % directory_prefix
+    messages_dir = "%smessages" % directory_prefix
+    files_dir = "%sfiles" % directory_prefix
+ 
+    for dir in list([changes_dir, reviewers_dir, messages_dir, files_dir]):
+        if os.path.exists(dir):
+            os.rmdir(dir)
+        os.makedirs(dir)
 
     index = 0
     # file_path = "openstack_data_train.json"

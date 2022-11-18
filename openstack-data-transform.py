@@ -6,7 +6,7 @@ import os
 import helpers as hpr
 import shutil
 
-directory_prefix = "/home/as98450/OpenStack/"
+directory_prefix = "C:/Users/Ali/Documents/PhD/projects/OpenStack/OpenStack/"
 
 
 def process_json_file(file_name):
@@ -123,6 +123,13 @@ def retrieve_files(df, index):
     files_df.to_csv(file_path, index=False, encoding='utf-8')
 
 
+def calc_nbr_files(row):
+    current_revision = row["revisions"][row["current_revision"]]
+    if "files" not in current_revision.keys():
+        return 0
+    return len(current_revision["files"])
+
+
 def retrieve_changes(data, index):
     changes_columns = [
         "id", "project", "branch", "topic", "change_id", "owner", "subject",
@@ -138,9 +145,7 @@ def retrieve_changes(data, index):
     df["reviewers"] = df["reviewers"].map(lambda x: x["REVIEWER"])
     df["reviewers_count"] = df["reviewers"].map(lambda x: len(x))
     df["revisions_count"] = df["revisions"].map(lambda x: len(x))
-    df["files_count"] = df.apply(
-        lambda row: len(row["revisions"][row["current_revision"]]["files"]),
-        axis=1)
+    df["files_count"] = df.apply(calc_nbr_files, axis=1)
 
     df["owner_account_id"] = df["owner"].map(
         lambda x: x["_account_id"] if "_account_id" in x.keys() else None)

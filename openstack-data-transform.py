@@ -6,7 +6,7 @@ import os
 import helpers as hpr
 import shutil
 
-directory_prefix = "C:/Users/Ali/Documents/PhD/projects/OpenStack/OpenStack/"
+directory_prefix = "/home/as98450/OpenStack/"
 
 
 def process_json_file(file_name):

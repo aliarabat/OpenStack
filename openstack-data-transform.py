@@ -126,10 +126,13 @@ def retrieve_files(df, index):
 
 
 def calc_nbr_files(row):
-    if "current_revision" not in row.keys() or "files" not in row["revisions"][row["current_revision"]].keys():
-        return 0
-
-    return len(row["revisions"][row["current_revision"]]["files"])
+    #if ["current_revision", "revisions"] row["current_revision"] == "nan" or row["revisions"] is None or "files" not in row["revisions"][row["current_revision"]].keys():
+    #    return 0
+    #print(row)
+    #result = len(row["revisions"][row["current_revision"]]["files"])
+    print(row.keys())
+    #print("RESULT =====>  %d, Change_id ===> %s" % (result, row["changed_id"]))
+    return 0
 
 
 def retrieve_changes(data, index):
@@ -147,7 +150,7 @@ def retrieve_changes(data, index):
     df["reviewers"] = df["reviewers"].map(lambda x: x["REVIEWER"])
     df["reviewers_count"] = df["reviewers"].map(lambda x: len(x))
     df["revisions_count"] = df["revisions"].map(lambda x: len(x))
-    df["files_count"] = df.apply(calc_nbr_files, axis=1)
+    df["files_count"] = df.apply(calc_nbr_files)
 
     df["owner_account_id"] = df["owner"].map(
         lambda x: x["_account_id"] if "_account_id" in x.keys() else None)

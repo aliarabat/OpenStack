@@ -6,9 +6,9 @@ import os
 import helpers as hpr
 import shutil
 
-# directory_prefix = "/home/as98450/OpenStack/"
+directory_prefix = "/home/as98450/OpenStack/"
 
-directory_prefix = "C:/Users/Ali/Documents/PhD/projects/OpenStack/OpenStack/"
+# directory_prefix = "C:/Users/Ali/Documents/PhD/projects/OpenStack/OpenStack/"
 
 
 def process_json_file(file_name):
@@ -126,12 +126,10 @@ def retrieve_files(df, index):
 
 
 def calc_nbr_files(row):
-    current_revision = row["current_revision"];
-    revisions  = row["revisions"]
-    if current_revision is None or "files" not in revisions[current_revision].keys():
+    if "current_revision" not in row.keys() or "files" not in row["revisions"][row["current_revision"]].keys():
         return 0
 
-    return len(revisions[current_revision]["files"])
+    return len(row["revisions"][row["current_revision"]]["files"])
 
 
 def retrieve_changes(data, index):
@@ -187,10 +185,17 @@ if __name__ == "__main__":
             shutil.rmtree(path=dir)
         os.makedirs(dir)
 
-    index = 0
-    # file_path = "openstack_data_train.json"
-    for f in hpr.list_file("%sData" % directory_prefix):
-        # for index in range(1):
+    # index = 0
+    # file_path = "openstack_data_722.json"
+    # for f in hpr.list_file("%sData" % directory_prefix):
+    for index in range(249, 250):
+
+        f = "openstack_data_%d.json" % index
+
+        print("Filename =====>  %s" % f)
+
+        # index = int(f[15:-5])
+
         print("Index =====>  %d" % index)
 
         original_data = process_json_file(f)

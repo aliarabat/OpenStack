@@ -1,6 +1,9 @@
 from datetime import datetime
 import os
 
+DIR = "E:/PhD/Projects/Openstack/Data/"
+# DIR = "/home/as98450/OpenStack/Data/"
+
 def convert(seconds):
     """Convert seconds in the following format
     XX days, XX hours, XX minutes and XX seconds 
@@ -17,11 +20,15 @@ def convert(seconds):
 
 
 def generate_date(header):
+    """Generate a date with a passed-in title
+    """
     date = datetime.now().strftime("%Y/%m/%d %H:%M:%S:%f")
     return date, "{} {}".format(header, date)
 
 
 def diff_dates(start_date, end_date):
+    """Calculate the difference between two dates
+    """
     start_date = datetime.strptime(start_date, "%Y/%m/%d %H:%M:%S:%f")
     end_date = datetime.strptime(end_date, "%Y/%m/%d %H:%M:%S:%f")
 
@@ -32,5 +39,7 @@ def diff_dates(start_date, end_date):
     return elapsed_seconds
 
 def list_file(directory):
+    """List files of a directory
+    """
     files = [f for f in os.listdir(directory)]
     return files

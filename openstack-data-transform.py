@@ -3,22 +3,24 @@ import numpy as np
 import json
 from pathlib import Path
 import os
-import helpers as hpr
 import shutil
+import helpers as hpr
 
-directory_prefix = "/home/as98450/OpenStack/"
-
-# directory_prefix = "C:/Users/Ali/Documents/PhD/projects/OpenStack/OpenStack/"
+DIR = hpr.DIR
 
 
 def process_json_file(file_name):
-    with open('%sData/%s' % (directory_prefix, file_name), 'r') as string:
+    """Transform a json file into a readable python dict format
+    """
+    with open('%sData/%s' % (DIR, file_name), 'r') as string:
         dict_data = json.load(string)
     string.close()
     return dict_data
 
 
 def retrieve_reviewers(df, index):
+    """Filter the reviewers of each change
+    """
     old_columns = ["change_id", "reviewers"]
     main_columns = ["change_id", "account_id", "name", "email", "username"]
 
@@ -44,11 +46,13 @@ def retrieve_reviewers(df, index):
 
     reviewers_df = reviewers_df[main_columns]
 
-    filepath = '%sreviewers/reviewers_data_%d.csv' % (directory_prefix, index)
+    filepath = '%sReviewers/reviewers_data_%d.csv' % (DIR, index)
     reviewers_df.to_csv(filepath, index=False, encoding='utf-8')
 
 
 def retrieve_messages(df, index):
+    """Filter the discussion messages of each change
+    """
     old_columns = ["change_id", "current_revision", "messages"]
 
     new_columns = [
@@ -84,11 +88,22 @@ def retrieve_messages(df, index):
 
     messages_df = messages_df[new_columns]
 
-    filepath = '%smessages/messages_data_%d.csv' % (directory_prefix, index)
+    filepath = '%sMessages/messages_data_%d.csv' % (DIR, index)
     messages_df.to_csv(filepath, index=False, encoding='utf-8')
 
 
+def filter_files_attr(row):
+    """Filter files of the current change
+    """
+    if row["current_revision"] not in row["revisions"].keys():
+        return {}
+
+    return row["revisions"][row["current_revision"]]["files"]
+
+
 def retrieve_files(df, index):
+    """Filter the files of each change
+    """
     revisions_df = df[[
         "change_id", "current_revision", "project", "subject", "revisions"
     ]].copy()
@@ -99,16 +114,21 @@ def retrieve_files(df, index):
             "current_revision": row["current_revision"],
             "project": row["project"],
             "subject": row["subject"],
-            "files": row["revisions"][row["current_revision"]]["files"],
+            "files": filter_files_attr(row),
         },
         axis=1)
 
-    files_df = revisions_df["files"]
+    files_df = revisions_df[["files"]]
 
     files_data = []
 
     for row in np.array(files_df):
+        row = row[0]
         file_keys = row["files"].keys()
+
+        if len(file_keys) == 0:
+            continue
+
         for fk in file_keys:
             new_row = {"name": fk, **row, **row["files"][fk]}
             files_data.append(new_row)
@@ -121,36 +141,43 @@ def retrieve_files(df, index):
     files_df = files_df.drop(columns=["files", "status", "old_path", "binary"],
                              errors="ignore")
 
-    file_path = "%s/files/files_data_%d.csv" % (directory_prefix, index)
+    file_path = "%sFiles/files_data_%d.csv" % (DIR, index)
     files_df.to_csv(file_path, index=False, encoding='utf-8')
 
 
 def calc_nbr_files(row):
-    #if ["current_revision", "revisions"] row["current_revision"] == "nan" or row["revisions"] is None or "files" not in row["revisions"][row["current_revision"]].keys():
-    #    return 0
-    #print(row)
-    #result = len(row["revisions"][row["current_revision"]]["files"])
-    print(row.keys())
-    #print("RESULT =====>  %d, Change_id ===> %s" % (result, row["changed_id"]))
-    return 0
+    """Count number of files for each change
+    """
+    return len(filter_files_attr(row))
+
+
+def retrieve_commit_message(row):
+    """Retrieve commit message of each review
+    """
+    if row["current_revision"] not in row["revisions"].keys():
+        keys = list(row["revisions"].keys())
+        return row["revisions"][keys[0]]["commit"]["message"]
+
+    return row["revisions"][row["current_revision"]]["commit"]["message"]
 
 
 def retrieve_changes(data, index):
+    """Filter the changes
+    """
     changes_columns = [
         "id", "project", "branch", "topic", "change_id", "owner", "subject",
-        "created", "updated", "submitted", "insertions", "deletions",
+        "status", "created", "updated", "submitted", "insertions", "deletions",
         "reviewers", "messages", "revisions", "total_comment_count", "_number",
-        "current_revision", "messages_count", "reviewers_count",
-        "revisions_count", "files_count"
+        "current_revision"
     ]
 
     df = pd.DataFrame(data=data, columns=changes_columns)
 
-    df["messages_count"] = df["messages"].map(lambda x: len(x))
+    df["discussion_messages_count"] = df["messages"].map(lambda x: len(x))
     df["reviewers"] = df["reviewers"].map(lambda x: x["REVIEWER"])
     df["reviewers_count"] = df["reviewers"].map(lambda x: len(x))
     df["revisions_count"] = df["revisions"].map(lambda x: len(x))
-    df["files_count"] = df.apply(calc_nbr_files)
+    df["files_count"] = df.apply(calc_nbr_files, axis=1)
 
     df["owner_account_id"] = df["owner"].map(
         lambda x: x["_account_id"] if "_account_id" in x.keys() else None)
@@ -158,6 +185,8 @@ def retrieve_changes(data, index):
                                        if "name" in x.keys() else None)
     df["owner_username"] = df["owner"].map(lambda x: x["username"]
                                            if "username" in x.keys() else None)
+
+    df["commit_message"] = df.apply(retrieve_commit_message, axis=1)
 
     del df["owner"]
 
@@ -168,8 +197,8 @@ def retrieve_changes(data, index):
     del changes_df["messages"]
     del changes_df["revisions"]
 
-    filepath = "%s/changes/changes_data_%d.csv" % (directory_prefix, index)
-    changes_df.to_csv(filepath, index=False, encoding='utf-8')
+    file_path = "%s/Changes/changes_data_%d.csv" % (DIR, index)
+    changes_df.to_csv(file_path, index=False, encoding='utf-8')
 
     return df
 
@@ -178,26 +207,26 @@ if __name__ == "__main__":
 
     start_date, start_header = hpr.generate_date("This script started at")
 
-    changes_dir = "%schanges" % directory_prefix
-    reviewers_dir = "%sreviewers" % directory_prefix
-    messages_dir = "%smessages" % directory_prefix
-    files_dir = "%sfiles" % directory_prefix
+    changes_dir = "%schanges" % DIR
+    reviewers_dir = "%sreviewers" % DIR
+    messages_dir = "%smessages" % DIR
+    files_dir = "%sfiles" % DIR
 
     for dir in list([changes_dir, reviewers_dir, messages_dir, files_dir]):
         if os.path.exists(dir):
             shutil.rmtree(path=dir)
         os.makedirs(dir)
 
-    # index = 0
+    index = 0
     # file_path = "openstack_data_722.json"
-    # for f in hpr.list_file("%sData" % directory_prefix):
-    for index in range(249, 250):
+    for f in hpr.list_file("%sData" % DIR):
+        # for index in range(249, 250):
 
-        f = "openstack_data_%d.json" % index
-
-        print("Filename =====>  %s" % f)
+        # f = "openstack_data_%d.json" % index
 
         # index = int(f[15:-5])
+
+        print("Filename =====>  %s" % f)
 
         print("Index =====>  %d" % index)
 

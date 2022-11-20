@@ -2,48 +2,64 @@ import json
 import requests
 from datetime import datetime
 import os
-import helpers
+import helpers as hpr
+import shutil
 
-# exist_ok=True should be removed when running on the server
-os.makedirs("./OpenStack/Data", exist_ok=True)
 
-is_done = False
-size = 500
-page = 0
+def get_openstack_data(dir):
+    """Perform http requests to Opendev API,
+    to get the list of changes related to the Openstack repository
+    """
+    is_done = False
+    size = 500
+    page = 0
 
-start_date = helpers.generate_date("This script started at")
+    start_date = hpr.generate_date("This script started at")
 
-while (not is_done):
+    while (not is_done):
 
-    params = {'O': 97, 'n': size, 'S': page * size}
-    # after should also be modified with your preferences
-    change_response = requests.get(
-        'https://review.opendev.org/changes/?q=status:merged repositories:openstack after:2020-01-01&o=CURRENT_FILES&o=MESSAGES&o=CURRENT_COMMIT&o=CURRENT_REVISION',
-        params=params)
+        params = {'O': 97, 'n': size, 'S': page * size}
+        # after should also be modified with your preferences
 
-    data_per_request = change_response.text.split("\n")[1]
+        url = "https://review.opendev.org/changes/?q=repositories:{} after:{}&o={}&o={}&o={}&o={}".format(
+            "openstack", "2020-10-21", "CURRENT_FILES", "MESSAGES",
+            "CURRENT_COMMIT", "CURRENT_REVISION")
 
-    data_per_request = list(json.loads(data_per_request))
+        change_response = requests.get(url, params=params)
 
-    print("Length %d" % len(data_per_request))
+        data_per_request = change_response.text.split("\n")[1]
 
-    if len(data_per_request) != 0:
+        data_per_request = list(json.loads(data_per_request))
 
-        print("page %s" % page)
+        print("Length %d" % len(data_per_request))
 
-        data_per_request = json.dumps(data_per_request)
+        if len(data_per_request) != 0:
 
-        jsonFile = open("OpenStack/Data/openstack_data_{}.json".format(page),
-                        "w")
+            print("page %s" % page)
 
-        jsonFile.write(data_per_request)
+            data_per_request = json.dumps(data_per_request)
 
-        jsonFile.close()
+            jsonFile = open("{}openstack_data_{}.json".format(dir, page), "w")
 
-        page += 1
-    else:
-        is_done = not is_done
+            jsonFile.write(data_per_request)
 
-end_date = helpers.generate_date("This script ended at")
+            jsonFile.close()
 
-helpers.diff_dates(start_date, end_date)
+            page += 1
+        else:
+            is_done = not is_done
+
+    end_date = hpr.generate_date("This script ended at")
+
+    hpr.diff_dates(start_date, end_date)
+
+
+if __name__ == "__main__":
+
+    DIR = hpr.DIR
+
+    if os.path.exists(DIR):
+        shutil.rmtree(path=DIR)
+    os.makedirs(DIR, exist_ok=True)
+
+    get_openstack_data(DIR)

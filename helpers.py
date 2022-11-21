@@ -36,8 +36,6 @@ def diff_dates(start_date, end_date):
 
     print("This script took {}".format(elapsed_seconds))
 
-    return elapsed_seconds
-
 def list_file(directory):
     """List files of a directory
     """

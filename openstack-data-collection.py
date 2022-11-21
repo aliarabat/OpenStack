@@ -14,7 +14,7 @@ def get_openstack_data(dir):
     size = 500
     page = 0
 
-    start_date = hpr.generate_date("This script started at")
+    start_date, start_header = hpr.generate_date("This script started at")
 
     while (not is_done):
 
@@ -22,7 +22,7 @@ def get_openstack_data(dir):
         # after should also be modified with your preferences
 
         url = "https://review.opendev.org/changes/?q=repositories:{} after:{}&o={}&o={}&o={}&o={}".format(
-            "openstack", "2020-10-21", "CURRENT_FILES", "MESSAGES",
+            "openstack", "2010-10-21", "CURRENT_FILES", "MESSAGES",
             "CURRENT_COMMIT", "CURRENT_REVISION")
 
         change_response = requests.get(url, params=params)
@@ -49,7 +49,11 @@ def get_openstack_data(dir):
         else:
             is_done = not is_done
 
-    end_date = hpr.generate_date("This script ended at")
+    end_date, end_header = hpr.generate_date("This script ended at")
+
+    print(start_header)
+
+    print(end_header)
 
     hpr.diff_dates(start_date, end_date)
 

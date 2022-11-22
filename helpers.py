@@ -1,7 +1,7 @@
 from datetime import datetime
 import os
 
-DIR = "E:/PhD/Projects/Openstack/Data/"
+DIR = "E:/PhD/Projects/Openstack/"
 # DIR = "/home/as98450/OpenStack/Data/"
 
 def convert(seconds):

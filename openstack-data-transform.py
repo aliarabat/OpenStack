@@ -161,7 +161,7 @@ def retrieve_commit_message(row):
     return row["revisions"][row["current_revision"]]["commit"]["message"]
 
 
-def retrieve_changes(data, index):
+def retrieve_changes(origin_df, index):
     """Filter the changes
     """
     changes_columns = [
@@ -171,10 +171,11 @@ def retrieve_changes(data, index):
         "current_revision"
     ]
 
-    df = pd.DataFrame(data=data, columns=changes_columns)
+    df = origin_df[changes_columns]
 
     df["discussion_messages_count"] = df["messages"].map(lambda x: len(x))
-    df["reviewers"] = df["reviewers"].map(lambda x: x["REVIEWER"])
+    df["reviewers"] = df["reviewers"].map(lambda x: x["REVIEWER"]
+                                          if "REVIEWER" in x.keys() else [])
     df["reviewers_count"] = df["reviewers"].map(lambda x: len(x))
     df["revisions_count"] = df["revisions"].map(lambda x: len(x))
     df["files_count"] = df.apply(calc_nbr_files, axis=1)
@@ -207,32 +208,34 @@ if __name__ == "__main__":
 
     start_date, start_header = hpr.generate_date("This script started at")
 
-    changes_dir = "%schanges" % DIR
-    reviewers_dir = "%sreviewers" % DIR
-    messages_dir = "%smessages" % DIR
-    files_dir = "%sfiles" % DIR
+    changes_dir = "%sChanges" % DIR
+    reviewers_dir = "%sReviewers" % DIR
+    messages_dir = "%sMessages" % DIR
+    files_dir = "%sFiles" % DIR
 
     for dir in list([changes_dir, reviewers_dir, messages_dir, files_dir]):
         if os.path.exists(dir):
             shutil.rmtree(path=dir)
         os.makedirs(dir)
 
-    index = 0
+    # index = 0
     # file_path = "openstack_data_722.json"
     for f in hpr.list_file("%sData" % DIR):
         # for index in range(249, 250):
 
         # f = "openstack_data_%d.json" % index
 
-        # index = int(f[15:-5])
+        index = int(f[15:-5])
 
         print("Filename =====>  %s" % f)
 
         print("Index =====>  %d" % index)
 
-        original_data = process_json_file(f)
+        # print("Index =====>  %d" % index)
+        origin_df = pd.read_json('%sData/%s' % (DIR, f))
+        # original_data = process_json_file(f)
 
-        df = retrieve_changes(original_data, index)
+        df = retrieve_changes(origin_df, index)
 
         retrieve_reviewers(df, index)
 

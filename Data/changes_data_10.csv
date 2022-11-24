@@ -1,4 +1,405 @@
 id,project,branch,topic,change_id,subject,status,created,updated,submitted,insertions,deletions,total_comment_count,number,current_revision,discussion_messages_count,reviewers_count,revisions_count,files_count,owner_account_id,owner_name,owner_username,commit_message
+openstack%2Fmetalsmith~master~I3c814b393a0b62666943dbf2ecf3e3481a80e90a,openstack/metalsmith,master,test-ci,I3c814b393a0b62666943dbf2ecf3e3481a80e90a,[DNM] TEST CI,ABANDONED,2022-10-10 15:55:52.000000000,2022-10-13 07:15:53.000000000,,2,0,0,860854,c631f360588694b738d9db27fdf2f4684f54de57,3,1,1,1,23851,Riccardo Pittau,elfosardo,"[DNM] TEST CI
+
+Change-Id: I3c814b393a0b62666943dbf2ecf3e3481a80e90a
+"
+openstack%2Fmetalsmith~stable%2Fzed~I3119055467a4edfdb13c522ce1c81d2f7eb3588d,openstack/metalsmith,stable/zed,ironic-week-prio,I3119055467a4edfdb13c522ce1c81d2f7eb3588d,CI: Force ansible to version 5,ABANDONED,2022-10-11 07:41:46.000000000,2022-10-13 07:14:27.000000000,,1,0,1,860903,7a8c5b3ccf42ef6dc66d7cfec98bf3d8ea8ad98a,5,2,1,1,23851,Riccardo Pittau,elfosardo,"CI: Force ansible to version 5
+
+Default ansible version was changed in CI; this change is to validate
+and workaround the issue by forcing the older ansible version. We will
+still need to update the version before Zuul support for 5 is removed.
+
+Change-Id: I3119055467a4edfdb13c522ce1c81d2f7eb3588d
+(cherry picked from commit 523cc1d49a77c8ea6c1136d970de0f6bce2ac55a)
+"
+openstack%2Fcharm-neutron-api-plugin-ovn~stable%2Fvictoria~Ic4db92fa04bc3ffb425bd67dd0c90b76ff09a45e,openstack/charm-neutron-api-plugin-ovn,stable/victoria,focal-ovn-source-22.03-stable/victoria,Ic4db92fa04bc3ffb425bd67dd0c90b76ff09a45e,Extend testing to cover focal-ovn-22.03,NEW,2022-09-28 14:37:55.000000000,2022-10-13 06:48:23.000000000,,368,6,0,859624,7bc52d2f9d43aa476e5941491146a36ac14af04c,6,2,2,8,13686,Frode Nordahl,fnordahl,"Extend testing to cover focal-ovn-22.03
+
+Add ovn-22.03 job for focal-ussuri and focal-victoria.
+
+Use `local-charm-overlay.yaml.j2` instead of manually
+maintaining symlinks to `src/tests/bundles/overlays/ha.j2.
+
+Change-Id: Ic4db92fa04bc3ffb425bd67dd0c90b76ff09a45e
+"
+openstack%2Fcharm-neutron-api-plugin-ovn~stable%2Fussuri~I80c5d6140ffa61c1389352630513623983a80edf,openstack/charm-neutron-api-plugin-ovn,stable/ussuri,focal-ovn-source-22.03-stable/ussuri,I80c5d6140ffa61c1389352630513623983a80edf,Extend testing to cover focal-ovn-22.03,NEW,2022-09-26 12:02:34.000000000,2022-10-13 06:42:18.000000000,,190,8,6,859279,dd7ab7906135c0a06cc0a128291a54b8ff4883b7,40,3,12,10,13686,Frode Nordahl,fnordahl,"Extend testing to cover focal-ovn-22.03
+
+Add ovn-22.03 job for focal-ussuri.
+
+Use `local-charm-overlay.yaml.j2` instead of manually
+maintaining symlinks to `src/tests/bundles/overlays/ha.j2.
+
+Change-Id: I80c5d6140ffa61c1389352630513623983a80edf
+"
+openstack%2Ftripleo-heat-templates~master~I9d13fccb5d4d265cfc04df5ccb287b6215e7d0b2,openstack/tripleo-heat-templates,master,tripleo_snmpd,I9d13fccb5d4d265cfc04df5ccb287b6215e7d0b2,Deprecate snmp service,MERGED,2022-08-07 15:29:39.000000000,2022-10-13 06:02:44.000000000,2022-10-13 06:01:17.000000000,94,2,21,852304,31e96b9ce338f15101515d9e6440cfe3a46f3190,60,9,9,5,9816,Takashi Kajinami,kajinamit,"Deprecate snmp service
+
+The snmp service was first introduced so that undercloud ceilometer can
+gather metrics via the snmpd daemon in overcloud nodes.
+
+However Telemetry services are already removed from undercloud, and
+this requirement is no longer valid.
+
+This deprecates the snmp service support so that we can remove it in
+a future release. This also introduces upgrade tasks to clean up
+the service because it has been enabled by default.
+
+Note that the net-snmp package will be removed from the overcloud image,
+and using the disabled snmpd service requires adding snmpd package into
+the overcloud image or setting up a package repository.
+
+Change-Id: I9d13fccb5d4d265cfc04df5ccb287b6215e7d0b2
+"
+openstack%2Fcharm-neutron-api-plugin-ovn~stable%2Fxena~I0cfc68bacd4ac417fb598e0c9a461f4b7869d4b3,openstack/charm-neutron-api-plugin-ovn,stable/xena,focal-ovn-source-22.03-stable/xena,I0cfc68bacd4ac417fb598e0c9a461f4b7869d4b3,Extend testing to cover focal-ovn-22.03,NEW,2022-09-28 14:37:23.000000000,2022-10-13 05:45:09.000000000,,364,4,0,859621,2b03d62e8050feef73dec9fb0826c4486ef716bd,6,2,2,8,13686,Frode Nordahl,fnordahl,"Extend testing to cover focal-ovn-22.03
+
+Add ovn-22.03 job for focal-wallaby and focal-xena.
+
+Use `local-charm-overlay.yaml.j2` instead of manually
+maintaining symlinks to `src/tests/bundles/overlays/ha.j2.
+
+Change-Id: I0cfc68bacd4ac417fb598e0c9a461f4b7869d4b3
+"
+openstack%2Fhorizon~master~I076a97a6f943ab74a2db8bc5179a7db194009db4,openstack/horizon,master,bug/1827120,I076a97a6f943ab74a2db8bc5179a7db194009db4,Fix app cred create without project_id for domain admins,MERGED,2022-09-07 17:34:15.000000000,2022-10-13 05:36:12.000000000,2022-10-13 05:35:07.000000000,58,3,24,856308,6eeaf9852478e25ff77c21117664ac126c5357a4,67,6,5,2,14567,Rodrigo Barbieri,ganso,"Fix app cred create without project_id for domain admins
+
+Users with domain admin role that are not cloud admins are
+not able to get scoped context and create an application
+credential with project_id, so this change forces the
+scoped context in that particular case.
+
+Closes-bug: #1827120
+Change-Id: I076a97a6f943ab74a2db8bc5179a7db194009db4
+"
+openstack%2Ftripleo-heat-templates~master~I351a8f130702819f932415fd7c64f06cd2b6fc29,openstack/tripleo-heat-templates,master,,I351a8f130702819f932415fd7c64f06cd2b6fc29,OpendaylightApiNetwork is no longer used,ABANDONED,2022-10-13 05:18:46.000000000,2022-10-13 05:20:13.000000000,,0,1,0,861135,5cb13684836e6d79229cf9aae7068d7886f87bbc,2,0,1,1,9816,Takashi Kajinami,kajinamit,"OpendaylightApiNetwork is no longer used
+
+... since OpenDaylight support was removed by [1].
+
+[1] 9c3638b8a13ea08a1bab95c9cd6ab335b729b6b3
+
+Change-Id: I351a8f130702819f932415fd7c64f06cd2b6fc29
+"
+openstack%2Ftripleo-ci~master~I6db58419b74c38998edbb9752d01a64072bb5df3,openstack/tripleo-ci,master,zed-provider-gate,I6db58419b74c38998edbb9752d01a64072bb5df3,Replace wallaby with zed content provider gate,MERGED,2022-10-12 21:46:16.000000000,2022-10-13 04:44:37.000000000,2022-10-13 04:44:37.000000000,1,1,1,861113,a60e1b9ca1a0413a3258cf9b93671c52fc2ad928,9,7,2,1,9976,Ronelle Landy,rlandy,"Replace wallaby with zed content provider gate
+
+https://review.opendev.org/c/openstack/tripleo-ci/+/861047
+added the zed content provider in the check line.
+This caused a freeze graph issue as it was not added in
+the gate.
+
+This patch adds the zed content provider to the updates
+templates gate for master.
+
+Closes-Bug: #1992699
+Change-Id: I6db58419b74c38998edbb9752d01a64072bb5df3
+"
+openstack%2Ftripleo-common~master~Ie1d6553ca3936bec1af22e204215e06bba7caef2,openstack/tripleo-common,master,,Ie1d6553ca3936bec1af22e204215e06bba7caef2,Remove unused argument of generate_passwords,NEW,2022-09-12 07:40:53.000000000,2022-10-13 04:34:44.000000000,,1,2,1,857002,6ed7e234edb31ba6e2d2500ad61cfd9f12bbdb1c,7,3,2,1,9816,Takashi Kajinami,kajinamit,"Remove unused argument of generate_passwords
+
+The 'swift' argument is no longer used since swift was removed from
+undercloud.
+
+Depends-on: https://review.opendev.org/857000
+Change-Id: Ie1d6553ca3936bec1af22e204215e06bba7caef2
+"
+openstack%2Fneutron~stable%2Fqueens~Ib3945d294601b35f9b268c25841cd284b52c4ca3,openstack/neutron,stable/queens,bug/1973162,Ib3945d294601b35f9b268c25841cd284b52c4ca3,[L3HA] Don't update HA router's ports if router isn't active on agents,NEW,2022-10-11 03:41:22.000000000,2022-10-13 03:04:56.000000000,,19,10,2,860901,5720994cdcb33e14982822e8c5c651ae7aab5451,8,1,1,2,9531,liuyulong,LIU-Yulong,"[L3HA] Don't update HA router's ports if router isn't active on agents
+
+In case when HA router isn't active on any L3 agent,
+_ensure_host_set_on_port method shouldn't try to update port's host to
+the host from which there was an rpc message sent, as this can be host
+on which router is in the ""standby"" mode.
+This method should only update port's host to the router's ""active_host""
+if there is such active_host found already.
+
+Depends-On: https://review.opendev.org/c/openstack/requirements/+/841489
+
+Closes-Bug: #1973162
+Closes-Bug: #1942190
+Change-Id: Ib3945d294601b35f9b268c25841cd284b52c4ca3
+(cherry picked from commit cd8bf18150c8b0a4bc64979d800726483d9cdb6e)
+"
+openstack%2Fneutron~stable%2Frocky~Ib3945d294601b35f9b268c25841cd284b52c4ca3,openstack/neutron,stable/rocky,bug/1973162,Ib3945d294601b35f9b268c25841cd284b52c4ca3,[L3HA] Don't update HA router's ports if router isn't active on agents,NEW,2022-10-11 03:41:11.000000000,2022-10-13 03:02:35.000000000,,19,10,2,860900,7925eab522e60478dd5ebb66c9fc6a453d779410,8,1,1,2,9531,liuyulong,LIU-Yulong,"[L3HA] Don't update HA router's ports if router isn't active on agents
+
+In case when HA router isn't active on any L3 agent,
+_ensure_host_set_on_port method shouldn't try to update port's host to
+the host from which there was an rpc message sent, as this can be host
+on which router is in the ""standby"" mode.
+This method should only update port's host to the router's ""active_host""
+if there is such active_host found already.
+
+Depends-On: https://review.opendev.org/c/openstack/requirements/+/841489
+
+Closes-Bug: #1973162
+Closes-Bug: #1942190
+Change-Id: Ib3945d294601b35f9b268c25841cd284b52c4ca3
+(cherry picked from commit cd8bf18150c8b0a4bc64979d800726483d9cdb6e)
+"
+openstack%2Fpuppet-openstack_spec_helper~stable%2Fussuri~I462c3c4227bd464b5ba57113b9d7da03dd829616,openstack/puppet-openstack_spec_helper,stable/ussuri,,I462c3c4227bd464b5ba57113b9d7da03dd829616,Remove etcdv3 library,MERGED,2022-09-28 01:01:04.000000000,2022-10-13 02:20:47.000000000,2022-10-13 02:20:47.000000000,2,1,2,859496,573688b1422af07b7877e660039b51dddac1dd7b,15,4,2,2,9816,Takashi Kajinami,kajinamit,"Remove etcdv3 library
+
+The library was introduced so that we can add etcd support to
+openstacklib[1] but the feature has never been implemented actually.
+
+This removes the library because it has not really used and having more
+libraries is likely to cause additional compatibility issue in stable
+branches.
+
+[1] bcd38a6543738d4fdbd3657f97855fc1fd8a361b
+
+Backport note:
+This stable/ussuri backport includes the additional pin of bundler
+which was already done in stable/victoria and later by [2].
+
+[2] a75cf9b6b18134cd6b1285740e2941bb228e053b
+
+Depends-on: https://review.opendev.org/861016
+Change-Id: I462c3c4227bd464b5ba57113b9d7da03dd829616
+(cherry picked from commit cce6ff5fc236f66aae19bd5b1561681404f34f62)
+(cherry picked from commit ff799d5325942d78d8cd6aac1e76c275b3ff0562)
+(cherry picked from commit 7a97f712c7e761b41d8d4d0ca77ed63bf2dc1baf)
+(cherry picked from commit 9c0bde0f5cef6bd68b3c834c8838526dfed33bbc)
+(cherry picked from commit b315e5af1f0c3d41793e01513d516fc924d795d9)
+"
+openstack%2Fzaqar~stable%2Fyoga~I93666cf54da8d40c174c3c9f814fcab866965f01,openstack/zaqar,stable/yoga,create-yoga,I93666cf54da8d40c174c3c9f814fcab866965f01,Update TOX_CONSTRAINTS_FILE for stable/yoga,NEW,2022-03-11 11:54:55.000000000,2022-10-13 01:17:20.000000000,,4,4,7,833322,bd65c757c3356b7649bd04492769f25641a1f12c,15,3,1,1,22816,OpenStack Release Bot,release,"Update TOX_CONSTRAINTS_FILE for stable/yoga
+
+Update the URL to the upper-constraints file to point to the redirect
+rule on releases.openstack.org so that anyone working on this branch
+will switch to the correct upper-constraints list automatically when
+the requirements repository branches.
+
+Until the requirements repository has as stable/yoga branch, tests will
+continue to use the upper-constraints list on master.
+
+Change-Id: I93666cf54da8d40c174c3c9f814fcab866965f01
+"
+openstack%2Fneutron~master~If1a8e60ccd26da3d75f6ca29ce81bdcee60eeb26,openstack/neutron,master,validation-ssh-key,If1a8e60ccd26da3d75f6ca29ce81bdcee60eeb26,[ovn migration] Use ecsda ssh key instead of rsa,MERGED,2022-09-30 16:03:37.000000000,2022-10-13 01:16:40.000000000,2022-10-13 01:15:17.000000000,4,1,3,860002,de18dd2c2e0c92c705cb393d652bd5891d725ec8,16,3,2,1,34118,Arnau Verdaguer,averdaguer,"[ovn migration] Use ecsda ssh key instead of rsa
+
+Cirros won't work with an rsa key, ensure that the key
+used is an ecsda key.
+
+Change-Id: If1a8e60ccd26da3d75f6ca29ce81bdcee60eeb26
+"
+openstack%2Fironic~stable%2Fwallaby~Idca63219ee0491404bcecdc3ff74160e220d6511,openstack/ironic,stable/wallaby,,Idca63219ee0491404bcecdc3ff74160e220d6511,Stable only: Factor out addition of packaging lib,MERGED,2022-10-04 19:50:38.000000000,2022-10-13 00:55:16.000000000,2022-10-12 21:52:12.000000000,633,3,1,860144,08003c6bdf34ead8c608d319dc8d17f6194147d4,18,3,3,3,10342,Jay Faulkner,JayF,"Stable only: Factor out addition of packaging lib
+
+Adding a new library to a stable branch is against stable policy,
+but we landed the patch anyway. In order to faciliate making a
+release without violating policy against stable versions not
+introducing new requirements, we've imported the relevant needed
+methods from the packaging library locally.
+
+Change-Id: Idca63219ee0491404bcecdc3ff74160e220d6511
+"
+openstack%2Fmetalsmith~stable%2Fzed~Icbcb0f92fc1e4315e81fe9ce0c2f9ce6b39867c2,openstack/metalsmith,stable/zed,sdk-workaround-stable/zed,Icbcb0f92fc1e4315e81fe9ce0c2f9ce6b39867c2,Allow to use Ansible OpenStack Col. 1.x.x with openstacksdk >=0.99.0,MERGED,2022-10-12 08:14:11.000000000,2022-10-12 23:21:29.000000000,2022-10-12 23:20:34.000000000,9,0,2,861050,f586ede5e202f675731655e81e1b5d16a320ff66,9,3,1,1,23851,Riccardo Pittau,elfosardo,"Allow to use Ansible OpenStack Col. 1.x.x with openstacksdk >=0.99.0
+
+Ansible OpenStack collection 1.x.x is not compatible to openstacksdk
+>=0.99.0, only collection series 2.x.x will be. But the latter has
+not been released yet.
+
+This incompatibility only affects modules in Ansible OpenStack
+Collection but not the functions that metalsmith uses. Those
+functions ARE compatible with recent openstacksdk releases and
+will most likely not be removed in collection release 2.0.0.
+
+Thus, as a hacky workaround to allow using Ansible OpenStack
+collection 1.x.x with openstacksdk >=0.99.0 this patch removes
+the MAXIMUM_SDK_VERSION.
+
+Change-Id: Icbcb0f92fc1e4315e81fe9ce0c2f9ce6b39867c2
+(cherry picked from commit ee008f7a79f079df98ec4a8556b3a067f4eb348a)
+"
+openstack%2Fswift~stable%2Fyoga~I4d807f3b3649a45dbb2166bb8e911c45fb9cb701,openstack/swift,stable/yoga,,I4d807f3b3649a45dbb2166bb8e911c45fb9cb701,CI: Add nslookup_target to FIPS jobs,MERGED,2022-09-19 09:44:28.000000000,2022-10-12 22:32:17.000000000,2022-10-12 22:30:05.000000000,3,0,3,858277,3e6ce930b6ce00a29ff206c4d323e2f3ea51d2b2,14,2,1,1,34120,Andre Aranha,afariasa,"CI: Add nslookup_target to FIPS jobs
+
+At some point, this became a required parameter.
+
+Change-Id: I4d807f3b3649a45dbb2166bb8e911c45fb9cb701
+Related-Change: Iebf474c9351e4246d7ab2072b48a50e93dbf0b94
+"
+openstack%2Fansible-collections-openstack~master~Id636bc5de1acb59ad8587cd6c7181e022097cfe7,openstack/ansible-collections-openstack,master,server-volume,Id636bc5de1acb59ad8587cd6c7181e022097cfe7,Refactor server_volume to be compatible with openstacksdk>=0.99.0,MERGED,2022-09-21 23:11:21.000000000,2022-10-12 22:09:41.000000000,2022-10-12 22:09:41.000000000,262,57,2,858834,ed36d82a0c60a841d2f30c61a50d60531481b2cc,28,3,10,5,34208,Rafael Castillo,rcastill,"Refactor server_volume to be compatible with openstacksdk>=0.99.0
+
+Change-Id: Id636bc5de1acb59ad8587cd6c7181e022097cfe7
+"
+openstack%2Fdesignate-tempest-plugin~master~I258b1135dedb00d18a143e23a98dd0e2f284b8c6,openstack/designate-tempest-plugin,master,fix_blacklist,I258b1135dedb00d18a143e23a98dd0e2f284b8c6,Fix - test_admin_creates_zone_matches_blacklist_name_or_regex,MERGED,2022-08-21 11:29:21.000000000,2022-10-12 21:44:21.000000000,2022-10-02 10:17:29.000000000,30,14,2,853873,25d20e6650f4fc84e9ea384cf50619746df2984b,11,9,1,1,28609,Arkady Shtempler,ashtempl,"Fix - test_admin_creates_zone_matches_blacklist_name_or_regex
+
+Scenario:
+1) Create two blacklist patterns: by regex and by exact name
+2) Ensure Primary fails to create a zone if its name is in blacklist
+3) Ensure Admin is able to create a zone even if its name is in blacklist
+4) Ensure Primary fails to create a zone if its name matches blacklist regex
+5) Ensure Admin is able to create a zone even if its name matches blacklist regex
+
+Change-Id: I258b1135dedb00d18a143e23a98dd0e2f284b8c6
+"
+openstack%2Fcharm-cinder-ceph~master~I177aa30a86fa26d8bf9d4b2c543637c1c42124be,openstack/charm-cinder-ceph,master,improve-readme,I177aa30a86fa26d8bf9d4b2c543637c1c42124be,Apply README template,NEW,2022-09-14 00:16:21.000000000,2022-10-12 21:02:31.000000000,,22,44,5,857527,eeb4c91c9f45e2ed2330a3d48e84b388f1a470d7,15,3,2,1,30561,Peter Matulis,pmatulis,"Apply README template
+
+Change-Id: I177aa30a86fa26d8bf9d4b2c543637c1c42124be
+"
+openstack%2Frequirements~master~Ic857b96ac940d76b5e908fa23c5a412515ea9799,openstack/requirements,master,add-antelope-python-jobtemplates,Ic857b96ac940d76b5e908fa23c5a412515ea9799,Switch to 2023.1 Python3 unit tests and generic template name,MERGED,2022-09-30 12:39:59.000000000,2022-10-12 20:56:17.000000000,2022-10-12 20:54:09.000000000,1,1,2,859981,ed729a3fdc3e61696b29ed913c46340dee40be1e,11,3,1,1,22816,OpenStack Release Bot,release,"Switch to 2023.1 Python3 unit tests and generic template name
+
+This is an automatically generated patch to ensure unit testing
+is in place for all the of the tested runtimes for antelope. Also,
+updating the template name to generic one.
+
+See also the PTI in governance [1].
+
+[1]: https://governance.openstack.org/tc/reference/project-testing-interface.html
+
+Change-Id: Ic857b96ac940d76b5e908fa23c5a412515ea9799
+"
+openstack%2Fdesignate~master~I196eca62b417cf01b738303442d83a8c0d820e54,openstack/designate,master,,I196eca62b417cf01b738303442d83a8c0d820e54,Increase minimum acceptable test coverage,MERGED,2022-10-08 19:04:58.000000000,2022-10-12 20:46:21.000000000,2022-10-12 20:45:12.000000000,1,1,1,860771,d54c10fee257531bf3e2c481c98b6b0a96ecd209,8,3,1,1,22623,Erik Olof Gunnar Andersson,eoandersson,"Increase minimum acceptable test coverage
+
+Change-Id: I196eca62b417cf01b738303442d83a8c0d820e54
+"
+openstack%2Ftripleo-heat-templates~stable%2Fwallaby~I4bbbfc08682cc6f8a67a9ded400726d93bff8436,openstack/tripleo-heat-templates,stable/wallaby,,I4bbbfc08682cc6f8a67a9ded400726d93bff8436,Fix permissions for nova/libvirt VNC certs/keys,MERGED,2022-08-30 11:22:53.000000000,2022-10-12 20:45:26.000000000,2022-10-12 20:45:26.000000000,36,44,19,855187,ac3504cda5a89e307e0ad59b9dbed7b9babd0d25,76,8,4,1,6926,Bogdan Dobrelya,bogdando,"Fix permissions for nova/libvirt VNC certs/keys
+
+After certmonger finishes its job for certificates preparations, nova
+cannot access the keys owned by root and with permissions set
+to 0600, or 0640. Add missing run_after command to fix permissions for
+libvirt VNC cert/key. Target it for the qemu group instead of nova as
+that's QEMU that needs to acess it.
+
+Apply the same run_after script for libvirt-vnc-client-cert and
+novnc-proxy certificates. For that, rework Heat templating for
+ansible loop and replace conditions/templates with ansible vars.
+
+Also fix key_size_novavnc_override_set condition which was ignored.
+
+Related: rhbz#2118408
+
+Signed-off-by: Bogdan Dobrelya <bdobreli@redhat.com>
+Change-Id: I4bbbfc08682cc6f8a67a9ded400726d93bff8436
+(cherry picked from commit 3561a7caaf86f427c9daab58a5e28ac51b13d390)
+"
+openstack%2Fcharm-nova-compute-nvidia-vgpu~master~I93198488109b2c32bdc24ec634f406091ce27603,openstack/charm-nova-compute-nvidia-vgpu,master,fix-gitreview,I93198488109b2c32bdc24ec634f406091ce27603,Fix the .gitreview file project key,NEW,2022-10-12 19:16:21.000000000,2022-10-12 20:31:58.000000000,,1,1,0,861106,b6afe66ca4bade4148cdc8fb5c4460ac09bfbc0e,3,2,1,1,20870,Alex Kavanagh,ajkavanagh,"Fix the .gitreview file project key
+
+This patch ensures that the project key in the .gitreview file has the
+`.git` suffix. This is used by various tools, and so needs to be
+present.
+
+Change-Id: I93198488109b2c32bdc24ec634f406091ce27603
+"
+openstack%2Ftempest~master~I613357e8c9cc6d382caaf7291e150448148f32dd,openstack/tempest,master,image-behavior,I613357e8c9cc6d382caaf7291e150448148f32dd,Add a boot-snapshot-boot test,MERGED,2022-10-05 22:06:29.000000000,2022-10-12 19:45:59.000000000,2022-10-12 19:44:54.000000000,24,0,17,860502,6714b65a210c5851591dfd5dfe9ad1cbf1fa49e9,29,4,7,1,4393,Dan Smith,danms,"Add a boot-snapshot-boot test
+
+It occurred to me that we do not (AFAIK) have a test that shows that
+we can boot servers from snapshots we create right after we create
+them. This adds one.
+
+Change-Id: I613357e8c9cc6d382caaf7291e150448148f32dd
+"
+openstack%2Fgovernance~master~Ib3893bc1fafd8626465de4f9d9ff467404bea97c,openstack/governance,master,formal-vote,Ib3893bc1fafd8626465de4f9d9ff467404bea97c,[goal] Select Ubuntu 22.04 for CI/CD as current goal,MERGED,2022-09-30 23:13:19.000000000,2022-10-12 19:43:27.000000000,2022-10-12 19:22:27.000000000,5,0,1,860040,8724efb27040dd27f7b2ac5f9d82f8cddb470ef2,15,7,1,2,28619,Dmitriy Rabotyagov,noonedeadpunk,"[goal] Select Ubuntu 22.04 for CI/CD as current goal
+
+Goal implementation should be finished during 2023.1 development cycle.
+In order to start progressing on it we should select goal for
+implementation first.
+
+Change-Id: Ib3893bc1fafd8626465de4f9d9ff467404bea97c
+"
+openstack%2Fgovernance~master~I2161a578e8e6825fe2d400d5ac814e0295dd203e,openstack/governance,master,formal-vote,I2161a578e8e6825fe2d400d5ac814e0295dd203e,Add slaweq nomination as vice-chair,MERGED,2022-10-05 09:02:24.000000000,2022-10-12 19:14:50.000000000,2022-10-12 19:13:46.000000000,1,1,2,860352,70aa086aaaeedc0d7d8cc546d663473aaaf749e8,11,5,1,1,11975,Slawek Kaplonski,slaweq,"Add slaweq nomination as vice-chair
+
+I would like to nominate myself as vice-chair of the
+Technical Committee for the 2023.1 cycle.
+
+I was vice-chair in the Zed cycle already and I want to continue
+helping our chair in all day-to-day duties.
+
+Thanks for considering my nomination.
+
+Change-Id: I2161a578e8e6825fe2d400d5ac814e0295dd203e
+"
+openstack%2Fopenstack-helm~master~I056b397444e8dc5d4b256a6fe03c23b53a0c0fff,openstack/openstack-helm,master,remove-list-agent,I056b397444e8dc5d4b256a6fe03c23b53a0c0fff,Remove list agents rally test,MERGED,2022-07-07 04:38:03.000000000,2022-10-12 19:04:55.000000000,2022-10-12 19:03:43.000000000,2,27,1,848922,d044c0cf3ddf27c0ad4a67989d35647157be4bcd,24,5,4,6,21420,Gage Hugo,ghugo,"Remove list agents rally test
+
+The list-agents rally test for nova was removed in wallaby, but it
+was also only supported by the XenAPI hypervisor driver. We have
+specifically overriden it for newer releases of openstack, but
+with its removal and the specific driver usage, there's no real
+need to keep it around.
+
+Change-Id: I056b397444e8dc5d4b256a6fe03c23b53a0c0fff
+"
+openstack%2Fopenstack-helm-infra~master~I95aecec5474e587d01d7e8812ec662fbf46ca634,openstack/openstack-helm-infra,master,update-ingress-images,I95aecec5474e587d01d7e8812ec662fbf46ca634,Update neutron images to xena,MERGED,2022-10-04 17:08:30.000000000,2022-10-12 18:56:30.000000000,2022-10-12 18:55:28.000000000,4,3,0,860289,0e913fa97a6d88b06cae62c7df1b078534481ef9,9,3,1,3,21420,Gage Hugo,ghugo,"Update neutron images to xena
+
+A couple of the ingress images are still pointing to the older
+stein release of neutron. This change updates them to use the
+updated xena release.
+
+Change-Id: I95aecec5474e587d01d7e8812ec662fbf46ca634
+"
+openstack%2Fopenstack-helm-infra~master~Ic33c1b1ca0110bdd87705ca5b891823f16b303f8,openstack/openstack-helm-infra,master,update-minikube,Ic33c1b1ca0110bdd87705ca5b891823f16b303f8,Bump minikube and k8s versions,MERGED,2022-10-04 17:11:56.000000000,2022-10-12 18:51:31.000000000,2022-10-12 18:50:26.000000000,2,2,0,860290,c60bdf744dc6ca8c71c386f8f997a6d532e12c94,19,3,6,1,21420,Gage Hugo,ghugo,"Bump minikube and k8s versions
+
+This change modifies the versions of both minikube
+and kubernetes that we deploy for OSH.
+
+minikube is now 1.25.2
+kubernetes is 1.23.12
+
+Change-Id: Ic33c1b1ca0110bdd87705ca5b891823f16b303f8
+"
+openstack%2Fironic~bugfix%2F18.1~Idca63219ee0491404bcecdc3ff74160e220d6511,openstack/ironic,bugfix/18.1,,Idca63219ee0491404bcecdc3ff74160e220d6511,Stable only: Factor out addition of packaging lib,MERGED,2022-10-04 19:50:25.000000000,2022-10-12 18:49:14.000000000,2022-10-12 18:45:32.000000000,633,3,0,860143,c7161b91a0e790115abcf95d3affed100496e02d,11,3,1,3,10342,Jay Faulkner,JayF,"Stable only: Factor out addition of packaging lib
+
+Adding a new library to a stable branch is against stable policy,
+but we landed the patch anyway. In order to faciliate making a
+release without violating policy against stable versions not
+introducing new requirements, we've imported the relevant needed
+methods from the packaging library locally.
+
+Change-Id: Idca63219ee0491404bcecdc3ff74160e220d6511
+"
+openstack%2Fironic-inspector~stable%2Fussuri~I8389391f0f4ff270460341f42729cd01d01e2172,openstack/ironic-inspector,stable/ussuri,,I8389391f0f4ff270460341f42729cd01d01e2172,CI: Zuul no longer respects queue,MERGED,2022-10-03 21:48:20.000000000,2022-10-12 18:48:36.000000000,2022-10-12 18:45:30.000000000,2,3,2,860165,844021bc5e09cbf4d5d2b736f90179a42b3a3a83,13,2,2,2,10342,Jay Faulkner,JayF,"CI: Zuul no longer respects queue
+
+Also fix mysql grant syntax which was first observed as
+necessary in I4c0469628e82e86b4023a9b011d09f20f9b66aac
+due to changes in the underlying version of MySQL.
+
+Change-Id: I8389391f0f4ff270460341f42729cd01d01e2172
+"
+openstack%2Fironic-inspector~stable%2Fvictoria~I8389391f0f4ff270460341f42729cd01d01e2172,openstack/ironic-inspector,stable/victoria,,I8389391f0f4ff270460341f42729cd01d01e2172,CI: Various fixes,MERGED,2022-10-03 21:48:07.000000000,2022-10-12 18:47:23.000000000,2022-10-12 18:45:28.000000000,0,3,1,860164,a8128e05a0d00b2600d018694ac0400b1e273d4d,10,2,2,1,10342,Jay Faulkner,JayF,"CI: Various fixes
+
+- Zuul no longer respects queue
+- Grenade job is broken, removing as we don't even have one on
+  victoria ironic anymore
+
+Change-Id: I8389391f0f4ff270460341f42729cd01d01e2172
+"
+openstack%2Fcharm-ceph-rbd-mirror~master~I18054d881ca08bfb0ec3f50c1746e04b3b50302a,openstack/charm-ceph-rbd-mirror,master,batch-update,I18054d881ca08bfb0ec3f50c1746e04b3b50302a,Build separately for each supported series and use binary builds,NEW,2022-09-20 18:11:48.000000000,2022-10-12 18:32:37.000000000,,53,60,2,858565,d92143e3815bba7571c782dbfde6eb23d95e1547,26,2,11,9,20634,Chris MacNaughton,Chris.MacNaughton,"Build separately for each supported series and use binary builds
+
+Change-Id: I18054d881ca08bfb0ec3f50c1746e04b3b50302a
+func-test-pr: https://github.com/openstack-charmers/zaza-openstack-tests/pull/809
+"
+openstack%2Ftosca-parser~master~Iec76fff60bb0fb6107f61f371b97492eb90ff42a,openstack/tosca-parser,master,,Iec76fff60bb0fb6107f61f371b97492eb90ff42a,Use py3 as the default runtime for tox,MERGED,2022-09-15 00:43:34.000000000,2022-10-12 18:18:07.000000000,2022-10-12 18:17:11.000000000,1,1,2,857618,933da4c7586a4077ff71c485c6b63fd930fab28b,8,3,1,1,35067,wangjiaqi,jiaqi07,"Use py3 as the default runtime for tox
+
+Moving on py3 as the default runtime for tox to avoid to update
+this at each new cycle.
+
+Change-Id: Iec76fff60bb0fb6107f61f371b97492eb90ff42a
+"
+openstack%2Fopenstack-helm~master~I02e91575f67d4c4ca450aecf3a2c6caea7c4a906,openstack/openstack-helm,master,update-readme,I02e91575f67d4c4ca450aecf3a2c6caea7c4a906,Update README details,MERGED,2022-10-04 14:15:54.000000000,2022-10-12 18:11:03.000000000,2022-10-12 18:09:31.000000000,4,4,0,860262,15dbc969405bc515351cbe67d4e193b2d4030f1f,9,3,1,1,21420,Gage Hugo,ghugo,"Update README details
+
+The README has been poorly updated lately and still contains the
+old meeting channel location in IRC plus outdated info about how
+we currently run our AIO.
+
+This change updates it to point to the correct IRC channel and
+to correct how our AIO currently runs.
+
+Change-Id: I02e91575f67d4c4ca450aecf3a2c6caea7c4a906
+"
+openstack%2Ftempest~master~I68ea842132d29efc6ebcaa7e19c2ba2ffe7019a6,openstack/tempest,master,add_helper,I68ea842132d29efc6ebcaa7e19c2ba2ffe7019a6,Add a helper method for creating a snapshot,ABANDONED,2022-10-12 13:48:35.000000000,2022-10-12 17:51:57.000000000,,11,17,7,861085,bf48557570a259a80024e33066cb6d3e6d74a978,5,2,2,1,30742,Soniya Murlidhar Vyas,svyas,"Add a helper method for creating a snapshot
+
+We are repeatedly trying to create a snap-shot from
+the server throught test_images.py. Hence, this
+change can save us with repetition
+
+Change-Id: I68ea842132d29efc6ebcaa7e19c2ba2ffe7019a6
+"
+openstack%2Fironic-python-agent-builder~stable%2Fwallaby~I12950733bfe54cae62d299b4c5987449d551857a,openstack/ironic-python-agent-builder,stable/wallaby,dhcp-all-interfaces-stable/xena-stable/wallaby,I12950733bfe54cae62d299b4c5987449d551857a,dhcp-all-interfaces: let NetworkManager doit.,MERGED,2022-10-05 14:07:25.000000000,2022-10-12 17:26:14.000000000,2022-10-12 17:23:48.000000000,18,0,2,860433,e8b5115089c0da1789e8f0cc6c0d46268b00577c,10,4,1,2,11655,Julia Kreger,jkreger,"dhcp-all-interfaces: let NetworkManager doit.
+
+Override the default for DIB_DHCP_NETWORK_MANAGER_AUTO
+to `true` on RHEL and CentOS release 8 and later.
+
+The dhcp-all-interfaces element is configured to only
+apply NetworkManager configuration. The service:
+dhcp-all-interfaces will not be enabled. Not enabling the
+service allows NetworkManager to do the interface auto-
+configuration. In release 8 and later it should do this
+just as good, or even better, compared to the
+dhcp-all-interfaces.sh script.
+
+Depends-On: Id6f8d6aaaf52a78175bb6c065ec88274c364834e
+Change-Id: I12950733bfe54cae62d299b4c5987449d551857a
+(cherry picked from commit bdb387bb84e0bbb3f7de79814c39fa0d42d52908)
+"
 openstack%2Ftripleo-ci~master~I70a4ce03b950038dd0a9b383313bc7b505644329,openstack/tripleo-ci,master,oooci_zed,I70a4ce03b950038dd0a9b383313bc7b505644329,Adds zed into previous_release_from and fix master upgrades,MERGED,2022-10-12 09:04:43.000000000,2022-10-12 17:24:34.000000000,2022-10-12 17:24:34.000000000,3,3,6,861047,d281e8e2ccf917e972a119ec3ab800dcdaffe707,18,8,2,2,8449,Marios Andreou,marios,"Adds zed into previous_release_from and fix master upgrades
 
 We added emit release support with [1] but forgot this case.
@@ -1045,19 +1446,6 @@ openstack%2Fkolla-ansible~stable%2Fyoga~I12c451077114b77b11810f25eb5b6187cdf08ad
 Closes-Bug: #1990819
 Change-Id: I12c451077114b77b11810f25eb5b6187cdf08ad9
 (cherry picked from commit 5c55583b047bf6873108ccb821dd33efacbff408)
-"
-openstack%2Fironic-inspector~bugfix%2F10.9~Ia6d512ff2ae417bab938cb095fbb0884d195010a,openstack/ironic-inspector,bugfix/10.9,autocommit-bugfix/10.9,Ia6d512ff2ae417bab938cb095fbb0884d195010a,Fix compatibility with oslo.db 12.1.0,NEW,2022-09-08 16:46:34.000000000,2022-10-11 22:17:15.000000000,,10,3,1,856506,04d86be43896aace36f8d62cc7102dbd17f92d96,4,2,1,3,10239,Dmitry Tantsur,dtantsur,"Fix compatibility with oslo.db 12.1.0
-
-oslo.db 12.1.0 has changed the default value for the 'autocommit'
-parameter of 'LegacyEngineFacade' from 'True' to 'False'. This is a
-necessary step to ensure compatibility with SQLAlchemy 2.0. However, we
-are currently relying on the autocommit behavior and need changes to
-explicitly manage sessions. Until that happens, we need to override the
-default.
-
-Change-Id: Ia6d512ff2ae417bab938cb095fbb0884d195010a
-Co-authored-by: Stephen Finucane <stephenfin@redhat.com>
-(cherry picked from commit 493cee3531d59c32a99ce3534d0c07539c06be27)
 "
 openstack%2Ftripleo-heat-templates~master~I73daef9e040ad4dc42287ea97b06cb56fd5b5041,openstack/tripleo-heat-templates,master,cleanup/iptables,I73daef9e040ad4dc42287ea97b06cb56fd5b5041,Modify existing notes related to the firewall,MERGED,2022-10-06 06:27:15.000000000,2022-10-11 21:59:52.000000000,2022-10-11 21:58:53.000000000,13,16,8,860527,f14174d353202a1942a4a64b2a0a4ca35dc0a438,18,5,4,3,9816,Takashi Kajinami,kajinamit,"Modify existing notes related to the firewall
 
@@ -4846,349 +5234,4 @@ openstack%2Ftripleo-common~master~I88fb7c66f75ae5571f69af1472bc6e173a4775e8,open
 Removing derive parameters code.
 
 Change-Id: I88fb7c66f75ae5571f69af1472bc6e173a4775e8
-"
-openstack%2Ftripleo-ansible~master~Iface80568fe3f9db3fa9fbe859eedf73f861e55b,openstack/tripleo-ansible,master,derive-parameters-cleanup,Iface80568fe3f9db3fa9fbe859eedf73f861e55b,Derive parameters clean up,MERGED,2022-07-27 09:15:26.000000000,2022-10-07 11:32:47.000000000,2022-10-06 03:25:04.000000000,0,27239,17,851198,9fe9f2ee607251716e6673f2cb9d0d346469a25a,41,5,5,46,22865,Jaganathan Palanisamy,jaganathancse,"Derive parameters clean up
-
-This change is to remove derive parameters code
-for OvS DPDK, SRIOV and HCI Parameters.
-
-Change-Id: Iface80568fe3f9db3fa9fbe859eedf73f861e55b
-"
-openstack%2Fkolla-ansible~master~I48b115e46dcd39882385f89626b048d6d69b0a0c,openstack/kolla-ansible,master,stop-showing-image-locations,I48b115e46dcd39882385f89626b048d6d69b0a0c,Stop showing image locations,ABANDONED,2022-10-07 11:31:26.000000000,2022-10-07 11:32:34.000000000,,17,4,0,860677,4d5e314c39178c27519f1c872efd4fb5cf76510f,2,0,1,2,30491,Radosław Piliszek,yoctozepto,"Stop showing image locations
-
-This is generally considered insecure because it may reveal
-sensitive data [1].
-Furthermore, it happens that the default Ceph perms cause fatal
-ERRORs with this setting:
-1) when Glance wants to remove an image, it cannot list children
-because Cinder or Nova might have created a linked volume clone
-behind the scenes and it is put in another pool (volumes/vms)
-which Glance cannot normally access;
-2) when Nova wants to create an image, it lacks permissions
-to write to the images pool.
-
-Thus, I propose that Kolla Ansible stops setting this by default
-and relies on the working defaults.
-The downside is that this disables optimisations in Cinder and Nova.
-On the other hand, these optimisations have nasty behaviour of
-being linked directly to the original image, preventing its removal.
-
-[1] https://docs.openstack.org/glance/yoga/configuration/glance_api.html#DEFAULT.show_multiple_locations
-
-Change-Id: I48b115e46dcd39882385f89626b048d6d69b0a0c
-"
-openstack%2Fcharm-openstack-dashboard~master~Idc3a9dcfedd7c96ec3c2aaac22a746c9191f5f9c,openstack/charm-openstack-dashboard,master,bug/1983578,Idc3a9dcfedd7c96ec3c2aaac22a746c9191f5f9c,Closes-Bug: #1983578,NEW,2022-10-07 10:37:59.000000000,2022-10-07 11:30:06.000000000,,11,0,0,860673,43d03393af4e7b05844738ee608c8a5ce581b2d3,3,2,1,3,29685,Alexander Litvinov,alitvinov,"Closes-Bug: #1983578
-
-Change-Id: Idc3a9dcfedd7c96ec3c2aaac22a746c9191f5f9c
-"
-openstack%2Ftripleo-heat-templates~stable%2Ftrain~Iedad3472383aec6708af41edfaf400879a5a0d26,openstack/tripleo-heat-templates,stable/train,ovn-migration,Iedad3472383aec6708af41edfaf400879a5a0d26,Neutron: Set br-int as default integration bridge,MERGED,2022-10-06 22:45:04.000000000,2022-10-07 11:28:02.000000000,2022-10-07 11:28:02.000000000,1,0,1,860609,dae1f19d2075b71cf3ce9e3725ccbf3c67d0a014,9,7,1,1,4694,Miguel Lavalle,minsel,"Neutron: Set br-int as default integration bridge
-
-Having the default set is useful for migration from Neutron OVS
-mechanism driver to the OVN mechanism driver. The migration process
-installs OVN configured with temporary br-migration bridge. To avoid
-problems with potential future updates we had to call ""overcloud deploy""
-twice, second time just to re-deploy all things again with br-int. We
-can avoid the second call and speed up the migration process
-significantly just by setting the default in THT.
-
-Conflicts:
-    overcloud-resource-registry-puppet.j2.yaml
-
-Change-Id: Iedad3472383aec6708af41edfaf400879a5a0d26
-Signed-off-by: Jakub Libosvar <libosvar@redhat.com>
-(cherry picked from commit e0835ccd1a9e916ea175b3bec0269ab3cba340ab)
-"
-openstack%2Foctavia~master~I21746515e4ceb0352b4e77708f58873e16d4cdfe,openstack/octavia,master,fix_persistence_granularity,I21746515e4ceb0352b4e77708f58873e16d4cdfe,Fix persistence_granularity default value,NEW,2022-10-04 07:59:50.000000000,2022-10-07 11:22:47.000000000,,47,5,2,860211,dd5d3cca6cd7ec27cd388d7ce4939c9c38af8c83,8,3,3,4,31664,Omer Schwartz,oschwart,"Fix persistence_granularity default value
-
-So far we assiged an ipv4 default value to persistence_granularity when
-we created a UDP pool with session persistence.
-
-This patch adds the condition of ipv6 and assigns its matching netmask
-value.
-
-Story 2009922
-Task 44780
-
-Change-Id: I21746515e4ceb0352b4e77708f58873e16d4cdfe
-"
-openstack%2Fopenstack-ansible~stable%2Fxena~I76b57d0435e418e5e02bc3fa5cd7e82b9ff2f168,openstack/openstack-ansible,stable/xena,bump_osa,I76b57d0435e418e5e02bc3fa5cd7e82b9ff2f168,Bump OpenStack-Ansible Xena,MERGED,2022-09-28 21:27:58.000000000,2022-10-07 11:12:52.000000000,2022-10-07 11:11:26.000000000,34,34,1,859730,5502f685d940b9ac7cd323360c13f7f986c2bbf9,15,4,2,4,28619,Dmitriy Rabotyagov,noonedeadpunk,"Bump OpenStack-Ansible Xena
-
-Change-Id: I76b57d0435e418e5e02bc3fa5cd7e82b9ff2f168
-"
-openstack%2Fneutron~stable%2Fussuri~Ic281dec74a46c95024a6df1db3b1f9ee7d7d1227,openstack/neutron,stable/ussuri,bug/1896816,Ic281dec74a46c95024a6df1db3b1f9ee7d7d1227,Convert OvnDbNotifyHandler rows to frozen rows,MERGED,2022-10-04 12:20:05.000000000,2022-10-07 11:09:29.000000000,2022-10-07 11:08:03.000000000,1,0,1,860248,47a2387595a01e7b8afe9f6b90a5048c93123d15,14,4,2,1,30463,Krzysztof Tomaszewski,labedz,"Convert OvnDbNotifyHandler rows to frozen rows
-
-In I87489596e2ff224431f7e83f43a1725172ee0953, the intent was to
-make sure all event rows were converted to ""frozen"" rows to avoid
-race conditions. Since OnvDbNotifyHandler.notify() does not call
-super(), then it is necessary to do this conversion ourselves.
-
-Related-Bug: #1896816
-Change-Id: Ic281dec74a46c95024a6df1db3b1f9ee7d7d1227
-(cherry picked from commit 27255fce30f570b549b026346fb10b7d0dca9039)
-"
-openstack%2Fopenstack-tempest-skiplist~master~I55c2b7eb781c76adf4e055a00a1ab020751576f2,openstack/openstack-tempest-skiplist,master,copy-release,I55c2b7eb781c76adf4e055a00a1ab020751576f2,Add copy release command,NEW,2022-10-05 09:47:37.000000000,2022-10-07 11:08:48.000000000,,235,0,13,860390,6efec8e5b32538cb7d463c024e984e3dfc46a274,10,4,2,6,8367,Arx Cruz,arxcruz,"Add copy release command
-
-This patch add the copy-release command to tempest-skip cli. This is
-usefull when a new release of openstack is released and we don't need to
-manually add the new release for each test in the skip list.
-
-Change-Id: I55c2b7eb781c76adf4e055a00a1ab020751576f2
-"
-openstack%2Fpython-tripleoclient~master~I9ccf3154e9052df97383d460f0c0f87a5370e7ef,openstack/python-tripleoclient,master,overcloud_db_backup,I9ccf3154e9052df97383d460f0c0f87a5370e7ef,Implement --db-only backups for overcloud,NEW,2022-08-25 13:18:41.000000000,2022-10-07 11:03:12.000000000,,20,0,2,854621,fe36c2bde4d0285edd5842da2d91fef4cb42c3db,8,3,2,1,7130,David Hill,dhill,"Implement --db-only backups for overcloud
-
-This new change allows an operator to take a database backup from
-the first host in the Controller group by using `openstack overcloud
-backup --db-only`
-
-Change-Id: I9ccf3154e9052df97383d460f0c0f87a5370e7ef
-Depends-on: https://review.opendev.org/c/openstack/tripleo-ansible/+/854620
-"
-openstack%2Ftripleo-ansible~master~I141a240aedeff173d64413fd1b75df38f0d5ac7e,openstack/tripleo-ansible,master,overcloud_db_backup,I141a240aedeff173d64413fd1b75df38f0d5ac7e,Add overcloud-db-backup cli playbook,NEW,2022-08-25 13:06:23.000000000,2022-10-07 10:59:49.000000000,,45,0,16,854620,6890d8d0836e4faf2474d5e8dba1cb0407cfb541,26,7,6,1,7130,David Hill,dhill,"Add overcloud-db-backup cli playbook
-
-Add overcloud-db-backup cli playbook
-
-Change-Id: I141a240aedeff173d64413fd1b75df38f0d5ac7e
-"
-openstack%2Fcharm-openstack-dashboard~master~I915eefdd723f0ed7fddcb01b7b39c27b9daea0ee,openstack/charm-openstack-dashboard,master,bug/1983578,I915eefdd723f0ed7fddcb01b7b39c27b9daea0ee,Fix for the bug 1983578,ABANDONED,2022-10-07 07:36:25.000000000,2022-10-07 10:38:28.000000000,,11,0,0,860637,45d4e454b32a98abfeaf72be616d590fb826e71e,4,2,1,3,29685,Alexander Litvinov,alitvinov,"Fix for the bug 1983578
-
-Change-Id: I915eefdd723f0ed7fddcb01b7b39c27b9daea0ee
-"
-openstack%2Fopenstack-ansible-os_tempest~master~I862e1ea4cef840d1903962181bfc8ec3c5a1e903,openstack/openstack-ansible-os_tempest,master,osa/deb_git-core,I862e1ea4cef840d1903962181bfc8ec3c5a1e903,Replace git-core with git for debian,MERGED,2022-10-05 09:06:15.000000000,2022-10-07 10:35:53.000000000,2022-10-07 10:34:51.000000000,1,1,0,860358,c43fc6c9c8aeba25de25131a30e7c1cac617cce1,9,3,1,1,28619,Dmitriy Rabotyagov,noonedeadpunk,"Replace git-core with git for debian
-
-With ansible-core 2.13 it tries to substitude package resolution in apt
-module.
-However git-core is used in Debian as transitional name, but ansible
-tries to select it and provide version, which is not correct behaviour.
-But since git-core is not really valid anyway, we just replace it
-to workaround ansible's imperfectness.
-
-Change-Id: I862e1ea4cef840d1903962181bfc8ec3c5a1e903
-"
-openstack%2Fkolla-ansible~stable%2Fwallaby~I4f5c1bd8be8e23cf6299ca4bdfd79e9d98c9a9eb,openstack/kolla-ansible,stable/wallaby,keystone-oidc-azure-stable/wallaby,I4f5c1bd8be8e23cf6299ca4bdfd79e9d98c9a9eb,Keystone OIDC JWKS fix,MERGED,2022-10-06 19:26:27.000000000,2022-10-07 10:34:20.000000000,2022-10-07 10:33:04.000000000,26,2,0,860469,f5f14cb4a7055addaf37f80d68e805c3e6a4b913,11,3,2,4,34076,Jakub Darmach,darmach,"Keystone OIDC JWKS fix
-
-JWT failed to validate on auth-oidc endpoint used by openstack cli
-with ""could not find key with kid: XX"" error. To fix this we need
-to use jwks provided in ""jwks_uri"" by OIDC metadata endpoint.
-
-Missing ""ServerName"" directive from vhost config causes redirection
-to fail in some cases when external tls is enabled.
-
-  - added ""keystone_federation_oidc_jwks_uri"" variable
-  - added ""OIDCOAuthVerifyJwksUri"" to keystone vhost config
-  - added ""ServerName"" to keystone vhost config
-  - jinja templating additional whitespace trimmed to
-    correct end result indentation and empty newlines
-
-Closes-bug: 1990375
-Change-Id: I4f5c1bd8be8e23cf6299ca4bdfd79e9d98c9a9eb
-(cherry picked from commit 98929761191e265474459a0b73fdbeb07afd2bb4)
-"
-openstack%2Fkolla~master~I88e1e0ca01b2b2effad9515b905cc761fbb5d2d4,openstack/kolla,master,nova-compute-qemu-rbd,I88e1e0ca01b2b2effad9515b905cc761fbb5d2d4,Support qemu block rbd in nova-compute,MERGED,2022-10-04 10:09:44.000000000,2022-10-07 10:27:35.000000000,2022-10-07 10:26:36.000000000,2,0,1,860230,9e92e4c8e494ec345ccce1eff739f18bf9035c9b,19,4,3,1,30491,Radosław Piliszek,yoctozepto,"Support qemu block rbd in nova-compute
-
-This is necessary if using nova-compute with RBD backend (directly,
-not via Cinder) and wishing to make an instance image to Glance
-while (1) following the recommended Ceph permissions which do not
-give Nova write permissions to the images' pool or (2) not using
-RBD with Glance or (3) not revealing what Glance actually uses
-as the backend (hiding locations).
-
-Change-Id: I88e1e0ca01b2b2effad9515b905cc761fbb5d2d4
-"
-openstack%2Fopenstacksdk~master~I95af9b81e6abd51af2a7dd91cae14b56926a869c,openstack/openstacksdk,master,better_tests,I95af9b81e6abd51af2a7dd91cae14b56926a869c,Implement acceptance test job,NEW,2022-10-05 10:27:19.000000000,2022-10-07 10:26:42.000000000,,320,38,0,860399,19fe7e9c0f6caa9d097142af7c74a5cbd7c1ac15,39,1,20,11,27900,Artem Goncharov,gtema,"Implement acceptance test job
-
-Implement acceptance tests. Those jobs will run in the post-review
-pipeline requiring access to secrets containing credentials of friendly
-public clouds to test sdk with them.
-Base job is generating a token from the given credentials and writes
-clouds.yaml file with the token inside instead of password. As a post
-step the token is physically revoked. This is done to prevent potential
-leakage of real credentials from the test jobs/logs.
-
-Since devstack is not a real cloud we do not use zuul secrets.
-
-Change-Id: I95af9b81e6abd51af2a7dd91cae14b56926a869c
-"
-openstack%2Fhorizon~stable%2Fzed~I76a2eb9aaaaf0082ada3d44adfd1bb0b2ec29af0,openstack/horizon,stable/zed,zanata/translations,I76a2eb9aaaaf0082ada3d44adfd1bb0b2ec29af0,Imported Translations from Zanata,MERGED,2022-10-06 03:36:51.000000000,2022-10-07 10:23:28.000000000,2022-10-07 10:22:05.000000000,66,29624,1,860517,34717d905f1e7bde0518deca23b8db7958cfdabe,7,2,1,25,11131,OpenStack Proposal Bot,proposal-bot,"Imported Translations from Zanata
-
-For more information about this automatic import see:
-https://docs.openstack.org/i18n/latest/reviewing-translation-import.html
-
-Change-Id: I76a2eb9aaaaf0082ada3d44adfd1bb0b2ec29af0
-"
-openstack%2Fopenstack-ansible~stable%2Fwallaby~I7fd60171ddeb72aad4f8d95403afed3076bc7093,openstack/openstack-ansible,stable/wallaby,bump_osa,I7fd60171ddeb72aad4f8d95403afed3076bc7093,Bump OpenStack-Ansible Wallaby,MERGED,2022-09-28 21:37:28.000000000,2022-10-07 10:22:49.000000000,2022-10-07 10:20:35.000000000,32,32,1,859731,236e2677f1a7e7862aded23b251a47547270d623,12,4,1,4,28619,Dmitriy Rabotyagov,noonedeadpunk,"Bump OpenStack-Ansible Wallaby
-
-Change-Id: I7fd60171ddeb72aad4f8d95403afed3076bc7093
-"
-openstack%2Fopenstack-ansible~stable%2Fyoga~Ic935494eff54195f3e6a12c1e282def298cc98bd,openstack/openstack-ansible,stable/yoga,bump_osa,Ic935494eff54195f3e6a12c1e282def298cc98bd,Bump OpenStack-Ansible Yoga,MERGED,2022-09-28 21:14:53.000000000,2022-10-07 10:22:36.000000000,2022-10-07 10:20:32.000000000,25,25,0,859728,3f440373c4799119173c1fc76b2f03dec58550f9,8,3,1,5,28619,Dmitriy Rabotyagov,noonedeadpunk,"Bump OpenStack-Ansible Yoga
-
-Change-Id: Ic935494eff54195f3e6a12c1e282def298cc98bd
-"
-openstack%2Fopenstack-ansible-os_cinder~master~Ib0a75886baffec27c8a7d38d729623c7b41216eb,openstack/openstack-ansible-os_cinder,master,osa/deb_git-core,Ib0a75886baffec27c8a7d38d729623c7b41216eb,Replace git-core with git for debian,MERGED,2022-10-05 08:51:27.000000000,2022-10-07 10:13:46.000000000,2022-10-07 10:12:41.000000000,1,1,0,860349,0ebed2408b920f9fd16994fed337da41800784bf,9,3,1,1,28619,Dmitriy Rabotyagov,noonedeadpunk,"Replace git-core with git for debian
-
-With ansible-core 2.13 it tries to substitude package resolution in apt
-module.
-However git-core is used in Debian as transitional name, but ansible
-tries to select it and provide version, which is not correct behaviour.
-But since git-core is not really valid anyway, we just replace it
-to workaround ansible's imperfectness.
-
-Change-Id: Ib0a75886baffec27c8a7d38d729623c7b41216eb
-"
-openstack%2Fhorizon~master~I82f019845a827e4fa0ed81d41265adea4638d2e3,openstack/horizon,master,,I82f019845a827e4fa0ed81d41265adea4638d2e3,DNM: Test older PyYAML,ABANDONED,2022-10-07 00:40:13.000000000,2022-10-07 10:06:32.000000000,,1,1,1,860612,cc73fca21cead65a0be4b539f6fcb50fa73be423,4,1,1,1,5263,Jeremy Stanley,fungi,"DNM: Test older PyYAML
-
-Debian may be releasing with PyYAML 5.4 due to other reverse-depends
-not being compatible with 6 yet, so test with what they have
-currently and see if that's new enough.
-
-Change-Id: I82f019845a827e4fa0ed81d41265adea4638d2e3
-"
-openstack%2Ftripleo-quickstart-extras~master~Ia2d664c89a00f139454a4e7b6322eb3fd383e473,openstack/tripleo-quickstart-extras,master,,Ia2d664c89a00f139454a4e7b6322eb3fd383e473,Remove quotation marks from set statements in standalone_config template,MERGED,2022-10-06 12:01:16.000000000,2022-10-07 09:49:30.000000000,2022-10-06 23:51:44.000000000,2,2,1,860558,db86a9352bec6f982ca10acc2ed6ffb910088d29,9,4,1,1,33080,Mikolaj Ciecierski,mciecierski,"Remove quotation marks from set statements in standalone_config template
-
-Quotation marks should be removed in set statements from
-standalone_config jinja template to make the template compatible with
-all ansible versions. When quotation marks are used, variable does not
-return its value, but is passed as regular string value.
-
-Change-Id: Ia2d664c89a00f139454a4e7b6322eb3fd383e473
-"
-openstack%2Fdevstack~stable%2Fwallaby~I793c250cae5e7b9bc835b7016d790d1f9ae8a7f3,openstack/devstack,stable/wallaby,,I793c250cae5e7b9bc835b7016d790d1f9ae8a7f3,Further fixup for Ubuntu cloud images,MERGED,2022-10-03 11:37:43.000000000,2022-10-07 09:36:42.000000000,2022-10-07 09:35:36.000000000,2,0,0,860086,bc7431665b0aa7cdee3061a857c586d85fb88694,8,4,1,1,30674,Lukas Piwowarski,lukas-piwowarski,"Further fixup for Ubuntu cloud images
-
-The official Ubuntu cloud images have some further python pkgs
-preinstalled that conflict with our requirements. Allow to
-overwrite them.
-
-Signed-off-by: Dr. Jens Harbott <harbott@osism.tech>
-Closes-Bug: 1871485
-Change-Id: I793c250cae5e7b9bc835b7016d790d1f9ae8a7f3
-(cherry picked from commit 61a37bff9a35337f5924ca7cc61c76e42e55d787)
-"
-openstack%2Fopenstack-ansible-os_mistral~master~I247aa7bebda37b6c8d9e83767e7b77d1cd30c575,openstack/openstack-ansible-os_mistral,master,osa/deb_git-core,I247aa7bebda37b6c8d9e83767e7b77d1cd30c575,Replace git-core with git for debian,MERGED,2022-10-05 09:04:03.000000000,2022-10-07 09:33:54.000000000,2022-10-07 09:32:54.000000000,1,1,0,860355,e2ed22524c5a61f75cc8710d6face939035c6d9a,9,3,1,1,28619,Dmitriy Rabotyagov,noonedeadpunk,"Replace git-core with git for debian
-
-With ansible-core 2.13 it tries to substitude package resolution in apt
-module.
-However git-core is used in Debian as transitional name, but ansible
-tries to select it and provide version, which is not correct behaviour.
-But since git-core is not really valid anyway, we just replace it
-to workaround ansible's imperfectness.
-
-Change-Id: I247aa7bebda37b6c8d9e83767e7b77d1cd30c575
-"
-openstack%2Fopenstack-health~master~I368beadca9184654d1727579e7cd9274b53192d6,openstack/openstack-health,master,fix/gulp,I368beadca9184654d1727579e7cd9274b53192d6,WIP: Fix gulp,ABANDONED,2022-01-19 15:44:07.000000000,2022-10-07 09:31:50.000000000,,84,63,1,825336,e6a5a432472d8828f3aa2c9ff4a87ce775b52523,5,2,1,12,30674,Lukas Piwowarski,lukas-piwowarski,"WIP: Fix gulp
-
-Change-Id: I368beadca9184654d1727579e7cd9274b53192d6
-"
-openstack%2Fopenstack-ansible-haproxy_server~master~Ic4bc4393ec89469876e9e95b12bb9c4069972713,openstack/openstack-ansible-haproxy_server,master,,Ic4bc4393ec89469876e9e95b12bb9c4069972713,Allow do disable SSL only for stats frontend,MERGED,2022-09-22 14:06:49.000000000,2022-10-07 09:31:04.000000000,2022-10-07 09:29:57.000000000,2,1,2,858939,6025eaac36d4d6b03e529b66f97813e52c747b09,15,3,2,2,28619,Dmitriy Rabotyagov,noonedeadpunk,"Allow do disable SSL only for stats frontend
-
-Currently there is no way of disabling SSL connection for stats frontend
-as it implies more global variable. However, for some systems consuming
-self-signed root certificate might be not an option and disabling
-SSL verification tricky. Thus, we introduce new variable that allows to
-nicely control if SSL should be served for stats frontend or not.
-
-Change-Id: Ic4bc4393ec89469876e9e95b12bb9c4069972713
-"
-openstack%2Fopenstack-ansible-os_swift~master~Ic931147588dc549eaf41db9ff1c4abda2b8537c5,openstack/openstack-ansible-os_swift,master,osa/deb_git-core,Ic931147588dc549eaf41db9ff1c4abda2b8537c5,Replace git-core with git for debian,MERGED,2022-10-05 09:05:35.000000000,2022-10-07 09:30:34.000000000,2022-10-07 09:29:18.000000000,1,1,0,860357,0b14d1ebaed2e89b08cf329940e94a2be95247e4,9,3,1,1,28619,Dmitriy Rabotyagov,noonedeadpunk,"Replace git-core with git for debian
-
-With ansible-core 2.13 it tries to substitude package resolution in apt
-module.
-However git-core is used in Debian as transitional name, but ansible
-tries to select it and provide version, which is not correct behaviour.
-But since git-core is not really valid anyway, we just replace it
-to workaround ansible's imperfectness.
-
-Change-Id: Ic931147588dc549eaf41db9ff1c4abda2b8537c5
-"
-openstack%2Fopenstack-ansible-haproxy_server~master~I54717d4f7230b8d8dff2d293592831cc88c51d24,openstack/openstack-ansible-haproxy_server,master,,I54717d4f7230b8d8dff2d293592831cc88c51d24,Validate haproxy conf after assemble,MERGED,2022-10-05 11:37:14.000000000,2022-10-07 09:27:37.000000000,2022-10-07 09:26:35.000000000,1,0,0,860402,9fc079a65d86ac9920ecd759eaa0f25957135855,8,3,1,1,28619,Dmitriy Rabotyagov,noonedeadpunk,"Validate haproxy conf after assemble
-
-Right now we don't ensure haproxy conf validity and if it's incorrect
-role will fail on attempt to reload haproxy. However it's really worth
-adding validation step and do not proceed if configuration is wrong
-
-Change-Id: I54717d4f7230b8d8dff2d293592831cc88c51d24
-"
-openstack%2Fpython-openstackclient~master~Ifedaa1c8bfab23d92958e58c69c03e778454a408,openstack/python-openstackclient,master,coverage/omittests,Ifedaa1c8bfab23d92958e58c69c03e778454a408,Excluding test code from coverage reports,NEW,2022-09-07 07:10:18.000000000,2022-10-07 09:23:06.000000000,,1,0,0,856237,e3199ea37744af1ff27a23df84ea1601c03927b2,3,3,1,1,32926,Jiri Podivin,jpodivin,"Excluding test code from coverage reports
-
-Coverage report should not include statiststics on test modules
-which is not only unnecessary, but also pollutes the coverage
-statistics and pollutes the final report.
-
-Requesting the path to tests to be omitted in .coveragerc resolves the issue.
-
-Signed-off-by: Jiri Podivin <jpodivin@redhat.com>
-Change-Id: Ifedaa1c8bfab23d92958e58c69c03e778454a408
-"
-openstack%2Ftripleo-ansible~master~I32dc4fa9df2432ea377f5bfa0df4c9916d7ac2e6,openstack/tripleo-ansible,master,httpd/gnocchi,I32dc4fa9df2432ea377f5bfa0df4c9916d7ac2e6,tripleo_gnocchi service role,NEW,2022-09-22 09:48:44.000000000,2022-10-07 09:20:54.000000000,,197,0,2,858878,cfe860d56fa9e2d94365c0f7f56ff968cc1354a6,19,4,7,8,32926,Jiri Podivin,jpodivin,"tripleo_gnocchi service role
-
-Derived from tripleo_aodh service role. Handles httpd configuration.
-
-Signed-off-by: Jiri Podivin <jpodivin@redhat.com>
-Change-Id: I32dc4fa9df2432ea377f5bfa0df4c9916d7ac2e6
-"
-openstack%2Ftempest~master~I337c59abab3328ef96ed2172c43e366f23327c58,openstack/tempest,master,fix/delete_snapshot,I337c59abab3328ef96ed2172c43e366f23327c58,[DNM] Remove snapshot deletion,ABANDONED,2021-06-02 15:30:42.000000000,2022-10-07 09:14:42.000000000,,6,21,0,794257,1464238f59e3bc37baeb91a1dde7bc81e2e2e142,3,1,1,1,30674,Lukas Piwowarski,lukas-piwowarski,"[DNM] Remove snapshot deletion
-
-This patch makes sure that snapshots created within volume tests
-are deleted only once.
-
-Before, each snapshot was deleted twice [1][2].
-
-[1] https://github.com/openstack/tempest/blob/3e127640657b294c9d4a941b6a6bb287aa496539/tempest/api/volume/test_volumes_snapshots.py#L142
-[2] https://github.com/openstack/tempest/blob/3e127640657b294c9d4a941b6a6bb287aa496539/tempest/api/volume/base.py#L142
-
-Change-Id: I337c59abab3328ef96ed2172c43e366f23327c58
-"
-openstack%2Fkolla-ansible~stable%2Fwallaby~Iff8d22d76bff98acc9fe4c67226450af81000236,openstack/kolla-ansible,stable/wallaby,feat/add_storm_ui,Iff8d22d76bff98acc9fe4c67226450af81000236,enable storm ui,ABANDONED,2022-10-04 07:59:22.000000000,2022-10-07 09:02:39.000000000,,89,0,2,860210,9a7bcec33b7b71e85e38ef982f998b530b366346,4,1,1,7,13114,Hoai-Thu Vuong,thuvh,"enable storm ui
-
-Change-Id: Iff8d22d76bff98acc9fe4c67226450af81000236
-"
-openstack%2Fkolla~master~I8f08abb1722e558e3874fd7d92322598d55de563,openstack/kolla,master,,I8f08abb1722e558e3874fd7d92322598d55de563,Deprecate Monasca and dependencies,MERGED,2022-10-05 12:14:46.000000000,2022-10-07 08:54:53.000000000,2022-10-07 08:52:41.000000000,6,0,9,860404,61b9d8503365614a668a99c490c1c2b75e211685,20,4,3,1,32657,Piotr Parczewski,piotrp,"Deprecate Monasca and dependencies
-
-Adds a deprecation notice for Monasca service in Kolla with its
-dependencies: Kafka, Storm and Zookeeper.
-
-Change-Id: I8f08abb1722e558e3874fd7d92322598d55de563
-"
-openstack%2Fkolla-ansible~stable%2Fyoga~I7be366aa9319a4046e93cf22eb15fd523ed4a006,openstack/kolla-ansible,stable/yoga,,I7be366aa9319a4046e93cf22eb15fd523ed4a006,"Revert ""Disable c8s upgrade jobs""",MERGED,2022-10-07 05:51:04.000000000,2022-10-07 08:54:46.000000000,2022-10-07 08:52:39.000000000,3,3,0,860650,285419787badc7ee5afd1974f52bf369dd666ba5,9,3,1,1,22629,Michal Nasiadka,mnasiadka,"Revert ""Disable c8s upgrade jobs""
-
-This reverts commit 85e3ea41c08d60a1983c489b1543f77481cf111e.
-
-Reason for revert: rdo-openvswitch-2.17 package is on the mirrors
-
-Change-Id: I7be366aa9319a4046e93cf22eb15fd523ed4a006
-"
-openstack%2Ftripleo-heat-templates~master~I97bea1f17ed293cce7bc0490e93bb870fa901025,openstack/tripleo-heat-templates,master,bug/1988550,I97bea1f17ed293cce7bc0490e93bb870fa901025,"Change how ipa principal service names are generated. Instead of hard-coding `$hostname.$interface.$domain`, now the domain part is retrieved from `network.dns_domain` if set, otherwise defaulting to the previous logic.",NEW,2022-09-30 02:09:08.000000000,2022-10-07 07:55:25.000000000,,48,10,10,859907,3c5974bb6e0fa4543ceb6b47587dd52f2671adff,24,3,7,3,34754,Cristian Le,lecris,"Change how ipa principal service names are generated.
-Instead of hard-coding `$hostname.$interface.$domain`, now the domain part is retrieved from `network.dns_domain` if set, otherwise defaulting to the previous logic.
-
-Closes-Bug: #1988550
-Change-Id: I97bea1f17ed293cce7bc0490e93bb870fa901025
-Signed-off-by: Cristian Le <git@lecris.me>
-"
-openstack%2Fneutron-tempest-plugin~master~Iab4debdb7a4d7f5a23eef49284138504954b0398,openstack/neutron-tempest-plugin,master,bug/1991962,Iab4debdb7a4d7f5a23eef49284138504954b0398,"Add ""devstack-tempest"" job to ""neutron-tempest-plugin-jobs""",ABANDONED,2022-10-06 16:06:50.000000000,2022-10-07 07:47:45.000000000,,1,0,7,860589,1152a4d818a0d418f38850de80fc9b9c3807943c,8,4,1,1,16688,Rodolfo Alonso,rodolfo-alonso-hernandez,"Add ""devstack-tempest"" job to ""neutron-tempest-plugin-jobs""
-
-The aim of this addition is to test the default devstack tempest
-test job in the Neutron and neutron-tempest-plugin CI, at least in
-the gate. That will prevent some errors like the one described
-in LP#1991962. This ""devstack-tempest"" job is the parent of many
-other tempest jobs executed in other OpenStack projects.
-
-Change-Id: Iab4debdb7a4d7f5a23eef49284138504954b0398
-Related-Bug: #1991962
-"
-openstack%2Ftripleo-ansible~master~Ibe584e6b7f0bbea534b75e13d0ec527993d708b5,openstack/tripleo-ansible,master,standalone-roles-octavia,Ibe584e6b7f0bbea534b75e13d0ec527993d708b5,Add Octavia Worker host_prep_tasks,NEW,2022-10-05 02:15:59.000000000,2022-10-07 07:21:26.000000000,,41,0,6,860333,40f0a28279579b040f8da617d619b31f8accc041,9,3,2,1,30073,Brendan Shephard,bshephar,"Add Octavia Worker host_prep_tasks
-
-This change moves host_prep_tasks for Octavia Worker from THT
-into the dedicated tripleo_octavia standalone-role.
-
-Change-Id: Ibe584e6b7f0bbea534b75e13d0ec527993d708b5
-"
-openstack%2Fopenstack-tempest-skiplist~master~I38c89edf0d6467252d9627656c2162b99012ea66,openstack/openstack-tempest-skiplist,master,lp1990480,I38c89edf0d6467252d9627656c2162b99012ea66,Add standalone-full-tempest-api-rhos-17 to dns test skip,MERGED,2022-10-06 21:26:53.000000000,2022-10-07 07:20:23.000000000,2022-10-07 07:19:05.000000000,1,0,2,860604,438e3145e3f2717d90dc6de44d8f72bd38b1a2c8,9,4,1,1,9976,Ronelle Landy,rlandy,"Add standalone-full-tempest-api-rhos-17 to dns test skip
-
-This test is now showing the 'KeyError: 'dns_domain''
-error.
-
-Change-Id: I38c89edf0d6467252d9627656c2162b99012ea66
-Related-Bug: #1990480
-"
-openstack%2Fmasakari-specs~master~Iccc247a5babd8b579ddb922c95717c845f6293fc,openstack/masakari-specs,master,,Iccc247a5babd8b579ddb922c95717c845f6293fc,add 2023.1 Antelope repository,MERGED,2022-10-06 08:05:44.000000000,2022-10-07 07:06:12.000000000,2022-10-07 07:04:54.000000000,413,0,4,860532,1975f2f1772941babc0008ab13fc373e0ea68f5f,14,2,3,8,30623,suzhengwei,SuZhengwei,"add 2023.1 Antelope repository
-
-Change-Id: Iccc247a5babd8b579ddb922c95717c845f6293fc
 "

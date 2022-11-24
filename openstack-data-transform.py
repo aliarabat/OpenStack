@@ -165,7 +165,7 @@ def retrieve_changes(origin_df, index):
     """Filter the changes
     """
     changes_columns = [
-        "id", "project", "branch", "topic", "change_id", "owner", "subject",
+        "id", "project", "branch", "change_id", "owner", "subject",
         "status", "created", "updated", "submitted", "insertions", "deletions",
         "reviewers", "messages", "revisions", "total_comment_count", "_number",
         "current_revision"
@@ -188,6 +188,9 @@ def retrieve_changes(origin_df, index):
                                            if "username" in x.keys() else None)
 
     df["commit_message"] = df.apply(retrieve_commit_message, axis=1)
+
+    if "topic" in origin_df.columns:
+        df = pd.concat((df, origin_df[["topic"]]), axis=1)
 
     del df["owner"]
 
@@ -215,14 +218,13 @@ if __name__ == "__main__":
 
     for dir in list([changes_dir, reviewers_dir, messages_dir, files_dir]):
         if os.path.exists(dir):
-            shutil.rmtree(path=dir)
+           shutil.rmtree(path=dir)
         os.makedirs(dir)
 
     # index = 0
     # file_path = "openstack_data_722.json"
     for f in hpr.list_file("%sData" % DIR):
-        # for index in range(249, 250):
-
+        # for index in range(1406, 1407):
         # f = "openstack_data_%d.json" % index
 
         index = int(f[15:-5])

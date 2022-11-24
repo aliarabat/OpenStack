@@ -1,4 +1,1296 @@
 id,project,branch,topic,change_id,subject,status,created,updated,submitted,insertions,deletions,total_comment_count,number,current_revision,discussion_messages_count,reviewers_count,revisions_count,files_count,owner_account_id,owner_name,owner_username,commit_message
+openstack%2Fnova~master~Ic5de9d4404c8903bc2a6027697905f92374f8af7,openstack/nova,master,image-progress,Ic5de9d4404c8903bc2a6027697905f92374f8af7,"Updating image progress to be more granular. Before, the image progress had only 2 states, 0 and 100. Now it can be 0, 25, 50 or 100.",MERGED,2011-09-29 18:54:31.000000000,2011-10-12 01:19:16.000000000,2011-10-12 01:19:16.000000000,21,13,0,739,b84d71c6bcca04a47407ea8491911b8584e395bb,11,5,2,2,998,Naveed Massjouni,ironcamel,"Updating image progress to be more granular.
+Before, the image progress had only 2 states, 0 and 100. Now it can be
+0, 25, 50 or 100.
+
+Change-Id: Ic5de9d4404c8903bc2a6027697905f92374f8af7
+"
+openstack%2Fnova~master~I18e05a4d727bbbd3481063623dc3b6ad52e233d4,openstack/nova,master,nova-combined,I18e05a4d727bbbd3481063623dc3b6ad52e233d4,Add nova-all to run all services,MERGED,2011-09-23 19:08:41.000000000,2011-10-12 01:09:44.000000000,2011-10-12 01:09:43.000000000,190,88,0,625,a870dfae7da2df1e51a9066bf0583c3ab86690e8,13,5,3,7,67,Vish Ishaya,vishvananda,"Add nova-all to run all services
+
+ * Cleans up service for objectstore and vncproxy
+ * Fixes virt.fake to be runnable via a flag
+
+Change-Id: I18e05a4d727bbbd3481063623dc3b6ad52e233d4
+"
+openstack%2Fnova~master~Ia0b90b8373a02955f23b6dda0495f01511762822,openstack/nova,master,bug/859679,Ia0b90b8373a02955f23b6dda0495f01511762822,Fix the grantee group loading for source groups,MERGED,2011-09-26 15:35:22.000000000,2011-10-12 00:21:42.000000000,2011-10-12 00:21:41.000000000,2,3,3,651,114ca0b2dc090270d8d20bd10b6e1e7a0b451db2,10,5,1,1,67,Vish Ishaya,vishvananda,"Fix the grantee group loading for source groups
+
+Fixes bug 859679.
+
+Change-Id: Ia0b90b8373a02955f23b6dda0495f01511762822
+"
+openstack%2Fglance~master~I6fa2bb6e2699b1050039fa03d1c0a5ecbd651d73,openstack/glance,master,coverage-cleanup,I6fa2bb6e2699b1050039fa03d1c0a5ecbd651d73,Increases test coverage for the common utils,MERGED,2011-10-11 22:10:53.000000000,2011-10-11 22:27:46.000000000,2011-10-11 22:27:46.000000000,25,56,0,842,e2555e1665a8d12d2699928a692d1ef62ae41ed6,7,3,1,2,7,Jay Pipes,jaypipes,"Increases test coverage for the common utils
+
+Adds test case for the isotime stuff and removes
+unused legacy utility functions
+
+Change-Id: I6fa2bb6e2699b1050039fa03d1c0a5ecbd651d73
+"
+openstack%2Ftempest~master~I0c29495821defc2c27849d2f4943153edaf596a7,openstack/tempest,master,useprojects,I0c29495821defc2c27849d2f4943153edaf596a7,Better support for projects in v1.1,ABANDONED,2011-10-11 21:49:48.000000000,2011-10-11 21:49:48.000000000,,21,24,0,800,d09bb3da07e2c5e2f5a85e2b67ff5ee25126abd7,1,0,1,6,1456,Aaron Lee,aaron-lee,"Better support for projects in v1.1
+
+Change-Id: I0c29495821defc2c27849d2f4943153edaf596a7
+"
+openstack%2Fnova~master~I1b1626f40bebe8466ab410fb174683293c7c474f,openstack/nova,master,volume-final,I1b1626f40bebe8466ab410fb174683293c7c474f,"Remove AoE, Clean up volume code",MERGED,2011-09-23 16:23:53.000000000,2011-10-11 21:44:55.000000000,2011-10-11 21:44:54.000000000,1016,912,10,620,eb03d47fecd3bfc24243da29ee01679b334a08fe,29,4,9,37,67,Vish Ishaya,vishvananda,"Remove AoE, Clean up volume code
+
+ * Removes Ata Over Ethernet
+ * Adds drivers to libvirt for volumes
+ * Adds initialize_connection and terminate_connection to volume api
+ * Passes connection info back through volume api
+
+Change-Id: I1b1626f40bebe8466ab410fb174683293c7c474f
+"
+openstack%2Fnova~master~I3b0f1211762696f925ae32d785ffa6a35c5e1d6b,openstack/nova,master,bug/865399,I3b0f1211762696f925ae32d785ffa6a35c5e1d6b,Handle pidfile exception for dnsmasq,MERGED,2011-10-03 15:52:01.000000000,2011-10-11 21:19:42.000000000,2011-10-11 21:19:42.000000000,6,2,1,788,a25f106c2f824d7d03bf1161da72f66fe4be5a9c,11,5,2,2,1631,,,"Handle pidfile exception for dnsmasq
+
+Capture the exception in dnsmasq_pid_for method. If the pidfile cannot be read
+for some reason, it should be treated as if it does not exist. This prevents
+issues where the filesystem write delay leaves the file created but empty.
+Fixes bug 865399.
+
+Change-Id: I3b0f1211762696f925ae32d785ffa6a35c5e1d6b
+"
+openstack%2Fnova~master~I88b22b6959164e21a7150580d5f8da6920ed8610,openstack/nova,master,bug/861776,I88b22b6959164e21a7150580d5f8da6920ed8610,Adds vcpu_weight column to instance_types table and uses this value when building XenServer instances.,MERGED,2011-10-11 18:02:52.000000000,2011-10-11 20:43:44.000000000,2011-10-11 20:43:43.000000000,37,1,1,836,d6b6cc516232f8306df5c4527c7e12ac7b5fd785,11,5,2,2,209,Josh Kearney,jk0,"Adds vcpu_weight column to instance_types table and uses this value when building XenServer instances.
+
+Fixes bug 861776.
+
+Change-Id: I88b22b6959164e21a7150580d5f8da6920ed8610
+"
+openstack%2Fglance~master~If6775eb3ce85390bc5d579dff6c59c6066e77e9b,openstack/glance,master,bug/820643,If6775eb3ce85390bc5d579dff6c59c6066e77e9b,Refactoring/cleanup around our exception handling,MERGED,2011-10-10 17:46:06.000000000,2011-10-11 20:18:07.000000000,2011-10-11 20:18:07.000000000,107,148,2,825,53db059772d8c89facd17970fc967ef2fa1866c5,15,4,3,6,7,Jay Pipes,jaypipes,"Refactoring/cleanup around our exception handling
+
+Fixes LP Bug #820643 - import_class() does not
+report original exception.
+
+* Makes ALL exceptions now use base exception class
+* Removes unused exception classes from Nova
+* Removes unused code in glance.common.utils
+* Adds unit tests for bool_from_string and import_class
+
+Change-Id: If6775eb3ce85390bc5d579dff6c59c6066e77e9b
+"
+openstack%2Fnova~master~Ib11fe18a46e57df3498596a2909879d67e84fdda,openstack/nova,master,fix_vm_vdi_cleaner,Ib11fe18a46e57df3498596a2909879d67e84fdda,Further changes to the cleaner.,MERGED,2011-10-10 20:19:47.000000000,2011-10-10 21:38:22.000000000,2011-10-10 21:38:22.000000000,15,7,0,828,cf5f055ebb8e7c1ba05e06e71d2a9b13008d21af,7,3,1,1,209,Josh Kearney,jk0,"Further changes to the cleaner.
+
+Change-Id: Ib11fe18a46e57df3498596a2909879d67e84fdda
+"
+openstack%2Fnova~master~I01220cf1eebc0f759d66563ec67ef2f697c6d310,openstack/nova,master,bug/844905,I01220cf1eebc0f759d66563ec67ef2f697c6d310,Add support for header version parameter to specify API version.,MERGED,2011-09-26 16:23:08.000000000,2011-10-10 21:28:43.000000000,2011-10-10 21:28:42.000000000,515,74,0,656,6e5f2d88e630540b0ab121cd9949289d2fc0cd67,35,5,4,8,100,Johannes Erdfelt,johannes.erdfelt,"Add support for header version parameter to specify API version.
+
+bug 844905
+
+The 1.1 API specifies that the API version can be determined by URL path
+(eg /v1.1/tenant/servers/detail), Content-Type header
+(eg application/json;version=1.1) or Accept header
+(eg application/json;q=0.8;version=1.1, application/xml;q=0.2;version=1.1).
+
+Change-Id: I01220cf1eebc0f759d66563ec67ef2f697c6d310
+"
+openstack%2Fnova~master~I9ddcea12691ecfb276606a06c6f8e7be886e836b,openstack/nova,master,,I9ddcea12691ecfb276606a06c6f8e7be886e836b,Remove duplicated functions.,MERGED,2011-10-10 20:23:36.000000000,2011-10-10 21:01:51.000000000,2011-10-10 20:52:06.000000000,0,12,0,829,9146f7b55997fdf8affb8e6475cd5739c0a8e948,12,4,1,2,385,Jason Kölker,jason-koelker,"Remove duplicated functions.
+
+Fixes LP871984
+
+Change-Id: I9ddcea12691ecfb276606a06c6f8e7be886e836b
+"
+openstack%2Fkeystone~master~I2cf12a28c6dc29595ef490acdb511f604d86d3ee,openstack/keystone,master,bug/870351,I2cf12a28c6dc29595ef490acdb511f604d86d3ee,Use the tenant name for X_TENANT,MERGED,2011-10-10 17:41:38.000000000,2011-10-10 20:18:06.000000000,2011-10-10 20:18:06.000000000,24,4,0,824,625fcebc0c572ecf8fa738d720d5424dc8d39546,14,3,2,4,679,Kevin L. Mitchell,klmitch,"Use the tenant name for X_TENANT
+
+Fixes bug 870351
+
+Change-Id: I2cf12a28c6dc29595ef490acdb511f604d86d3ee
+"
+openstack%2Fnova~master~I3170f7b67466645d4c410b1d58b3e4e15b9e3265,openstack/nova,master,fix_vm_vdi_cleaner,I3170f7b67466645d4c410b1d58b3e4e15b9e3265,Reference orphaned_instance instead of instance.,MERGED,2011-10-10 17:55:26.000000000,2011-10-10 18:08:18.000000000,2011-10-10 18:08:18.000000000,2,2,0,826,3a4eb1da2f1a159e693ea5d6503c7d50921d6a48,6,2,1,1,209,Josh Kearney,jk0,"Reference orphaned_instance instead of instance.
+
+Change-Id: I3170f7b67466645d4c410b1d58b3e4e15b9e3265
+"
+openstack%2Fnova~master~I0342bfd9ec04c2bec25d03ce1200d38a57929bb9,openstack/nova,master,fix_vm_vdi_cleaner,I0342bfd9ec04c2bec25d03ce1200d38a57929bb9,Continue to the next iteration of the loop if an instance is not found.,MERGED,2011-10-10 17:38:51.000000000,2011-10-10 17:52:26.000000000,2011-10-10 17:52:26.000000000,1,0,0,823,d5af7c6d8aaa885a2b81a214e21d527d4c12147d,7,3,1,1,209,Josh Kearney,jk0,"Continue to the next iteration of the loop if an instance is not found.
+
+Change-Id: I0342bfd9ec04c2bec25d03ce1200d38a57929bb9
+"
+openstack%2Fglance~master~I27bb6b3951422ad32e5e0225765b1056c5b3ffc5,openstack/glance,master,,I27bb6b3951422ad32e5e0225765b1056c5b3ffc5,Port Authors test to git.,MERGED,2011-09-23 21:44:15.000000000,2011-10-10 15:52:37.000000000,2011-10-10 15:52:37.000000000,23,32,0,636,ee6f91ed97a7d94febdf9e6cd985a4c225be06b8,21,5,3,3,2,Monty Taylor,mordred,"Port Authors test to git.
+
+Change-Id: I27bb6b3951422ad32e5e0225765b1056c5b3ffc5
+"
+openstack%2Fkeystone~master~I7d433979ef33ba829fafdca43b04c98bef212805,openstack/keystone,master,jd/fix-template-path,I7d433979ef33ba829fafdca43b04c98bef212805,Add myself to AUTHORS,ABANDONED,2011-10-07 15:10:04.000000000,2011-10-10 15:35:49.000000000,,1,0,0,816,1a75c55cd800a38a27d97eabdc5161372e49e0bf,2,1,1,1,1669,Julien Danjou,jdanjou,"Add myself to AUTHORS
+
+Change-Id: I7d433979ef33ba829fafdca43b04c98bef212805
+Signed-off-by: Julien Danjou <julien.danjou@enovance.com>
+"
+openstack%2Fnova~master~I4d9dfe8c746e9364b6ca6c6f76b55b07a0fb8609,openstack/nova,master,jd/better-classnotfound-exception,I4d9dfe8c746e9364b6ca6c6f76b55b07a0fb8609,Add myself to the Authors file,ABANDONED,2011-10-07 07:47:14.000000000,2011-10-10 15:35:29.000000000,,1,0,0,810,d71726b1129fe1a988af32a1aeb67bce235b58c0,5,3,1,1,1669,Julien Danjou,jdanjou,"Add myself to the Authors file
+
+Change-Id: I4d9dfe8c746e9364b6ca6c6f76b55b07a0fb8609
+Signed-off-by: Julien Danjou <julien.danjou@enovance.com>
+"
+openstack%2Fopenstack-manuals~master~I8ea02cee735020d50946264cfbca2b33b966e8c5,openstack/openstack-manuals,master,bug/868595,I8ea02cee735020d50946264cfbca2b33b966e8c5,"bug 868595, new volumes management info",MERGED,2011-10-07 18:49:32.000000000,2011-10-10 14:40:41.000000000,2011-10-10 14:40:41.000000000,16,17,0,819,d75b8d47f2c4ab4c36c11b55e9933e07438bfd93,4,2,1,2,964,Anne Gentle,annegentle,"bug 868595, new volumes management info
+
+Change-Id: I8ea02cee735020d50946264cfbca2b33b966e8c5
+"
+openstack%2Fopenstack-manuals~master~I1c66b8cc27b7ae4f9adcd8ec2b13e488a278a359,openstack/openstack-manuals,master,working,I1c66b8cc27b7ae4f9adcd8ec2b13e488a278a359,Added a section which explains how to backups the nova-volumes and small fixes,MERGED,2011-10-07 08:00:43.000000000,2011-10-10 14:29:19.000000000,2011-10-10 14:29:18.000000000,335,41,0,811,93397459919605abdc037130da3eafc9cc539352,4,2,1,1,1627,Razique Mahroua,razique,"Added a section which explains how to backups the nova-volumes and small fixes
+
+Change-Id: I1c66b8cc27b7ae4f9adcd8ec2b13e488a278a359
+"
+openstack%2Fnova~master~I4100d931a0a825fa0729d5467d2f9268fdd2a261,openstack/nova,master,jd/better-classnotfound-exception,I4100d931a0a825fa0729d5467d2f9268fdd2a261,Include original exception in ClassNotFound exception,MERGED,2011-10-06 15:18:47.000000000,2011-10-10 14:13:10.000000000,2011-10-10 14:13:10.000000000,3,2,0,807,33e58925c75b66c6800d3ba6068ee1e4f0db6617,18,4,3,3,1669,Julien Danjou,jdanjou,"Include original exception in ClassNotFound exception
+
+By doing this, we allow the error messages to be more useful. When an import
+of a class fails because of a missing module dependency, it would have fail
+that way for example:
+
+$ nova-manage
+Traceback (most recent call last):
+  File ""./bin/nova-manage"", line 84, in <module>
+    from nova import image
+  File ""/home/jd/Work/src/nova/nova/image/__init__.py"", line 22, in <module>
+    from nova.image import glance
+  File ""/home/jd/Work/src/nova/nova/image/glance.py"", line 42, in <module>
+    GlanceClient = utils.import_class('glance.client.Client')
+  File ""/home/jd/Work/src/nova/nova/utils.py"", line 66, in import_class
+    raise exception.ClassNotFound(class_name=class_str)
+nova.exception.ClassNotFound: Class Client could not be found
+
+This does not help the user, since it indicates the class Client cannot be
+found, even if it is actually found but fail to import.
+
+With this commit, the error message is better:
+nova-manage
+Traceback (most recent call last):
+  File ""./bin/nova-manage"", line 84, in <module>
+    from nova import image
+  File ""/home/jd/Work/src/nova/nova/image/__init__.py"", line 22, in <module>
+    from nova.image import glance
+  File ""/home/jd/Work/src/nova/nova/image/glance.py"", line 42, in <module>
+    GlanceClient = utils.import_class('glance.client.Client')
+  File ""/home/jd/Work/src/nova/nova/utils.py"", line 66, in import_class
+    raise exception.ClassNotFound(class_name=class_str, exception=exc)
+nova.exception.ClassNotFound: Class Client could not be found: No module named kombu.connection
+
+This helps to know that in this kombu is missing.
+
+It would probably even better to rename ClassNotFound to
+ClassCannotBeImported or something like that too.
+
+Change-Id: I4100d931a0a825fa0729d5467d2f9268fdd2a261
+Signed-off-by: Julien Danjou <julien.danjou@enovance.com>
+"
+openstack%2Fnova~master~I659ca4e1c46ee5826353c51641b9c329c36bcd7b,openstack/nova,master,virt-test-improvements,I659ca4e1c46ee5826353c51641b9c329c36bcd7b,Extend test_virt_driver to also test libvirt driver.,ABANDONED,2011-09-26 14:16:54.000000000,2011-10-10 13:27:53.000000000,,290,109,0,649,d47e070267f65bff6be20c6e9297cd3edfdb3800,2,1,2,5,518,Soren Hansen,soren,"Extend test_virt_driver to also test libvirt driver.
+
+To support this, I've added a fake libvirt implementation. It's supposed
+to expose an API and behaviour identical to that of libvirt itself
+except without actually running any VM's or setting up any firewall or
+anything, but still responding correctly when asked for a domain's XML,
+a list of defined domains, running domains, etc.
+
+I've also split out everything from libvirt.connection that is
+potentially destructive or otherwise undesirable to run during testing,
+and moved it to a new nova.virt.libvirt.utils. I added tests for those
+things separately as well as stub version of it for testing. I hope
+eventually to make it similar to fakelibvirt in style (e.g. keep track
+of files created and deleted and attempts to open a file that it doesn't
+know about, you'll get proper exceptions with proper errnos set and
+whatnot).
+
+Change-Id: I659ca4e1c46ee5826353c51641b9c329c36bcd7b
+"
+openstack%2Fnova~master~I6e2e58bf37f49f023ae242b98c11f10e3f2de8b1,openstack/nova,master,allow_gituser,I6e2e58bf37f49f023ae242b98c11f10e3f2de8b1,use git config's review.username for rfc.sh,MERGED,2011-09-26 22:49:58.000000000,2011-10-08 19:30:55.000000000,2011-10-08 19:30:54.000000000,6,1,0,674,e320fe5006278777033937d2aa744a74951cee3f,18,5,3,1,494,termie,termie,"use git config's review.username for rfc.sh
+
+Change-Id: I6e2e58bf37f49f023ae242b98c11f10e3f2de8b1
+"
+openstack%2Fnova~master~Ie0b2c2e87c5a61f6db74bb10a4740add2ab8ea27,openstack/nova,master,bug/869153,Ie0b2c2e87c5a61f6db74bb10a4740add2ab8ea27,Make sure unknown extensions return 404,MERGED,2011-10-06 13:21:18.000000000,2011-10-08 19:21:26.000000000,2011-10-08 19:21:25.000000000,14,2,0,803,2915e6ba054b1f4100f788603358ea5b2b8220d5,7,3,1,3,1631,,,"Make sure unknown extensions return 404
+
+At the moment, if an extension doens't exist and we call a show method
+with wrong id then the exception is not captured. There is a need to
+return NOTFOUND exception.
+Fixes bug 869153.
+
+Change-Id: Ie0b2c2e87c5a61f6db74bb10a4740add2ab8ea27
+"
+openstack%2Fglance~master~Ib6c124e196688a77a3a0090bf9174a1daffb78bb,openstack/glance,master,bug/860862,Ib6c124e196688a77a3a0090bf9174a1daffb78bb,Fixes LP Bug#860862 - Security creds still shown,MERGED,2011-09-29 20:45:12.000000000,2011-10-08 16:23:22.000000000,2011-10-06 13:16:46.000000000,54,12,0,745,25e2ba4e6a60956cfd7f8ca9457698fd0f4d3747,14,4,1,4,7,Jay Pipes,jaypipes,"Fixes LP Bug#860862 - Security creds still shown
+
+This removes the X-Image-Meta-Location entirely from
+GET /images/<ID> and HEAD /images/<ID>
+
+Previous fix only removed from GET /images and GET /images/detail.
+
+Doh.
+
+Change-Id: Ib6c124e196688a77a3a0090bf9174a1daffb78bb
+"
+openstack%2Fopenstack-manuals~master~I383a3b899efa6d9be64d34fd1a5db6166abb6bdd,openstack/openstack-manuals,master,bp/37vztBeuufDs,I383a3b899efa6d9be64d34fd1a5db6166abb6bdd,Adds API quick start draft,MERGED,2011-10-08 14:58:50.000000000,2011-10-08 15:02:19.000000000,2011-10-08 15:02:19.000000000,20572,0,0,821,906628f9269e09155a946dea3bec3577df794830,4,2,1,198,964,Anne Gentle,annegentle,"Adds API quick start draft
+
+Change-Id: I383a3b899efa6d9be64d34fd1a5db6166abb6bdd
+"
+openstack%2Fnova~master~I47104158884421de92f50322a72243c170a4f1ad,openstack/nova,master,bug/865357,I47104158884421de92f50322a72243c170a4f1ad,Allow db schema downgrades,MERGED,2011-10-03 13:53:20.000000000,2011-10-07 20:27:31.000000000,2011-10-07 20:27:30.000000000,14,2,1,786,eed546053ae89241d730ba84f8c3ce0c89a7d0aa,10,5,2,2,1631,,,"Allow db schema downgrades
+
+When a destination version is specified, check the current version and allow
+downgrading the schema. Fixes bug 865357.
+
+Change-Id: I47104158884421de92f50322a72243c170a4f1ad
+"
+openstack%2Fswift~master~I6d0a044be361a53faee15d15177a9b5bc95da19e,openstack/swift,master,tmpauth-account_autocreate,I6d0a044be361a53faee15d15177a9b5bc95da19e,Use account_autocreate for tempauth.,MERGED,2011-10-06 15:37:01.000000000,2011-10-07 18:30:37.000000000,2011-10-07 18:30:37.000000000,6,21,0,808,6170e66b42477dd4ae752a80806a9fec60e7458d,7,3,1,2,866,Chmouel Boudjnah,chmouel,"Use account_autocreate for tempauth.
+
+We don't need to create ourself account in tempauth as we can use
+account_autocreate from proxy server.
+
+Change-Id: I6d0a044be361a53faee15d15177a9b5bc95da19e
+"
+openstack%2Fswift~master~I8fc9cfa4899421fe04bba23ac52523778e902321,openstack/swift,master,bp/friendly-error-messages,I8fc9cfa4899421fe04bba23ac52523778e902321,Add more specific error messages to swift-ring-builder,MERGED,2011-09-22 18:07:35.000000000,2011-10-07 18:23:21.000000000,2011-10-07 18:23:20.000000000,80,19,0,540,2f50a0798eeff9495f845df7ad091e884e91e482,10,5,2,4,449,Mark Gius,markgius,"Add more specific error messages to swift-ring-builder
+
+Replace existing Exceptions in ring builder with more specific exceptions.
+Abstracted out some behavior in ring-builder that is likely to cause an
+exception. Add try/except blocks to swift-ring-builder to catch specific
+exceptions and provide the user with some information about how to deal
+with the error.
+
+This change begins to address blueprint friendly-error-messages
+
+Change-Id: I8fc9cfa4899421fe04bba23ac52523778e902321
+"
+openstack%2Fswift~master~I61f40c36509bf998834c123b0f80117ca6def3ff,openstack/swift,master,bug/845952,I61f40c36509bf998834c123b0f80117ca6def3ff,Fix for bug 845952,MERGED,2011-09-21 21:51:09.000000000,2011-10-07 18:17:45.000000000,2011-10-07 18:17:44.000000000,33,1,1,522,c0315a89dfd13bcccbc8ddc5d57adb9afd085afc,11,4,3,2,449,Mark Gius,markgius,"Fix for bug 845952
+
+Devices scheduled to be removed are assigned a device of 65535.  When
+looking for parts to reassign from heavy nodes, these parts need to be
+skipped.
+
+Includes review suggestions
+
+Change-Id: I61f40c36509bf998834c123b0f80117ca6def3ff
+"
+openstack%2Fswift~master~Ia6f4eeb626cc34b6cec43cab92a0afe7b46354e0,openstack/swift,master,master,Ia6f4eeb626cc34b6cec43cab92a0afe7b46354e0,Fix documentation leftover from swift-stats rename,MERGED,2011-10-05 15:05:32.000000000,2011-10-07 18:00:15.000000000,2011-10-07 18:00:15.000000000,1,1,0,796,e3e8a1c58694c07e20cb7361fd2f2c0b45b18a85,6,3,1,1,1669,Julien Danjou,jdanjou,"Fix documentation leftover from swift-stats rename
+
+Change-Id: Ia6f4eeb626cc34b6cec43cab92a0afe7b46354e0
+Signed-off-by: Julien Danjou <julien.danjou@enovance.com>
+"
+openstack%2Fnova~master~I88ae769759429c912089408b63eeaea3e4af26e3,openstack/nova,master,lazy-serialize,I88ae769759429c912089408b63eeaea3e4af26e3,Allow serialization to be performed lazily,ABANDONED,2011-09-27 21:04:00.000000000,2011-10-07 15:31:00.000000000,,179,54,0,696,a6903477a89ced2cdec9fc8e9f9440063b058884,6,3,2,9,679,Kevin L. Mitchell,klmitch,"Allow serialization to be performed lazily
+
+Currently, request extensions have to deserialize data, mutate it, then
+reserialize the data.  This patch fixes this problem by performing
+serialization lazily: it adds a new 'serializer' middleware which
+performs the actual serialization.
+
+Request extensions formerly registered a handler taking two arguments:
+the request and the response.  They now get a third argument: an
+instance of LazyResponse.  This third argument is extracted from the
+response body, so handlers should no longer attempt to manipulate the
+response body directly; instead, they should modify the LazyResponse
+object (particularly the 'data' attribute) as needed.  The LazyResponse
+object will be reattached to the response, replacing the response body,
+after all extension handlers have been called.
+
+Change-Id: I88ae769759429c912089408b63eeaea3e4af26e3
+"
+openstack%2Fopenstack-manuals~master~I728a744dbdf7cbd1f0129dec09a3626449c47196,openstack/openstack-manuals,master,working,I728a744dbdf7cbd1f0129dec09a3626449c47196,Added a section which explains how to backups the nova-volumes,ABANDONED,2011-09-30 23:27:23.000000000,2011-10-07 12:50:18.000000000,,1,0,0,779,5eabd32f93fe3152ec644a76b8f01272d3842690,1,0,1,1,1627,Razique Mahroua,razique,"Added a section which explains how to backups the nova-volumes
+
+Change-Id: I728a744dbdf7cbd1f0129dec09a3626449c47196
+"
+openstack%2Fnova~master~Idb31f076a7b14309f0fda698261de816924da354,openstack/nova,master,bug/868360,Idb31f076a7b14309f0fda698261de816924da354,Stop returning correct password on api calls,MERGED,2011-10-05 13:40:50.000000000,2011-10-06 18:58:44.000000000,2011-10-06 18:58:43.000000000,5,9,0,794,beee11edbfdd82cd81bc9c0fd75912c167892c2b,12,7,2,3,1631,,,"Stop returning correct password on api calls
+
+Captured invalid signature exception in authentication step, so that
+the problem is not returning exception to user, revealing the real
+password.
+Fixes bug 868360.
+
+Change-Id: Idb31f076a7b14309f0fda698261de816924da354
+"
+openstack%2Fkeystone~master~I61591ff5c8ae944e3006449dbc300a0cfe32a4de,openstack/keystone,master,roleId-change,I61591ff5c8ae944e3006449dbc300a0cfe32a4de,Change roleId to role.id for swift middleware.,MERGED,2011-10-04 15:46:12.000000000,2011-10-06 14:21:55.000000000,2011-10-06 14:21:55.000000000,3,2,0,790,5fa576a1b772801bf35bd74875b1a1efae3ce086,8,3,1,1,866,Chmouel Boudjnah,chmouel,"Change roleId to role.id for swift middleware.
+
+Change-Id: I61591ff5c8ae944e3006449dbc300a0cfe32a4de
+"
+openstack%2Fnova~master~Ie743012b7074ecb8b9bc6f018968e21e2f6d405d,openstack/nova,master,bug/862658,Ie743012b7074ecb8b9bc6f018968e21e2f6d405d,Fixes bug 862658 -- ec2 metadata issue getting IPs,MERGED,2011-09-29 20:03:47.000000000,2011-10-06 00:30:40.000000000,2011-10-06 00:30:39.000000000,3,1,0,744,eff0a63758ad59d62045bf913423cdd0c440fa28,9,4,1,1,1030,Chris Behrens,cbehrens,"Fixes bug 862658 -- ec2 metadata issue getting IPs
+
+Was looping through a tuple of (ipv4s, ipv6s) vs just ipv4s list.. to get floating IPs.
+
+Change-Id: Ie743012b7074ecb8b9bc6f018968e21e2f6d405d
+"
+openstack%2Fopenstack-manuals~master~Ia5ec2663f0a7425beaf27012b8dd669d25ad998f,openstack/openstack-manuals,master,addquantum,Ia5ec2663f0a7425beaf27012b8dd669d25ad998f,Adding Quantum and changing pom,ABANDONED,2011-09-30 15:32:45.000000000,2011-10-05 03:50:55.000000000,2011-09-30 15:33:12.000000000,8,8,0,766,7508333d92e1a5fcd699d7c566dd51356c26ab2f,6,2,1,2,964,Anne Gentle,annegentle,"Adding Quantum and changing pom
+
+Change-Id: Ia5ec2663f0a7425beaf27012b8dd669d25ad998f
+"
+openstack%2Fopenstack-manuals~master~Iac9cfd0db1e166c645c275d3c07b2128e9d54878,openstack/openstack-manuals,master,addquantum,Iac9cfd0db1e166c645c275d3c07b2128e9d54878,Adds the Quantum Admin manual and a pom file to build it plus a new disqus ID.,ABANDONED,2011-09-29 21:12:19.000000000,2011-10-04 20:01:11.000000000,,773,0,0,747,3c64e1f5b292ed6329db204746411b1cc7242dca,12,2,1,2,964,Anne Gentle,annegentle,"Adds the Quantum Admin manual and a pom file to build it plus a new disqus ID.
+
+Change-Id: Iac9cfd0db1e166c645c275d3c07b2128e9d54878
+"
+openstack%2Fopenstack-manuals~master~Ie05e8b9f0699e8c2af46b3bccf77a098c99086be,openstack/openstack-manuals,master,rhelupdates,Ie05e8b9f0699e8c2af46b3bccf77a098c99086be,Revises RHEL installation and scripted installation in Compute Admin manual,MERGED,2011-10-04 19:22:24.000000000,2011-10-04 19:22:50.000000000,2011-10-04 19:22:49.000000000,5186,11108,0,792,2de4495018298c9e4a1a823e5bc31d201b731dc8,4,2,1,423,964,Anne Gentle,annegentle,"Revises RHEL installation and scripted installation in Compute Admin manual
+
+Change-Id: Ie05e8b9f0699e8c2af46b3bccf77a098c99086be
+"
+openstack%2Fopenstack-manuals~master~I998f866464d05599041f79db789d725895a01618,openstack/openstack-manuals,master,working,I998f866464d05599041f79db789d725895a01618,Added a section which explains how to backups the nova-volumes,ABANDONED,2011-09-30 23:22:13.000000000,2011-10-04 17:59:12.000000000,,277,1,0,777,9a6e40fe80e342203a2bca6b59c5a5c9bf5bd871,2,0,1,1,1627,Razique Mahroua,razique,"Added a section which explains how to backups the nova-volumes
+
+Change-Id: I998f866464d05599041f79db789d725895a01618
+"
+openstack%2Fnova~master~I10d607fd40953e334670cc39040a9a00ff6919ac,openstack/nova,master,bug/698336,I10d607fd40953e334670cc39040a9a00ff6919ac,Set error state on spawn error + integration test.,MERGED,2011-09-27 02:32:04.000000000,2011-10-04 17:25:34.000000000,2011-10-04 17:25:34.000000000,31,8,4,679,981f52794ed41b6f25dfc4a25b4b736e8f030a0f,33,5,5,3,706,Brian Lamar,blamar,"Set error state on spawn error + integration test.
+
+This branch should at least be considered a partial fix for bug 698336.
+
+(Update) Grammar fix.
+(Update) PEP8 fix.
+(Update) Merged with origin/master
+(Update) Fixed test (oops!) thanks comstud!
+
+Change-Id: I10d607fd40953e334670cc39040a9a00ff6919ac
+"
+openstack%2Fopenstack-manuals~master~I4d9ca94fddfb1dabc9a3a678826a4439584853c6,openstack/openstack-manuals,master,addsdocs,I4d9ca94fddfb1dabc9a3a678826a4439584853c6,Fixes nova-manage network create label command and removes nova-core/release PPA reference,ABANDONED,2011-09-23 20:52:52.000000000,2011-10-02 20:24:45.000000000,,6,6,0,632,0d7f8a39b2e9825a73560c3d8fe05b2b75382a4f,1,0,1,1,964,Anne Gentle,annegentle,"Fixes nova-manage network create label command and removes nova-core/release PPA reference
+
+Change-Id: I4d9ca94fddfb1dabc9a3a678826a4439584853c6
+"
+openstack%2Fglance~master~I81e6c74815cf15adebb526b31614fd2e63982c3d,openstack/glance,master,,I81e6c74815cf15adebb526b31614fd2e63982c3d,Refactoring registry api controllers,MERGED,2011-09-29 14:51:24.000000000,2011-10-01 17:50:21.000000000,2011-10-01 17:50:21.000000000,792,711,0,730,7c4d93502697c03d244a57f47cc90a8db6408df1,12,4,1,10,1132,Brian Waldon,bcwaldon,"Refactoring registry api controllers
+
+Break up images and members controllers in the registry api and restructure it to be more like the glance api. This is
+in preparation for the future split.
+
+Change-Id: I81e6c74815cf15adebb526b31614fd2e63982c3d
+"
+openstack%2Fnova~master~I53da353da2957bbaede3c71f1e36ed2bc5e22892,openstack/nova,master,bug/862633,I53da353da2957bbaede3c71f1e36ed2bc5e22892,Fixes bug 862633 -- OS api consoles create() broken,MERGED,2011-09-29 20:56:29.000000000,2011-10-01 17:49:03.000000000,2011-10-01 17:49:02.000000000,233,1,1,746,7a10619a4c1f5a1880ab613f782b4cbe1d57fad4,13,4,1,2,1030,Chris Behrens,cbehrens,"Fixes bug 862633 -- OS api consoles create() broken
+
+Fixed and added tests for OS API consoles.py which didn't exist.
+
+Change-Id: I53da353da2957bbaede3c71f1e36ed2bc5e22892
+"
+openstack%2Fglance~master~Ia2126395525759eb8c11df055bdc6f286dea97b9,openstack/glance,master,rbd,Ia2126395525759eb8c11df055bdc6f286dea97b9,Add RBD store backend.,MERGED,2011-09-27 17:32:38.000000000,2011-10-01 17:37:56.000000000,2011-10-01 17:37:56.000000000,416,3,4,689,42300518eab9982596a5eb774cf65a2d04e00395,31,4,5,8,1107,Josh Durgin,jdurgin,"Add RBD store backend.
+
+To use this you'll need the latest version of Ceph from git,
+which will become version 0.37.
+
+Change-Id: Ia2126395525759eb8c11df055bdc6f286dea97b9
+"
+openstack%2Fnova~master~I635f7eef9ede45bee1ee4a62a3882b55d4222ee3,openstack/nova,master,bug/809614,I635f7eef9ede45bee1ee4a62a3882b55d4222ee3,Adds a script that can automatically delete orphaned VDIs. Also had to move some flags around to avoid circular imports.,MERGED,2011-09-27 19:44:12.000000000,2011-10-01 17:22:42.000000000,2011-10-01 17:22:42.000000000,383,3,3,693,04548b067c7c79602332fe2bc2dc89ed77cee7ac,37,5,13,4,209,Josh Kearney,jk0,"Adds a script that can automatically delete orphaned VDIs. Also had to move some flags around to avoid circular imports.
+
+Fixes bug 809614.
+
+Change-Id: I635f7eef9ede45bee1ee4a62a3882b55d4222ee3
+"
+openstack%2Fopenstack-manuals~master~I91e8c878778c9f2dfd9de067f9205ff6258d5b1d,openstack/openstack-manuals,master,bp/37vztBeuufDs,I91e8c878778c9f2dfd9de067f9205ff6258d5b1d,Fix HA networking figure ref,MERGED,2011-10-01 13:00:55.000000000,2011-10-01 13:01:24.000000000,2011-10-01 13:01:23.000000000,22342,8,0,780,2d5e622ed3e6c1b9fdfb9eea814ab955d6444b02,4,2,1,218,964,Anne Gentle,annegentle,"Fix HA networking figure ref
+
+Change-Id: I91e8c878778c9f2dfd9de067f9205ff6258d5b1d
+"
+openstack%2Fopenstack-manuals~master~Ic23dbca896aeb1c52d9d22e12001afd322954a82,openstack/openstack-manuals,master,working,Ic23dbca896aeb1c52d9d22e12001afd322954a82,Added a section which explains how to backups the nova-volumes,ABANDONED,2011-09-30 23:24:20.000000000,2011-09-30 23:25:46.000000000,,1,62,0,778,c85e892dde8600f2de9259e6a86c7e16092fe31a,1,0,1,1,1627,Razique Mahroua,razique,"Added a section which explains how to backups the nova-volumes
+
+Change-Id: Ic23dbca896aeb1c52d9d22e12001afd322954a82
+"
+openstack%2Fopenstack-manuals~master~I8584bf8d0f110081fcd6353322608570716c53b6,openstack/openstack-manuals,master,working,I8584bf8d0f110081fcd6353322608570716c53b6,Fixed typos errors into the nova-volumes section and added clarifications on the setup (iscsitarget VS open-issi). Added notes on KVM device naming,ABANDONED,2011-09-30 07:41:02.000000000,2011-09-30 23:23:51.000000000,,18,13,0,759,8369f86bbe4f1b535cf7adc294990fcbd1005371,1,0,1,1,1627,Razique Mahroua,razique,"Fixed typos errors into the nova-volumes section and added clarifications on the setup (iscsitarget VS open-issi). Added notes on KVM device naming
+
+Change-Id: I8584bf8d0f110081fcd6353322608570716c53b6
+"
+openstack%2Fnova~master~I24afb1e934d07dc47876c64ce863014c8ee848fe,openstack/nova,master,bug/839796,I24afb1e934d07dc47876c64ce863014c8ee848fe,flags.py: Use '--optional_flagfile' to specify a flagfile that may not exist,ABANDONED,2011-09-23 22:43:01.000000000,2011-09-30 22:59:18.000000000,,13,0,0,638,b1e818a0b3cc600b6f29a66f8cf3508894debb91,3,2,1,1,1420,Adam Gandelman,gandelman-a,"flags.py: Use '--optional_flagfile' to specify a flagfile that may not exist
+
+Pre-parse flagfiles from FlagValues.__call_ prior to the base class, so we can check
+existence of any optional_flagfiles.   If the file exists, append it to argv as a
+regular '--flagfile' before gflags.FlagVlues  does its parsing/loading.  The
+original '--optional_flagfile' is then later ignored as an unknown argument
+its not declared anywhere.
+
+Fixes LP bug 839796.
+
+Change-Id: I24afb1e934d07dc47876c64ce863014c8ee848fe
+"
+openstack%2Fkeystone~master~I3a31beec9a5bd0ced70c2e93e7dbdaba072b1f0c,openstack/keystone,master,,I3a31beec9a5bd0ced70c2e93e7dbdaba072b1f0c,Updating legacy auth translation to 2.0 (bug #863661),MERGED,2011-09-30 21:21:19.000000000,2011-09-30 21:31:52.000000000,2011-09-30 21:31:52.000000000,2,2,0,775,61148fbdbc41f8791243381a19dfc2136cd0594d,7,2,1,1,4,Dolph Mathews,dolph,"Updating legacy auth translation to 2.0 (bug #863661)
+
+Change-Id: I3a31beec9a5bd0ced70c2e93e7dbdaba072b1f0c
+"
+openstack-attic%2Fnetconn-api~master~I67c36d1aa4a2cebd49f7121a4708adbcf5963ab7,openstack-attic/netconn-api,master,pomchange,I67c36d1aa4a2cebd49f7121a4708adbcf5963ab7,Moves files to openstack-network folder,MERGED,2011-09-30 21:14:04.000000000,2011-09-30 21:14:29.000000000,2011-09-30 21:14:29.000000000,2,2,0,774,ebe29a5acea129eefdc862d133001dbd84baf036,4,2,1,1,964,Anne Gentle,annegentle,"Moves files to openstack-network folder
+
+Change-Id: I67c36d1aa4a2cebd49f7121a4708adbcf5963ab7
+"
+openstack%2Fkeystone~master~Iedf372e8942ddc0c924c0e0c0708d41412a13d68,openstack/keystone,master,,Iedf372e8942ddc0c924c0e0c0708d41412a13d68,Shouldn't look in /etc/init/ for config files,MERGED,2011-09-30 18:46:43.000000000,2011-09-30 18:54:33.000000000,2011-09-30 18:54:33.000000000,0,2,0,773,b46b023b22336834b6a032a490c3f9fa35fcde9b,9,3,1,1,4,Dolph Mathews,dolph,"Shouldn't look in /etc/init/ for config files
+
+Change-Id: Iedf372e8942ddc0c924c0e0c0708d41412a13d68
+"
+openstack%2Fkeystone~master~Ide9f484160e60e350590841d00d95487e7153b1c,openstack/keystone,master,,Ide9f484160e60e350590841d00d95487e7153b1c,"Changing default admin port from 5001 to 35357, per IANA/IETF (bug #843054)",MERGED,2011-09-30 18:36:14.000000000,2011-09-30 18:44:32.000000000,2011-09-30 18:44:32.000000000,37,37,0,772,308575e2b0ba67de294e68b099e20c1ac0121faf,10,3,3,21,4,Dolph Mathews,dolph,"Changing default admin port from 5001 to 35357, per IANA/IETF (bug #843054)
+
+See: http://www.ietf.org/assignments/port-numbers
+
+Change-Id: Ide9f484160e60e350590841d00d95487e7153b1c
+"
+openstack%2Fnova~master~I7c0ea900225024e69a0265c430724930ce7b892d,openstack/nova,master,bug/837687,I7c0ea900225024e69a0265c430724930ce7b892d,Deallocate ip if build fails.,MERGED,2011-09-27 21:04:42.000000000,2011-09-30 17:14:24.000000000,2011-09-30 17:14:23.000000000,66,25,0,697,f225ea4f2ffcf0343722aa370dd615ee0effe305,16,5,2,2,475,Rick Harris,rconradharris,"Deallocate ip if build fails.
+
+Fixes LP837687
+
+Change-Id: I7c0ea900225024e69a0265c430724930ce7b892d
+"
+openstack%2Fnova~master~I2799a8d70a167dda6d56f8fab2fc121fa2365a8a,openstack/nova,master,,I2799a8d70a167dda6d56f8fab2fc121fa2365a8a,Moving admin actions to extension,MERGED,2011-09-23 16:43:59.000000000,2011-09-30 17:04:39.000000000,2011-09-30 17:04:38.000000000,321,367,4,621,5f7356be106cbe1116708d2e5d30d5a2f4c479a4,12,4,3,12,1132,Brian Waldon,bcwaldon,"Moving admin actions to extension
+
+Begins to address LP bug 821145
+
+Change-Id: I2799a8d70a167dda6d56f8fab2fc121fa2365a8a
+"
+openstack%2Fnova~master~I7785daa15a795abd168234d59460ab2c729b5e50,openstack/nova,master,bug/863305,I7785daa15a795abd168234d59460ab2c729b5e50,List both owned and public images,ABANDONED,2011-09-30 14:18:44.000000000,2011-09-30 16:52:06.000000000,,21,0,0,762,610370fa99e65816d049bf72bfb320d29365fea7,3,1,1,2,1631,,,"List both owned and public images
+
+Enable listing of all images, both private which are owned and the public
+ones. Only list the private/snapshots for the owner and admin users.
+Fixed bug 863305 (snapshot listing part)
+
+Change-Id: I7785daa15a795abd168234d59460ab2c729b5e50
+"
+openstack%2Fkeystone~master~I94d82f55eab5f4ce953fda3b3cb989b7660a7f80,openstack/keystone,master,,I94d82f55eab5f4ce953fda3b3cb989b7660a7f80,Organizing and documenting pypi requirements,MERGED,2011-09-30 16:08:07.000000000,2011-09-30 16:13:51.000000000,2011-09-30 16:13:51.000000000,18,19,0,770,4c77978ed2a3d03ebf32df3d5eca6c81b8cc26e7,7,2,1,1,4,Dolph Mathews,dolph,"Organizing and documenting pypi requirements
+
+Change-Id: I94d82f55eab5f4ce953fda3b3cb989b7660a7f80
+"
+openstack%2Fkeystone~master~Id38bd062641f40521f25cc69c6c68670de7b9407,openstack/keystone,master,,Id38bd062641f40521f25cc69c6c68670de7b9407,POST /tokens: Added tenant id & name to scoped tokens in XML (#862752),MERGED,2011-09-29 23:05:20.000000000,2011-09-30 16:11:40.000000000,2011-09-30 16:11:40.000000000,98,5,0,752,029e0c52562f649f005f25aad1e465ff6eb37d6d,9,3,1,2,4,Dolph Mathews,dolph,"POST /tokens: Added tenant id & name to scoped tokens in XML (#862752)
+
+- Added functional test for auth by xml
+- Fixed & tested default tenantId's returned as 'None' when empty
+
+Change-Id: Id38bd062641f40521f25cc69c6c68670de7b9407
+"
+openstack%2Fkeystone~master~Ib9ed4378ab0730c6106df88e0924c850a963f1e1,openstack/keystone,master,JS-KEYSTONE-DOC,Ib9ed4378ab0730c6106df88e0924c850a963f1e1,sample data updates to remove -service from image and identity,MERGED,2011-09-30 16:02:53.000000000,2011-09-30 16:05:05.000000000,2011-09-30 16:05:04.000000000,4,4,0,769,e3a26aab47c6ee14536eb1b7c6123998b21a2cf8,7,2,1,1,1228,Joe Savak,jsavak,"sample data updates to remove -service from image and identity
+
+Change-Id: Ib9ed4378ab0730c6106df88e0924c850a963f1e1
+"
+openstack%2Fkeystone~master~I65594f6cab0a935847b7595c28e88db375c14a32,openstack/keystone,master,,I65594f6cab0a935847b7595c28e88db375c14a32,Error message expecting 'e' in local scope,MERGED,2011-09-30 15:41:39.000000000,2011-09-30 16:00:20.000000000,2011-09-30 16:00:20.000000000,1,1,0,767,cc476c9d2a859aa8d541d5aa99752807f3fe443f,7,2,1,1,4,Dolph Mathews,dolph,"Error message expecting 'e' in local scope
+
+Change-Id: I65594f6cab0a935847b7595c28e88db375c14a32
+"
+openstack%2Fkeystone~master~I50802419ec82d98f4cb56e93c163158d3326c5c9,openstack/keystone,master,auth-parsing,I50802419ec82d98f4cb56e93c163158d3326c5c9,Refactor and unit test json auth parsing,MERGED,2011-09-30 14:56:58.000000000,2011-09-30 15:55:21.000000000,2011-09-30 15:55:20.000000000,231,55,0,763,12b501e557370a8b3be0fbb527285f6c31d9f865,15,3,2,4,1247,Mark McLoughlin,markmc,"Refactor and unit test json auth parsing
+
+There's a bunch of code copied-and-pasted between the json parsers
+in the two auth types. Refactor the code out into a base class.
+
+First, though, unit test the code to ensure no regressions.
+
+v2: update test_user_auth_with_no_{name,password} to expect a
+    400 return instead of 401.
+
+Change-Id: I50802419ec82d98f4cb56e93c163158d3326c5c9
+"
+openstack%2Fnova~master~I165b0f8778e712c8932260c0110e159b2e9a6cfb,openstack/nova,master,bug/850602,I165b0f8778e712c8932260c0110e159b2e9a6cfb,Fixed bug lp850602. Adding backing file copy operation on kvm block migration.,MERGED,2011-09-28 18:57:06.000000000,2011-09-30 15:40:04.000000000,2011-09-30 15:40:04.000000000,47,12,0,716,b9aac1181581b9036c98f5aa493731fdc74be7e1,7,3,1,2,1075,Kei Masumoto,masumotok,"Fixed bug lp850602.
+Adding backing file copy operation on kvm block migration.
+
+Change-Id: I165b0f8778e712c8932260c0110e159b2e9a6cfb
+"
+openstack%2Fkeystone~master~Ifb4b171b45d643153a0306f701d22149859c14a7,openstack/keystone,master,update-readme,Ifb4b171b45d643153a0306f701d22149859c14a7,Update auth examples in README,MERGED,2011-09-30 14:58:47.000000000,2011-09-30 15:37:57.000000000,2011-09-30 15:37:57.000000000,4,4,0,764,40a507d1a46b78f43c2cb628ae2acced46432e9f,8,3,1,1,1247,Mark McLoughlin,markmc,"Update auth examples in README
+
+The format was changed by commit 012b2125f.
+
+Change-Id: Ifb4b171b45d643153a0306f701d22149859c14a7
+"
+openstack%2Fkeystone~master~I76a432cbb4c964f4050b8596c773e0a553120ca3,openstack/keystone,master,double-fault-msg,I76a432cbb4c964f4050b8596c773e0a553120ca3,Do not return identical error messages twice,MERGED,2011-09-30 15:00:02.000000000,2011-09-30 15:36:32.000000000,2011-09-30 15:36:32.000000000,4,1,0,765,e7c4c4b028c2f8bdb371207eeb915065f10e7e30,8,3,1,1,1247,Mark McLoughlin,markmc,"Do not return identical error messages twice
+
+e.g.
+
+ $> curl -d '{""passwordCredentials"": ...}' -H ""Content-type: application/json"" http://localhost:5000/v2.0/tokens
+
+should return:
+
+ {""badRequest"": {""message"": ""Expecting auth"", ""code"": ""400""}}
+
+not:
+
+ {""badRequest"": {""message"": ""Expecting auth or Expecting auth"", ""code"": ""400""}}
+
+Change-Id: I76a432cbb4c964f4050b8596c773e0a553120ca3
+"
+openstack%2Fkeystone~master~Idb1dd4cf1ccd0243cdb7e039d081c46b884f9892,openstack/keystone,master,JS-KEYSTONE-DOC,Idb1dd4cf1ccd0243cdb7e039d081c46b884f9892,README.md changes to point to openstack repo,MERGED,2011-09-30 14:12:50.000000000,2011-09-30 15:33:38.000000000,2011-09-30 15:33:37.000000000,4,4,0,760,b2b37a8ad1ae2675ff95ad3e2a2f8458b9e54089,7,2,1,1,1228,Joe Savak,jsavak,"README.md changes to point to openstack repo
+
+Change-Id: Idb1dd4cf1ccd0243cdb7e039d081c46b884f9892
+"
+openstack%2Fkeystone~master~Ife997e0f7deb7c021b692d5abab641191c332a5c,openstack/keystone,master,doctweak,Ife997e0f7deb7c021b692d5abab641191c332a5c,"updating docs for Mac source install, no docs for mac package install relevant",MERGED,2011-09-29 23:49:27.000000000,2011-09-30 15:12:32.000000000,2011-09-30 15:12:32.000000000,26,8,0,754,9f6336ceb04732038135ced51ea0c5b3321b2c19,7,2,1,1,6,Joe Heck,heckj,"updating docs for Mac source install, no docs for mac package install relevant
+
+Change-Id: Ife997e0f7deb7c021b692d5abab641191c332a5c
+"
+openstack%2Fnova~master~I4014bf64951963088cdfaad1210fa9d23e7cc08b,openstack/nova,master,bug/861310,I4014bf64951963088cdfaad1210fa9d23e7cc08b,bug 861310,MERGED,2011-09-28 12:38:30.000000000,2011-09-30 15:09:03.000000000,2011-09-30 15:09:03.000000000,3,0,2,703,0546616926d7f95017405b4abb532a4517db7d90,10,3,2,1,551,Sateesh,sateesh-chodapuneedi,"bug 861310
+
+Check if host list is not empty before trying to weigh the hosts.
+
+Change-Id: I4014bf64951963088cdfaad1210fa9d23e7cc08b
+"
+openstack%2Fopenstack-manuals~master~I95dfe86d2ad5269d8f9652fcc61e36cbac511a3c,openstack/openstack-manuals,master,working,I95dfe86d2ad5269d8f9652fcc61e36cbac511a3c,Fixed typos errors into the nova-volumes section and added clarifications on the setup (iscsitarget VS open-issi). Added notes on KVM device naming,ABANDONED,2011-09-29 22:01:29.000000000,2011-09-30 07:40:15.000000000,,18,13,0,749,9d64daa589b77e6b3f6bf9512c406a5f285a4261,1,0,1,1,1627,Razique Mahroua,razique,"Fixed typos errors into the nova-volumes section and added clarifications on the setup (iscsitarget VS open-issi). Added notes on KVM device naming
+
+Change-Id: I95dfe86d2ad5269d8f9652fcc61e36cbac511a3c
+"
+openstack-attic%2Fnetconn-api~master~I7c2650b91c091845e8b6367823838e0e966625b7,openstack-attic/netconn-api,master,bug/94270,I7c2650b91c091845e8b6367823838e0e966625b7,Adds API documents for the Quantum network connectivity service,MERGED,2011-09-30 03:30:46.000000000,2011-09-30 03:31:18.000000000,2011-09-30 03:31:18.000000000,37208,0,0,757,44cb396733a67bf7e21a8649ad400a577fcf5413,4,2,1,328,964,Anne Gentle,annegentle,"Adds API documents for the Quantum network connectivity service
+
+Change-Id: I7c2650b91c091845e8b6367823838e0e966625b7
+"
+openstack%2Fkeystone~master~I97f2eb0700341a9828bc5d761ee8850ca2869546,openstack/keystone,master,master,I97f2eb0700341a9828bc5d761ee8850ca2869546,fixing typo - get -> git,ABANDONED,2011-09-29 19:28:01.000000000,2011-09-29 22:51:08.000000000,2011-09-29 21:53:18.000000000,1,1,0,741,406f55cc07adeaf56b6f2da9b94f2ca01e30990f,9,3,1,1,6,Joe Heck,heckj,"fixing typo - get -> git
+
+Change-Id: I97f2eb0700341a9828bc5d761ee8850ca2869546
+"
+openstack%2Fkeystone~master~I872f53516180714754ccc157b7e675fdcfd12d02,openstack/keystone,master,,I872f53516180714754ccc157b7e675fdcfd12d02,Changes to stored hashed password in backends. Using passlib a password hashing library. Using sha512. Setting hashing to be the default behavior.,MERGED,2011-09-28 20:43:40.000000000,2011-09-29 22:33:55.000000000,2011-09-29 22:33:55.000000000,72,33,0,719,011005cdc67dd8176160b74152ba86308921da3f,34,6,5,10,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Changes to stored hashed password in backends.
+Using passlib a password hashing library.
+Using sha512.
+Setting hashing to be the default behavior.
+
+Change-Id: I872f53516180714754ccc157b7e675fdcfd12d02
+"
+openstack%2Fkeystone~master~I032779bbe63eb44aff71d36c792de893d74e57d5,openstack/keystone,master,,I032779bbe63eb44aff71d36c792de893d74e57d5,Updated guides.Have recompiled to use the latest examples.,MERGED,2011-09-29 22:06:46.000000000,2011-09-29 22:08:09.000000000,2011-09-29 22:08:09.000000000,0,0,0,750,50542df3facacb0438b6617a89c8aeb63811a990,7,2,1,9,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Updated guides.Have recompiled to use the latest examples.
+
+Change-Id: I032779bbe63eb44aff71d36c792de893d74e57d5
+"
+openstack%2Fkeystone~master~I86e4ba4a91b41e16b67932962604d4405bf4487f,openstack/keystone,master,master,I86e4ba4a91b41e16b67932962604d4405bf4487f,updating install docs for Mac,ABANDONED,2011-09-29 19:14:12.000000000,2011-09-29 21:58:06.000000000,,26,8,0,740,cd5f5f312a2ef0b4faf511ca5cce2bf6433b041c,5,4,1,1,6,Joe Heck,heckj,"updating install docs for Mac
+
+Change-Id: I86e4ba4a91b41e16b67932962604d4405bf4487f
+"
+openstack%2Fkeystone~master~Ie12ad3226b0e805e1f65b7e685f2ae29cf666a3f,openstack/keystone,master,bug/861546,Ie12ad3226b0e805e1f65b7e685f2ae29cf666a3f,Fix bug 861546,MERGED,2011-09-28 16:17:28.000000000,2011-09-29 21:51:15.000000000,2011-09-29 21:51:15.000000000,10,2,0,711,612442f662b25025085933ce42e7ce85a7ede2a7,12,4,2,1,706,Brian Lamar,blamar,"Fix bug 861546
+
+(Patch Set 2) Added comment to show why this try/except is needed.
+
+Change-Id: Ie12ad3226b0e805e1f65b7e685f2ae29cf666a3f
+"
+openstack%2Fglance~master~I975b2095980cfc56408fa76b47cf830cdd650ff2,openstack/glance,master,,I975b2095980cfc56408fa76b47cf830cdd650ff2,Extract image members into new Glance API controller,MERGED,2011-09-28 20:52:59.000000000,2011-09-29 20:28:05.000000000,2011-09-29 20:28:04.000000000,188,161,0,721,e068296d6d39059ea1505e8ca5e9b86432c5228e,13,4,3,3,1132,Brian Waldon,bcwaldon,"Extract image members into new Glance API controller
+
+Replacing method names with more common controller actions and simplifying the API router. Also refactors how members.py
+imports and uses webob.exc.
+
+Change-Id: I975b2095980cfc56408fa76b47cf830cdd650ff2
+"
+openstack%2Fnova~master~Ie379aaf3a0753b022fa14e7c8f0a18f4c35b9c96,openstack/nova,master,bug/862629,Ie379aaf3a0753b022fa14e7c8f0a18f4c35b9c96,Added ==1.0.4 version specifier to kombu in pip-requires to ensure tests pass in a clean venv.,MERGED,2011-09-29 19:56:09.000000000,2011-09-29 20:15:07.000000000,2011-09-29 20:15:06.000000000,1,1,0,742,eb4bd86f65a440b39804d16e477aeb77f31e11c1,7,3,1,1,706,Brian Lamar,blamar,"Added ==1.0.4 version specifier to kombu in pip-requires to ensure tests pass in a clean venv.
+
+Fixes bug 862629.
+
+Change-Id: Ie379aaf3a0753b022fa14e7c8f0a18f4c35b9c96
+"
+openstack%2Fnova~master~I455637a9feb802291dfaf2ef694dabc2607784f9,openstack/nova,master,bug/855660,I455637a9feb802291dfaf2ef694dabc2607784f9,Fixes euca-describe-instances failing or not showing IPs,MERGED,2011-09-25 05:27:29.000000000,2011-09-29 17:47:07.000000000,2011-09-29 17:47:07.000000000,443,280,3,641,4584e552a653904c36cf04cb295a7bf09d2def28,16,5,2,12,1030,Chris Behrens,cbehrens,"Fixes euca-describe-instances failing or not showing IPs
+
+Fixes bug 855660
+
+Makes EC2 call network manager to get IP information now, to match the
+same change to OS API
+Also refactors a bit of OS API's calls... moving some code into 'common'
+
+Fixed tests.  Some tests for OS API v1.0 were not properly testing.
+
+Fixed imports per HACKING in files touched.
+
+Change-Id: I455637a9feb802291dfaf2ef694dabc2607784f9
+"
+openstack%2Fnova~master~I5c3c849e9077117b2023f637b82831fa14b656b1,openstack/nova,master,bug/861753,I5c3c849e9077117b2023f637b82831fa14b656b1,Change 'recurse_zones' to 'local_zone_only'.,MERGED,2011-09-28 22:09:14.000000000,2011-09-29 16:57:19.000000000,2011-09-29 16:57:18.000000000,13,15,6,724,bb410b3f1bbdebdbdf540a22cd37fc9526897fe1,11,5,2,2,1030,Chris Behrens,cbehrens,"Change 'recurse_zones' to 'local_zone_only'.
+
+Fixes bug 861753
+
+Zone recursion should be the default and now 'recurse_zones' as an
+optional search argument no longer makes sense.  'local_zone_only=True' can
+now be specified to override the new default of recursing zones.
+
+Change-Id: I5c3c849e9077117b2023f637b82831fa14b656b1
+"
+openstack%2Fnova~master~Ice9b12b64b266bd291e7c689114b1172e317e144,openstack/nova,master,bug/845714,Ice9b12b64b266bd291e7c689114b1172e317e144,bug lp845714,MERGED,2011-09-22 22:08:22.000000000,2011-09-29 16:47:57.000000000,2011-09-29 16:47:57.000000000,14,3,0,545,2dd0445dd60e5f0e845c49adbfb81acbebfc3ea8,11,4,5,4,1456,Aaron Lee,aaron-lee,"bug lp845714
+
+Kind of fixes it, this calls resize on the instance. The space will be
+available, but the partition won't be resized to use this space.
+Running fdisk -l will show the additional space(after a discussion here
+I was told this solution was best for the moment).
+
+Adding myself to Authors
+
+Change-Id: Ice9b12b64b266bd291e7c689114b1172e317e144
+"
+openstack%2Fnova~master~I3c7798215c8d0d5dc979379a13e038098b0f31d4,openstack/nova,master,bug/861582,I3c7798215c8d0d5dc979379a13e038098b0f31d4,Enforce snapshot cleanup.,MERGED,2011-09-29 09:42:51.000000000,2011-09-29 16:18:17.000000000,2011-09-29 16:18:17.000000000,24,21,0,726,eb6432361ee4946d93867e2d3f0870d892a25c66,11,5,2,2,1631,,,"Enforce snapshot cleanup.
+
+Makes sure that the snapshot and the temporary directory is cleaned up,
+even if qemu-img fails. Fixes bug 861582.
+
+Change-Id: I3c7798215c8d0d5dc979379a13e038098b0f31d4
+"
+openstack%2Fkeystone~master~I6cafdb571e42c7ebfe3e663271359f93c7328c0a,openstack/keystone,master,swift-fix,I6cafdb571e42c7ebfe3e663271359f93c7328c0a,Fix swift middleware with regard to latest changes.,MERGED,2011-09-29 15:37:26.000000000,2011-09-29 16:03:24.000000000,2011-09-29 16:03:24.000000000,1,1,0,738,bf903cc457af1b058167327cf211ee3c049739cd,8,3,1,1,866,Chmouel Boudjnah,chmouel,"Fix swift middleware with regard to latest changes.
+
+Change roleRefs to roles.
+
+Change-Id: I6cafdb571e42c7ebfe3e663271359f93c7328c0a
+"
+openstack%2Fnova~master~Iece42a212e9a3671544f3c3c9856e1a5d31ba3d2,openstack/nova,master,bug/857580,Iece42a212e9a3671544f3c3c9856e1a5d31ba3d2,Re-declared the reclaim_instance_interval flag to avoid test failure when not running the entire test suite. Fixed bug 857580.,ABANDONED,2011-09-23 17:22:55.000000000,2011-09-29 15:54:05.000000000,,3,0,0,623,2a6c1f438037f51a3daf5f79b5c9ac05a57ef780,2,1,1,1,706,Brian Lamar,blamar,"Re-declared the reclaim_instance_interval flag to avoid test failure when not running the entire test suite. Fixed bug 857580.
+
+Change-Id: Iece42a212e9a3671544f3c3c9856e1a5d31ba3d2
+"
+openstack%2Fkeystone~master~Ic9b85b3cbb8fed4c49391fd0f0e58a0a66a5b9aa,openstack/keystone,master,,Ic9b85b3cbb8fed4c49391fd0f0e58a0a66a5b9aa,Changes to support getTenants to behave differntly for admin users when invoked as a service api or admin api.,MERGED,2011-09-29 05:59:18.000000000,2011-09-29 15:45:42.000000000,2011-09-29 15:45:42.000000000,25,15,0,725,2fc9527fdf85c093bd974a0a6e0dbd1844100923,8,3,1,5,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Changes to support getTenants to behave differntly for admin users when invoked
+as a service api or admin api.
+
+Change-Id: Ic9b85b3cbb8fed4c49391fd0f0e58a0a66a5b9aa
+"
+openstack%2Fkeystone~master~I49cc1d5f9dc4ec50e73a1cf91fa56d0dea7cc15e,openstack/keystone,master,,I49cc1d5f9dc4ec50e73a1cf91fa56d0dea7cc15e,Revised docstring,MERGED,2011-09-28 21:18:44.000000000,2011-09-29 15:38:50.000000000,2011-09-29 15:38:50.000000000,1,0,0,722,33a3874f7e5573cd46d52df6e4c4ba1fdacc2f09,7,2,1,1,4,Dolph Mathews,dolph,"Revised docstring
+
+Change-Id: I49cc1d5f9dc4ec50e73a1cf91fa56d0dea7cc15e
+"
+openstack%2Fopenstack-manuals~master~I9a3bfb9651d7465f92a368ee6eba8ea891cd790a,openstack/openstack-manuals,master,pomfixes,I9a3bfb9651d7465f92a368ee6eba8ea891cd790a,Fixes pom file so ant part of the build wont fail,MERGED,2011-09-29 14:57:20.000000000,2011-09-29 14:57:51.000000000,2011-09-29 14:57:51.000000000,1,10,0,731,031e93a6cb6208209a97f46c2588bc5dff666095,4,2,1,1,964,Anne Gentle,annegentle,"Fixes pom file so ant part of the build wont fail
+
+Change-Id: I9a3bfb9651d7465f92a368ee6eba8ea891cd790a
+"
+openstack%2Fopenstack-chef~master~I79242553f21af146be79686c9ace353beb3193f6,openstack/openstack-chef,master,glance-uuid-fix,I79242553f21af146be79686c9ace353beb3193f6,Make adding glance images use proper id's rather than hard code them,MERGED,2011-09-29 13:08:16.000000000,2011-09-29 13:12:06.000000000,2011-09-29 13:12:06.000000000,3,3,0,727,27ea7fa3542db46bb7894f3898b1b960341479ef,4,2,1,1,961,William Wolf,throughnothing,"Make adding glance images use proper id's rather than hard code them
+
+Change-Id: I79242553f21af146be79686c9ace353beb3193f6
+"
+openstack%2Fneutron~master~I56fe24c59f918737e57b562343c33ec6dcceac60,openstack/neutron,master,bug/855151,I56fe24c59f918737e57b562343c33ec6dcceac60,Merge from launchpad quantum/diablo branch:,MERGED,2011-09-28 23:04:01.000000000,2011-09-28 23:04:01.000000000,2011-09-28 23:04:01.000000000,14531,516,0,655,559aedc3d994ff575590fc92c6361fd7748957e5,6,2,2,121,233,Brad Hall,bgh,"Merge from launchpad quantum/diablo branch:
+
+  merge salv's fix to remove keystone middleware: lp855151
+  one more 202->200 from tyler
+  merge tylers additional 202 -> 200 changes
+  merge additions to OVS readme describing running with multiple hosts
+  merge brad's changes to make create API calls return 200, not 202
+  merge unit test for showing unset attachment
+  merging API docs branch
+  Merge: lp:~yinliu2/quantum/bug856564
+  Merge: lp:~bgh/quantum/bug850261
+
+Change-Id: I56fe24c59f918737e57b562343c33ec6dcceac60
+"
+openstack%2Fkeystone~master~Ibb4ab6f0117284cc80420d1cec6909517c199907,openstack/keystone,master,,Ibb4ab6f0117284cc80420d1cec6909517c199907,Changes to WADLs to refer actual types.,MERGED,2011-09-28 21:27:38.000000000,2011-09-28 21:29:29.000000000,2011-09-28 21:29:29.000000000,15,15,0,723,f15b6491d9aec8e22694e3abd346f2fb6e9a9df2,8,3,1,3,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Changes to WADLs to refer actual types.
+
+Change-Id: Ibb4ab6f0117284cc80420d1cec6909517c199907
+"
+openstack%2Fkeystone~master~I84da8d8d60689718e1ed11802c897a88cee2f809,openstack/keystone,master,,I84da8d8d60689718e1ed11802c897a88cee2f809,Added /etc/init/keystone.conf to list of known configuration paths,MERGED,2011-09-28 20:49:57.000000000,2011-09-28 20:51:40.000000000,2011-09-28 20:51:40.000000000,1,0,0,720,678977edac5ce90c7ce816c055a30b8e134b1f32,8,2,2,1,4,Dolph Mathews,dolph,"Added /etc/init/keystone.conf to list of known configuration paths
+
+Change-Id: I84da8d8d60689718e1ed11802c897a88cee2f809
+"
+openstack%2Fnova~master~Ida0bf74ea20ae1b4b3a25a3e1cb9d58ac51f24c8,openstack/nova,master,bug/861691,Ida0bf74ea20ae1b4b3a25a3e1cb9d58ac51f24c8,Fixes a test failure in master,MERGED,2011-09-28 19:11:05.000000000,2011-09-28 20:51:38.000000000,2011-09-28 20:51:38.000000000,4,4,0,717,9f8955d27097fdc951712b0c12bd28aa5b59b61d,8,4,1,1,1030,Chris Behrens,cbehrens,"Fixes a test failure in master
+
+Fixes bug 861691
+
+Problem is likely due to python version.. 'with self.AssertRaises' not
+supported?
+
+Change-Id: Ida0bf74ea20ae1b4b3a25a3e1cb9d58ac51f24c8
+"
+openstack%2Fkeystone~master~Ie6dfa3b4d4107aa3e0f64ee8a16e34c9c648579d,openstack/keystone,master,,Ie6dfa3b4d4107aa3e0f64ee8a16e34c9c648579d,Revising tenant IDs & Names in samples (#854228),MERGED,2011-09-28 19:49:28.000000000,2011-09-28 20:30:24.000000000,2011-09-28 20:30:23.000000000,13,14,0,718,fa8f0b88c228a320405290afcb0e3280f128fa78,8,3,1,8,4,Dolph Mathews,dolph,"Revising tenant IDs & Names in samples (#854228)
+
+Change-Id: Ie6dfa3b4d4107aa3e0f64ee8a16e34c9c648579d
+"
+openstack%2Fkeystone~master~I026d3e543e183266ba023a961c9652f5ba9e34c6,openstack/keystone,master,,I026d3e543e183266ba023a961c9652f5ba9e34c6,Authenticating against non-existent tenant (fixed #859927),MERGED,2011-09-26 19:14:45.000000000,2011-09-28 19:38:04.000000000,2011-09-28 19:38:04.000000000,109,62,0,667,e1deec3368aefdf93b4e4db43dd83553f386dfb3,12,2,5,4,4,Dolph Mathews,dolph,"Authenticating against non-existent tenant (fixed #859927)
+
+- Revised sampledata & management api to utlize object names exclusively (related to #849007)
+  - Partial fix for bug #854228
+
+Change-Id: I026d3e543e183266ba023a961c9652f5ba9e34c6
+"
+openstack%2Fnova~master~I9614740bba26c04e64b0e27c24fbace12334f4d1,openstack/nova,master,bug/727502,I9614740bba26c04e64b0e27c24fbace12334f4d1,Snapshots/backups can no longer happen simultaneously. Tests included.,MERGED,2011-09-27 15:31:33.000000000,2011-09-28 19:17:58.000000000,2011-09-28 19:17:58.000000000,85,8,2,686,b5abd8e7415c28630852107da7755045f6522b50,13,4,4,6,706,Brian Lamar,blamar,"Snapshots/backups can no longer happen simultaneously. Tests included.
+
+Implemented exception.InstanceBusy when attempting to snapshot/backup an
+instance which is already snapshotting or being currently backed up.
+
+Fixes bug 727502.
+
+(Patch Set 2) 3 new exceptions: InstanceBusy, InstanceSnapshotting, and InstanceBackingUp
+(Patch Set 3) Oops. New exceptions now inherit from InstanceBusy
+(Patch Set 4) Tests now tear down created instances
+
+Change-Id: I9614740bba26c04e64b0e27c24fbace12334f4d1
+"
+openstack%2Fkeystone~master~I96450d614209ec9e7f1c51f72805d5d7495728ff,openstack/keystone,master,master,I96450d614209ec9e7f1c51f72805d5d7495728ff,Adds list of dependencies to dev install,MERGED,2011-09-27 17:50:27.000000000,2011-09-28 18:22:44.000000000,2011-09-28 18:22:44.000000000,29,12,0,690,6bb2ba8ddbccbd68e288cc9579ae489e415a2ff1,17,4,3,1,964,Anne Gentle,annegentle,"Adds list of dependencies to dev install
+
+Change-Id: I96450d614209ec9e7f1c51f72805d5d7495728ff
+"
+openstack%2Fkeystone~master~I0540ce63d006eb7bcde7a036e60f4c93a3538f04,openstack/keystone,master,master,I0540ce63d006eb7bcde7a036e60f4c93a3538f04,Fixed Anne's email address & list position (alphabetical),MERGED,2011-09-27 17:50:27.000000000,2011-09-28 18:17:45.000000000,2011-09-28 18:17:45.000000000,2,1,0,691,908088bd7c0724438c9421364593f99117ba1033,17,3,3,1,964,Anne Gentle,annegentle,"Fixed Anne's email address & list position (alphabetical)
+
+Change-Id: I0540ce63d006eb7bcde7a036e60f4c93a3538f04
+"
+openstack%2Fopenstack-manuals~master~I5f74951c915c41ed4fe0f7498b7f463e1cc4242a,openstack/openstack-manuals,master,bp/37vztBeuufDs,I5f74951c915c41ed4fe0f7498b7f463e1cc4242a,Adds keystone pom.xml file,MERGED,2011-09-28 18:13:05.000000000,2011-09-28 18:13:22.000000000,2011-09-28 18:13:22.000000000,20420,0,0,715,acca5468834a471f102d0a04d449f67dac60f905,4,2,1,200,964,Anne Gentle,annegentle,"Adds keystone pom.xml file
+
+Change-Id: I5f74951c915c41ed4fe0f7498b7f463e1cc4242a
+"
+openstack%2Fopenstack-manuals~master~Ib512aefacc6bd4210fc3ae6c598c74ff3b948724,openstack/openstack-manuals,master,keystonefixes,Ib512aefacc6bd4210fc3ae6c598c74ff3b948724,Changes Identity pom file to build from that so that the Disqus comments go to the os-identitydevguide shortname,MERGED,2011-09-28 18:09:36.000000000,2011-09-28 18:10:25.000000000,2011-09-28 18:10:25.000000000,62,26,0,714,fc1ef13b5a7bebf4e18485fe889f0d1baf139547,4,2,1,3,964,Anne Gentle,annegentle,"Changes Identity pom file to build from that so that the Disqus comments go to the os-identitydevguide shortname
+
+Change-Id: Ib512aefacc6bd4210fc3ae6c598c74ff3b948724
+"
+openstack%2Fkeystone~master~I0ea359290e9e0d7d5cb4ded40ea4c809d7084728,openstack/keystone,master,,I0ea359290e9e0d7d5cb4ded40ea4c809d7084728,Added support for scoping by tenantName,MERGED,2011-09-26 20:47:27.000000000,2011-09-28 18:02:17.000000000,2011-09-28 18:02:17.000000000,145,35,2,669,2ac7b61ce8f40fd2a9dd9c693c3a0c0fef7605bc,21,4,6,5,4,Dolph Mathews,dolph,"Added support for scoping by tenantName
+
+- Added support & tests for auth w/ passwordCredentials + tenantName
+- Includes XSD revision
+
+Change-Id: I0ea359290e9e0d7d5cb4ded40ea4c809d7084728
+"
+openstack%2Fnova~master~I7152cb7809fa1deb3986c127370f670fb2da342d,openstack/nova,master,bug/860666,I7152cb7809fa1deb3986c127370f670fb2da342d,Accept message as sole argument to NovaException,MERGED,2011-09-28 15:14:56.000000000,2011-09-28 17:26:26.000000000,2011-09-28 17:26:26.000000000,10,10,0,709,82bef282c93a574ee5cfb2b34e0d8c077c2a7efe,7,3,1,1,100,Johannes Erdfelt,johannes.erdfelt,"Accept message as sole argument to NovaException
+
+Fixes bug 860666
+
+Python nose will sometimes recreate an exception to add captured log
+information to the string representation of the exception. It assumes
+that it can do this by reinstantiating the class of the originally
+triggered exception with one argument, a new string description.
+NovaException, and some child classes, didn't work well with this
+scheme and would result in a further exception during formatting, which
+would result in an unformatted string being displayed.
+
+Change-Id: I7152cb7809fa1deb3986c127370f670fb2da342d
+"
+openstack%2Fnova~master~I8d6378d2fd25f7659d6a6469de762728639cc4ad,openstack/nova,master,sqlalchemy-0-7-2,I8d6378d2fd25f7659d6a6469de762728639cc4ad,Fix 047 migration with SQLAlchemy 0.7.2,MERGED,2011-09-28 14:03:39.000000000,2011-09-28 16:53:11.000000000,2011-09-28 16:53:11.000000000,1,1,0,707,dbe4d21ff3b3be53e059d0a942bdc26843295633,7,3,1,1,1247,Mark McLoughlin,markmc,"Fix 047 migration with SQLAlchemy 0.7.2
+
+In 0.6.3, foreign_keys was an OrderedSet which can be indexed. In 0.7.2
+it's a plain old set which can't be indexed.
+
+  File "".../nova/db/sqlalchemy/migrate_repo/versions/047_remove_instances_fk_from_vif.py"", line 35, in upgrade
+      fkey_name = vifs.c.instance_id.foreign_keys[0].constraint.name
+  TypeError: 'set' object does not support indexing
+
+Change-Id: I8d6378d2fd25f7659d6a6469de762728639cc4ad
+"
+openstack%2Fopenstack-manuals~master~Ia185b63690842fb1fe3466e50143fbd498b5ff5a,openstack/openstack-manuals,master,addsflag,Ia185b63690842fb1fe3466e50143fbd498b5ff5a,Adds max_cores flag info and updates Compute install section,MERGED,2011-09-28 15:45:15.000000000,2011-09-28 15:45:42.000000000,2011-09-28 15:45:42.000000000,22,11,0,710,2848d0fd67d575fe65fa7d73ffd5177387f4ce87,4,2,1,2,964,Anne Gentle,annegentle,"Adds max_cores flag info and updates Compute install section
+
+Change-Id: Ia185b63690842fb1fe3466e50143fbd498b5ff5a
+"
+openstack%2Fnova~master~I7cea9900c2ccabc30800a167f127ada8386a724b,openstack/nova,master,signer_test,I7cea9900c2ccabc30800a167f127ada8386a724b,Signer no longer fails if hashlib.sha256 is not available. test_signer unit test added.,MERGED,2011-09-27 13:53:40.000000000,2011-09-28 15:25:24.000000000,2011-09-28 15:25:24.000000000,103,4,6,682,07cf091f9f3b6412d3aed4a1a49d2b0d0bb95247,16,6,2,3,1610,Brendan Maguire,b-maguire,"Signer no longer fails if hashlib.sha256 is not available. test_signer unit test added.
+
+Change-Id: I7cea9900c2ccabc30800a167f127ada8386a724b
+"
+openstack%2Fnova~master~I22284c2f71b77aaa1aff0c0679320664cd23dae2,openstack/nova,master,bug/850389,I22284c2f71b77aaa1aff0c0679320664cd23dae2,Make snapshots private by default,MERGED,2011-09-28 03:22:42.000000000,2011-09-28 15:16:03.000000000,2011-09-28 15:16:02.000000000,1,1,0,700,6574d1bb17ad111e5dd5b1c7b2e6f0a698e2c275,10,4,1,1,100,Johannes Erdfelt,johannes.erdfelt,"Make snapshots private by default
+
+Fixes bug 850389
+
+Change-Id: I22284c2f71b77aaa1aff0c0679320664cd23dae2
+"
+openstack%2Fkeystone~master~Ief03c991b0d35505fdb5628586005bbbfc31c6cd,openstack/keystone,master,,Ief03c991b0d35505fdb5628586005bbbfc31c6cd,XSD changes to scope by tenantName or tenantId (#855182),ABANDONED,2011-09-26 21:47:07.000000000,2011-09-28 15:13:56.000000000,,46,2,5,673,2b563a1ae162608e11b202f7ff339e506bc83c95,12,3,4,1,4,Dolph Mathews,dolph,"XSD changes to scope by tenantName or tenantId (#855182)
+
+- Both should be optional
+- Both should never be provided together
+- Fixed: element should have been an attribute
+- Fixed: extending wrong abstract type
+
+Change-Id: Ief03c991b0d35505fdb5628586005bbbfc31c6cd
+"
+openstack%2Fopenstack-chef~master~I23f5b8bca8c2c5a69d9a98dd687664ca96b62f8f,openstack/openstack-chef,master,nova_conf_formatting,I23f5b8bca8c2c5a69d9a98dd687664ca96b62f8f,Format nova.conf without empty lines. Add some new flags.,MERGED,2011-09-28 13:53:33.000000000,2011-09-28 13:54:00.000000000,2011-09-28 13:54:00.000000000,73,60,0,705,5b58e21f113e1cf97eddaed17dcf2c9de8de0f8a,4,2,1,1,360,Dan Prince,dan-prince,"Format nova.conf without empty lines. Add some new flags.
+
+Change-Id: I23f5b8bca8c2c5a69d9a98dd687664ca96b62f8f
+"
+openstack%2Fswift~master~I26a3379e6ffced15ce9e2ef7466855f658958e4f,openstack/swift,master,recon-cli-perzone,I26a3379e6ffced15ce9e2ef7466855f658958e4f,Add support querying only specific zones via recon cli.  Add --all shortcut flag.,ABANDONED,2011-09-27 22:01:19.000000000,2011-09-28 05:53:46.000000000,,48,33,1,698,ce6988e841e5f11ac0f85685cc811254c325a3ce,2,1,1,1,1603,Florian Hines,pandemicsyn,"Add support querying only specific zones via recon cli.  Add --all shortcut flag.
+
+Change-Id: I26a3379e6ffced15ce9e2ef7466855f658958e4f
+"
+openstack%2Fswift~master~I03d23780ac9598bde9211f10858396e1b5930485,openstack/swift,master,recon-cli-perzone,I03d23780ac9598bde9211f10858396e1b5930485,Sskip deleted devices in the ring.,ABANDONED,2011-09-28 05:04:44.000000000,2011-09-28 05:07:00.000000000,,1,1,0,701,2218aa783de405ee9570254d4be3278153f3cbc8,1,0,1,1,1603,Florian Hines,pandemicsyn,"Sskip deleted devices in the ring.
+
+Change-Id: I03d23780ac9598bde9211f10858396e1b5930485
+"
+openstack%2Fkeystone~master~I3853de4201f8bb421ee22f4e9e936d7f0ee52a5f,openstack/keystone,master,,I3853de4201f8bb421ee22f4e9e936d7f0ee52a5f,Changes to support authenticate call to accept token as per agreed format.,MERGED,2011-09-27 20:01:09.000000000,2011-09-28 01:15:32.000000000,2011-09-28 01:15:32.000000000,22,11,0,694,fd1e7306f39b04a2b08d7c1992c6d21746248c09,11,2,1,2,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Changes to support authenticate call to accept token as per agreed format.
+
+Change-Id: I3853de4201f8bb421ee22f4e9e936d7f0ee52a5f
+"
+openstack%2Fkeystone~master~I866409e6d869daab80b33b0605966a013d2ada42,openstack/keystone,master,,I866409e6d869daab80b33b0605966a013d2ada42,Changes to return groups as a part of RAXKSGRP extension.Also fixed incorrect schema version references in wadls and examples.,MERGED,2011-09-27 22:44:14.000000000,2011-09-28 01:14:55.000000000,2011-09-28 01:14:55.000000000,121,13,0,699,f2bde1718fe83c979b179ce5ac201b8722dedee8,7,2,1,16,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Changes to return groups as a part of RAXKSGRP extension.Also fixed incorrect
+schema version references in wadls and examples.
+
+Change-Id: I866409e6d869daab80b33b0605966a013d2ada42
+"
+openstack%2Fglance~master~I159958da8ed4187da2e22392fe341042eedfd056,openstack/glance,master,bug/860872,I159958da8ed4187da2e22392fe341042eedfd056,Returning functionality of s3 backend to stream remote images,MERGED,2011-09-27 20:24:09.000000000,2011-09-27 22:56:09.000000000,2011-09-27 22:56:09.000000000,91,13,1,695,47c03a348031d25fafd56ed3c74c5376f21b1cf0,9,5,2,5,1132,Brian Waldon,bcwaldon,"Returning functionality of s3 backend to stream remote images
+
+Fixes bug 860872. Also refactoring swift remote image tests to pull location data from registry now that it is unavailable from the main
+api.
+
+(Update) Fixed minor feedback for Waldon from Vek.
+
+Change-Id: I159958da8ed4187da2e22392fe341042eedfd056
+"
+openstack%2Fnova~master~Ic040780a2e86d7330e225f14056dadbaa9fb3c7e,openstack/nova,master,bug/844160,Ic040780a2e86d7330e225f14056dadbaa9fb3c7e,compute_api create*() and schedulers refactoring,MERGED,2011-09-24 23:51:51.000000000,2011-09-27 20:01:30.000000000,2011-09-27 20:01:29.000000000,1771,1251,13,640,0fab78825ef06310926181f6f97d377058b56b97,19,4,5,35,1030,Chris Behrens,cbehrens,"compute_api create*() and schedulers refactoring
+
+Fixes bug 844160
+
+Makes the servers create API call work with all schedulers, removes
+'zone boot', and folds create_instance_helper back into servers
+controller.
+
+Notable changes:
+1) compute API's create_at_all_once has been removed. It was only used
+by zone boot.
+2) compute API's create() no longer creates Instance DB entries. The
+schedulers now do this. This makes sense, as only the schedulers will
+know where the instances will be placed. They could be placed locally or
+in a child zone. However, this comes at a cost. compute_api.create() now
+does a 'call' to the scheduler instead of a 'cast' in most cases (* see
+below). This is so it can receive the instance ID(s) that were created
+back from the scheduler. Ultimately, we probably need to figure out a
+way to generate UUIDs before scheduling and return only the information
+we know about an instance before it is actually scheduled and created.
+We could then revert this back to a cast. (Or maybe we always return a
+reservation ID instead of an instance.)
+3) scheduler* calls do not return a host now.  They return a value
+that'll be returned if the caller does an rpc.call().  The casts to
+hosts are now done by the scheduler drivers themselves.
+4) There's been an undocumented feature in the OS API to allow multiple
+instances to be built. I've kept it.
+5) If compute_api.create() is creating multiple instances, only a single
+call is made to the scheduler, vs the old way of sending many casts. All
+schedulers now check how many instances have been requested.
+6) I've added an undocumented option 'return_reservation_id' when
+building. If set to True, only a reservation ID is returned to the API
+caller, not the instance. This essentially gives you the old 'nova
+zone-boot' functionality.
+7) It was requested I create a stub for a zones extension, so you'll see
+the empty extension in here. We'll move some code to it later.
+8) Fixes an unrelated bug that merged into trunk recently where zones DB
+calls were not being done with admin context always, anymore.
+9) Scheduler calls were always done with admin context when they should
+elevate only when needed.
+10) Moved stub_network flag so individual tests can run again.
+
+* Case #6 above doesn't wait for the scheduler response with instance
+IDs. It does a 'cast' instead.
+
+Change-Id: Ic040780a2e86d7330e225f14056dadbaa9fb3c7e
+"
+openstack%2Fnova~master~I199aa6900890531b175e28c3b93d8dfb88e135d0,openstack/nova,master,bug/851374,I199aa6900890531b175e28c3b93d8dfb88e135d0,Raise InsufficientFreeMemory,MERGED,2011-09-26 23:47:10.000000000,2011-09-27 19:14:41.000000000,2011-09-27 19:14:41.000000000,6,7,5,676,7dba1d9aa989760b190f1cf3bad2ed22bb2e2fc5,15,5,3,3,1456,Aaron Lee,aaron-lee,"Raise InsufficientFreeMemory
+
+Kind of fixes bug 851374 & bug 858679
+
+Raises InsufficientFreeMemory if an instance can't
+start because of that. This will cause the normal
+instance failure recovery to catch this problem,
+set the state, and log the error. This also
+removes instance_set_state from db/api.py as that
+was causing these exceptions in the first place.
+
+Change-Id: I199aa6900890531b175e28c3b93d8dfb88e135d0
+"
+openstack%2Fnova~master~Ia6586ca738ce299e794641f9168afc82cfa58712,openstack/nova,master,bug/809614,Ia6586ca738ce299e794641f9168afc82cfa58712,Fixes bug 809614.,ABANDONED,2011-09-27 15:40:01.000000000,2011-09-27 18:57:08.000000000,,140,68,5,688,251d86fe1ab8abc39cf269ef81d72e1b582a6493,4,2,2,7,209,Josh Kearney,jk0,"Fixes bug 809614.
+
+Adds a script that can automatically purge all orphaned VDIs in XenServer.
+
+Change-Id: Ia6586ca738ce299e794641f9168afc82cfa58712
+"
+openstack%2Fnova~master~Ifcedc2b7925f293cc47fb1eda9fbc14fa045918a,openstack/nova,master,changeto-gitignore,Ifcedc2b7925f293cc47fb1eda9fbc14fa045918a,Adding run_test.sh artifacts to .gitignore,MERGED,2011-09-27 14:43:56.000000000,2011-09-27 15:51:47.000000000,2011-09-27 15:51:47.000000000,4,2,0,683,d2ac401fbb6620700772ed2abb5a6e9296ff3a93,13,4,2,2,1456,Aaron Lee,aaron-lee,"Adding run_test.sh artifacts to .gitignore
+
+Adding myself to the Authors file.
+
+Change-Id: Ifcedc2b7925f293cc47fb1eda9fbc14fa045918a
+"
+openstack%2Fkeystone~master~I39b467a72c6230d406cc1175f39d987e8060ea22,openstack/keystone,master,,I39b467a72c6230d406cc1175f39d987e8060ea22,Minor changes to wadl.,MERGED,2011-09-27 15:37:37.000000000,2011-09-27 15:40:39.000000000,2011-09-27 15:40:39.000000000,9,1,0,687,82df88e067570d73d6e1f433899ce34ab4eb9e98,7,2,1,3,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Minor changes to wadl.
+
+Change-Id: I39b467a72c6230d406cc1175f39d987e8060ea22
+"
+openstack%2Fopenstack-chef~master~I9b2c65546683cf858066f56ae52b614fd60e559a,openstack/openstack-chef,master,allow_resize_to_same_host,I9b2c65546683cf858066f56ae52b614fd60e559a,Add allow_resize_to_same_host flag to nova.conf template.,MERGED,2011-09-27 15:10:26.000000000,2011-09-27 15:10:52.000000000,2011-09-27 15:10:52.000000000,1,0,0,685,7066cbe8d7cbf570de5c28802ae8f6f795863f52,4,2,1,1,360,Dan Prince,dan-prince,"Add allow_resize_to_same_host flag to nova.conf template.
+
+Change-Id: I9b2c65546683cf858066f56ae52b614fd60e559a
+"
+openstack%2Fswift~master~I8d18a49fcf239f7cc7bfe4cdb468ac849436122e,openstack/swift,master,bug/836922,I8d18a49fcf239f7cc7bfe4cdb468ac849436122e,Changes swift-ring-builder exit codes,MERGED,2011-09-20 21:53:10.000000000,2011-09-27 14:40:50.000000000,2011-09-27 14:40:50.000000000,34,30,0,499,1ad31af887cd6cdda180239e732f7eb6da8e301b,7,3,1,1,449,Mark Gius,markgius,"Changes swift-ring-builder exit codes
+
+swift-ring-builder will now return zero for successful operations and
+non-zero for operations that have errored or need attention.
+
+Fixes bug 836922
+
+Change-Id: I8d18a49fcf239f7cc7bfe4cdb468ac849436122e
+"
+openstack%2Fglance~master~I117d45f7d5b1991296736b7915857e8764aad30d,openstack/glance,master,,I117d45f7d5b1991296736b7915857e8764aad30d,Make remote swift image streaming functional,MERGED,2011-09-26 21:38:01.000000000,2011-09-27 13:59:48.000000000,2011-09-27 13:59:48.000000000,86,3,0,672,4847ceb59fe35481fd42ddc9369b7d3814eca721,14,4,2,3,1132,Brian Waldon,bcwaldon,"Make remote swift image streaming functional
+
+Fixes lp 850425
+
+Change-Id: I117d45f7d5b1991296736b7915857e8764aad30d
+"
+openstack%2Fglance~master~I1b414fafb492f3cafd5a1e857d55e8a8d3fa9a8a,openstack/glance,master,,I1b414fafb492f3cafd5a1e857d55e8a8d3fa9a8a,Improving swfit store uri construction,MERGED,2011-09-26 20:58:02.000000000,2011-09-27 13:46:47.000000000,2011-09-27 13:46:47.000000000,37,65,2,670,2b43f89e2cb7e0d89b9f2a957b4ae25c2cb496d7,10,4,2,2,1132,Brian Waldon,bcwaldon,"Improving swfit store uri construction
+
+Fixing bug 860010
+
+Change-Id: I1b414fafb492f3cafd5a1e857d55e8a8d3fa9a8a
+"
+openstack%2Fnova~master~I83c6c1cdb8e11959d6af5c08827e9f9ce82a5913,openstack/nova,master,bug/860520,I83c6c1cdb8e11959d6af5c08827e9f9ce82a5913,Make sure options is set before checking managed_disk setting. Fixes bug 860520.,MERGED,2011-09-27 12:59:58.000000000,2011-09-27 13:43:44.000000000,2011-09-27 13:43:43.000000000,1,1,0,680,21da183edee9c8f8ddf0ff6a880486c0ed2e4623,7,3,1,1,360,Dan Prince,dan-prince,"Make sure options is set before checking managed_disk setting. Fixes bug 860520.
+
+Change-Id: I83c6c1cdb8e11959d6af5c08827e9f9ce82a5913
+"
+openstack%2Fnova~master~If3e1765b659ead77f9cdaaa86ee8478a82bf67c0,openstack/nova,master,disk_config_deus,If3e1765b659ead77f9cdaaa86ee8478a82bf67c0,Adds disk config,MERGED,2011-09-23 20:38:44.000000000,2011-09-27 05:05:35.000000000,2011-09-27 05:05:35.000000000,377,12,0,629,774b5aaa173fa04675be5252c5d47f67a07347ac,7,3,1,9,642,Matt Dietz,cerberus,"Adds disk config
+
+Change-Id: If3e1765b659ead77f9cdaaa86ee8478a82bf67c0
+"
+openstack%2Fnova~master~Id58b607320536364867ee5c8d347b250406d9a2d,openstack/nova,master,bp/deferred-delete-instance,Id58b607320536364867ee5c8d347b250406d9a2d,Fix some minor issues due to premature merge of original code.,MERGED,2011-09-25 22:27:08.000000000,2011-09-27 04:40:23.000000000,2011-09-27 04:40:22.000000000,42,28,0,644,6c52cffab5c35c9d668e0ef5f612004cb7940091,9,4,2,3,100,Johannes Erdfelt,johannes.erdfelt,"Fix some minor issues due to premature merge of original code.
+
+Consolidate duplicated code between delete() and force_delete(). Treat soft
+deleted instances like hard deleted instances in queries. Fix running unit
+tests individually do to using flags from a non-imported module.
+
+blueprint deferred-delete-instance
+
+Change-Id: Id58b607320536364867ee5c8d347b250406d9a2d
+"
+openstack%2Fkeystone~master~I859ec44bdf48b02d79333f8ae852e3c431b5656c,openstack/keystone,master,,I859ec44bdf48b02d79333f8ae852e3c431b5656c,Making type mandatory as per sandy's request and minor fixes to wadl examples. Adding Ann as an author.,MERGED,2011-09-26 20:18:32.000000000,2011-09-26 21:08:13.000000000,2011-09-26 21:08:12.000000000,6,3,0,668,e139f4e74f630a14b8ba2d86a57fd906a0cf4efd,9,4,2,3,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Making type mandatory as per sandy's request and minor fixes to wadl examples.
+Adding Ann as an author.
+
+Change-Id: I859ec44bdf48b02d79333f8ae852e3c431b5656c
+"
+openstack%2Fneutron~master~I5a62d5663df28294f86c3935e18acb1d6163f37e,openstack/neutron,master,master,I5a62d5663df28294f86c3935e18acb1d6163f37e,Remove hack for figuring out the vif interface identifier (lp859864),MERGED,2011-09-26 19:53:31.000000000,2011-09-26 19:53:31.000000000,2011-09-26 19:53:31.000000000,1,28,0,664,73feb9bf0144df15df4320746d280b36b3de1aaa,5,6,1,1,233,Brad Hall,bgh,"Remove hack for figuring out the vif interface identifier (lp859864)
+
+Change-Id: I5a62d5663df28294f86c3935e18acb1d6163f37e
+"
+openstack%2Fnova~master~I2be932d3c532a7be03a0e5296e592e681c05b75d,openstack/nova,master,bug/856721,I2be932d3c532a7be03a0e5296e592e681c05b75d,Call endheaders when auth_token is None. Fixes bug 856721.,MERGED,2011-09-26 17:40:05.000000000,2011-09-26 19:29:35.000000000,2011-09-26 19:29:35.000000000,1,1,0,660,14eb9c6ec9c82c9f56cde5279aebb1e5a8fac4f4,8,4,1,1,360,Dan Prince,dan-prince,"Call endheaders when auth_token is None. Fixes bug 856721.
+
+Change-Id: I2be932d3c532a7be03a0e5296e592e681c05b75d
+"
+openstack%2Fkeystone~master~Ic440eb84ff71d90a473733457223f6e22710850d,openstack/keystone,master,,Ic440eb84ff71d90a473733457223f6e22710850d,Changes to structures to support authenticate using token. Minor wadl fixes. Adding Anne as an author.,MERGED,2011-09-26 18:47:09.000000000,2011-09-26 19:01:41.000000000,2011-09-26 19:01:41.000000000,41,17,0,663,b2b154df9ae5b0c96a6cc72263ee906b9d458d64,8,3,2,6,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Changes to structures to support authenticate using token.
+Minor wadl fixes.
+Adding Anne as an author.
+
+Change-Id: Ic440eb84ff71d90a473733457223f6e22710850d
+"
+openstack%2Fnova~master~I52bcb442225e8e3cb4aecc6d993e1c3a774cdf84,openstack/nova,master,,I52bcb442225e8e3cb4aecc6d993e1c3a774cdf84,Ensure minRam and minDisk are always integers,MERGED,2011-09-26 17:15:00.000000000,2011-09-26 18:47:56.000000000,2011-09-26 18:47:56.000000000,21,9,2,658,3981a218da0c201a89158cf9a95400e44f9c6eb2,11,5,2,3,1132,Brian Waldon,bcwaldon,"Ensure minRam and minDisk are always integers
+
+Fixing bug 859149
+
+Change-Id: I52bcb442225e8e3cb4aecc6d993e1c3a774cdf84
+"
+openstack%2Fnova~master~Ieab3cb1b7b0b78aff8df25bbc35b96924a8e7e60,openstack/nova,master,bug/854614,Ieab3cb1b7b0b78aff8df25bbc35b96924a8e7e60,put fully qualified domain name in local-hostname,MERGED,2011-09-23 20:45:02.000000000,2011-09-26 18:39:22.000000000,2011-09-26 18:39:21.000000000,13,4,2,631,6415999523d26f1680265e5ca438020b7d6542c6,13,5,4,4,1082,Scott Moser,smoser,"put fully qualified domain name in local-hostname
+
+make metadata service return fully qualified domain name (fqdn) in
+the local-hostname field. (bug 854614)
+
+Also, move the dhcp_domain flag from being in nova.network.linux_net to be
+in the more common nova.network.manager.  Since it is being used for
+something more generic, it shouldnt be stuck in linux_net.
+
+Change-Id: Ieab3cb1b7b0b78aff8df25bbc35b96924a8e7e60
+"
+openstack%2Fnova~master~I2fe5ba4505a90029e3209d197d8a3664e1d0614e,openstack/nova,master,,I2fe5ba4505a90029e3209d197d8a3664e1d0614e,Catch ImageNotFound on image delete in OSAPI,MERGED,2011-09-26 17:34:52.000000000,2011-09-26 18:15:21.000000000,2011-09-26 18:15:21.000000000,19,1,0,659,a884e3a161462f9a357efd6075f6fabb4d2308e1,7,3,1,2,1132,Brian Waldon,bcwaldon,"Catch ImageNotFound on image delete in OSAPI
+
+Fixes bug 859148
+
+Change-Id: I2fe5ba4505a90029e3209d197d8a3664e1d0614e
+"
+openstack%2Fglance~master~I3ccc2686bea30a770751fde605c78a3b7c5930b6,openstack/glance,master,bug/850685,I3ccc2686bea30a770751fde605c78a3b7c5930b6,Fixes LP Bug #850685,MERGED,2011-09-23 21:30:31.000000000,2011-09-26 17:46:09.000000000,2011-09-26 17:46:09.000000000,37,5,0,634,1bb0600efb444fa4d8a27e876a8c002324746c1e,7,3,1,5,7,Jay Pipes,jaypipes,"Fixes LP Bug #850685
+
+Handle 300 Multiple Choices gracefully in client
+
+This patch adds a new exception MultipleChoices that
+is now raised when the client encounters a 300 from the
+server, with a helpful error message indicating the likely
+cause is that the caller has forgotten to include a version
+string in the request URI.
+
+Change-Id: I3ccc2686bea30a770751fde605c78a3b7c5930b6
+"
+openstack%2Fkeystone~master~Ib3e89c4b7a26cc069399779137a1a697c6a92a4f,openstack/keystone,master,,Ib3e89c4b7a26cc069399779137a1a697c6a92a4f,Removing token element from token.xsd,MERGED,2011-09-26 17:43:55.000000000,2011-09-26 17:45:05.000000000,2011-09-26 17:45:05.000000000,0,1,0,661,f7f777900abcf5495f29351436bdacd9f40603c8,7,2,1,1,4,Dolph Mathews,dolph,"Removing token element from token.xsd
+
+Change-Id: Ib3e89c4b7a26cc069399779137a1a697c6a92a4f
+"
+openstack%2Fkeystone~master~I3a3facaee16d7a86378665d9efc1d9a28b79483d,openstack/keystone,master,master,I3a3facaee16d7a86378665d9efc1d9a28b79483d,Update to token.xsd to allow element token as a root element in relation tu bug: https://bugs.launchpad.net/keystone/+bug/855216 - apiKeyCredentials Samples casing apiKey update.,MERGED,2011-09-26 16:15:37.000000000,2011-09-26 17:35:51.000000000,2011-09-26 17:35:50.000000000,8,7,0,654,9ddffa1f8bf3111502d43689a7e6471493c4ae6c,8,3,2,7,1322,Carlos Marin,carlos-marin-d,"Update to token.xsd to allow element token as a root element in relation tu bug: https://bugs.launchpad.net/keystone/+bug/855216
+- apiKeyCredentials Samples casing apiKey update.
+
+Change-Id: I3a3facaee16d7a86378665d9efc1d9a28b79483d
+"
+openstack%2Fkeystone~master~I0b5f0e1ec9cb71ea73a242893599e5b9b58428b7,openstack/keystone,master,,I0b5f0e1ec9cb71ea73a242893599e5b9b58428b7,Changes to support endpoint template addition/listing by service names. Changes to list service details as well.,MERGED,2011-09-26 16:10:27.000000000,2011-09-26 17:32:08.000000000,2011-09-26 17:32:08.000000000,21,16,0,652,c2a27eef2c0df721d784c3cd82e5e84c6b9a5b1b,10,4,3,3,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Changes to support endpoint template addition/listing by service names.
+Changes to list service details as well.
+
+Change-Id: I0b5f0e1ec9cb71ea73a242893599e5b9b58428b7
+"
+openstack%2Fnova~master~If61e34589a91f528093c0d05522600d3eee8d89e,openstack/nova,master,images-next,If61e34589a91f528093c0d05522600d3eee8d89e,Add next links to images requests,MERGED,2011-09-23 17:14:05.000000000,2011-09-26 15:55:49.000000000,2011-09-26 15:55:48.000000000,327,17,0,622,1af4c1ee47ebcf84e63590c27a4d1f4c94c073cb,13,4,2,4,961,William Wolf,throughnothing,"Add next links to images requests
+
+This adds next links to list images responses in JSON and xml.
+It keeps all other filters and query parameters in tact to ensure
+pagination works correctly when using the next links.
+
+Change-Id: If61e34589a91f528093c0d05522600d3eee8d89e
+"
+openstack%2Fopenstack-manuals~master~I0dd57ad1541c261ac7aff877dd75c2aaff9e6245,openstack/openstack-manuals,master,diabloedits,I0dd57ad1541c261ac7aff877dd75c2aaff9e6245,Fixes network label requirement in post-install config,MERGED,2011-09-26 14:57:54.000000000,2011-09-26 14:58:47.000000000,2011-09-26 14:58:46.000000000,2,2,0,650,0e3a895bc8080894e4ddf687363977e5da203dc9,4,2,1,1,964,Anne Gentle,annegentle,"Fixes network label requirement in post-install config
+
+Change-Id: I0dd57ad1541c261ac7aff877dd75c2aaff9e6245
+"
+openstack%2Fnova~master~I9f2b7bc5ede142717df6cb1653043b4f5c09959a,openstack/nova,master,bug/859587,I9f2b7bc5ede142717df6cb1653043b4f5c09959a,Makes sure to recreate gateway for moved ip,MERGED,2011-09-26 12:15:45.000000000,2011-09-26 14:53:14.000000000,2011-09-26 14:53:14.000000000,44,1,0,647,569b310b003c1c96151a3e3d448ddf5fe4e9299a,7,3,1,2,67,Vish Ishaya,vishvananda,"Makes sure to recreate gateway for moved ip
+
+If nova moves an ip when setting up dhcp, make sure to reset
+the default gateway.  Fixes bug 859587
+
+Change-Id: I9f2b7bc5ede142717df6cb1653043b4f5c09959a
+"
+openstack%2Fswift~master~I11a949dfa3f36691f86f3b7330d65e435c22da24,openstack/swift,master,fix-swift-recon,I11a949dfa3f36691f86f3b7330d65e435c22da24,Fix swift-recon,MERGED,2011-09-26 13:31:59.000000000,2011-09-26 14:38:20.000000000,2011-09-26 14:38:20.000000000,2,2,0,648,1397fa799b64cc259a9a1b1b70b7b048f2182837,5,2,1,1,866,Chmouel Boudjnah,chmouel,"Fix swift-recon
+
+Make sure there is things in the row of ring_data.devs.
+Adjust else: for the driver information.
+
+Change-Id: I11a949dfa3f36691f86f3b7330d65e435c22da24
+"
+openstack%2Fkeystone~master~Ic4d1892b4b2d6d2c4d6efdf08960d6a1305b92ee,openstack/keystone,master,,Ic4d1892b4b2d6d2c4d6efdf08960d6a1305b92ee,Changes to support authentication calls using token.,ABANDONED,2011-09-26 04:39:11.000000000,2011-09-26 14:02:12.000000000,,63,9,0,645,8e73312eef827a58c9d07df0d369c85dc4bb7408,3,1,3,4,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Changes to support authentication calls using token.
+
+Change-Id: Ic4d1892b4b2d6d2c4d6efdf08960d6a1305b92ee
+"
+openstack%2Fnova~master~I52ba155e02a92eac417dba220a41acf32d3141e8,openstack/nova,master,,I52ba155e02a92eac417dba220a41acf32d3141e8,Removing old code that snuck back in,MERGED,2011-09-23 14:35:29.000000000,2011-09-26 13:55:04.000000000,2011-09-26 13:55:04.000000000,0,48,0,560,7a95f73ad7b295ddd2313152973c6da2c78fac76,14,5,2,2,1132,Brian Waldon,bcwaldon,"Removing old code that snuck back in
+
+Change-Id: I52ba155e02a92eac417dba220a41acf32d3141e8
+"
+openstack%2Fnova~master~I270794a08a1bfafe7af427cd31f1f60df1faa4ba,openstack/nova,master,,I270794a08a1bfafe7af427cd31f1f60df1faa4ba,* Rework osapi to use network API not FK backref * Fixes lp854585,MERGED,2011-09-23 15:43:44.000000000,2011-09-25 17:47:11.000000000,2011-09-25 17:47:11.000000000,440,328,7,618,8be1c68f809b55088c1ad00ef86cb13b0103aab0,33,4,6,15,385,Jason Kölker,jason-koelker,"* Rework osapi to use network API not FK backref
+* Fixes lp854585
+
+Change-Id: I270794a08a1bfafe7af427cd31f1f60df1faa4ba
+"
+openstack%2Fkeystone~master~I4d2e1955924cfb155eccce288303836d1f84cc18,openstack/keystone,master,master,I4d2e1955924cfb155eccce288303836d1f84cc18,Update to token.xsd to allow element token as a root element in relation tu bug: https://bugs.launchpad.net/keystone/+bug/855216,ABANDONED,2011-09-24 05:58:58.000000000,2011-09-24 06:46:08.000000000,,1,0,0,639,20f8ce9f146680cbb06823cd017016c7649c90fc,3,1,1,1,1322,Carlos Marin,carlos-marin-d,"Update to token.xsd to allow element token as a root element in relation tu bug: https://bugs.launchpad.net/keystone/+bug/855216
+
+Change-Id: I4d2e1955924cfb155eccce288303836d1f84cc18
+"
+openstack%2Fnova~master~I660532ee5758c7595138d4dcf5a2825ddf898c65,openstack/nova,master,bug/857209,I660532ee5758c7595138d4dcf5a2825ddf898c65,contrib/nova.sh: Updated to latest 'upstream' commit:6a8433a resolves bug 857209,ABANDONED,2011-09-23 22:05:11.000000000,2011-09-23 22:07:26.000000000,,76,34,0,637,95d8d0f75c188f7eabf00ecf6bd5b397852e67b9,1,0,1,1,979,Dave Walker,davewalker,"contrib/nova.sh: Updated to latest 'upstream' commit:6a8433a resolves
+bug 857209
+
+Change-Id: I660532ee5758c7595138d4dcf5a2825ddf898c65
+"
+openstack%2Fnova~master~I812e95fb0744ad84abd7ea2ad7d11123667abbc8,openstack/nova,master,,I812e95fb0744ad84abd7ea2ad7d11123667abbc8,Made jenkins email pruning more resilient.,MERGED,2011-09-23 21:38:17.000000000,2011-09-23 21:55:51.000000000,2011-09-23 21:55:51.000000000,1,1,0,635,c586e4ed23846420177802c164f594e021cceea8,6,2,1,1,2,Monty Taylor,mordred,"Made jenkins email pruning more resilient.
+
+Change-Id: I812e95fb0744ad84abd7ea2ad7d11123667abbc8
+"
+openstack%2Fglance~master~I7fb8bdebdb0a28415c1737f70bbb21a5387f7eac,openstack/glance,master,,I7fb8bdebdb0a28415c1737f70bbb21a5387f7eac,Adding git-specific Authors file test,ABANDONED,2011-09-15 16:00:16.000000000,2011-09-23 21:44:53.000000000,,41,42,0,451,c51128d7580e8f3e6cedfaaff86ce99bae4d4a1c,44,6,4,4,1132,Brian Waldon,bcwaldon,"Adding git-specific Authors file test
+
+Fixes lp bug 850441
+
+Change-Id: I7fb8bdebdb0a28415c1737f70bbb21a5387f7eac
+"
+openstack%2Fnova~master~I495363b44d9da96d66f85c2a621393329830aeb3,openstack/nova,master,,I495363b44d9da96d66f85c2a621393329830aeb3,Fixing bug 857712,MERGED,2011-09-23 20:40:21.000000000,2011-09-23 21:34:52.000000000,2011-09-23 21:34:52.000000000,4,3,0,630,ddb6945e8fbb8a00d5b67a6a6b8a069b7642022d,8,4,1,2,1132,Brian Waldon,bcwaldon,"Fixing bug 857712
+
+Change-Id: I495363b44d9da96d66f85c2a621393329830aeb3
+"
+openstack%2Fglance~master~I0660b39b19a219e7999468839c0672e0c4911d88,openstack/glance,master,bug/857711,I0660b39b19a219e7999468839c0672e0c4911d88,"Do not allow min_ram or min_disk properties to be NULL and if they are None, make sure to default to 0. Fixes bug 857711",MERGED,2011-09-23 20:30:18.000000000,2011-09-23 21:22:45.000000000,2011-09-23 21:22:45.000000000,57,4,0,627,c81ebbcc5a985857e6c86c4b068c15585ddcad80,13,4,2,4,706,Brian Lamar,blamar,"Do not allow min_ram or min_disk properties to be NULL and if they are None, make sure to default to 0. Fixes bug 857711
+
+Change-Id: I0660b39b19a219e7999468839c0672e0c4911d88
+"
+openstack%2Fglance~master~Ie91e653264d4e0eeb4ebb071ab8c8f92dbea953a,openstack/glance,master,bug/857711,Ie91e653264d4e0eeb4ebb071ab8c8f92dbea953a,"Do not allow min_ram or min_disk properties to be NULL and if they are None, make sure to default to 0. Fixes bug 857711",ABANDONED,2011-09-23 21:00:51.000000000,2011-09-23 21:02:11.000000000,,57,4,0,633,23c8f0f9b3e70f9ddcba14c82f71437ede393e80,1,0,1,4,706,Brian Lamar,blamar,"Do not allow min_ram or min_disk properties to be NULL and if they are None, make sure to default to 0. Fixes bug 857711
+
+Change-Id: I0660b39b19a219e7999468839c0672e0c4911d88
+
+Fixed PEP 8 error
+
+Change-Id: Ie91e653264d4e0eeb4ebb071ab8c8f92dbea953a
+"
+openstack%2Fnova~master~I8e0b7695743844614b3e7c5a08bb88d3a7500b5d,openstack/nova,master,validate-extensions-atom,I8e0b7695743844614b3e7c5a08bb88d3a7500b5d,Adding xml schema validation for /versions resource.,MERGED,2011-09-23 19:06:38.000000000,2011-09-23 19:27:27.000000000,2011-09-23 19:27:26.000000000,46,1,0,624,4e94ec1a0a566b66f09b734e6ffe964b4b3b4bee,7,3,1,4,998,Naveed Massjouni,ironcamel,"Adding xml schema validation for /versions resource.
+
+Change-Id: I8e0b7695743844614b3e7c5a08bb88d3a7500b5d
+"
+openstack%2Fnova~master~Ic9595b9b00cc6a388550ea558a5748c326f91736,openstack/nova,master,bug/856664,Ic9595b9b00cc6a388550ea558a5748c326f91736,Fix bug 856664 overLimit errors now return 413,MERGED,2011-09-23 15:57:12.000000000,2011-09-23 18:55:25.000000000,2011-09-23 18:55:25.000000000,6,5,0,619,e15258def26bd3b4781486a7a85ca599cbdb07f6,24,6,3,3,941,Troy Toman,troy-toman,"Fix bug 856664 overLimit errors now return 413
+
+Added personal email to .mailmap to allow merge
+
+Change-Id: Ic9595b9b00cc6a388550ea558a5748c326f91736
+"
+openstack%2Fnova~master~Ib43e2346c7d4c47e7776919f2b9c982133628129,openstack/nova,master,avoid-gitpython,Ib43e2346c7d4c47e7776919f2b9c982133628129,Don't use GitPython for authors check,MERGED,2011-09-23 15:02:15.000000000,2011-09-23 17:47:10.000000000,2011-09-23 17:38:20.000000000,5,12,0,561,affabf5be4db8b15974bb9ce4c16b0a8242e1fc2,16,7,2,2,1247,Mark McLoughlin,markmc,"Don't use GitPython for authors check
+
+I hit this issue with an older GitPython version:
+
+  https://bugzilla.redhat.com/740852
+
+Seeing as all GitPython is doing for us is running:
+
+  $> git rev-list --pretty=raw HEAD
+
+and parsing the output, I figure it's just as easy for us to run git
+directly.
+
+Change-Id: Ib43e2346c7d4c47e7776919f2b9c982133628129
+"
+openstack%2Fkeystone~master~Ia4334827e6acae9eba433f21016b9d7edd28bc64,openstack/keystone,master,master,Ia4334827e6acae9eba433f21016b9d7edd28bc64,Modified apiKeyCredentials to extend single entity and use restriction,MERGED,2011-09-23 09:52:51.000000000,2011-09-23 16:59:56.000000000,2011-09-23 16:59:56.000000000,38,26,0,551,5056464e73399ae9e4daeee92d10f61bbfe0d510,13,5,2,8,1322,Carlos Marin,carlos-marin-d,"Modified apiKeyCredentials to extend single entity and use restriction
+
+Added samples and WADL updated with this change.
+
+Change-Id: Ia4334827e6acae9eba433f21016b9d7edd28bc64
+"
+openstack%2Fnova~master~I8f72c65b4cbd781140aebc8266886da8cfaccc83,openstack/nova,master,volume-clean,I8f72c65b4cbd781140aebc8266886da8cfaccc83,Pull volume-cleanup-2 from bzr,ABANDONED,2011-09-23 09:58:25.000000000,2011-09-23 16:25:44.000000000,,987,939,0,552,3e4e9797d550f00bed4d868f60e070a1ac3d46cc,3,1,3,53,67,Vish Ishaya,vishvananda,"Pull volume-cleanup-2 from bzr
+
+Killed AOEVolumeDriver.
+
+Adding myself to the authors.
+
+removed extraneous line from docs
+
+Renamed discover_volume to prepare_attach, undiscover_volume to prepare_detach.
+
+Killed 'num_shelves' flag; No use for it now that AOE is removed.
+
+killed blades_per_shelf flag; no longer needed since AOE has been removed.
+
+Killing more dead code from removing AOE
+
+more removal of aoe stuff
+
+rip out more aoe
+
+one more
+
+Removing export_devices table.
+
+splitting up volume and compute coupling
+
+fixing some pep8 errors.
+
+fix log string and detach_volume
+
+change attach_volume to pass in connection_info
+
+Adding new field to the block_device_mapping model.
+
+Adding a migration file to add a device_path field to block_device_mapping.
+
+more decoupling
+
+WIP changes being handed off to vish.
+
+finish rewriting initialize and terminate
+
+split out code into driver classes
+
+continue to cleanup volume attach code
+
+move login code to libvirt volume driver
+
+add an exception for libvirt volume driver
+
+renumber migration scripts
+
+add libvirt volume drivers
+
+fix method signature typos
+
+happy path finished
+
+fix xen tests/code
+
+fix/speedup cloud test cases
+
+fixing block device info in terminate
+
+disconnect from boot volumes on terminate
+
+fix typo
+
+no need to terminate volumes from hostless instance.  If it has no host, they never got created
+
+cascade deletes for block device mapping instead of iterating through and deleting
+
+keep error traceback. Fixed double use of mount_device
+
+missed one reference to connection
+
+write some volume driver tests and fix typos
+
+live migration/boot-from-volume test completed
+
+change migrate numbers
+
+fix remote error to come from nova exception and test_compute
+
+fix the fake volume driver
+
+fix bdm delete and add back discover
+
+use stubs instead of setattr
+
+fix virt driver test
+
+pull in changes from manager
+
+changes from volume api
+
+fix scheduler test
+
+fix integrated attach volume test
+
+compare as string instead of converting to int
+
+fix rescan and messed up permissions
+
+renumber migrations
+
+use tuples for login and logout
+
+make it work when we are on the same host
+
+Change-Id: I8f72c65b4cbd781140aebc8266886da8cfaccc83
+"
+openstack%2Fnova~master~Ie90b24efebea985417de884d89149109424fa71f,openstack/nova,master,volume-cleanup-2,Ie90b24efebea985417de884d89149109424fa71f,Killed AOEVolumeDriver.,ABANDONED,2011-09-23 15:41:57.000000000,2011-09-23 16:15:24.000000000,,1,201,0,562,f71b4c409537f3609174c74c77f108a96c233b6b,1,0,1,2,67,Vish Ishaya,vishvananda,"Killed AOEVolumeDriver.
+
+Change-Id: Ie90b24efebea985417de884d89149109424fa71f
+"
+openstack%2Fnova~master~Ie2e81b38977521fec7bdfae6b4a28e9c5be2e7a7,openstack/nova,master,volume-cleanup-2,Ie2e81b38977521fec7bdfae6b4a28e9c5be2e7a7,Adding myself to the authors.,ABANDONED,2011-09-23 15:41:58.000000000,2011-09-23 16:15:22.000000000,,1,0,0,563,c4571d72b429efae44acba4e107800871f783a74,1,0,1,1,67,Vish Ishaya,vishvananda,"Adding myself to the authors.
+
+Change-Id: Ie2e81b38977521fec7bdfae6b4a28e9c5be2e7a7
+"
+openstack%2Fnova~master~Iac76bfaa66fb83ac414a2c0b33a65bae972f1309,openstack/nova,master,volume-cleanup-2,Iac76bfaa66fb83ac414a2c0b33a65bae972f1309,removed extraneous line from docs,ABANDONED,2011-09-23 15:42:00.000000000,2011-09-23 16:15:20.000000000,,0,1,0,564,4a2bb3881e8ba58d5dd1a9178b4bd024ce3335cd,1,0,1,1,67,Vish Ishaya,vishvananda,"removed extraneous line from docs
+
+Change-Id: Iac76bfaa66fb83ac414a2c0b33a65bae972f1309
+"
+openstack%2Fnova~master~I66b9bdce0d44a959d61ad2b99fb8b74525f8a747,openstack/nova,master,volume-cleanup-2,I66b9bdce0d44a959d61ad2b99fb8b74525f8a747,"Renamed discover_volume to prepare_attach, undiscover_volume to prepare_detach.",ABANDONED,2011-09-23 15:42:01.000000000,2011-09-23 16:15:18.000000000,,22,24,0,565,667851d5a46899682158819ea76a2896c013e144,1,0,1,5,67,Vish Ishaya,vishvananda,"Renamed discover_volume to prepare_attach, undiscover_volume to prepare_detach.
+
+Change-Id: I66b9bdce0d44a959d61ad2b99fb8b74525f8a747
+"
+openstack%2Fnova~master~I0082bdc203e43060dae183441154cf666a14a5c7,openstack/nova,master,volume-cleanup-2,I0082bdc203e43060dae183441154cf666a14a5c7,Killed 'num_shelves' flag; No use for it now that AOE is removed.,ABANDONED,2011-09-23 15:42:02.000000000,2011-09-23 16:15:16.000000000,,0,6,0,566,197620965e2ecc4e1342795f1d5d4682508611ba,1,0,1,3,67,Vish Ishaya,vishvananda,"Killed 'num_shelves' flag; No use for it now that AOE is removed.
+
+Change-Id: I0082bdc203e43060dae183441154cf666a14a5c7
+"
+openstack%2Fnova~master~Iaa9ee5ff0ecc1928b8c00357370a8435f3e77ec0,openstack/nova,master,volume-cleanup-2,Iaa9ee5ff0ecc1928b8c00357370a8435f3e77ec0,killed blades_per_shelf flag; no longer needed since AOE has been removed.,ABANDONED,2011-09-23 15:42:04.000000000,2011-09-23 16:15:15.000000000,,0,5,0,567,0b3e6206651c0ef4a591813c27f87d022609418a,1,0,1,2,67,Vish Ishaya,vishvananda,"killed blades_per_shelf flag; no longer needed since AOE has been removed.
+
+Change-Id: Iaa9ee5ff0ecc1928b8c00357370a8435f3e77ec0
+"
+openstack%2Fnova~master~I057e7a3d18fab6f747bd22c5a2f916bc81a54577,openstack/nova,master,volume-cleanup-2,I057e7a3d18fab6f747bd22c5a2f916bc81a54577,Killing more dead code from removing AOE,ABANDONED,2011-09-23 15:42:05.000000000,2011-09-23 16:15:13.000000000,,0,23,0,568,b69d104fcfc49e150f5bb22964a7e9a019dc6d28,1,0,1,2,67,Vish Ishaya,vishvananda,"Killing more dead code from removing AOE
+
+Change-Id: I057e7a3d18fab6f747bd22c5a2f916bc81a54577
+"
+openstack%2Fnova~master~I9377533027214fc65d82edc3e688649b4327ce98,openstack/nova,master,volume-cleanup-2,I9377533027214fc65d82edc3e688649b4327ce98,more removal of aoe stuff,ABANDONED,2011-09-23 15:42:07.000000000,2011-09-23 16:15:11.000000000,,1,68,0,569,5ecf56731ea5b89ddd15a7758fb3e00529adbfb2,1,0,1,5,67,Vish Ishaya,vishvananda,"more removal of aoe stuff
+
+Change-Id: I9377533027214fc65d82edc3e688649b4327ce98
+"
+openstack%2Fnova~master~I5eced47ad8b6d047418727719c9639ad1f239496,openstack/nova,master,volume-cleanup-2,I5eced47ad8b6d047418727719c9639ad1f239496,rip out more aoe,ABANDONED,2011-09-23 15:42:08.000000000,2011-09-23 16:15:09.000000000,,0,24,0,570,03f7872cd72a02b996a9fcc7cc8ee7e71b7e8308,1,0,1,3,67,Vish Ishaya,vishvananda,"rip out more aoe
+
+Change-Id: I5eced47ad8b6d047418727719c9639ad1f239496
+"
+openstack%2Fnova~master~I7a7f876e762a86082a4c649bd4f63ca1d4e6e76f,openstack/nova,master,volume-cleanup-2,I7a7f876e762a86082a4c649bd4f63ca1d4e6e76f,one more,ABANDONED,2011-09-23 15:42:09.000000000,2011-09-23 16:15:07.000000000,,8,10,0,571,5aff815976feb1524cc4681907721baab317e887,1,0,1,3,67,Vish Ishaya,vishvananda,"one more
+
+Change-Id: I7a7f876e762a86082a4c649bd4f63ca1d4e6e76f
+"
+openstack%2Fnova~master~Ibffe8fd51f803428f4fe4a5f193e900eb2a6d023,openstack/nova,master,volume-cleanup-2,Ibffe8fd51f803428f4fe4a5f193e900eb2a6d023,Removing export_devices table.,ABANDONED,2011-09-23 15:42:10.000000000,2011-09-23 16:15:05.000000000,,49,0,0,572,ac959f3cc19403aac0c95aad969ddf08a03733cd,1,0,1,1,67,Vish Ishaya,vishvananda,"Removing export_devices table.
+
+Change-Id: Ibffe8fd51f803428f4fe4a5f193e900eb2a6d023
+"
+openstack%2Fnova~master~I0ac3968a7433d3dfd5f5b3eea96f4740a1f22d77,openstack/nova,master,volume-cleanup-2,I0ac3968a7433d3dfd5f5b3eea96f4740a1f22d77,splitting up volume and compute coupling,ABANDONED,2011-09-23 15:42:12.000000000,2011-09-23 16:15:03.000000000,,94,38,0,573,af645e1f741601750de0721ad882ae077920a4dc,1,0,1,4,67,Vish Ishaya,vishvananda,"splitting up volume and compute coupling
+
+Change-Id: I0ac3968a7433d3dfd5f5b3eea96f4740a1f22d77
+"
+openstack%2Fnova~master~I0af69c854a8968d8fa5e696441a5936658ca1631,openstack/nova,master,volume-cleanup-2,I0af69c854a8968d8fa5e696441a5936658ca1631,fixing some pep8 errors.,ABANDONED,2011-09-23 15:42:13.000000000,2011-09-23 16:15:01.000000000,,2,0,0,574,b08eecc57cd0823ed6a0005556b6374339764420,1,0,1,1,67,Vish Ishaya,vishvananda,"fixing some pep8 errors.
+
+Change-Id: I0af69c854a8968d8fa5e696441a5936658ca1631
+"
+openstack%2Fnova~master~I06eac0f3446472ba2be258423f62a95135c21219,openstack/nova,master,volume-cleanup-2,I06eac0f3446472ba2be258423f62a95135c21219,fix log string and detach_volume,ABANDONED,2011-09-23 15:42:14.000000000,2011-09-23 16:14:59.000000000,,4,2,0,575,06d706b57a770a5eef2afa5881cf3d150d80beaa,1,0,1,2,67,Vish Ishaya,vishvananda,"fix log string and detach_volume
+
+Change-Id: I06eac0f3446472ba2be258423f62a95135c21219
+"
+openstack%2Fnova~master~Ie2fe0400dae123d2ba440e8f9d8ecbfbff260777,openstack/nova,master,volume-cleanup-2,Ie2fe0400dae123d2ba440e8f9d8ecbfbff260777,change attach_volume to pass in connection_info,ABANDONED,2011-09-23 15:42:15.000000000,2011-09-23 16:14:57.000000000,,13,12,0,576,e1c3c0dc30f32c3bcab91088104db1f43e13a19d,1,0,1,7,67,Vish Ishaya,vishvananda,"change attach_volume to pass in connection_info
+
+Change-Id: Ie2fe0400dae123d2ba440e8f9d8ecbfbff260777
+"
+openstack%2Fnova~master~I15a69a7b4024ca8d5b07838b052a7b7212ef4372,openstack/nova,master,volume-cleanup-2,I15a69a7b4024ca8d5b07838b052a7b7212ef4372,Adding new field to the block_device_mapping model.,ABANDONED,2011-09-23 15:42:16.000000000,2011-09-23 16:14:55.000000000,,3,0,0,577,222d13615759233dbe08c97de91f45cb0ee92fae,1,0,1,1,67,Vish Ishaya,vishvananda,"Adding new field to the block_device_mapping model.
+
+Change-Id: I15a69a7b4024ca8d5b07838b052a7b7212ef4372
+"
+openstack%2Fnova~master~I9b7dd2c3817e30209626bcd16d0a5c52dc623ad3,openstack/nova,master,volume-cleanup-2,I9b7dd2c3817e30209626bcd16d0a5c52dc623ad3,Adding a migration file to add a device_path field to block_device_mapping.,ABANDONED,2011-09-23 15:42:17.000000000,2011-09-23 16:14:53.000000000,,36,1,0,578,86d8f1ef15917e6abdf2c5e367fb13016979559d,1,0,1,2,67,Vish Ishaya,vishvananda,"Adding a migration file to add a device_path field to block_device_mapping.
+
+Change-Id: I9b7dd2c3817e30209626bcd16d0a5c52dc623ad3
+"
+openstack%2Fnova~master~I493629ec5480593970f7d47a790a7e4b08e81ac3,openstack/nova,master,volume-cleanup-2,I493629ec5480593970f7d47a790a7e4b08e81ac3,more decoupling,ABANDONED,2011-09-23 15:42:19.000000000,2011-09-23 16:14:52.000000000,,34,61,0,579,49e6b627a6d449c710aae4b3c40ab71309fcc703,1,0,1,2,67,Vish Ishaya,vishvananda,"more decoupling
+
+Change-Id: I493629ec5480593970f7d47a790a7e4b08e81ac3
+"
+openstack%2Fnova~master~I84561a957b287543c4219bfe8f2e3edd7dddc6fc,openstack/nova,master,volume-cleanup-2,I84561a957b287543c4219bfe8f2e3edd7dddc6fc,WIP changes being handed off to vish.,ABANDONED,2011-09-23 15:42:20.000000000,2011-09-23 16:14:50.000000000,,60,14,0,580,2472ac702841fffa127a950fb6f9055c9c2f865a,1,0,1,1,67,Vish Ishaya,vishvananda,"WIP changes being handed off to vish.
+
+Change-Id: I84561a957b287543c4219bfe8f2e3edd7dddc6fc
+"
+openstack%2Fnova~master~I7b08d80e17da6b415af7237d34e7faac5b8ed08a,openstack/nova,master,volume-cleanup-2,I7b08d80e17da6b415af7237d34e7faac5b8ed08a,finish rewriting initialize and terminate,ABANDONED,2011-09-23 15:42:21.000000000,2011-09-23 16:14:48.000000000,,26,58,0,581,904cb4d91845d879f5e7b29f64a2d142a4fd69dc,1,0,1,1,67,Vish Ishaya,vishvananda,"finish rewriting initialize and terminate
+
+Change-Id: I7b08d80e17da6b415af7237d34e7faac5b8ed08a
+"
+openstack%2Fnova~master~I1567142f629016a69d8b27df494ee91df86c13f9,openstack/nova,master,volume-cleanup-2,I1567142f629016a69d8b27df494ee91df86c13f9,split out code into driver classes,ABANDONED,2011-09-23 15:42:22.000000000,2011-09-23 16:14:46.000000000,,28,20,0,582,955424242c75108e6046bdbfcceb01f939d0d245,1,0,1,1,67,Vish Ishaya,vishvananda,"split out code into driver classes
+
+Change-Id: I1567142f629016a69d8b27df494ee91df86c13f9
+"
+openstack%2Fnova~master~Ie7aaecbfe98686270807af8e3a2758fcc1f00caf,openstack/nova,master,volume-cleanup-2,Ie7aaecbfe98686270807af8e3a2758fcc1f00caf,continue to cleanup volume attach code,ABANDONED,2011-09-23 15:42:23.000000000,2011-09-23 16:14:44.000000000,,63,74,0,583,d29cc7e61230785e4804f5f30c2d63c802a2482a,1,0,1,3,67,Vish Ishaya,vishvananda,"continue to cleanup volume attach code
+
+Change-Id: Ie7aaecbfe98686270807af8e3a2758fcc1f00caf
+"
+openstack%2Fnova~master~I26fe6aeba06424b25024ad284972cd0c05350bde,openstack/nova,master,volume-cleanup-2,I26fe6aeba06424b25024ad284972cd0c05350bde,move login code to libvirt volume driver,ABANDONED,2011-09-23 15:42:24.000000000,2011-09-23 16:14:42.000000000,,26,68,0,584,b7f561690df281491ea797296c25b0c22ca3cded,1,0,1,8,67,Vish Ishaya,vishvananda,"move login code to libvirt volume driver
+
+Change-Id: I26fe6aeba06424b25024ad284972cd0c05350bde
+"
+openstack%2Fnova~master~I7cbfb99525141aa26879c863f400898925cfa1e1,openstack/nova,master,volume-cleanup-2,I7cbfb99525141aa26879c863f400898925cfa1e1,add an exception for libvirt volume driver,ABANDONED,2011-09-23 15:42:26.000000000,2011-09-23 16:14:40.000000000,,4,0,0,585,c056fa203982b5843897c9ae57cc6a0c879ba2bb,1,0,1,1,67,Vish Ishaya,vishvananda,"add an exception for libvirt volume driver
+
+Change-Id: I7cbfb99525141aa26879c863f400898925cfa1e1
+"
+openstack%2Fnova~master~I6f7b35cec0a37e2bcec94b96c2584b9cbcef9d39,openstack/nova,master,volume-cleanup-2,I6f7b35cec0a37e2bcec94b96c2584b9cbcef9d39,renumber migration scripts,ABANDONED,2011-09-23 15:42:27.000000000,2011-09-23 16:14:38.000000000,,1,1,0,586,951c05243111c29e79daab5bfc2a8fccb1831509,1,0,1,2,67,Vish Ishaya,vishvananda,"renumber migration scripts
+
+Change-Id: I6f7b35cec0a37e2bcec94b96c2584b9cbcef9d39
+"
+openstack%2Fnova~master~Icb5efe7aa332fb318d9d4f667d972b881dc27a06,openstack/nova,master,volume-cleanup-2,Icb5efe7aa332fb318d9d4f667d972b881dc27a06,add libvirt volume drivers,ABANDONED,2011-09-23 15:42:28.000000000,2011-09-23 16:14:37.000000000,,160,0,0,587,6a55975e7d4d1dec72dc01706a72a8dd58716857,1,0,1,1,67,Vish Ishaya,vishvananda,"add libvirt volume drivers
+
+Change-Id: Icb5efe7aa332fb318d9d4f667d972b881dc27a06
+"
+openstack%2Fnova~master~I4d36fdd626b8b44ac68708c653a081138fec50f0,openstack/nova,master,volume-cleanup-2,I4d36fdd626b8b44ac68708c653a081138fec50f0,fix method signature typos,ABANDONED,2011-09-23 15:42:29.000000000,2011-09-23 16:14:35.000000000,,25,31,0,588,2aadda470def99f00d304e7b6c5fbf56b65cc173,1,0,1,6,67,Vish Ishaya,vishvananda,"fix method signature typos
+
+Change-Id: I4d36fdd626b8b44ac68708c653a081138fec50f0
+"
+openstack%2Fnova~master~Ie1cda915d1df4d28058da137c26bcb4d8c71f292,openstack/nova,master,volume-cleanup-2,Ie1cda915d1df4d28058da137c26bcb4d8c71f292,happy path finished,ABANDONED,2011-09-23 15:42:30.000000000,2011-09-23 16:14:33.000000000,,69,56,0,589,cb79d5248938d1065554950ca4ea8c0256ec044a,1,0,1,9,67,Vish Ishaya,vishvananda,"happy path finished
+
+Change-Id: Ie1cda915d1df4d28058da137c26bcb4d8c71f292
+"
+openstack%2Fnova~master~I1f4ccd9711434f872d510bef4f1936234f36eb8d,openstack/nova,master,volume-cleanup-2,I1f4ccd9711434f872d510bef4f1936234f36eb8d,fix xen tests/code,ABANDONED,2011-09-23 15:42:32.000000000,2011-09-23 16:14:31.000000000,,26,10,0,590,6f0027d24eea33b13920df7babe1e7512916db3d,1,0,1,4,67,Vish Ishaya,vishvananda,"fix xen tests/code
+
+Change-Id: I1f4ccd9711434f872d510bef4f1936234f36eb8d
+"
+openstack%2Fnova~master~I951dac59c5da9465193bb843e27f098dd9eb5f30,openstack/nova,master,volume-cleanup-2,I951dac59c5da9465193bb843e27f098dd9eb5f30,fix/speedup cloud test cases,ABANDONED,2011-09-23 15:42:33.000000000,2011-09-23 16:14:29.000000000,,11,10,0,591,0ecd1c60cfe25e0bd2181fa218c9db66af4c37e6,1,0,1,1,67,Vish Ishaya,vishvananda,"fix/speedup cloud test cases
+
+Change-Id: I951dac59c5da9465193bb843e27f098dd9eb5f30
+"
+openstack%2Fnova~master~I01d073e1fd65e7c90a1d1beaf549adeb2906afc2,openstack/nova,master,volume-cleanup-2,I01d073e1fd65e7c90a1d1beaf549adeb2906afc2,fixing block device info in terminate,ABANDONED,2011-09-23 15:42:34.000000000,2011-09-23 16:14:27.000000000,,103,104,0,592,7020000f418eb3d21ba147c7f4c3ebf5ed59b8ac,1,0,1,6,67,Vish Ishaya,vishvananda,"fixing block device info in terminate
+
+Change-Id: I01d073e1fd65e7c90a1d1beaf549adeb2906afc2
+"
+openstack%2Fnova~master~I76ac34a86715838d5e17754ee72f962f4b57342b,openstack/nova,master,volume-cleanup-2,I76ac34a86715838d5e17754ee72f962f4b57342b,disconnect from boot volumes on terminate,ABANDONED,2011-09-23 15:42:36.000000000,2011-09-23 16:14:25.000000000,,45,16,0,593,8e0ffcbebe347afea9efaa9336f4249bc93a903a,1,0,1,7,67,Vish Ishaya,vishvananda,"disconnect from boot volumes on terminate
+
+Change-Id: I76ac34a86715838d5e17754ee72f962f4b57342b
+"
+openstack%2Fnova~master~Ic55b8e76a054211296b1fdcd35e0718a0e01de5f,openstack/nova,master,volume-cleanup-2,Ic55b8e76a054211296b1fdcd35e0718a0e01de5f,fix typo,ABANDONED,2011-09-23 15:42:37.000000000,2011-09-23 16:14:23.000000000,,2,2,0,594,45862ebe6c065ca2c3897b65048f49717c420f3a,1,0,1,1,67,Vish Ishaya,vishvananda,"fix typo
+
+Change-Id: Ic55b8e76a054211296b1fdcd35e0718a0e01de5f
+"
 openstack%2Fnova~master~I8c2a936ac0c883321e84db737a912e8f9d57ed08,openstack/nova,master,volume-cleanup-2,I8c2a936ac0c883321e84db737a912e8f9d57ed08,"no need to terminate volumes from hostless instance.  If it has no host, they never got created",ABANDONED,2011-09-23 15:42:38.000000000,2011-09-23 16:14:22.000000000,,0,1,0,595,a7e27ad24f0f4e462db6503e3084a3f3b6e6ee83,1,0,1,1,67,Vish Ishaya,vishvananda,"no need to terminate volumes from hostless instance.  If it has no host, they never got created
 
 Change-Id: I8c2a936ac0c883321e84db737a912e8f9d57ed08
@@ -1843,226 +3135,4 @@ Change-Id: I5fd653b351bed115942fbbc9845b8f413065adcd
 openstack%2Fglance~master~I091fff876e959c55f7adeeb16d70cb5f5d68d789,openstack/glance,master,,I091fff876e959c55f7adeeb16d70cb5f5d68d789,Detect python version in install_venv,MERGED,2011-08-05 06:16:47.000000000,2011-08-05 20:37:41.000000000,2011-08-05 20:37:41.000000000,10,2,0,158,853c3ec5952607417fe53acd94004b68643c45a4,7,3,1,1,475,Rick Harris,rconradharris,"Detect python version in install_venv
 
 Change-Id: I091fff876e959c55f7adeeb16d70cb5f5d68d789
-"
-openstack%2Fkeystone~master~Ia539b93d244f98fdbf20692003f34edf2b9276aa,openstack/keystone,master,,Ia539b93d244f98fdbf20692003f34edf2b9276aa,"Issue #115: Added support for testing multiple keystone configurations (sql-only, memcache, ldap)",MERGED,2011-08-02 21:24:48.000000000,2011-08-05 20:22:49.000000000,2011-08-05 20:22:49.000000000,186,57,0,132,8b316b713098ee5d2f5d6722cc1af04b6f3d93b9,21,3,2,5,4,Dolph Mathews,dolph,"Issue #115: Added support for testing multiple keystone configurations (sql-only, memcache, ldap)
-
-Change-Id: Ia539b93d244f98fdbf20692003f34edf2b9276aa
-"
-openstack%2Fkeystone~master~Ied6865f611275a2408a5d1458a9edd7d0375ffa0,openstack/keystone,master,,Ied6865f611275a2408a5d1458a9edd7d0375ffa0,Added automatic test discovery to unit tests  and removed all dead tests.,MERGED,2011-08-05 20:01:54.000000000,2011-08-05 20:04:25.000000000,2011-08-05 20:04:25.000000000,190,1769,0,173,5102bdd3f2621d814a9fb347f0519a7434538de5,6,2,1,20,4,Dolph Mathews,dolph,"Added automatic test discovery to unit tests  and removed all dead tests.
-
-- Removing unused functional test suite
-- Revised normalizing filter tests
-- Fix for all tests cases in unit.test_server
-- Removing unused test class with ambiguous inheritence
-- Migrated broken unit tests to system test
-- Migrated tests to system tests
-- Replaced test_keystone.py with automatic test discovery
-- Renamed test/system to test/functional
-- Removed proprietary run_tests.py which is now redundant/deprecated
-- Removed bootstrap.sh, as it was only used by system tests.
-
-Change-Id: Ied6865f611275a2408a5d1458a9edd7d0375ffa0
-"
-openstack%2Fglance~master~I7b798e2b4256a1b6c4694f0d126d2fa4604c95aa,openstack/glance,master,,I7b798e2b4256a1b6c4694f0d126d2fa4604c95aa,Adds swift_enable_snet config,MERGED,2011-08-04 22:13:51.000000000,2011-08-05 17:02:10.000000000,2011-08-05 17:02:10.000000000,34,24,4,156,09a67e4fb4e5c73cfa01451a7460a8c12d6f64da,11,4,2,2,475,Rick Harris,rconradharris,"Adds swift_enable_snet config
-
-Change-Id: I7b798e2b4256a1b6c4694f0d126d2fa4604c95aa
-"
-openstack%2Fglance~master~Ia0a2d7ba25238a832bdbcea96272fccb4523db61,openstack/glance,master,,Ia0a2d7ba25238a832bdbcea96272fccb4523db61,Adding snet description,ABANDONED,2011-08-05 16:43:24.000000000,2011-08-05 16:59:17.000000000,,1,0,0,165,57d27c769338346ae4d6430d1b184372db5d16db,2,1,1,1,475,Rick Harris,rconradharris,"Adding snet description
-
-Change-Id: Ia0a2d7ba25238a832bdbcea96272fccb4523db61
-"
-openstack%2Fkeystone~master~I3a5e100d3b2b29ac03cbe345be0a18abef8fd73b,openstack/keystone,master,,I3a5e100d3b2b29ac03cbe345be0a18abef8fd73b,pep8 fixes round 1,ABANDONED,2011-08-04 14:41:54.000000000,2011-08-05 16:35:28.000000000,,80,59,0,144,9e36d8265f5fadaae4e03f818b92ad157ae48540,12,4,1,14,191,Trey Morris,tr3buchet,"pep8 fixes round 1
-
-Change-Id: I3a5e100d3b2b29ac03cbe345be0a18abef8fd73b
-"
-openstack%2Fglance~master~I237225fb49f1f4a284682768e888a2e03585cdf9,openstack/glance,master,,I237225fb49f1f4a284682768e888a2e03585cdf9,Fixes bug lp:821296,MERGED,2011-08-05 14:42:13.000000000,2011-08-05 15:54:50.000000000,2011-08-05 15:54:50.000000000,1,1,0,164,22c3e412cdf08052d40876304ac3c4c0a31a6b96,7,3,2,1,1032,Justin Shepherd,jshepher,"Fixes bug lp:821296
-
-Fixed exclude-dir to point to glance/tests/functional, now --unittests-only runs properly.
-
-Change-Id: I237225fb49f1f4a284682768e888a2e03585cdf9
-"
-openstack%2Fkeystone~master~I9cadc8e8f26639d1666002a725c9a5d47ecc1ea3,openstack/keystone,master,,I9cadc8e8f26639d1666002a725c9a5d47ecc1ea3,"this code appears to have been accidentally deleted.  if the project does not exist, it should be created",ABANDONED,2011-08-04 03:43:08.000000000,2011-08-04 22:28:27.000000000,2011-08-04 22:10:47.000000000,4,0,0,143,941fb9cf725026f8270f97637bbcdc92ba864dc0,9,4,2,1,1155,sleepsonthefloor,sleepsonthefloor,"this code appears to have been accidentally deleted.  if the project does not exist, it should be created
-
-Change-Id: I9cadc8e8f26639d1666002a725c9a5d47ecc1ea3
-"
-openstack%2Fkeystone~master~I2c7b3a9aa2eb8e7d1118c8e72bb9e1af00b9f8d5,openstack/keystone,master,,I2c7b3a9aa2eb8e7d1118c8e72bb9e1af00b9f8d5,Small licensing change to test Gerrit,MERGED,2011-08-04 17:33:48.000000000,2011-08-04 22:09:04.000000000,2011-08-04 22:08:14.000000000,4,0,0,153,e3b9d24fea34b405a2c67cccd0c1955b35fb9c6b,8,4,1,1,5,Ziad Sawalha,ziad-sawalha,"Small licensing change to test Gerrit
-
-Change-Id: I2c7b3a9aa2eb8e7d1118c8e72bb9e1af00b9f8d5
-"
-openstack%2Fkeystone~master~I54206339ad6ed13f7b7e34c1432e22da3dd81f67,openstack/keystone,master,,I54206339ad6ed13f7b7e34c1432e22da3dd81f67,Small change to test Gerrit,MERGED,2011-08-04 17:32:19.000000000,2011-08-04 22:09:04.000000000,2011-08-04 22:09:04.000000000,17,0,0,152,552590aa466d78dee7240996f781773290433054,8,4,1,1,5,Ziad Sawalha,ziad-sawalha,"Small change to test Gerrit
-
-Change-Id: I54206339ad6ed13f7b7e34c1432e22da3dd81f67
-"
-openstack%2Fkeystone~master~If65f38ffe317b222297d56067ff71900f0cab9d0,openstack/keystone,master,,If65f38ffe317b222297d56067ff71900f0cab9d0,updated README with more accurate swift info,MERGED,2011-08-03 18:49:49.000000000,2011-08-04 22:07:25.000000000,2011-08-04 22:07:25.000000000,4,4,0,142,e26681cc86810ce15ad5a48fd5aa266541d7e48f,8,4,1,1,330,John Dickinson,notmyname,"updated README with more accurate swift info
-
-Change-Id: If65f38ffe317b222297d56067ff71900f0cab9d0
-"
-openstack%2Fkeystone~master~Iba074fc05fbc150de2ffe813f49d3721aea4bcf5,openstack/keystone,master,,Iba074fc05fbc150de2ffe813f49d3721aea4bcf5,"Fix brain-o--we may not need project_ref, but we do need to create the project!",MERGED,2011-08-04 15:51:52.000000000,2011-08-04 22:06:36.000000000,2011-08-04 22:06:35.000000000,4,0,0,147,c05a75752476454cfff8483b69683b32d3ed394a,6,2,1,1,679,Kevin L. Mitchell,klmitch,"Fix brain-o--we may not need project_ref, but we do need to create the project!
-
-Change-Id: Iba074fc05fbc150de2ffe813f49d3721aea4bcf5
-"
-openstack%2Fkeystone~master~I42f83b54d331295fcbc8866b527b779b17836454,openstack/keystone,master,,I42f83b54d331295fcbc8866b527b779b17836454,PEP8 fixes... all of them.,MERGED,2011-08-04 19:31:25.000000000,2011-08-04 20:34:48.000000000,2011-08-04 20:28:44.000000000,798,756,0,155,b9d67ae1e59177ef54cc688b2c4e3ae78944504b,14,3,1,75,4,Dolph Mathews,dolph,"PEP8 fixes... all of them.
-
-Change-Id: I42f83b54d331295fcbc8866b527b779b17836454
-"
-openstack%2Fglance~master~Id6eaa8768b663b4638fbca0e3bdf72b74969150a,openstack/glance,master,,Id6eaa8768b663b4638fbca0e3bdf72b74969150a,"Implemented @utils.skip_test, @utils.skip_unless and @utils.skip_if functionality in glance/test/utils.py. Added glance/tests/unit/test_skip_examples.py which contains example skip case usages.",MERGED,2011-08-04 16:25:02.000000000,2011-08-04 18:45:04.000000000,2011-08-04 18:45:04.000000000,105,3,0,148,486deeabd695bfd06a2aaf3c047e7206cd39f61f,10,4,2,6,1032,Justin Shepherd,jshepher,"Implemented @utils.skip_test, @utils.skip_unless and @utils.skip_if functionality in glance/test/utils.py. Added glance/tests/unit/test_skip_examples.py which contains example skip case usages.
-
-Fixed issue where ./run_tests.sh would not execute pep8. Fixed couple of pep8 violations in test_skip_examples.py
-
-Change-Id: Id6eaa8768b663b4638fbca0e3bdf72b74969150a
-"
-openstack%2Fkeystone~master~I90bc888a17e2e0041245095c586598ab86db58aa,openstack/keystone,master,,I90bc888a17e2e0041245095c586598ab86db58aa,"Gets Keystone a bit more inline with the way that other OpenStack projects run tests. Basically, adds the standard run_tests.sh script, modifies the run_tests.py script to do the following:",ABANDONED,2011-08-04 16:47:05.000000000,2011-08-04 17:11:47.000000000,,205,40,0,151,bec7bb236d0cf32c4a217a972d311ccc92240fbd,1,0,1,5,7,Jay Pipes,jaypipes,"Gets Keystone a bit more inline with the way that
-other OpenStack projects run tests. Basically, adds the standard
-run_tests.sh script, modifies the run_tests.py script to do the
-following:
-
-a) Correctly create a test configuration file that is passed
-   to keystone-manage and keystone. This allows you to test
-   keystone on a server that already has keystone running on it
-b) Some DRY cleanup around the removal of database files that
-   get created in the course of testing
-c) Creates a virtualenv automatically with the -V (-f) flag,
-   which reads the tools/pip-requires file and constructs a virtualenv
-   with all dependencies installed
-
-Change-Id: I90bc888a17e2e0041245095c586598ab86db58aa
-"
-openstack%2Fkeystone~master~I69698e97e8e8e95aa7eda51813dd6853a30783ad,openstack/keystone,master,,I69698e97e8e8e95aa7eda51813dd6853a30783ad,"Add run_tests.sh, virtualenv scripts, and make setup.py use nose.collector as its test runner",ABANDONED,2011-08-04 16:47:04.000000000,2011-08-04 17:01:32.000000000,,250,0,0,150,2bdf15d2e909fb8377b97ff580008ff673bd126c,3,2,1,5,7,Jay Pipes,jaypipes,"Add run_tests.sh, virtualenv scripts, and make setup.py use nose.collector as its test runner
-
-Change-Id: I69698e97e8e8e95aa7eda51813dd6853a30783ad
-"
-openstack%2Fglance~master~Ifdbdd6b587f5e4d0c255d4ed683bc81aeb8d95e4,openstack/glance,master,,Ifdbdd6b587f5e4d0c255d4ed683bc81aeb8d95e4,Changed setup.py to pull version info from git.,MERGED,2011-08-04 15:51:51.000000000,2011-08-04 16:20:30.000000000,2011-08-04 16:20:30.000000000,23,7,0,146,8f5bd2dc1cc09559270eb877140231be64181b6e,6,2,1,2,2,Monty Taylor,mordred,"Changed setup.py to pull version info from git.
-
-Change-Id: Ifdbdd6b587f5e4d0c255d4ed683bc81aeb8d95e4
-"
-openstack%2Fkeystone~master~I373fd25ba982ba07d10bc7c31a9baa8996bbb110,openstack/keystone,master,,I373fd25ba982ba07d10bc7c31a9baa8996bbb110,"nova context should be initialized with user_id and project_id, not refs.  additionally, is_admin needs to be set to behave as expected.",ABANDONED,2011-08-02 20:03:46.000000000,2011-08-04 16:02:47.000000000,,4,1,0,129,65369db8f88d2f1cc7408a5e59b59dcd84def9d0,1,0,1,1,1155,sleepsonthefloor,sleepsonthefloor,"nova context should be initialized with user_id and project_id, not refs.  additionally, is_admin needs to be set to behave as expected.
-
-Change-Id: I373fd25ba982ba07d10bc7c31a9baa8996bbb110
-"
-openstack%2Fkeystone~master~Ib23f59694301dcfc91cf8e8deff8ae0a090e82df,openstack/keystone,master,,Ib23f59694301dcfc91cf8e8deff8ae0a090e82df,Determine is_admin based on 'Admin' role; remove dead project_ref code; pass auth_token into request context; pass user_id/project_id into request context instead of their refs,MERGED,2011-08-02 20:35:01.000000000,2011-08-03 18:07:01.000000000,2011-08-03 18:07:01.000000000,15,8,0,131,f9ca57105e49a1640eb4e04a801591069064f352,14,5,1,1,679,Kevin L. Mitchell,klmitch,"Determine is_admin based on 'Admin' role; remove dead project_ref code;
-pass auth_token into request context; pass user_id/project_id into
-request context instead of their refs
-
-Change-Id: Ib23f59694301dcfc91cf8e8deff8ae0a090e82df
-"
-openstack%2Fkeystone~master~I06b82e603799ed89a2e2d92005892ede0a295225,openstack/keystone,master,,I06b82e603799ed89a2e2d92005892ede0a295225,Added support for versioned openstack MIME types,MERGED,2011-08-01 17:09:04.000000000,2011-08-03 15:12:05.000000000,2011-08-03 15:12:05.000000000,246,141,0,120,b3c4f16ca84e4d19caef1c40266310bf090c0927,13,3,4,8,4,Dolph Mathews,dolph,"Added support for versioned openstack MIME types
-
-Additional MIME types are normalized down to 'application/xml'
-and 'application/json' to minimize impact on underlying layers.
-Also added normalized KEYSTONE_API_VERSION and
-KEYSTONE_RESPONSE_ENCODING (simplified prefferred Accept
-encoding) to the wsgi environment for underlying apps to
-optionally utilize. (note: the legacy layer now looks for the
-KEYSTONE_API_VERSION).
-
-Includes additional pylint fixes.
-
-Change-Id: I06b82e603799ed89a2e2d92005892ede0a295225
-"
-openstack%2Fkeystone~master~Ie87e6ec3992f300c47ffc87d1e30fe2612334176,openstack/keystone,master,,Ie87e6ec3992f300c47ffc87d1e30fe2612334176,"Pass auth_token to nova's RequestContext, for later delegation",ABANDONED,2011-08-02 16:25:06.000000000,2011-08-02 20:50:27.000000000,,11,1,0,122,1f4a0cd5bbbaaea7ca9721e4baada98df23a4368,6,4,1,1,679,Kevin L. Mitchell,klmitch,"Pass auth_token to nova's RequestContext, for later delegation
-
-Change-Id: Ie87e6ec3992f300c47ffc87d1e30fe2612334176
-"
-openstack%2Fkeystone~master~I425ab1b53fd4519902af017e39a4cfd638984f49,openstack/keystone,master,,I425ab1b53fd4519902af017e39a4cfd638984f49,Add unittest2 to pip requires for testing,MERGED,2011-07-29 04:53:28.000000000,2011-08-01 18:56:27.000000000,2011-08-01 18:50:50.000000000,2,1,0,110,9dcce1f163ddc5313e65fbc01953c7a7362fa22a,20,3,1,1,5,Ziad Sawalha,ziad-sawalha,"Add unittest2 to pip requires for testing
-
-Change-Id: I425ab1b53fd4519902af017e39a4cfd638984f49
-"
-openstack%2Fkeystone~master~I654cca34e3d01b134f6fedf9114e11a0a98a2740,openstack/keystone,master,,I654cca34e3d01b134f6fedf9114e11a0a98a2740,Added support for versioned openstack MIME types,ABANDONED,2011-07-29 19:19:35.000000000,2011-08-01 17:02:44.000000000,,181,95,0,114,59dc99ed7f672f589a312a0940a9449096c22aca,7,4,1,5,4,Dolph Mathews,dolph,"Added support for versioned openstack MIME types
-
-Additional MIME types are normalized down to 'application/xml' and 'application/json' to minimize impact on underlying layers. Also added normalized KEYSTONE_API_VERSION and KEYSTONE_RESPONSE_ENCODING (simplified prefferred Accept encoding) to the wsgi environment for underlying apps to optionally utilize. (note: the legacy layer now looks for the KEYSTONE_API_VERSION).
-
-Change-Id: I654cca34e3d01b134f6fedf9114e11a0a98a2740
-"
-openstack%2Fkeystone~master~I88a6864a51a44d01ed40e513c81b1d1bd4517e4d,openstack/keystone,master,,I88a6864a51a44d01ed40e513c81b1d1bd4517e4d,simple pylint fixes,ABANDONED,2011-07-29 21:11:14.000000000,2011-08-01 16:57:43.000000000,2011-07-30 00:37:03.000000000,44,24,0,117,4effdbd02d8b6a05df7896df788a042503d76124,6,3,1,1,4,Dolph Mathews,dolph,"simple pylint fixes
-
-Change-Id: I88a6864a51a44d01ed40e513c81b1d1bd4517e4d
-"
-openstack%2Fkeystone~master~I1cbc3fa3837f49b2fdde5ae220b973e13cdb45f8,openstack/keystone,master,,I1cbc3fa3837f49b2fdde5ae220b973e13cdb45f8,Tweaked the sample dtest to avoid pylint errors,ABANDONED,2011-07-29 20:53:56.000000000,2011-08-01 16:57:11.000000000,,3,4,0,115,ed5ade84aa4d35bd407aff6a0646e5b9f67849a5,6,3,1,1,4,Dolph Mathews,dolph,"Tweaked the sample dtest to avoid pylint errors
-
-Change-Id: I1cbc3fa3837f49b2fdde5ae220b973e13cdb45f8
-"
-openstack%2Fkeystone~master~I7533af6fd8e3fa4dd5054c6c3066761713172aac,openstack/keystone,master,,I7533af6fd8e3fa4dd5054c6c3066761713172aac,pylint fix: avoiding overriding the built in next() function,ABANDONED,2011-07-29 20:54:44.000000000,2011-08-01 16:56:45.000000000,,32,32,0,116,71d548c3a0e005b888129f32a46bb6643dc00aa8,6,3,1,1,4,Dolph Mathews,dolph,"pylint fix: avoiding overriding the built in next() function
-
-Change-Id: I7533af6fd8e3fa4dd5054c6c3066761713172aac
-"
-openstack%2Fkeystone~master~Ia5a6f74ccfa5fb9975950c63db7828441a8ba4a0,openstack/keystone,master,,Ia5a6f74ccfa5fb9975950c63db7828441a8ba4a0,#16 Changes to remove unused group clls.,MERGED,2011-07-28 17:23:19.000000000,2011-07-30 00:32:35.000000000,2011-07-30 00:32:35.000000000,22,3857,0,107,979bc77e7cb570e807675be27c4607852009ab38,12,4,2,31,2,Monty Taylor,mordred," #16 Changes to remove unused group clls.
-
-Change-Id: Ia5a6f74ccfa5fb9975950c63db7828441a8ba4a0
-
-Issue #16 Pylint changes.Changes to remove unused group calls.
-
-Change-Id: Ia5a6f74ccfa5fb9975950c63db7828441a8ba4a0
-"
-openstack%2Fkeystone~master~I572c6bb7ae1e5d7e7a3b4af64eb50d4ef9487ee0,openstack/keystone,master,,I572c6bb7ae1e5d7e7a3b4af64eb50d4ef9487ee0,#16 Changes to remove unused group clls.,ABANDONED,2011-07-29 16:43:41.000000000,2011-07-29 16:44:01.000000000,,0,1114,0,113,572c6bb7ae1e5d7e7a3b4af64eb50d4ef9487ee0,1,0,1,3,8,Yogeshwar Srikrishnan,yogesh-srikrishnan," #16 Changes to remove unused group clls.
-
-    Change-Id: Ia5a6f74ccfa5fb9975950c63db7828441a8ba4a0
-"
-openstack%2Fkeystone~master~I4176fd7b56fa7a174bb76d7f8b8a993b99ee6498,openstack/keystone,master,,I4176fd7b56fa7a174bb76d7f8b8a993b99ee6498,#16 Changes to remove unused group calls.Pylint fixes.,ABANDONED,2011-07-29 16:40:46.000000000,2011-07-29 16:41:36.000000000,,0,1114,0,112,4176fd7b56fa7a174bb76d7f8b8a993b99ee6498,1,0,1,3,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"     #16 Changes to remove unused group calls.Pylint fixes.
-
-    Change-Id: Ia5a6f74ccfa5fb9975950c63db7828441a8ba4a0
-"
-openstack%2Fkeystone~master~Icf9af462c3c9d9713f4bfc71f68169cee7d52dc3,openstack/keystone,master,,Icf9af462c3c9d9713f4bfc71f68169cee7d52dc3,#16 Fixing pylint issues.Changes to remove unused group calls.,ABANDONED,2011-07-29 16:21:20.000000000,2011-07-29 16:22:47.000000000,,0,4,0,111,cf9af462c3c9d9713f4bfc71f68169cee7d52dc3,1,0,1,2,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"     #16 Fixing pylint issues.Changes to remove unused group calls.
-
-    Change-Id: Ia5a6f74ccfa5fb9975950c63db7828441a8ba4a0
-"
-openstack%2Fkeystone~master~I48897416c3b6564289c45a3e316d8f6422601115,openstack/keystone,master,,I48897416c3b6564289c45a3e316d8f6422601115,Use un-spaced exception names...,ABANDONED,2011-07-26 17:43:47.000000000,2011-07-28 17:16:33.000000000,2011-07-26 22:28:43.000000000,1,1,0,60,48897416c3b6564289c45a3e316d8f6422601115,11,3,1,1,5,Ziad Sawalha,ziad-sawalha,"Use un-spaced exception names...
-"
-openstack%2Fkeystone~master~I6280e42e8a94a0face838702ca9f7d903ccbe95a,openstack/keystone,master,,I6280e42e8a94a0face838702ca9f7d903ccbe95a,Merge branch 'master' of git://github.com/rackspace/keystone,ABANDONED,2011-07-26 17:43:49.000000000,2011-07-28 17:16:30.000000000,2011-07-26 22:21:12.000000000,143,107,0,79,6280e42e8a94a0face838702ca9f7d903ccbe95a,10,3,1,0,5,Ziad Sawalha,ziad-sawalha,"Merge branch 'master' of git://github.com/rackspace/keystone
-"
-openstack%2Fkeystone~master~Ife1236e0723e25ad67f5d8c480dce640a230e304,openstack/keystone,master,,Ife1236e0723e25ad67f5d8c480dce640a230e304,Merge branch 'master' of git://github.com/rackspace/keystone,ABANDONED,2011-07-26 17:43:49.000000000,2011-07-28 17:16:30.000000000,2011-07-26 22:20:07.000000000,879,953,0,78,fe1236e0723e25ad67f5d8c480dce640a230e304,10,3,1,0,5,Ziad Sawalha,ziad-sawalha,"Merge branch 'master' of git://github.com/rackspace/keystone
-"
-openstack%2Fkeystone~master~If57b84ce9e5d93ad04628d346114ca22d875266d,openstack/keystone,master,,If57b84ce9e5d93ad04628d346114ca22d875266d,Merge branch 'master' of git://github.com/rackspace/keystone,ABANDONED,2011-07-26 17:43:49.000000000,2011-07-28 17:16:30.000000000,2011-07-26 22:27:56.000000000,1438,489,0,77,f57b84ce9e5d93ad04628d346114ca22d875266d,11,3,1,0,5,Ziad Sawalha,ziad-sawalha,"Merge branch 'master' of git://github.com/rackspace/keystone
-"
-openstack%2Fkeystone~master~If408062c91501315f73cab9c9a4cc28ea9cba83f,openstack/keystone,master,,If408062c91501315f73cab9c9a4cc28ea9cba83f,Merge branch 'master' of git://github.com/rackspace/keystone,ABANDONED,2011-07-26 17:43:50.000000000,2011-07-28 17:16:29.000000000,2011-07-26 22:05:55.000000000,17,0,0,87,f408062c91501315f73cab9c9a4cc28ea9cba83f,11,3,1,0,5,Ziad Sawalha,ziad-sawalha,"Merge branch 'master' of git://github.com/rackspace/keystone
-"
-openstack%2Fkeystone~master~I0f4a0325ca09f7680f21ba3830cfc0eb84802d8c,openstack/keystone,master,,I0f4a0325ca09f7680f21ba3830cfc0eb84802d8c,Document how to allow anonymous access,ABANDONED,2011-07-26 17:43:50.000000000,2011-07-28 17:16:29.000000000,2011-07-26 22:06:59.000000000,6,0,0,86,0f4a0325ca09f7680f21ba3830cfc0eb84802d8c,11,3,1,2,5,Ziad Sawalha,ziad-sawalha,"Document how to allow anonymous access
-"
-openstack%2Fkeystone~master~If0f84ef6bdd0ede6d63e6516cc6ec982e07bdeb2,openstack/keystone,master,,If0f84ef6bdd0ede6d63e6516cc6ec982e07bdeb2,Merge pull request #120 from robin-norwood/master,ABANDONED,2011-07-26 17:43:50.000000000,2011-07-28 17:16:29.000000000,2011-07-26 22:08:04.000000000,17,0,0,85,f0f84ef6bdd0ede6d63e6516cc6ec982e07bdeb2,11,2,1,0,5,Ziad Sawalha,ziad-sawalha,"Merge pull request #120 from robin-norwood/master
-
-Added instructions to work around segfault on Fedora 15"
-openstack%2Fkeystone~master~I52b36c607e7fc853ce1a2189869235664d73a1ca,openstack/keystone,master,,I52b36c607e7fc853ce1a2189869235664d73a1ca,Merge pull request #119 from klmitch/master,ABANDONED,2011-07-26 17:43:49.000000000,2011-07-28 17:16:29.000000000,2011-07-26 22:12:33.000000000,214,0,0,84,52b36c607e7fc853ce1a2189869235664d73a1ca,11,2,1,0,5,Ziad Sawalha,ziad-sawalha,"Merge pull request #119 from klmitch/master
-
-Add glance integration middleware"
-openstack%2Fkeystone~master~I2c1ddfa03b5e3d8b553132a8a7bd5b6d123275d9,openstack/keystone,master,,I2c1ddfa03b5e3d8b553132a8a7bd5b6d123275d9,"These changes make no sense--I didn't do them, and I'm in sync!",ABANDONED,2011-07-26 17:43:49.000000000,2011-07-28 17:16:29.000000000,2011-07-26 22:15:49.000000000,33,121,0,81,2c1ddfa03b5e3d8b553132a8a7bd5b6d123275d9,10,3,1,5,5,Ziad Sawalha,ziad-sawalha,"These changes make no sense--I didn't do them, and I'm in sync!
-"
-openstack%2Fkeystone~master~I547b63d2e318e86a15bfe585425f095ec5bfb76a,openstack/keystone,master,,I547b63d2e318e86a15bfe585425f095ec5bfb76a,Add middleware for glance integration,ABANDONED,2011-07-26 17:43:49.000000000,2011-07-28 17:16:29.000000000,2011-07-26 22:16:53.000000000,214,0,0,80,547b63d2e318e86a15bfe585425f095ec5bfb76a,10,3,1,3,5,Ziad Sawalha,ziad-sawalha,"Add middleware for glance integration
-"
-openstack%2Fkeystone~master~Ica5efebfd395b3e2c7ebbf3a3a4a7f45c0ad1746,openstack/keystone,master,,Ica5efebfd395b3e2c7ebbf3a3a4a7f45c0ad1746,Merge pull request #121 from klmitch/master,ABANDONED,2011-07-26 17:43:50.000000000,2011-07-28 17:16:28.000000000,2011-07-26 22:01:22.000000000,6,0,0,88,ca5efebfd395b3e2c7ebbf3a3a4a7f45c0ad1746,11,2,1,0,5,Ziad Sawalha,ziad-sawalha,"Merge pull request #121 from klmitch/master
-
-Document anonymous access for glance"
-openstack%2Fkeystone~master~I701fea0a3d3050dcaa7d58edda1ffee89d7bc641,openstack/keystone,master,,I701fea0a3d3050dcaa7d58edda1ffee89d7bc641,#16 Changes to remove unused group clls.,ABANDONED,2011-07-27 23:34:11.000000000,2011-07-28 17:06:45.000000000,,27,3953,0,105,701fea0a3d3050dcaa7d58edda1ffee89d7bc641,4,2,1,29,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"#16 Changes to remove unused group clls.
-"
-openstack%2Fkeystone~master~I22cfad2f83e5e851147943ee39b5e2ea4bb31434,openstack/keystone,master,,I22cfad2f83e5e851147943ee39b5e2ea4bb31434,Changes suggested by Ziad.Adding validateToken operation.,MERGED,2011-07-27 15:26:06.000000000,2011-07-28 16:07:13.000000000,2011-07-27 23:29:50.000000000,5,4,0,96,22cfad2f83e5e851147943ee39b5e2ea4bb31434,7,3,1,1,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Changes suggested by Ziad.Adding validateToken operation.
-"
-openstack%2Fkeystone~master~Ia4f91a097d888a77e01c96c4969fd0f31ae56847,openstack/keystone,master,,Ia4f91a097d888a77e01c96c4969fd0f31ae56847,Flow diagram to support keystone service registration.,MERGED,2011-07-26 22:56:50.000000000,2011-07-28 16:07:13.000000000,2011-07-27 23:27:34.000000000,96,0,0,93,a4f91a097d888a77e01c96c4969fd0f31ae56847,7,3,1,1,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Flow diagram to support keystone service registration.
-"
-openstack%2Fkeystone~master~I63ea2fccd2cf026661cd08ebb5f4b92e092cbd0a,openstack/keystone,master,,I63ea2fccd2cf026661cd08ebb5f4b92e092cbd0a,Trying to fix existing merge issue.Change-Id: I9cae7b2af4d22994eaff20e7fe6bb4e0eb7c1ba0,ABANDONED,2011-07-28 15:28:51.000000000,2011-07-28 15:31:26.000000000,,0,6,0,106,63ea2fccd2cf026661cd08ebb5f4b92e092cbd0a,1,0,1,1,8,Yogeshwar Srikrishnan,yogesh-srikrishnan,"Trying to fix existing merge issue.Change-Id: I9cae7b2af4d22994eaff20e7fe6bb4e0eb7c1ba0
-"
-openstack%2Fkeystone~master~I03899a3cc842f8f8ddaaa26c7681dcda43c2bc17,openstack/keystone,master,,I03899a3cc842f8f8ddaaa26c7681dcda43c2bc17,Restored identity.wadl w/ system test,MERGED,2011-07-27 19:58:24.000000000,2011-07-27 23:33:12.000000000,2011-07-27 23:33:12.000000000,1045,1,0,102,8cbb2a37821ae3c1cc67bf5797dc2e1b7629cd01,5,2,1,3,4,Dolph Mathews,dolph,"Restored identity.wadl w/ system test
-
-Change-Id: I03899a3cc842f8f8ddaaa26c7681dcda43c2bc17
-"
-openstack%2Fkeystone~master~Id39a117a49ebc560b6e50fb0ed4db7691794899c,openstack/keystone,master,,Id39a117a49ebc560b6e50fb0ed4db7691794899c,pylint fixes for role api,MERGED,2011-07-27 17:32:04.000000000,2011-07-27 23:32:07.000000000,2011-07-27 23:32:07.000000000,48,42,0,99,300b7d92cec3f6ddb36abb62fa19fda813b80560,5,2,1,1,4,Dolph Mathews,dolph,"pylint fixes for role api
-
-Change-Id: Id39a117a49ebc560b6e50fb0ed4db7691794899c
-"
-openstack%2Fkeystone~master~I9241b3d0869a4e37910c7de57ff04da0f98f74d8,openstack/keystone,master,,I9241b3d0869a4e37910c7de57ff04da0f98f74d8,Removing attribute duplicated from superclass; causes an issue in py 2.7,MERGED,2011-07-27 16:07:21.000000000,2011-07-27 23:31:04.000000000,2011-07-27 23:31:03.000000000,0,6,0,97,0e97d57c165a870159f2414988615cabaaba6558,6,3,1,1,4,Dolph Mathews,dolph,"Removing attribute duplicated from superclass; causes an issue in py 2.7
-
-Change-Id: I9241b3d0869a4e37910c7de57ff04da0f98f74d8
-"
-openstack%2Fkeystone~master~I1ec37fca7f815c17dc8efce1ed6e177d0de95b95,openstack/keystone,master,,I1ec37fca7f815c17dc8efce1ed6e177d0de95b95,pylint fixes for tenant-group unit tests,MERGED,2011-07-27 03:34:38.000000000,2011-07-27 23:28:43.000000000,2011-07-27 23:25:05.000000000,213,313,0,95,1dc7baf2436bf9adfac674ceb241fa82f6bc7843,9,3,1,1,4,Dolph Mathews,dolph,"pylint fixes for tenant-group unit tests
-
-Change-Id: I1ec37fca7f815c17dc8efce1ed6e177d0de95b95
-"
-openstack%2Fkeystone~master~I4806897a0a61f2900ba14a2d1f3aa0348207fd78,openstack/keystone,master,,I4806897a0a61f2900ba14a2d1f3aa0348207fd78,pylint fixes for server unit tests,MERGED,2011-07-27 03:34:38.000000000,2011-07-27 23:28:43.000000000,2011-07-27 23:28:43.000000000,18,14,0,94,333ed20a011a05a3ef4d0d5355bf2114883236b5,6,3,1,1,4,Dolph Mathews,dolph,"pylint fixes for server unit tests
-
-Change-Id: I4806897a0a61f2900ba14a2d1f3aa0348207fd78
-"
-openstack%2Fkeystone~master~I54f85d8d8780dc563bf0bfc9241bc92141156685,openstack/keystone,master,,I54f85d8d8780dc563bf0bfc9241bc92141156685,Update README with instructions to fix segfault.,MERGED,2011-07-26 17:43:49.000000000,2011-07-26 22:13:40.000000000,2011-07-26 22:13:39.000000000,17,0,0,82,54f85d8d8780dc563bf0bfc9241bc92141156685,5,2,1,1,5,Ziad Sawalha,ziad-sawalha,"Update README with instructions to fix segfault.
-"
-openstack%2Fkeystone~master~I03bcc2ae265aa691495671c1e5880dca1550f4b6,openstack/keystone,master,,I03bcc2ae265aa691495671c1e5880dca1550f4b6,Sigh. Proofreading...,MERGED,2011-07-26 17:43:49.000000000,2011-07-26 22:13:39.000000000,2011-07-26 22:09:09.000000000,1,1,0,83,03bcc2ae265aa691495671c1e5880dca1550f4b6,5,2,1,1,5,Ziad Sawalha,ziad-sawalha,"Sigh. Proofreading...
-"
-openstack%2Fkeystone~master~I7f08cc317b9e8e339277f102191e8e5201bf60ae,openstack/keystone,master,,I7f08cc317b9e8e339277f102191e8e5201bf60ae,Remove the old db files relative to curdir.,ABANDONED,2011-07-26 17:55:23.000000000,2011-07-26 18:09:30.000000000,,8,8,0,89,c956046a3a987ef0a6abb1360a915b863270c2e8,1,0,1,1,2,Monty Taylor,mordred,"Remove the old db files relative to curdir.
-
-Change-Id: I7f08cc317b9e8e339277f102191e8e5201bf60ae
 "

@@ -60,7 +60,7 @@ def get_openstack_data(dir):
 
 if __name__ == "__main__":
 
-    DIR = hpr.DIR
+    DIR = "%sData" % hpr.DIR
 
     if os.path.exists(DIR):
         shutil.rmtree(path=DIR)

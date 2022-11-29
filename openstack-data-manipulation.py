@@ -11,4 +11,6 @@ if __name__ == "__main__":
 
     df = df.reset_index(drop=True)
 
+    df = df[df["Source_repo"] != df["Target_repo"]]
+
     df.to_csv("clean_openstack_evolution.csv", index=False)

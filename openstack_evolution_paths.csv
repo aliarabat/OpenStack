@@ -1,0 +1,3054 @@
+Path
+"['openstack/tempest' 'openstack/devstack-plugin-ceph' 'openstack/neutron'
+ 'openstack/nova' 'openstack/python-tackerclient'
+ 'openstack/tacker-horizon' 'openstack/manila' 'openstack/cinder'
+ 'openstack/glance' 'openstack/os-brick' 'openstack/placement'
+ 'openstack/os-resource-classes' 'openstack/blazar' 'openstack/ironic'
+ 'openstack/horizon' 'openstack/tacker-specs'
+ 'openstack/octavia-tempest-plugin' 'openstack/mistral' 'openstack/kuryr'
+ 'openstack/freezer' 'openstack/designate' 'openstack/magnum'
+ 'openstack/masakari' 'openstack/masakari-monitors' 'openstack/murano'
+ 'openstack/adjutant' 'openstack/keystone' 'openstack/kuryr-libnetwork'
+ 'openstack/freezer-api' 'openstack/cloudkitty' 'openstack/cyborg'
+ 'openstack/barbican' 'openstack/octavia' 'openstack/heat-translator'
+ 'openstack/tosca-parser' 'openstack/neutron-tempest-plugin'
+ 'openstack/swift' 'openstack/cinder-tempest-plugin'
+ 'openstack/tripleo-ci' 'openstack/openstack-tempest-skiplist'
+ 'openstack/glance-tempest-plugin' 'openstack/devstack'
+ 'openstack/watcher-tempest-plugin' 'openstack/vitrage-tempest-plugin'
+ 'openstack/networking-bagpipe' 'openstack/manila-tempest-plugin'
+ 'openstack/barbican-tempest-plugin' 'openstack/patrole'
+ 'openstack/networking-generic-switch' 'openstack/manila-test-image'
+ 'openstack/ironic-tempest-plugin' 'openstack/tacker' 'openstack/vitrage'
+ 'openstack/whitebox-tempest-plugin' 'openstack/releases'
+ 'openstack/magnum-tempest-plugin' 'openstack/ovn-octavia-provider'
+ 'openstack/devstack-gate' 'openstack/monasca-log-api'
+ 'openstack/python-novaclient' 'openstack/manila-specs'
+ 'openstack/monasca-api' 'openstack/charm-tempest' 'openstack/ceilometer'
+ 'openstack/manila-image-elements' 'openstack/kuryr-kubernetes'
+ 'openstack/devstack-plugin-container' 'openstack/qinling'
+ 'openstack/python-swiftclient' 'openstack/trove' 'openstack/freezer-dr'
+ 'openstack/senlin' 'openstack/python-freezerclient' 'openstack/tooz'
+ 'openstack/karbor' 'openstack/osprofiler' 'openstack/python-magnumclient'
+ 'openstack/oslo.cache' 'openstack/python-heatclient'
+ 'openstack/trove-tempest-plugin' 'openstack/python-aodhclient'
+ 'openstack/senlin-tempest-plugin' 'openstack/murano-dashboard'
+ 'openstack/python-muranoclient' 'openstack/murano-agent' 'openstack/pbr'
+ 'openstack/openstackdocstheme' 'openstack/heat-cfnclient'
+ 'openstack/heat-cfntools' 'openstack/tempest-horizon'
+ 'openstack/osc-placement' 'openstack/searchlight-specs'
+ 'openstack/watcher' 'openstack/karbor-dashboard' 'openstack/reno'
+ 'openstack/vitrage-dashboard' 'openstack/python-zaqarclient'
+ 'openstack/zaqar-tempest-plugin' 'openstack/oswin-tempest-plugin'
+ 'openstack/zaqar-specs' 'openstack/compute-hyperv'
+ 'openstack/vitrage-specs' 'openstack/python-vitrageclient'
+ 'openstack/watcher-specs' 'openstack/trove-specs'
+ 'openstack/telemetry-specs' 'openstack/swift-bench'
+ 'openstack/murano-pkg-check' 'openstack/murano-apps'
+ 'openstack/magnum-specs' 'openstack/heat-templates'
+ 'openstack/heat-specs' 'openstack/freezer-web-ui'
+ 'openstack/freezer-specs' 'openstack/cinder-specs'
+ 'openstack/barbican-ui' 'openstack/stevedore'
+ 'openstack/masakari-dashboard' 'openstack/mistral-lib'
+ 'openstack/mistral-extra' 'openstack/mistral-specs' 'openstack/yaql'
+ 'openstack/murano-specs' 'openstack/os-traits'
+ 'openstack/qinling-dashboard' 'openstack/oslo.config'
+ 'openstack/microversion-parse' 'openstack/oslo-specs'
+ 'openstack/os-api-ref' 'openstack/devstack-plugin-zmq'
+ 'openstack/oslo.upgradecheck' 'openstack/oslo.tools' 'openstack/oslotest'
+ 'openstack/whereto' 'openstack/oslo.context' 'openstack/oslo.i18n'
+ 'openstack/sphinx-feature-classification' 'openstack/oslo.log'
+ 'openstack/oslo.metrics' 'openstack/oslo.concurrency'
+ 'openstack/oslo.serialization' 'openstack/oslo.limit'
+ 'openstack/oslo.middleware' 'openstack/devstack-plugin-kafka'
+ 'openstack/automaton' 'openstack/debtcollector' 'openstack/ec2-api'
+ 'openstack/os-testr' 'openstack/ec2api-tempest-plugin'
+ 'openstack/devstack-tools' 'openstack/openstack-health'
+ 'openstack/qa-specs' 'openstack/keystoneauth' 'openstack/keystone-specs'
+ 'openstack/ldappool' 'openstack/python-glanceclient' 'openstack/pycadf'
+ 'openstack/glance-specs' 'openstack/heat-dashboard'
+ 'openstack/governance' 'openstack/devstack-plugin-open-cas'
+ 'openstack/tempest-stress' 'openstack/os-performance-tools'
+ 'openstack/bashate' 'openstack/nova-specs' 'openstack/adjutant-ui'
+ 'openstack/cloudkitty-tempest-plugin' 'openstack/python-cyborgclient'
+ 'openstack/cyborg-tempest-plugin' 'openstack/blazar-dashboard'
+ 'openstack/congress' 'openstack/designate-tempest-plugin'
+ 'openstack/tricircle' 'openstack/dragonflow' 'openstack/ironic-inspector'
+ 'openstack/tripleo-quickstart-extras' 'openstack/networking-midonet'
+ 'openstack/ironic-python-agent' 'openstack/python-manilaclient'
+ 'openstack/neutron-fwaas' 'openstack/networking-bgpvpn'
+ 'openstack/requirements' 'openstack/monasca-persister'
+ 'openstack/monasca-events-api' 'openstack/networking-ovn'
+ 'openstack/openstack-zuul-jobs' 'openstack/sahara-tests'
+ 'openstack/project-config' 'openstack/zun'
+ 'openstack/monasca-tempest-plugin' 'openstack/networking-odl'
+ 'openstack/puppet-openstack-integration'
+ 'openstack/networking-l2gw-tempest-plugin'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/python-mistralclient' 'openstack/keystone-tempest-plugin'
+ 'openstack/python-troveclient' 'openstack/heat'
+ 'openstack/devstack-plugin-nfs' 'openstack/aodh'
+ 'openstack/python-saharaclient' 'openstack/tempest-lib']"
+"['openstack/neutron-lib' 'openstack/nova' 'openstack/neutron'
+ 'openstack/neutron-vpnaas' 'openstack/tap-as-a-service'
+ 'openstack/neutron-tempest-plugin' 'openstack/python-openstackclient'
+ 'openstack/python-neutronclient' 'openstack/neutron-dynamic-routing'
+ 'openstack/networking-bgpvpn' 'openstack/openstacksdk'
+ 'openstack/networking-odl' 'openstack/networking-l2gw'
+ 'openstack/networking-bagpipe' 'openstack/neutron-fwaas'
+ 'openstack/neutron-interconnection' 'openstack/oslo.policy'
+ 'openstack/patrole' 'openstack/project-config' 'openstack/heat'
+ 'openstack/neutron-lbaas' 'openstack/horizon'
+ 'openstack/networking-midonet' 'openstack/networking-sfc'
+ 'openstack/neutron-specs' 'openstack/releases']"
+"['openstack/python-tripleoclient' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-quickstart' 'openstack/tripleo-docs'
+ 'openstack/tripleo-quickstart-extras'
+ 'openstack/tripleo-operator-ansible' 'openstack/tripleo-ansible'
+ 'openstack/tripleo-common' 'openstack/tripleo-upgrade'
+ 'openstack/tripleo-ci' 'openstack/tripleo-validations'
+ 'openstack/rpm-packaging' 'openstack/project-config'
+ 'openstack/diskimage-builder' 'openstack/instack-undercloud'
+ 'openstack/puppet-tripleo']"
+"['openstack/rally-openstack' 'openstack/neutron' 'openstack/glance'
+ 'openstack/manila' 'openstack/networking-ovn' 'openstack/rally'
+ 'openstack/murano']"
+"['openstack/devstack' 'openstack/neutron'
+ 'openstack/neutron-tempest-plugin' 'openstack/tempest'
+ 'openstack/networking-midonet' 'openstack/glance-tempest-plugin'
+ 'openstack/nova' 'openstack/aodh' 'openstack/glance'
+ 'openstack/cinder-tempest-plugin' 'openstack/ceilometer'
+ 'openstack/designate' 'openstack/manila' 'openstack/kuryr-kubernetes'
+ 'openstack/keystone' 'openstack/devstack-plugin-ceph' 'openstack/cinder'
+ 'openstack/grenade' 'openstack/cyborg-tempest-plugin' 'openstack/octavia'
+ 'openstack/networking-bgpvpn' 'openstack/manila-tempest-plugin'
+ 'openstack/requirements' 'openstack/cliff' 'openstack/storlets'
+ 'openstack/horizon' 'openstack/tripleo-quickstart'
+ 'openstack/project-config' 'openstack/ovn-octavia-provider'
+ 'openstack/ironic' 'openstack/octavia-tempest-plugin'
+ 'openstack/python-manilaclient' 'openstack/ironic-python-agent'
+ 'openstack/metalsmith' 'openstack/openstacksdk' 'openstack/masakari'
+ 'openstack/swift' 'openstack/diskimage-builder' 'openstack/magnum'
+ 'openstack/devstack-gate' 'openstack/glance_store'
+ 'openstack/python-cinderclient' 'openstack/barbican'
+ 'openstack/keystoneauth' 'openstack/python-novaclient' 'openstack/shade'
+ 'openstack/python-openstackclient' 'openstack/cinderlib'
+ 'openstack/freezer-tempest-plugin' 'openstack/sahara-tests'
+ 'openstack/python-senlinclient' 'openstack/python-muranoclient'
+ 'openstack/python-heatclient' 'openstack/keystonemiddleware'
+ 'openstack/heat-tempest-plugin' 'openstack/openstack-zuul-jobs'
+ 'openstack/solum' 'openstack/networking-ovn' 'openstack/neutron-fwaas'
+ 'openstack/watcher' 'openstack/networking-baremetal'
+ 'openstack/networking-odl' 'openstack/sahara' 'openstack/vitrage'
+ 'openstack/patrole' 'openstack/heat' 'openstack/tacker'
+ 'openstack/os-brick' 'openstack/kolla' 'openstack/zun'
+ 'openstack/python-keystoneclient' 'openstack/tripleo-quickstart-extras'
+ 'openstack/murano' 'openstack/tripleo-ci' 'openstack/oslo.service'
+ 'openstack/oslo.messaging' 'openstack/oslo.config'
+ 'openstack/devstack-plugin-kafka' 'openstack/devstack-plugin-amqp1'
+ 'openstack/python-brick-cinderclient-ext' 'openstack/nova-powervm'
+ 'openstack/placement' 'openstack/neutron-lib'
+ 'openstack/kuryr-tempest-plugin' 'openstack/python-glanceclient'
+ 'openstack/rally' 'openstack/ironic-inspector' 'openstack/osc-placement'
+ 'openstack/mistral' 'openstack/tap-as-a-service'
+ 'openstack/neutron-lbaas' 'openstack/neutron-vpnaas'
+ 'openstack/manila-ui' 'openstack/castellan' 'openstack/oslo.cache'
+ 'openstack/karbor' 'openstack/neutron-dynamic-routing'
+ 'openstack/gnocchi' 'openstack/trove' 'openstack/networking-l2gw'
+ 'openstack/os-vif' 'openstack/networking-generic-switch'
+ 'openstack/osprofiler' 'openstack/ec2-api' 'openstack/glance-specs'
+ 'openstack/api-site' 'openstack/oslo.privsep' 'openstack/oslo.reports'
+ 'openstack/oslo.utils' 'openstack/oslo.versionedobjects'
+ 'openstack/taskflow' 'openstack/trove-integration']"
+"['openstack/tripleo-heat-templates' 'openstack/tripleo-ansible'
+ 'openstack/tripleo-quickstart' 'openstack/tripleo-common'
+ 'openstack/networking-ovn' 'openstack/tripleo-quickstart-extras'
+ 'openstack/python-tripleoclient' 'openstack/puppet-tripleo'
+ 'openstack/neutron' 'openstack/tripleo-ci'
+ 'openstack/tripleo-puppet-elements' 'openstack/pbr'
+ 'openstack/tripleo-upgrade' 'openstack/tripleo-docs'
+ 'openstack/puppet-designate' 'openstack/openstack-tempest-skiplist'
+ 'openstack/ansible-role-redhat-subscription'
+ 'openstack/tripleo-operator-ansible' 'openstack/puppet-octavia'
+ 'openstack/tripleo-validations' 'openstack/puppet-keystone'
+ 'openstack/paunch' 'openstack/mistral'
+ 'openstack/ansible-role-container-registry'
+ 'openstack/instack-undercloud' 'openstack/project-config'
+ 'openstack/puppet-ceph' 'openstack/tripleo-ui' 'openstack/puppet-neutron'
+ 'openstack/puppet-nova' 'openstack/puppet-pacemaker'
+ 'openstack/os-cloud-config' 'openstack/tripleo-image-elements'
+ 'openstack/tripleo-incubator']"
+"['openstack/openstack-helm-infra' 'openstack/openstack-helm'
+ 'openstack/openstack-helm-images' 'openstack/openstack-helm-addons'
+ 'openstack/openstack-zuul-jobs']"
+"['openstack/cinder-tempest-plugin' 'openstack/cinder' 'openstack/tempest'
+ 'openstack/devstack' 'openstack/os-brick' 'openstack/nova'
+ 'openstack/openstack-ansible-os_cinder']"
+"['openstack/openstack-zuul-jobs' 'openstack/tempest' 'openstack/horizon'
+ 'openstack/cliff' 'openstack/ldappool' 'openstack/project-config'
+ 'openstack/heat-translator' 'openstack/validations-common'
+ 'openstack/glance' 'openstack/neutron' 'openstack/os-resource-classes'
+ 'openstack/taskflow' 'openstack/os-testr' 'openstack/yaql'
+ 'openstack/os-service-types' 'openstack/oslotest'
+ 'openstack/openstack-doc-tools' 'openstack/tooz'
+ 'openstack/sphinx-feature-classification' 'openstack/openstackclient'
+ 'openstack/os-traits' 'openstack/debtcollector'
+ 'openstack/oslo.concurrency' 'openstack/osprofiler'
+ 'openstack/oslo.reports' 'openstack/oslo.log' 'openstack/futurist'
+ 'openstack/oslo.i18n' 'openstack/whereto' 'openstack/os-api-ref'
+ 'openstack/os-client-config' 'openstack/oslo.rootwrap' 'openstack/shade'
+ 'openstack/reno' 'openstack/hacking' 'openstack/tripleo-ci'
+ 'openstack/nova' 'openstack/charm-cinder'
+ 'openstack/python-tripleoclient' 'openstack/osc-placement'
+ 'openstack/eslint-config-openstack' 'openstack/heat'
+ 'openstack/python-swiftclient' 'openstack/placement' 'openstack/devstack'
+ 'openstack/heat-tempest-plugin' 'openstack/python-barbicanclient'
+ 'openstack/magnum' 'openstack/networking-ovn' 'openstack/qinling'
+ 'openstack/python-masakariclient' 'openstack/manila'
+ 'openstack/charm-ceph-osd' 'openstack/charm-barbican'
+ 'openstack/charm-heat' 'openstack/reviewstats' 'openstack/keystone'
+ 'openstack/diskimage-builder' 'openstack/requirements'
+ 'openstack/networking-bgpvpn' 'openstack/zun-ui' 'openstack/releases'
+ 'openstack/neutron-vpnaas' 'openstack/manila-tempest-plugin'
+ 'openstack/networking-bagpipe' 'openstack/networking-odl'
+ 'openstack/manila-ui' 'openstack/cinder' 'openstack/freezer-api'
+ 'openstack/i18n' 'openstack/charm-ceph-mon' 'openstack/js-openstack-lib'
+ 'openstack/sahara' 'openstack/pbr' 'openstack/tripleo-common'
+ 'openstack/tripleo-quickstart' 'openstack/trove' 'openstack/murano'
+ 'openstack/designate' 'openstack/neutron-lib'
+ 'openstack/sahara-plugin-vanilla' 'openstack/sahara-plugin-storm'
+ 'openstack/sahara-plugin-mapr' 'openstack/sahara-plugin-spark'
+ 'openstack/sahara-plugin-ambari' 'openstack/sahara-plugin-cdh'
+ 'openstack/ceilometer' 'openstack/ironic' 'openstack/networking-midonet'
+ 'openstack/watcher' 'openstack/tricircle' 'openstack/neutron-fwaas'
+ 'openstack/masakari' 'openstack/oslo.limit' 'openstack/os-brick'
+ 'openstack/kuryr-libnetwork' 'openstack/vitrage'
+ 'openstack/congress-tempest-plugin' 'openstack/freezer-tempest-plugin'
+ 'openstack/neutron-dynamic-routing' 'openstack/blazar' 'openstack/zun'
+ 'openstack/os-vif' 'openstack/python-novaclient' 'openstack/bashate'
+ 'openstack/devstack-plugin-ceph' 'openstack/stackviz'
+ 'openstack/devstack-plugin-container' 'openstack/grenade'
+ 'openstack/python-ironicclient' 'openstack/murano-apps'
+ 'openstack/ironic-python-agent' 'openstack/python-muranoclient'
+ 'openstack/murano-dashboard' 'openstack/cyborg'
+ 'openstack/ironic-inspector' 'openstack/karbor'
+ 'openstack/python-zunclient' 'openstack/aodh'
+ 'openstack/python-zaqarclient' 'openstack/telemetry-tempest-plugin'
+ 'openstack/barbican' 'openstack/ec2-api' 'openstack/zaqar'
+ 'openstack/freezer' 'openstack/freezer-web-ui' 'openstack/networking-sfc'
+ 'openstack/neutron-fwaas-dashboard' 'openstack/neutron-vpnaas-dashboard'
+ 'openstack/ovsdbapp' 'openstack/python-neutronclient' 'openstack/octavia'
+ 'openstack/neutron-lbaas' 'openstack/syntribos' 'openstack/oslo.config'
+ 'openstack/heat-agents' 'openstack/designate-dashboard'
+ 'openstack/ceilometer-powervm' 'openstack/devstack-gate'
+ 'openstack/python-manilaclient' 'openstack/networking-baremetal'
+ 'openstack/python-searchlightclient' 'openstack/goal-tools'
+ 'openstack/fuxi' 'openstack/karbor-dashboard'
+ 'openstack/mistral-dashboard' 'openstack/os-refresh-config'
+ 'openstack/os-collect-config' 'openstack/instack'
+ 'openstack/compute-hyperv' 'openstack/tap-as-a-service' 'openstack/swift'
+ 'openstack/masakari-monitors' 'openstack/blazar-nova'
+ 'openstack/openstack-ansible-tests' 'openstack/release-test'
+ 'openstack/dragonflow' 'openstack/kolla-kubernetes'
+ 'openstack/nova-powervm' 'openstack/python-heatclient'
+ 'openstack/searchlight' 'openstack/ironic-ui'
+ 'openstack/python-ironic-inspector-client'
+ 'openstack/python-blazarclient' 'openstack/networking-hyperv'
+ 'openstack/pycadf' 'openstack/blazar-dashboard' 'openstack/oslo.service'
+ 'openstack/release-tools' 'openstack/manila-image-elements'
+ 'openstack/mistral' 'openstack/tripleo-heat-templates'
+ 'openstack/python-karborclient' 'openstack/ansible-hardening'
+ 'openstack/keystoneauth' 'openstack/python-troveclient' 'openstack/kuryr'
+ 'openstack/python-keystoneclient' 'openstack/python-cinderclient'
+ 'openstack/python-congressclient' 'openstack/keystonemiddleware'
+ 'openstack/monasca-ui' 'openstack/python-mistralclient'
+ 'openstack/python-glanceclient' 'openstack/glance_store'
+ 'openstack/networking-l2gw' 'openstack/castellan' 'openstack/tacker'
+ 'openstack/mistral-lib' 'openstack/os-win' 'openstack/sahara-dashboard'
+ 'openstack/pymod2pkg' 'openstack/tacker-horizon'
+ 'openstack/tripleo-validations' 'openstack/congress-dashboard'
+ 'openstack/python-octaviaclient' 'openstack/python-openstackclient'
+ 'openstack/python-watcherclient' 'openstack/watcher-dashboard'
+ 'openstack/oslo.context' 'openstack/oslo.messaging'
+ 'openstack/oslo.middleware' 'openstack/oslo.cache' 'openstack/oslo.db'
+ 'openstack/oslo.privsep' 'openstack/oslo.versionedobjects'
+ 'openstack/automaton' 'openstack/oslo.utils' 'openstack/oslo.vmware'
+ 'openstack/oslo.serialization' 'openstack/oslo.policy' 'openstack/mox3'
+ 'openstack/kolla-ansible' 'openstack/octavia-dashboard'
+ 'openstack/osc-lib' 'openstack/neutron-lbaas-dashboard'
+ 'openstack/instack-undercloud' 'openstack/monasca-api'
+ 'openstack/monasca-transform' 'openstack/python-monascaclient'
+ 'openstack/python-qinlingclient' 'openstack/monasca-common'
+ 'openstack/python-brick-cinderclient-ext' 'openstack/os-apply-config'
+ 'openstack/python-tricircleclient' 'openstack/openstacksdk'
+ 'openstack/stevedore' 'openstack/monasca-notification'
+ 'openstack/monasca-statsd' 'openstack/monasca-persister'
+ 'openstack/python-tackerclient' 'openstack/heat-dashboard'
+ 'openstack/ironic-lib' 'openstack/python-saharaclient'
+ 'openstack/networking-powervm' 'openstack/sahara-image-elements'
+ 'openstack/networking-generic-switch' 'openstack/sushy-tools'
+ 'openstack/virtualbmc' 'openstack/sushy' 'openstack/kuryr-kubernetes'
+ 'openstack/python-designateclient' 'openstack/python-freezerclient'
+ 'openstack/tosca-parser' 'openstack/python-senlinclient'
+ 'openstack/murano-pkg-check' 'openstack/senlin' 'openstack/patrole'
+ 'openstack/solum' 'openstack/senlin-dashboard' 'openstack/zaqar-ui'
+ 'openstack/solum-dashboard' 'openstack/python-solumclient'
+ 'openstack/sahara-extra' 'openstack/magnum-ui'
+ 'openstack/python-magnumclient' 'openstack/python-vitrageclient'
+ 'openstack/murano-agent' 'openstack/openstack-ansible'
+ 'openstack/openstackdocstheme'
+ 'openstack/openstack-ansible-memcached_server'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-lxc_container_create'
+ 'openstack/openstack-ansible-haproxy_server'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-galera_client'
+ 'openstack/openstack-ansible-ceph_client'
+ 'openstack/openstack-ansible-apt_package_pinning' 'openstack/kolla'
+ 'openstack/bifrost' 'openstack/congress' 'openstack/bandit'
+ 'openstack/blazar-tempest-plugin' 'openstack/barbican-tempest-plugin'
+ 'openstack/cinder-tempest-plugin' 'openstack/requestsexceptions'
+ 'openstack/anchor' 'openstack/puppet-nova' 'openstack/tripleo-ui'
+ 'openstack/dib-utils' 'openstack/puppet-openstack-cookiecutter'
+ 'openstack/puppet-openstack-integration'
+ 'openstack/charm-deployment-guide' 'openstack/puppet-murano'
+ 'openstack/openstack-manuals' 'openstack/openstack-zuul-roles']"
+"['openstack/tripleo-upgrade' 'openstack/tripleo-common'
+ 'openstack/tripleo-heat-templates' 'openstack/tripleo-quickstart'
+ 'openstack/tripleo-ci' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-ansible' 'openstack/tripleo-quickstart-extras']"
+"['openstack/tripleo-ci' 'openstack/ansible-role-collect-logs'
+ 'openstack/tripleo-heat-templates' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-common' 'openstack/tripleo-ansible'
+ 'openstack/puppet-tripleo' 'openstack/os-net-config' 'openstack/manila'
+ 'openstack/tripleo-quickstart' 'openstack/tripleo-quickstart-extras'
+ 'openstack/tripleo-docs' 'openstack/validations-libs'
+ 'openstack/validations-common' 'openstack/puppet-pacemaker'
+ 'openstack/tripleo-validations' 'openstack/tripleo-upgrade'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/ansible-role-python_venv_build'
+ 'openstack/ansible-config_template'
+ 'openstack/ansible-role-tripleo-modify-image'
+ 'openstack/tripleo-operator-ansible' 'openstack/tripleo-repos'
+ 'openstack/openstack-tempest-skiplist' 'openstack/tripleo-image-elements'
+ 'openstack/openstack-virtual-baremetal' 'openstack/paunch'
+ 'openstack/instack-undercloud' 'openstack/os-refresh-config'
+ 'openstack/os-apply-config' 'openstack/cyborg-tempest-plugin'
+ 'openstack/tripleo-puppet-elements' 'openstack/diskimage-builder'
+ 'openstack/kolla' 'openstack/tempest-tripleo-ui' 'openstack/aodh'
+ 'openstack/panko' 'openstack/ceilometer' 'openstack/puppet-nova'
+ 'openstack/puppet-neutron' 'openstack/puppet-keystone'
+ 'openstack/puppet-horizon' 'openstack/puppet-openstack-integration'
+ 'openstack/project-config' 'openstack/os-collect-config'
+ 'openstack/networking-ovn' 'openstack/puppet-ceph' 'openstack/heat'
+ 'openstack/puppet-aodh' 'openstack/python-ironicclient']"
+"['openstack/os-brick' 'openstack/cinder' 'openstack/tempest'
+ 'openstack/glance' 'openstack/nova' 'openstack/devstack'
+ 'openstack/cinderlib' 'openstack/barbican-tempest-plugin'
+ 'openstack/devstack-plugin-ceph'
+ 'openstack/python-brick-cinderclient-ext']"
+"['openstack/tripleo-common' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-ansible' 'openstack/tripleo-ci'
+ 'openstack/tripleo-quickstart-extras' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-docs' 'openstack/tripleo-puppet-elements'
+ 'openstack/tripleo-quickstart'
+ 'openstack/ansible-role-tripleo-modify-image' 'openstack/puppet-tripleo'
+ 'openstack/tripleo-validations' 'openstack/kolla' 'openstack/mistral'
+ 'openstack/tripleo-image-elements' 'openstack/tripleo-ui'
+ 'openstack/instack-undercloud' 'openstack/tripleo-upgrade'
+ 'openstack/requirements' 'openstack/nova' 'openstack/project-config']"
+"['openstack/requirements' 'openstack/barbican' 'openstack/cinder'
+ 'openstack/openstack-helm-images' 'openstack/horizon'
+ 'openstack/oslo.log' 'openstack/neutron' 'openstack/networking-baremetal'
+ 'openstack/ironic-inspector' 'openstack/nova' 'openstack/octavia'
+ 'openstack/python-glanceclient' 'openstack/keystone'
+ 'openstack/oslo.cache' 'openstack/keystonemiddleware' 'openstack/glance'
+ 'openstack/designate' 'openstack/devstack' 'openstack/openstack-ansible'
+ 'openstack/python-tripleoclient' 'openstack/python-keystoneclient'
+ 'openstack/octavia-tempest-plugin' 'openstack/validations-libs'
+ 'openstack/taskflow' 'openstack/networking-ovn'
+ 'openstack/kuryr-kubernetes' 'openstack/tempest'
+ 'openstack/kolla-ansible' 'openstack/openstack-zuul-jobs'
+ 'openstack/heat-agents' 'openstack/oslo.vmware'
+ 'openstack/validations-common' 'openstack/tripleo-ansible'
+ 'openstack/cliff' 'openstack/keystoneauth' 'openstack/tacker'
+ 'openstack/cinder-tempest-plugin' 'openstack/tripleo-ci'
+ 'openstack/glance_store' 'openstack/tripleo-validations'
+ 'openstack/manila' 'openstack/blazar' 'openstack/placement'
+ 'openstack/masakari' 'openstack/heat-tempest-plugin' 'openstack/heat'
+ 'openstack/python-swiftclient' 'openstack/networking-sfc'
+ 'openstack/python-openstackclient' 'openstack/os-brick'
+ 'openstack/oslo.versionedobjects' 'openstack/tooz' 'openstack/oslo.limit'
+ 'openstack/oslo.policy' 'openstack/bifrost' 'openstack/vitrage'
+ 'openstack/patrole' 'openstack/pbr' 'openstack/ovsdbapp'
+ 'openstack/project-config' 'openstack/python-muranoclient'
+ 'openstack/networking-odl' 'openstack/stevedore'
+ 'openstack/oslo.messaging' 'openstack/tripleo-heat-templates'
+ 'openstack/python-saharaclient' 'openstack/hacking'
+ 'openstack/python-monascaclient' 'openstack/python-novaclient'
+ 'openstack/python-mistralclient' 'openstack/grenade'
+ 'openstack/oslo.concurrency' 'openstack/python-neutronclient'
+ 'openstack/oslo.privsep' 'openstack/oslo.reports'
+ 'openstack/oslo.rootwrap' 'openstack/oslo.service' 'openstack/oslo-specs'
+ 'openstack/oslo.context' 'openstack/oslo.db' 'openstack/oslo.middleware'
+ 'openstack/oslo.serialization' 'openstack/oslo.tools'
+ 'openstack/python-searchlightclient' 'openstack/ironic'
+ 'openstack/python-ironic-inspector-client'
+ 'openstack/python-magnumclient' 'openstack/python-ironicclient'
+ 'openstack/oslotest' 'openstack/oslo.upgradecheck' 'openstack/oslo.utils'
+ 'openstack/python-qinlingclient' 'openstack/watcher'
+ 'openstack/openstacksdk' 'openstack/swift' 'openstack/neutron-lib'
+ 'openstack/vitrage-dashboard' 'openstack/masakari-monitors'
+ 'openstack/congress-tempest-plugin' 'openstack/kolla'
+ 'openstack/tripleo-common' 'openstack/neutron-tempest-plugin'
+ 'openstack/monasca-notification' 'openstack/qinling' 'openstack/karbor'
+ 'openstack/karbor-dashboard' 'openstack/python-cloudkittyclient'
+ 'openstack/storlets' 'openstack/sahara' 'openstack/zaqar'
+ 'openstack/congress' 'openstack/congress-dashboard' 'openstack/panko'
+ 'openstack/monasca-api' 'openstack/ceilometer'
+ 'openstack/monasca-events-api' 'openstack/designate-dashboard'
+ 'openstack/monasca-log-api' 'openstack/neutron-vpnaas-dashboard'
+ 'openstack/monasca-agent' 'openstack/monasca-ui'
+ 'openstack/monasca-transform' 'openstack/monasca-persister'
+ 'openstack/senlin-dashboard' 'openstack/magnum-ui' 'openstack/zaqar-ui'
+ 'openstack/solum' 'openstack/murano' 'openstack/cloudkitty'
+ 'openstack/solum-dashboard' 'openstack/murano-agent'
+ 'openstack/murano-dashboard' 'openstack/murano-pkg-check'
+ 'openstack/mistral' 'openstack/magnum' 'openstack/zun' 'openstack/senlin'
+ 'openstack/searchlight-ui' 'openstack/qinling-dashboard'
+ 'openstack/mistral-extra' 'openstack/sahara-dashboard'
+ 'openstack/mistral-dashboard' 'openstack/kuryr-libnetwork'
+ 'openstack/kuryr' 'openstack/openstack-ansible-tests'
+ 'openstack/python-zaqarclient' 'openstack/blazar-nova'
+ 'openstack/compute-hyperv' 'openstack/os-net-config'
+ 'openstack/rpm-packaging' 'openstack/diskimage-builder'
+ 'openstack/python-solumclient' 'openstack/monasca-common'
+ 'openstack/python-designateclient' 'openstack/loci'
+ 'openstack/tripleo-upgrade' 'openstack/governance'
+ 'openstack/openstack-ansible-os_monasca-ui' 'openstack/futurist'
+ 'openstack/election' 'openstack/python-masakariclient'
+ 'openstack/networking-bgpvpn' 'openstack/python-manilaclient'
+ 'openstack/devstack-gate' 'openstack/kuryr-tempest-plugin'
+ 'openstack/searchlight' 'openstack/oslo.config'
+ 'openstack/networking-hyperv' 'openstack/instack-undercloud'
+ 'openstack/osprofiler' 'openstack/trove-dashboard' 'openstack/shade'
+ 'openstack/nova-powervm' 'openstack/networking-midonet'
+ 'openstack/dragonflow' 'openstack/zun-ui' 'openstack/osc-lib'
+ 'openstack/python-zunclient' 'openstack/trove' 'openstack/releases'
+ 'openstack/puppet-murano' 'openstack/os-testr'
+ 'openstack/networking-bagpipe' 'openstack/ironic-tempest-plugin'
+ 'openstack/tricircle' 'openstack/neutron-dynamic-routing'
+ 'openstack/neutron-vpnaas' 'openstack/neutron-fwaas'
+ 'openstack/neutron-lbaas' 'openstack/ec2-api'
+ 'openstack/django_openstack_auth' 'openstack/openstack-manuals'
+ 'openstack/python-senlinclient' 'openstack/rally'
+ 'openstack/kolla-kubernetes' 'openstack/python-cinderclient'
+ 'openstack/os-refresh-config' 'openstack/ironic-python-agent'
+ 'openstack/freezer' 'openstack/designate-tempest-plugin' 'openstack/aodh'
+ 'openstack/gnocchi' 'openstack/python-aodhclient' 'openstack/ldappool'
+ 'openstack/trove-integration' 'openstack/networking-generic-switch'
+ 'openstack/pycadf' 'openstack/keystoneauth-saml2'
+ 'openstack/python-keystoneclient-kerberos' 'openstack/os-client-config'
+ 'openstack/networking-ofagent' 'openstack/oslo-incubator'
+ 'openstack/tempest-lib' 'openstack/python-barbicanclient'
+ 'openstack/python-troveclient' 'openstack/python-heatclient'
+ 'openstack/python-ceilometerclient' 'openstack/debtcollector'
+ 'openstack/oslo.i18n']"
+"['openstack/neutron' 'openstack/networking-midonet'
+ 'openstack/neutron-vpnaas' 'openstack/tempest' 'openstack/nova'
+ 'openstack/neutron-dynamic-routing' 'openstack/neutron-lib'
+ 'openstack/networking-bgpvpn' 'openstack/kuryr-tempest-plugin'
+ 'openstack/neutron-tempest-plugin' 'openstack/puppet-neutron'
+ 'openstack/devstack' 'openstack/kuryr-kubernetes'
+ 'openstack/python-openstackclient' 'openstack/requirements'
+ 'openstack/openstacksdk' 'openstack/networking-baremetal'
+ 'openstack/tripleo-heat-templates' 'openstack/networking-ovn'
+ 'openstack/horizon' 'openstack/kolla-ansible' 'openstack/oslo.policy'
+ 'openstack/networking-odl' 'openstack/project-config' 'openstack/os-vif'
+ 'openstack/tripleo-validations' 'openstack/networking-bagpipe'
+ 'openstack/ovn-octavia-provider' 'openstack/ovsdbapp'
+ 'openstack/tap-as-a-service' 'openstack/dragonflow'
+ 'openstack/neutron-fwaas' 'openstack/tripleo-quickstart-extras'
+ 'openstack/rpm-packaging' 'openstack/patrole' 'openstack/heat'
+ 'openstack/networking-sfc' 'openstack/python-neutronclient'
+ 'openstack/rally-openstack' 'openstack/networking-l2gw'
+ 'openstack/neutron-lbaas' 'openstack/ironic' 'openstack/nova-specs'
+ 'openstack/openstack-manuals' 'openstack/kuryr-libnetwork'
+ 'openstack/zun' 'openstack/congress' 'openstack/ceilometer'
+ 'openstack/octavia' 'openstack/heat-tempest-plugin' 'openstack/manila'
+ 'openstack/sahara' 'openstack/designate' 'openstack/openstack-ansible'
+ 'openstack/tricircle' 'openstack/openstack-zuul-jobs' 'openstack/rally'
+ 'openstack/devstack-gate' 'openstack/tripleo-docs' 'openstack/senlin'
+ 'openstack/openstackdocstheme' 'openstack/tripleo-quickstart'
+ 'openstack/tripleo-ci' 'openstack/networking-hyperv' 'openstack/shade'
+ 'openstack/openstack-ansible-os_neutron' 'openstack/neutron-specs'
+ 'openstack/api-site' 'openstack/magnum' 'openstack/networking-ofagent'
+ 'openstack/governance' 'openstack/diskimage-builder'
+ 'openstack/ironic-python-agent' 'openstack/ec2-api'
+ 'openstack/oslo.messaging']"
+"['openstack/manila-tempest-plugin' 'openstack/manila'
+ 'openstack/tripleo-quickstart' 'openstack/tempest']"
+"['openstack/tripleo-ansible' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-quickstart-extras' 'openstack/tripleo-docs'
+ 'openstack/tripleo-validations' 'openstack/tripleo-operator-ansible'
+ 'openstack/tripleo-ci' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-quickstart' 'openstack/puppet-tripleo'
+ 'openstack/tripleo-common' 'openstack/tripleo-upgrade' 'openstack/paunch'
+ 'openstack/project-config']"
+"['openstack/ansible-collection-kolla' 'openstack/kolla-ansible'
+ 'openstack/kayobe' 'openstack/releases']"
+"['openstack/tripleo-quickstart-extras' 'openstack/tripleo-ansible'
+ 'openstack/tripleo-quickstart' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-ci' 'openstack/tripleo-common'
+ 'openstack/ansible-collections-openstack'
+ 'openstack/neutron-tempest-plugin' 'openstack/heat-tempest-plugin'
+ 'openstack/validations-libs' 'openstack/validations-common'
+ 'openstack/python-tripleoclient' 'openstack/tripleo-validations'
+ 'openstack/openstack-tempest-skiplist' 'openstack/tripleo-repos'
+ 'openstack/ansible-role-collect-logs'
+ 'openstack/tripleo-operator-ansible' 'openstack/puppet-tripleo'
+ 'openstack/puppet-nova' 'openstack/ansible-role-tripleo-modify-image'
+ 'openstack/tripleo-upgrade' 'openstack/puppet-horizon'
+ 'openstack/tempest-tripleo-ui' 'openstack/puppet-neutron'
+ 'openstack/puppet-swift' 'openstack/puppet-cinder' 'openstack/heat'
+ 'openstack/project-config' 'openstack/instack-undercloud']"
+"['openstack/neutron-tempest-plugin' 'openstack/neutron-vpnaas'
+ 'openstack/neutron' 'openstack/designate'
+ 'openstack/neutron-dynamic-routing' 'openstack/designate-tempest-plugin'
+ 'openstack/networking-bgpvpn' 'openstack/networking-bagpipe'
+ 'openstack/networking-sfc' 'openstack/networking-midonet'
+ 'openstack/neutron-fwaas' 'openstack/networking-ovn'
+ 'openstack/project-config' 'openstack/kolla' 'openstack/patrole'
+ 'openstack/devstack-gate' 'openstack/tempest']"
+"['openstack/octavia' 'openstack/octavia-tempest-plugin'
+ 'openstack/openstacksdk' 'openstack/tripleo-heat-templates'
+ 'openstack/python-octaviaclient' 'openstack/puppet-octavia'
+ 'openstack/requirements' 'openstack/octavia-dashboard'
+ 'openstack/diskimage-builder' 'openstack/project-config'
+ 'openstack/kuryr-kubernetes' 'openstack/octavia-lib' 'openstack/heat'
+ 'openstack/neutron-lbaas' 'openstack/openstack-ansible'
+ 'openstack/governance']"
+"['openstack/puppet-tripleo' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-ci' 'openstack/tripleo-ansible'
+ 'openstack/openstack-tempest-skiplist' 'openstack/releases'
+ 'openstack/python-tripleoclient' 'openstack/tripleo-common'
+ 'openstack/puppet-pacemaker' 'openstack/tripleo-quickstart-extras'
+ 'openstack/paunch' 'openstack/puppet-octavia'
+ 'openstack/tripleo-quickstart' 'openstack/puppet-nova'
+ 'openstack/instack-undercloud' 'openstack/project-config'
+ 'openstack/tripleo-image-elements' 'openstack/puppet-glance'
+ 'openstack/diskimage-builder' 'openstack/os-cloud-config']"
+"['openstack/openstacksdk' 'openstack/python-openstackclient'
+ 'openstack/ansible-collections-openstack' 'openstack/project-config'
+ 'openstack/nova' 'openstack/octavia-dashboard'
+ 'openstack/openstack-ansible-plugins' 'openstack/devstack'
+ 'openstack/heat' 'openstack/cyborg' 'openstack/osc-lib'
+ 'openstack/ironic' 'openstack/senlin' 'openstack/neutron'
+ 'openstack/python-senlinclient' 'openstack/keystoneauth'
+ 'openstack/diskimage-builder' 'openstack/metalsmith' 'openstack/releases'
+ 'openstack/requirements' 'openstack/shade' 'openstack/bifrost'
+ 'openstack/os-client-config']"
+"['openstack/kolla' 'openstack/kolla-ansible' 'openstack/bifrost'
+ 'openstack/tripleo-common' 'openstack/tripleo-ci'
+ 'openstack/tripleo-quickstart-extras' 'openstack/tripleo-heat-templates'
+ 'openstack/kolla-kubernetes' 'openstack/requirements'
+ 'openstack/puppet-tripleo' 'openstack/project-config']"
+"['openstack/project-config' 'openstack/governance'
+ 'openstack/openstack-ansible-rsyslog_server'
+ 'openstack/openstack-ansible-rsyslog_client' 'openstack/ec2-api'
+ 'openstack/oslo.concurrency' 'openstack/openstack-zuul-jobs'
+ 'openstack/ansible-config_template' 'openstack/neutron'
+ 'openstack/security-analysis' 'openstack/os-testr'
+ 'openstack/openstack-ansible' 'openstack/skyline-console'
+ 'openstack/tripleo-ci' 'openstack/openstack-manuals'
+ 'openstack/training-labs' 'openstack/releases' 'openstack/pyeclib'
+ 'openstack/tripleo-ansible' 'openstack/nova' 'openstack/devstack'
+ 'openstack/openstack-ansible-os_panko'
+ 'openstack/openstack-ansible-nspawn_container_create'
+ 'openstack/openstack-ansible-nspawn_hosts' 'openstack/devstack-gate'
+ 'openstack/monasca-log-api' 'openstack/swift' 'openstack/tempest-horizon'
+ 'openstack/karbor' 'openstack/karbor-dashboard'
+ 'openstack/python-karborclient'
+ 'openstack/openstack-ansible-galera_client' 'openstack/qinling-dashboard'
+ 'openstack/python-qinlingclient' 'openstack/qinling'
+ 'openstack/searchlight-specs' 'openstack/searchlight-ui'
+ 'openstack/python-searchlightclient' 'openstack/searchlight'
+ 'openstack/monasca-analytics' 'openstack/os-loganalyze'
+ 'openstack/monasca-transform' 'openstack/devstack-plugin-zmq'
+ 'openstack/devstack-plugin-pika' 'openstack/kolla-cli' 'openstack/pbr'
+ 'openstack/openstack-ansible-os_congress' 'openstack/networking-onos'
+ 'openstack/solum-infra-guestagent' 'openstack/openstack-ux'
+ 'openstack/networking-l2gw' 'openstack/dragonflow'
+ 'openstack/puppet-congress' 'openstack/requirements'
+ 'openstack/python-tricircleclient' 'openstack/tricircle'
+ 'openstack/murano-apps' 'openstack/swift-specs'
+ 'openstack/networking-ovn' 'openstack/i18n-specs'
+ 'openstack/openstack-ansible-pip_install'
+ 'openstack/openstack-ansible-repo_build' 'openstack/faafo'
+ 'openstack/service-types-authority' 'openstack/ideas'
+ 'openstack/ironic-python-agent-builder' 'openstack/election'
+ 'openstack/js-openstack-lib' 'openstack/fuel-devops'
+ 'openstack/fuel-dev-tools' 'openstack/fuel-stats'
+ 'openstack/fuel-nailgun-extension-converted-serializers'
+ 'openstack/fuel-nailgun-extension-iac'
+ 'openstack/fuel-plugin-murano-tests' 'openstack/fuel-plugin-murano'
+ 'openstack/fuel-qa' 'openstack/fuel-menu' 'openstack/fuel-ui'
+ 'openstack/fuel-nailgun-agent' 'openstack/fuel-main'
+ 'openstack/fuel-astute' 'openstack/fuel-library' 'openstack/fuel-mirror'
+ 'openstack/fuel-virtualbox' 'openstack/fuel-ostf'
+ 'openstack/fuel-plugins' 'openstack/fuel-agent' 'openstack/fuel-docs'
+ 'openstack/fuel-nailgun-extension-cluster-upgrade' 'openstack/fuel-web'
+ 'openstack/fuel-specs' 'openstack/fuel-octane' 'openstack/tuning-box'
+ 'openstack/python-fuelclient' 'openstack/kolla'
+ 'openstack/charm-neutron-api-genericswitch' 'openstack/os-acc'
+ 'openstack/kayobe' 'openstack/kayobe-config'
+ 'openstack/kayobe-config-dev' 'openstack/governance-sigs'
+ 'openstack/adjutant' 'openstack/ossa' 'openstack/project-team-guide'
+ 'openstack/contributor-guide' 'openstack/tenks' 'openstack/arch-design'
+ 'openstack/ha-guide' 'openstack/operations-guide'
+ 'openstack/security-doc' 'openstack/training-guides' 'openstack/api-site'
+ 'openstack/puppet-crane' 'openstack/tempest-tripleo-ui'
+ 'openstack/docs-specs' 'openstack/tripleo-ui'
+ 'openstack-infra/opendev-website' 'openstack/neutron-lbaas-dashboard'
+ 'openstack/neutron-lbaas' 'openstack/barbican' 'openstack/oslosphinx'
+ 'openstack/heat-templates' 'openstack/openstack-ansible-os_monasca-ui'
+ 'openstack/release-test' 'openstack/fuxi-golang'
+ 'openstack/fuxi-kubernetes' 'openstack/fuxi' 'openstack/ironic-inspector'
+ 'openstack/eslint-config-openstack' 'openstack/openstack-chef-repo'
+ 'openstack-infra/puppet-odsreg' 'openstack/releasestatus'
+ 'openstack-infra/puppet-docker_registry' 'openstack-infra/vinz-webclient'
+ 'openstack/activity-board' 'openstack-infra/beaker-localhost'
+ 'openstack-infra/beaker-nodepool' 'openstack/zuul-packaging'
+ 'openstack/oslo.messaging' 'openstack/rst2bash' 'openstack/monasca-api'
+ 'openstack/devstack-plugin-kafka' 'openstack/pymod2pkg'
+ 'openstack/octavia' 'openstack/sahara-extra' 'openstack/reno'
+ 'openstack/whereto' 'openstack/shade' 'openstack/release-tools'
+ 'openstack/tripleo-docs' 'openstack/kolla-kubernetes'
+ 'openstack/devstack-plugin-ceph' 'openstack/oslo.service'
+ 'openstack/magnum-ui' 'openstack/tripleo-incubator'
+ 'openstack/trove-dashboard' 'openstack/openstack-ansible-tests'
+ 'openstack/monasca-ui' 'openstack/senlin'
+ 'openstack/python-openstackclient' 'openstack/watcher-dashboard'
+ 'openstack/murano-dashboard' 'openstack/solum-dashboard'
+ 'openstack/zaqar-ui' 'openstack/zun-ui' 'openstack/senlin-dashboard'
+ 'openstack/cue-dashboard' 'openstack/python-cueclient' 'openstack/cue'
+ 'openstack/ironic' 'openstack/horizon-cisco-ui'
+ 'openstack/python-ceilometerclient' 'openstack/ironic-tempest-plugin'
+ 'openstack/octavia-dashboard'
+ 'openstack/ansible-role-redhat-subscription' 'openstack/app-catalog'
+ 'openstack/app-catalog-common' 'openstack/app-catalog-ui'
+ 'openstack/python-appcatalogclient' 'openstack/magnum-tempest-plugin'
+ 'openstack/charm-ceph-mon' 'openstack/manila-tempest-plugin'
+ 'openstack/puppet-openstack-integration' 'openstack/sahara-dashboard'
+ 'openstack/monasca-events-api' 'openstack/ironic-specs'
+ 'openstack/neutron-vpnaas-dashboard' 'openstack/neutron-dynamic-routing'
+ 'openstack/tripleo-heat-templates' 'openstack/diskimage-builder'
+ 'openstack/magnum' 'openstack/openstack-ansible-security'
+ 'openstack/python-swiftclient' 'openstack/puppet-cinder'
+ 'openstack/puppet-ceph' 'openstack/ansible-hardening' 'openstack/solum'
+ 'openstack/patrole' 'openstack/heat' 'openstack/kuryr-kubernetes'
+ 'openstack/sushy' 'openstack/keystone' 'openstack/openstack-zuul-roles'
+ 'openstack/designate' 'openstack/python-barbicanclient'
+ 'openstack/python-tripleoclient' 'openstack/tripleo-common'
+ 'openstack/gnocchi' 'openstack/bifrost' 'openstack/tempest'
+ 'openstack/manila' 'openstack/mistral' 'openstack/trove' 'openstack/loci'
+ 'openstack/ceilometer' 'openstack/neutron-lib' 'openstack/mistral-extra'
+ 'openstack/zun' 'openstack/murano'
+ 'openstack/openstack-ansible-os_keystone' 'openstack/horizon'
+ 'openstack/fairy-slipper' 'openstack/networking-sfc'
+ 'openstack/rpm-packaging-tools' 'openstack/glance'
+ 'openstack/openstack-ansible-pip_lock_down'
+ 'openstack/django-openstack-auth-kerberos' 'openstack/kolla-ansible'
+ 'openstack/networking-odl' 'openstack/networking-midonet'
+ 'openstack/freezer-api' 'openstack/congress'
+ 'openstack/python-muranoclient' 'openstack/keystoneauth-saml2'
+ 'openstack/openstacksdk' 'openstack/heat-translator'
+ 'openstack/networking-bgpvpn' 'openstack/cinder'
+ 'openstack/neutron-vpnaas' 'openstack/aodh' 'openstack/neutron-fwaas'
+ 'openstack/rally' 'openstack/ironic-python-agent'
+ 'openstack/puppet-openstack-cookiecutter' 'openstack/networking-ofagent'
+ 'openstack/python-keystoneclient' 'openstack/keystonemiddleware'
+ 'openstack/django_openstack_auth' 'openstack/openstack-doc-tools'
+ 'openstack/sahara' 'openstack/openstackdocstheme'
+ 'openstack/openstack-ansible-lxc_container_create'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible-rabbitmq_server'
+ 'openstack/openstack-ansible-repo_server'
+ 'openstack/openstack-ansible-memcached_server'
+ 'openstack/openstack-ansible-apt_package_pinning'
+ 'openstack/python-novaclient' 'openstack/python-neutronclient'
+ 'openstack/oslo.privsep' 'openstack/futurist'
+ 'openstack/oslo.versionedobjects' 'openstack/taskflow'
+ 'openstack/automaton' 'openstack/tooz' 'openstack/grenade'
+ 'openstack/zaqar']"
+"['openstack/designate' 'openstack/designate-tempest-plugin'
+ 'openstack/python-designateclient' 'openstack/requirements'
+ 'openstack/tempest' 'openstack/project-config' 'openstack/oslo.log'
+ 'openstack/shade' 'openstack/designate-dashboard']"
+"['openstack/devstack-plugin-ceph' 'openstack/devstack' 'openstack/cinder'
+ 'openstack/glance' 'openstack/manila-tempest-plugin'
+ 'openstack/cinder-tempest-plugin' 'openstack/nova' 'openstack/tempest'
+ 'openstack/manila' 'openstack/project-config']"
+"['openstack/python-barbicanclient' 'openstack/octavia'
+ 'openstack/castellan' 'openstack/barbican' 'openstack/heat']"
+"['openstack/nova' 'openstack/tempest' 'openstack/python-novaclient'
+ 'openstack/devstack-plugin-nfs' 'openstack/tripleo-ci' 'openstack/os-vif'
+ 'openstack/requirements' 'openstack/whitebox-tempest-plugin'
+ 'openstack/puppet-nova' 'openstack/placement' 'openstack/devstack'
+ 'openstack/ironic' 'openstack/neutron' 'openstack/grenade'
+ 'openstack/python-tripleoclient' 'openstack/os-brick'
+ 'openstack/os-api-ref' 'openstack/tripleo-heat-templates'
+ 'openstack/python-openstackclient' 'openstack/glance' 'openstack/cinder'
+ 'openstack/devstack-plugin-ceph' 'openstack/designate'
+ 'openstack/compute-hyperv' 'openstack/octavia' 'openstack/tripleo-common'
+ 'openstack/openstack-zuul-jobs' 'openstack/patrole'
+ 'openstack/openstack-virtual-baremetal' 'openstack/heat'
+ 'openstack/tripleo-validations' 'openstack/ec2-api'
+ 'openstack/rpm-packaging' 'openstack/project-config' 'openstack/barbican'
+ 'openstack/oslo.service' 'openstack/os-traits' 'openstack/nova-specs'
+ 'openstack/tripleo-quickstart' 'openstack/releases'
+ 'openstack/nova-powervm' 'openstack/kolla' 'openstack/kolla-ansible'
+ 'openstack/oslo.log' 'openstack/openstack-helm'
+ 'openstack/ironic-inspector' 'openstack/ironic-tempest-plugin'
+ 'openstack/fuel-library' 'openstack/openstack-ansible-os_nova'
+ 'openstack/instack-undercloud' 'openstack/kolla-kubernetes'
+ 'openstack/tripleo-docs' 'openstack/tripleo-incubator'
+ 'openstack/barbican-tempest-plugin' 'openstack/tripleo-quickstart-extras'
+ 'openstack/murano' 'openstack/trove' 'openstack/rally'
+ 'openstack/python-cinderclient' 'openstack/openstack-manuals'
+ 'openstack/devstack-gate' 'openstack/oslo.config' 'openstack/ceilometer'
+ 'openstack/manila' 'openstack/networking-ovn'
+ 'openstack/python-ironicclient' 'openstack/tacker']"
+"['openstack/tripleo-quickstart' 'openstack/tripleo-ci'
+ 'openstack/tripleo-heat-templates' 'openstack/tripleo-quickstart-extras'
+ 'openstack/python-tripleoclient' 'openstack/tripleo-common'
+ 'openstack/tripleo-ansible' 'openstack/ansible-role-collect-logs'
+ 'openstack/tripleo-upgrade' 'openstack/tripleo-validations'
+ 'openstack/releases' 'openstack/ansible-role-tripleo-modify-image'
+ 'openstack/paunch' 'openstack/openstack-ansible-os_tempest'
+ 'openstack/instack-undercloud' 'openstack/puppet-tripleo'
+ 'openstack/mistral' 'openstack/tempest' 'openstack/heat'
+ 'openstack/tripleo-ipsec' 'openstack/networking-ovn'
+ 'openstack/project-config']"
+['openstack/glance-tempest-plugin' 'openstack/glance']
+"['openstack/puppet-ovn' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-tripleo' 'openstack/releases']"
+"['openstack/puppet-nova' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-tripleo'
+ 'openstack/tripleo-ansible' 'openstack/puppet-openstack_spec_helper'
+ 'openstack/tripleo-common' 'openstack/tripleo-quickstart-extras'
+ 'openstack/puppet-placement' 'openstack/instack-undercloud'
+ 'openstack/puppet-trove' 'openstack/tripleo-quickstart'
+ 'openstack/tripleo-ci' 'openstack/project-config' 'openstack/puppet-oslo'
+ 'openstack/python-tripleoclient' 'openstack/fuel-library'
+ 'openstack/puppet-openstack_extras' 'openstack/puppet-octavia'
+ 'openstack/puppet-keystone']"
+"['openstack/governance' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config' 'openstack/requirements' 'openstack/election'
+ 'openstack/openstack-manuals' 'openstack/neutron-vpnaas'
+ 'openstack/governance-sigs' 'openstack/releases'
+ 'openstack/project-team-guide' 'openstack/openstacksdk'
+ 'openstack/openstack-ansible' 'openstack/ironic' 'openstack/horizon'
+ 'openstack/ossa']"
+"['openstack/openstack-ansible' 'openstack/ansible-role-zookeeper'
+ 'openstack/openstack-ansible-os_octavia'
+ 'openstack/openstack-ansible-os_rally'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-os_barbican' 'openstack/governance'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-rabbitmq_server'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/openstack-ansible-os_mistral'
+ 'openstack/openstack-ansible-os_manila'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-os_magnum'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-os_zun'
+ 'openstack/openstack-ansible-os_masakari'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_murano'
+ 'openstack/openstack-ansible-lxc_container_create'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-repo_server' 'openstack/ansible-role-pki'
+ 'openstack/openstack-ansible-os_cloudkitty'
+ 'openstack/ansible-role-systemd_mount'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-os_tempest' 'openstack/ansible-role-uwsgi'
+ 'openstack/ansible-role-systemd_service'
+ 'openstack/openstack-ansible-plugins' 'openstack/sahara'
+ 'openstack/openstack-ansible-haproxy_server'
+ 'openstack/ansible-role-systemd_networkd'
+ 'openstack/openstack-ansible-os_senlin'
+ 'openstack/openstack-ansible-os_trove' 'openstack/ansible-role-vault'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-os_blazar'
+ 'openstack/openstack-ansible-os_heat'
+ 'openstack/openstack-ansible-os_tacker'
+ 'openstack/openstack-ansible-os_designate'
+ 'openstack/openstack-ansible-os_placement'
+ 'openstack/openstack-ansible-ceph_client'
+ 'openstack/openstack-ansible-os_adjutant'
+ 'openstack/openstack-ansible-os_swift'
+ 'openstack/ansible-role-python_venv_build' 'openstack/ansible-hardening'
+ 'openstack/openstack-ansible-os_panko'
+ 'openstack/openstack-ansible-os_congress'
+ 'openstack/openstack-ansible-galera_client' 'openstack/releases'
+ 'openstack/openstack-manuals' 'openstack/openstack-ansible-pip_install'
+ 'openstack/project-config']"
+"['openstack/os-vif' 'openstack/nova' 'openstack/networking-ovn'
+ 'openstack/kolla' 'openstack/neutron' 'openstack/releases'
+ 'openstack/octavia']"
+"['openstack/manila' 'openstack/manila-tempest-plugin'
+ 'openstack/python-manilaclient' 'openstack/requirements'
+ 'openstack/manila-ui' 'openstack/manila-image-elements'
+ 'openstack/devstack-plugin-ceph' 'openstack/osprofiler'
+ 'openstack/puppet-manila' 'openstack/openstack-zuul-jobs'
+ 'openstack/tempest' 'openstack/governance' 'openstack/project-config'
+ 'openstack/rally']"
+"['openstack/ironic' 'openstack/bifrost' 'openstack/requirements'
+ 'openstack/ironic-tempest-plugin' 'openstack/ironic-python-agent'
+ 'openstack/ironic-lib' 'openstack/ironic-inspector' 'openstack/sushy'
+ 'openstack/python-ironicclient' 'openstack/ironic-python-agent-builder'
+ 'openstack/ironic-prometheus-exporter' 'openstack/ironic-ui'
+ 'openstack/sushy-tools' 'openstack/virtualbmc'
+ 'openstack/tripleo-ansible' 'openstack/puppet-ironic'
+ 'openstack/python-ironic-inspector-client'
+ 'openstack/networking-baremetal' 'openstack/grenade'
+ 'openstack/networking-generic-switch' 'openstack/metalsmith'
+ 'openstack/nova' 'openstack/devstack' 'openstack/neutron'
+ 'openstack/tripleo-heat-templates' 'openstack/puppet-neutron'
+ 'openstack/project-config' 'openstack/instack-undercloud'
+ 'openstack/tempest' 'openstack/python-novaclient']"
+"['openstack/openstack-ansible-os_octavia' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-tests']"
+"['openstack/openstack-ansible-os_barbican' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_magnum']"
+"['openstack/openstack-ansible-os_ironic' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-tests']"
+"['openstack/puppet-cinder' 'openstack/puppet-tripleo'
+ 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack-integration' 'openstack/releases'
+ 'openstack/puppet-oslo' 'openstack/fuel-library'
+ 'openstack/puppet-keystone']"
+"['openstack/openstack-tempest-skiplist' 'openstack/tripleo-quickstart'
+ 'openstack/tripleo-quickstart-extras' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-ci']"
+"['openstack/releases' 'openstack/tempest' 'openstack/project-config'
+ 'openstack/election' 'openstack/openstack-manuals'
+ 'openstack/openstack-zuul-jobs' 'openstack/neutron-tempest-plugin'
+ 'openstack/barbican' 'openstack/requirements'
+ 'openstack/python-tripleoclient' 'openstack/openstack-ansible'
+ 'openstack/devstack-gate' 'openstack/kolla' 'openstack/rpm-packaging'
+ 'openstack/neutron' 'openstack/patrole' 'openstack/tripleo-ci'
+ 'openstack/project-team-guide' 'openstack/nova'
+ 'openstack/networking-ovn' 'openstack/puppet-openstack-guide'
+ 'openstack/keystone' 'openstack/ironic' 'openstack/networking-odl'
+ 'openstack/kuryr-kubernetes' 'openstack/heat'
+ 'openstack/puppet-openstack-integration' 'openstack/devstack'
+ 'openstack/mistral' 'openstack/sushy' 'openstack/release-tools'
+ 'openstack/shade' 'openstack/python-heatclient'
+ 'openstack/puppet-keystone' 'openstack/astara-appliance'
+ 'openstack/astara-horizon' 'openstack/astara' 'openstack/astara-neutron'
+ 'openstack/manila' 'openstack/mistral-dashboard' 'openstack/zaqar'
+ 'openstack/designate' 'openstack/designate-dashboard'
+ 'openstack/murano-dashboard' 'openstack/murano' 'openstack/murano-agent'
+ 'openstack/trove' 'openstack/neutron-lbaas' 'openstack/horizon'
+ 'openstack/sahara' 'openstack/neutron-vpnaas'
+ 'openstack/sahara-image-elements' 'openstack/sahara-extra'
+ 'openstack/neutron-fwaas' 'openstack/ceilometer'
+ 'openstack/python-novaclient' 'openstack/glance']"
+"['openstack/ansible-role-systemd_service'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-plugins'
+ 'openstack/openstack-ansible-galera_server' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_manila'
+ 'openstack/openstack-ansible-os_zun'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-os_swift'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/openstack-ansible-os_cinder' 'openstack/openstack-ansible-ops']"
+"['openstack/keystone' 'openstack/keystone-tempest-plugin'
+ 'openstack/ec2-api' 'openstack/glance-tempest-plugin'
+ 'openstack/python-keystoneclient' 'openstack/tempest'
+ 'openstack/oslo.policy' 'openstack/requirements' 'openstack/openstacksdk'
+ 'openstack/nova' 'openstack/tripleo-common' 'openstack/devstack'
+ 'openstack/keystoneauth' 'openstack/keystonemiddleware'
+ 'openstack/oslo.context' 'openstack/neutron' 'openstack/sahara'
+ 'openstack/patrole' 'openstack/releases' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config' 'openstack/tripleo-heat-templates'
+ 'openstack/openstack-ansible-os_keystone' 'openstack/grenade'
+ 'openstack/openstack-ansible' 'openstack/keystone-specs'
+ 'openstack/devstack-gate' 'openstack/python-openstackclient']"
+"['openstack/glance_store' 'openstack/glance' 'openstack/bandit'
+ 'openstack/python-swiftclient' 'openstack/project-config'
+ 'openstack/devstack' 'openstack/openstack-manuals']"
+"['openstack/devstack-plugin-nfs' 'openstack/glance' 'openstack/cinder'
+ 'openstack/project-config']"
+"['openstack/openstack-ansible-rabbitmq_server'
+ 'openstack/openstack-ansible-tests' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_mistral'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-os_manila'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/openstack-ansible-os_magnum'
+ 'openstack/ansible-role-python_venv_build'
+ 'openstack/openstack-ansible-os_rally'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_designate'
+ 'openstack/openstack-ansible-os_congress'
+ 'openstack/openstack-ansible-os_trove'
+ 'openstack/openstack-ansible-os_barbican'
+ 'openstack/openstack-ansible-os_heat'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-os_blazar'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_zun']"
+"['openstack/cinder' 'openstack/tempest' 'openstack/devstack'
+ 'openstack/cinder-tempest-plugin' 'openstack/devstack-plugin-nfs'
+ 'openstack/python-cinderclient' 'openstack/manila' 'openstack/os-brick'
+ 'openstack/puppet-openstack-integration' 'openstack/openstack-manuals'
+ 'openstack/devstack-plugin-ceph' 'openstack/kolla' 'openstack/nova'
+ 'openstack/puppet-cinder' 'openstack/requirements'
+ 'openstack/tripleo-validations' 'openstack/cinderlib'
+ 'openstack/python-openstackclient' 'openstack/castellan'
+ 'openstack/rally-openstack' 'openstack/horizon' 'openstack/neutron'
+ 'openstack/patrole' 'openstack/openstack-zuul-jobs'
+ 'openstack/tripleo-ci' 'openstack/ec2-api' 'openstack/project-config'
+ 'openstack/barbican' 'openstack/oslo.service' 'openstack/murano'
+ 'openstack/openstack-ansible-os_cinder' 'openstack/devstack-gate'
+ 'openstack/api-site' 'openstack/glance' 'openstack/rally'
+ 'openstack/grenade' 'openstack/taskflow']"
+"['openstack/oslo.log' 'openstack/neutron' 'openstack/oslo.privsep'
+ 'openstack/cinder' 'openstack/puppet-oslo'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config'
+ 'openstack/nova' 'openstack/oslo.context' 'openstack/ironic']"
+"['openstack/oslo.privsep' 'openstack/neutron' 'openstack/requirements'
+ 'openstack/releases' 'openstack/os-brick']"
+"['openstack/puppet-pacemaker' 'openstack/puppet-tripleo'
+ 'openstack/releases' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-upgrade' 'openstack/tripleo-ci']"
+"['openstack/aodh' 'openstack/python-aodhclient' 'openstack/requirements'
+ 'openstack/tripleo-ci' 'openstack/tacker'
+ 'openstack/telemetry-tempest-plugin' 'openstack/oslo.messaging'
+ 'openstack/ceilometer' 'openstack/project-config'
+ 'openstack/openstack-manuals' 'openstack/heat' 'openstack/gnocchi'
+ 'openstack/releases']"
+"['openstack/openstack-ansible-os_nova' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_placement'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible-os_swift'
+ 'openstack/openstack-ansible-os_manila'
+ 'openstack/openstack-ansible-galera_client'
+ 'openstack/openstack-ansible-os_magnum'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-os_octavia']"
+"['openstack/openstack-ansible-os_neutron' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-plugins' 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_octavia'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/openstack-ansible-lxc_hosts' 'openstack/project-config']"
+"['openstack/charms.ceph' 'openstack/charm-ceph-osd'
+ 'openstack/charm-ceph-dashboard' 'openstack/charm-ceph-mon'
+ 'openstack/charm-ceph-radosgw' 'openstack/charm-ceph']"
+"['openstack/cliff' 'openstack/osc-lib' 'openstack/python-openstackclient'
+ 'openstack/python-tripleoclient' 'openstack/requirements'
+ 'openstack/python-neutronclient' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+"['openstack/telemetry-tempest-plugin' 'openstack/aodh'
+ 'openstack/ceilometer' 'openstack/panko' 'openstack/oslo.messaging'
+ 'openstack/tripleo-quickstart' 'openstack/congress-tempest-plugin'
+ 'openstack/devstack' 'openstack/congress']"
+"['openstack/osc-lib' 'openstack/python-openstackclient'
+ 'openstack/openstacksdk' 'openstack/python-octaviaclient'
+ 'openstack/osprofiler' 'openstack/python-neutronclient'
+ 'openstack/project-config']"
+"['openstack/ceilometer' 'openstack/aodh' 'openstack/tripleo-ci'
+ 'openstack/telemetry-tempest-plugin' 'openstack/sahara-tests'
+ 'openstack/tacker' 'openstack/watcher' 'openstack/ceilometermiddleware'
+ 'openstack/panko' 'openstack/heat' 'openstack/kolla-ansible'
+ 'openstack/python-aodhclient' 'openstack/python-pankoclient'
+ 'openstack/project-config' 'openstack/python-ceilometerclient'
+ 'openstack/puppet-ceilometer' 'openstack/gnocchi' 'openstack/horizon'
+ 'openstack/openstack-ansible-os_ceilometer' 'openstack/rally'
+ 'openstack/requirements' 'openstack/tempest' 'openstack/fuel-agent'
+ 'openstack/openstack-manuals' 'openstack/devstack']"
+"['openstack/puppet-openstack_spec_helper'
+ 'openstack/puppet-openstack-cookiecutter' 'openstack/puppet-tripleo'
+ 'openstack/puppet-neutron' 'openstack/puppet-keystone'
+ 'openstack/puppet-octavia' 'openstack/puppet-openstacklib'
+ 'openstack/puppet-vswitch' 'openstack/puppet-swift'
+ 'openstack/puppet-openstack_extras' 'openstack/puppet-ironic'
+ 'openstack/puppet-mistral' 'openstack/puppet-cinder'
+ 'openstack/puppet-placement' 'openstack/puppet-ec2api'
+ 'openstack/puppet-glance' 'openstack/puppet-magnum'
+ 'openstack/puppet-tempest' 'openstack/puppet-aodh'
+ 'openstack/puppet-horizon' 'openstack/puppet-barbican'
+ 'openstack/puppet-heat' 'openstack/puppet-designate'
+ 'openstack/puppet-manila' 'openstack/puppet-tacker'
+ 'openstack/puppet-cloudkitty' 'openstack/puppet-glare'
+ 'openstack/puppet-zaqar' 'openstack/puppet-watcher'
+ 'openstack/puppet-vitrage' 'openstack/puppet-openstack-integration'
+ 'openstack/puppet-nova' 'openstack/puppet-gnocchi'
+ 'openstack/puppet-congress' 'openstack/puppet-rally'
+ 'openstack/puppet-oslo' 'openstack/puppet-ovn'
+ 'openstack/puppet-ceilometer' 'openstack/puppet-sahara'
+ 'openstack/puppet-murano' 'openstack/puppet-panko'
+ 'openstack/puppet-monasca' 'openstack/puppet-trove'
+ 'openstack/puppet-ceph' 'openstack/project-config'
+ 'openstack/puppet-pacemaker']"
+"['openstack/horizon' 'openstack/requirements' 'openstack/magnum-ui'
+ 'openstack/puppet-horizon' 'openstack/octavia-dashboard'
+ 'openstack/senlin-dashboard' 'openstack/ui-cookiecutter'
+ 'openstack/zaqar-ui' 'openstack/designate-dashboard'
+ 'openstack/ironic-ui' 'openstack/heat-dashboard'
+ 'openstack/vitrage-dashboard' 'openstack/murano-dashboard'
+ 'openstack/zun-ui' 'openstack/tripleo-validations'
+ 'openstack/tempest-horizon' 'openstack/manila-ui'
+ 'openstack/searchlight-ui' 'openstack/monasca-ui'
+ 'openstack/freezer-web-ui' 'openstack/networking-bgpvpn'
+ 'openstack/qinling-dashboard' 'openstack/tacker-horizon'
+ 'openstack/watcher-dashboard' 'openstack/solum-dashboard'
+ 'openstack/masakari-dashboard' 'openstack/neutron-vpnaas-dashboard'
+ 'openstack/trove-dashboard' 'openstack/sahara-dashboard'
+ 'openstack/karbor-dashboard' 'openstack/blazar-dashboard'
+ 'openstack/cloudkitty-dashboard' 'openstack/congress-dashboard'
+ 'openstack/mistral-dashboard' 'openstack/neutron-fwaas-dashboard'
+ 'openstack/neutron-lbaas-dashboard' 'openstack/nova' 'openstack/tempest'
+ 'openstack/project-config' 'openstack/keystone'
+ 'openstack/django_openstack_auth']"
+"['openstack/charm-ops-sunbeam' 'openstack/charm-nova-k8s'
+ 'openstack/charm-glance-k8s' 'openstack/charm-neutron-k8s'
+ 'openstack/charm-keystone-k8s' 'openstack/charm-horizon-k8s'
+ 'openstack/charm-cinder-k8s' 'openstack/charm-cinder-ceph-k8s'
+ 'openstack/charm-placement-k8s']"
+"['openstack/glance-specs' 'openstack/glance_store' 'openstack/glance'
+ 'openstack/python-glanceclient' 'openstack/project-config'
+ 'openstack/nova-specs']"
+"['openstack/openstack-ansible-rsyslog_client' 'openstack/project-config'
+ 'openstack/openstack-ansible']"
+['openstack/openstack-ansible-rsyslog_server' 'openstack/project-config']
+"['openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-rabbitmq_server'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-os_rally' 'openstack/ansible-role-qdrouterd'
+ 'openstack/openstack-ansible-ceph_client'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/ansible-config_template' 'openstack/openstack-ansible-plugins'
+ 'openstack/ansible-hardening' 'openstack/openstack-ansible-os_nova'
+ 'openstack/ansible-role-python_venv_build'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_keystone' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/ansible-role-systemd_mount'
+ 'openstack/openstack-ansible-os_trove'
+ 'openstack/openstack-ansible-lxc_container_create'
+ 'openstack/openstack-ansible-os_swift'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/openstack-ansible-os_panko'
+ 'openstack/openstack-ansible-os_magnum'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_octavia'
+ 'openstack/openstack-ansible-os_designate'
+ 'openstack/openstack-ansible-repo_server'
+ 'openstack/ansible-role-systemd_service'
+ 'openstack/openstack-ansible-nspawn_container_create'
+ 'openstack/openstack-ansible-memcached_server'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-haproxy_server'
+ 'openstack/ansible-role-systemd_networkd'
+ 'openstack/openstack-ansible-os_monasca'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible-os_zun'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_placement'
+ 'openstack/openstack-ansible-os_congress'
+ 'openstack/openstack-ansible-os_cloudkitty'
+ 'openstack/openstack-ansible-os_blazar'
+ 'openstack/openstack-ansible-openstack_openrc'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_tacker'
+ 'openstack/openstack-ansible-os_barbican'
+ 'openstack/openstack-ansible-ops' 'openstack/openstack-ansible-os_manila'
+ 'openstack/openstack-ansible-nspawn_hosts'
+ 'openstack/openstack-ansible-os_masakari'
+ 'openstack/openstack-ansible-pip_install'
+ 'openstack/openstack-ansible-rsyslog_client'
+ 'openstack/openstack-ansible-rsyslog_server'
+ 'openstack/openstack-ansible-apt_package_pinning'
+ 'openstack/openstack-ansible-galera_client'
+ 'openstack/openstack-ansible-os_zaqar'
+ 'openstack/openstack-ansible-os_watcher'
+ 'openstack/openstack-ansible-os_searchlight'
+ 'openstack/openstack-ansible-os_heat'
+ 'openstack/openstack-ansible-os_mistral'
+ 'openstack/openstack-ansible-repo_build'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-os_almanach'
+ 'openstack/openstack-ansible-os_monasca-ui'
+ 'openstack/openstack-ansible-os_monasca-agent'
+ 'openstack/openstack-ansible-os_molteniron' 'openstack/keystone'
+ 'openstack/openstack-ansible-os_karbor'
+ 'openstack/openstack-ansible-os_freezer' 'openstack/dragonflow'
+ 'openstack/openstack-ansible-security'
+ 'openstack/openstack-ansible-pip_lock_down'
+ 'openstack/openstack-ansible-specs' 'openstack/project-config']"
+['openstack/skyline-apiserver' 'openstack/skyline-console']
+"['openstack/openstack-ansible-os_tempest' 'openstack/tripleo-quickstart'
+ 'openstack/openstack-ansible' 'openstack/tripleo-quickstart-extras'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-tests' 'openstack/tripleo-heat-templates'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/ansible-role-python_venv_build'
+ 'openstack/openstack-ansible-haproxy_server' 'openstack/tripleo-ci'
+ 'openstack/openstack-ansible-rabbitmq_server'
+ 'openstack/openstack-tempest-skiplist'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-os_magnum'
+ 'openstack/openstack-ansible-os_designate'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_octavia'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_heat'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_barbican'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-os_manila' 'openstack/tripleo-docs'
+ 'openstack/openstack-ansible-os_mistral'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible-plugins']"
+"['openstack/openstack-ansible-lxc_hosts' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-lxc_container_create'
+ 'openstack/ansible-config_template'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-rabbitmq_server'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-os_octavia'
+ 'openstack/openstack-ansible-os_designate'
+ 'openstack/openstack-ansible-os_trove'
+ 'openstack/openstack-ansible-os_swift'
+ 'openstack/openstack-ansible-os_rally'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_molteniron'
+ 'openstack/openstack-ansible-os_tacker'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-os_heat'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_barbican'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_zaqar'
+ 'openstack/openstack-ansible-os_searchlight'
+ 'openstack/openstack-ansible-os_watcher'
+ 'openstack/ansible-role-python_venv_build'
+ 'openstack/openstack-ansible-plugins']"
+"['openstack/openstack-ansible-os_rally' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-rabbitmq_server'
+ 'openstack/openstack-ansible-plugins']"
+"['openstack/kolla-ansible' 'openstack/kayobe' 'openstack/kolla'
+ 'openstack/ansible-collection-kolla' 'openstack/bifrost'
+ 'openstack/kayobe-config-dev' 'openstack/requirements']"
+"['openstack/kuryr-kubernetes' 'openstack/kuryr-tempest-plugin'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config']"
+"['openstack/diskimage-builder' 'openstack/tripleo-image-elements'
+ 'openstack/ironic-python-agent-builder' 'openstack/tripleo-common'
+ 'openstack/ironic' 'openstack/tripleo-ci' 'openstack/bifrost'
+ 'openstack/octavia' 'openstack/project-config'
+ 'openstack/ironic-python-agent' 'openstack/octavia-tempest-plugin'
+ 'openstack/ansible-role-container-registry'
+ 'openstack/tripleo-heat-templates' 'openstack/openstack-zuul-jobs'
+ 'openstack/python-tripleoclient' 'openstack/instack'
+ 'openstack/instack-undercloud' 'openstack/trove'
+ 'openstack/tripleo-incubator']"
+"['openstack/charms.openstack' 'openstack/charm-manila'
+ 'openstack/charm-vault' 'openstack/charm-ironic-conductor'
+ 'openstack/charm-ceilometer' 'openstack/charm-cinder'
+ 'openstack/charm-watcher-dashboard' 'openstack/charm-watcher'
+ 'openstack/charm-octavia' 'openstack/charm-cinder-purestorage'
+ 'openstack/charm-keystone-saml-mellon' 'openstack/charm-rabbitmq-server'
+ 'openstack/charm-designate' 'openstack/charm-ceph-radosgw'
+ 'openstack/charm-nova-compute' 'openstack/charm-aodh'
+ 'openstack/charm-ceph-fs' 'openstack/charm-mysql-router'
+ 'openstack/charm-octavia-dashboard' 'openstack/charm-pacemaker-remote'
+ 'openstack/charm-placement' 'openstack/charm-barbican'
+ 'openstack/charm-nova-cloud-controller' 'openstack/charm-neutron-api'
+ 'openstack/charm-neutron-dynamic-routing'
+ 'openstack/charm-mysql-innodb-cluster'
+ 'openstack/charm-openstack-dashboard'
+ 'openstack/charm-nova-cell-controller'
+ 'openstack/charm-octavia-diskimage-retrofit'
+ 'openstack/charm-neutron-openvswitch' 'openstack/charm-swift-proxy'
+ 'openstack/charm-barbican-vault' 'openstack/charm-percona-cluster'
+ 'openstack/charm-ceph-rbd-mirror' 'openstack/charm-gnocchi'
+ 'openstack/charm-masakari' 'openstack/charm-hacluster'
+ 'openstack/charm-glance' 'openstack/charm-ceph-proxy'
+ 'openstack/charm-manila-ganesha' 'openstack/charm-ceph-osd'
+ 'openstack/charm-manila-generic' 'openstack/charm-masakari-monitors'
+ 'openstack/charm-designate-bind' 'openstack/charm-keystone'
+ 'openstack/charm-glance-simplestreams-sync'
+ 'openstack/charm-keystone-ldap' 'openstack/charm-neutron-api-plugin-ovn'
+ 'openstack/charm-interface-barbican-secrets'
+ 'openstack/charm-interface-mysql-innodb-cluster'
+ 'openstack/charm-interface-ceph-rbd-mirror'
+ 'openstack/charm-interface-placement'
+ 'openstack/charm-interface-mysql-router'
+ 'openstack/charm-interface-mysql-shared'
+ 'openstack/charm-interface-dashboard-plugin'
+ 'openstack/charm-interface-neutron-load-balancer'
+ 'openstack/charm-interface-neutron-plugin-api-subordinate'
+ 'openstack/charm-interface-neutron-plugin'
+ 'openstack/charm-cinder-backup-swift-proxy'
+ 'openstack/charm-interface-service-control' 'openstack/charm-ceph-mon'
+ 'openstack/charm-panko' 'openstack/charm-tempest'
+ 'openstack/charm-trilio-data-mover' 'openstack/charm-trilio-wlm'
+ 'openstack/charm-barbican-softhsm' 'openstack/charm-ceilometer-agent'
+ 'openstack/charm-neutron-gateway' 'openstack/charm-interface-hacluster'
+ 'openstack/charm-cinder-backup' 'openstack/charm-interface-bgp'
+ 'openstack/charm-interface-pacemaker-remote'
+ 'openstack/charm-interface-keystone' 'openstack/charm-heat'
+ 'openstack/charm-interface-nova-compute'
+ 'openstack/charm-interface-cinder-backend'
+ 'openstack/charm-layer-openstack-api' 'openstack/charm-layer-openstack'
+ 'openstack/charm-layer-openstack-principle'
+ 'openstack/charm-openvswitch-odl' 'openstack/charm-neutron-api-odl'
+ 'openstack/charm-trove' 'openstack/charm-murano']"
+"['openstack/python-novaclient' 'openstack/python-openstackclient'
+ 'openstack/tripleo-ci' 'openstack/nova' 'openstack/releases'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config'
+ 'openstack/devstack-gate' 'openstack/openstack-manuals' 'openstack/rally'
+ 'openstack/devstack' 'openstack/ec2-api']"
+['openstack/charm-keystone-k8s' 'openstack/charm-ops-sunbeam']
+"['openstack/neutron-vpnaas' 'openstack/neutron-lib' 'openstack/devstack'
+ 'openstack/networking-midonet' 'openstack/kolla' 'openstack/neutron'
+ 'openstack/project-config' 'openstack/heat' 'openstack/ec2-api'
+ 'openstack/python-neutronclient' 'openstack/neutron-lbaas'
+ 'openstack/networking-ofagent']"
+"['openstack/puppet-ceilometer' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack_spec_helper'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-oslo'
+ 'openstack/instack-undercloud' 'openstack/puppet-keystone']"
+"['openstack/ironic-python-agent-builder' 'openstack/ironic-python-agent'
+ 'openstack/diskimage-builder' 'openstack/ironic'
+ 'openstack/tripleo-common']"
+"['openstack/devstack-gate' 'openstack/devstack' 'openstack/designate'
+ 'openstack/neutron' 'openstack/octavia' 'openstack/nova'
+ 'openstack/tempest' 'openstack/keystone'
+ 'openstack/octavia-tempest-plugin' 'openstack/manila'
+ 'openstack/ironic-python-agent' 'openstack/patrole' 'openstack/grenade'
+ 'openstack/puppet-tripleo' 'openstack/sahara' 'openstack/openstacksdk'
+ 'openstack/shade' 'openstack/project-config' 'openstack/tripleo-common'
+ 'openstack/ironic-tempest-plugin' 'openstack/vitrage' 'openstack/trove'
+ 'openstack/tacker' 'openstack/rally' 'openstack/heat'
+ 'openstack/python-openstackclient' 'openstack/magnum'
+ 'openstack/networking-calico' 'openstack/neutron-fwaas'
+ 'openstack/neutron-lbaas' 'openstack/networking-l2gw'
+ 'openstack/tricircle' 'openstack/solum' 'openstack/networking-sfc'
+ 'openstack/ironic' 'openstack/tripleo-ci' 'openstack/openstack-zuul-jobs'
+ 'openstack/networking-midonet' 'openstack/networking-bgpvpn'
+ 'openstack/networking-odl' 'openstack/networking-ovn'
+ 'openstack/dragonflow' 'openstack/tap-as-a-service'
+ 'openstack/kuryr-libnetwork' 'openstack/neutron-dynamic-routing'
+ 'openstack/cue' 'openstack/neutron-vpnaas' 'openstack/searchlight'
+ 'openstack/trove-integration' 'openstack/oslo.service'
+ 'openstack/networking-generic-switch' 'openstack/ironic-inspector'
+ 'openstack/python-ironicclient' 'openstack/devstack-plugin-ceph'
+ 'openstack/pbr' 'openstack/python-novaclient' 'openstack/oslo.config'
+ 'openstack/requirements' 'openstack/ceilometer' 'openstack/tooz']"
+"['openstack/ansible-role-chrony' 'openstack/tripleo-ansible'
+ 'openstack/tripleo-ci' 'openstack/tripleo-heat-templates'
+ 'openstack/python-tripleoclient']"
+"['openstack/keystoneauth' 'openstack/keystonemiddleware'
+ 'openstack/openstacksdk' 'openstack/bifrost' 'openstack/neutron-lib'
+ 'openstack/governance' 'openstack/oslo.policy' 'openstack/osprofiler'
+ 'openstack/releases' 'openstack/osc-lib' 'openstack/nova'
+ 'openstack/python-openstackclient' 'openstack/shade'
+ 'openstack/requirements' 'openstack/python-keystoneclient'
+ 'openstack/castellan' 'openstack/os-client-config'
+ 'openstack/project-config']"
+"['openstack/neutron-fwaas' 'openstack/openstack-ansible-os_neutron'
+ 'openstack/neutron-tempest-plugin' 'openstack/senlin'
+ 'openstack/kolla-ansible' 'openstack/kayobe' 'openstack/kolla'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-os_tempest' 'openstack/project-config'
+ 'openstack/networking-midonet' 'openstack/neutron-lib'
+ 'openstack/neutron' 'openstack/openstack-zuul-jobs'
+ 'openstack/openstack-manuals' 'openstack/devstack' 'openstack/ceilometer'
+ 'openstack/tap-as-a-service' 'openstack/ironic'
+ 'openstack/networking-odl' 'openstack/neutron-lbaas'
+ 'openstack/networking-ofagent']"
+"['openstack/metalsmith' 'openstack/ironic' 'openstack/ironic-python-agent'
+ 'openstack/tripleo-docs' 'openstack/tripleo-quickstart'
+ 'openstack/tripleo-common' 'openstack/project-config']"
+"['openstack/openstack-ansible-galera_server' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-lxc_container_create'
+ 'openstack/openstack-ansible-os_adjutant'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-galera_client'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible-os_magnum'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_trove' 'openstack/project-config'
+ 'openstack/openstack-ansible-os_horizon']"
+"['openstack/ansible-hardening' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-tests' 'openstack/openstack-zuul-jobs']"
+"['openstack/openstack-ansible-plugins' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_octavia'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/openstack-ansible-os_masakari'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_murano'
+ 'openstack/openstack-ansible-os_magnum'
+ 'openstack/openstack-ansible-os_zun'
+ 'openstack/openstack-ansible-os_mistral'
+ 'openstack/openstack-ansible-os_cloudkitty'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-os_swift'
+ 'openstack/openstack-ansible-os_manila'
+ 'openstack/openstack-ansible-os_placement'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_senlin'
+ 'openstack/openstack-ansible-os_heat'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-os_designate'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_blazar'
+ 'openstack/openstack-ansible-os_tacker'
+ 'openstack/openstack-ansible-os_barbican'
+ 'openstack/openstack-ansible-os_trove'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-repo_server'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-nspawn_container_create'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-lxc_container_create'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/openstack-ansible-repo_build']"
+"['openstack/openstack-ansible-os_cinder' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_zun'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/openstack-ansible-os_nova' 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_magnum']"
+"['openstack/heat' 'openstack/skyline-apiserver' 'openstack/requirements'
+ 'openstack/tripleo-heat-templates' 'openstack/heat-tempest-plugin'
+ 'openstack/tripleo-ci' 'openstack/openstack-ansible-os_heat'
+ 'openstack/os-collect-config' 'openstack/heat-templates'
+ 'openstack/tripleo-quickstart' 'openstack/project-config'
+ 'openstack/ceilometer' 'openstack/python-heatclient'
+ 'openstack/governance' 'openstack/openstack-manuals'
+ 'openstack/python-tripleoclient' 'openstack/tripleo-common'
+ 'openstack/tripleo-quickstart-extras' 'openstack/oslo.log'
+ 'openstack/devstack' 'openstack/magnum' 'openstack/sahara'
+ 'openstack/murano' 'openstack/instack-undercloud' 'openstack/keystone'
+ 'openstack/gnocchi' 'openstack/kolla' 'openstack/rally']"
+"['openstack/barbican' 'openstack/skyline-apiserver'
+ 'openstack/cinder-tempest-plugin' 'openstack/devstack'
+ 'openstack/barbican-tempest-plugin' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-ci' 'openstack/puppet-barbican' 'openstack/cinder'
+ 'openstack/octavia-tempest-plugin' 'openstack/castellan'
+ 'openstack/openstack-zuul-jobs' 'openstack/glance' 'openstack/bandit'
+ 'openstack/tripleo-quickstart' 'openstack/project-config'
+ 'openstack/neutron-lbaas' 'openstack/python-barbicanclient']"
+"['openstack/puppet-swift' 'openstack/releases' 'openstack/puppet-tripleo'
+ 'openstack/tripleo-heat-templates' 'openstack/puppet-glance'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-oslo'
+ 'openstack/fuel-library' 'openstack/puppet-keystone'
+ 'openstack/instack-undercloud']"
+['openstack/charm-octavia' 'openstack/charm-octavia-dashboard']
+['openstack/os-traits' 'openstack/nova']
+"['openstack/puppet-openstacklib' 'openstack/puppet-nova'
+ 'openstack/puppet-tripleo' 'openstack/puppet-keystone'
+ 'openstack/puppet-openstack-cookiecutter' 'openstack/puppet-ec2api'
+ 'openstack/puppet-ironic' 'openstack/puppet-heat'
+ 'openstack/puppet-barbican' 'openstack/puppet-aodh'
+ 'openstack/puppet-designate' 'openstack/puppet-magnum'
+ 'openstack/puppet-gnocchi' 'openstack/puppet-cloudkitty'
+ 'openstack/puppet-murano' 'openstack/puppet-manila'
+ 'openstack/puppet-glance' 'openstack/puppet-cinder'
+ 'openstack/puppet-freezer' 'openstack/puppet-neutron'
+ 'openstack/puppet-placement' 'openstack/puppet-trove'
+ 'openstack/puppet-sahara' 'openstack/puppet-mistral'
+ 'openstack/puppet-vitrage' 'openstack/puppet-watcher'
+ 'openstack/puppet-octavia' 'openstack/puppet-tacker'
+ 'openstack/puppet-senlin' 'openstack/puppet-zaqar'
+ 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-horizon'
+ 'openstack/puppet-swift' 'openstack/puppet-oslo'
+ 'openstack/puppet-congress' 'openstack/puppet-ceilometer'
+ 'openstack/puppet-panko' 'openstack/puppet-tempest'
+ 'openstack/puppet-glare' 'openstack/instack-undercloud'
+ 'openstack/python-tripleoclient' 'openstack/fuel-library'
+ 'openstack/puppet-monasca']"
+"['openstack/blazar-tempest-plugin' 'openstack/blazar' 'openstack/tempest'
+ 'openstack/python-blazarclient']"
+"['openstack/oslo.service' 'openstack/blazar' 'openstack/neutron'
+ 'openstack/heat' 'openstack/designate' 'openstack/devstack']"
+"['openstack/oslo.messaging' 'openstack/blazar'
+ 'openstack/ironic-inspector' 'openstack/neutron' 'openstack/neutron-lib'
+ 'openstack/devstack' 'openstack/cinder' 'openstack/devstack-plugin-kafka'
+ 'openstack/magnum' 'openstack/nova' 'openstack/puppet-tripleo'
+ 'openstack/project-config' 'openstack/trove' 'openstack/ceilometer'
+ 'openstack/murano']"
+"['openstack/tripleo-puppet-elements' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-common' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-quickstart-extras' 'openstack/tripleo-image-elements'
+ 'openstack/puppet-tripleo' 'openstack/instack-undercloud'
+ 'openstack/puppet-nova' 'openstack/tripleo-ci']"
+['openstack/charm-swift-proxy' 'openstack/charm-swift-storage']
+"['openstack/openstack-ansible-os_placement'
+ 'openstack/ansible-role-python_venv_build' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_nova']"
+"['openstack/grenade' 'openstack/designate' 'openstack/devstack'
+ 'openstack/glance' 'openstack/neutron' 'openstack/nova'
+ 'openstack/manila' 'openstack/trove' 'openstack/sahara'
+ 'openstack/cinder' 'openstack/devstack-gate' 'openstack/ironic-inspector'
+ 'openstack/ironic' 'openstack/project-config' 'openstack/placement'
+ 'openstack/openstack-zuul-jobs' 'openstack/tempest'
+ 'openstack/requirements' 'openstack/ironic-tempest-plugin'
+ 'openstack/keystone' 'openstack/gnocchi' 'openstack/ceilometer']"
+"['openstack/python-cinderclient' 'openstack/cinder-tempest-plugin'
+ 'openstack/glance' 'openstack/devstack' 'openstack/nova'
+ 'openstack/python-openstackclient'
+ 'openstack/openstack-ansible-os_cinder' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config' 'openstack/horizon'
+ 'openstack/openstack-manuals']"
+"['openstack/puppet-ironic' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-quickstart-extras' 'openstack/python-tripleoclient'
+ 'openstack/instack-undercloud' 'openstack/puppet-openstack-integration'
+ 'openstack/puppet-tripleo' 'openstack/puppet-oslo' 'openstack/tripleo-ci'
+ 'openstack/puppet-keystone']"
+['openstack/charm-designate' 'openstack/charm-designate-bind']
+"['openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible' 'openstack/ansible-hardening'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-repo_server'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-lxc_container_create'
+ 'openstack/openstack-ansible-os_zun'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/openstack-ansible-plugins'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-rabbitmq_server'
+ 'openstack/openstack-ansible-repo_build'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-os_designate'
+ 'openstack/ansible-role-python_venv_build'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-os_cloudkitty'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_panko'
+ 'openstack/openstack-ansible-os_rally'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_octavia'
+ 'openstack/openstack-ansible-os_magnum'
+ 'openstack/openstack-ansible-os_barbican'
+ 'openstack/openstack-ansible-os_swift'
+ 'openstack/openstack-ansible-os_trove'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/openstack-ansible-os_heat'
+ 'openstack/openstack-ansible-os_zaqar'
+ 'openstack/openstack-ansible-os_tacker'
+ 'openstack/openstack-ansible-os_searchlight'
+ 'openstack/openstack-ansible-os_watcher'
+ 'openstack/openstack-ansible-os_almanach'
+ 'openstack/openstack-ansible-os_monasca'
+ 'openstack/openstack-ansible-os_molteniron'
+ 'openstack/openstack-ansible-os_monasca-agent'
+ 'openstack/openstack-ansible-galera_client'
+ 'openstack/openstack-ansible-pip_install']"
+"['openstack/kayobe' 'openstack/kayobe-config-dev'
+ 'openstack/kayobe-config' 'openstack/tenks'
+ 'openstack/ansible-collection-kolla' 'openstack/kolla-ansible']"
+['openstack/ovn-octavia-provider' 'openstack/kuryr-kubernetes']
+"['openstack/bifrost' 'openstack/openstacksdk' 'openstack/kayobe'
+ 'openstack/kolla-ansible' 'openstack/ironic-inspector' 'openstack/kolla'
+ 'openstack/ansible-collections-openstack' 'openstack/ironic'
+ 'openstack/openstack-zuul-jobs' 'openstack/shade'
+ 'openstack/project-config']"
+"['openstack/networking-sfc' 'openstack/neutron-tempest-plugin'
+ 'openstack/networking-odl' 'openstack/networking-bagpipe'
+ 'openstack/python-neutronclient' 'openstack/dragonflow'
+ 'openstack/neutron' 'openstack/project-config'
+ 'openstack/openstack-manuals']"
+['openstack/magnum-tempest-plugin' 'openstack/magnum']
+['openstack/tenks' 'openstack/kolla-ansible' 'openstack/kayobe']
+"['openstack/tooz' 'openstack/puppet-tripleo' 'openstack/releases'
+ 'openstack/nova' 'openstack/requirements' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+"['openstack/octavia-tempest-plugin' 'openstack/octavia'
+ 'openstack/tripleo-ci' 'openstack/tripleo-quickstart-extras'
+ 'openstack/tempest']"
+"['openstack/networking-bagpipe' 'openstack/networking-bgpvpn'
+ 'openstack/neutron-tempest-plugin' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config' 'openstack/neutron' 'openstack/neutron-lib']"
+"['openstack/sahara' 'openstack/python-saharaclient'
+ 'openstack/openstack-ansible-os_sahara' 'openstack/tripleo-validations'
+ 'openstack/sahara-plugin-spark' 'openstack/sahara-tests'
+ 'openstack/openstack-zuul-jobs' 'openstack/openstack-manuals'
+ 'openstack/puppet-sahara' 'openstack/kolla-ansible'
+ 'openstack/sahara-image-elements' 'openstack/project-config'
+ 'openstack/ceilometer']"
+"['openstack/puppet-neutron' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-keystone' 'openstack/puppet-tripleo'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-oslo'
+ 'openstack/fuel-library' 'openstack/puppet-tempest']"
+"['openstack/placement' 'openstack/requirements' 'openstack/osc-placement'
+ 'openstack/nova' 'openstack/octavia-tempest-plugin' 'openstack/devstack'
+ 'openstack/neutron-lib' 'openstack/nova-specs' 'openstack/grenade'
+ 'openstack/openstack-manuals']"
+"['openstack/validations-common' 'openstack/tripleo-validations'
+ 'openstack/tripleo-heat-templates' 'openstack/python-tripleoclient'
+ 'openstack/validations-libs' 'openstack/tripleo-quickstart-extras']"
+['openstack/etcd3gw' 'openstack/tooz' 'openstack/devstack']
+"['openstack/sushy' 'openstack/sushy-oem-idrac' 'openstack/ironic'
+ 'openstack/sushy-cli' 'openstack/project-config']"
+"['openstack/glance' 'openstack/glance-tempest-plugin' 'openstack/tempest'
+ 'openstack/devstack' 'openstack/cinder' 'openstack/ironic'
+ 'openstack/python-glanceclient' 'openstack/tripleo-heat-templates'
+ 'openstack/requirements' 'openstack/nova' 'openstack/glance_store'
+ 'openstack/puppet-tripleo' 'openstack/releases' 'openstack/aodh'
+ 'openstack/neutron' 'openstack/horizon' 'openstack/devstack-gate'
+ 'openstack/project-config' 'openstack/openstack-zuul-jobs'
+ 'openstack/glance-specs' 'openstack/openstack-manuals'
+ 'openstack/oslo.utils' 'openstack/python-openstackclient']"
+"['openstack/designate-tempest-plugin' 'openstack/designate'
+ 'openstack/neutron-tempest-plugin']"
+['openstack/charm-ops-openstack' 'openstack/charm-ceph-iscsi']
+['openstack/devstack-plugin-open-cas' 'openstack/tempest']
+"['openstack/barbican-tempest-plugin' 'openstack/barbican'
+ 'openstack/cinder-tempest-plugin' 'openstack/tripleo-ci'
+ 'openstack/tempest' 'openstack/project-config']"
+['openstack/charm-guide' 'openstack/charm-deployment-guide']
+"['openstack/openstack-ansible-haproxy_server'
+ 'openstack/openstack-ansible' 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-os_magnum']"
+"['openstack/kuryr-libnetwork' 'openstack/zun' 'openstack/releases'
+ 'openstack/neutron' 'openstack/python-zunclient'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config'
+ 'openstack/requirements' 'openstack/kuryr' 'openstack/kuryr-kubernetes']"
+['openstack/charm-manila' 'openstack/charm-manila-ganesha']
+['openstack/ec2api-tempest-plugin' 'openstack/ec2-api']
+"['openstack/ansible-config_template' 'openstack/releases'
+ 'openstack/openstack-ansible' 'openstack/openstack-ansible-os_tempest'
+ 'openstack/tripleo-ci']"
+"['openstack/ovsdbapp' 'openstack/neutron' 'openstack/networking-ovn'
+ 'openstack/dragonflow' 'openstack/project-config'
+ 'openstack/tripleo-quickstart-extras']"
+"['openstack/openstack-helm-images' 'openstack/openstack-helm-infra'
+ 'openstack/openstack-helm' 'openstack/openstack-helm-addons']"
+"['openstack/openstack-virtual-baremetal'
+ 'openstack/tripleo-quickstart-extras' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-repos' 'openstack/tripleo-ci']"
+"['openstack/puppet-designate' 'openstack/puppet-tripleo'
+ 'openstack/tripleo-heat-templates' 'openstack/releases'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-keystone']"
+"['openstack/tripleo-image-elements' 'openstack/tripleo-common'
+ 'openstack/python-tripleoclient' 'openstack/tripleo-docs'
+ 'openstack/releases' 'openstack/tripleo-heat-templates'
+ 'openstack/instack-undercloud' 'openstack/diskimage-builder'
+ 'openstack/heat' 'openstack/tripleo-ci' 'openstack/trove-integration'
+ 'openstack/tripleo-puppet-elements' 'openstack/tripleo-incubator']"
+"['openstack/openstack-ansible-os_horizon' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_barbican'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-tests']"
+"['openstack/openstack-manuals' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-common' 'openstack/governance'
+ 'openstack/tripleo-quickstart-extras' 'openstack/security-doc'
+ 'openstack/api-site' 'openstack/training-guides'
+ 'openstack/project-config' 'openstack/openstack-helm' 'openstack/glance'
+ 'openstack/openstack-zuul-jobs' 'openstack/openstack-doc-tools'
+ 'openstack/releases' 'openstack/operations-guide' 'openstack/neutron'
+ 'openstack/docs-specs']"
+"['openstack/puppet-octavia' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-tripleo' 'openstack/tripleo-ci'
+ 'openstack/puppet-openstack-integration']"
+"['openstack/loci' 'openstack/openstack-helm-images'
+ 'openstack/openstack-helm' 'openstack/project-config']"
+['openstack/cinderlib' 'openstack/cinder' 'openstack/project-config']
+"['openstack/security-analysis' 'openstack/project-config'
+ 'openstack/governance']"
+"['openstack/python-neutronclient' 'openstack/neutron' 'openstack/heat'
+ 'openstack/kuryr-kubernetes' 'openstack/networking-sfc'
+ 'openstack/openstack-manuals' 'openstack/devstack-gate'
+ 'openstack/networking-bgpvpn' 'openstack/neutron-fwaas'
+ 'openstack/requirements' 'openstack/nova'
+ 'openstack/python-openstackclient' 'openstack/cliff'
+ 'openstack/tap-as-a-service' 'openstack/project-config']"
+"['openstack/kuryr-tempest-plugin' 'openstack/kuryr-kubernetes'
+ 'openstack/project-config']"
+"['openstack/tripleo-repos' 'openstack/tripleo-ci'
+ 'openstack/python-tripleoclient' 'openstack/tripleo-quickstart'
+ 'openstack/tripleo-quickstart-extras'
+ 'openstack/tripleo-operator-ansible' 'openstack/tripleo-puppet-elements'
+ 'openstack/tripleo-heat-templates' 'openstack/tripleo-docs']"
+"['openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_aodh' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-tests']"
+"['openstack/openstack-ansible-os_glance' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_nova' 'openstack/openstack-ansible-tests'
+ 'openstack/ansible-role-python_venv_build'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/openstack-ansible-plugins']"
+"['openstack/ansible-collections-openstack'
+ 'openstack/openstack-ansible-plugins' 'openstack/bifrost'
+ 'openstack/openstacksdk']"
+"['openstack/taskflow' 'openstack/octavia' 'openstack/requirements'
+ 'openstack/project-config']"
+"['openstack/ansible-role-pki' 'openstack/openstack-ansible-os_octavia'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-tests']"
+"['openstack/openstack-chef' 'openstack/cookbook-openstackclient'
+ 'openstack/cookbook-openstack-common'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/cookbook-openstack-ops-messaging'
+ 'openstack/cookbook-openstack-ops-database'
+ 'openstack/cookbook-openstack-image'
+ 'openstack/cookbook-openstack-block-storage'
+ 'openstack/cookbook-openstack-network'
+ 'openstack/cookbook-openstack-identity'
+ 'openstack/cookbook-openstack-compute'
+ 'openstack/cookbook-openstack-telemetry'
+ 'openstack/cookbook-openstack-orchestration'
+ 'openstack/cookbook-openstack-dashboard'
+ 'openstack/cookbook-openstack-bare-metal'
+ 'openstack/cookbook-openstack-dns' 'openstack/openstack-manuals']"
+"['openstack/ansible-role-uwsgi' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_zun'
+ 'openstack/openstack-ansible-os_placement']"
+['openstack/cyborg-tempest-plugin' 'openstack/nova' 'openstack/cyborg']
+"['openstack/openstack-ansible-repo_server'
+ 'openstack/openstack-ansible-os_keystone' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-lxc_container_create'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-pip_install'
+ 'openstack/openstack-ansible-repo_build']"
+"['openstack/openstack-ansible-os_keystone' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-os_tempest' 'openstack/ansible-role-uwsgi'
+ 'openstack/openstack-ansible-os_octavia'
+ 'openstack/openstack-ansible-os_mistral'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_swift'
+ 'openstack/ansible-role-python_venv_build'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-os_trove'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_masakari'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_designate'
+ 'openstack/openstack-ansible-os_heat'
+ 'openstack/openstack-ansible-os_rally'
+ 'openstack/openstack-ansible-os_panko'
+ 'openstack/openstack-ansible-repo_build' 'openstack/project-config']"
+['openstack/sushy-tools' 'openstack/ironic']
+"['openstack/murano-tempest-plugin' 'openstack/tempest' 'openstack/murano'
+ 'openstack/project-config']"
+['openstack/skyline-console' 'openstack/skyline-apiserver']
+"['openstack/tap-as-a-service' 'openstack/neutron-tempest-plugin'
+ 'openstack/networking-midonet' 'openstack/project-config'
+ 'openstack/openstack-zuul-jobs']"
+"['openstack/puppet-openstack_extras'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-mistral'
+ 'openstack/puppet-keystone' 'openstack/puppet-gnocchi']"
+"['openstack/openstackdocstheme' 'openstack/neutron-vpnaas'
+ 'openstack/releases' 'openstack/nova' 'openstack/tripleo-docs'
+ 'openstack/operations-guide' 'openstack/project-config'
+ 'openstack/whereto' 'openstack/openstack-manuals'
+ 'openstack/oslo.reports' 'openstack/cliff' 'openstack/glance'
+ 'openstack/python-glanceclient' 'openstack/horizon' 'openstack/osc-lib'
+ 'openstack/security-doc']"
+"['openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_aodh' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-tests' 'openstack/project-config']"
+['openstack/ansible-role-systemd_mount' 'openstack/openstack-ansible']
+"['openstack/masakari-monitors' 'openstack/kolla-ansible' 'openstack/kolla'
+ 'openstack/masakari']"
+"['openstack/zun' 'openstack/zun-tempest-plugin' 'openstack/solum'
+ 'openstack/python-zunclient' 'openstack/zun-ui' 'openstack/governance'
+ 'openstack/openstack-manuals' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config' 'openstack/requirements']"
+"['openstack/validations-libs' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-validations' 'openstack/validations-common'
+ 'openstack/requirements' 'openstack/tripleo-upgrade']"
+"['openstack/tripleo-validations' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-heat-templates' 'openstack/validations-common'
+ 'openstack/validations-libs' 'openstack/project-config'
+ 'openstack/tripleo-quickstart' 'openstack/tripleo-common']"
+"['openstack/openstack-ansible-ceph_client' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_manila'
+ 'openstack/openstack-ansible-tests']"
+"['openstack/networking-bgpvpn' 'openstack/networking-odl'
+ 'openstack/tripleo-ci' 'openstack/neutron'
+ 'openstack/python-openstackclient' 'openstack/networking-bagpipe'
+ 'openstack/neutron-lib' 'openstack/python-neutronclient'
+ 'openstack/project-config']"
+"['openstack/openstack-ansible-lxc_container_create'
+ 'openstack/openstack-ansible-lxc_hosts' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-rabbitmq_server'
+ 'openstack/ansible-role-systemd_service'
+ 'openstack/ansible-role-python_venv_build'
+ 'openstack/openstack-ansible-plugins']"
+"['openstack/ansible-role-redhat-subscription'
+ 'openstack/tripleo-heat-templates' 'openstack/tripleo-docs']"
+"['openstack/charm-deployment-guide' 'openstack/charm-guide'
+ 'openstack/charm-nova-compute' 'openstack/charm-hacluster'
+ 'openstack/charm-mysql-innodb-cluster' 'openstack/openstack-manuals'
+ 'openstack/charm-ceph']"
+"['openstack/neutron-dynamic-routing' 'openstack/manila'
+ 'openstack/neutron-lib' 'openstack/dragonflow' 'openstack/neutron'
+ 'openstack/project-config']"
+"['openstack/charm-glance' 'openstack/charm-guide'
+ 'openstack/charm-swift-proxy']"
+"['openstack/tempest-lib' 'openstack/project-config' 'openstack/governance'
+ 'openstack/tempest' 'openstack/python-troveclient' 'openstack/designate']"
+"['openstack/oslo.cache' 'openstack/puppet-oslo' 'openstack/keystone'
+ 'openstack/project-config']"
+['openstack/octavia-lib' 'openstack/octavia' 'openstack/networking-ovn']
+"['openstack/openstack-health' 'openstack/governance'
+ 'openstack/project-config']"
+"['openstack/puppet-openstack-integration' 'openstack/puppet-keystone'
+ 'openstack/puppet-aodh' 'openstack/puppet-heat' 'openstack/puppet-nova'
+ 'openstack/puppet-neutron' 'openstack/puppet-horizon'
+ 'openstack/puppet-openstacklib' 'openstack/puppet-placement'
+ 'openstack/puppet-octavia' 'openstack/puppet-cinder'
+ 'openstack/puppet-glance' 'openstack/puppet-swift'
+ 'openstack/puppet-oslo' 'openstack/puppet-openstack_extras'
+ 'openstack/puppet-ceph' 'openstack/puppet-openstack-cookiecutter'
+ 'openstack/puppet-openstack_spec_helper' 'openstack/puppet-ovn'
+ 'openstack/puppet-sahara' 'openstack/puppet-panko'
+ 'openstack/puppet-trove' 'openstack/puppet-gnocchi'
+ 'openstack/puppet-murano' 'openstack/puppet-tempest'
+ 'openstack/puppet-magnum' 'openstack/puppet-tripleo'
+ 'openstack/puppet-designate' 'openstack/puppet-pacemaker'
+ 'openstack/puppet-mistral' 'openstack/puppet-ironic'
+ 'openstack/tripleo-heat-templates' 'openstack/puppet-vitrage'
+ 'openstack/tripleo-quickstart-extras' 'openstack/puppet-cloudkitty'
+ 'openstack/puppet-zaqar' 'openstack/puppet-ceilometer'
+ 'openstack/puppet-tacker' 'openstack/puppet-vswitch'
+ 'openstack/puppet-rally' 'openstack/puppet-ec2api'
+ 'openstack/puppet-congress' 'openstack/puppet-barbican'
+ 'openstack/puppet-glare' 'openstack/puppet-freezer'
+ 'openstack/puppet-monasca' 'openstack/puppet-watcher'
+ 'openstack/puppet-qdr' 'openstack/puppet-manila'
+ 'openstack/project-config' 'openstack/tempest']"
+"['openstack/python-openstackclient' 'openstack/openstacksdk'
+ 'openstack/requirements' 'openstack/nova' 'openstack/kolla-ansible'
+ 'openstack/openstackclient' 'openstack/osc-lib' 'openstack/keystone'
+ 'openstack/os-client-config' 'openstack/keystoneauth' 'openstack/cliff'
+ 'openstack/project-config' 'openstack/openstack-manuals'
+ 'openstack/api-site' 'openstack/operations-guide' 'openstack/devstack']"
+['openstack/kayobe-config' 'openstack/kayobe-config-dev']
+"['openstack/charm-keystone' 'openstack/charm-octavia'
+ 'openstack/charm-openstack-dashboard'
+ 'openstack/charm-interface-keystone-credentials' 'openstack/charm-vault'
+ 'openstack/charm-swift-proxy' 'openstack/charm-glance'
+ 'openstack/charm-neutron-gateway' 'openstack/charm-nova-cloud-controller'
+ 'openstack/charm-cinder']"
+['openstack/charm-interface-keystone' 'openstack/charm-octavia']
+"['openstack/charm-ceph-mon' 'openstack/charm-ceph-osd'
+ 'openstack/charm-ceph-rbd-mirror' 'openstack/charm-ceph-fs'
+ 'openstack/charm-nova-compute' 'openstack/charm-glance'
+ 'openstack/charm-cinder-ceph' 'openstack/charm-ceph-radosgw'
+ 'openstack/charm-interface-ceph-mds' 'openstack/charm-cinder'
+ 'openstack/charm-ceph']"
+"['openstack/python-glanceclient' 'openstack/cinder'
+ 'openstack/tripleo-quickstart-extras' 'openstack/python-openstackclient'
+ 'openstack/tripleo-common' 'openstack/requirements'
+ 'openstack/project-config' 'openstack/devstack-gate']"
+['openstack/kayobe-config-dev' 'openstack/kayobe']
+"['openstack/os-testr' 'openstack/project-config' 'openstack/tempest'
+ 'openstack/devstack' 'openstack/nova']"
+"['openstack/ansible-role-collect-logs'
+ 'openstack/tripleo-quickstart-extras' 'openstack/tripleo-quickstart'
+ 'openstack/tripleo-heat-templates' 'openstack/openstack-ansible'
+ 'openstack/tripleo-ci']"
+"['openstack/puppet-keystone' 'openstack/puppet-cinder'
+ 'openstack/puppet-barbican' 'openstack/puppet-aodh'
+ 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack_spec_helper' 'openstack/puppet-magnum'
+ 'openstack/puppet-nova' 'openstack/puppet-tripleo'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-placement'
+ 'openstack/puppet-ironic' 'openstack/tripleo-quickstart'
+ 'openstack/puppet-vitrage' 'openstack/puppet-trove'
+ 'openstack/puppet-ceilometer' 'openstack/puppet-watcher'
+ 'openstack/puppet-sahara' 'openstack/puppet-mistral'
+ 'openstack/puppet-glance' 'openstack/puppet-gnocchi'
+ 'openstack/puppet-zaqar' 'openstack/puppet-panko' 'openstack/puppet-heat'
+ 'openstack/puppet-manila' 'openstack/puppet-ec2api'
+ 'openstack/puppet-designate' 'openstack/puppet-tacker'
+ 'openstack/puppet-octavia' 'openstack/puppet-openstack-cookiecutter'
+ 'openstack/puppet-cloudkitty' 'openstack/puppet-congress'
+ 'openstack/puppet-glare' 'openstack/puppet-freezer'
+ 'openstack/puppet-neutron' 'openstack/instack-undercloud'
+ 'openstack/puppet-oslo' 'openstack/fuel-library'
+ 'openstack/project-config' 'openstack/puppet-murano'
+ 'openstack/puppet-tempest' 'openstack/puppet-openstacklib']"
+"['openstack/puppet-aodh' 'openstack/puppet-tripleo'
+ 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-oslo'
+ 'openstack/instack-undercloud' 'openstack/puppet-keystone']"
+"['openstack/puppet-barbican' 'openstack/puppet-tripleo'
+ 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-oslo']"
+"['openstack/cookbook-openstack-image'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/cookbook-openstack-bare-metal'
+ 'openstack/cookbook-openstack-compute'
+ 'openstack/cookbook-openstack-block-storage'
+ 'openstack/cookbook-openstack-orchestration' 'openstack/openstack-chef'
+ 'openstack/cookbook-openstackclient'
+ 'openstack/cookbook-openstack-identity'
+ 'openstack/cookbook-openstack-telemetry' 'openstack/openstack-chef-repo'
+ 'openstack/cookbook-openstack-common']"
+"['openstack/cookbook-openstack-dns'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/openstack-chef']"
+"['openstack/cookbook-openstack-identity'
+ 'openstack/cookbook-openstack-dashboard'
+ 'openstack/cookbook-openstack-telemetry'
+ 'openstack/cookbook-openstack-orchestration'
+ 'openstack/cookbook-openstack-network'
+ 'openstack/cookbook-openstack-image' 'openstack/cookbook-openstack-dns'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/cookbook-openstack-bare-metal'
+ 'openstack/cookbook-openstack-block-storage'
+ 'openstack/cookbook-openstack-compute' 'openstack/openstack-chef'
+ 'openstack/cookbook-openstackclient' 'openstack/openstack-chef-repo'
+ 'openstack/cookbook-openstack-database'
+ 'openstack/cookbook-openstack-object-storage'
+ 'openstack/cookbook-openstack-common']"
+"['openstack/cookbook-openstack-network'
+ 'openstack/cookbook-openstack-bare-metal'
+ 'openstack/cookbook-openstack-dns' 'openstack/cookbook-openstack-compute'
+ 'openstack/cookbook-openstack-orchestration' 'openstack/openstack-chef'
+ 'openstack/cookbook-openstackclient'
+ 'openstack/cookbook-openstack-identity'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/cookbook-openstack-telemetry' 'openstack/openstack-chef-repo'
+ 'openstack/cookbook-openstack-common']"
+"['openstack/cookbook-openstack-ops-database'
+ 'openstack/cookbook-openstack-identity'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/cookbook-openstack-ops-messaging'
+ 'openstack/cookbook-openstackclient'
+ 'openstack/cookbook-openstack-common' 'openstack/openstack-chef-repo']"
+"['openstack/cookbook-openstack-ops-messaging'
+ 'openstack/cookbook-openstack-identity'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/openstack-chef-repo']"
+"['openstack/cookbook-openstack-common'
+ 'openstack/cookbook-openstack-ops-database'
+ 'openstack/cookbook-openstack-ops-messaging'
+ 'openstack/cookbook-openstackclient'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/cookbook-openstack-identity'
+ 'openstack/cookbook-openstack-compute'
+ 'openstack/cookbook-openstack-orchestration'
+ 'openstack/cookbook-openstack-dashboard'
+ 'openstack/cookbook-openstack-dns'
+ 'openstack/cookbook-openstack-telemetry'
+ 'openstack/cookbook-openstack-bare-metal' 'openstack/openstack-chef'
+ 'openstack/cookbook-openstack-block-storage'
+ 'openstack/cookbook-openstack-network'
+ 'openstack/cookbook-openstack-image' 'openstack/openstack-chef-repo'
+ 'openstack/cookbook-openstack-application-catalog'
+ 'openstack/cookbook-openstack-database']"
+"['openstack/ansible-role-python_venv_build'
+ 'openstack/openstack-ansible-os_gnocchi' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/openstack-ansible-os_placement'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-os_masakari'
+ 'openstack/tripleo-quickstart-extras' 'openstack/tripleo-ci'
+ 'openstack/openstack-ansible-os_cloudkitty'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_swift'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_designate'
+ 'openstack/openstack-ansible-os_zaqar'
+ 'openstack/openstack-ansible-os_zun'
+ 'openstack/openstack-ansible-os_trove'
+ 'openstack/openstack-ansible-os_tacker'
+ 'openstack/openstack-ansible-os_watcher'
+ 'openstack/openstack-ansible-os_magnum'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/openstack-ansible-os_congress'
+ 'openstack/openstack-ansible-os_monasca-agent'
+ 'openstack/openstack-ansible-os_molteniron'
+ 'openstack/openstack-ansible-os_monasca'
+ 'openstack/openstack-ansible-os_octavia'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-os_heat'
+ 'openstack/openstack-ansible-os_panko'
+ 'openstack/openstack-ansible-os_rally'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_searchlight'
+ 'openstack/openstack-ansible-os_barbican'
+ 'openstack/openstack-ansible-os_blazar']"
+['openstack/ossa' 'openstack/governance' 'openstack/project-config']
+"['openstack/ansible-role-systemd_networkd'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-lxc_container_create'
+ 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-nspawn_container_create'
+ 'openstack/openstack-ansible-nspawn_hosts']"
+"['openstack/puppet-oslo' 'openstack/puppet-heat' 'openstack/puppet-nova'
+ 'openstack/puppet-neutron' 'openstack/puppet-keystone'
+ 'openstack/puppet-ec2api' 'openstack/puppet-ceilometer'
+ 'openstack/puppet-zaqar' 'openstack/puppet-ironic'
+ 'openstack/puppet-glance' 'openstack/puppet-vitrage'
+ 'openstack/puppet-tacker' 'openstack/puppet-cinder'
+ 'openstack/puppet-manila' 'openstack/puppet-trove'
+ 'openstack/puppet-magnum' 'openstack/puppet-octavia'
+ 'openstack/puppet-cloudkitty' 'openstack/puppet-rally'
+ 'openstack/puppet-mistral' 'openstack/puppet-sahara'
+ 'openstack/puppet-panko' 'openstack/puppet-barbican'
+ 'openstack/puppet-aodh' 'openstack/puppet-watcher'
+ 'openstack/puppet-placement' 'openstack/puppet-senlin'
+ 'openstack/puppet-freezer' 'openstack/puppet-murano'
+ 'openstack/puppet-glare' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-congress' 'openstack/puppet-openstack-cookiecutter'
+ 'openstack/puppet-tripleo' 'openstack/fuel-library']"
+"['openstack/ironic-inspector' 'openstack/bifrost'
+ 'openstack/tripleo-ansible' 'openstack/openstacksdk'
+ 'openstack/python-ironic-inspector-client' 'openstack/ironic'
+ 'openstack/ironic-tempest-plugin' 'openstack/instack-undercloud'
+ 'openstack/project-config' 'openstack/ironic-python-agent'
+ 'openstack/tripleo-docs']"
+"['openstack/puppet-heat' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-ci' 'openstack/puppet-openstack-integration'
+ 'openstack/instack-undercloud' 'openstack/puppet-oslo'
+ 'openstack/puppet-tempest' 'openstack/puppet-keystone'
+ 'openstack/tripleo-common' 'openstack/puppet-nova']"
+"['openstack/devstack-plugin-container' 'openstack/kuryr-kubernetes'
+ 'openstack/zun' 'openstack/kuryr-libnetwork']"
+"['openstack/ironic-tempest-plugin' 'openstack/ironic'
+ 'openstack/ironic-lib' 'openstack/ironic-python-agent'
+ 'openstack/ironic-inspector' 'openstack/tempest'
+ 'openstack/project-config' 'openstack/python-ironicclient']"
+"['openstack/charm-nova-cloud-controller' 'openstack/charm-nova-compute'
+ 'openstack/charm-guide' 'openstack/charm-placement'
+ 'openstack/charm-neutron-gateway' 'openstack/charm-deployment-guide']"
+"['openstack/ansible-role-qdrouterd' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-tests']"
+"['openstack/openstack-ansible-os_heat' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_magnum']"
+"['openstack/openstack-ansible-os_designate' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-tests']"
+"['openstack/openstack-ansible-os_magnum' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-tests' 'openstack/openstack-ansible-plugins']"
+['openstack/openstack-ansible-os_trove' 'openstack/openstack-ansible']
+"['openstack/openstack-ansible-os_sahara' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-tests']"
+['openstack/openstack-ansible-os_tacker' 'openstack/openstack-ansible']
+"['openstack/openstack-ansible-os_aodh' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-tests']"
+"['openstack/python-manilaclient' 'openstack/manila' 'openstack/devstack'
+ 'openstack/manila-ui']"
+"['openstack/puppet-vswitch' 'openstack/puppet-openstack-integration'
+ 'openstack/tripleo-heat-templates' 'openstack/puppet-neutron']"
+"['openstack/networking-ovn' 'openstack/neutron' 'openstack/tripleo-ci'
+ 'openstack/tripleo-heat-templates' 'openstack/kuryr-kubernetes'
+ 'openstack/project-config' 'openstack/openstack-zuul-jobs']"
+"['openstack/openstack-ansible-os_zun' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_panko'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_zaqar']"
+"['openstack/nova-specs' 'openstack/os-traits' 'openstack/project-config'
+ 'openstack/cinder-specs' 'openstack/nova' 'openstack/openstack-manuals'
+ 'openstack/python-novaclient']"
+"['openstack/oslo.db' 'openstack/keystone' 'openstack/designate'
+ 'openstack/cinder' 'openstack/neutron-fwaas' 'openstack/neutron'
+ 'openstack/networking-ovn' 'openstack/nova' 'openstack/heat'
+ 'openstack/neutron-vpnaas' 'openstack/networking-bagpipe'
+ 'openstack/networking-bgpvpn' 'openstack/networking-midonet'
+ 'openstack/neutron-dynamic-routing' 'openstack/networking-sfc'
+ 'openstack/neutron-specs' 'openstack/networking-l2gw'
+ 'openstack/neutron-lbaas' 'openstack/ironic' 'openstack/glance'
+ 'openstack/cinder-specs' 'openstack/networking-odl' 'openstack/barbican'
+ 'openstack/nova-specs' 'openstack/magnum' 'openstack/requirements'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config'
+ 'openstack/masakari' 'openstack/gnocchi' 'openstack/releases'
+ 'openstack/devstack']"
+['openstack/sushy-oem-idrac' 'openstack/ironic']
+"['openstack/watcher' 'openstack/loci' 'openstack/os-loganalyze'
+ 'openstack/python-watcherclient' 'openstack/governance'
+ 'openstack/watcher-tempest-plugin' 'openstack/watcher-dashboard'
+ 'openstack/project-config']"
+"['openstack/stackviz' 'openstack/tempest' 'openstack/project-config'
+ 'openstack/openstack-zuul-jobs']"
+['openstack/vitrage-tempest-plugin' 'openstack/vitrage']
+"['openstack/puppet-glance' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-tripleo' 'openstack/puppet-openstack-integration'
+ 'openstack/puppet-oslo' 'openstack/tripleo-common'
+ 'openstack/instack-undercloud' 'openstack/puppet-keystone']"
+"['openstack/openstack-ansible-nspawn_hosts'
+ 'openstack/openstack-ansible-nspawn_container_create'
+ 'openstack/project-config' 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_cinder']"
+"['openstack/puppet-ceph' 'openstack/puppet-openstack-integration'
+ 'openstack/releases' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-tripleo' 'openstack/puppet-nova']"
+['openstack/keystone-specs' 'openstack/devstack' 'openstack/keystone']
+"['openstack/cinder-specs' 'openstack/nova-specs'
+ 'openstack/project-config' 'openstack/cinder']"
+"['openstack/blazar' 'openstack/blazar-tempest-plugin'
+ 'openstack/blazar-dashboard' 'openstack/python-blazarclient'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config'
+ 'openstack/blazar-nova' 'openstack/requirements']"
+"['openstack/charm-cinder' 'openstack/charm-cinder-purestorage'
+ 'openstack/charm-cinder-backup-swift-proxy'
+ 'openstack/charm-cinder-backup'
+ 'openstack/charm-interface-cinder-backend' 'openstack/charm-guide']"
+"['openstack/karbor' 'openstack/python-karborclient'
+ 'openstack/project-config' 'openstack/openstack-zuul-jobs']"
+['openstack/senlin-tempest-plugin' 'openstack/senlin']
+"['openstack/ironic-python-agent' 'openstack/metalsmith'
+ 'openstack/ironic-python-agent-builder' 'openstack/ironic'
+ 'openstack/diskimage-builder' 'openstack/bifrost' 'openstack/ironic-lib'
+ 'openstack/ironic-inspector' 'openstack/ironic-tempest-plugin'
+ 'openstack/project-config' 'openstack/tripleo-ci'
+ 'openstack/oslo.service']"
+"['openstack/training-labs' 'openstack/openstack-manuals'
+ 'openstack/project-config' 'openstack/training-guides']"
+"['openstack/tripleo-operator-ansible' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-quickstart-extras' 'openstack/tripleo-heat-templates'
+ 'openstack/releases' 'openstack/tripleo-ci']"
+"['openstack/cookbook-openstack-compute'
+ 'openstack/cookbook-openstack-orchestration'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/openstack-chef' 'openstack/cookbook-openstackclient'
+ 'openstack/cookbook-openstack-common'
+ 'openstack/cookbook-openstack-identity'
+ 'openstack/cookbook-openstack-telemetry' 'openstack/openstack-chef-repo'
+ 'openstack/cookbook-openstack-network']"
+"['openstack/cookbook-openstack-integration-test'
+ 'openstack/cookbook-openstack-identity'
+ 'openstack/cookbook-openstack-dns' 'openstack/openstack-chef'
+ 'openstack/cookbook-openstackclient'
+ 'openstack/cookbook-openstack-common' 'openstack/openstack-chef-repo']"
+"['openstack/keystonemiddleware' 'openstack/tempest' 'openstack/neutron'
+ 'openstack/oslo.policy' 'openstack/releases' 'openstack/glance'
+ 'openstack/swift' 'openstack/requirements' 'openstack/keystone'
+ 'openstack/python-keystoneclient' 'openstack/oslo.context'
+ 'openstack/project-config']"
+['openstack/charm-ceph-proxy' 'openstack/charm-guide']
+"['openstack/charm-interface-cinder-backend' 'openstack/charms.openstack'
+ 'openstack/charm-cinder-purestorage']"
+"['openstack/cookbook-openstackclient'
+ 'openstack/cookbook-openstack-identity'
+ 'openstack/cookbook-openstack-integration-test']"
+['openstack/charm-barbican' 'openstack/charm-guide']
+"['openstack/sahara-dashboard' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-ci' 'openstack/horizon'
+ 'openstack/openstack-ansible-os_horizon' 'openstack/project-config'
+ 'openstack/sahara']"
+"['openstack/tripleo-specs' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-ansible' 'openstack/tripleo-common']"
+"['openstack/puppet-manila' 'openstack/puppet-tripleo'
+ 'openstack/tripleo-heat-templates' 'openstack/releases'
+ 'openstack/puppet-oslo' 'openstack/puppet-keystone']"
+"['openstack/charm-nova-compute' 'openstack/charm-deployment-guide'
+ 'openstack/charm-neutron-openvswitch'
+ 'openstack/charm-nova-cloud-controller' 'openstack/charm-guide'
+ 'openstack/charm-nova-lxd']"
+"['openstack/mistral' 'openstack/tripleo-ci'
+ 'openstack/python-mistralclient' 'openstack/mistral-tempest-plugin'
+ 'openstack/tripleo-common' 'openstack/tripleo-heat-templates'
+ 'openstack/vitrage' 'openstack/instack-undercloud'
+ 'openstack/puppet-mistral' 'openstack/python-ironic-inspector-client'
+ 'openstack/tempest' 'openstack/project-config' 'openstack/tacker'
+ 'openstack/python-tripleoclient' 'openstack/mistral-dashboard']"
+"['openstack/panko' 'openstack/tripleo-ci' 'openstack/aodh'
+ 'openstack/telemetry-tempest-plugin' 'openstack/python-pankoclient'
+ 'openstack/ceilometer']"
+"['openstack/python-mistralclient' 'openstack/tripleo-ci'
+ 'openstack/tripleo-quickstart' 'openstack/mistral' 'openstack/tripleo-ui'
+ 'openstack/python-tripleoclient' 'openstack/python-openstackclient'
+ 'openstack/project-config' 'openstack/solum']"
+"['openstack/zaqar' 'openstack/tripleo-ci' 'openstack/requirements'
+ 'openstack/heat' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config' 'openstack/openstack-manuals'
+ 'openstack/python-zaqarclient']"
+"['openstack/ansible-role-container-registry' 'openstack/tripleo-ci'
+ 'openstack/tripleo-heat-templates' 'openstack/tripleo-quickstart'
+ 'openstack/openstack-zuul-jobs']"
+"['openstack/networking-odl' 'openstack/neutron-lib' 'openstack/neutron'
+ 'openstack/openstack-zuul-jobs' 'openstack/kolla'
+ 'openstack/requirements' 'openstack/project-config'
+ 'openstack/networking-bgpvpn']"
+"['openstack/magnum' 'openstack/magnum-tempest-plugin'
+ 'openstack/python-magnumclient' 'openstack/project-config'
+ 'openstack/magnum-ui' 'openstack/governance'
+ 'openstack/openstack-zuul-jobs' 'openstack/heat'
+ 'openstack/devstack-gate']"
+"['openstack/puppet-gnocchi' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-tripleo' 'openstack/puppet-openstack-integration'
+ 'openstack/puppet-panko']"
+"['openstack/puppet-mistral' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack-integration' 'openstack/instack-undercloud'
+ 'openstack/puppet-tripleo' 'openstack/puppet-oslo'
+ 'openstack/python-tripleoclient']"
+"['openstack/puppet-placement' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-tripleo']"
+"['openstack/puppet-zaqar' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack-integration' 'openstack/instack-undercloud']"
+"['openstack/election' 'openstack/governance' 'openstack/project-config'
+ 'openstack/releases']"
+"['openstack/charm-ceph-radosgw' 'openstack/charm-ceph-dashboard'
+ 'openstack/charm-guide']"
+"['openstack/masakari' 'openstack/masakari-monitors'
+ 'openstack/requirements' 'openstack/python-masakariclient'
+ 'openstack/openstacksdk' 'openstack/rpm-packaging']"
+"['openstack/tripleo-ci-health-queries'
+ 'openstack/ansible-role-collect-logs']"
+['openstack/os-ken' 'openstack/neutron']
+"['openstack/cyborg' 'openstack/cyborg-tempest-plugin' 'openstack/nova'
+ 'openstack/releases' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+['openstack/virtualbmc' 'openstack/ironic' 'openstack/project-config']
+"['openstack/ansible-role-tripleo-modify-image' 'openstack/tripleo-common'
+ 'openstack/tripleo-heat-templates' 'openstack/tripleo-quickstart-extras'
+ 'openstack/tripleo-ci' 'openstack/tripleo-quickstart'
+ 'openstack/openstack-zuul-jobs']"
+['openstack/masakari-dashboard' 'openstack/kolla']
+['openstack/oslo.metrics' 'openstack/oslo.messaging']
+['openstack/mistral-tempest-plugin' 'openstack/mistral']
+"['openstack/openstack-helm' 'openstack/openstack-helm-images'
+ 'openstack/openstack-helm-infra' 'openstack/openstack-helm-addons'
+ 'openstack/keystone']"
+"['openstack/oslo.config' 'openstack/tripleo-validations'
+ 'openstack/devstack' 'openstack/glance' 'openstack/nova'
+ 'openstack/keystone' 'openstack/project-config' 'openstack/cinder'
+ 'openstack/neutron' 'openstack/openstack-manuals' 'openstack/octavia'
+ 'openstack/oslo.log' 'openstack/oslo.middleware' 'openstack/tempest'
+ 'openstack/sahara' 'openstack/oslo.messaging']"
+"['openstack/tacker' 'openstack/tacker-horizon' 'openstack/openstacksdk'
+ 'openstack/python-tackerclient' 'openstack/governance'
+ 'openstack/requirements' 'openstack/project-config'
+ 'openstack/openstack-zuul-jobs']"
+"['openstack/django_openstack_auth' 'openstack/project-config'
+ 'openstack/horizon']"
+"['openstack/openstack-ansible-os_panko' 'openstack/openstack-manuals'
+ 'openstack/project-config' 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_ceilometer']"
+"['openstack/os-net-config' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-validations' 'openstack/tripleo-image-elements']"
+"['openstack/hacking' 'openstack/tripleo-heat-templates'
+ 'openstack/project-config' 'openstack/requirements' 'openstack/tempest']"
+"['openstack/neutron-lbaas' 'openstack/project-config' 'openstack/octavia'
+ 'openstack/neutron' 'openstack/devstack' 'openstack/heat'
+ 'openstack/networking-midonet' 'openstack/python-neutronclient'
+ 'openstack/devstack-gate' 'openstack/manila' 'openstack/rally'
+ 'openstack/api-site' 'openstack/networking-ofagent']"
+['openstack/neutron-lbaas-dashboard' 'openstack/project-config']
+"['openstack/ironic-lib' 'openstack/puppet-ironic' 'openstack/ironic'
+ 'openstack/ironic-python-agent' 'openstack/ironic-inspector'
+ 'openstack/project-config']"
+['openstack/charm-cinder-purestorage' 'openstack/charm-guide']
+['openstack/js-openstack-lib' 'openstack/project-config']
+['openstack/puppet-openstack-specs' 'openstack/project-config']
+['openstack/scientific-wg' 'openstack/project-config']
+"['openstack/openstack-ansible-nspawn_container_create'
+ 'openstack/project-config' 'openstack/openstack-ansible-nspawn_hosts'
+ 'openstack/openstack-ansible-tests' 'openstack/openstack-ansible']"
+"['openstack/paunch' 'openstack/tripleo-heat-templates'
+ 'openstack/governance' 'openstack/tripleo-ansible'
+ 'openstack/tripleo-common' 'openstack/networking-ovn'
+ 'openstack/tripleo-docs' 'openstack/heat-agents'
+ 'openstack/tripleo-quickstart' 'openstack/os-apply-config']"
+"['openstack/openstack-ansible-openstack_openrc'
+ 'openstack/openstack-ansible' 'openstack/openstack-ansible-plugins']"
+"['openstack/openstack-ansible-os_swift' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/openstack-ansible-tests' 'openstack/project-config']"
+['openstack/xstatic-angular' 'openstack/releases']
+"['openstack/openstack-ansible-memcached_server'
+ 'openstack/openstack-ansible' 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-os_keystone']"
+['openstack/devstack-tools' 'openstack/manila-tempest-plugin']
+"['openstack/charm-rabbitmq-server' 'openstack/charm-deployment-guide'
+ 'openstack/charm-cinder']"
+"['openstack/python-dracclient' 'openstack/ironic'
+ 'openstack/project-config']"
+"['openstack/patrole' 'openstack/releases' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+"['openstack/networking-midonet' 'openstack/project-config'
+ 'openstack/neutron' 'openstack/nova' 'openstack/devstack']"
+['openstack/masakari-specs' 'openstack/project-config']
+"['openstack/oslo.context' 'openstack/masakari' 'openstack/oslo.policy'
+ 'openstack/nova' 'openstack/keystone' 'openstack/congress'
+ 'openstack/oslo.log' 'openstack/designate' 'openstack/requirements'
+ 'openstack/project-config' 'openstack/devstack' 'openstack/neutron']"
+"['openstack/kolla-cli' 'openstack/kolla-ansible'
+ 'openstack/project-config' 'openstack/governance'
+ 'openstack/openstack-manuals']"
+"['openstack/charm-layer-openstack' 'openstack/charm-keystone-ldap'
+ 'openstack/charm-gnocchi' 'openstack/charm-nova-cell-controller'
+ 'openstack/charms.openstack' 'openstack/charm-layer-openstack-api'
+ 'openstack/charm-neutron-dynamic-routing' 'openstack/charm-aodh'
+ 'openstack/charm-designate' 'openstack/charm-manila'
+ 'openstack/charm-barbican' 'openstack/charm-designate-bind']"
+"['openstack/charm-interface-keystone-domain-backend'
+ 'openstack/charm-keystone-ldap']"
+"['openstack/python-octaviaclient' 'openstack/python-openstackclient'
+ 'openstack/openstackdocstheme' 'openstack/octavia'
+ 'openstack/requirements']"
+"['openstack/keystone-tempest-plugin' 'openstack/keystone'
+ 'openstack/project-config']"
+"['openstack/heat-agents' 'openstack/os-collect-config'
+ 'openstack/heat-templates' 'openstack/puppet-tripleo'
+ 'openstack/tripleo-common' 'openstack/tripleo-quickstart-extras'
+ 'openstack/tripleo-ci' 'openstack/tripleo-heat-templates']"
+"['openstack/os-win' 'openstack/cinder' 'openstack/compute-hyperv'
+ 'openstack/nova' 'openstack/os-brick' 'openstack/networking-hyperv'
+ 'openstack/designate' 'openstack/ceilometer']"
+"['openstack/monasca-api' 'openstack/monasca-log-api'
+ 'openstack/monasca-persister' 'openstack/monasca-tempest-plugin'
+ 'openstack/monasca-grafana-datasource' 'openstack/monasca-notification'
+ 'openstack/kolla' 'openstack/monasca-thresh' 'openstack/project-config'
+ 'openstack/monasca-ui' 'openstack/python-monascaclient'
+ 'openstack/monasca-agent' 'openstack/monasca-statsd'
+ 'openstack/monasca-common' 'openstack/rpm-packaging' 'openstack/releases']"
+"['openstack/monasca-common' 'openstack/monasca-log-api'
+ 'openstack/monasca-api' 'openstack/monasca-notification'
+ 'openstack/monasca-persister' 'openstack/monasca-agent'
+ 'openstack/python-monascaclient' 'openstack/monasca-tempest-plugin'
+ 'openstack/monasca-thresh' 'openstack/requirements'
+ 'openstack/project-config']"
+"['openstack/oslo.policy' 'openstack/devstack' 'openstack/glance'
+ 'openstack/keystone' 'openstack/nova' 'openstack/project-config'
+ 'openstack/oslo-incubator']"
+"['openstack/oslo.utils' 'openstack/nova' 'openstack/ironic'
+ 'openstack/diskimage-builder' 'openstack/tripleo-common'
+ 'openstack/mistral' 'openstack/oslo.service' 'openstack/oslo.config'
+ 'openstack/oslo.messaging' 'openstack/releases' 'openstack/api-sig'
+ 'openstack/keystone']"
+['openstack/karbor-dashboard' 'openstack/project-config']
+"['openstack/python-karborclient' 'openstack/project-config'
+ 'openstack/python-openstackclient']"
+"['openstack/project-team-guide' 'openstack/releases'
+ 'openstack/project-config' 'openstack/requirements'
+ 'openstack/contributor-guide' 'openstack/governance']"
+"['openstack/os-client-config' 'openstack/openstacksdk' 'openstack/osc-lib'
+ 'openstack/requirements' 'openstack/project-config'
+ 'openstack/python-openstackclient' 'openstack/python-neutronclient'
+ 'openstack/shade']"
+"['openstack/swift' 'openstack/neutron' 'openstack/nova'
+ 'openstack/releases' 'openstack/ceilometermiddleware'
+ 'openstack/tripleo-ci' 'openstack/devstack'
+ 'openstack/tripleo-quickstart-extras' 'openstack/python-swiftclient'
+ 'openstack/project-config' 'openstack/requirements' 'openstack/heat'
+ 'openstack/api-site']"
+['openstack/monasca-analytics' 'openstack/project-config']
+['openstack/charm-interface-magpie' 'openstack/charm-magpie']
+"['openstack/trove' 'openstack/rpm-packaging'
+ 'openstack/trove-tempest-plugin' 'openstack/tripleo-quickstart-extras'
+ 'openstack/governance' 'openstack/openstack-manuals'
+ 'openstack/project-config' 'openstack/python-troveclient'
+ 'openstack/trove-integration' 'openstack/releases' 'openstack/tempest'
+ 'openstack/devstack-gate']"
+['openstack/ansible-role-lunasa-hsm' 'openstack/tripleo-heat-templates']
+"['openstack/senlin' 'openstack/senlin-tempest-plugin'
+ 'openstack/kolla-ansible' 'openstack/kolla' 'openstack/openstacksdk'
+ 'openstack/os-loganalyze' 'openstack/python-senlinclient'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config'
+ 'openstack/requirements']"
+['openstack/charm-vault' 'openstack/charm-deployment-guide']
+['openstack/ptgbot' 'openstack/project-config']
+"['openstack/openstack-ansible-galera_client' 'openstack/project-config'
+ 'openstack/openstack-manuals' 'openstack/openstack-ansible-galera_server'
+ 'openstack/openstack-ansible-tests' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_barbican'
+ 'openstack/openstack-ansible-os_glance']"
+"['openstack/networking-generic-switch' 'openstack/networking-baremetal'
+ 'openstack/ironic' 'openstack/project-config']"
+['openstack/xstatic-jquery-migrate' 'openstack/horizon']
+"['openstack/qinling' 'openstack/project-config'
+ 'openstack/python-qinlingclient']"
+['openstack/python-qinlingclient' 'openstack/project-config']
+['openstack/qinling-dashboard' 'openstack/project-config']
+"['openstack/searchlight' 'openstack/project-config' 'openstack/governance'
+ 'openstack/oslo.log' 'openstack/searchlight-ui']"
+"['openstack/python-searchlightclient' 'openstack/project-config'
+ 'openstack/python-openstackclient']"
+"['openstack/searchlight-ui' 'openstack/project-config' 'openstack/horizon'
+ 'openstack/openstack-zuul-jobs']"
+['openstack/searchlight-specs' 'openstack/project-config']
+['openstack/openstack-ansible-os_adjutant' 'openstack/openstack-ansible']
+"['openstack/oslo.versionedobjects' 'openstack/nova' 'openstack/releases'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config']"
+"['openstack/charm-interface-ceph-rbd-mirror'
+ 'openstack/charm-ceph-rbd-mirror']"
+"['openstack/liberasurecode' 'openstack/swift' 'openstack/project-config'
+ 'openstack/pyeclib']"
+"['openstack/castellan' 'openstack/barbican' 'openstack/project-config'
+ 'openstack/openstack-zuul-jobs' 'openstack/murano'
+ 'openstack/barbican-specs']"
+['openstack/ironic-ui' 'openstack/horizon' 'openstack/project-config']
+['openstack/charm-ops-interface-ceph-client' 'openstack/charm-ceph-iscsi']
+"['openstack/puppet-panko' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack-integration' 'openstack/releases'
+ 'openstack/instack-undercloud' 'openstack/puppet-tripleo']"
+"['openstack/puppet-horizon' 'openstack/puppet-openstack-integration'
+ 'openstack/tripleo-heat-templates' 'openstack/releases'
+ 'openstack/puppet-tripleo']"
+"['openstack/monasca-thresh' 'openstack/monasca-api'
+ 'openstack/project-config' 'openstack/monasca-persister']"
+"['openstack/neutron-specs' 'openstack/openstacksdk' 'openstack/neutron'
+ 'openstack/neutron-lib' 'openstack/neutron-fwaas' 'openstack/governance']"
+"['openstack/networking-hyperv' 'openstack/compute-hyperv'
+ 'openstack/neutron']"
+['openstack/charm-interface-ceph-client' 'openstack/charm-ceph-fs']
+"['openstack/freezer-tempest-plugin' 'openstack/freezer-api'
+ 'openstack/freezer']"
+['openstack/os-loganalyze' 'openstack/project-config' 'openstack/watcher']
+['openstack/mistral-lib' 'openstack/mistral' 'openstack/mistral-extra']
+"['openstack/monasca-transform' 'openstack/project-config'
+ 'openstack/requirements']"
+"['openstack/cookbook-openstack-orchestration' 'openstack/openstack-chef'
+ 'openstack/cookbook-openstack-identity' 'openstack/openstack-chef-repo']"
+"['openstack/oslo-incubator' 'openstack/tripleo-ci'
+ 'openstack/python-novaclient' 'openstack/keystone' 'openstack/cinder'
+ 'openstack/nova' 'openstack/tempest' 'openstack/ceilometer']"
+"['openstack/puppet-openstack-cookiecutter'
+ 'openstack/puppet-openstack_spec_helper' 'openstack/project-config']"
+"['openstack/charm-neutron-api-plugin-ovn'
+ 'openstack/charm-neutron-gateway' 'openstack/charm-neutron-openvswitch']"
+"['openstack/puppet-sahara' 'openstack/puppet-openstack-integration'
+ 'openstack/puppet-oslo' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-keystone']"
+['openstack/devstack-plugin-pika' 'openstack/project-config']
+"['openstack/devstack-plugin-zmq' 'openstack/project-config'
+ 'openstack/openstack-zuul-jobs']"
+"['openstack/oslo-specs' 'openstack/octavia' 'openstack/oslo.log'
+ 'openstack/tooz' 'openstack/oslo.config' 'openstack/devstack'
+ 'openstack/oslo.messaging']"
+"['openstack/cloudkitty' 'openstack/python-cloudkittyclient'
+ 'openstack/cloudkitty-tempest-plugin' 'openstack/governance'
+ 'openstack/project-config']"
+"['openstack/networking-l2gw' 'openstack/project-config'
+ 'openstack/networking-l2gw-tempest-plugin' 'openstack/networking-odl']"
+"['openstack/networking-l2gw-tempest-plugin' 'openstack/project-config'
+ 'openstack/networking-l2gw' 'openstack/tempest']"
+['openstack/zaqar-tempest-plugin' 'openstack/zaqar']
+['openstack/charm-neutron-gateway' 'openstack/charm-guide']
+['openstack/charm-neutron-api-plugin-arista' 'openstack/charm-guide']
+['openstack/zun-tempest-plugin' 'openstack/zun']
+"['openstack/pbr' 'openstack/project-config'
+ 'openstack/python-glanceclient' 'openstack/glance'
+ 'openstack/python-openstackclient' 'openstack/reno' 'openstack/keystone'
+ 'openstack/requirements']"
+"['openstack/openstack-ansible-os_congress' 'openstack/project-config'
+ 'openstack/openstack-ansible']"
+['openstack/xstatic-moment' 'openstack/releases']
+['openstack/xstatic-moment-timezone' 'openstack/releases']
+['openstack/xstatic-lodash' 'openstack/releases']
+['openstack/xstatic-dagre-d3' 'openstack/releases']
+['openstack/xstatic-dagre' 'openstack/releases']
+"['openstack/python-ironicclient' 'openstack/kolla-ansible'
+ 'openstack/nova' 'openstack/networking-baremetal'
+ 'openstack/project-config' 'openstack/tripleo-common'
+ 'openstack/instack-undercloud' 'openstack/bifrost' 'openstack/ironic'
+ 'openstack/python-tripleoclient']"
+"['openstack/charm-interface-bind-rndc' 'openstack/charm-designate-bind'
+ 'openstack/charm-designate']"
+"['openstack/monasca-notification' 'openstack/monasca-api'
+ 'openstack/monasca-persister' 'openstack/heat' 'openstack/project-config']"
+"['openstack/monasca-persister' 'openstack/monasca-api'
+ 'openstack/monasca-tempest-plugin' 'openstack/monasca-events-api'
+ 'openstack/monasca-notification' 'openstack/project-config']"
+['openstack/charm-mysql-router' 'openstack/charm-mysql-innodb-cluster']
+['openstack/charm-interface-mysql-shared' 'openstack/charm-mysql-router']
+"['openstack/sahara-tests' 'openstack/sahara'
+ 'openstack/python-saharaclient' 'openstack/project-config']"
+"['openstack/monasca-agent' 'openstack/releases'
+ 'openstack/monasca-log-api' 'openstack/monasca-statsd'
+ 'openstack/project-config' 'openstack/monasca-api']"
+"['openstack/networking-onos' 'openstack/project-config'
+ 'openstack/openstack-zuul-jobs']"
+['openstack/solum-infra-guestagent' 'openstack/project-config']
+['openstack/openstack-ux' 'openstack/project-config']
+"['openstack/congress' 'openstack/kolla-ansible' 'openstack/kolla'
+ 'openstack/congress-tempest-plugin' 'openstack/murano'
+ 'openstack/congress-dashboard' 'openstack/python-congressclient'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config'
+ 'openstack/tempest']"
+"['openstack/neutron-fwaas-dashboard' 'openstack/project-config'
+ 'openstack/requirements']"
+['openstack/tricircle' 'openstack/project-config' 'openstack/governance']
+['openstack/python-tricircleclient' 'openstack/project-config']
+['openstack/swift-specs' 'openstack/project-config']
+"['openstack/governance-sigs' 'openstack/governance'
+ 'openstack/governance-uc' 'openstack/project-config']"
+"['openstack/oslotest' 'openstack/nova' 'openstack/neutron'
+ 'openstack/cinder' 'openstack/nova-powervm' 'openstack/requirements']"
+"['openstack/charm-interface-mysql-innodb-cluster'
+ 'openstack/charm-mysql-innodb-cluster']"
+"['openstack/charm-interface-mysql-router' 'openstack/charm-mysql-router'
+ 'openstack/charm-mysql-innodb-cluster']"
+"['openstack/heat-tempest-plugin' 'openstack/auto-scaling-sig'
+ 'openstack/heat' 'openstack/python-heatclient']"
+"['openstack/puppet-openstack-guide' 'openstack/puppet-openstacklib'
+ 'openstack/puppet-cinder' 'openstack/puppet-trove'
+ 'openstack/puppet-heat' 'openstack/puppet-vswitch'
+ 'openstack/puppet-watcher' 'openstack/puppet-vitrage'
+ 'openstack/puppet-swift' 'openstack/puppet-octavia'
+ 'openstack/puppet-nova' 'openstack/puppet-tempest'
+ 'openstack/puppet-panko' 'openstack/puppet-ovn'
+ 'openstack/puppet-monasca' 'openstack/puppet-zaqar'
+ 'openstack/puppet-tacker' 'openstack/puppet-senlin'
+ 'openstack/puppet-sahara' 'openstack/puppet-rally' 'openstack/puppet-qdr'
+ 'openstack/puppet-placement' 'openstack/puppet-oslo'
+ 'openstack/puppet-openstack_extras' 'openstack/puppet-neutron'
+ 'openstack/puppet-murano' 'openstack/puppet-mistral'
+ 'openstack/puppet-manila' 'openstack/puppet-magnum'
+ 'openstack/puppet-keystone' 'openstack/puppet-ironic'
+ 'openstack/puppet-horizon' 'openstack/puppet-gnocchi'
+ 'openstack/puppet-glance' 'openstack/puppet-freezer'
+ 'openstack/puppet-ec2api' 'openstack/puppet-designate'
+ 'openstack/puppet-cloudkitty' 'openstack/puppet-ceph'
+ 'openstack/puppet-ceilometer' 'openstack/puppet-barbican'
+ 'openstack/puppet-aodh' 'openstack/puppet-glare'
+ 'openstack/puppet-congress' 'openstack/puppet-openstack-cookiecutter'
+ 'openstack/project-config']"
+"['openstack/monasca-kibana-plugin' 'openstack/monasca-api'
+ 'openstack/releases' 'openstack/monasca-events-api'
+ 'openstack/monasca-log-api' 'openstack/project-config']"
+['openstack/i18n-specs' 'openstack/project-config']
+['openstack/xstatic-graphlib' 'openstack/releases']
+"['openstack/monasca-tempest-plugin' 'openstack/monasca-api'
+ 'openstack/monasca-log-api' 'openstack/monasca-events-api'
+ 'openstack/monasca-agent' 'openstack/monasca-common'
+ 'openstack/monasca-persister' 'openstack/monasca-thresh']"
+['openstack/charm-mysql-innodb-cluster' 'openstack/charm-mysql-router']
+"['openstack/shade' 'openstack/os-client-config' 'openstack/bifrost'
+ 'openstack/openstacksdk' 'openstack/project-config' 'openstack/releases'
+ 'openstack/openstack-zuul-jobs']"
+"['openstack/rally' 'openstack/rally-openstack' 'openstack/networking-ovn'
+ 'openstack/releases' 'openstack/networking-midonet' 'openstack/ec2-api'
+ 'openstack/neutron' 'openstack/project-config'
+ 'openstack/openstack-zuul-jobs' 'openstack/glance'
+ 'openstack/murano-apps']"
+"['openstack/openstack-ansible-pip_install' 'openstack/governance'
+ 'openstack/project-config' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/ansible-role-python_venv_build'
+ 'openstack/openstack-ansible-repo_build'
+ 'openstack/openstack-ansible-lxc_hosts'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-tests'
+ 'openstack/openstack-ansible-repo_server']"
+"['openstack/openstack-ansible-repo_build' 'openstack/governance'
+ 'openstack/project-config' 'openstack/openstack-ansible'
+ 'openstack/openstack-ansible-openstack_hosts'
+ 'openstack/openstack-ansible-plugins'
+ 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-os_cinder'
+ 'openstack/openstack-ansible-os_horizon'
+ 'openstack/openstack-ansible-os_swift'
+ 'openstack/openstack-ansible-os_designate'
+ 'openstack/openstack-ansible-os_sahara'
+ 'openstack/openstack-ansible-os_ironic'
+ 'openstack/openstack-ansible-os_ceilometer'
+ 'openstack/openstack-ansible-os_aodh'
+ 'openstack/openstack-ansible-os_zaqar'
+ 'openstack/openstack-ansible-os_glance'
+ 'openstack/openstack-ansible-os_heat'
+ 'openstack/openstack-ansible-os_barbican'
+ 'openstack/openstack-ansible-os_cloudkitty'
+ 'openstack/openstack-ansible-os_rally'
+ 'openstack/openstack-ansible-os_neutron'
+ 'openstack/openstack-ansible-os_gnocchi'
+ 'openstack/openstack-ansible-os_tempest'
+ 'openstack/openstack-ansible-os_keystone'
+ 'openstack/openstack-ansible-os_magnum'
+ 'openstack/openstack-ansible-repo_server']"
+['openstack/charm-placement' 'openstack/charm-cinder']
+"['openstack/charm-neutron-openvswitch' 'openstack/charm-cinder'
+ 'openstack/charm-guide' 'openstack/charm-interface-neutron-plugin'
+ 'openstack/charm-nova-compute']"
+"['openstack/charm-neutron-api' 'openstack/charm-guide'
+ 'openstack/charm-nova-cloud-controller'
+ 'openstack/charm-interface-neutron-plugin-api-subordinate'
+ 'openstack/charm-neutron-openvswitch' 'openstack/charm-designate'
+ 'openstack/charm-neutron-gateway']"
+['openstack/openstack-ansible-os_manila' 'openstack/openstack-ansible']
+"['openstack/charm-layer-openstack-api' 'openstack/charm-gnocchi'
+ 'openstack/charms.openstack' 'openstack/charm-manila'
+ 'openstack/charm-aodh' 'openstack/charm-designate']"
+['openstack/mistral-extra' 'openstack/mistral' 'openstack/tripleo-common']
+"['openstack/contributor-guide' 'openstack/cookiecutter'
+ 'openstack/project-config']"
+['openstack/cookiecutter' 'openstack/governance']
+['openstack/faafo' 'openstack/project-config']
+"['openstack/service-types-authority' 'openstack/project-config'
+ 'openstack/openstack-manuals' 'openstack/os-service-types']"
+"['openstack/python-swiftclient' 'openstack/releases' 'openstack/devstack'
+ 'openstack/project-config' 'openstack/glance_store' 'openstack/shade']"
+['openstack/xstatic-angular-gettext' 'openstack/horizon']
+['openstack/xstatic-angular-bootstrap' 'openstack/horizon']
+"['openstack/openstack-planet' 'openstack/tripleo-quickstart'
+ 'openstack/project-config']"
+['openstack/pycadf' 'openstack/puppet-swift' 'openstack/keystone']
+"['openstack/charm-interface-dashboard-plugin'
+ 'openstack/charm-octavia-dashboard']"
+['openstack/charm-openstack-dashboard' 'openstack/charm-octavia-dashboard']
+"['openstack/charm-percona-cluster'
+ 'openstack/charm-interface-mysql-shared'
+ 'openstack/charm-nova-cloud-controller' 'openstack/charm-neutron-api'
+ 'openstack/charm-keystone' 'openstack/charm-openstack-dashboard'
+ 'openstack/charm-heat' 'openstack/charm-cinder' 'openstack/charm-glance']"
+['openstack/governance-uc' 'openstack/project-config']
+"['openstack/tripleo-docs' 'openstack/tripleo-heat-templates'
+ 'openstack/python-tripleoclient' 'openstack/tripleo-ci']"
+"['openstack/monasca-ui' 'openstack/monasca-log-api'
+ 'openstack/monasca-api' 'openstack/project-config']"
+['openstack/shotgun' 'openstack/project-config' 'openstack/fuel-astute']
+"['openstack/fuel-library' 'openstack/fuel-web' 'openstack/puppet-neutron'
+ 'openstack/fuel-main' 'openstack/fuel-menu' 'openstack/puppet-aodh'
+ 'openstack/fuel-ostf' 'openstack/fuel-upgrade' 'openstack/project-config']"
+"['openstack/fuel-web' 'openstack/fuel-nailgun-extension-cluster-upgrade'
+ 'openstack/fuel-ui' 'openstack/python-fuelclient'
+ 'openstack/project-config' 'openstack/fuel-library' 'openstack/fuel-menu'
+ 'openstack/fuel-octane' 'openstack/fuel-qa' 'openstack/fuel-agent'
+ 'openstack/shotgun' 'openstack/fuel-main' 'openstack/fuel-astute']"
+['openstack/charm-swift-storage' 'openstack/charm-swift-proxy']
+"['openstack/cookbook-openstack-block-storage' 'openstack/openstack-chef'
+ 'openstack/cookbook-openstack-compute'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/openstack-chef-repo']"
+"['openstack/cookbook-openstack-dashboard' 'openstack/openstack-chef'
+ 'openstack/cookbook-openstack-identity' 'openstack/openstack-chef-repo'
+ 'openstack/cookbook-openstack-common']"
+['openstack/neutron-interconnection' 'openstack/project-config']
+"['openstack/solum' 'openstack/heat' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config' 'openstack/solum-dashboard'
+ 'openstack/python-solumclient' 'openstack/releases']"
+['openstack/heat-cfntools' 'openstack/rpm-packaging']
+"['openstack/python-heatclient' 'openstack/heat' 'openstack/tripleo-common'
+ 'openstack/project-config' 'openstack/heat-tempest-plugin'
+ 'openstack/heat-templates']"
+['openstack/charm-interface-placement' 'openstack/charm-placement']
+"['openstack/pymod2pkg' 'openstack/rpm-packaging' 'openstack/releases'
+ 'openstack/project-config']"
+"['openstack/openstack-specs' 'openstack/nova' 'openstack/api-sig'
+ 'openstack/requirements']"
+"['openstack/charm-interface-neutron-plugin' 'openstack/charm-octavia'
+ 'openstack/charm-manila']"
+['openstack/puppet-watcher' 'openstack/puppet-openstack-integration']
+['openstack/charm-neutron-api-genericswitch' 'openstack/project-config']
+"['openstack/os-collect-config' 'openstack/heat' 'openstack/heat-templates'
+ 'openstack/tripleo-heat-templates' 'openstack/tripleo-image-elements']"
+['openstack/tosca-parser' 'openstack/tacker' 'openstack/heat-translator']
+['openstack/os-acc' 'openstack/project-config']
+['openstack/auto-scaling-sig' 'openstack/governance-sigs']
+"['openstack/ironic-specs' 'openstack/ironic' 'openstack/neutron'
+ 'openstack/ironic-python-agent' 'openstack/project-config'
+ 'openstack/nova-specs' 'openstack/governance'
+ 'openstack/python-ironicclient']"
+"['openstack/adjutant' 'openstack/openstack-manuals'
+ 'openstack/project-config']"
+['openstack/cloudkitty-specs' 'openstack/cloudkitty']
+"['openstack/trove-tempest-plugin' 'openstack/trove'
+ 'openstack/python-troveclient']"
+['openstack/arch-design' 'openstack/project-config']
+['openstack/operations-guide' 'openstack/project-config']
+"['openstack/ha-guide' 'openstack/project-config'
+ 'openstack/openstack-manuals']"
+"['openstack/murano' 'openstack/murano-tempest-plugin'
+ 'openstack/murano-dashboard' 'openstack/python-muranoclient'
+ 'openstack/puppet-murano' 'openstack/openstack-zuul-jobs'
+ 'openstack/governance' 'openstack/congress' 'openstack/project-config'
+ 'openstack/murano-agent' 'openstack/murano-apps'
+ 'openstack/murano-deployment' 'openstack/rally']"
+['openstack/charm-interface-ceph-mds' 'openstack/charm-ceph-fs']
+"['openstack/training-guides' 'openstack/openstack-manuals'
+ 'openstack/project-config']"
+"['openstack/puppet-qdr' 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-tripleo' 'openstack/puppet-openstack-integration']"
+['openstack/puppet-tacker' 'openstack/puppet-tripleo']
+"['openstack/puppet-crane' 'openstack/governance'
+ 'openstack/project-config']"
+"['openstack/openstack-doc-tools' 'openstack/releases'
+ 'openstack/requirements' 'openstack/openstack-manuals'
+ 'openstack/project-config']"
+"['openstack/api-site' 'openstack/openstack-manuals'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config'
+ 'openstack/nova']"
+"['openstack/docs-specs' 'openstack/project-config' 'openstack/governance'
+ 'openstack/manila' 'openstack/python-manilaclient' 'openstack/manila-ui'
+ 'openstack/manila-image-elements' 'openstack/cinder' 'openstack/swift'
+ 'openstack/oslotest' 'openstack/zun' 'openstack/mistral'
+ 'openstack/installguide-cookiecutter' 'openstack/magnum'
+ 'openstack/os-testr' 'openstack/cookiecutter' 'openstack/oslo.cache'
+ 'openstack/mistral-specs' 'openstack/oslo.messaging'
+ 'openstack/python-watcherclient' 'openstack/vitrage' 'openstack/octavia'
+ 'openstack/oslo.reports' 'openstack/oslo.log'
+ 'openstack/openstack-manuals' 'openstack/trove' 'openstack/oslo.db'
+ 'openstack/oslo.middleware' 'openstack/cliff'
+ 'openstack/python-glanceclient' 'openstack/glance'
+ 'openstack/python-solumclient' 'openstack/oslo.config'
+ 'openstack/coverage2sql' 'openstack/osc-lib'
+ 'openstack/puppet-openstack-guide' 'openstack/pbr'
+ 'openstack/os-client-config' 'openstack/horizon' 'openstack/keystone'
+ 'openstack/python-openstackclient']"
+['openstack/charm-ceph' 'openstack/project-config']
+"['openstack/cookbook-openstack-bare-metal'
+ 'openstack/cookbook-openstackclient'
+ 'openstack/cookbook-openstack-common'
+ 'openstack/cookbook-openstack-identity' 'openstack/openstack-chef'
+ 'openstack/governance' 'openstack/project-config']"
+['openstack/openstack-ansible-os_monasca-agent' 'openstack/project-config']
+['openstack/openstack-ansible-os_molteniron' 'openstack/project-config']
+['openstack/openstack-ansible-os_searchlight' 'openstack/project-config']
+['openstack/openstack-ansible-os_almanach' 'openstack/project-config']
+['openstack/openstack-ansible-os_zaqar' 'openstack/project-config']
+['openstack/openstack-ansible-os_watcher' 'openstack/project-config']
+['openstack/openstack-ansible-os_monasca' 'openstack/project-config']
+"['openstack/python-vitrageclient' 'openstack/vitrage'
+ 'openstack/vitrage-tempest-plugin']"
+['openstack-infra/opendev-website' 'openstack/project-config']
+['openstack/ansible-role-k8s-cinder' 'openstack/project-config']
+['openstack/ansible-role-k8s-cookiecutter' 'openstack/project-config']
+"['openstack/ansible-role-k8s-glance' 'openstack/project-config'
+ 'openstack/ansible-role-k8s-mariadb' 'openstack/ansible-role-k8s-tripleo']"
+"['openstack/ansible-role-k8s-keystone' 'openstack/project-config'
+ 'openstack/ansible-role-k8s-mariadb']"
+"['openstack/ansible-role-k8s-mariadb' 'openstack/project-config'
+ 'openstack/ansible-role-k8s-keystone']"
+['openstack/ansible-role-k8s-rabbitmq' 'openstack/project-config']
+"['openstack/ansible-role-k8s-tripleo' 'openstack/project-config'
+ 'openstack/ansible-role-k8s-mariadb' 'openstack/ansible-role-k8s-glance']"
+"['openstack/watcher-tempest-plugin' 'openstack/watcher'
+ 'openstack/tempest']"
+"['openstack/puppet-tempest' 'openstack/puppet-openstack-integration'
+ 'openstack/puppet-glance' 'openstack/puppet-neutron' 'openstack/releases'
+ 'openstack/puppet-keystone']"
+"['openstack/tripleo-ipsec' 'openstack/openstack-zuul-jobs'
+ 'openstack/tripleo-heat-templates']"
+"['openstack/os-service-types' 'openstack/releases'
+ 'openstack/keystoneauth' 'openstack/service-types-authority']"
+"['openstack/python-monascaclient' 'openstack/releases' 'openstack/heat'
+ 'openstack/monasca-api' 'openstack/monasca-ui' 'openstack/monasca-agent'
+ 'openstack/project-config' 'openstack/monasca-ceilometer']"
+"['openstack/openstack-zuul-roles' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+"['openstack/oslosphinx' 'openstack/governance' 'openstack/project-config'
+ 'openstack/keystoneauth']"
+['openstack/reviewstats' 'openstack/project-config']
+['openstack/charm-pacemaker-remote' 'openstack/charm-hacluster']
+"['openstack/charm-interface-pacemaker-remote'
+ 'openstack/charm-pacemaker-remote']"
+"['openstack/sphinx-feature-classification' 'openstack/cinder'
+ 'openstack/nova']"
+"['openstack/instack-undercloud' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-heat-templates'
+ 'openstack/puppet-openstack-integration' 'openstack/tripleo-docs'
+ 'openstack/puppet-tripleo' 'openstack/tripleo-quickstart'
+ 'openstack/tripleo-common' 'openstack/tripleo-ui'
+ 'openstack/python-mistralclient' 'openstack/project-config'
+ 'openstack/tripleo-ci' 'openstack/tripleo-quickstart-extras'
+ 'openstack/tripleo-validations' 'openstack/puppet-ironic'
+ 'openstack/diskimage-builder' 'openstack/puppet-neutron'
+ 'openstack/os-cloud-config']"
+"['openstack/charm-hacluster' 'openstack/charm-nova-cloud-controller'
+ 'openstack/charm-neutron-api']"
+['openstack/openstack-ansible-os_blazar' 'openstack/openstack-ansible']
+['openstack/openstack-ansible-os_mistral' 'openstack/openstack-ansible']
+['openstack/openstack-ansible-os_masakari' 'openstack/openstack-ansible']
+['openstack/oslo.limit' 'openstack/nova']
+"['openstack/ldappool' 'openstack/keystone' 'openstack/releases'
+ 'openstack/project-config']"
+['openstack/python-masakariclient' 'openstack/masakari-dashboard']
+"['openstack/congress-tempest-plugin' 'openstack/congress'
+ 'openstack/tempest']"
+"['openstack/trove-integration' 'openstack/trove' 'openstack/devstack-gate'
+ 'openstack/project-config' 'openstack/devstack']"
+"['openstack/manila-image-elements' 'openstack/manila'
+ 'openstack/project-config']"
+"['openstack/python-saharaclient' 'openstack/sahara-tests'
+ 'openstack/sahara-dashboard' 'openstack/project-config'
+ 'openstack/sahara']"
+"['openstack/vitrage' 'openstack/python-vitrageclient'
+ 'openstack/vitrage-tempest-plugin' 'openstack/vitrage-dashboard'
+ 'openstack/vitrage-specs' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+['openstack/cloudkitty-tempest-plugin' 'openstack/cloudkitty']
+"['openstack/tripleo-ui' 'openstack/tripleo-quickstart-extras'
+ 'openstack/tripleo-quickstart' 'openstack/releases'
+ 'openstack/puppet-tripleo' 'openstack/tripleo-common']"
+['openstack/charm-cinder-ceph' 'openstack/charm-deployment-guide']
+"['openstack/murano-deployment' 'openstack/project-config'
+ 'openstack/murano-dashboard']"
+['openstack/solum-tempest-plugin' 'openstack/solum']
+"['openstack/python-senlinclient' 'openstack/senlin-dashboard'
+ 'openstack/senlin' 'openstack/project-config']"
+"['openstack/heat-templates' 'openstack/tripleo-ci'
+ 'openstack/project-config' 'openstack/tripleo-heat-templates'
+ 'openstack/instack-undercloud' 'openstack/tripleo-common'
+ 'openstack/python-tripleoclient' 'openstack/app-catalog']"
+['openstack/devstack-plugin-kafka' 'openstack/oslo.messaging']
+"['openstack/python-keystoneclient' 'openstack/keystone'
+ 'openstack/keystonemiddleware' 'openstack/python-openstackclient'
+ 'openstack/heat' 'openstack/requirements' 'openstack/keystoneauth'
+ 'openstack/rpm-packaging' 'openstack/horizon' 'openstack/devstack'
+ 'openstack/project-config' 'openstack/python-novaclient']"
+"['openstack/openstack-ansible-os_monasca-ui' 'openstack/governance'
+ 'openstack/project-config']"
+"['openstack/freezer' 'openstack/openstack-zuul-jobs'
+ 'openstack/freezer-api' 'openstack/freezer-web-ui'
+ 'openstack/project-config']"
+"['openstack/freezer-api' 'openstack/openstack-zuul-jobs'
+ 'openstack/freezer' 'openstack/project-config'
+ 'openstack/python-freezerclient' 'openstack/freezer-web-ui']"
+"['openstack/release-test' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+['openstack/charm-ceph-osd' 'openstack/charm-ceph-mon']
+"['openstack/puppet-trove' 'openstack/puppet-oslo'
+ 'openstack/puppet-openstack-integration' 'openstack/puppet-keystone']"
+"['openstack/astara' 'openstack/project-config'
+ 'openstack/astara-appliance']"
+"['openstack/astara-appliance' 'openstack/project-config'
+ 'openstack/astara']"
+['openstack/astara-neutron' 'openstack/project-config' 'openstack/astara']
+['openstack/astara-horizon' 'openstack/project-config']
+['openstack/openstack-helm-addons' 'openstack/openstack-helm']
+['openstack/oslo.upgradecheck' 'openstack/designate']
+['openstack/monasca-events-api' 'openstack/monasca-persister']
+['openstack/manila-test-image' 'openstack/openstack-zuul-jobs']
+['openstack/microversion-parse' 'openstack/project-config']
+['openstack/fuxi-kubernetes' 'openstack/project-config']
+['openstack/fuxi-golang' 'openstack/project-config']
+['openstack/fuxi' 'openstack/project-config' 'openstack/requirements']
+"['openstack/python-troveclient' 'openstack/trove'
+ 'openstack/trove-tempest-plugin' 'openstack/project-config'
+ 'openstack/trove-integration']"
+['openstack/python-cloudkittyclient' 'openstack/cloudkitty-dashboard']
+['openstack/yaql' 'openstack/project-config']
+['openstack-infra/puppet-odsreg' 'openstack/project-config']
+['openstack/activity-board' 'openstack/project-config']
+['openstack-infra/beaker-localhost' 'openstack/project-config']
+['openstack-infra/beaker-nodepool' 'openstack/project-config']
+['openstack-infra/puppet-docker_registry' 'openstack/project-config']
+['openstack/releasestatus' 'openstack/project-config']
+['openstack-infra/vinz-webclient' 'openstack/project-config']
+['openstack/zuul-packaging' 'openstack/project-config']
+"['openstack/rst2bash' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+"['openstack/python-muranoclient' 'openstack/project-config'
+ 'openstack/murano-dashboard' 'openstack/murano' 'openstack/murano-agent']"
+"['openstack/osprofiler' 'openstack/horizon' 'openstack/osc-lib'
+ 'openstack/ceilometer' 'openstack/cinder' 'openstack/heat'
+ 'openstack/neutron' 'openstack/keystone' 'openstack/oslo.db']"
+['openstack/cloudkitty-dashboard' 'openstack/project-config']
+"['openstack/openstack-chef-repo' 'openstack/cookbook-openstack-common'
+ 'openstack/cookbook-openstack-image'
+ 'openstack/cookbook-openstack-identity' 'openstack/project-config'
+ 'openstack/cookbook-openstack-compute'
+ 'openstack/cookbook-openstack-integration-test'
+ 'openstack/cookbook-openstack-dashboard']"
+['openstack/whereto' 'openstack/project-config']
+"['openstack/release-tools' 'openstack/project-config' 'openstack/releases'
+ 'openstack/oslo-incubator']"
+"['openstack/python-zunclient' 'openstack/zun' 'openstack/zun-ui'
+ 'openstack/openstack-zuul-jobs' 'openstack/project-config'
+ 'openstack/requirements']"
+"['openstack/cookbook-openstack-telemetry'
+ 'openstack/cookbook-openstack-identity' 'openstack/openstack-chef-repo']"
+"['openstack/os-api-ref' 'openstack/project-config'
+ 'openstack/openstackdocstheme' 'openstack/designate']"
+"['openstack/reno' 'openstack/project-config' 'openstack/ironic'
+ 'openstack/pbr']"
+['openstack/heat-dashboard' 'openstack/horizon']
+"['openstack/watcher-dashboard' 'openstack/horizon'
+ 'openstack/project-config']"
+['openstack/kolla-kubernetes' 'openstack/project-config']
+"['openstack/python-blazarclient' 'openstack/blazar-dashboard'
+ 'openstack/blazar-nova' 'openstack/blazar']"
+['openstack/self-healing-sig' 'openstack/project-config']
+['openstack/charm-interface-bgp' 'openstack/charm-neutron-dynamic-routing']
+['openstack/heat-translator' 'openstack/tacker' 'openstack/project-config']
+"['openstack/tripleo-incubator' 'openstack/project-config'
+ 'openstack/instack-undercloud' 'openstack/tripleo-docs' 'openstack/heat'
+ 'openstack/os-cloud-config' 'openstack/tripleo-ci'
+ 'openstack/tripleo-heat-templates']"
+['openstack/blazar-nova' 'openstack/blazar' 'openstack/requirements']
+['openstack/goal-tools' 'openstack/project-config']
+['openstack/oslo.concurrency' 'openstack/project-config']
+"['openstack/charm-interface-hacluster' 'openstack/charm-vault'
+ 'openstack/charm-gnocchi' 'openstack/charms.openstack'
+ 'openstack/charm-designate' 'openstack/charm-layer-openstack-api']"
+['openstack/manila-ui' 'openstack/project-config' 'openstack/requirements']
+['openstack/tacker-specs' 'openstack/project-config']
+['openstack/sahara-image-elements' 'openstack/sahara-tests']
+['openstack/osc-placement' 'openstack/project-config']
+['openstack/cue' 'openstack/project-config' 'openstack/python-cueclient']
+['openstack/cue-dashboard' 'openstack/project-config']
+['openstack/python-cueclient' 'openstack/project-config']
+"['openstack/python-freezerclient' 'openstack/freezer-api'
+ 'openstack/freezer']"
+"['openstack/python-magnumclient' 'openstack/magnum' 'openstack/magnum-ui'
+ 'openstack/heat' 'openstack/project-config']"
+"['openstack/blazar-dashboard' 'openstack/project-config'
+ 'openstack/blazar']"
+"['openstack/openstack-ansible-ops' 'openstack/openstack-ansible-os_nova'
+ 'openstack/openstack-ansible-os_cinder' 'openstack/openstack-ansible']"
+['openstack/puppet-glare' 'openstack/instack-undercloud']
+"['openstack/ec2-api' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+['openstack/networking-baremetal' 'openstack/ironic']
+['openstack/oslo-cookiecutter' 'openstack/project-config']
+"['openstack/oslo.serialization' 'openstack/requirements'
+ 'openstack/oslo.messaging']"
+"['openstack/monasca-log-api' 'openstack/governance'
+ 'openstack/project-config' 'openstack/monasca-kibana-plugin']"
+"['openstack/networking-calico' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config' 'openstack/neutron']"
+['openstack/mox3' 'openstack/requirements']
+"['openstack/python-tackerclient' 'openstack/requirements'
+ 'openstack/tacker' 'openstack/tacker-horizon']"
+"['openstack/python-ceilometerclient' 'openstack/governance'
+ 'openstack/project-config' 'openstack/ceilometer']"
+['openstack/puppet-vitrage' 'openstack/puppet-openstack-integration']
+['openstack/manila-specs' 'openstack/project-config']
+"['openstack/murano-apps' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config' 'openstack/app-catalog']"
+"['openstack/storlets' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+['openstack/reviewday' 'openstack/tripleo-ci']
+"['openstack/dib-utils' 'openstack/diskimage-builder'
+ 'openstack/project-config']"
+"['openstack/freezer-web-ui' 'openstack/project-config'
+ 'openstack/openstack-zuul-jobs']"
+['openstack/app-catalog-ui' 'openstack/project-config']
+['openstack/app-catalog' 'openstack/project-config']
+['openstack/app-catalog-common' 'openstack/project-config']
+['openstack/python-appcatalogclient' 'openstack/project-config']
+"['openstack/octavia-dashboard' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+['openstack/i18n' 'openstack/project-config']
+"['openstack/python-congressclient' 'openstack/congress-dashboard'
+ 'openstack/project-config']"
+"['openstack/python-zaqarclient' 'openstack/heat'
+ 'openstack/os-collect-config' 'openstack/zaqar']"
+"['openstack/python-designateclient' 'openstack/project-config'
+ 'openstack/designate']"
+"['openstack/bandit' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+"['openstack/charm-interface-manila-plugin'
+ 'openstack/charm-manila-generic' 'openstack/charm-manila']"
+['openstack/kuryr' 'openstack/kuryr-libnetwork']
+['openstack/rpm-packaging' 'openstack/requirements']
+"['openstack/pyeclib' 'openstack/openstack-zuul-jobs'
+ 'openstack/project-config']"
+['openstack/charm-designate-bind' 'openstack/charm-designate']
+['openstack/devstack-plugin-amqp1' 'openstack/project-config']
+['openstack/python-ironic-inspector-client' 'openstack/project-config']
+"['openstack/dragonflow' 'openstack/openstack-zuul-jobs'
+ 'openstack/devstack' 'openstack/kuryr-kubernetes'
+ 'openstack/project-config']"
+['openstack/zun-ui' 'openstack/project-config']
+"['openstack/monasca-statsd' 'openstack/project-config'
+ 'openstack/monasca-notification' 'openstack/monasca-agent']"
+['openstack/python-fuelclient' 'openstack/fuel-web']
+['openstack/bashate' 'openstack/project-config']
+"['openstack/security-doc' 'openstack/openstack-zuul-jobs'
+ 'openstack/openstack-manuals']"
+['openstack/murano-agent' 'openstack/project-config' 'openstack/murano']
+"['openstack/murano-dashboard' 'openstack/project-config'
+ 'openstack/python-muranoclient' 'openstack/murano'
+ 'openstack/tripleo-quickstart' 'openstack/murano-apps']"
+['openstack/murano-pkg-check' 'openstack/project-config']
+['openstack/tacker-horizon' 'openstack/project-config' 'openstack/tacker']
+['openstack/monasca-specs' 'openstack/monasca-api']
+"['openstack/cookbook-openstack-application-catalog'
+ 'openstack/openstack-chef-repo']"
+"['openstack/openstack-ansible-security' 'openstack/project-config'
+ 'openstack/openstack-ansible-plugins' 'openstack/openstack-ansible']"
+"['openstack/puppet-murano' 'openstack/puppet-openstack-integration'
+ 'openstack/fuel-library']"
+"['openstack/python-watcherclient' 'openstack/project-config'
+ 'openstack/watcher-dashboard']"
+['openstack/oslo.reports' 'openstack/project-config' 'openstack/releases']
+['openstack/oslo.i18n' 'openstack/project-config' 'openstack/heat']
+['openstack/stevedore' 'openstack/project-config']
+['openstack/designate-dashboard' 'openstack/project-config']
+"['openstack/oslo.middleware' 'openstack/project-config'
+ 'openstack/gnocchi' 'openstack/devstack']"
+['openstack/neutron-vpnaas-dashboard' 'openstack/requirements']
+['openstack/coverage2sql' 'openstack/project-config']
+"['openstack/gnocchi' 'openstack/project-config' 'openstack/ceilometer'
+ 'openstack/python-gnocchiclient' 'openstack/tempest']"
+['openstack/ironic-inspector-specs' 'openstack/ironic-inspector']
+['openstack/python-gnocchiclient' 'openstack/project-config']
+['openstack/zaqar-ui' 'openstack/project-config']
+['openstack/magnum-ui' 'openstack/project-config' 'openstack/releases']
+['openstack/networking-powervm' 'openstack/requirements']
+['openstack/ceilometer-powervm' 'openstack/requirements']
+"['openstack/nova-powervm' 'openstack/requirements'
+ 'openstack/openstack-ansible']"
+"['openstack/instack' 'openstack/instack-undercloud'
+ 'openstack/diskimage-builder']"
+"['openstack/fuel-nailgun-agent' 'openstack/fuel-agent'
+ 'openstack/fuel-web']"
+"['openstack/fuel-agent' 'openstack/fuel-nailgun-agent'
+ 'openstack/fuel-web' 'openstack/fuel-library' 'openstack/fuel-qa'
+ 'openstack/fuel-main']"
+['openstack/tuning-box' 'openstack/project-config']
+['openstack/fuel-ostf' 'openstack/project-config' 'openstack/fuel-qa']
+['openstack/fuel-stats' 'openstack/project-config' 'openstack/fuel-web']
+['openstack/fuel-nailgun-extension-iac' 'openstack/project-config']
+"['openstack/fuel-nailgun-extension-converted-serializers'
+ 'openstack/project-config']"
+"['openstack/fuel-nailgun-extension-cluster-upgrade'
+ 'openstack/project-config' 'openstack/fuel-octane' 'openstack/fuel-web']"
+['openstack/molteniron' 'openstack/project-config']
+['openstack/salt-formula-heat' 'openstack/project-config']
+['openstack/salt-formula-glance' 'openstack/project-config']
+['openstack/salt-formula-cinder' 'openstack/project-config']
+['openstack/salt-formula-nova' 'openstack/project-config']
+['openstack/salt-formula-horizon' 'openstack/project-config']
+['openstack/salt-formula-kubernetes' 'openstack/project-config']
+['openstack/salt-formula-swift' 'openstack/project-config']
+['openstack/salt-formula-neutron' 'openstack/project-config']
+['openstack/salt-formula-keystone' 'openstack/project-config']
+['openstack/salt-formula-opencontrail' 'openstack/project-config']
+['openstack/salt-formula-ceilometer' 'openstack/project-config']
+['openstack/magnum-specs' 'openstack/magnum']
+['openstack/fairy-slipper' 'openstack/project-config']
+['openstack/mistral-dashboard' 'openstack/mistral']
+['openstack/solum-dashboard' 'openstack/solum']
+['openstack/python-keystoneclient-kerberos' 'openstack/project-config']
+['openstack/senlin-dashboard' 'openstack/senlin']
+"['openstack/cookbook-openstack-database' 'openstack/governance'
+ 'openstack/project-config']"
+"['openstack/cookbook-openstack-data-processing' 'openstack/governance'
+ 'openstack/project-config']"
+"['openstack/cookbook-openstack-object-storage' 'openstack/governance'
+ 'openstack/project-config']"
+"['openstack/os-cloud-config' 'openstack/python-tripleoclient'
+ 'openstack/tripleo-common' 'openstack/tripleo-heat-templates'
+ 'openstack/tripleo-incubator']"
+['openstack/puppet-cloudkitty' 'openstack/puppet-horizon']
+['openstack/renderspec' 'openstack/project-config']
+['openstack/fuel-ui' 'openstack/fuel-web']
+['openstack/python-solumclient' 'openstack/project-config']
+['openstack/keystoneauth-saml2' 'openstack/project-config']
+['openstack/fuel-octane' 'openstack/project-config']
+"['openstack/fuel-astute' 'openstack/fuel-web' 'openstack/fuel-qa'
+ 'openstack/fuel-plugins' 'openstack/fuel-library']"
+['openstack/oslo.rootwrap' 'openstack/devstack']
+['openstack/oslo.vmware' 'openstack/project-config' 'openstack/nova']
+"['openstack/fuel-main' 'openstack/fuel-library' 'openstack/fuel-web'
+ 'openstack/fuel-menu' 'openstack/fuel-agent' 'openstack/fuel-astute'
+ 'openstack/fuel-qa' 'openstack/shotgun']"
+['openstack/fuel-menu' 'openstack/fuel-library' 'openstack/fuel-agent']
+['openstack/python-brick-cinderclient-ext' 'openstack/project-config']
+['openstack/deb-openstack-pkg-tools' 'openstack/project-config']
+['openstack/trove-dashboard' 'openstack/project-config']
+['openstack/sahara-specs' 'openstack/sahara']
+['openstack/fuel-virtualbox' 'openstack/fuel-library']
+['openstack/trove-specs' 'openstack/trove' 'openstack/trove-integration']
+['openstack/fuel-devops' 'openstack/project-config' 'openstack/fuel-qa']
+['openstack/fuel-docs' 'openstack/project-config']
+['openstack/fuel-qa' 'openstack/fuel-web' 'openstack/fuel-main']
+['openstack/heat-specs' 'openstack/heat' 'openstack/project-config']
+['openstack/designate-specs' 'openstack/designate']
+['openstack/futurist' 'openstack/ironic']
+"['openstack/networking-ofagent' 'openstack/project-config'
+ 'openstack/neutron']"
+['openstack/qa-specs' 'openstack/project-config']
+['openstack/horizon-cisco-ui' 'openstack/project-config']
+['openstack/cookbook-openstack-client' 'openstack/openstack-chef-repo']
+['openstack/xstatic-jasmine' 'openstack/horizon']
+['openstack/os-apply-config' 'openstack/tripleo-image-elements']

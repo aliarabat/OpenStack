@@ -84,6 +84,8 @@ def combine_openstack_data():
 
 if __name__ == "__main__":
 
+    print("Script openstack-data-cleaning.py started...")
+
     start_date, start_header = hpr.generate_date("This script started at")
 
     df = combine_openstack_data()
@@ -97,3 +99,5 @@ if __name__ == "__main__":
     print(end_header)
 
     hpr.diff_dates(start_date, end_date)
+
+    print("Script openstack-data-cleaning.py ended\n")

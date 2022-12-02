@@ -39,6 +39,8 @@ def get_paths(df):
 
 if __name__ == "__main__":
 
+    print("Script openstack-evolution-generation.py started...")
+
     df_depends_on = pd.read_csv("../clean_openstack_evolution.csv")
 
     paths = get_paths(df_depends_on, "Source", "Target")
@@ -71,8 +73,11 @@ if __name__ == "__main__":
 
     co_evolution_repo_df = pd.DataFrame(data_repo_changes)
 
-    co_evolution_number_df.to_csv("../Files/co_evolution_number.csv", index=False)
+    co_evolution_number_df.to_csv("../Files/co_evolution_number.csv",
+                                  index=False)
     co_evolution_repo_df.to_csv("../Files/co_evolution_repo.csv", index=False)
 
     os_nodes.to_csv("../Files/os_nodes.csv", index=False)
     os_edges.to_csv("../Files/os_edges.csv", index=False)
+
+    print("Script openstack-evolution-generation.py ended\n")

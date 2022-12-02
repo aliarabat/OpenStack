@@ -60,6 +60,8 @@ def get_openstack_data(dir):
 
 if __name__ == "__main__":
 
+    print("Script openstack-data-cleaning.py started...")
+
     DIR = "%sData" % hpr.DIR
 
     if os.path.exists(DIR):
@@ -67,3 +69,5 @@ if __name__ == "__main__":
     os.makedirs(DIR, exist_ok=True)
 
     get_openstack_data(DIR)
+
+    print("Script openstack-data-cleaning.py ended\n")

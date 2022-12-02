@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 import json
-from pathlib import Path
 import os
 import shutil
 import helpers as hpr
@@ -209,6 +208,8 @@ def retrieve_changes(origin_df, index):
 
 if __name__ == "__main__":
 
+    print("Script openstack-data-transform.py started...")
+
     start_date, start_header = hpr.generate_date("This script started at")
 
     changes_dir = "%sChanges" % DIR
@@ -254,3 +255,5 @@ if __name__ == "__main__":
     print(end_header)
 
     hpr.diff_dates(start_date, end_date)
+
+    print("Script openstack-data-transform.py ended\n")

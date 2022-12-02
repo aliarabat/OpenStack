@@ -62,14 +62,24 @@ def generate_os_evolution_data(df):
 
     df_depends_on = df_depends_on.loc[:, evolution_columns]
 
-    df_depends_on.to_csv("../Files/openstack_evolution.csv", index=False)
+    df_depends_on = df_depends_on.dropna()
+
+    df_depends_on = df_depends_on.drop_duplicates().reset_index(drop=True)
+
+    df_depends_on = df_depends_on[
+        df_depends_on["Source_repo"] != df_depends_on["Target_repo"]]
+
+    df_depends_on["Source"] = df_depends_on[["Source"]].astype(int)
+    df_depends_on["Target"] = df_depends_on[["Target"]].astype(int)
+
+    df_depends_on.to_csv("../Files/clean_openstack_evolution.csv", index=False)
 
 
 def combine_openstack_data():
     '''Combine generated csv files into a single DataFrame object
     '''
     df = pd.DataFrame([])
-    data_path = "Data/"
+    data_path = "Changes/"
     changes_file_names = hpr.list_file(data_path)
     for i in range(len(changes_file_names)):
         df_per_file = pd.read_csv("%schanges_data_%d.csv" % (data_path, i))

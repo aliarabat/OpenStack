@@ -1,8 +1,8 @@
 from datetime import datetime
 import os
 
-# DIR = "E:/PhD/Projects/Openstack/"
-DIR = "/home/as98450/OpenStack/"
+DIR = "E:/PhD/Projects/Openstack/"
+# DIR = "/home/as98450/OpenStack/"
 
 def convert(seconds):
     """Convert seconds in the following format
@@ -41,3 +41,10 @@ def list_file(directory):
     """
     files = [f for f in os.listdir(directory)]
     return files
+
+def flatten_list(array):
+    '''Flattens array items
+    Example: [[1], [2, 3], [4]] becomes [1, 2, 3, 4]
+    '''
+    result = [item for sublist in array for item in sublist]
+    return result

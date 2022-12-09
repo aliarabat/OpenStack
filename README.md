@@ -36,3 +36,9 @@ There are two ways to run those scripts :
 ## Important Notice
 
 It is not suggested to run all the scripts at once, since it will too much time. Since the Data folder contains all files to play with you can go directly to the third step
+
+## Links
+
+- all_paths.csv : https://drive.google.com/file/d/1vZWYjYs45E__iwoBg9cFTI4f-COv1ZcQ/view?usp=sharing
+- extended_paths.csv : /Co-changes/Repo/extended_paths.csv
+- metrics.csv : /Co-changes/Repo/metrics.csv

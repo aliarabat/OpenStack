@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import commons as cms
 import helpers as hpr
 
 
@@ -11,13 +12,13 @@ def retrieve_depends_on(x):
     final_result = []
     for l in result:
         if re.search(r"Depends-On:\s[a-zA-Z0-9]+", l):
-            if l.startswith("Depends-On: https://review"):
+            if l.startswith("Depends-On: http://review") | l.startswith(
+                    "Depends-On: https://review"):
                 final_result.append(str(re.search(r"\d+", l)[0]))
-            elif re.search(r"^Depends-On:\s[^@:%._\\+~#?&//=]", l):
-                if l.find("https") != -1:
+            elif re.search(r"^Depends-On:\s[^@:%._\\+~#?&//=\\s]", l):
+                if l.find("http") != -1:
                     continue
-
-                final_result.append(l[12:])
+                final_result.append(l[12:].split(" ")[0])
     return final_result if len(final_result) != 0 else None
 
 
@@ -30,13 +31,16 @@ def build_depends_chain(row):
     obj["Target_repo"] = row["project"]
     row_src = None
     if depends_on.isnumeric():
-        row_src = df[df["number"] == int(depends_on)].head(1)
+        row_src = df[df["number"] == int(depends_on)]
     else:
-        row_src = df[df["change_id"] == depends_on].head(1)
+        row_src = df[df["change_id"] == depends_on]
 
     if len(row_src) != 0:
-        obj["Source"] = row_src["number"].tolist()[0]
-        obj["Source_repo"] = row_src["project"].tolist()[0]
+        source_numbers = hpr.flatten_list(row_src[["number"]].to_numpy())
+
+        source_numbers = list(dict.fromkeys(source_numbers))
+        obj["Source"] = source_numbers
+        obj["Source_repo"] = row_src["project"].head(1).tolist()[0]
 
     return obj
 
@@ -48,23 +52,23 @@ def generate_os_evolution_data(df):
     df_subset_columns = ["change_id", "project", "depends_on", "number"]
     evolution_columns = ["Source", "Target", "Source_repo", "Target_repo"]
 
+    df["depends_on"] = df["commit_message"].map(retrieve_depends_on)
+
     df = df.explode(column="depends_on").reset_index(drop=True)
 
-    df = df.drop_duplicates(subset=["change_id", "project", "depends_on"],
-                            keep="first")
-
-    df_subset_dep = df.loc[df["depends_on"].isnull() == False,
+    df_depends_on = df.loc[df["depends_on"].isnull() == False,
                            df_subset_columns].copy()
 
-    df_depends_on = df_subset_dep.apply(build_depends_chain, axis=1)
+    df_depends_on = df_depends_on.apply(build_depends_chain, axis=1)
 
     df_depends_on = pd.json_normalize(data=df_depends_on, errors="ignore")
 
-    df_depends_on = df_depends_on.loc[:, evolution_columns]
-
     df_depends_on = df_depends_on.dropna()
 
-    df_depends_on = df_depends_on.drop_duplicates().reset_index(drop=True)
+    df_depends_on = df_depends_on.explode(column="Source").reset_index(
+        drop=True)
+
+    df_depends_on = df_depends_on.loc[:, evolution_columns]
 
     df_depends_on = df_depends_on[
         df_depends_on["Source_repo"] != df_depends_on["Target_repo"]]
@@ -75,30 +79,13 @@ def generate_os_evolution_data(df):
     df_depends_on.to_csv("../Files/clean_openstack_evolution.csv", index=False)
 
 
-def combine_openstack_data():
-    '''Combine generated csv files into a single DataFrame object
-    '''
-    df = pd.DataFrame([])
-    data_path = "Changes/"
-    changes_file_names = hpr.list_file(data_path)
-    for i in range(len(changes_file_names)):
-        df_per_file = pd.read_csv("%schanges_data_%d.csv" % (data_path, i))
-        df = pd.concat((df, df_per_file))
-
-    df = df.sort_values(by="updated", ascending=False).reset_index(drop=True)
-
-    df["depends_on"] = df["commit_message"].map(retrieve_depends_on)
-
-    return df
-
-
 if __name__ == "__main__":
 
     print("Script openstack-data-cleaning.py started...")
 
     start_date, start_header = hpr.generate_date("This script started at")
 
-    df = combine_openstack_data()
+    df = cms.combine_openstack_data()
 
     generate_os_evolution_data(df)
 

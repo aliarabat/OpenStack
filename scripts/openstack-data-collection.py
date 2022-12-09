@@ -14,8 +14,6 @@ def get_openstack_data(dir):
     size = 500
     page = 0
 
-    start_date, start_header = hpr.generate_date("This script started at")
-
     while (not is_done):
 
         params = {'O': 97, 'n': size, 'S': page * size}
@@ -49,18 +47,12 @@ def get_openstack_data(dir):
         else:
             is_done = not is_done
 
-    end_date, end_header = hpr.generate_date("This script ended at")
-
-    print(start_header)
-
-    print(end_header)
-
-    hpr.diff_dates(start_date, end_date)
-
 
 if __name__ == "__main__":
 
     print("Script openstack-data-cleaning.py started...")
+
+    start_date, start_header = hpr.generate_date("This script started at")
 
     DIR = "%sData" % hpr.DIR
 
@@ -69,5 +61,13 @@ if __name__ == "__main__":
     os.makedirs(DIR, exist_ok=True)
 
     get_openstack_data(DIR)
+
+    end_date, end_header = hpr.generate_date("This script ended at")
+
+    print(start_header)
+
+    print(end_header)
+
+    hpr.diff_dates(start_date, end_date)
 
     print("Script openstack-data-cleaning.py ended\n")

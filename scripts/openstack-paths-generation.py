@@ -1,16 +1,21 @@
 import pandas as pd
 import networkx as nx
-import os
+import numpy as np
 from itertools import chain, product, starmap
 from functools import partial
+import helpers as hpr
 from commons import combine_openstack_data
 
 
 def retrieve_project_numbers(x):
+    '''Retrieve number associated with each project
+    '''
     return x["number"].values
 
 
 def remove_single_components(arr):
+    '''Remove lines with only one number
+    '''
     result = []
     for item in arr:
         if len(dict.fromkeys(item)) > 1:
@@ -20,10 +25,9 @@ def remove_single_components(arr):
 
 
 def get_paths(df):
-    graph = nx.from_pandas_edgelist(df=df,
-                                    source="Source",
-                                    target="Target",
-                                    create_using=nx.DiGraph)
+    '''Get all possible paths of depends_on variable, regarding the Source and Target columns
+    '''
+    graph = nx.from_pandas_edgelist(df=df, source="Source", target="Target", create_using=nx.DiGraph)
 
     roots = (node for node, d in graph.in_degree if d == 0)
 
@@ -31,13 +35,14 @@ def get_paths(df):
 
     all_paths = partial(nx.all_simple_paths, graph)
 
-    paths = list(
-        chain.from_iterable(starmap(all_paths, product(roots, leaves))))
+    paths = list(chain.from_iterable(starmap(all_paths, product(roots, leaves))))
 
     return paths
 
 
 def build_related_bug_paths(df):
+    '''Extend initial path with related-bug numbers
+    '''
     df_main_related_bug = df[df["related_bug"].isnull() == False].copy()
 
     df_main_related_bug["related_bug"] = df_main_related_bug[[
@@ -55,7 +60,8 @@ def build_related_bug_paths(df):
 
 
 def build_other_paths(df, property):
-
+    '''Extend initial path with other paths, namely topic, subject and change-id
+    '''
     df_main_topic = df[df[property].isnull() == False].copy()
 
     df_topic_subset = df_main_topic[[
@@ -68,6 +74,8 @@ def build_other_paths(df, property):
 
 
 def combine_co_changes_number(main_path, other_paths):
+    '''Combine lines with common numbers
+    '''
     result = main_path.copy()
 
     for other_arr in other_paths:
@@ -95,43 +103,28 @@ if __name__ == "__main__":
 
     df = combine_openstack_data()
 
-    df_depends_on = pd.read_csv("../Files/clean_openstack_evolution.csv")
+    df_depends_on = pd.read_csv("%s/Files/source_target_evolution.csv" % hpr.DIR)
 
-    paths = get_paths(df_depends_on)
+    paths = get_paths(df_depends_on, "Source", "Target")
 
     related_bug_number_changes = build_related_bug_paths(df)
     topic_number_changes = build_other_paths(df, "topic")
     subject_number_changes = build_other_paths(df, "subject")
     change_id_number_changes = build_other_paths(df, "change_id")
 
-    result_number_changes = combine_co_changes_number(
-        paths, [related_bug_number_changes])
+    result_number_changes = combine_co_changes_number(paths, [related_bug_number_changes])
 
-    result_number_changes = combine_co_changes_number(result_number_changes,
-                                                      [topic_number_changes])
+    result_number_changes = combine_co_changes_number(result_number_changes, [topic_number_changes])
 
-    result_number_changes = combine_co_changes_number(result_number_changes,
-                                                      [subject_number_changes])
-    result_number_changes = combine_co_changes_number(
-        result_number_changes, [change_id_number_changes])
+    result_number_changes = combine_co_changes_number(result_number_changes, [subject_number_changes])
+    
+    result_number_changes = combine_co_changes_number(result_number_changes, [change_id_number_changes])
 
-    pd.DataFrame({
-        "Path": paths
-    }).to_csv("../Co-changes/Number/depends_on.csv", index=False)
-    pd.DataFrame({
-        "Path": related_bug_number_changes
-    }).to_csv("../Co-changes/Number/related_bug.csv", index=False)
-    pd.DataFrame({
-        "Path": topic_number_changes
-    }).to_csv("../Co-changes/Number/topic.csv", index=False)
-    pd.DataFrame({
-        "Path": subject_number_changes
-    }).to_csv("../Co-changes/Number/subject.csv", index=False)
-    pd.DataFrame({
-        "Path": change_id_number_changes
-    }).to_csv("../Co-changes/Number/change_id.csv", index=False)
-    pd.DataFrame({
-        "Path": result_number_changes
-    }).to_csv("../Co-changes/Number/all_paths.csv", index=False)
+    pd.DataFrame({"Path": paths}).to_csv("%sFiles/Number/depends_on.csv" % hpr.DIR, index=False)
+    pd.DataFrame({"Path": related_bug_number_changes}).to_csv("%sFiles/Number/related_bug.csv" % hpr.DIR, index=False)
+    pd.DataFrame({"Path": topic_number_changes}).to_csv("%sFiles/Number/topic.csv" % hpr.DIR, index=False)
+    pd.DataFrame({"Path": subject_number_changes}).to_csv("%sFiles/Number/subject.csv" % hpr.DIR, index=False)
+    pd.DataFrame({"Path": change_id_number_changes}).to_csv("%sFiles/Number/change_id.csv" % hpr.DIR, index=False)
+    pd.DataFrame({"Path": result_number_changes}).to_csv("%sFiles/Number/all_paths.csv" % hpr.DIR, index=False)
 
     print("Script openstack-paths-generation.py ended\n")

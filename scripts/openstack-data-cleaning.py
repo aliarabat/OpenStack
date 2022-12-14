@@ -129,7 +129,7 @@ def generate_os_evolution_data(df):
     # process combined dataframe
     df_depends_needed.drop_duplicates(subset=["Source", "Target"],inplace=True)
 
-    df_depends_needed = df_depends_needed[df_depends_needed["Source_repo"] != df_depends_needed["Target_repo"]]
+    df_depends_needed = df_depends_needed.loc[df_depends_needed["Source_repo"] != df_depends_needed["Target_repo"]]
 
     df_depends_needed["Source"] = df_depends_needed[["Source"]].astype(int)
     df_depends_needed["Target"] = df_depends_needed[["Target"]].astype(int)

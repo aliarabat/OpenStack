@@ -15,7 +15,7 @@ def retrieve_metrics():
     df = df["Path"].apply(ast.literal_eval).values.tolist()
 
     # Runing the Apriori algorithm and save itemsets and association rules
-    itemsets, rules = apriori(df, min_support=0.001, min_confidence=0.001)
+    itemsets, rules = apriori(df, min_support=0.0018, min_confidence=0.02, verbosity=0)
 
     # sort results by lift then confidence descending
     items = sorted(rules,

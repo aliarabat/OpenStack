@@ -1,4 +1,5 @@
 import pandas as pd
+import ast
 import helpers as hpr
 from commons import combine_openstack_data
 
@@ -53,29 +54,31 @@ if __name__ == "__main__":
 
     start_date, start_header = hpr.generate_date("This script started at")
 
+    DIR = hpr.DIR
+
     df = combine_openstack_data()
 
-    result_number_co_changes = pd.read_csv("%sExperiments/all_paths.csv" % hpr.DIR)
+    result_number_co_changes = pd.read_csv("%sExperiments/all_paths.csv" % DIR)
 
-    result_number_co_changes = result_number_co_changes["Path"].to_list()
+    result_number_co_changes = result_number_co_changes["Path"].apply(ast.literal_eval).values.tolist()
 
     result_number_co_changes = [list(item) for item in result_number_co_changes]
 
     all_paths_flattend = list(dict.fromkeys(hpr.flatten_list(result_number_co_changes)))
 
-    single_component_changes_number = df.loc[~df["number"].isin(all_paths_flattend), ["number"]].map(lambda x: [x]).tolist()
+    single_component_changes_number = df.loc[~df["number"].isin(all_paths_flattend), "number"].map(lambda x: [x]).tolist()
 
     extended_paths_number = result_number_co_changes + single_component_changes_number
 
     merged_number_paths = merge_numbers(extended_paths_number)
 
-    pd.DataFrame({ "Path": merged_number_paths }).to_csv("%sFiles/Number/extended_paths.csv" % hpr.DIR, index=False)
+    pd.DataFrame({ "Path": merged_number_paths }).to_csv("%sFiles/Number/extended_paths.csv" % DIR, index=False)
 
     print("Number/extended_paths.csv generated successfully")
 
     possible_path_repo = number_to_repo(merged_number_paths, df)
 
-    pd.DataFrame({ "Path": possible_path_repo }).to_csv("%sFiles/Repo/extended_paths.csv" % hpr.DIR, index=False)
+    pd.DataFrame({ "Path": possible_path_repo }).to_csv("%sFiles/Repo/extended_paths.csv" % DIR, index=False)
 
     print("Repo/extended_paths.csv generated successfully")
 

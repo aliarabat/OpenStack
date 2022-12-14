@@ -140,7 +140,7 @@ def retrieve_files(df, index):
     files_df = files_df.drop(columns=["files", "status", "old_path", "binary"],
                              errors="ignore")
 
-    file_path = "%sFiles/files_data_%d.csv" % (DIR, index)
+    file_path = "%sFilesOS/files_data_%d.csv" % (DIR, index)
     files_df.to_csv(file_path, index=False, encoding='utf-8')
 
 
@@ -172,7 +172,7 @@ def retrieve_changes(origin_df, index):
 
     df = origin_df[changes_columns]
 
-    df["discussion_messages_count"] = df["messages"].map(lambda x: len(x))
+    df["discussion_messages_count"] = df["messages"].copy().map(lambda x: len(x))
     df["reviewers"] = df["reviewers"].map(lambda x: x["REVIEWER"]
                                           if "REVIEWER" in x.keys() else [])
     df["reviewers_count"] = df["reviewers"].map(lambda x: len(x))
@@ -200,7 +200,7 @@ def retrieve_changes(origin_df, index):
     del changes_df["messages"]
     del changes_df["revisions"]
 
-    file_path = "%s/Changes/changes_data_%d.csv" % (DIR, index)
+    file_path = "%sChanges2/changes_data_%d.csv" % (DIR, index)
     changes_df.to_csv(file_path, index=False, encoding='utf-8')
 
     return df
@@ -212,10 +212,10 @@ if __name__ == "__main__":
 
     start_date, start_header = hpr.generate_date("This script started at")
 
-    changes_dir = "%sChanges" % DIR
+    changes_dir = "%sChanges2" % DIR
     reviewers_dir = "%sReviewers" % DIR
     messages_dir = "%sMessages" % DIR
-    files_dir = "%sFiles" % DIR
+    files_dir = "%sFilesOS" % DIR
 
     for dir in list([changes_dir, reviewers_dir, messages_dir, files_dir]):
         if os.path.exists(dir):

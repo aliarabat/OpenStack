@@ -19,7 +19,7 @@ def get_openstack_data(dir):
         params = {'O': 97, 'n': size, 'S': page * size}
 
         url = "https://review.opendev.org/changes/?q=repositories:{} after:{}&o={}&o={}&o={}&o={}".format(
-            "openstack", "2010-10-21", "CURRENT_FILES", "MESSAGES",
+            "openstack", "2022-05-01", "CURRENT_FILES", "MESSAGES",
             "CURRENT_COMMIT", "CURRENT_REVISION")
 
         change_response = requests.get(url, params=params)
@@ -53,7 +53,7 @@ if __name__ == "__main__":
 
     start_date, start_header = hpr.generate_date("This script started at")
 
-    DIR = "%sData" % hpr.DIR
+    DIR = "%sData/" % hpr.DIR
 
     if os.path.exists(DIR):
         shutil.rmtree(path=DIR)

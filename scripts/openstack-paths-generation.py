@@ -2,6 +2,8 @@ import pandas as pd
 import networkx as nx
 from itertools import chain, product,  starmap
 from functools import partial
+import os
+import shutil
 import re
 import helpers as hpr
 from commons import combine_openstack_data
@@ -108,9 +110,18 @@ if __name__ == "__main__":
 
     print("Script openstack-paths-generation.py started...")
 
+    start_date, start_header = hpr.generate_date("This script started at")
+
+    DIR = hpr.DIR
+    files_path = "%sFiles/" % DIR
+    for d in ["%sNumber" % (files_path), "%sRepo" % (files_path), "%sMetrics" % (files_path)]:
+        if not os.path.exists(d):
+            os.makedirs(d)
+        # shutil.rmtree(path=DIR)
+
     df = combine_openstack_data()
 
-    df_depends_needed = pd.read_csv("%s/Files/source_target_evolution.csv" % hpr.DIR)
+    df_depends_needed = pd.read_csv("%sFiles/source_target_evolution.csv" % DIR)
 
     paths = get_paths(df_depends_needed)
 
@@ -124,10 +135,18 @@ if __name__ == "__main__":
 
     result_number_changes = combine_co_changes_number(result_number_changes, change_id_number_changes)
 
-    pd.DataFrame({"Path": paths}).to_csv("%sFiles/Number/depends_needed.csv" % hpr.DIR, index=False)
-    pd.DataFrame({"Path": related_bug_number_changes}).to_csv("%sFiles/Number/related_bug.csv" % hpr.DIR, index=False)
-    pd.DataFrame({"Path": topic_number_changes}).to_csv("%sFiles/Number/topic.csv" % hpr.DIR, index=False)
-    pd.DataFrame({"Path": change_id_number_changes}).to_csv("%sFiles/Number/change_id.csv" % hpr.DIR, index=False)
-    pd.DataFrame({"Path": result_number_changes}).to_csv("%sExperiments/all_paths.csv" % hpr.DIR, index=False)
+    pd.DataFrame({"Path": paths}).to_csv("%sFiles/Number/depends_needed.csv" % DIR, index=False)
+    pd.DataFrame({"Path": related_bug_number_changes}).to_csv("%sFiles/Number/related_bug.csv" % DIR, index=False)
+    pd.DataFrame({"Path": topic_number_changes}).to_csv("%sFiles/Number/topic.csv" % DIR, index=False)
+    pd.DataFrame({"Path": change_id_number_changes}).to_csv("%sFiles/Number/change_id.csv" % DIR, index=False)
+    pd.DataFrame({"Path": result_number_changes}).to_csv("%sExperiments/all_paths.csv" % DIR, index=False)
+
+    end_date, end_header = hpr.generate_date("This script ended at")
+
+    print(start_header)
+
+    print(end_header)
+
+    hpr.diff_dates(start_date, end_date)
 
     print("Script openstack-paths-generation.py ended\n")

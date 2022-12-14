@@ -200,7 +200,7 @@ def retrieve_changes(origin_df, index):
     del changes_df["messages"]
     del changes_df["revisions"]
 
-    file_path = "%sChanges2/changes_data_%d.csv" % (DIR, index)
+    file_path = "%sChanges/changes_data_%d.csv" % (DIR, index)
     changes_df.to_csv(file_path, index=False, encoding='utf-8')
 
     return df
@@ -212,7 +212,7 @@ if __name__ == "__main__":
 
     start_date, start_header = hpr.generate_date("This script started at")
 
-    changes_dir = "%sChanges2" % DIR
+    changes_dir = "%sChanges" % DIR
     reviewers_dir = "%sReviewers" % DIR
     messages_dir = "%sMessages" % DIR
     files_dir = "%sFilesOS" % DIR

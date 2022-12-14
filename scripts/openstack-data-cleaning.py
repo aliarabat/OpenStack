@@ -1,8 +1,8 @@
 import pandas as pd
 import re
+import os
 import commons as cms
 import helpers as hpr
-
 
 def retrieve_depends_on(x):
     '''Extracts Depends-On values out of the commit message 
@@ -144,6 +144,12 @@ if __name__ == "__main__":
     print("Script openstack-data-cleaning.py started...")
 
     start_date, start_header = hpr.generate_date("This script started at")
+
+    DIR = hpr.DIR
+    files_path = "%sFiles/" % DIR
+    for d in ["%sNumber" % (files_path), "%sRepo" % (files_path), "%sMetrics" % (files_path)]:
+        if not os.path.exists(d):
+            os.makedirs(d)
 
     df = cms.combine_openstack_data()
 

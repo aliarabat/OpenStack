@@ -16,31 +16,33 @@ def number_to_repo(data, df):
     return result
 
 
-def combine_path_numbers(data):
-    '''Combine changes with common numbers
+def merge_numbers(data):
+    '''merge lines that mention at least one common number
     '''
     result = []
-    data = data.copy()
+    data_copy = data.copy()
     for i in range(len(data)):
         new_item = {}
+        not_to_add_indices = []
 
         if len(data[i]) == 0:
             continue
 
-        for j in range(1, len(data)):
-            if len(data[j]) == 0 or (data[i] == data[j]):
-                continue
+        for j in range(len(data_copy)):
 
-            check_any = any(item in data[i] for item in data[j])
-            if check_any == True:
-                new_item = {**new_item, **dict.fromkeys(data[i] + data[j])}
-                data[j] = []
-
+            check_any = any(item in data[i] for item in data_copy[j])
+            if check_any:
+                new_item = {**new_item, **dict.fromkeys(data[i] + data_copy[j])}
+                data_copy[j] = []
+                not_to_add_indices.append(j)
         if len(new_item) == 0:
+            print(new_item)
             result.append(data[i])
         else:
             result.append(list(new_item))
-        data[i] = []
+
+        for ntai in not_to_add_indices:
+            data[ntai] = []
 
     return result
 
@@ -53,9 +55,7 @@ if __name__ == "__main__":
 
     df = combine_openstack_data()
 
-    result_number_co_changes = pd.read_csv(
-        "%sFiles/Number/all_paths.csv" % hpr.DIR,
-        converters={'Path': pd.eval})
+    result_number_co_changes = pd.read_csv("%sExperiments/all_paths.csv" % hpr.DIR)
 
     result_number_co_changes = result_number_co_changes["Path"].to_list()
 
@@ -67,13 +67,13 @@ if __name__ == "__main__":
 
     extended_paths_number = result_number_co_changes + single_component_changes_number
 
-    combined_number_paths = combine_path_numbers(extended_paths_number)
+    merged_number_paths = merge_numbers(extended_paths_number)
 
-    pd.DataFrame({ "Path": combined_number_paths }).to_csv("%sFiles/Number/extended_paths.csv" % hpr.DIR, index=False)
+    pd.DataFrame({ "Path": merged_number_paths }).to_csv("%sFiles/Number/extended_paths.csv" % hpr.DIR, index=False)
 
     print("Number/extended_paths.csv generated successfully")
 
-    possible_path_repo = number_to_repo(combined_number_paths, df)
+    possible_path_repo = number_to_repo(merged_number_paths, df)
 
     pd.DataFrame({ "Path": possible_path_repo }).to_csv("%sFiles/Repo/extended_paths.csv" % hpr.DIR, index=False)
 

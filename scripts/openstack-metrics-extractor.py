@@ -3,61 +3,11 @@ from efficient_apriori import apriori  # for association analysis
 import ast
 import helpers as hpr
 
+
 def retrieve_metrics():
-    '''Calculate metrics for the Openstack generated paths
+    '''Metrics retrieval from generated association rules
     '''
-    metrics_list = {
-        "Repo_A": [],
-        "Repo_B": [],
-        "Support_A": [],
-        "Support_B": [],
-        "Support_A_B": [],
-        "Confidence_A_B": [],
-        "Confidence_B_A": [],
-        "Lift_A_B": [],
-        "Lift_B_A": []
-    }
-
-    for i in range(len(items)):
-        if i % 2 == 0:
-
-            item = items[i]
-            next_item = items[i + 1]
-            if item.lhs[0] == next_item.rhs[0] and item.rhs[0] == next_item.lhs[0]:
-                repo_a = item.lhs[0]
-                support_a = df.count([repo_a]) / transactions_length
-
-                repo_b = item.rhs[0]
-                support_b = df.count([repo_b]) / transactions_length
-
-                support_a_b = item.support
-
-                confidence_a_b = item.confidence
-                confidence_b_a = next_item.confidence
-
-                lift_a_b = item.lift
-                lift_b_a = next_item.lift
-
-                metrics_list.update({
-                    "Repo_A": metrics_list.get("Repo_A") + [repo_a],
-                    "Repo_B": metrics_list.get("Repo_B") + [repo_b],
-                    "Support_A": metrics_list.get("Support_A") + [support_a],
-                    "Support_B": metrics_list.get("Support_B") + [support_b],
-                    "Support_A_B": metrics_list.get("Support_A_B") + [support_a_b],
-                    "Confidence_A_B": metrics_list.get("Confidence_A_B") + [confidence_a_b],
-                    "Confidence_B_A": metrics_list.get("Confidence_B_A") + [confidence_b_a],
-                    "Lift_A_B": metrics_list.get("Lift_A_B") + [lift_a_b],
-                    "Lift_B_A": metrics_list.get("Lift_B_A") + [lift_b_a]
-                })
-
-    return metrics_list
-
-
-if __name__ == "__main__":
-
-    print("Script openstack-metrics-extractor.py started...")
-
-    start_date, start_header = hpr.generate_date("This script started at")
+    metrics = []
 
     # Ingest the data
     df = pd.read_csv("%sFiles/Repo/extended_paths.csv" % hpr.DIR)
@@ -68,16 +18,46 @@ if __name__ == "__main__":
     itemsets, rules = apriori(df, min_support=0.001, min_confidence=0.001)
 
     # sort results by lift then confidence descending
-    items = sorted(rules, key=lambda item: (item.lift, item.confidence), reverse=True)
+    items = sorted(rules,
+                   key=lambda item: (item.lift, item.confidence),
+                   reverse=True)
 
-    # length of all transactions
-    transactions_length = len(df)
+    for item in items:
+        new_metric = {
+            "antecedents": list(item.lhs),
+            "consequents": list(item.rhs),
+            "antecedent_support": count_support(df, list(item.lhs)),
+            "consequent_support": count_support(df, list(item.rhs)),
+            "support": item.support,
+            "confidence": item.confidence,
+            "lift": item.lift
+        }
 
-    # retrieve metrics
-    metrics_list = retrieve_metrics()
+        metrics.append(new_metric)
+
+    return metrics
+
+
+def count_support(data, search_item):
+    '''Count frequency distribution of search_item in data
+    '''
+    result = 0
+    for data_item in data:
+        if all(item in data_item for item in search_item):
+            result += 1
+    return result / len(data)
+
+
+if __name__ == "__main__":
+
+    print("Script openstack-metrics-extractor.py started...")
+
+    start_date, start_header = hpr.generate_date("This script started at")
+
+    metrics = retrieve_metrics()
 
     # Save data in a csv file
-    pd.DataFrame(metrics_list).to_csv("%sFiles/Repo/metrics.csv" % hpr.DIR, index=False)
+    pd.DataFrame(metrics).to_csv("%sFiles/Metrics/association_rules.csv" % hpr.DIR, index=False)
 
     print("/Files/Repo/metrics.csv generated successfully")
 

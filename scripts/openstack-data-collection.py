@@ -17,7 +17,6 @@ def get_openstack_data(dir):
     while (not is_done):
 
         params = {'O': 97, 'n': size, 'S': page * size}
-        # after should also be modified with your preferences
 
         url = "https://review.opendev.org/changes/?q=repositories:{} after:{}&o={}&o={}&o={}&o={}".format(
             "openstack", "2010-10-21", "CURRENT_FILES", "MESSAGES",

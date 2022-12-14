@@ -1,11 +1,6 @@
 import pandas as pd
-import re
+
 import helpers as hpr
-
-
-def retrieve_related_bug(x):
-    result = re.search(r"(Related-Bug:\s#\d+)", x)
-    return result[0][14:] if result else None
 
 
 def combine_openstack_data():
@@ -21,9 +16,5 @@ def combine_openstack_data():
     df = df.drop_duplicates(subset=["number"])
 
     df = df.sort_values(by="updated", ascending=False).reset_index(drop=True)
-
-    df["related_bug"] = df["commit_message"].map(retrieve_related_bug)
-
-    # df.to_csv("../Files/os_datasets.csv", index=False)
 
     return df

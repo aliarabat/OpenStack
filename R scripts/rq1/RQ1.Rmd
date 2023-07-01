@@ -1,0 +1,214 @@
+---
+title: "RQ1"
+author: "Ali Arabat"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library("scales")
+library(ggplot2)
+library(tidyverse)
+```
+
+
+```{r setup}
+RQ1_URL = "/Users/aliarabat/Documents/PhD/projects/openstack-evolution/RQs/RQ1/Files/"
+
+nbr_co_changes_repo <- read.csv(paste(RQ1_URL, "nbr_co_changes_repo.csv", sep=""))
+component_chains <- read.csv(paste(RQ1_URL, "component_chains.csv", sep=""))
+service_chains <- read.csv(paste(RQ1_URL, "service_chains.csv", sep=""))
+co_changes_services <- read.csv(paste(RQ1_URL, "co_changes_services.csv", sep=""))
+abandoned_cochanges <- read.csv(paste(RQ1_URL, "abandoned_cochanges.csv", sep=""))
+```
+
+### The main figures of RQ1
+
+```{r}
+p1_1<-component_chains %>%
+  # filter(nbr_component <= 10 & nbr_component > 1)%>%
+  ggplot(aes(x=length)) + 
+ geom_histogram(colour="grey10", fill=alpha(colour = "grey60", alpha = 0.2), bins = 100)+
+  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000, 10000))+
+theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 8, color = "grey50"),
+    axis.title = element_text(size = 10)
+  )+
+  # scale_x_continuous(breaks = c(1:10))+
+  labs(x = "# of components", y = "# of chains")
+
+p1_1
+```
+
+```{r}
+p1_2<-service_chains %>%
+  # filter(nbr_component <= 10 & nbr_component > 1)%>%
+  ggplot(aes(x=service_length)) + 
+ geom_histogram(colour="grey10", fill=alpha(colour = "grey60", alpha = 0.2), bins = 42)+
+  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
+theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 8, color = "grey50"),
+    axis.title = element_text(size = 10)
+  )+
+  # scale_x_continuous(breaks = c(1:10))+
+  labs(x = "# of services", y = "# of chains")
+
+p1_2
+```
+
+### The figures below are just draft work, hence not included in the analysis
+
+
+```{r}
+p1<-ggplot(data)+
+  geom_rect(aes(ymin = ymin, ymax = ymax, fill = Type, xmin = 2, xmax = 4))+
+  coord_polar(theta = "y", start = 1)+
+  theme_void()+
+  xlim(c(-1, 4))+
+  geom_text(aes(x = 3, y = perc, label = paste0(round(perc*100,1), "%")),
+            position = position_stack(vjust = 0.5), size = 4)+
+  scale_fill_brewer(palette="Set2")
+            
+p1
+```
+
+
+```{r}
+
+# p1_1 <- component_cochanges %>%
+#    mutate(nbr_component = log1p(nbr_component))%>%
+#   ggplot() + 
+#   geom_boxplot(aes(x = factor(0), y = nbr_component), outlier.shape = NA) +
+#    # scale_y_continuous(trans = "log1p", breaks = c(0,1,5, 10))+
+#   theme_linedraw() +
+#   theme(
+#     panel.grid.major = element_blank(),
+#     panel.grid.minor = element_blank(),
+#     panel.background = element_blank(),
+#     legend.position = "top",
+#     axis.line = element_line(colour = "black"),
+#     axis.text = element_text(size = 9, color = "grey30"),
+#     axis.title = element_text(size = 10)
+#   )+
+#   labs(x = "", y = "Developers' intersection") 
+# p1_1
+
+# p1 <-nbr_co_changes_repo %>% 
+#     mutate(component = fct_inorder(component)) %>%
+#  ggplot(aes(x=component, y=nbr)) +
+#   geom_bar(stat="identity", color = "black", position = "dodge", alpha=0.2) +
+#   geom_text(aes(label = nbr), vjust = -0.3, size = 3.5,
+#             position = position_dodge(0.5)) +
+#   theme_linedraw() +
+#   theme(
+#     panel.grid.major = element_blank(),
+#     panel.grid.minor = element_blank(),
+#     panel.background = element_blank(),
+# 
+#     axis.line = element_line(colour = "black"),
+#     axis.text = element_text(size = 10, color = "grey50"),
+#     # axis.line.x = element_line(angle = 45),
+#     axis.text.x = element_text(angle = 45, vjust = 0.65),
+#     axis.title = element_text(size = 13)
+#   )+
+#   labs(x = "# of components", y = "# of co-changes")+
+#   scale_y_continuous(labels = label_comma(), limits =  c(0, max(nbr_co_changes_repo$nbr)*1.1))
+# p1
+```
+
+
+```{r}
+# Compute percentages
+# co_changes_services$fraction <- round(co_changes_services$count * 100 / sum(co_changes_services$count), 2)
+
+# Make the plot
+# p2<-ggplot(data = co_changes_services, aes(x="", y=fraction, fill=Type)) +
+#   geom_col(width = 1.3, color = 1) + 
+#   coord_polar("y", start=0) +
+#   geom_text(aes(x=2, label=paste0(fraction, "%")),
+#             position = position_stack(vjust=0.6)) +
+#   theme(panel.background = element_blank(),
+#         axis.line = element_blank(),
+#         axis.text = element_blank(),
+#         axis.ticks = element_blank(),
+#         axis.title = element_blank(),
+#         plot.title = element_text(hjust = 0.5, size = 10)) +
+#   guides(fill = guide_legend(title = "Type")) +
+#   scale_fill_manual(values = c(alpha(colour = "red", alpha = 0.6),alpha(colour="#58D64B", alpha = 0.6),alpha(colour="#55C7FC", alpha = 0.6)))
+co_changes_services <- co_changes_services %>%
+  dplyr::mutate(perc = count/sum(count),
+                ymax = cumsum(perc),
+                ymin = ifelse(is.na(lag(ymax)), 0, lag(ymax)))
+
+# Make the plot
+
+p2<-ggplot(co_changes_services)+
+  geom_rect(aes(ymin = ymin, ymax = ymax, fill = Type, xmin = 2, xmax = 4))+
+  coord_polar(theta = "y", start = 1)+
+  theme_void()+
+  xlim(c(-1, 4))+
+  geom_text(aes(x = 3, y = perc, label = paste0(round(perc*100,1), "%")),
+            position = position_stack(vjust = 0.5), size = 3)+
+  scale_fill_brewer(palette="Set2")
+p2
+```
+
+```{r}
+# Compute percentages
+co_changes_status$fraction <- round(co_changes_status$Count * 100 / sum(co_changes_status$Count), 2)
+
+co_changes_status2 <- co_changes_status %>% 
+  mutate(csum = rev(cumsum(rev(fraction))), 
+         pos = fraction/2 + lead(csum, 1),
+         pos = if_else(is.na(pos), fraction/2, pos))
+
+# Make the plot
+p3<-ggplot(data = co_changes_status, aes(x="", y=fraction, fill=Status)) +
+  geom_col(color = "black") + 
+  coord_polar("y", start=0) +
+  geom_text(aes(x=1.6, label=paste0(fraction, "%")),
+            position = position_stack(vjust=0.5)) +
+  theme(panel.background = element_blank(),
+        axis.line = element_blank(),
+        axis.text = element_blank(),
+        axis.ticks = element_blank(),
+        axis.title = element_blank(),
+        plot.title = element_text(hjust = 0.5, size = 18)) +
+  scale_fill_manual(values = c(alpha(colour = "red", alpha = 0.6),alpha(colour="#58D64B", alpha = 0.6),alpha(colour="#55C7FC", alpha = 0.6)))
+p3
+```
+
+```{r}
+abandoned_cochanges <- abandoned_cochanges %>%
+  dplyr::mutate(perc = is_abandoned/sum(is_abandoned),
+                ymax = cumsum(perc),
+                ymin = ifelse(is.na(lag(ymax)), 0, lag(ymax)))
+
+# Make the plot
+
+p4<-ggplot(abandoned_cochanges)+
+  geom_rect(aes(ymin = ymin, ymax = ymax, fill = Cochanges, xmin = 2, xmax = 4))+
+  coord_polar(theta = "y", start = 1)+
+  theme_void()+
+  xlim(c(-1, 4))+
+  geom_text(aes(x = 3, y = perc, label = paste0(round(perc*100,1), "%")),
+            position = position_stack(vjust = 0.5), size = 4)+
+  guides(fill = guide_legend(title = "Co-changes")) +
+  scale_fill_brewer(palette="Set2")
+
+p4
+```
+

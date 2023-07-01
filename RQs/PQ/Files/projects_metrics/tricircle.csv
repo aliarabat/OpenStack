@@ -1,0 +1,901 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/tricircle,openstack/swift-specs,Core,3.9603960396039604,0.9950248756218906,4,3
+openstack/tricircle,openstack/swift-specs,Non core,0.0,0.4975124378109453,4,3
+openstack/tricircle,openstack/congress,Core,4.830917874396135,5.787781350482315,27,39
+openstack/tricircle,openstack/congress,Non core,8.212560386473431,6.752411575562702,27,39
+openstack/tricircle,openstack/congress-tempest-plugin,Core,4.301075268817205,4.605263157894736,8,13
+openstack/tricircle,openstack/congress-tempest-plugin,Non core,4.301075268817205,3.9473684210526314,8,13
+openstack/tricircle,openstack/python-congressclient,Core,7.6923076923076925,4.571428571428571,16,17
+openstack/tricircle,openstack/python-congressclient,Non core,5.982905982905983,5.142857142857142,16,17
+openstack/tricircle,openstack/congress-specs,Core,4.587155963302752,1.6666666666666667,7,7
+openstack/tricircle,openstack/congress-specs,Non core,1.834862385321101,2.2222222222222223,7,7
+openstack/tricircle,openstack/congress-dashboard,Core,3.0927835051546393,4.294478527607362,9,11
+openstack/tricircle,openstack/congress-dashboard,Non core,6.185567010309279,2.4539877300613497,9,11
+openstack/tricircle,openstack/syntribos,Core,4.807692307692308,0.5988023952095809,8,8
+openstack/tricircle,openstack/syntribos,Non core,2.8846153846153846,4.191616766467066,8,8
+openstack/tricircle,openstack/syntribos-payloads,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/syntribos-payloads,Non core,0.0,0.6896551724137931,1,1
+openstack/tricircle,openstack/syntribos-openstack-templates,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/syntribos-openstack-templates,Non core,0.0,0.6802721088435374,1,1
+openstack/tricircle,openstack/i18n-specs,Core,2.4390243902439024,0.6944444444444444,2,3
+openstack/tricircle,openstack/i18n-specs,Non core,0.0,1.3888888888888888,2,3
+openstack/tricircle,openstack/tempest-plugin-cookiecutter,Core,2.380952380952381,3.4246575342465753,2,6
+openstack/tricircle,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.684931506849315,2,6
+openstack/tricircle,openstack/devstack-plugin-cookiecutter,Core,2.4096385542168677,0.6993006993006993,2,2
+openstack/tricircle,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.6993006993006993,2,2
+openstack/tricircle,openstack/xstatic-graphlib,Core,0.0,0.7042253521126761,0,1
+openstack/tricircle,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/tricircle,openstack/openstack-ansible-repo_build,Core,3.8461538461538463,2.898550724637681,10,16
+openstack/tricircle,openstack/openstack-ansible-repo_build,Non core,3.8461538461538463,4.830917874396135,10,16
+openstack/tricircle,openstack/xstatic-bootstrap-datepicker,Core,2.2988505747126435,0.0,2,3
+openstack/tricircle,openstack/xstatic-bootstrap-datepicker,Non core,0.0,1.9607843137254901,2,3
+openstack/tricircle,openstack/xstatic-hogan,Core,2.4390243902439024,0.0,2,1
+openstack/tricircle,openstack/xstatic-hogan,Non core,0.0,0.6944444444444444,2,1
+openstack/tricircle,openstack/xstatic-jquery.quicksearch,Core,2.4390243902439024,0.0,2,1
+openstack/tricircle,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.6944444444444444,2,1
+openstack/tricircle,openstack/openstack-ansible-os_molteniron,Core,4.123711340206185,2.515723270440252,8,11
+openstack/tricircle,openstack/openstack-ansible-os_molteniron,Non core,4.123711340206185,4.40251572327044,8,11
+openstack/tricircle,openstack/xstatic-angular-lrdragndrop,Core,2.3255813953488373,0.6711409395973155,2,4
+openstack/tricircle,openstack/xstatic-angular-lrdragndrop,Non core,0.0,2.013422818791946,2,4
+openstack/tricircle,openstack/faafo,Core,5.747126436781609,0.6535947712418301,5,4
+openstack/tricircle,openstack/faafo,Non core,0.0,1.9607843137254901,5,4
+openstack/tricircle,openstack/xstatic-angular-bootstrap,Core,3.4090909090909087,0.6493506493506493,3,4
+openstack/tricircle,openstack/xstatic-angular-bootstrap,Non core,0.0,1.948051948051948,3,4
+openstack/tricircle,openstack/networking-calico,Core,5.714285714285714,3.867403314917127,10,16
+openstack/tricircle,openstack/networking-calico,Non core,3.8095238095238098,4.972375690607735,10,16
+openstack/tricircle,openstack/xstatic-angular-gettext,Core,2.3255813953488373,0.0,2,3
+openstack/tricircle,openstack/xstatic-angular-gettext,Non core,0.0,2.0,2,3
+openstack/tricircle,openstack/shotgun,Core,1.0,0.4761904761904762,1,3
+openstack/tricircle,openstack/shotgun,Non core,0.0,0.9523809523809524,1,3
+openstack/tricircle,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-aioeventlet,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/fuel-devops,Core,2.9197080291970803,0.3663003663003663,6,7
+openstack/tricircle,openstack/fuel-devops,Non core,1.4598540145985401,2.197802197802198,6,7
+openstack/tricircle,openstack/fuel-plugin-murano,Core,2.1739130434782608,0.6024096385542169,2,3
+openstack/tricircle,openstack/fuel-plugin-murano,Non core,0.0,1.2048192771084338,2,3
+openstack/tricircle,openstack/fuel-web,Core,1.7543859649122806,0.3883495145631068,7,14
+openstack/tricircle,openstack/fuel-web,Non core,0.7017543859649122,2.3300970873786406,7,14
+openstack/tricircle,openstack/fuel-plugins,Core,4.132231404958678,0.425531914893617,6,5
+openstack/tricircle,openstack/fuel-plugins,Non core,0.8264462809917356,1.702127659574468,6,5
+openstack/tricircle,openstack/fuel-virtualbox,Core,2.247191011235955,0.628930817610063,2,2
+openstack/tricircle,openstack/fuel-virtualbox,Non core,0.0,0.628930817610063,2,2
+openstack/tricircle,openstack/fuel-ostf,Core,2.8735632183908044,0.5813953488372093,5,7
+openstack/tricircle,openstack/fuel-ostf,Non core,0.0,1.4534883720930232,5,7
+openstack/tricircle,openstack/fuel-qa,Core,2.0,0.2688172043010753,5,12
+openstack/tricircle,openstack/fuel-qa,Non core,0.5,2.956989247311828,5,12
+openstack/tricircle,openstack/fuel-specs,Core,3.3707865168539324,0.46403712296983757,6,6
+openstack/tricircle,openstack/fuel-specs,Non core,0.0,0.9280742459396751,6,6
+openstack/tricircle,openstack/fuel-nailgun-extension-cluster-upgrade,Core,2.247191011235955,0.628930817610063,3,2
+openstack/tricircle,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,1.1235955056179776,0.628930817610063,3,2
+openstack/tricircle,openstack/fuel-nailgun-agent,Core,1.7094017094017095,0.43103448275862066,2,4
+openstack/tricircle,openstack/fuel-nailgun-agent,Non core,0.0,1.293103448275862,2,4
+openstack/tricircle,openstack/fuel-mirror,Core,2.7027027027027026,0.425531914893617,3,6
+openstack/tricircle,openstack/fuel-mirror,Non core,0.0,2.127659574468085,3,6
+openstack/tricircle,openstack/fuel-menu,Core,3.571428571428571,1.214574898785425,4,6
+openstack/tricircle,openstack/fuel-menu,Non core,0.0,1.214574898785425,4,6
+openstack/tricircle,openstack/fuel-main,Core,1.3888888888888888,0.2631578947368421,4,7
+openstack/tricircle,openstack/fuel-main,Non core,0.4629629629629629,1.5789473684210527,4,7
+openstack/tricircle,openstack/fuel-ui,Core,1.6528925619834711,0.4444444444444444,2,3
+openstack/tricircle,openstack/fuel-ui,Non core,0.0,0.8888888888888888,2,3
+openstack/tricircle,openstack/fuel-library,Core,2.93040293040293,0.3527336860670194,8,11
+openstack/tricircle,openstack/fuel-library,Non core,0.0,1.5873015873015872,8,11
+openstack/tricircle,openstack/fuel-dev-tools,Core,4.395604395604396,0.6369426751592357,4,4
+openstack/tricircle,openstack/fuel-dev-tools,Non core,0.0,1.910828025477707,4,4
+openstack/tricircle,openstack/fuel-stats,Core,5.208333333333334,0.546448087431694,6,4
+openstack/tricircle,openstack/fuel-stats,Non core,1.0416666666666665,1.639344262295082,6,4
+openstack/tricircle,openstack/fuel-nailgun-extension-converted-serializers,Core,1.2048192771084338,0.7042253521126761,1,2
+openstack/tricircle,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.7042253521126761,1,2
+openstack/tricircle,openstack/fuel-nailgun-extension-iac,Core,1.1764705882352942,0.6944444444444444,1,2
+openstack/tricircle,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.6944444444444444,1,2
+openstack/tricircle,openstack/fuel-plugin-murano-tests,Core,3.3333333333333335,0.6060606060606061,3,4
+openstack/tricircle,openstack/fuel-plugin-murano-tests,Non core,0.0,1.8181818181818181,3,4
+openstack/tricircle,openstack/fuel-astute,Core,2.083333333333333,0.34843205574912894,3,5
+openstack/tricircle,openstack/fuel-astute,Non core,0.0,1.3937282229965158,3,5
+openstack/tricircle,openstack/fuel-docs,Core,0.5780346820809248,0.22371364653243847,4,7
+openstack/tricircle,openstack/fuel-docs,Non core,1.7341040462427744,1.342281879194631,4,7
+openstack/tricircle,openstack/fuel-agent,Core,4.895104895104895,0.7092198581560284,8,6
+openstack/tricircle,openstack/fuel-agent,Non core,0.6993006993006993,1.4184397163120568,8,6
+openstack/tricircle,openstack/fuel-octane,Core,4.672897196261682,0.5319148936170213,6,7
+openstack/tricircle,openstack/fuel-octane,Non core,0.9345794392523363,3.1914893617021276,6,7
+openstack/tricircle,openstack/tuning-box,Core,2.380952380952381,1.2269938650306749,3,3
+openstack/tricircle,openstack/tuning-box,Non core,1.1904761904761905,0.6134969325153374,3,3
+openstack/tricircle,openstack/python-fuelclient,Core,2.7210884353741496,0.3597122302158274,4,8
+openstack/tricircle,openstack/python-fuelclient,Non core,0.0,2.5179856115107913,4,8
+openstack/tricircle,openstack/neutron-interconnection,Core,0.0,2.027027027027027,1,3
+openstack/tricircle,openstack/neutron-interconnection,Non core,1.2048192771084338,0.0,1,3
+openstack/tricircle,openstack/openstack-chef-repo,Core,1.6528925619834711,1.5957446808510638,2,6
+openstack/tricircle,openstack/openstack-chef-repo,Non core,0.0,1.5957446808510638,2,6
+openstack/tricircle,openstack/os-acc,Core,0.0,1.935483870967742,1,3
+openstack/tricircle,openstack/os-acc,Non core,1.1904761904761905,0.0,1,3
+openstack/tricircle,openstack/openstack-ansible-os_zaqar,Core,4.672897196261682,2.247191011235955,11,10
+openstack/tricircle,openstack/openstack-ansible-os_zaqar,Non core,5.607476635514018,3.3707865168539324,11,10
+openstack/tricircle,openstack/openstack-ansible-os_watcher,Core,4.854368932038835,2.9585798816568047,10,11
+openstack/tricircle,openstack/openstack-ansible-os_watcher,Non core,4.854368932038835,3.5502958579881656,10,11
+openstack/tricircle,openstack/openstack-ansible-os_searchlight,Core,4.123711340206185,2.4390243902439024,8,7
+openstack/tricircle,openstack/openstack-ansible-os_searchlight,Non core,4.123711340206185,1.8292682926829267,8,7
+openstack/tricircle,openstack/xstatic-angular-vis,Core,1.2195121951219512,0.0,1,0
+openstack/tricircle,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/tricircle,openstack/xstatic-font-awesome,Core,2.3255813953488373,0.0,2,3
+openstack/tricircle,openstack/xstatic-font-awesome,Non core,0.0,2.0,2,3
+openstack/tricircle,openstack/xstatic-jasmine,Core,3.3707865168539324,0.0,3,3
+openstack/tricircle,openstack/xstatic-jasmine,Non core,0.0,1.9736842105263157,3,3
+openstack/tricircle,openstack/xstatic-angular-notify,Core,1.2195121951219512,0.0,1,0
+openstack/tricircle,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/tricircle,openstack/xstatic-angular-material,Core,1.1904761904761905,0.0,1,0
+openstack/tricircle,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/tricircle,openstack/tempest-tripleo-ui,Core,1.1904761904761905,1.3333333333333335,1,2
+openstack/tricircle,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,2
+openstack/tricircle,openstack/docs-specs,Core,3.2520325203252036,3.374233128834356,6,20
+openstack/tricircle,openstack/docs-specs,Non core,1.6260162601626018,2.7607361963190185,6,20
+openstack/tricircle,openstack/release-schedule-generator,Core,1.1904761904761905,2.112676056338028,1,4
+openstack/tricircle,openstack/release-schedule-generator,Non core,0.0,0.7042253521126761,1,4
+openstack/tricircle,openstack-infra/opendev-website,Core,1.2195121951219512,2.097902097902098,1,3
+openstack/tricircle,openstack-infra/opendev-website,Non core,0.0,0.0,1,3
+openstack/tricircle,openstack/castellan-ui,Core,3.571428571428571,3.2467532467532463,3,6
+openstack/tricircle,openstack/castellan-ui,Non core,0.0,0.6493506493506493,3,6
+openstack/tricircle,openstack-attic/compute-api,Core,1.9417475728155338,1.1560693641618496,2,3
+openstack/tricircle,openstack-attic/compute-api,Non core,0.0,0.5780346820809248,2,3
+openstack/tricircle,openstack/charm-neutron-api-odl,Core,2.272727272727273,0.6756756756756757,4,3
+openstack/tricircle,openstack/charm-neutron-api-odl,Non core,2.272727272727273,1.3513513513513513,4,3
+openstack/tricircle,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/tricircle,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/tricircle,openstack/charm-murano,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/charm-murano,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/charm-openvswitch-odl,Core,1.1111111111111112,0.0,2,2
+openstack/tricircle,openstack/charm-openvswitch-odl,Non core,1.1111111111111112,1.3605442176870748,2,2
+openstack/tricircle,openstack/charm-interface-odl-controller-api,Core,2.4096385542168677,0.0,2,1
+openstack/tricircle,openstack/charm-interface-odl-controller-api,Non core,0.0,0.7042253521126761,2,1
+openstack/tricircle,openstack/charm-glusterfs,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/charm-glusterfs,Non core,0.0,0.6802721088435374,1,1
+openstack/tricircle,openstack/charm-trove,Core,1.1494252873563218,0.0,2,1
+openstack/tricircle,openstack/charm-trove,Non core,1.1494252873563218,0.684931506849315,2,1
+openstack/tricircle,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-positional,Non core,0.0,0.7042253521126761,0,1
+openstack/tricircle,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-requests-unixsocket,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-traceback2,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-ryu,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-linecache2,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-gabbi,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-cotyledon,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-migrate,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-migrate,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/fuxi,Core,4.123711340206185,2.857142857142857,12,11
+openstack/tricircle,openstack/fuxi,Non core,8.24742268041237,3.428571428571429,12,11
+openstack/tricircle,openstack/xstatic-filesaver,Core,1.2195121951219512,0.0,1,0
+openstack/tricircle,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/tricircle,openstack/xstatic-angular-uuid,Core,1.2195121951219512,0.0,1,0
+openstack/tricircle,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/tricircle,openstack/bandit,Core,3.7593984962406015,2.5,8,10
+openstack/tricircle,openstack/bandit,Non core,2.2556390977443606,2.5,8,10
+openstack/tricircle,openstack/xstatic-angular-smart-table,Core,2.4096385542168677,0.0,2,1
+openstack/tricircle,openstack/xstatic-angular-smart-table,Non core,0.0,0.684931506849315,2,1
+openstack/tricircle,openstack/xstatic-bootswatch,Core,2.380952380952381,0.0,2,3
+openstack/tricircle,openstack/xstatic-bootswatch,Non core,0.0,2.0,2,3
+openstack/tricircle,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-msgpack-python,Non core,0.0,0.7042253521126761,0,1
+openstack/tricircle,openstack/xstatic-d3,Core,2.3529411764705883,0.0,2,3
+openstack/tricircle,openstack/xstatic-d3,Non core,0.0,2.0,2,3
+openstack/tricircle,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/tricircle,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/tricircle,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pymemcache,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-novnc,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/instack,Core,5.263157894736842,1.7647058823529411,9,6
+openstack/tricircle,openstack/instack,Non core,4.2105263157894735,1.7647058823529411,9,6
+openstack/tricircle,openstack/deb-python-pysaml2,Core,0.0,0.0,0,2
+openstack/tricircle,openstack/deb-python-pysaml2,Non core,0.0,1.4084507042253522,0,2
+openstack/tricircle,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-trollius,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-autobahn,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pyldap,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/astara,Core,3.571428571428571,1.6666666666666667,7,9
+openstack/tricircle,openstack/astara,Non core,2.6785714285714284,3.3333333333333335,7,9
+openstack/tricircle,openstack/astara-appliance,Core,2.127659574468085,1.2658227848101267,2,6
+openstack/tricircle,openstack/astara-appliance,Non core,0.0,2.5316455696202533,2,6
+openstack/tricircle,openstack/astara-horizon,Core,2.2988505747126435,0.6535947712418301,2,4
+openstack/tricircle,openstack/astara-horizon,Non core,0.0,1.9607843137254901,2,4
+openstack/tricircle,openstack/astara-neutron,Core,2.197802197802198,0.6493506493506493,2,4
+openstack/tricircle,openstack/astara-neutron,Non core,0.0,1.948051948051948,2,4
+openstack/tricircle,openstack/anchor,Core,0.0,0.5617977528089888,3,5
+openstack/tricircle,openstack/anchor,Non core,2.8301886792452833,2.247191011235955,3,5
+openstack/tricircle,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/tricircle,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/tricircle,openstack/fuxi-golang,Core,1.2345679012345678,1.4084507042253522,1,2
+openstack/tricircle,openstack/fuxi-golang,Non core,0.0,0.0,1,2
+openstack/tricircle,openstack/fuxi-kubernetes,Core,1.2195121951219512,1.36986301369863,1,3
+openstack/tricircle,openstack/fuxi-kubernetes,Non core,0.0,0.684931506849315,1,3
+openstack/tricircle,openstack-infra/puppet-odsreg,Core,1.1627906976744187,2.027027027027027,1,6
+openstack/tricircle,openstack-infra/puppet-odsreg,Non core,0.0,2.027027027027027,1,6
+openstack/tricircle,openstack-infra/puppet-docker_registry,Core,1.2345679012345678,0.7142857142857143,1,1
+openstack/tricircle,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,1
+openstack/tricircle,openstack/releasestatus,Core,1.2048192771084338,0.684931506849315,1,2
+openstack/tricircle,openstack/releasestatus,Non core,0.0,0.684931506849315,1,2
+openstack/tricircle,openstack-infra/vinz-webclient,Core,1.2345679012345678,0.7142857142857143,1,1
+openstack/tricircle,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,1
+openstack/tricircle,openstack/activity-board,Core,1.0416666666666665,1.639344262295082,1,5
+openstack/tricircle,openstack/activity-board,Non core,0.0,1.092896174863388,1,5
+openstack/tricircle,openstack-infra/beaker-localhost,Core,1.2345679012345678,0.7092198581560284,1,1
+openstack/tricircle,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/tricircle,openstack-infra/beaker-nodepool,Core,1.2345679012345678,0.7092198581560284,1,1
+openstack/tricircle,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/tricircle,openstack/rst2bash,Core,2.4096385542168677,1.3605442176870748,2,3
+openstack/tricircle,openstack/rst2bash,Non core,0.0,0.6802721088435374,2,3
+openstack/tricircle,openstack/kolla-kubernetes,Core,2.127659574468085,1.2096774193548387,6,12
+openstack/tricircle,openstack/kolla-kubernetes,Non core,2.127659574468085,3.6290322580645165,6,12
+openstack/tricircle,openstack/cue-dashboard,Core,2.247191011235955,0.6802721088435374,3,4
+openstack/tricircle,openstack/cue-dashboard,Non core,1.1235955056179776,2.0408163265306123,3,4
+openstack/tricircle,openstack/python-cueclient,Core,2.1505376344086025,1.36986301369863,2,5
+openstack/tricircle,openstack/python-cueclient,Non core,0.0,2.054794520547945,2,5
+openstack/tricircle,openstack/cue,Core,2.727272727272727,0.5882352941176471,3,5
+openstack/tricircle,openstack/cue,Non core,0.0,2.3529411764705883,3,5
+openstack/tricircle,openstack/app-catalog,Core,2.9197080291970803,1.0,6,5
+openstack/tricircle,openstack/app-catalog,Non core,1.4598540145985401,1.5,6,5
+openstack/tricircle,openstack-attic/identity-api,Core,1.639344262295082,1.3761467889908259,2,5
+openstack/tricircle,openstack-attic/identity-api,Non core,0.0,0.9174311926605505,2,5
+openstack/tricircle,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-fixtures,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/python-magnetodbclient,Non core,0.0,0.6711409395973155,0,1
+openstack/tricircle,openstack/app-catalog-ui,Core,3.4482758620689653,0.6493506493506493,3,3
+openstack/tricircle,openstack/app-catalog-ui,Non core,0.0,1.2987012987012987,3,3
+openstack/tricircle,openstack/salt-formula-kubernetes,Core,1.1627906976744187,0.0,1,2
+openstack/tricircle,openstack/salt-formula-kubernetes,Non core,0.0,1.3793103448275863,1,2
+openstack/tricircle,openstack/app-catalog-common,Core,0.0,0.7092198581560284,0,2
+openstack/tricircle,openstack/app-catalog-common,Non core,0.0,0.7092198581560284,0,2
+openstack/tricircle,openstack/python-appcatalogclient,Core,0.0,1.3986013986013985,0,3
+openstack/tricircle,openstack/python-appcatalogclient,Non core,0.0,0.6993006993006993,0,3
+openstack/tricircle,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/tricircle,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/tricircle,openstack/deb-nova,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-nova,Non core,1.2048192771084338,0.6993006993006993,2,1
+openstack/tricircle,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-kazoo,Non core,0.0,0.7042253521126761,0,1
+openstack/tricircle,openstack/deb-python-congressclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-congressclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-congress,Core,1.2345679012345678,0.0,1,1
+openstack/tricircle,openstack/deb-congress,Non core,0.0,0.7142857142857143,1,1
+openstack/tricircle,openstack/deb-python-os-net-config,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-python-os-net-config,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-ironic,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-ironic,Non core,1.2048192771084338,0.6944444444444444,2,1
+openstack/tricircle,openstack/deb-swauth,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-swauth,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-os-api-ref,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-os-api-ref,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-designate,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-designate,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-swift,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-swift,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-manila-ui,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-manila-ui,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-barbican,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-barbican,Non core,1.2048192771084338,0.6944444444444444,2,1
+openstack/tricircle,openstack/deb-cinder,Core,1.1904761904761905,0.0,2,1
+openstack/tricircle,openstack/deb-cinder,Non core,1.1904761904761905,0.7042253521126761,2,1
+openstack/tricircle,openstack/deb-magnum,Core,1.1904761904761905,0.0,2,1
+openstack/tricircle,openstack/deb-magnum,Non core,1.1904761904761905,0.6993006993006993,2,1
+openstack/tricircle,openstack/deb-trove,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-trove,Non core,0.0,0.6896551724137931,1,1
+openstack/tricircle,openstack/deb-openstack-pkg-tools,Core,0.0,0.6756756756756757,0,2
+openstack/tricircle,openstack/deb-openstack-pkg-tools,Non core,0.0,0.6756756756756757,0,2
+openstack/tricircle,openstack/deb-python-swiftclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-swiftclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-alembic,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-alembic,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-cinderclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-cinderclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-bootstrap,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/tricircle,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/tricircle,openstack/deb-networking-nec,Core,1.2345679012345678,0.0,1,1
+openstack/tricircle,openstack/deb-networking-nec,Non core,0.0,0.7142857142857143,1,1
+openstack/tricircle,openstack/deb-neutron-taas,Core,1.2345679012345678,0.0,1,1
+openstack/tricircle,openstack/deb-neutron-taas,Non core,0.0,0.7142857142857143,1,1
+openstack/tricircle,openstack/deb-networking-mlnx,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-networking-mlnx,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-openstack-meta-packages,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-networking-odl,Core,1.2345679012345678,0.0,1,1
+openstack/tricircle,openstack/deb-networking-odl,Non core,0.0,0.7142857142857143,1,1
+openstack/tricircle,openstack/deb-nodepool,Core,1.2345679012345678,0.0,1,1
+openstack/tricircle,openstack/deb-nodepool,Non core,0.0,0.7142857142857143,1,1
+openstack/tricircle,openstack/deb-networking-cisco,Core,1.2345679012345678,0.0,1,1
+openstack/tricircle,openstack/deb-networking-cisco,Non core,0.0,0.7142857142857143,1,1
+openstack/tricircle,openstack/deb-networking-midonet,Core,1.2345679012345678,0.0,1,1
+openstack/tricircle,openstack/deb-networking-midonet,Non core,0.0,0.7142857142857143,1,1
+openstack/tricircle,openstack/deb-networking-arista,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-networking-arista,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/tricircle,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/tricircle,openstack/deb-networking-hyperv,Core,1.2345679012345678,0.0,1,1
+openstack/tricircle,openstack/deb-networking-hyperv,Non core,0.0,0.7142857142857143,1,1
+openstack/tricircle,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-rtslib-fb,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-murano,Core,1.2048192771084338,0.0,3,1
+openstack/tricircle,openstack/deb-murano,Non core,2.4096385542168677,0.6896551724137931,3,1
+openstack/tricircle,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-semantic-version,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-ldappool,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-ldappool,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-zaqar-ui,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-zaqar-ui,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-zaqar,Core,1.1904761904761905,0.0,2,1
+openstack/tricircle,openstack/deb-zaqar,Non core,1.1904761904761905,0.6896551724137931,2,1
+openstack/tricircle,openstack/deb-watcher,Core,1.1904761904761905,0.0,2,1
+openstack/tricircle,openstack/deb-watcher,Non core,1.1904761904761905,0.7042253521126761,2,1
+openstack/tricircle,openstack/deb-python-os-testr,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-os-testr,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-os-win,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-os-win,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-pycadf,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-pycadf,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-pyghmi,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-pyghmi,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-reno,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-reno,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-os-refresh-config,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-os-refresh-config,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-os-vif,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-os-vif,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-pyeclib,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-python-pyeclib,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-quantumclient,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-python-quantumclient,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-requestsexceptions,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-requestsexceptions,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-pbr,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-pbr,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-requests-mock,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-requests-mock,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-saharaclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-saharaclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-scciclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-scciclient,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-seamicroclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-seamicroclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-auto-backports,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-auto-backports,Non core,0.0,0.6944444444444444,1,1
+openstack/tricircle,openstack/deb-python-senlinclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-senlinclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-taskflow,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-taskflow,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-testtools,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-testtools,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-tooz,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-tooz,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-shotgun,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-shotgun,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-tackerclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-tackerclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-tosca-parser,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-tosca-parser,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-troveclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-troveclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-tuskarclient,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-python-tuskarclient,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-watcherclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-watcherclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-cookies,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-fileupload,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-lrdragndrop,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-wsme,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-wsme,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-schema-form,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-bootstrap-datepicker,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-bootswatch,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-gettext,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-mock,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-bootstrap-scss,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-d3,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-d3,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-hogan,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-hogan,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-font-awesome,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jasmine,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery-migrate,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery.quicksearch,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery.tablesorter,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jsencrypt,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-magic-search,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-mdi,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-mdi,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-objectpath,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-qunit,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-qunit,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-rickshaw,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-xstatic-spin,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-spin,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-xstatic-tv4,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-python-xstatic-tv4,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-yaql,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-yaql,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-zaqarclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-zaqarclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-rally,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-rally,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-sahara,Core,1.1904761904761905,0.0,2,1
+openstack/tricircle,openstack/deb-sahara,Non core,1.1904761904761905,0.6993006993006993,2,1
+openstack/tricircle,openstack/deb-sahara-dashboard,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-sahara-dashboard,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-senlin,Core,1.1904761904761905,0.0,2,1
+openstack/tricircle,openstack/deb-senlin,Non core,1.1904761904761905,0.6993006993006993,2,1
+openstack/tricircle,openstack/deb-senlin-dashboard,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-senlin-dashboard,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-stevedore,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-stevedore,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-swift-bench,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-swift-bench,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-swift-plugin-s3,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-swift-plugin-s3,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-trove-dashboard,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-trove-dashboard,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-tempest,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-tempest,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-osprofiler,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-osprofiler,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.vmware,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.vmware,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.utils,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.utils,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.rootwrap,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.service,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.service,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.privsep,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.privsep,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.versionedobjects,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslotest,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslotest,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.serialization,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.serialization,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.reports,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.reports,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.policy,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.policy,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.middleware,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.middleware,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.messaging,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.messaging,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.log,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.log,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-aodhclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-aodhclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-automaton,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-automaton,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-barbicanclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-barbicanclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-bashate,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-python-bashate,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-castellan,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-castellan,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-ceilometerclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-ceilometerclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-ceilometermiddleware,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-cliff,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-cliff,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-cursive,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-cursive,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-debtcollector,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-debtcollector,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-designateclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-designateclient,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-dib-utils,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-python-dib-utils,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-diskimage-builder,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-diskimage-builder,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-doc8,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-doc8,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-django-openstack-auth,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-django-openstack-auth,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-fuelclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-fuelclient,Non core,0.0,0.6896551724137931,1,1
+openstack/tricircle,openstack/deb-python-dogpile.cache,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-dogpile.cache,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-futurist,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-futurist,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-glanceclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-glanceclient,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-glance-store,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-glance-store,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-hacking,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-hacking,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-heatclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-heatclient,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-ironicclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-ironicclient,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-ironic-inspector-client,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-ironic-lib,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-ironic-lib,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-jsonpath-rw-ext,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-k8sclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-k8sclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-keystoneauth1,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-keystoneauth1,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-keystoneclient,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-keystoneclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-keystonemiddleware,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-keystonemiddleware,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-magnumclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-magnumclient,Non core,0.0,0.6944444444444444,1,1
+openstack/tricircle,openstack/deb-python-manilaclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-manilaclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-microversion-parse,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-microversion-parse,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-mistralclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-mistralclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-monascaclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-monascaclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-mox3,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-mox3,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-muranoclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-muranoclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-neutronclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-neutronclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-neutron-lib,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-neutron-lib,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-novaclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-novaclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-openstackclient,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-openstackclient,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-openstackdocstheme,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-openstackdocstheme,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-openstacksdk,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-openstacksdk,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-os-apply-config,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-os-apply-config,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-os-brick,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-os-brick,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-osc-lib,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-osc-lib,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-os-client-config,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-os-client-config,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-os-collect-config,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-os-collect-config,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.cache,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.cache,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-python-oslo.db,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.db,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.concurrency,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.concurrency,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.config,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.config,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.i18n,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.i18n,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-python-oslo.context,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-python-oslo.context,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-openstack-nose,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-openstack-nose,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-openstack-doc-tools,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-openstack-doc-tools,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-openstack-trove,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-openstack-trove,Non core,1.2048192771084338,0.6993006993006993,2,1
+openstack/tricircle,openstack/deb-oslosphinx,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-oslosphinx,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-aodh,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-aodh,Non core,1.2048192771084338,0.6993006993006993,2,1
+openstack/tricircle,openstack/deb-bandit,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-bandit,Non core,0.0,0.6993006993006993,1,1
+openstack/tricircle,openstack/deb-ceilometer,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-ceilometer,Non core,1.2048192771084338,0.6993006993006993,2,1
+openstack/tricircle,openstack/deb-ceilometermiddleware,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-ceilometermiddleware,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-designate-dashboard,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-designate-dashboard,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-git-review,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-git-review,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-glance,Core,1.2048192771084338,0.0,2,2
+openstack/tricircle,openstack/deb-glance,Non core,1.2048192771084338,1.3888888888888888,2,2
+openstack/tricircle,openstack/deb-glare,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-glare,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-heat,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-heat,Non core,1.2048192771084338,0.6993006993006993,2,1
+openstack/tricircle,openstack/deb-heat-cfntools,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-heat-cfntools,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-horizon,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-horizon,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-ironic-inspector,Core,1.1904761904761905,0.0,1,1
+openstack/tricircle,openstack/deb-ironic-inspector,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-ironic-ui,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-ironic-ui,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-keystone,Core,1.1904761904761905,0.0,2,1
+openstack/tricircle,openstack/deb-keystone,Non core,1.1904761904761905,0.6944444444444444,2,1
+openstack/tricircle,openstack/deb-liberasurecode,Core,1.2195121951219512,0.0,1,1
+openstack/tricircle,openstack/deb-liberasurecode,Non core,0.0,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-manila,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-manila,Non core,1.2048192771084338,0.6993006993006993,2,1
+openstack/tricircle,openstack/deb-mistral,Core,1.1904761904761905,0.0,4,1
+openstack/tricircle,openstack/deb-mistral,Non core,3.571428571428571,0.6896551724137931,4,1
+openstack/tricircle,openstack/deb-murano-agent,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-murano-agent,Non core,1.2048192771084338,0.6896551724137931,2,1
+openstack/tricircle,openstack/deb-murano-dashboard,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-murano-dashboard,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-networking-l2gw,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-networking-l2gw,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-networking-ovn,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-networking-ovn,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-neutron,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-neutron,Non core,1.2048192771084338,0.6944444444444444,2,1
+openstack/tricircle,openstack/deb-neutron-fwaas,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-neutron-fwaas,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-neutron-vpnaas,Core,1.2048192771084338,0.0,1,1
+openstack/tricircle,openstack/deb-neutron-vpnaas,Non core,0.0,0.7042253521126761,1,1
+openstack/tricircle,openstack/deb-neutron-lbaas,Core,1.2048192771084338,0.0,2,1
+openstack/tricircle,openstack/deb-neutron-lbaas,Non core,1.2048192771084338,0.6896551724137931,2,1
+openstack/tricircle,openstack/installguide-cookiecutter,Core,3.3707865168539324,0.6666666666666667,3,4
+openstack/tricircle,openstack/installguide-cookiecutter,Non core,0.0,2.0,3,4
+openstack/tricircle,openstack/deb-gnocchi,Core,0.0,0.0,1,1
+openstack/tricircle,openstack/deb-gnocchi,Non core,1.1904761904761905,0.7092198581560284,1,1
+openstack/tricircle,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-eventlet,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pymysql,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/salt-formula-opencontrail,Core,1.0309278350515463,0.0,1,2
+openstack/tricircle,openstack/salt-formula-opencontrail,Non core,0.0,1.3333333333333335,1,2
+openstack/tricircle,openstack/salt-formula-neutron,Core,1.0416666666666665,0.6535947712418301,1,2
+openstack/tricircle,openstack/salt-formula-neutron,Non core,0.0,0.6535947712418301,1,2
+openstack/tricircle,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/salt-formula-swift,Non core,0.0,0.6944444444444444,0,1
+openstack/tricircle,openstack/salt-formula-nova,Core,0.9803921568627451,0.0,1,2
+openstack/tricircle,openstack/salt-formula-nova,Non core,0.0,1.3071895424836601,1,2
+openstack/tricircle,openstack/salt-formula-keystone,Core,1.0101010101010102,0.0,1,1
+openstack/tricircle,openstack/salt-formula-keystone,Non core,0.0,0.6578947368421052,1,1
+openstack/tricircle,openstack/salt-formula-horizon,Core,1.0638297872340425,0.0,1,1
+openstack/tricircle,openstack/salt-formula-horizon,Non core,0.0,0.6711409395973155,1,1
+openstack/tricircle,openstack/salt-formula-heat,Core,0.9900990099009901,0.0,1,1
+openstack/tricircle,openstack/salt-formula-heat,Non core,0.0,0.6666666666666667,1,1
+openstack/tricircle,openstack/salt-formula-glance,Core,1.0,0.0,1,3
+openstack/tricircle,openstack/salt-formula-glance,Non core,0.0,2.0,1,3
+openstack/tricircle,openstack/salt-formula-cinder,Core,1.0101010101010102,0.0,1,1
+openstack/tricircle,openstack/salt-formula-cinder,Non core,0.0,0.6711409395973155,1,1
+openstack/tricircle,openstack/salt-formula-ceilometer,Core,1.098901098901099,0.0,1,1
+openstack/tricircle,openstack/salt-formula-ceilometer,Non core,0.0,0.6622516556291391,1,1
+openstack/tricircle,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pygit2,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-libisal,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-xvfbwrapper,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-testresources,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-django-compressor,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pykmip,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-coffin,Non core,0.0,0.7042253521126761,0,1
+openstack/tricircle,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-txaio,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-hplefthandclient,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-django-overextends,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pytimeparse,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-nose-timer,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-retrying,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-django-discover-runner,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-lesscpy,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-happybase,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-extras,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-functools32,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pydot-ng,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-jsonschema,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-kafka,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-rcssmin,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-nose-parameterized,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pika-pool,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-rfc3986,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-httpretty,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pint,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-django-pyscss,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-falcon,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-subunit,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-django-formtools,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-nose-exclude,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pydotplus,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pager,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-proliantutils,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-gnocchiclient,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-django-babel,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-requests-kerberos,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-colander,Non core,0.0,0.7042253521126761,0,1
+openstack/tricircle,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-dcos,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-xstatic-term.js,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-toml,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-semver,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-websocket-client,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-fasteners,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-jingo,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pecan,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-frozendict,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/tricircle,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/tricircle,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-wrapt,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-funcsigs,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-crank,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pyvmomi,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-wsgi-intercept,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-os-cloud-config,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-weakrefmethod,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-steadymark,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-warlock,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-couleur,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-json-patch,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-jsonrpclib,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-multi-key-dict,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-memcache,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pulp,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-websockify,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-daemonize,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-pyngus,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-editor,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-ddt,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-monotonic,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-rjsmin,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-jsonpath-rw,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-django-appconf,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-oauth2client,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-json-pointer,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack-attic/akanda,Core,1.1904761904761905,0.0,2,3
+openstack/tricircle,openstack-attic/akanda,Non core,1.1904761904761905,2.027027027027027,2,3
+openstack/tricircle,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-xstatic,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-requestbuilder,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-nosehtmloutput,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-csscompressor,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-croniter,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-python-concurrent.futures,Non core,0.0,0.7092198581560284,0,1
+openstack/tricircle,openstack/openstack-salt,Core,1.1764705882352942,0.0,1,2
+openstack/tricircle,openstack/openstack-salt,Non core,0.0,1.3888888888888888,1,2
+openstack/tricircle,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/tricircle,openstack/deb-spice-html5,Non core,0.0,0.7142857142857143,0,1
+openstack/tricircle,openstack/salt-formula-midonet,Core,1.2345679012345678,0.0,1,1
+openstack/tricircle,openstack/salt-formula-midonet,Non core,0.0,0.7142857142857143,1,1
+openstack/tricircle,openstack/magnetodb-specs,Core,2.197802197802198,0.0,2,3
+openstack/tricircle,openstack/magnetodb-specs,Non core,0.0,1.935483870967742,2,3
+openstack/tricircle,openstack-attic/akanda-appliance-builder,Core,1.1764705882352942,0.0,1,2
+openstack/tricircle,openstack-attic/akanda-appliance-builder,Non core,0.0,1.3888888888888888,1,2
+openstack/tricircle,openstack-attic/oslo.version,Core,3.4482758620689653,1.282051282051282,3,3
+openstack/tricircle,openstack-attic/oslo.version,Non core,0.0,0.641025641025641,3,3
+openstack/tricircle,openstack-attic/image-api,Core,2.2222222222222223,1.282051282051282,2,3
+openstack/tricircle,openstack-attic/image-api,Non core,0.0,0.641025641025641,2,3
+openstack/tricircle,openstack-attic/object-api,Core,2.0,1.2048192771084338,2,3
+openstack/tricircle,openstack-attic/object-api,Non core,0.0,0.6024096385542169,2,3
+openstack/tricircle,openstack-attic/volume-api,Core,2.127659574468085,1.2658227848101267,2,3
+openstack/tricircle,openstack-attic/volume-api,Non core,0.0,0.6329113924050633,2,3
+openstack/tricircle,openstack/magnetodb,Core,0.9708737864077669,0.0,1,2
+openstack/tricircle,openstack/magnetodb,Non core,0.0,1.1428571428571428,1,2
+openstack/tricircle,openstack/openstack-nose,Core,0.0,1.3793103448275863,0,3
+openstack/tricircle,openstack/openstack-nose,Non core,0.0,0.6896551724137931,0,3
+openstack/tricircle,openstack-attic/netconn-api,Core,1.8691588785046727,2.185792349726776,2,7
+openstack/tricircle,openstack-attic/netconn-api,Non core,0.0,1.639344262295082,2,7
+openstack/tricircle,openstack-attic/python-melangeclient,Core,0.0,0.0,0,1
+openstack/tricircle,openstack-attic/python-melangeclient,Non core,0.0,0.6993006993006993,0,1
+openstack/tricircle,openstack-attic/melange,Core,0.0,0.6578947368421052,0,2
+openstack/tricircle,openstack-attic/melange,Non core,0.0,0.6578947368421052,0,2
+openstack/tricircle,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/tricircle,openstack-attic/openstack-qa,Non core,0.0,0.6993006993006993,0,1
+openstack/tricircle,openstack-attic/database-api,Core,2.197802197802198,1.2987012987012987,2,3
+openstack/tricircle,openstack-attic/database-api,Non core,0.0,0.6493506493506493,2,3
+openstack/tricircle,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,2
+openstack/tricircle,openstack-attic/openstack-security-notes,Non core,0.0,0.9615384615384616,0,2

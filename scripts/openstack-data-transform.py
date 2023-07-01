@@ -3,6 +3,8 @@ import numpy as np
 import json
 import os
 import shutil
+import sys 
+sys.path.append('../utils')
 import helpers as hpr
 
 DIR = hpr.DIR
@@ -159,6 +161,15 @@ def retrieve_commit_message(row):
 
     return row["revisions"][row["current_revision"]]["commit"]["message"]
 
+def retrieve_revisions(revisions):
+    # revisions = row["revisions"]
+    results = []
+    # print(revisions.keys())
+    for rev in list(revisions.values()):
+        results.append({"created": rev["created"], "message": rev["commit"]["message"]})
+    results.sort(key=lambda x: x["created"], reverse=False)
+
+    return results if len(results) > 0 else []
 
 def retrieve_changes(origin_df, index):
     """Filter the changes
@@ -186,7 +197,12 @@ def retrieve_changes(origin_df, index):
     df["owner_username"] = df["owner"].map(lambda x: x["username"]
                                            if "username" in x.keys() else None)
 
+    df["is_owner_bot"] = df["owner"].map(lambda x: 1
+                                           if "tags" in x.keys() else 0)
+
     df["commit_message"] = df.apply(retrieve_commit_message, axis=1)
+
+    df["revisions"] = df["revisions"].map(retrieve_revisions)
 
     if "topic" in origin_df.columns:
         df = pd.concat((df, origin_df[["topic"]]), axis=1)
@@ -196,9 +212,9 @@ def retrieve_changes(origin_df, index):
     changes_df = df.copy()
     changes_df.columns = changes_df.columns.str.replace("_number", "number")
 
-    del changes_df["reviewers"]
+    # del changes_df["reviewers"]
     del changes_df["messages"]
-    del changes_df["revisions"]
+    # del changes_df["revisions"]
 
     file_path = "%sChanges/changes_data_%d.csv" % (DIR, index)
     changes_df.to_csv(file_path, index=False, encoding='utf-8')
@@ -213,17 +229,19 @@ if __name__ == "__main__":
     start_date, start_header = hpr.generate_date("This script started at")
 
     changes_dir = "%sChanges" % DIR
-    reviewers_dir = "%sReviewers" % DIR
-    messages_dir = "%sMessages" % DIR
-    files_dir = "%sFilesOS" % DIR
+    # reviewers_dir = "%sReviewers" % DIR
+    # messages_dir = "%sMessages" % DIR
+    # files_dir = "%sFilesOS" % DIR
 
-    for dir in list([changes_dir, reviewers_dir, messages_dir, files_dir]):
+    for dir in list([changes_dir, #reviewers_dir, messages_dir, files_dir
+    ]):
         if os.path.exists(dir):
            shutil.rmtree(path=dir)
         os.makedirs(dir)
 
     # index = 0
     # file_path = "openstack_data_722.json"
+    data_dir = "E:/PhD/Projects/Openstack/"
     for f in hpr.list_file("%sData" % DIR):
         # for index in range(1406, 1407):
         # f = "openstack_data_%d.json" % index
@@ -240,11 +258,11 @@ if __name__ == "__main__":
 
         df = retrieve_changes(origin_df, index)
 
-        retrieve_reviewers(df, index)
+        # retrieve_reviewers(df, index)
 
-        retrieve_messages(df, index)
+        # retrieve_messages(df, index)
 
-        retrieve_files(df, index)
+        # retrieve_files(df, index)
 
         index += 1
 

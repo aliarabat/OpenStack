@@ -1,0 +1,1703 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/oslo.limit,openstack/oslo.middleware,Core,7.07070707070707,9.79020979020979,17,27
+openstack/oslo.limit,openstack/oslo.middleware,Non core,10.1010101010101,9.090909090909092,17,27
+openstack/oslo.limit,openstack/oslo.reports,Core,10.0,12.0,18,27
+openstack/oslo.limit,openstack/oslo.reports,Non core,20.0,15.0,18,27
+openstack/oslo.limit,openstack/futurist,Core,7.352941176470589,8.695652173913043,10,17
+openstack/oslo.limit,openstack/futurist,Non core,7.352941176470589,9.782608695652174,10,17
+openstack/oslo.limit,openstack/oslo.i18n,Core,9.210526315789473,10.92436974789916,19,29
+openstack/oslo.limit,openstack/oslo.i18n,Non core,15.789473684210526,13.445378151260504,19,29
+openstack/oslo.limit,openstack/sushy-oem-idrac,Core,0.0,1.4492753623188406,0,2
+openstack/oslo.limit,openstack/sushy-oem-idrac,Non core,0.0,1.4492753623188406,0,2
+openstack/oslo.limit,openstack/python-dracclient,Core,1.4925373134328357,2.7522935779816518,6,6
+openstack/oslo.limit,openstack/python-dracclient,Non core,7.462686567164178,2.7522935779816518,6,6
+openstack/oslo.limit,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/openstack-ansible-os_adjutant,Non core,2.5,0.0,1,0
+openstack/oslo.limit,openstack/openstack-ansible-os_masakari,Core,3.4482758620689653,4.597701149425287,9,11
+openstack/oslo.limit,openstack/openstack-ansible-os_masakari,Non core,12.068965517241379,8.045977011494253,9,11
+openstack/oslo.limit,openstack/ansible-role-systemd_mount,Core,3.9215686274509802,2.941176470588235,3,5
+openstack/oslo.limit,openstack/ansible-role-systemd_mount,Non core,1.9607843137254901,4.411764705882353,3,5
+openstack/oslo.limit,openstack/python-senlinclient,Core,4.464285714285714,6.015037593984962,14,20
+openstack/oslo.limit,openstack/python-senlinclient,Non core,8.035714285714286,9.022556390977442,14,20
+openstack/oslo.limit,openstack/senlin-dashboard,Core,4.878048780487805,7.258064516129033,9,14
+openstack/oslo.limit,openstack/senlin-dashboard,Non core,6.097560975609756,4.032258064516129,9,14
+openstack/oslo.limit,openstack/networking-generic-switch,Core,5.617977528089887,4.23728813559322,9,8
+openstack/oslo.limit,openstack/networking-generic-switch,Non core,4.49438202247191,2.5423728813559325,9,8
+openstack/oslo.limit,openstack/sahara-image-elements,Core,3.0927835051546393,1.5625,4,4
+openstack/oslo.limit,openstack/sahara-image-elements,Non core,1.0309278350515463,1.5625,4,4
+openstack/oslo.limit,openstack/ansible-role-thales-hsm,Core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/ansible-role-thales-hsm,Non core,2.631578947368421,3.278688524590164,1,2
+openstack/oslo.limit,openstack/ansible-role-atos-hsm,Core,0.0,3.508771929824561,1,4
+openstack/oslo.limit,openstack/ansible-role-atos-hsm,Non core,2.7027027027027026,3.508771929824561,1,4
+openstack/oslo.limit,openstack/adjutant-ui,Core,7.142857142857142,10.16949152542373,4,7
+openstack/oslo.limit,openstack/adjutant-ui,Non core,2.380952380952381,1.694915254237288,4,7
+openstack/oslo.limit,openstack/sahara-extra,Core,2.73972602739726,5.1020408163265305,3,6
+openstack/oslo.limit,openstack/sahara-extra,Non core,1.36986301369863,1.0204081632653061,3,6
+openstack/oslo.limit,openstack/blazar-nova,Core,4.918032786885246,6.315789473684211,6,10
+openstack/oslo.limit,openstack/blazar-nova,Non core,4.918032786885246,4.2105263157894735,6,10
+openstack/oslo.limit,openstack/oslo.service,Core,6.481481481481481,9.202453987730062,19,27
+openstack/oslo.limit,openstack/oslo.service,Non core,11.11111111111111,7.361963190184049,19,27
+openstack/oslo.limit,openstack/blazar-dashboard,Core,5.88235294117647,9.411764705882353,8,15
+openstack/oslo.limit,openstack/blazar-dashboard,Non core,9.803921568627452,8.235294117647058,8,15
+openstack/oslo.limit,openstack/paunch,Core,5.194805194805195,5.47945205479452,6,11
+openstack/oslo.limit,openstack/paunch,Non core,2.5974025974025974,2.054794520547945,6,11
+openstack/oslo.limit,openstack/service-types-authority,Core,3.7735849056603774,9.615384615384617,3,10
+openstack/oslo.limit,openstack/service-types-authority,Non core,1.8867924528301887,0.0,3,10
+openstack/oslo.limit,openstack/python-ironic-inspector-client,Core,5.263157894736842,5.042016806722689,7,12
+openstack/oslo.limit,openstack/python-ironic-inspector-client,Non core,3.9473684210526314,5.042016806722689,7,12
+openstack/oslo.limit,openstack/openstack-ansible-memcached_server,Core,2.73972602739726,0.9803921568627451,9,6
+openstack/oslo.limit,openstack/openstack-ansible-memcached_server,Non core,9.58904109589041,4.901960784313726,9,6
+openstack/oslo.limit,openstack/os-testr,Core,5.555555555555555,6.837606837606838,12,15
+openstack/oslo.limit,openstack/os-testr,Non core,11.11111111111111,5.982905982905983,12,15
+openstack/oslo.limit,openstack/openstack-ansible-ceph_client,Core,2.564102564102564,2.7027027027027026,9,9
+openstack/oslo.limit,openstack/openstack-ansible-ceph_client,Non core,8.974358974358974,5.405405405405405,9,9
+openstack/oslo.limit,openstack/openstack-ansible-os_magnum,Core,2.4390243902439024,3.389830508474576,9,10
+openstack/oslo.limit,openstack/openstack-ansible-os_magnum,Non core,8.536585365853659,5.084745762711865,9,10
+openstack/oslo.limit,openstack/openstack-ansible-os_blazar,Core,3.6363636363636362,3.571428571428571,10,7
+openstack/oslo.limit,openstack/openstack-ansible-os_blazar,Non core,14.545454545454545,4.761904761904762,10,7
+openstack/oslo.limit,openstack/openstack-ansible-os_designate,Core,2.3529411764705883,3.1746031746031744,11,9
+openstack/oslo.limit,openstack/openstack-ansible-os_designate,Non core,10.588235294117647,3.968253968253968,11,9
+openstack/oslo.limit,openstack/openstack-ansible-os_gnocchi,Core,2.4390243902439024,2.7027027027027026,12,8
+openstack/oslo.limit,openstack/openstack-ansible-os_gnocchi,Non core,12.195121951219512,4.504504504504505,12,8
+openstack/oslo.limit,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/openstack-ansible-os_senlin,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/ptgbot,Core,8.695652173913043,5.633802816901409,4,5
+openstack/oslo.limit,openstack/ptgbot,Non core,0.0,1.4084507042253522,4,5
+openstack/oslo.limit,openstack/openstack-ansible-os_zun,Core,3.6363636363636362,3.7037037037037033,9,6
+openstack/oslo.limit,openstack/openstack-ansible-os_zun,Non core,12.727272727272727,3.7037037037037033,9,6
+openstack/oslo.limit,openstack/openstack-ansible-repo_server,Core,2.3255813953488373,1.6666666666666667,6,5
+openstack/oslo.limit,openstack/openstack-ansible-repo_server,Non core,4.651162790697675,2.5,6,5
+openstack/oslo.limit,openstack/python-watcherclient,Core,2.7777777777777777,6.896551724137931,11,14
+openstack/oslo.limit,openstack/python-watcherclient,Non core,7.4074074074074066,5.172413793103448,11,14
+openstack/oslo.limit,openstack/heat-agents,Core,4.477611940298507,6.666666666666667,6,15
+openstack/oslo.limit,openstack/heat-agents,Non core,4.477611940298507,5.833333333333333,6,15
+openstack/oslo.limit,openstack/oslo.rootwrap,Core,6.593406593406594,9.929078014184398,17,25
+openstack/oslo.limit,openstack/oslo.rootwrap,Non core,12.087912087912088,7.801418439716312,17,25
+openstack/oslo.limit,openstack/automaton,Core,8.928571428571429,10.81081081081081,11,18
+openstack/oslo.limit,openstack/automaton,Non core,10.714285714285714,13.513513513513514,11,18
+openstack/oslo.limit,openstack/debtcollector,Core,8.955223880597014,12.32876712328767,12,18
+openstack/oslo.limit,openstack/debtcollector,Non core,8.955223880597014,12.32876712328767,12,18
+openstack/oslo.limit,openstack/vitrage-dashboard,Core,3.3333333333333335,5.5045871559633035,12,8
+openstack/oslo.limit,openstack/vitrage-dashboard,Non core,10.0,1.834862385321101,12,8
+openstack/oslo.limit,openstack/oslotest,Core,7.317073170731707,11.711711711711711,14,26
+openstack/oslo.limit,openstack/oslotest,Non core,9.75609756097561,11.711711711711711,14,26
+openstack/oslo.limit,openstack/kayobe-config,Core,2.272727272727273,1.8181818181818181,2,1
+openstack/oslo.limit,openstack/kayobe-config,Non core,2.272727272727273,0.0,2,1
+openstack/oslo.limit,openstack/compute-hyperv,Core,4.6875,4.819277108433735,5,6
+openstack/oslo.limit,openstack/compute-hyperv,Non core,3.125,2.4096385542168677,5,6
+openstack/oslo.limit,openstack/python-cloudkittyclient,Core,3.571428571428571,6.796116504854369,13,16
+openstack/oslo.limit,openstack/python-cloudkittyclient,Non core,11.904761904761903,8.737864077669903,13,16
+openstack/oslo.limit,openstack/charm-interface-keystone,Core,4.3478260869565215,1.639344262295082,4,4
+openstack/oslo.limit,openstack/charm-interface-keystone,Non core,4.3478260869565215,4.918032786885246,4,4
+openstack/oslo.limit,openstack/cloudkitty-dashboard,Core,5.405405405405405,6.306306306306306,8,14
+openstack/oslo.limit,openstack/cloudkitty-dashboard,Non core,5.405405405405405,6.306306306306306,8,14
+openstack/oslo.limit,openstack/networking-hyperv,Core,4.938271604938271,4.395604395604396,7,9
+openstack/oslo.limit,openstack/networking-hyperv,Non core,3.7037037037037033,5.4945054945054945,7,9
+openstack/oslo.limit,openstack/i18n,Core,5.555555555555555,5.405405405405405,6,8
+openstack/oslo.limit,openstack/i18n,Non core,2.7777777777777777,1.8018018018018018,6,8
+openstack/oslo.limit,openstack/sahara-tests,Core,4.3478260869565215,4.716981132075472,5,9
+openstack/oslo.limit,openstack/sahara-tests,Non core,2.898550724637681,3.7735849056603774,5,9
+openstack/oslo.limit,openstack/python-zunclient,Core,4.807692307692308,4.37956204379562,15,15
+openstack/oslo.limit,openstack/python-zunclient,Non core,9.615384615384617,6.569343065693431,15,15
+openstack/oslo.limit,openstack/sahara-plugin-cdh,Core,6.976744186046512,6.666666666666667,5,10
+openstack/oslo.limit,openstack/sahara-plugin-cdh,Non core,4.651162790697675,10.0,5,10
+openstack/oslo.limit,openstack/monasca-ui,Core,3.8834951456310676,2.9940119760479043,9,12
+openstack/oslo.limit,openstack/monasca-ui,Non core,4.854368932038835,4.191616766467066,9,12
+openstack/oslo.limit,openstack/python-adjutantclient,Core,9.523809523809524,5.357142857142857,5,5
+openstack/oslo.limit,openstack/python-adjutantclient,Non core,2.380952380952381,3.571428571428571,5,5
+openstack/oslo.limit,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/ansible-role-lunasa-hsm,Core,2.7777777777777777,2.0,1,3
+openstack/oslo.limit,openstack/ansible-role-lunasa-hsm,Non core,0.0,4.0,1,3
+openstack/oslo.limit,openstack/monasca-thresh,Core,1.639344262295082,1.0752688172043012,2,1
+openstack/oslo.limit,openstack/monasca-thresh,Non core,1.639344262295082,0.0,2,1
+openstack/oslo.limit,openstack/heat-specs,Core,1.9230769230769231,3.125,2,8
+openstack/oslo.limit,openstack/heat-specs,Non core,0.0,0.4464285714285714,2,8
+openstack/oslo.limit,openstack/watcher-dashboard,Core,3.896103896103896,3.8095238095238098,8,10
+openstack/oslo.limit,openstack/watcher-dashboard,Non core,6.493506493506493,5.714285714285714,8,10
+openstack/oslo.limit,openstack/sahara-plugin-ambari,Core,7.142857142857142,5.555555555555555,5,9
+openstack/oslo.limit,openstack/sahara-plugin-ambari,Non core,4.761904761904762,11.11111111111111,5,9
+openstack/oslo.limit,openstack/sahara-plugin-mapr,Core,7.317073170731707,7.017543859649122,5,11
+openstack/oslo.limit,openstack/sahara-plugin-mapr,Non core,4.878048780487805,12.280701754385964,5,11
+openstack/oslo.limit,openstack/sahara-plugin-spark,Core,7.5,5.660377358490567,5,5
+openstack/oslo.limit,openstack/sahara-plugin-spark,Non core,5.0,3.7735849056603774,5,5
+openstack/oslo.limit,openstack/sahara-plugin-storm,Core,7.5,5.660377358490567,5,6
+openstack/oslo.limit,openstack/sahara-plugin-storm,Non core,5.0,5.660377358490567,5,6
+openstack/oslo.limit,openstack/sahara-plugin-vanilla,Core,7.5,5.555555555555555,5,7
+openstack/oslo.limit,openstack/sahara-plugin-vanilla,Non core,5.0,7.4074074074074066,5,7
+openstack/oslo.limit,openstack/sahara-specs,Core,2.380952380952381,1.680672268907563,2,2
+openstack/oslo.limit,openstack/sahara-specs,Non core,0.0,0.0,2,2
+openstack/oslo.limit,openstack/venus-tempest-plugin,Core,0.0,1.8867924528301887,0,1
+openstack/oslo.limit,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/ceilometermiddleware,Core,5.797101449275362,4.504504504504505,6,11
+openstack/oslo.limit,openstack/ceilometermiddleware,Non core,2.898550724637681,5.405405405405405,6,11
+openstack/oslo.limit,openstack/trove-tempest-plugin,Core,4.444444444444445,5.633802816901409,4,7
+openstack/oslo.limit,openstack/trove-tempest-plugin,Non core,4.444444444444445,4.225352112676056,4,7
+openstack/oslo.limit,openstack/arch-design,Core,2.5,6.0,3,4
+openstack/oslo.limit,openstack/arch-design,Non core,5.0,2.0,3,4
+openstack/oslo.limit,openstack/monasca-common,Core,3.8834951456310676,3.4482758620689653,7,11
+openstack/oslo.limit,openstack/monasca-common,Non core,2.912621359223301,4.137931034482759,7,11
+openstack/oslo.limit,openstack/monasca-statsd,Core,5.88235294117647,3.061224489795918,7,7
+openstack/oslo.limit,openstack/monasca-statsd,Non core,4.411764705882353,4.081632653061225,7,7
+openstack/oslo.limit,openstack/python-monascaclient,Core,3.5398230088495577,3.870967741935484,11,11
+openstack/oslo.limit,openstack/python-monascaclient,Non core,6.1946902654867255,3.225806451612903,11,11
+openstack/oslo.limit,openstack/renderspec,Core,7.6923076923076925,8.823529411764707,7,8
+openstack/oslo.limit,openstack/renderspec,Non core,5.769230769230769,2.941176470588235,7,8
+openstack/oslo.limit,openstack/os-service-types,Core,11.11111111111111,9.859154929577464,12,12
+openstack/oslo.limit,openstack/os-service-types,Non core,15.555555555555555,7.042253521126761,12,12
+openstack/oslo.limit,openstack/masakari-dashboard,Core,5.555555555555555,7.0588235294117645,8,11
+openstack/oslo.limit,openstack/masakari-dashboard,Non core,9.25925925925926,5.88235294117647,8,11
+openstack/oslo.limit,openstack/freezer-dr,Core,3.6363636363636362,7.792207792207792,5,9
+openstack/oslo.limit,openstack/freezer-dr,Non core,5.454545454545454,3.896103896103896,5,9
+openstack/oslo.limit,openstack/tempest-stress,Core,6.382978723404255,8.928571428571429,8,9
+openstack/oslo.limit,openstack/tempest-stress,Non core,10.638297872340425,7.142857142857142,8,9
+openstack/oslo.limit,openstack/charm-neutron-api-genericswitch,Core,2.7027027027027026,3.9215686274509802,2,2
+openstack/oslo.limit,openstack/charm-neutron-api-genericswitch,Non core,2.7027027027027026,0.0,2,2
+openstack/oslo.limit,openstack/charm-neutron-dynamic-routing,Core,4.166666666666666,4.918032786885246,3,5
+openstack/oslo.limit,openstack/charm-neutron-dynamic-routing,Non core,2.083333333333333,3.278688524590164,3,5
+openstack/oslo.limit,openstack/charm-interface-ceph-client,Core,4.878048780487805,3.508771929824561,2,2
+openstack/oslo.limit,openstack/charm-interface-ceph-client,Non core,0.0,0.0,2,2
+openstack/oslo.limit,openstack/charm-percona-cluster,Core,2.8169014084507045,3.225806451612903,4,5
+openstack/oslo.limit,openstack/charm-percona-cluster,Non core,2.8169014084507045,2.1505376344086025,4,5
+openstack/oslo.limit,openstack/charm-deployment-guide,Core,3.125,2.564102564102564,3,3
+openstack/oslo.limit,openstack/charm-deployment-guide,Non core,1.5625,1.282051282051282,3,3
+openstack/oslo.limit,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/oslo.metrics,Core,2.564102564102564,7.547169811320755,4,10
+openstack/oslo.limit,openstack/oslo.metrics,Non core,7.6923076923076925,11.320754716981133,4,10
+openstack/oslo.limit,openstack/oslo.vmware,Core,4.854368932038835,7.926829268292683,12,27
+openstack/oslo.limit,openstack/oslo.vmware,Non core,6.796116504854369,8.536585365853659,12,27
+openstack/oslo.limit,openstack/oslo.upgradecheck,Core,16.666666666666664,17.24137931034483,11,18
+openstack/oslo.limit,openstack/oslo.upgradecheck,Non core,9.523809523809524,13.793103448275861,11,18
+openstack/oslo.limit,openstack/python-masakariclient,Core,5.797101449275362,6.976744186046512,8,14
+openstack/oslo.limit,openstack/python-masakariclient,Non core,5.797101449275362,9.30232558139535,8,14
+openstack/oslo.limit,openstack/python-vitrageclient,Core,5.333333333333334,2.4390243902439024,14,5
+openstack/oslo.limit,openstack/python-vitrageclient,Non core,13.333333333333334,3.6585365853658534,14,5
+openstack/oslo.limit,openstack/python-blazarclient,Core,5.194805194805195,9.345794392523365,11,18
+openstack/oslo.limit,openstack/python-blazarclient,Non core,9.090909090909092,7.476635514018691,11,18
+openstack/oslo.limit,openstack/zaqar-tempest-plugin,Core,4.444444444444445,5.88235294117647,3,5
+openstack/oslo.limit,openstack/zaqar-tempest-plugin,Non core,2.2222222222222223,1.4705882352941175,3,5
+openstack/oslo.limit,openstack/tripleo-common-tempest-plugin,Core,6.8181818181818175,4.166666666666666,8,9
+openstack/oslo.limit,openstack/tripleo-common-tempest-plugin,Non core,11.363636363636363,8.333333333333332,8,9
+openstack/oslo.limit,openstack/mistral-tempest-plugin,Core,3.7735849056603774,2.631578947368421,6,7
+openstack/oslo.limit,openstack/mistral-tempest-plugin,Non core,7.547169811320755,6.578947368421052,6,7
+openstack/oslo.limit,openstack/barbican-ui,Core,2.857142857142857,3.508771929824561,1,3
+openstack/oslo.limit,openstack/barbican-ui,Non core,0.0,1.7543859649122806,1,3
+openstack/oslo.limit,openstack/liberasurecode,Core,2.2222222222222223,1.5151515151515151,2,2
+openstack/oslo.limit,openstack/liberasurecode,Non core,2.2222222222222223,1.5151515151515151,2,2
+openstack/oslo.limit,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/os-client-config,Core,5.825242718446602,5.673758865248227,11,13
+openstack/oslo.limit,openstack/os-client-config,Non core,4.854368932038835,3.546099290780142,11,13
+openstack/oslo.limit,openstack/monasca-specs,Core,4.651162790697675,2.666666666666667,4,3
+openstack/oslo.limit,openstack/monasca-specs,Non core,4.651162790697675,1.3333333333333335,4,3
+openstack/oslo.limit,openstack/os-performance-tools,Core,8.695652173913043,8.19672131147541,8,8
+openstack/oslo.limit,openstack/os-performance-tools,Non core,8.695652173913043,4.918032786885246,8,8
+openstack/oslo.limit,openstack/trove-specs,Core,2.73972602739726,1.5384615384615385,2,2
+openstack/oslo.limit,openstack/trove-specs,Non core,0.0,0.0,2,2
+openstack/oslo.limit,openstack/manila-image-elements,Core,3.508771929824561,3.3707865168539324,5,5
+openstack/oslo.limit,openstack/manila-image-elements,Non core,5.263157894736842,2.247191011235955,5,5
+openstack/oslo.limit,openstack/blazar-specs,Core,2.3255813953488373,6.153846153846154,1,4
+openstack/oslo.limit,openstack/blazar-specs,Non core,0.0,0.0,1,4
+openstack/oslo.limit,openstack/molteniron,Core,6.976744186046512,2.8169014084507045,4,3
+openstack/oslo.limit,openstack/molteniron,Non core,2.3255813953488373,1.4084507042253522,4,3
+openstack/oslo.limit,openstack/solum-specs,Core,4.081632653061225,0.0,2,0
+openstack/oslo.limit,openstack/solum-specs,Non core,0.0,0.0,2,0
+openstack/oslo.limit,openstack/patrole,Core,4.3478260869565215,6.122448979591836,10,13
+openstack/oslo.limit,openstack/patrole,Non core,4.3478260869565215,2.7210884353741496,10,13
+openstack/oslo.limit,openstack/performance-docs,Core,1.3888888888888888,3.0,3,6
+openstack/oslo.limit,openstack/performance-docs,Non core,2.7777777777777777,3.0,3,6
+openstack/oslo.limit,openstack/sphinx-feature-classification,Core,13.043478260869565,11.594202898550725,9,14
+openstack/oslo.limit,openstack/sphinx-feature-classification,Non core,6.521739130434782,8.695652173913043,9,14
+openstack/oslo.limit,openstack/etcd3gw,Core,2.4390243902439024,9.433962264150944,2,6
+openstack/oslo.limit,openstack/etcd3gw,Non core,2.4390243902439024,1.8867924528301887,2,6
+openstack/oslo.limit,openstack/watcher-specs,Core,1.25,2.380952380952381,3,5
+openstack/oslo.limit,openstack/watcher-specs,Non core,2.5,1.5873015873015872,3,5
+openstack/oslo.limit,openstack/yaql,Core,8.064516129032258,3.125,9,8
+openstack/oslo.limit,openstack/yaql,Non core,6.451612903225806,5.208333333333334,9,8
+openstack/oslo.limit,openstack/puppet-openstack-guide,Core,5.357142857142857,4.878048780487805,6,6
+openstack/oslo.limit,openstack/puppet-openstack-guide,Non core,5.357142857142857,2.4390243902439024,6,6
+openstack/oslo.limit,openstack/puppet-panko,Core,4.477611940298507,4.054054054054054,7,7
+openstack/oslo.limit,openstack/puppet-panko,Non core,5.970149253731343,5.405405405405405,7,7
+openstack/oslo.limit,openstack/heat-cfnclient,Core,7.8431372549019605,8.108108108108109,6,7
+openstack/oslo.limit,openstack/heat-cfnclient,Non core,3.9215686274509802,1.3513513513513513,6,7
+openstack/oslo.limit,openstack/heat-cfntools,Core,5.333333333333334,4.716981132075472,9,11
+openstack/oslo.limit,openstack/heat-cfntools,Non core,6.666666666666667,5.660377358490567,9,11
+openstack/oslo.limit,openstack/heat-templates,Core,2.2058823529411766,1.3636363636363635,4,7
+openstack/oslo.limit,openstack/heat-templates,Non core,0.7352941176470588,1.8181818181818181,4,7
+openstack/oslo.limit,openstack/governance-sigs,Core,6.451612903225806,7.4074074074074066,7,15
+openstack/oslo.limit,openstack/governance-sigs,Non core,4.838709677419355,3.7037037037037033,7,15
+openstack/oslo.limit,openstack/openstack-zuul-roles,Core,2.631578947368421,1.7241379310344827,1,1
+openstack/oslo.limit,openstack/openstack-zuul-roles,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/nova-powervm,Core,4.651162790697675,5.109489051094891,6,10
+openstack/oslo.limit,openstack/nova-powervm,Non core,2.3255813953488373,2.18978102189781,6,10
+openstack/oslo.limit,openstack/openstack-helm-addons,Core,0.0,1.3071895424836601,2,8
+openstack/oslo.limit,openstack/openstack-helm-addons,Non core,2.857142857142857,3.9215686274509802,2,8
+openstack/oslo.limit,openstack/python-pankoclient,Core,7.8431372549019605,6.578947368421052,9,12
+openstack/oslo.limit,openstack/python-pankoclient,Non core,9.803921568627452,9.210526315789473,9,12
+openstack/oslo.limit,openstack/qa-specs,Core,3.8461538461538463,3.3112582781456954,5,8
+openstack/oslo.limit,openstack/qa-specs,Non core,2.564102564102564,1.9867549668874174,5,8
+openstack/oslo.limit,openstack/zaqar-specs,Core,4.477611940298507,4.716981132075472,4,7
+openstack/oslo.limit,openstack/zaqar-specs,Non core,1.4925373134328357,1.8867924528301887,4,7
+openstack/oslo.limit,openstack/swift-bench,Core,0.0,1.2195121951219512,2,3
+openstack/oslo.limit,openstack/swift-bench,Non core,3.9215686274509802,2.4390243902439024,2,3
+openstack/oslo.limit,openstack/whereto,Core,9.75609756097561,12.068965517241379,11,12
+openstack/oslo.limit,openstack/whereto,Non core,17.073170731707318,8.620689655172415,11,12
+openstack/oslo.limit,openstack/murano-specs,Core,2.7027027027027026,0.9259259259259258,3,2
+openstack/oslo.limit,openstack/murano-specs,Non core,1.3513513513513513,0.9259259259259258,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-modify-image,Core,6.896551724137931,2.912621359223301,6,8
+openstack/oslo.limit,openstack/ansible-role-tripleo-modify-image,Non core,3.4482758620689653,4.854368932038835,6,8
+openstack/oslo.limit,openstack/requestsexceptions,Core,2.5,3.225806451612903,2,3
+openstack/oslo.limit,openstack/requestsexceptions,Non core,2.5,1.6129032258064515,2,3
+openstack/oslo.limit,openstack/panko,Core,5.263157894736842,4.316546762589928,12,11
+openstack/oslo.limit,openstack/panko,Non core,7.368421052631578,3.597122302158273,12,11
+openstack/oslo.limit,openstack/api-sig,Core,3.6585365853658534,3.8793103448275863,4,11
+openstack/oslo.limit,openstack/api-sig,Non core,1.2195121951219512,0.8620689655172413,4,11
+openstack/oslo.limit,openstack/openstack-chef-specs,Core,3.571428571428571,3.79746835443038,2,4
+openstack/oslo.limit,openstack/openstack-chef-specs,Non core,0.0,1.2658227848101267,2,4
+openstack/oslo.limit,openstack/freezer-specs,Core,3.7735849056603774,4.166666666666666,3,3
+openstack/oslo.limit,openstack/freezer-specs,Non core,1.8867924528301887,0.0,3,3
+openstack/oslo.limit,openstack/oslo.tools,Core,10.526315789473683,10.44776119402985,10,10
+openstack/oslo.limit,openstack/oslo.tools,Non core,7.017543859649122,4.477611940298507,10,10
+openstack/oslo.limit,openstack/microversion-parse,Core,5.263157894736842,8.771929824561402,6,6
+openstack/oslo.limit,openstack/microversion-parse,Non core,10.526315789473683,1.7543859649122806,6,6
+openstack/oslo.limit,openstack/openstackclient,Core,7.4074074074074066,8.108108108108109,5,9
+openstack/oslo.limit,openstack/openstackclient,Non core,1.8518518518518516,4.054054054054054,5,9
+openstack/oslo.limit,openstack/ossa,Core,3.7037037037037033,12.631578947368421,2,14
+openstack/oslo.limit,openstack/ossa,Non core,0.0,2.1052631578947367,2,14
+openstack/oslo.limit,openstack/reviewstats,Core,5.714285714285714,7.006369426751593,7,12
+openstack/oslo.limit,openstack/reviewstats,Non core,0.9523809523809524,0.6369426751592357,7,12
+openstack/oslo.limit,openstack/oslo-cookiecutter,Core,8.0,11.594202898550725,7,11
+openstack/oslo.limit,openstack/oslo-cookiecutter,Non core,6.0,4.3478260869565215,7,11
+openstack/oslo.limit,openstack/openstack-helm-deployments,Core,0.0,1.4084507042253522,0,1
+openstack/oslo.limit,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/security-analysis,Core,5.0,9.230769230769232,3,7
+openstack/oslo.limit,openstack/security-analysis,Non core,2.5,1.5384615384615385,3,7
+openstack/oslo.limit,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/ansible-role-tripleo-keystone,Core,2.631578947368421,1.9230769230769231,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-keystone,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/openstack-ansible-apt_package_pinning,Core,3.125,2.3529411764705883,7,6
+openstack/oslo.limit,openstack/openstack-ansible-apt_package_pinning,Non core,7.8125,4.705882352941177,7,6
+openstack/oslo.limit,openstack/ansible-role-qdrouterd,Core,4.651162790697675,4.10958904109589,4,5
+openstack/oslo.limit,openstack/ansible-role-qdrouterd,Non core,4.651162790697675,2.73972602739726,4,5
+openstack/oslo.limit,openstack/openstack-ansible-openstack_openrc,Core,2.7027027027027026,1.0416666666666665,8,4
+openstack/oslo.limit,openstack/openstack-ansible-openstack_openrc,Non core,8.108108108108109,3.125,8,4
+openstack/oslo.limit,openstack/openstack-ansible-nspawn_container_create,Core,3.9215686274509802,4.166666666666666,5,8
+openstack/oslo.limit,openstack/openstack-ansible-nspawn_container_create,Non core,5.88235294117647,6.944444444444445,5,8
+openstack/oslo.limit,openstack/devstack-tools,Core,4.166666666666666,5.084745762711865,4,6
+openstack/oslo.limit,openstack/devstack-tools,Non core,4.166666666666666,5.084745762711865,4,6
+openstack/oslo.limit,openstack/coverage2sql,Core,7.8431372549019605,10.0,8,8
+openstack/oslo.limit,openstack/coverage2sql,Non core,7.8431372549019605,3.3333333333333335,8,8
+openstack/oslo.limit,openstack/bashate,Core,3.8461538461538463,7.291666666666667,6,7
+openstack/oslo.limit,openstack/bashate,Non core,3.8461538461538463,0.0,6,7
+openstack/oslo.limit,openstack/hacking,Core,6.140350877192982,7.526881720430108,8,18
+openstack/oslo.limit,openstack/hacking,Non core,0.8771929824561403,2.1505376344086025,8,18
+openstack/oslo.limit,openstack/xstatic-mdi,Core,2.5,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-mdi,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-roboto-fontface,Core,2.564102564102564,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-roboto-fontface,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/openstack-chef,Core,3.508771929824561,3.125,3,3
+openstack/oslo.limit,openstack/openstack-chef,Non core,1.7543859649122806,1.5625,3,3
+openstack/oslo.limit,openstack/cookbook-openstackclient,Core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/cookbook-openstackclient,Non core,2.4390243902439024,3.508771929824561,1,2
+openstack/oslo.limit,openstack/xstatic-angular,Core,2.2222222222222223,1.4705882352941175,1,1
+openstack/oslo.limit,openstack/xstatic-angular,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/charm-interface-hacluster,Core,4.0,1.6129032258064515,3,2
+openstack/oslo.limit,openstack/charm-interface-hacluster,Non core,2.0,1.6129032258064515,3,2
+openstack/oslo.limit,openstack/puppet-openstack-specs,Core,5.555555555555555,2.0,6,4
+openstack/oslo.limit,openstack/puppet-openstack-specs,Non core,5.555555555555555,2.0,6,4
+openstack/oslo.limit,openstack/puppet-monasca,Core,5.0,1.6260162601626018,6,5
+openstack/oslo.limit,openstack/puppet-monasca,Non core,5.0,2.4390243902439024,6,5
+openstack/oslo.limit,openstack/eslint-config-openstack,Core,4.166666666666666,5.555555555555555,3,5
+openstack/oslo.limit,openstack/eslint-config-openstack,Non core,2.083333333333333,0.0,3,5
+openstack/oslo.limit,openstack/karma-subunit-reporter,Core,5.405405405405405,3.8461538461538463,2,2
+openstack/oslo.limit,openstack/karma-subunit-reporter,Non core,0.0,0.0,2,2
+openstack/oslo.limit,openstack/openstack-helm-docs,Core,2.5,6.0606060606060606,2,7
+openstack/oslo.limit,openstack/openstack-helm-docs,Non core,2.5,4.545454545454546,2,7
+openstack/oslo.limit,openstack/openstack-ansible-specs,Core,2.4096385542168677,2.5974025974025974,7,5
+openstack/oslo.limit,openstack/openstack-ansible-specs,Non core,6.024096385542169,0.6493506493506493,7,5
+openstack/oslo.limit,openstack/tempest-lib,Core,0.0,2.2222222222222223,0,4
+openstack/oslo.limit,openstack/tempest-lib,Non core,0.0,0.7407407407407408,0,4
+openstack/oslo.limit,openstack/tripleo-ha-utils,Core,2.5,0.0,3,2
+openstack/oslo.limit,openstack/tripleo-ha-utils,Non core,5.0,2.8169014084507045,3,2
+openstack/oslo.limit,openstack/devstack-vagrant,Core,2.083333333333333,1.4084507042253522,1,1
+openstack/oslo.limit,openstack/devstack-vagrant,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/goal-tools,Core,7.894736842105263,10.344827586206897,4,7
+openstack/oslo.limit,openstack/goal-tools,Non core,2.631578947368421,1.7241379310344827,4,7
+openstack/oslo.limit,openstack/cookiecutter,Core,8.571428571428571,10.576923076923077,8,13
+openstack/oslo.limit,openstack/cookiecutter,Non core,2.857142857142857,1.9230769230769231,8,13
+openstack/oslo.limit,openstack/dib-utils,Core,6.382978723404255,3.614457831325301,3,3
+openstack/oslo.limit,openstack/dib-utils,Non core,0.0,0.0,3,3
+openstack/oslo.limit,openstack/constellations,Core,5.555555555555555,13.20754716981132,4,10
+openstack/oslo.limit,openstack/constellations,Non core,5.555555555555555,5.660377358490567,4,10
+openstack/oslo.limit,openstack/cookbook-openstack-integration-test,Core,0.0,1.2658227848101267,1,2
+openstack/oslo.limit,openstack/cookbook-openstack-integration-test,Non core,1.9230769230769231,1.2658227848101267,1,2
+openstack/oslo.limit,openstack/cookbook-openstack-dashboard,Core,0.0,1.7699115044247788,1,4
+openstack/oslo.limit,openstack/cookbook-openstack-dashboard,Non core,1.2658227848101267,1.7699115044247788,1,4
+openstack/oslo.limit,openstack/cookbook-openstack-telemetry,Core,0.0,2.1052631578947367,2,3
+openstack/oslo.limit,openstack/cookbook-openstack-telemetry,Non core,2.5316455696202533,1.0526315789473684,2,3
+openstack/oslo.limit,openstack/cookbook-openstack-orchestration,Core,0.0,3.0303030303030303,1,4
+openstack/oslo.limit,openstack/cookbook-openstack-orchestration,Non core,1.4285714285714286,1.0101010101010102,1,4
+openstack/oslo.limit,openstack/cookbook-openstack-bare-metal,Core,0.0,1.4925373134328357,1,2
+openstack/oslo.limit,openstack/cookbook-openstack-bare-metal,Non core,2.272727272727273,1.4925373134328357,1,2
+openstack/oslo.limit,openstack/cookbook-openstack-dns,Core,0.0,1.8181818181818181,1,4
+openstack/oslo.limit,openstack/cookbook-openstack-dns,Non core,2.564102564102564,5.454545454545454,1,4
+openstack/oslo.limit,openstack/cookbook-openstack-compute,Core,0.0,1.4492753623188406,1,3
+openstack/oslo.limit,openstack/cookbook-openstack-compute,Non core,1.0101010101010102,0.7246376811594203,1,3
+openstack/oslo.limit,openstack/cookbook-openstack-network,Core,0.0,1.5037593984962405,1,3
+openstack/oslo.limit,openstack/cookbook-openstack-network,Non core,0.9900990099009901,0.7518796992481203,1,3
+openstack/oslo.limit,openstack/cookbook-openstack-block-storage,Core,1.0752688172043012,1.7543859649122806,3,3
+openstack/oslo.limit,openstack/cookbook-openstack-block-storage,Non core,2.1505376344086025,0.8771929824561403,3,3
+openstack/oslo.limit,openstack/cookbook-openstack-image,Core,0.0,1.7699115044247788,1,3
+openstack/oslo.limit,openstack/cookbook-openstack-image,Non core,1.1627906976744187,0.8849557522123894,1,3
+openstack/oslo.limit,openstack/cookbook-openstack-identity,Core,1.1627906976744187,1.680672268907563,3,3
+openstack/oslo.limit,openstack/cookbook-openstack-identity,Non core,2.3255813953488373,0.8403361344537815,3,3
+openstack/oslo.limit,openstack/cookbook-openstack-ops-database,Core,0.0,1.0752688172043012,1,3
+openstack/oslo.limit,openstack/cookbook-openstack-ops-database,Non core,1.4492753623188406,2.1505376344086025,1,3
+openstack/oslo.limit,openstack/cookbook-openstack-ops-messaging,Core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/cookbook-openstack-ops-messaging,Non core,1.6129032258064515,1.1363636363636365,1,1
+openstack/oslo.limit,openstack/cookbook-openstack-common,Core,1.0638297872340425,0.7299270072992701,3,2
+openstack/oslo.limit,openstack/cookbook-openstack-common,Non core,2.127659574468085,0.7299270072992701,3,2
+openstack/oslo.limit,openstack/self-healing-sig,Core,4.761904761904762,2.8169014084507045,3,2
+openstack/oslo.limit,openstack/self-healing-sig,Non core,2.380952380952381,0.0,3,2
+openstack/oslo.limit,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/security-specs,Core,6.521739130434782,4.0,4,3
+openstack/oslo.limit,openstack/security-specs,Non core,2.1739130434782608,0.0,4,3
+openstack/oslo.limit,openstack/openstack-ansible-os_panko,Core,3.9215686274509802,6.493506493506493,8,10
+openstack/oslo.limit,openstack/openstack-ansible-os_panko,Non core,11.76470588235294,6.493506493506493,8,10
+openstack/oslo.limit,openstack/openstack-ansible-nspawn_hosts,Core,4.0,2.7027027027027026,7,8
+openstack/oslo.limit,openstack/openstack-ansible-nspawn_hosts,Non core,10.0,8.108108108108109,7,8
+openstack/oslo.limit,openstack/charm-layer-openstack-principle,Core,2.631578947368421,0.0,2,0
+openstack/oslo.limit,openstack/charm-layer-openstack-principle,Non core,2.631578947368421,0.0,2,0
+openstack/oslo.limit,openstack/charm-watcher-dashboard,Core,2.7027027027027026,1.7543859649122806,1,1
+openstack/oslo.limit,openstack/charm-watcher-dashboard,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/charm-watcher,Core,2.564102564102564,3.125,1,3
+openstack/oslo.limit,openstack/charm-watcher,Non core,0.0,1.5625,1,3
+openstack/oslo.limit,openstack/openstack-ansible-galera_client,Core,2.5,1.0101010101010102,9,6
+openstack/oslo.limit,openstack/openstack-ansible-galera_client,Non core,8.75,5.05050505050505,9,6
+openstack/oslo.limit,openstack/cloudkitty-specs,Core,4.081632653061225,2.666666666666667,2,2
+openstack/oslo.limit,openstack/cloudkitty-specs,Non core,0.0,0.0,2,2
+openstack/oslo.limit,openstack/osops,Core,2.564102564102564,3.7037037037037033,1,3
+openstack/oslo.limit,openstack/osops,Non core,0.0,1.8518518518518516,1,3
+openstack/oslo.limit,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-ironic,Core,2.631578947368421,2.0,2,1
+openstack/oslo.limit,openstack/charm-ironic,Non core,2.631578947368421,0.0,2,1
+openstack/oslo.limit,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/multi-arch-sig,Core,2.7777777777777777,1.8518518518518516,1,1
+openstack/oslo.limit,openstack/multi-arch-sig,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/charm-nova-compute-proxy,Core,2.3255813953488373,0.0,3,1
+openstack/oslo.limit,openstack/charm-nova-compute-proxy,Non core,4.651162790697675,1.694915254237288,3,1
+openstack/oslo.limit,openstack/charm-odl-controller,Core,2.2222222222222223,0.0,2,1
+openstack/oslo.limit,openstack/charm-odl-controller,Non core,2.2222222222222223,1.7543859649122806,2,1
+openstack/oslo.limit,openstack/charm-nova-lxd,Core,3.9215686274509802,2.941176470588235,4,4
+openstack/oslo.limit,openstack/charm-nova-lxd,Non core,3.9215686274509802,2.941176470588235,4,4
+openstack/oslo.limit,openstack/charm-interface-nova-cell,Core,0.0,2.0408163265306123,0,1
+openstack/oslo.limit,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-interface-barbican-secrets,Core,2.564102564102564,1.8867924528301887,2,2
+openstack/oslo.limit,openstack/charm-interface-barbican-secrets,Non core,2.564102564102564,1.8867924528301887,2,2
+openstack/oslo.limit,openstack/charm-interface-mysql-innodb-cluster,Core,2.857142857142857,0.0,1,0
+openstack/oslo.limit,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/charm-interface-ceph-rbd-mirror,Core,2.631578947368421,1.8518518518518516,2,2
+openstack/oslo.limit,openstack/charm-interface-ceph-rbd-mirror,Non core,2.631578947368421,1.8518518518518516,2,2
+openstack/oslo.limit,openstack/charm-interface-placement,Core,2.857142857142857,0.0,2,0
+openstack/oslo.limit,openstack/charm-interface-placement,Non core,2.857142857142857,0.0,2,0
+openstack/oslo.limit,openstack/charm-interface-mysql-shared,Core,7.5,0.0,3,0
+openstack/oslo.limit,openstack/charm-interface-mysql-shared,Non core,0.0,0.0,3,0
+openstack/oslo.limit,openstack/charm-interface-dashboard-plugin,Core,2.564102564102564,1.8867924528301887,2,2
+openstack/oslo.limit,openstack/charm-interface-dashboard-plugin,Non core,2.564102564102564,1.8867924528301887,2,2
+openstack/oslo.limit,openstack/charm-interface-neutron-load-balancer,Core,2.564102564102564,1.8867924528301887,2,2
+openstack/oslo.limit,openstack/charm-interface-neutron-load-balancer,Non core,2.564102564102564,1.8867924528301887,2,2
+openstack/oslo.limit,openstack/charm-interface-neutron-plugin-api-subordinate,Core,4.878048780487805,3.6363636363636362,3,2
+openstack/oslo.limit,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,2.4390243902439024,0.0,3,2
+openstack/oslo.limit,openstack/charm-interface-neutron-plugin,Core,7.894736842105263,1.8518518518518516,3,1
+openstack/oslo.limit,openstack/charm-interface-neutron-plugin,Non core,0.0,0.0,3,1
+openstack/oslo.limit,openstack/xstatic-json2yaml,Core,2.857142857142857,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-jquery.tablesorter,Core,2.7777777777777777,1.9230769230769231,1,1
+openstack/oslo.limit,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/xstatic-magic-search,Core,2.4390243902439024,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-magic-search,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-jsencrypt,Core,2.564102564102564,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-jsencrypt,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-js-yaml,Core,2.7777777777777777,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-spin,Core,2.7777777777777777,1.9230769230769231,1,1
+openstack/oslo.limit,openstack/xstatic-spin,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/xstatic-rickshaw,Core,2.5,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-rickshaw,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/charm-panko,Core,2.631578947368421,3.508771929824561,2,3
+openstack/oslo.limit,openstack/charm-panko,Non core,2.631578947368421,1.7543859649122806,2,3
+openstack/oslo.limit,openstack/charm-interface-service-control,Core,2.5,1.8181818181818181,2,2
+openstack/oslo.limit,openstack/charm-interface-service-control,Non core,2.5,1.8181818181818181,2,2
+openstack/oslo.limit,openstack/openstack-ansible-os_almanach,Core,3.9215686274509802,2.631578947368421,9,5
+openstack/oslo.limit,openstack/openstack-ansible-os_almanach,Non core,13.725490196078432,3.9473684210526314,9,5
+openstack/oslo.limit,openstack/openstack-ansible-pip_install,Core,2.5974025974025974,1.7543859649122806,6,5
+openstack/oslo.limit,openstack/openstack-ansible-pip_install,Non core,5.194805194805195,2.631578947368421,6,5
+openstack/oslo.limit,openstack/python-karborclient,Core,3.79746835443038,6.0,8,12
+openstack/oslo.limit,openstack/python-karborclient,Non core,6.329113924050633,6.0,8,12
+openstack/oslo.limit,openstack/charm-interface-keystone-admin,Core,5.405405405405405,0.0,2,1
+openstack/oslo.limit,openstack/charm-interface-keystone-admin,Non core,0.0,1.9230769230769231,2,1
+openstack/oslo.limit,openstack/charm-interface-nova-compute,Core,2.4390243902439024,1.8181818181818181,2,4
+openstack/oslo.limit,openstack/charm-interface-nova-compute,Non core,2.4390243902439024,5.454545454545454,2,4
+openstack/oslo.limit,openstack/charm-interface-manila-plugin,Core,5.263157894736842,1.8518518518518516,2,1
+openstack/oslo.limit,openstack/charm-interface-manila-plugin,Non core,0.0,0.0,2,1
+openstack/oslo.limit,openstack/murano-apps,Core,2.3529411764705883,1.7094017094017095,2,2
+openstack/oslo.limit,openstack/murano-apps,Non core,0.0,0.0,2,2
+openstack/oslo.limit,openstack/puppet-senlin,Core,6.666666666666667,3.1746031746031744,5,3
+openstack/oslo.limit,openstack/puppet-senlin,Non core,4.444444444444445,1.5873015873015872,5,3
+openstack/oslo.limit,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,2,1
+openstack/oslo.limit,openstack/cookbook-openstack-application-catalog,Non core,5.263157894736842,1.8181818181818181,2,1
+openstack/oslo.limit,openstack/training-labs,Core,4.615384615384616,6.172839506172839,7,12
+openstack/oslo.limit,openstack/training-labs,Non core,6.153846153846154,8.641975308641975,7,12
+openstack/oslo.limit,openstack/karbor,Core,2.127659574468085,4.615384615384616,7,17
+openstack/oslo.limit,openstack/karbor,Non core,2.8368794326241136,4.102564102564102,7,17
+openstack/oslo.limit,openstack/devstack-plugin-open-cas,Core,0.0,3.571428571428571,0,2
+openstack/oslo.limit,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/openstack-ansible-os_congress,Core,3.7037037037037033,3.614457831325301,6,9
+openstack/oslo.limit,openstack/openstack-ansible-os_congress,Non core,7.4074074074074066,7.228915662650602,6,9
+openstack/oslo.limit,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-interface-keystone-notifications,Core,0.0,2.0408163265306123,0,1
+openstack/oslo.limit,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/os-collect-config,Core,5.128205128205128,4.895104895104895,10,9
+openstack/oslo.limit,openstack/os-collect-config,Non core,7.6923076923076925,1.3986013986013985,10,9
+openstack/oslo.limit,openstack/os-apply-config,Core,6.493506493506493,5.263157894736842,10,11
+openstack/oslo.limit,openstack/os-apply-config,Non core,6.493506493506493,3.007518796992481,10,11
+openstack/oslo.limit,openstack/puppet-freezer,Core,5.660377358490567,4.3478260869565215,6,6
+openstack/oslo.limit,openstack/puppet-freezer,Non core,5.660377358490567,4.3478260869565215,6,6
+openstack/oslo.limit,openstack/vitrage-specs,Core,2.9850746268656714,1.0638297872340425,5,5
+openstack/oslo.limit,openstack/vitrage-specs,Non core,4.477611940298507,4.25531914893617,5,5
+openstack/oslo.limit,openstack/specs-cookiecutter,Core,7.5,10.714285714285714,3,7
+openstack/oslo.limit,openstack/specs-cookiecutter,Non core,0.0,1.7857142857142856,3,7
+openstack/oslo.limit,openstack/rpm-packaging-tools,Core,7.142857142857142,7.462686567164178,4,7
+openstack/oslo.limit,openstack/rpm-packaging-tools,Non core,2.380952380952381,2.9850746268656714,4,7
+openstack/oslo.limit,openstack/ansible-role-openstack-operations,Core,4.3478260869565215,1.5625,4,2
+openstack/oslo.limit,openstack/ansible-role-openstack-operations,Non core,4.3478260869565215,1.5625,4,2
+openstack/oslo.limit,openstack/os-refresh-config,Core,7.936507936507936,4.464285714285714,10,11
+openstack/oslo.limit,openstack/os-refresh-config,Non core,7.936507936507936,5.357142857142857,10,11
+openstack/oslo.limit,openstack/mistral-specs,Core,3.3333333333333335,2.380952380952381,3,3
+openstack/oslo.limit,openstack/mistral-specs,Non core,1.6666666666666667,1.1904761904761905,3,3
+openstack/oslo.limit,openstack/scientific-wg,Core,2.7027027027027026,3.8461538461538463,1,2
+openstack/oslo.limit,openstack/scientific-wg,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,1.8867924528301887,0,1
+openstack/oslo.limit,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/manila-test-image,Core,2.7027027027027026,5.0,1,4
+openstack/oslo.limit,openstack/manila-test-image,Non core,0.0,1.6666666666666667,1,4
+openstack/oslo.limit,openstack/governance-website,Core,7.6923076923076925,7.936507936507936,5,6
+openstack/oslo.limit,openstack/governance-website,Non core,5.128205128205128,1.5873015873015872,5,6
+openstack/oslo.limit,openstack/bugdaystats,Core,2.631578947368421,3.225806451612903,1,2
+openstack/oslo.limit,openstack/bugdaystats,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/upstream-institute-virtual-environment,Core,2.5,3.389830508474576,1,2
+openstack/oslo.limit,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/karbor-dashboard,Core,1.5625,6.315789473684211,8,12
+openstack/oslo.limit,openstack/karbor-dashboard,Non core,10.9375,6.315789473684211,8,12
+openstack/oslo.limit,openstack/django_openstack_auth,Core,2.7522935779816518,2.4390243902439024,3,8
+openstack/oslo.limit,openstack/django_openstack_auth,Non core,0.0,1.4634146341463417,3,8
+openstack/oslo.limit,openstack/monasca-transform,Core,4.477611940298507,3.225806451612903,8,7
+openstack/oslo.limit,openstack/monasca-transform,Non core,7.462686567164178,4.301075268817205,8,7
+openstack/oslo.limit,openstack/monasca-ceilometer,Core,3.896103896103896,3.4782608695652173,7,7
+openstack/oslo.limit,openstack/monasca-ceilometer,Non core,5.194805194805195,2.608695652173913,7,7
+openstack/oslo.limit,openstack/monasca-log-api,Core,4.761904761904762,3.816793893129771,6,11
+openstack/oslo.limit,openstack/monasca-log-api,Non core,2.380952380952381,4.580152671755725,6,11
+openstack/oslo.limit,openstack/nose-html-output,Core,2.380952380952381,1.6129032258064515,1,1
+openstack/oslo.limit,openstack/nose-html-output,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/kolla-cli,Core,0.0,3.896103896103896,4,9
+openstack/oslo.limit,openstack/kolla-cli,Non core,7.6923076923076925,7.792207792207792,4,9
+openstack/oslo.limit,openstack/neutron-lbaas-dashboard,Core,4.054054054054054,5.6000000000000005,8,12
+openstack/oslo.limit,openstack/neutron-lbaas-dashboard,Non core,6.756756756756757,4.0,8,12
+openstack/oslo.limit,openstack/searchlight,Core,4.285714285714286,4.093567251461988,12,13
+openstack/oslo.limit,openstack/searchlight,Non core,4.285714285714286,3.508771929824561,12,13
+openstack/oslo.limit,openstack/searchlight-ui,Core,4.166666666666666,4.25531914893617,8,6
+openstack/oslo.limit,openstack/searchlight-ui,Non core,6.944444444444445,2.127659574468085,8,6
+openstack/oslo.limit,openstack/searchlight-specs,Core,3.7735849056603774,2.5,5,4
+openstack/oslo.limit,openstack/searchlight-specs,Non core,5.660377358490567,2.5,5,4
+openstack/oslo.limit,openstack/python-searchlightclient,Core,5.88235294117647,5.263157894736842,11,8
+openstack/oslo.limit,openstack/python-searchlightclient,Non core,10.294117647058822,3.1578947368421053,11,8
+openstack/oslo.limit,openstack/charm-tempest,Core,3.7735849056603774,4.411764705882353,3,5
+openstack/oslo.limit,openstack/charm-tempest,Non core,1.8867924528301887,2.941176470588235,3,5
+openstack/oslo.limit,openstack/charm-barbican-softhsm,Core,4.0,3.125,3,4
+openstack/oslo.limit,openstack/charm-barbican-softhsm,Non core,2.0,3.125,3,4
+openstack/oslo.limit,openstack/cookbook-openstack-client,Core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/cookbook-openstack-client,Non core,2.4390243902439024,1.6129032258064515,1,1
+openstack/oslo.limit,openstack/instack-undercloud,Core,3.10077519379845,2.5,7,13
+openstack/oslo.limit,openstack/instack-undercloud,Non core,2.3255813953488373,2.9166666666666665,7,13
+openstack/oslo.limit,openstack/publiccloud-sig,Core,5.128205128205128,3.571428571428571,2,2
+openstack/oslo.limit,openstack/publiccloud-sig,Non core,0.0,0.0,2,2
+openstack/oslo.limit,openstack/ideas,Core,2.631578947368421,9.859154929577464,1,7
+openstack/oslo.limit,openstack/ideas,Non core,0.0,0.0,1,7
+openstack/oslo.limit,openstack/uc-recognition,Core,0.0,1.7543859649122806,0,1
+openstack/oslo.limit,openstack/uc-recognition,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/ops-tags-team,Core,0.0,3.8461538461538463,0,3
+openstack/oslo.limit,openstack/ops-tags-team,Non core,0.0,0.0,0,3
+openstack/oslo.limit,openstack/enterprise-wg,Core,0.0,2.083333333333333,0,1
+openstack/oslo.limit,openstack/enterprise-wg,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/governance-uc,Core,5.769230769230769,3.0927835051546393,4,6
+openstack/oslo.limit,openstack/governance-uc,Non core,1.9230769230769231,3.0927835051546393,4,6
+openstack/oslo.limit,openstack/workload-ref-archs,Core,4.651162790697675,5.172413793103448,4,6
+openstack/oslo.limit,openstack/workload-ref-archs,Non core,4.651162790697675,5.172413793103448,4,6
+openstack/oslo.limit,openstack/arch-wg,Core,0.0,3.1746031746031744,0,2
+openstack/oslo.limit,openstack/arch-wg,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/project-navigator-data,Core,6.0,7.246376811594203,3,5
+openstack/oslo.limit,openstack/project-navigator-data,Non core,0.0,0.0,3,5
+openstack/oslo.limit,openstack/openstack-specs,Core,5.88235294117647,4.587155963302752,3,12
+openstack/oslo.limit,openstack/openstack-specs,Non core,0.0,0.9174311926605505,3,12
+openstack/oslo.limit,openstack/openstack-ansible-os_monasca,Core,3.1746031746031744,3.1914893617021276,8,8
+openstack/oslo.limit,openstack/openstack-ansible-os_monasca,Non core,9.523809523809524,5.319148936170213,8,8
+openstack/oslo.limit,openstack/openstack-ansible-os_monasca-agent,Core,3.7735849056603774,2.564102564102564,6,6
+openstack/oslo.limit,openstack/openstack-ansible-os_monasca-agent,Non core,7.547169811320755,5.128205128205128,6,6
+openstack/oslo.limit,openstack/ironic-inspector-specs,Core,3.7037037037037033,1.0752688172043012,5,2
+openstack/oslo.limit,openstack/ironic-inspector-specs,Non core,5.555555555555555,1.0752688172043012,5,2
+openstack/oslo.limit,openstack/sushy-cli,Core,7.5,1.7241379310344827,3,1
+openstack/oslo.limit,openstack/sushy-cli,Non core,0.0,0.0,3,1
+openstack/oslo.limit,openstack/puppet-glare,Core,5.172413793103448,4.054054054054054,6,4
+openstack/oslo.limit,openstack/puppet-glare,Non core,5.172413793103448,1.3513513513513513,6,4
+openstack/oslo.limit,openstack/xstatic-bootstrap-scss,Core,2.5,1.6129032258064515,1,1
+openstack/oslo.limit,openstack/xstatic-bootstrap-scss,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/openstack-planet,Core,3.2388663967611335,1.9607843137254901,10,3
+openstack/oslo.limit,openstack/openstack-planet,Non core,0.8097165991902834,0.0,10,3
+openstack/oslo.limit,openstack/charm-interface-keystone-credentials,Core,4.761904761904762,1.8181818181818181,2,2
+openstack/oslo.limit,openstack/charm-interface-keystone-credentials,Non core,0.0,1.8181818181818181,2,2
+openstack/oslo.limit,openstack/monasca-kibana-plugin,Core,2.272727272727273,3.0303030303030303,1,2
+openstack/oslo.limit,openstack/monasca-kibana-plugin,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/charm-interface-keystone-domain-backend,Core,5.128205128205128,1.9230769230769231,2,1
+openstack/oslo.limit,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,2,1
+openstack/oslo.limit,openstack/devstack-plugin-amqp1,Core,4.545454545454546,9.67741935483871,2,7
+openstack/oslo.limit,openstack/devstack-plugin-amqp1,Non core,0.0,1.6129032258064515,2,7
+openstack/oslo.limit,openstack/devstack-plugin-kafka,Core,7.6923076923076925,8.620689655172415,3,7
+openstack/oslo.limit,openstack/devstack-plugin-kafka,Non core,0.0,3.4482758620689653,3,7
+openstack/oslo.limit,openstack/tripleo-ipsec,Core,7.317073170731707,4.838709677419355,5,6
+openstack/oslo.limit,openstack/tripleo-ipsec,Non core,4.878048780487805,4.838709677419355,5,6
+openstack/oslo.limit,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/monasca-grafana-datasource,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-interface-bind-rndc,Core,4.878048780487805,1.8181818181818181,2,1
+openstack/oslo.limit,openstack/charm-interface-bind-rndc,Non core,0.0,0.0,2,1
+openstack/oslo.limit,openstack/charm-interface-rabbitmq,Core,5.0,1.8181818181818181,2,2
+openstack/oslo.limit,openstack/charm-interface-rabbitmq,Non core,0.0,1.8181818181818181,2,2
+openstack/oslo.limit,openstack/charm-interface-openstack-ha,Core,2.5,3.6363636363636362,1,2
+openstack/oslo.limit,openstack/charm-interface-openstack-ha,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/charm-interface-gnocchi,Core,5.263157894736842,3.3333333333333335,2,3
+openstack/oslo.limit,openstack/charm-interface-gnocchi,Non core,0.0,1.6666666666666667,2,3
+openstack/oslo.limit,openstack/charm-interface-bgp,Core,5.128205128205128,1.8181818181818181,3,1
+openstack/oslo.limit,openstack/charm-interface-bgp,Non core,2.564102564102564,0.0,3,1
+openstack/oslo.limit,openstack/charm-interface-websso-fid-service-provider,Core,0.0,1.9607843137254901,0,1
+openstack/oslo.limit,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/charm-interface-designate,Core,0.0,1.9230769230769231,0,1
+openstack/oslo.limit,openstack/charm-interface-designate,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/tempest-horizon,Core,3.7735849056603774,4.545454545454546,2,4
+openstack/oslo.limit,openstack/tempest-horizon,Non core,0.0,1.5151515151515151,2,4
+openstack/oslo.limit,openstack/logstash-filters,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/logstash-filters,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/xstatic-jquery-migrate,Core,2.7027027027027026,1.8867924528301887,1,1
+openstack/oslo.limit,openstack/xstatic-jquery-migrate,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/qinling-dashboard,Core,5.128205128205128,8.771929824561402,3,7
+openstack/oslo.limit,openstack/qinling-dashboard,Non core,2.564102564102564,3.508771929824561,3,7
+openstack/oslo.limit,openstack/python-qinlingclient,Core,7.547169811320755,11.666666666666666,12,14
+openstack/oslo.limit,openstack/python-qinlingclient,Non core,15.09433962264151,11.666666666666666,12,14
+openstack/oslo.limit,openstack/qinling,Core,5.88235294117647,5.263157894736842,11,9
+openstack/oslo.limit,openstack/qinling,Non core,10.294117647058822,6.578947368421052,11,9
+openstack/oslo.limit,openstack/monasca-analytics,Core,3.6363636363636362,4.761904761904762,5,6
+openstack/oslo.limit,openstack/monasca-analytics,Non core,5.454545454545454,2.380952380952381,5,6
+openstack/oslo.limit,openstack/oslo-incubator,Core,2.0,2.8199566160520604,6,16
+openstack/oslo.limit,openstack/oslo-incubator,Non core,0.0,0.6507592190889371,6,16
+openstack/oslo.limit,openstack/puppet-congress,Core,5.263157894736842,1.4492753623188406,7,3
+openstack/oslo.limit,openstack/puppet-congress,Non core,7.017543859649122,2.898550724637681,7,3
+openstack/oslo.limit,openstack/openstack-ansible-os_monasca-ui,Core,4.651162790697675,3.125,4,3
+openstack/oslo.limit,openstack/openstack-ansible-os_monasca-ui,Non core,4.651162790697675,1.5625,4,3
+openstack/oslo.limit,openstack/auto-scaling-sig,Core,2.564102564102564,4.918032786885246,1,3
+openstack/oslo.limit,openstack/auto-scaling-sig,Non core,0.0,0.0,1,3
+openstack/oslo.limit,openstack/os-loganalyze,Core,0.0,4.2105263157894735,0,4
+openstack/oslo.limit,openstack/os-loganalyze,Non core,0.0,0.0,0,4
+openstack/oslo.limit,openstack/devstack-plugin-pika,Core,5.405405405405405,11.76470588235294,2,8
+openstack/oslo.limit,openstack/devstack-plugin-pika,Non core,0.0,3.9215686274509802,2,8
+openstack/oslo.limit,openstack/devstack-plugin-zmq,Core,7.317073170731707,10.909090909090908,3,7
+openstack/oslo.limit,openstack/devstack-plugin-zmq,Non core,0.0,1.8181818181818181,3,7
+openstack/oslo.limit,openstack/networking-l2gw,Core,3.1914893617021276,2.094240837696335,8,8
+openstack/oslo.limit,openstack/networking-l2gw,Non core,5.319148936170213,2.094240837696335,8,8
+openstack/oslo.limit,openstack/networking-l2gw-tempest-plugin,Core,2.3255813953488373,2.941176470588235,3,3
+openstack/oslo.limit,openstack/networking-l2gw-tempest-plugin,Non core,4.651162790697675,1.4705882352941175,3,3
+openstack/oslo.limit,openstack/charm-interface-ceph-mds,Core,5.0,0.0,2,0
+openstack/oslo.limit,openstack/charm-interface-ceph-mds,Non core,0.0,0.0,2,0
+openstack/oslo.limit,openstack/xstatic-angular-ui-router,Core,0.0,3.7735849056603774,0,2
+openstack/oslo.limit,openstack/xstatic-angular-ui-router,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/xstatic-vis,Core,2.7027027027027026,3.9215686274509802,1,2
+openstack/oslo.limit,openstack/xstatic-vis,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/cookbook-openstack-database,Core,0.0,2.898550724637681,0,2
+openstack/oslo.limit,openstack/cookbook-openstack-database,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/cookbook-openstack-data-processing,Core,0.0,3.1746031746031744,0,2
+openstack/oslo.limit,openstack/cookbook-openstack-data-processing,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/trove-integration,Core,0.0,1.3605442176870748,0,2
+openstack/oslo.limit,openstack/trove-integration,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-sensu,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-sensu,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/python-ceilometerclient,Core,1.3605442176870748,2.2123893805309733,2,6
+openstack/oslo.limit,openstack/python-ceilometerclient,Non core,0.0,0.4424778761061947,2,6
+openstack/oslo.limit,openstack/keystoneauth-saml2,Core,2.1739130434782608,5.333333333333334,1,6
+openstack/oslo.limit,openstack/keystoneauth-saml2,Non core,0.0,2.666666666666667,1,6
+openstack/oslo.limit,openstack/murano-deployment,Core,0.0,1.2048192771084338,0,1
+openstack/oslo.limit,openstack/murano-deployment,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/python-keystoneclient-kerberos,Core,2.1739130434782608,5.47945205479452,1,6
+openstack/oslo.limit,openstack/python-keystoneclient-kerberos,Non core,0.0,2.73972602739726,1,6
+openstack/oslo.limit,openstack/python-wsmanclient,Core,0.0,1.8181818181818181,0,1
+openstack/oslo.limit,openstack/python-wsmanclient,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/fuel-upgrade,Core,2.3255813953488373,1.36986301369863,1,1
+openstack/oslo.limit,openstack/fuel-upgrade,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/cookbook-openstack-object-storage,Core,1.639344262295082,2.272727272727273,1,2
+openstack/oslo.limit,openstack/cookbook-openstack-object-storage,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/fairy-slipper,Core,2.4390243902439024,6.666666666666667,1,4
+openstack/oslo.limit,openstack/fairy-slipper,Non core,0.0,0.0,1,4
+openstack/oslo.limit,openstack/django-openstack-auth-kerberos,Core,2.564102564102564,1.5873015873015872,1,1
+openstack/oslo.limit,openstack/django-openstack-auth-kerberos,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/horizon-cisco-ui,Core,2.1739130434782608,3.389830508474576,1,2
+openstack/oslo.limit,openstack/horizon-cisco-ui,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/zuul-packaging,Core,2.7777777777777777,3.571428571428571,1,2
+openstack/oslo.limit,openstack/zuul-packaging,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/networking-generic-switch-tempest-plugin,Core,0.0,2.083333333333333,0,1
+openstack/oslo.limit,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/tripleo-incubator,Core,1.550387596899225,1.9417475728155338,2,4
+openstack/oslo.limit,openstack/tripleo-incubator,Non core,0.0,0.0,2,4
+openstack/oslo.limit,openstack/ironic-webclient,Core,0.0,1.2987012987012987,0,1
+openstack/oslo.limit,openstack/ironic-webclient,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/puppet-crane,Core,0.0,4.166666666666666,0,3
+openstack/oslo.limit,openstack/puppet-crane,Non core,0.0,2.083333333333333,0,3
+openstack/oslo.limit,openstack/release-tools,Core,4.615384615384616,4.424778761061947,3,7
+openstack/oslo.limit,openstack/release-tools,Non core,0.0,1.7699115044247788,3,7
+openstack/oslo.limit,openstack/gnocchi,Core,0.9900990099009901,1.7341040462427744,2,4
+openstack/oslo.limit,openstack/gnocchi,Non core,0.9900990099009901,0.5780346820809248,2,4
+openstack/oslo.limit,openstack/networking-ofagent,Core,0.0,2.8169014084507045,0,2
+openstack/oslo.limit,openstack/networking-ofagent,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/python-neutron-pd-driver,Core,0.0,4.0,0,2
+openstack/oslo.limit,openstack/python-neutron-pd-driver,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/charm-ceph,Core,0.0,1.5384615384615385,1,2
+openstack/oslo.limit,openstack/charm-ceph,Non core,1.8867924528301887,1.5384615384615385,1,2
+openstack/oslo.limit,openstack/openstack-ansible-os_freezer,Core,0.0,2.0408163265306123,0,1
+openstack/oslo.limit,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/openstack-ansible-pip_lock_down,Core,4.3478260869565215,3.278688524590164,2,2
+openstack/oslo.limit,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.0,2,2
+openstack/oslo.limit,openstack/openstack-ansible-security,Core,2.8169014084507045,2.631578947368421,2,3
+openstack/oslo.limit,openstack/openstack-ansible-security,Non core,0.0,0.0,2,3
+openstack/oslo.limit,openstack/oslosphinx,Core,5.405405405405405,8.653846153846153,7,13
+openstack/oslo.limit,openstack/oslosphinx,Non core,4.054054054054054,3.8461538461538463,7,13
+openstack/oslo.limit,openstack/python-gnocchiclient,Core,0.0,2.564102564102564,0,2
+openstack/oslo.limit,openstack/python-gnocchiclient,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/ansible-role-k8s-cinder,Core,0.0,2.0,0,1
+openstack/oslo.limit,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/ansible-role-k8s-cookiecutter,Core,0.0,4.0,0,2
+openstack/oslo.limit,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/ansible-role-k8s-glance,Core,2.7027027027027026,4.0,1,2
+openstack/oslo.limit,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/ansible-role-k8s-keystone,Core,2.7027027027027026,1.8867924528301887,1,1
+openstack/oslo.limit,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/ansible-role-k8s-mariadb,Core,2.631578947368421,3.8461538461538463,1,2
+openstack/oslo.limit,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/ansible-role-k8s-rabbitmq,Core,0.0,2.083333333333333,0,1
+openstack/oslo.limit,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/ansible-role-k8s-tripleo,Core,2.7027027027027026,3.9215686274509802,1,2
+openstack/oslo.limit,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-ui,Core,2.631578947368421,3.8461538461538463,3,3
+openstack/oslo.limit,openstack/ansible-role-tripleo-ui,Non core,5.263157894736842,1.9230769230769231,3,3
+openstack/oslo.limit,openstack/ansible-role-tripleo-aodh,Core,2.631578947368421,1.9230769230769231,3,3
+openstack/oslo.limit,openstack/ansible-role-tripleo-aodh,Non core,5.263157894736842,3.8461538461538463,3,3
+openstack/oslo.limit,openstack/ansible-role-tripleo-barbican,Core,2.631578947368421,1.9230769230769231,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-barbican,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-ceilometer,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-ceilometer,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-cinder,Core,2.631578947368421,1.9230769230769231,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-cinder,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-cookiecutter,Core,7.5,3.389830508474576,5,3
+openstack/oslo.limit,openstack/ansible-role-tripleo-cookiecutter,Non core,5.0,1.694915254237288,5,3
+openstack/oslo.limit,openstack/tripleo-ui,Core,3.076923076923077,6.5420560747663545,4,10
+openstack/oslo.limit,openstack/tripleo-ui,Non core,3.076923076923077,2.803738317757009,4,10
+openstack/oslo.limit,openstack/ansible-role-tripleo-ovn,Core,2.631578947368421,1.9230769230769231,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-ovn,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-opendaylight,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-opendaylight,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-octavia,Core,2.564102564102564,1.9230769230769231,2,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-octavia,Non core,2.564102564102564,1.9230769230769231,2,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-nova,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-nova,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/os-cloud-config,Core,3.614457831325301,2.1739130434782608,3,3
+openstack/oslo.limit,openstack/os-cloud-config,Non core,0.0,0.0,3,3
+openstack/oslo.limit,openstack/ansible-role-tripleo-zaqar,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-zaqar,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-tempest,Core,2.631578947368421,1.9607843137254901,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-tempest,Non core,5.263157894736842,1.9607843137254901,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-sahara,Core,2.631578947368421,1.9230769230769231,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-sahara,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-swift,Core,2.631578947368421,1.9230769230769231,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-swift,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-tacker,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-tacker,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,2.631578947368421,1.9230769230769231,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-rabbitmq,Core,2.631578947368421,1.9230769230769231,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-rabbitmq,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-qdrouterd,Core,0.0,2.0408163265306123,0,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-panko,Core,2.631578947368421,1.9230769230769231,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-panko,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-heat,Core,2.631578947368421,1.9230769230769231,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-heat,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-haproxy,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-haproxy,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-gnocchi,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-gnocchi,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-glance,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-glance,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-designate,Core,2.631578947368421,1.8867924528301887,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-designate,Non core,5.263157894736842,0.0,3,1
+openstack/oslo.limit,openstack/ansible-role-tripleo-neutron,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-neutron,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-mistral,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-mistral,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-memcached,Core,2.631578947368421,1.9230769230769231,3,3
+openstack/oslo.limit,openstack/ansible-role-tripleo-memcached,Non core,5.263157894736842,3.8461538461538463,3,3
+openstack/oslo.limit,openstack/ansible-role-tripleo-manila,Core,2.631578947368421,3.8461538461538463,3,3
+openstack/oslo.limit,openstack/ansible-role-tripleo-manila,Non core,5.263157894736842,1.9230769230769231,3,3
+openstack/oslo.limit,openstack/ansible-role-tripleo-ironic,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-ironic,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-keepalived,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-keepalived,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-horizon,Core,2.631578947368421,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/ansible-role-tripleo-horizon,Non core,5.263157894736842,1.9230769230769231,3,2
+openstack/oslo.limit,openstack/pylockfile,Core,2.380952380952381,10.0,1,7
+openstack/oslo.limit,openstack/pylockfile,Non core,0.0,1.6666666666666667,1,7
+openstack/oslo.limit,openstack/xstatic-moment-timezone,Core,2.7777777777777777,2.0,1,1
+openstack/oslo.limit,openstack/xstatic-moment-timezone,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/xstatic-dagre-d3,Core,2.7777777777777777,2.0,1,1
+openstack/oslo.limit,openstack/xstatic-dagre-d3,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/xstatic-dagre,Core,0.0,2.0408163265306123,0,1
+openstack/oslo.limit,openstack/xstatic-dagre,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/dragonflow,Core,1.9736842105263157,2.631578947368421,7,11
+openstack/oslo.limit,openstack/dragonflow,Non core,2.631578947368421,2.1929824561403506,7,11
+openstack/oslo.limit,openstack/openstack,Core,2.631578947368421,6.557377049180328,1,4
+openstack/oslo.limit,openstack/openstack,Non core,0.0,0.0,1,4
+openstack/oslo.limit,openstack/charm-interface-pacemaker-remote,Core,2.7027027027027026,1.8518518518518516,2,2
+openstack/oslo.limit,openstack/charm-interface-pacemaker-remote,Non core,2.7027027027027026,1.8518518518518516,2,2
+openstack/oslo.limit,openstack/networking-onos,Core,2.0,1.0526315789473684,1,2
+openstack/oslo.limit,openstack/networking-onos,Non core,0.0,1.0526315789473684,1,2
+openstack/oslo.limit,openstack/solum-infra-guestagent,Core,2.5,1.6666666666666667,1,1
+openstack/oslo.limit,openstack/solum-infra-guestagent,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/openstack-ux,Core,2.7027027027027026,1.5384615384615385,1,1
+openstack/oslo.limit,openstack/openstack-ux,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/mox3,Core,5.660377358490567,13.698630136986301,8,12
+openstack/oslo.limit,openstack/mox3,Non core,9.433962264150944,2.73972602739726,8,12
+openstack/oslo.limit,openstack/charm-layer-ceph,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-layer-ceph,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-layer-ceph-base,Core,2.631578947368421,0.0,1,0
+openstack/oslo.limit,openstack/charm-layer-ceph-base,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/python-tricircleclient,Core,6.521739130434782,5.633802816901409,7,6
+openstack/oslo.limit,openstack/python-tricircleclient,Non core,8.695652173913043,2.8169014084507045,7,6
+openstack/oslo.limit,openstack/tricircle,Core,2.803738317757009,3.4482758620689653,8,12
+openstack/oslo.limit,openstack/tricircle,Non core,4.672897196261682,3.4482758620689653,8,12
+openstack/oslo.limit,openstack/swift-specs,Core,3.571428571428571,3.7037037037037033,2,4
+openstack/oslo.limit,openstack/swift-specs,Non core,0.0,0.0,2,4
+openstack/oslo.limit,openstack/congress,Core,3.428571428571429,3.7344398340248963,12,17
+openstack/oslo.limit,openstack/congress,Non core,3.428571428571429,3.319502074688797,12,17
+openstack/oslo.limit,openstack/congress-tempest-plugin,Core,1.9607843137254901,4.545454545454546,3,7
+openstack/oslo.limit,openstack/congress-tempest-plugin,Non core,3.9215686274509802,6.0606060606060606,3,7
+openstack/oslo.limit,openstack/python-congressclient,Core,2.5316455696202533,7.954545454545454,7,12
+openstack/oslo.limit,openstack/python-congressclient,Non core,6.329113924050633,5.681818181818182,7,12
+openstack/oslo.limit,openstack/congress-specs,Core,3.0303030303030303,2.2222222222222223,3,5
+openstack/oslo.limit,openstack/congress-specs,Non core,1.5151515151515151,3.3333333333333335,3,5
+openstack/oslo.limit,openstack/congress-dashboard,Core,5.769230769230769,8.450704225352112,7,11
+openstack/oslo.limit,openstack/congress-dashboard,Non core,7.6923076923076925,7.042253521126761,7,11
+openstack/oslo.limit,openstack/syntribos,Core,3.225806451612903,2.4691358024691357,3,2
+openstack/oslo.limit,openstack/syntribos,Non core,1.6129032258064515,0.0,3,2
+openstack/oslo.limit,openstack/syntribos-payloads,Core,2.857142857142857,1.8867924528301887,1,1
+openstack/oslo.limit,openstack/syntribos-payloads,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/syntribos-openstack-templates,Core,2.7027027027027026,1.8181818181818181,1,1
+openstack/oslo.limit,openstack/syntribos-openstack-templates,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/i18n-specs,Core,5.714285714285714,1.8518518518518516,2,1
+openstack/oslo.limit,openstack/i18n-specs,Non core,0.0,0.0,2,1
+openstack/oslo.limit,openstack/tempest-plugin-cookiecutter,Core,2.631578947368421,3.4482758620689653,1,2
+openstack/oslo.limit,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/devstack-plugin-cookiecutter,Core,0.0,1.9230769230769231,0,1
+openstack/oslo.limit,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/xstatic-graphlib,Core,0.0,2.0,0,1
+openstack/oslo.limit,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/openstack-ansible-repo_build,Core,2.3529411764705883,2.479338842975207,8,10
+openstack/oslo.limit,openstack/openstack-ansible-repo_build,Non core,7.0588235294117645,5.785123966942149,8,10
+openstack/oslo.limit,openstack/xstatic-bootstrap-datepicker,Core,2.4390243902439024,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-hogan,Core,2.7777777777777777,1.9230769230769231,1,1
+openstack/oslo.limit,openstack/xstatic-hogan,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/xstatic-jquery.quicksearch,Core,2.7777777777777777,1.9230769230769231,1,1
+openstack/oslo.limit,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/openstack-ansible-os_molteniron,Core,3.9215686274509802,2.898550724637681,7,9
+openstack/oslo.limit,openstack/openstack-ansible-os_molteniron,Non core,9.803921568627452,10.144927536231885,7,9
+openstack/oslo.limit,openstack/xstatic-angular-lrdragndrop,Core,2.5,1.6666666666666667,1,1
+openstack/oslo.limit,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/faafo,Core,4.651162790697675,1.5625,2,1
+openstack/oslo.limit,openstack/faafo,Non core,0.0,0.0,2,1
+openstack/oslo.limit,openstack/xstatic-angular-bootstrap,Core,2.3255813953488373,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/networking-calico,Core,3.1746031746031744,2.9702970297029703,5,4
+openstack/oslo.limit,openstack/networking-calico,Non core,4.761904761904762,0.9900990099009901,5,4
+openstack/oslo.limit,openstack/xstatic-angular-gettext,Core,2.5,1.6666666666666667,1,1
+openstack/oslo.limit,openstack/xstatic-angular-gettext,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/shotgun,Core,1.8867924528301887,0.8333333333333334,1,1
+openstack/oslo.limit,openstack/shotgun,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/fuel-devops,Core,1.0638297872340425,0.5405405405405406,2,3
+openstack/oslo.limit,openstack/fuel-devops,Non core,1.0638297872340425,1.0810810810810811,2,3
+openstack/oslo.limit,openstack/fuel-plugin-murano,Core,2.1739130434782608,1.3157894736842104,1,1
+openstack/oslo.limit,openstack/fuel-plugin-murano,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-web,Core,0.411522633744856,0.22935779816513763,2,1
+openstack/oslo.limit,openstack/fuel-web,Non core,0.411522633744856,0.0,2,1
+openstack/oslo.limit,openstack/fuel-plugins,Core,1.2658227848101267,0.6802721088435374,1,1
+openstack/oslo.limit,openstack/fuel-plugins,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-virtualbox,Core,2.3255813953488373,1.4705882352941175,1,1
+openstack/oslo.limit,openstack/fuel-virtualbox,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-ostf,Core,0.7633587786259541,0.3875968992248062,1,1
+openstack/oslo.limit,openstack/fuel-ostf,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-qa,Core,0.6369426751592357,0.3436426116838488,1,1
+openstack/oslo.limit,openstack/fuel-qa,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-specs,Core,0.7352941176470588,0.29069767441860467,1,1
+openstack/oslo.limit,openstack/fuel-specs,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-nailgun-extension-cluster-upgrade,Core,2.272727272727273,1.4705882352941175,1,1
+openstack/oslo.limit,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-nailgun-agent,Core,1.4084507042253522,0.6993006993006993,1,1
+openstack/oslo.limit,openstack/fuel-nailgun-agent,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-mirror,Core,1.5151515151515151,0.6756756756756757,1,1
+openstack/oslo.limit,openstack/fuel-mirror,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-menu,Core,1.4705882352941175,1.257861635220126,1,2
+openstack/oslo.limit,openstack/fuel-menu,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/fuel-main,Core,0.5813953488372093,0.3401360544217687,1,1
+openstack/oslo.limit,openstack/fuel-main,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-ui,Core,1.3333333333333335,0.7407407407407408,1,1
+openstack/oslo.limit,openstack/fuel-ui,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-library,Core,0.4291845493562232,0.2066115702479339,1,2
+openstack/oslo.limit,openstack/fuel-library,Non core,0.0,0.2066115702479339,1,2
+openstack/oslo.limit,openstack/fuel-dev-tools,Core,4.3478260869565215,1.4705882352941175,2,1
+openstack/oslo.limit,openstack/fuel-dev-tools,Non core,0.0,0.0,2,1
+openstack/oslo.limit,openstack/fuel-stats,Core,1.8518518518518516,1.0638297872340425,1,1
+openstack/oslo.limit,openstack/fuel-stats,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-nailgun-extension-converted-serializers,Core,2.7777777777777777,1.9607843137254901,1,1
+openstack/oslo.limit,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-nailgun-extension-iac,Core,2.631578947368421,1.8867924528301887,1,1
+openstack/oslo.limit,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-plugin-murano-tests,Core,2.2222222222222223,1.3157894736842104,1,1
+openstack/oslo.limit,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-astute,Core,1.0101010101010102,0.5025125628140703,1,1
+openstack/oslo.limit,openstack/fuel-astute,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-docs,Core,0.78125,0.2770083102493075,2,1
+openstack/oslo.limit,openstack/fuel-docs,Non core,0.78125,0.0,2,1
+openstack/oslo.limit,openstack/fuel-agent,Core,0.9708737864077669,0.5128205128205128,1,1
+openstack/oslo.limit,openstack/fuel-agent,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuel-octane,Core,3.125,0.9900990099009901,2,2
+openstack/oslo.limit,openstack/fuel-octane,Non core,0.0,0.9900990099009901,2,2
+openstack/oslo.limit,openstack/tuning-box,Core,2.564102564102564,1.36986301369863,1,1
+openstack/oslo.limit,openstack/tuning-box,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/python-fuelclient,Core,0.9708737864077669,0.5181347150259068,1,1
+openstack/oslo.limit,openstack/python-fuelclient,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/neutron-interconnection,Core,0.0,3.508771929824561,1,2
+openstack/oslo.limit,openstack/neutron-interconnection,Non core,2.7777777777777777,0.0,1,2
+openstack/oslo.limit,openstack/openstack-chef-repo,Core,1.3333333333333335,2.0,1,2
+openstack/oslo.limit,openstack/openstack-chef-repo,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/os-acc,Core,0.0,8.19672131147541,0,5
+openstack/oslo.limit,openstack/os-acc,Non core,0.0,0.0,0,5
+openstack/oslo.limit,openstack/openstack-ansible-os_zaqar,Core,3.125,2.2222222222222223,7,6
+openstack/oslo.limit,openstack/openstack-ansible-os_zaqar,Non core,7.8125,4.444444444444445,7,6
+openstack/oslo.limit,openstack/openstack-ansible-os_watcher,Core,1.694915254237288,3.75,7,8
+openstack/oslo.limit,openstack/openstack-ansible-os_watcher,Non core,10.16949152542373,6.25,7,8
+openstack/oslo.limit,openstack/openstack-ansible-os_searchlight,Core,4.0,0.0,8,3
+openstack/oslo.limit,openstack/openstack-ansible-os_searchlight,Non core,12.0,3.9473684210526314,8,3
+openstack/oslo.limit,openstack/xstatic-angular-vis,Core,2.857142857142857,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-font-awesome,Core,2.5,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-font-awesome,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-jasmine,Core,2.272727272727273,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-jasmine,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-angular-notify,Core,2.857142857142857,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-angular-material,Core,5.555555555555555,0.0,2,0
+openstack/oslo.limit,openstack/xstatic-angular-material,Non core,0.0,0.0,2,0
+openstack/oslo.limit,openstack/tempest-tripleo-ui,Core,2.7027027027027026,1.694915254237288,1,1
+openstack/oslo.limit,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/docs-specs,Core,3.896103896103896,3.6885245901639343,5,10
+openstack/oslo.limit,openstack/docs-specs,Non core,2.5974025974025974,0.4098360655737705,5,10
+openstack/oslo.limit,openstack/release-schedule-generator,Core,2.7027027027027026,3.8461538461538463,1,2
+openstack/oslo.limit,openstack/release-schedule-generator,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack-infra/opendev-website,Core,2.857142857142857,1.8867924528301887,1,1
+openstack/oslo.limit,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/castellan-ui,Core,5.263157894736842,3.076923076923077,2,3
+openstack/oslo.limit,openstack/castellan-ui,Non core,0.0,1.5384615384615385,2,3
+openstack/oslo.limit,openstack-attic/compute-api,Core,1.7543859649122806,2.4390243902439024,1,2
+openstack/oslo.limit,openstack-attic/compute-api,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/charm-neutron-api-odl,Core,2.272727272727273,0.0,1,1
+openstack/oslo.limit,openstack/charm-neutron-api-odl,Non core,0.0,1.7241379310344827,1,1
+openstack/oslo.limit,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/charm-murano,Core,2.7777777777777777,0.0,1,0
+openstack/oslo.limit,openstack/charm-murano,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/charm-openvswitch-odl,Core,2.272727272727273,0.0,1,1
+openstack/oslo.limit,openstack/charm-openvswitch-odl,Non core,0.0,1.7857142857142856,1,1
+openstack/oslo.limit,openstack/charm-interface-odl-controller-api,Core,5.555555555555555,0.0,2,0
+openstack/oslo.limit,openstack/charm-interface-odl-controller-api,Non core,0.0,0.0,2,0
+openstack/oslo.limit,openstack/charm-glusterfs,Core,2.7777777777777777,0.0,1,0
+openstack/oslo.limit,openstack/charm-glusterfs,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/charm-trove,Core,2.4390243902439024,0.0,1,0
+openstack/oslo.limit,openstack/charm-trove,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/fuxi,Core,1.639344262295082,1.0869565217391304,1,2
+openstack/oslo.limit,openstack/fuxi,Non core,0.0,1.0869565217391304,1,2
+openstack/oslo.limit,openstack/xstatic-filesaver,Core,2.857142857142857,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-angular-uuid,Core,2.857142857142857,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/bandit,Core,2.1739130434782608,4.424778761061947,2,5
+openstack/oslo.limit,openstack/bandit,Non core,0.0,0.0,2,5
+openstack/oslo.limit,openstack/xstatic-angular-smart-table,Core,2.7027027027027026,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-bootswatch,Core,2.631578947368421,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-bootswatch,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/xstatic-d3,Core,2.564102564102564,0.0,1,0
+openstack/oslo.limit,openstack/xstatic-d3,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/instack,Core,5.555555555555555,3.79746835443038,3,5
+openstack/oslo.limit,openstack/instack,Non core,0.0,2.5316455696202533,3,5
+openstack/oslo.limit,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/astara,Core,4.3478260869565215,2.1052631578947367,3,2
+openstack/oslo.limit,openstack/astara,Non core,0.0,0.0,3,2
+openstack/oslo.limit,openstack/astara-appliance,Core,2.083333333333333,2.857142857142857,1,2
+openstack/oslo.limit,openstack/astara-appliance,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack/astara-horizon,Core,2.4390243902439024,1.5625,1,1
+openstack/oslo.limit,openstack/astara-horizon,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/astara-neutron,Core,2.2222222222222223,1.5384615384615385,1,1
+openstack/oslo.limit,openstack/astara-neutron,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/anchor,Core,0.0,2.247191011235955,0,2
+openstack/oslo.limit,openstack/anchor,Non core,0.0,0.0,0,2
+openstack/oslo.limit,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/fuxi-golang,Core,2.941176470588235,1.9607843137254901,1,1
+openstack/oslo.limit,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/fuxi-kubernetes,Core,2.857142857142857,1.7857142857142856,1,1
+openstack/oslo.limit,openstack/fuxi-kubernetes,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack-infra/puppet-odsreg,Core,5.263157894736842,1.639344262295082,2,1
+openstack/oslo.limit,openstack-infra/puppet-odsreg,Non core,0.0,0.0,2,1
+openstack/oslo.limit,openstack-infra/puppet-docker_registry,Core,2.941176470588235,0.0,1,0
+openstack/oslo.limit,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/releasestatus,Core,2.7777777777777777,3.7037037037037033,1,2
+openstack/oslo.limit,openstack/releasestatus,Non core,0.0,0.0,1,2
+openstack/oslo.limit,openstack-infra/vinz-webclient,Core,2.941176470588235,0.0,1,0
+openstack/oslo.limit,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/activity-board,Core,4.166666666666666,3.225806451612903,2,3
+openstack/oslo.limit,openstack/activity-board,Non core,0.0,0.0,2,3
+openstack/oslo.limit,openstack-infra/beaker-localhost,Core,2.941176470588235,2.0408163265306123,1,1
+openstack/oslo.limit,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack-infra/beaker-nodepool,Core,2.941176470588235,2.0408163265306123,1,1
+openstack/oslo.limit,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/rst2bash,Core,5.555555555555555,5.555555555555555,2,4
+openstack/oslo.limit,openstack/rst2bash,Non core,0.0,1.8518518518518516,2,4
+openstack/oslo.limit,openstack/kolla-kubernetes,Core,2.1052631578947367,0.6024096385542169,5,2
+openstack/oslo.limit,openstack/kolla-kubernetes,Non core,3.1578947368421053,0.6024096385542169,5,2
+openstack/oslo.limit,openstack/cue-dashboard,Core,4.651162790697675,1.7241379310344827,2,1
+openstack/oslo.limit,openstack/cue-dashboard,Non core,0.0,0.0,2,1
+openstack/oslo.limit,openstack/python-cueclient,Core,4.3478260869565215,3.508771929824561,2,2
+openstack/oslo.limit,openstack/python-cueclient,Non core,0.0,0.0,2,2
+openstack/oslo.limit,openstack/cue,Core,3.125,2.4691358024691357,2,2
+openstack/oslo.limit,openstack/cue,Non core,0.0,0.0,2,2
+openstack/oslo.limit,openstack/app-catalog,Core,2.127659574468085,0.8928571428571428,2,1
+openstack/oslo.limit,openstack/app-catalog,Non core,0.0,0.0,2,1
+openstack/oslo.limit,openstack-attic/identity-api,Core,2.666666666666667,3.2,2,6
+openstack/oslo.limit,openstack-attic/identity-api,Non core,0.0,1.6,2,6
+openstack/oslo.limit,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/app-catalog-ui,Core,2.380952380952381,1.5625,1,1
+openstack/oslo.limit,openstack/app-catalog-ui,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/salt-formula-kubernetes,Core,2.564102564102564,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-kubernetes,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/app-catalog-common,Core,0.0,2.0,0,1
+openstack/oslo.limit,openstack/app-catalog-common,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/python-appcatalogclient,Core,0.0,1.8867924528301887,0,1
+openstack/oslo.limit,openstack/python-appcatalogclient,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-openstack-pkg-tools,Core,0.0,1.7543859649122806,0,1
+openstack/oslo.limit,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-mistral,Core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/deb-mistral,Non core,2.5,0.0,1,0
+openstack/oslo.limit,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/installguide-cookiecutter,Core,2.272727272727273,3.389830508474576,1,3
+openstack/oslo.limit,openstack/installguide-cookiecutter,Non core,0.0,1.694915254237288,1,3
+openstack/oslo.limit,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/salt-formula-opencontrail,Core,2.0,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-opencontrail,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-neutron,Core,2.0408163265306123,1.6129032258064515,1,1
+openstack/oslo.limit,openstack/salt-formula-neutron,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/salt-formula-nova,Core,1.8181818181818181,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-nova,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-keystone,Core,1.9230769230769231,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-keystone,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-horizon,Core,2.127659574468085,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-horizon,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-heat,Core,1.8518518518518516,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-heat,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-glance,Core,1.8867924528301887,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-glance,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-cinder,Core,1.9230769230769231,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-cinder,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-ceilometer,Core,2.272727272727273,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-ceilometer,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/openstack-salt,Core,2.631578947368421,0.0,1,0
+openstack/oslo.limit,openstack/openstack-salt,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack/salt-formula-midonet,Core,2.941176470588235,0.0,1,0
+openstack/oslo.limit,openstack/salt-formula-midonet,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack/magnetodb-specs,Core,2.2222222222222223,0.0,1,0
+openstack/oslo.limit,openstack/magnetodb-specs,Non core,0.0,0.0,1,0
+openstack/oslo.limit,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack-attic/oslo.version,Core,4.878048780487805,6.349206349206349,2,4
+openstack/oslo.limit,openstack-attic/oslo.version,Non core,0.0,0.0,2,4
+openstack/oslo.limit,openstack-attic/image-api,Core,2.272727272727273,1.5151515151515151,1,1
+openstack/oslo.limit,openstack-attic/image-api,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack-attic/object-api,Core,1.8518518518518516,1.3157894736842104,1,1
+openstack/oslo.limit,openstack-attic/object-api,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack-attic/volume-api,Core,2.083333333333333,1.4705882352941175,1,1
+openstack/oslo.limit,openstack-attic/volume-api,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/magnetodb,Core,1.7857142857142856,1.1904761904761905,1,1
+openstack/oslo.limit,openstack/magnetodb,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack/openstack-nose,Core,0.0,1.8181818181818181,0,1
+openstack/oslo.limit,openstack/openstack-nose,Non core,0.0,0.0,0,1
+openstack/oslo.limit,openstack-attic/netconn-api,Core,1.639344262295082,1.0309278350515463,1,1
+openstack/oslo.limit,openstack-attic/netconn-api,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/oslo.limit,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/oslo.limit,openstack-attic/database-api,Core,2.2222222222222223,1.5625,1,1
+openstack/oslo.limit,openstack-attic/database-api,Non core,0.0,0.0,1,1
+openstack/oslo.limit,openstack-attic/openstack-security-notes,Core,0.0,1.7391304347826086,0,3
+openstack/oslo.limit,openstack-attic/openstack-security-notes,Non core,0.0,0.8695652173913043,0,3

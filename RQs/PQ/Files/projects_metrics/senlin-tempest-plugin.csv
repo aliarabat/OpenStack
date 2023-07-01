@@ -1,0 +1,1811 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/senlin-tempest-plugin,openstack/heat-tempest-plugin,Core,9.090909090909092,8.571428571428571,4,9
+openstack/senlin-tempest-plugin,openstack/heat-tempest-plugin,Non core,0.0,4.285714285714286,4,9
+openstack/senlin-tempest-plugin,openstack/freezer-tempest-plugin,Core,7.5,5.454545454545454,5,9
+openstack/senlin-tempest-plugin,openstack/freezer-tempest-plugin,Non core,5.0,10.909090909090908,5,9
+openstack/senlin-tempest-plugin,openstack/monasca-tempest-plugin,Core,10.869565217391305,2.898550724637681,7,5
+openstack/senlin-tempest-plugin,openstack/monasca-tempest-plugin,Non core,4.3478260869565215,4.3478260869565215,7,5
+openstack/senlin-tempest-plugin,openstack/stackviz,Core,8.16326530612245,10.9375,6,11
+openstack/senlin-tempest-plugin,openstack/stackviz,Non core,4.081632653061225,6.25,6,11
+openstack/senlin-tempest-plugin,openstack/kayobe-config-dev,Core,6.25,2.0,2,2
+openstack/senlin-tempest-plugin,openstack/kayobe-config-dev,Non core,0.0,2.0,2,2
+openstack/senlin-tempest-plugin,openstack/pbr,Core,3.2,2.912621359223301,4,10
+openstack/senlin-tempest-plugin,openstack/pbr,Non core,0.0,1.9417475728155338,4,10
+openstack/senlin-tempest-plugin,openstack/oslo.cache,Core,4.597701149425287,2.366863905325444,7,10
+openstack/senlin-tempest-plugin,openstack/oslo.cache,Non core,3.4482758620689653,3.5502958579881656,7,10
+openstack/senlin-tempest-plugin,openstack/charm-ceph-rbd-mirror,Core,5.263157894736842,1.9230769230769231,2,3
+openstack/senlin-tempest-plugin,openstack/charm-ceph-rbd-mirror,Non core,0.0,3.8461538461538463,2,3
+openstack/senlin-tempest-plugin,openstack/ansible-config_template,Core,5.88235294117647,0.0,3,3
+openstack/senlin-tempest-plugin,openstack/ansible-config_template,Non core,0.0,3.571428571428571,3,3
+openstack/senlin-tempest-plugin,openstack/designate-dashboard,Core,7.792207792207792,3.787878787878788,9,11
+openstack/senlin-tempest-plugin,openstack/designate-dashboard,Non core,3.896103896103896,4.545454545454546,9,11
+openstack/senlin-tempest-plugin,openstack/charm-interface-cinder-backend,Core,7.4074074074074066,2.380952380952381,2,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-cinder-backend,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/cyborg-specs,Core,7.317073170731707,2.4691358024691357,6,9
+openstack/senlin-tempest-plugin,openstack/cyborg-specs,Non core,7.317073170731707,8.641975308641975,6,9
+openstack/senlin-tempest-plugin,openstack/python-mistralclient,Core,3.076923076923077,2.13903743315508,6,11
+openstack/senlin-tempest-plugin,openstack/python-mistralclient,Non core,1.5384615384615385,3.7433155080213902,6,11
+openstack/senlin-tempest-plugin,openstack/ha-guide,Core,1.282051282051282,1.4388489208633095,2,5
+openstack/senlin-tempest-plugin,openstack/ha-guide,Non core,1.282051282051282,2.158273381294964,2,5
+openstack/senlin-tempest-plugin,openstack/watcher,Core,4.27807486631016,2.371541501976284,12,14
+openstack/senlin-tempest-plugin,openstack/watcher,Non core,2.13903743315508,3.1620553359683794,12,14
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_cloudkitty,Core,7.8125,3.5294117647058822,8,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_cloudkitty,Non core,4.6875,2.3529411764705883,8,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_cinder,Core,4.464285714285714,1.3157894736842104,7,8
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_cinder,Non core,1.7857142857142856,3.9473684210526314,7,8
+openstack/senlin-tempest-plugin,openstack/openstack-health,Core,4.6875,4.385964912280701,4,10
+openstack/senlin-tempest-plugin,openstack/openstack-health,Non core,1.5625,4.385964912280701,4,10
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_swift,Core,6.122448979591836,2.380952380952381,8,7
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_swift,Non core,2.0408163265306123,3.1746031746031744,8,7
+openstack/senlin-tempest-plugin,openstack/masakari-specs,Core,10.0,2.7777777777777777,5,5
+openstack/senlin-tempest-plugin,openstack/masakari-specs,Non core,2.5,4.166666666666666,5,5
+openstack/senlin-tempest-plugin,openstack/telemetry-specs,Core,3.6585365853658534,2.7027027027027026,3,4
+openstack/senlin-tempest-plugin,openstack/telemetry-specs,Non core,0.0,0.0,3,4
+openstack/senlin-tempest-plugin,openstack/osprofiler,Core,5.0,2.2058823529411766,6,10
+openstack/senlin-tempest-plugin,openstack/osprofiler,Non core,1.0,5.147058823529411,6,10
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_trove,Core,5.633802816901409,2.1052631578947367,6,7
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_trove,Non core,2.8169014084507045,5.263157894736842,6,7
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_manila,Core,4.878048780487805,1.5873015873015872,3,1
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_manila,Non core,2.4390243902439024,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-hardening,Core,8.928571428571429,3.3707865168539324,5,6
+openstack/senlin-tempest-plugin,openstack/ansible-hardening,Non core,0.0,3.3707865168539324,5,6
+openstack/senlin-tempest-plugin,openstack/barbican-specs,Core,2.9850746268656714,1.680672268907563,4,3
+openstack/senlin-tempest-plugin,openstack/barbican-specs,Non core,2.9850746268656714,0.8403361344537815,4,3
+openstack/senlin-tempest-plugin,openstack/python-heatclient,Core,3.1413612565445024,3.1948881789137378,9,17
+openstack/senlin-tempest-plugin,openstack/python-heatclient,Non core,1.5706806282722512,2.2364217252396164,9,17
+openstack/senlin-tempest-plugin,openstack/oslo.versionedobjects,Core,5.555555555555555,3.1645569620253164,8,10
+openstack/senlin-tempest-plugin,openstack/oslo.versionedobjects,Non core,1.8518518518518516,3.1645569620253164,8,10
+openstack/senlin-tempest-plugin,openstack/os-api-ref,Core,8.333333333333332,3.488372093023256,7,6
+openstack/senlin-tempest-plugin,openstack/os-api-ref,Non core,3.3333333333333335,3.488372093023256,7,6
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-container,Core,8.108108108108109,5.263157894736842,3,3
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-container,Non core,0.0,0.0,3,3
+openstack/senlin-tempest-plugin,openstack/venus-dashboard,Core,0.0,4.545454545454546,0,2
+openstack/senlin-tempest-plugin,openstack/venus-dashboard,Non core,0.0,0.0,0,2
+openstack/senlin-tempest-plugin,openstack/manila-ui,Core,3.1914893617021276,2.158273381294964,4,6
+openstack/senlin-tempest-plugin,openstack/manila-ui,Non core,1.0638297872340425,2.158273381294964,4,6
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-nfs,Core,6.666666666666667,6.896551724137931,2,4
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-nfs,Non core,0.0,0.0,2,4
+openstack/senlin-tempest-plugin,openstack/taskflow,Core,3.3333333333333335,2.5906735751295336,5,8
+openstack/senlin-tempest-plugin,openstack/taskflow,Non core,0.8333333333333334,1.5544041450777202,5,8
+openstack/senlin-tempest-plugin,openstack/python-cyborgclient,Core,8.695652173913043,5.263157894736842,5,6
+openstack/senlin-tempest-plugin,openstack/python-cyborgclient,Non core,2.1739130434782608,2.631578947368421,5,6
+openstack/senlin-tempest-plugin,openstack/zun,Core,5.405405405405405,4.761904761904762,13,18
+openstack/senlin-tempest-plugin,openstack/zun,Non core,3.3783783783783785,3.8095238095238098,13,18
+openstack/senlin-tempest-plugin,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-openstack-loadbalancer,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/ansible-role-python_venv_build,Core,6.25,2.7027027027027026,3,5
+openstack/senlin-tempest-plugin,openstack/ansible-role-python_venv_build,Non core,0.0,4.054054054054054,3,5
+openstack/senlin-tempest-plugin,openstack/mistral-dashboard,Core,5.128205128205128,1.7699115044247788,5,5
+openstack/senlin-tempest-plugin,openstack/mistral-dashboard,Non core,1.282051282051282,2.6548672566371683,5,5
+openstack/senlin-tempest-plugin,openstack/mistral-lib,Core,7.142857142857142,4.878048780487805,7,10
+openstack/senlin-tempest-plugin,openstack/mistral-lib,Non core,5.357142857142857,7.317073170731707,7,10
+openstack/senlin-tempest-plugin,openstack/monasca-events-api,Core,10.526315789473683,1.5384615384615385,7,6
+openstack/senlin-tempest-plugin,openstack/monasca-events-api,Non core,7.894736842105263,7.6923076923076925,7,6
+openstack/senlin-tempest-plugin,openstack/python-zaqarclient,Core,3.7037037037037033,4.964539007092199,6,13
+openstack/senlin-tempest-plugin,openstack/python-zaqarclient,Non core,1.8518518518518516,4.25531914893617,6,13
+openstack/senlin-tempest-plugin,openstack/monasca-api,Core,4.10958904109589,1.3636363636363635,7,9
+openstack/senlin-tempest-plugin,openstack/monasca-api,Non core,0.684931506849315,2.727272727272727,7,9
+openstack/senlin-tempest-plugin,openstack/monasca-persister,Core,5.813953488372093,2.9629629629629632,7,12
+openstack/senlin-tempest-plugin,openstack/monasca-persister,Non core,2.3255813953488373,5.9259259259259265,7,12
+openstack/senlin-tempest-plugin,openstack/monasca-notification,Core,5.617977528089887,3.0303030303030303,7,5
+openstack/senlin-tempest-plugin,openstack/monasca-notification,Non core,2.247191011235955,0.7575757575757576,7,5
+openstack/senlin-tempest-plugin,openstack/python-saharaclient,Core,4.545454545454546,1.948051948051948,6,7
+openstack/senlin-tempest-plugin,openstack/python-saharaclient,Non core,0.9090909090909091,2.5974025974025974,6,7
+openstack/senlin-tempest-plugin,openstack/charm-magpie,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-magpie,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_placement,Core,4.878048780487805,0.0,3,3
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_placement,Non core,2.4390243902439024,4.838709677419355,3,3
+openstack/senlin-tempest-plugin,openstack/openstackdocstheme,Core,4.597701149425287,3.6231884057971016,4,6
+openstack/senlin-tempest-plugin,openstack/openstackdocstheme,Non core,0.0,0.7246376811594203,4,6
+openstack/senlin-tempest-plugin,openstack/sahara,Core,2.5,1.550387596899225,12,13
+openstack/senlin-tempest-plugin,openstack/sahara,Non core,1.7857142857142856,1.8087855297157622,12,13
+openstack/senlin-tempest-plugin,openstack/ironic-ui,Core,5.194805194805195,3.669724770642202,5,8
+openstack/senlin-tempest-plugin,openstack/ironic-ui,Non core,1.2987012987012987,3.669724770642202,5,8
+openstack/senlin-tempest-plugin,openstack/oslo.serialization,Core,4.761904761904762,4.132231404958678,6,12
+openstack/senlin-tempest-plugin,openstack/oslo.serialization,Non core,2.380952380952381,5.785123966942149,6,12
+openstack/senlin-tempest-plugin,openstack/oslo.context,Core,5.405405405405405,3.149606299212598,6,9
+openstack/senlin-tempest-plugin,openstack/oslo.context,Non core,2.7027027027027026,3.937007874015748,6,9
+openstack/senlin-tempest-plugin,openstack/oslo.limit,Core,5.88235294117647,7.142857142857142,6,13
+openstack/senlin-tempest-plugin,openstack/oslo.limit,Non core,5.88235294117647,11.428571428571429,6,13
+openstack/senlin-tempest-plugin,openstack/oslo.middleware,Core,4.040404040404041,3.3112582781456954,6,8
+openstack/senlin-tempest-plugin,openstack/oslo.middleware,Non core,2.0202020202020203,1.9867549668874174,6,8
+openstack/senlin-tempest-plugin,openstack/oslo.reports,Core,6.666666666666667,4.854368932038835,7,13
+openstack/senlin-tempest-plugin,openstack/oslo.reports,Non core,5.0,7.766990291262135,7,13
+openstack/senlin-tempest-plugin,openstack/futurist,Core,6.349206349206349,3.3333333333333335,4,8
+openstack/senlin-tempest-plugin,openstack/futurist,Non core,0.0,5.555555555555555,4,8
+openstack/senlin-tempest-plugin,openstack/oslo.i18n,Core,5.194805194805195,4.032258064516129,7,13
+openstack/senlin-tempest-plugin,openstack/oslo.i18n,Non core,3.896103896103896,6.451612903225806,7,13
+openstack/senlin-tempest-plugin,openstack/sushy-oem-idrac,Core,0.0,1.694915254237288,0,1
+openstack/senlin-tempest-plugin,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,1
+openstack/senlin-tempest-plugin,openstack/python-dracclient,Core,0.0,2.0202020202020203,1,5
+openstack/senlin-tempest-plugin,openstack/python-dracclient,Non core,1.639344262295082,3.0303030303030303,1,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_masakari,Core,8.0,3.79746835443038,6,8
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_masakari,Non core,4.0,6.329113924050633,6,8
+openstack/senlin-tempest-plugin,openstack/ansible-role-systemd_mount,Core,7.5,1.7543859649122806,3,5
+openstack/senlin-tempest-plugin,openstack/ansible-role-systemd_mount,Non core,0.0,7.017543859649122,3,5
+openstack/senlin-tempest-plugin,openstack/python-senlinclient,Core,11.0,14.782608695652174,15,27
+openstack/senlin-tempest-plugin,openstack/python-senlinclient,Non core,4.0,8.695652173913043,15,27
+openstack/senlin-tempest-plugin,openstack/senlin-dashboard,Core,11.594202898550725,17.307692307692307,11,23
+openstack/senlin-tempest-plugin,openstack/senlin-dashboard,Non core,4.3478260869565215,4.807692307692308,11,23
+openstack/senlin-tempest-plugin,openstack/networking-generic-switch,Core,4.878048780487805,1.8181818181818181,5,5
+openstack/senlin-tempest-plugin,openstack/networking-generic-switch,Non core,1.2195121951219512,2.727272727272727,5,5
+openstack/senlin-tempest-plugin,openstack/sahara-image-elements,Core,4.651162790697675,0.8403361344537815,4,2
+openstack/senlin-tempest-plugin,openstack/sahara-image-elements,Non core,0.0,0.8403361344537815,4,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-thales-hsm,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/ansible-role-thales-hsm,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/ansible-role-atos-hsm,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/ansible-role-atos-hsm,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/adjutant-ui,Core,9.67741935483871,5.769230769230769,4,3
+openstack/senlin-tempest-plugin,openstack/adjutant-ui,Non core,3.225806451612903,0.0,4,3
+openstack/senlin-tempest-plugin,openstack/sahara-extra,Core,4.918032786885246,3.3707865168539324,4,4
+openstack/senlin-tempest-plugin,openstack/sahara-extra,Non core,1.639344262295082,1.1235955056179776,4,4
+openstack/senlin-tempest-plugin,openstack/blazar-nova,Core,8.0,3.3707865168539324,6,5
+openstack/senlin-tempest-plugin,openstack/blazar-nova,Non core,4.0,2.247191011235955,6,5
+openstack/senlin-tempest-plugin,openstack/oslo.service,Core,5.555555555555555,4.191616766467066,8,12
+openstack/senlin-tempest-plugin,openstack/oslo.service,Non core,1.8518518518518516,2.9940119760479043,8,12
+openstack/senlin-tempest-plugin,openstack/blazar-dashboard,Core,9.523809523809524,6.493506493506493,6,12
+openstack/senlin-tempest-plugin,openstack/blazar-dashboard,Non core,4.761904761904762,9.090909090909092,6,12
+openstack/senlin-tempest-plugin,openstack/paunch,Core,5.970149253731343,3.64963503649635,5,9
+openstack/senlin-tempest-plugin,openstack/paunch,Non core,1.4925373134328357,2.9197080291970803,5,9
+openstack/senlin-tempest-plugin,openstack/service-types-authority,Core,4.651162790697675,5.1020408163265305,2,5
+openstack/senlin-tempest-plugin,openstack/service-types-authority,Non core,0.0,0.0,2,5
+openstack/senlin-tempest-plugin,openstack/python-ironic-inspector-client,Core,5.970149253731343,3.6036036036036037,5,9
+openstack/senlin-tempest-plugin,openstack/python-ironic-inspector-client,Non core,1.4925373134328357,4.504504504504505,5,9
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-memcached_server,Core,8.064516129032258,1.0869565217391304,9,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-memcached_server,Non core,6.451612903225806,4.3478260869565215,9,5
+openstack/senlin-tempest-plugin,openstack/os-testr,Core,6.0606060606060606,5.555555555555555,7,13
+openstack/senlin-tempest-plugin,openstack/os-testr,Non core,4.545454545454546,6.481481481481481,7,13
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-ceph_client,Core,5.797101449275362,0.9708737864077669,7,6
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-ceph_client,Non core,4.3478260869565215,4.854368932038835,7,6
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_magnum,Core,6.8493150684931505,2.7522935779816518,7,8
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_magnum,Non core,2.73972602739726,4.587155963302752,7,8
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_blazar,Core,6.122448979591836,4.0,5,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_blazar,Non core,4.081632653061225,2.666666666666667,5,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_designate,Core,6.41025641025641,2.564102564102564,7,7
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_designate,Non core,2.564102564102564,3.418803418803419,7,7
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_gnocchi,Core,5.263157894736842,1.9607843137254901,7,6
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_gnocchi,Non core,3.9473684210526314,3.9215686274509802,7,6
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_senlin,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/ptgbot,Core,8.571428571428571,3.225806451612903,4,3
+openstack/senlin-tempest-plugin,openstack/ptgbot,Non core,2.857142857142857,1.6129032258064515,4,3
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_zun,Core,11.11111111111111,2.8169014084507045,8,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_zun,Non core,6.666666666666667,4.225352112676056,8,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-repo_server,Core,5.405405405405405,1.8018018018018018,7,3
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-repo_server,Non core,4.054054054054054,0.9009009009009009,7,3
+openstack/senlin-tempest-plugin,openstack/python-watcherclient,Core,5.0,4.587155963302752,8,10
+openstack/senlin-tempest-plugin,openstack/python-watcherclient,Non core,3.0,4.587155963302752,8,10
+openstack/senlin-tempest-plugin,openstack/heat-agents,Core,5.357142857142857,6.140350877192982,6,10
+openstack/senlin-tempest-plugin,openstack/heat-agents,Non core,5.357142857142857,2.631578947368421,6,10
+openstack/senlin-tempest-plugin,openstack/oslo.rootwrap,Core,4.444444444444445,3.4482758620689653,7,10
+openstack/senlin-tempest-plugin,openstack/oslo.rootwrap,Non core,3.3333333333333335,3.4482758620689653,7,10
+openstack/senlin-tempest-plugin,openstack/automaton,Core,5.769230769230769,4.054054054054054,4,7
+openstack/senlin-tempest-plugin,openstack/automaton,Non core,1.9230769230769231,5.405405405405405,4,7
+openstack/senlin-tempest-plugin,openstack/debtcollector,Core,6.25,4.10958904109589,4,7
+openstack/senlin-tempest-plugin,openstack/debtcollector,Non core,0.0,5.47945205479452,4,7
+openstack/senlin-tempest-plugin,openstack/vitrage-dashboard,Core,3.571428571428571,6.185567010309279,7,9
+openstack/senlin-tempest-plugin,openstack/vitrage-dashboard,Non core,4.761904761904762,3.0927835051546393,7,9
+openstack/senlin-tempest-plugin,openstack/oslotest,Core,5.0,5.263157894736842,5,12
+openstack/senlin-tempest-plugin,openstack/oslotest,Non core,1.25,5.263157894736842,5,12
+openstack/senlin-tempest-plugin,openstack/kayobe-config,Core,6.25,2.272727272727273,3,1
+openstack/senlin-tempest-plugin,openstack/kayobe-config,Non core,3.125,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/compute-hyperv,Core,7.4074074074074066,2.7027027027027026,4,4
+openstack/senlin-tempest-plugin,openstack/compute-hyperv,Non core,0.0,2.7027027027027026,4,4
+openstack/senlin-tempest-plugin,openstack/python-cloudkittyclient,Core,3.75,5.208333333333334,6,12
+openstack/senlin-tempest-plugin,openstack/python-cloudkittyclient,Non core,3.75,7.291666666666667,6,12
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone,Core,8.571428571428571,1.9607843137254901,4,3
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone,Non core,2.857142857142857,3.9215686274509802,4,3
+openstack/senlin-tempest-plugin,openstack/cloudkitty-dashboard,Core,4.477611940298507,4.807692307692308,4,10
+openstack/senlin-tempest-plugin,openstack/cloudkitty-dashboard,Non core,1.4925373134328357,4.807692307692308,4,10
+openstack/senlin-tempest-plugin,openstack/networking-hyperv,Core,7.042253521126761,3.614457831325301,6,6
+openstack/senlin-tempest-plugin,openstack/networking-hyperv,Non core,1.4084507042253522,3.614457831325301,6,6
+openstack/senlin-tempest-plugin,openstack/i18n,Core,8.064516129032258,3.9215686274509802,5,6
+openstack/senlin-tempest-plugin,openstack/i18n,Non core,0.0,1.9607843137254901,5,6
+openstack/senlin-tempest-plugin,openstack/sahara-tests,Core,6.779661016949152,3.061224489795918,4,6
+openstack/senlin-tempest-plugin,openstack/sahara-tests,Non core,0.0,3.061224489795918,4,6
+openstack/senlin-tempest-plugin,openstack/python-zunclient,Core,7.216494845360824,3.875968992248062,11,12
+openstack/senlin-tempest-plugin,openstack/python-zunclient,Non core,4.123711340206185,5.426356589147287,11,12
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-cdh,Core,9.090909090909092,3.7037037037037033,4,5
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-cdh,Non core,3.0303030303030303,5.555555555555555,4,5
+openstack/senlin-tempest-plugin,openstack/monasca-ui,Core,4.25531914893617,1.25,7,8
+openstack/senlin-tempest-plugin,openstack/monasca-ui,Non core,3.1914893617021276,3.75,7,8
+openstack/senlin-tempest-plugin,openstack/python-adjutantclient,Core,12.903225806451612,4.3478260869565215,5,4
+openstack/senlin-tempest-plugin,openstack/python-adjutantclient,Non core,3.225806451612903,4.3478260869565215,5,4
+openstack/senlin-tempest-plugin,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/ansible-role-lunasa-hsm,Core,4.0,2.4390243902439024,1,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/monasca-thresh,Core,4.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/monasca-thresh,Non core,0.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/heat-specs,Core,5.555555555555555,3.286384976525822,5,8
+openstack/senlin-tempest-plugin,openstack/heat-specs,Non core,0.0,0.4694835680751174,5,8
+openstack/senlin-tempest-plugin,openstack/watcher-dashboard,Core,7.575757575757576,3.1914893617021276,8,10
+openstack/senlin-tempest-plugin,openstack/watcher-dashboard,Non core,4.545454545454546,7.446808510638298,8,10
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-ambari,Core,9.375,2.0408163265306123,4,3
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-ambari,Non core,3.125,4.081632653061225,4,3
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-mapr,Core,9.67741935483871,3.9215686274509802,4,6
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-mapr,Non core,3.225806451612903,7.8431372549019605,4,6
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-spark,Core,10.0,2.1739130434782608,4,1
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-spark,Non core,3.3333333333333335,0.0,4,1
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-storm,Core,10.0,2.127659574468085,4,1
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-storm,Non core,3.3333333333333335,0.0,4,1
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-vanilla,Core,10.0,2.127659574468085,4,3
+openstack/senlin-tempest-plugin,openstack/sahara-plugin-vanilla,Non core,3.3333333333333335,4.25531914893617,4,3
+openstack/senlin-tempest-plugin,openstack/sahara-specs,Core,2.73972602739726,0.9174311926605505,2,1
+openstack/senlin-tempest-plugin,openstack/sahara-specs,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/venus-tempest-plugin,Core,0.0,4.878048780487805,0,2
+openstack/senlin-tempest-plugin,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,2
+openstack/senlin-tempest-plugin,openstack/venus-specs,Core,0.0,2.380952380952381,0,1
+openstack/senlin-tempest-plugin,openstack/venus-specs,Non core,0.0,0.0,0,1
+openstack/senlin-tempest-plugin,openstack/ceilometermiddleware,Core,6.666666666666667,2.912621359223301,4,8
+openstack/senlin-tempest-plugin,openstack/ceilometermiddleware,Non core,0.0,4.854368932038835,4,8
+openstack/senlin-tempest-plugin,openstack/trove-tempest-plugin,Core,11.76470588235294,4.918032786885246,4,6
+openstack/senlin-tempest-plugin,openstack/trove-tempest-plugin,Non core,0.0,4.918032786885246,4,6
+openstack/senlin-tempest-plugin,openstack/arch-design,Core,6.666666666666667,2.4390243902439024,2,2
+openstack/senlin-tempest-plugin,openstack/arch-design,Non core,0.0,2.4390243902439024,2,2
+openstack/senlin-tempest-plugin,openstack/monasca-common,Core,5.4945054945054945,2.9629629629629632,8,10
+openstack/senlin-tempest-plugin,openstack/monasca-common,Non core,3.296703296703297,4.444444444444445,8,10
+openstack/senlin-tempest-plugin,openstack/monasca-statsd,Core,8.771929824561402,1.1363636363636365,7,6
+openstack/senlin-tempest-plugin,openstack/monasca-statsd,Non core,3.508771929824561,5.681818181818182,7,6
+openstack/senlin-tempest-plugin,openstack/python-monascaclient,Core,3.7383177570093453,2.027027027027027,6,7
+openstack/senlin-tempest-plugin,openstack/python-monascaclient,Non core,1.8691588785046727,2.7027027027027026,6,7
+openstack/senlin-tempest-plugin,openstack/renderspec,Core,9.090909090909092,6.779661016949152,4,6
+openstack/senlin-tempest-plugin,openstack/renderspec,Non core,0.0,3.389830508474576,4,6
+openstack/senlin-tempest-plugin,openstack/os-service-types,Core,7.142857142857142,3.125,4,8
+openstack/senlin-tempest-plugin,openstack/os-service-types,Non core,2.380952380952381,9.375,4,8
+openstack/senlin-tempest-plugin,openstack/masakari-dashboard,Core,6.666666666666667,3.9473684210526314,6,9
+openstack/senlin-tempest-plugin,openstack/masakari-dashboard,Non core,6.666666666666667,7.894736842105263,6,9
+openstack/senlin-tempest-plugin,openstack/freezer-dr,Core,6.8181818181818175,4.3478260869565215,5,6
+openstack/senlin-tempest-plugin,openstack/freezer-dr,Non core,4.545454545454546,4.3478260869565215,5,6
+openstack/senlin-tempest-plugin,openstack/tempest-stress,Core,7.5,11.11111111111111,4,9
+openstack/senlin-tempest-plugin,openstack/tempest-stress,Non core,2.5,8.88888888888889,4,9
+openstack/senlin-tempest-plugin,openstack/charm-neutron-api-genericswitch,Core,7.6923076923076925,5.0,2,2
+openstack/senlin-tempest-plugin,openstack/charm-neutron-api-genericswitch,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/charm-neutron-dynamic-routing,Core,8.108108108108109,1.8867924528301887,3,2
+openstack/senlin-tempest-plugin,openstack/charm-neutron-dynamic-routing,Non core,0.0,1.8867924528301887,3,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-ceph-client,Core,6.666666666666667,4.3478260869565215,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-ceph-client,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/charm-percona-cluster,Core,3.225806451612903,2.4096385542168677,2,4
+openstack/senlin-tempest-plugin,openstack/charm-percona-cluster,Non core,0.0,2.4096385542168677,2,4
+openstack/senlin-tempest-plugin,openstack/charm-deployment-guide,Core,3.7037037037037033,1.4492753623188406,2,1
+openstack/senlin-tempest-plugin,openstack/charm-deployment-guide,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/oslo.metrics,Core,3.3333333333333335,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/oslo.metrics,Non core,3.3333333333333335,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/oslo.vmware,Core,4.081632653061225,2.9940119760479043,6,13
+openstack/senlin-tempest-plugin,openstack/oslo.vmware,Non core,2.0408163265306123,4.790419161676647,6,13
+openstack/senlin-tempest-plugin,openstack/oslo.upgradecheck,Core,10.81081081081081,7.142857142857142,5,9
+openstack/senlin-tempest-plugin,openstack/oslo.upgradecheck,Non core,2.7027027027027026,8.928571428571429,5,9
+openstack/senlin-tempest-plugin,openstack/python-masakariclient,Core,6.666666666666667,5.063291139240507,6,10
+openstack/senlin-tempest-plugin,openstack/python-masakariclient,Non core,3.3333333333333335,7.59493670886076,6,10
+openstack/senlin-tempest-plugin,openstack/python-vitrageclient,Core,5.714285714285714,4.3478260869565215,8,7
+openstack/senlin-tempest-plugin,openstack/python-vitrageclient,Non core,5.714285714285714,5.797101449275362,8,7
+openstack/senlin-tempest-plugin,openstack/python-blazarclient,Core,5.797101449275362,4.9504950495049505,8,13
+openstack/senlin-tempest-plugin,openstack/python-blazarclient,Non core,5.797101449275362,7.920792079207921,8,13
+openstack/senlin-tempest-plugin,openstack/zaqar-tempest-plugin,Core,8.823529411764707,3.389830508474576,3,3
+openstack/senlin-tempest-plugin,openstack/zaqar-tempest-plugin,Non core,0.0,1.694915254237288,3,3
+openstack/senlin-tempest-plugin,openstack/tripleo-common-tempest-plugin,Core,11.428571428571429,8.620689655172415,6,12
+openstack/senlin-tempest-plugin,openstack/tripleo-common-tempest-plugin,Non core,5.714285714285714,12.068965517241379,6,12
+openstack/senlin-tempest-plugin,openstack/mistral-tempest-plugin,Core,7.142857142857142,3.076923076923077,6,7
+openstack/senlin-tempest-plugin,openstack/mistral-tempest-plugin,Non core,7.142857142857142,7.6923076923076925,6,7
+openstack/senlin-tempest-plugin,openstack/barbican-ui,Core,4.166666666666666,2.083333333333333,1,1
+openstack/senlin-tempest-plugin,openstack/barbican-ui,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/liberasurecode,Core,2.857142857142857,1.7857142857142856,1,1
+openstack/senlin-tempest-plugin,openstack/liberasurecode,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/os-client-config,Core,4.123711340206185,2.18978102189781,6,6
+openstack/senlin-tempest-plugin,openstack/os-client-config,Non core,2.0618556701030926,2.18978102189781,6,6
+openstack/senlin-tempest-plugin,openstack/monasca-specs,Core,6.0606060606060606,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/monasca-specs,Non core,3.0303030303030303,1.5151515151515151,3,1
+openstack/senlin-tempest-plugin,openstack/os-performance-tools,Core,10.81081081081081,9.803921568627452,6,7
+openstack/senlin-tempest-plugin,openstack/os-performance-tools,Non core,5.405405405405405,3.9215686274509802,6,7
+openstack/senlin-tempest-plugin,openstack/trove-specs,Core,4.918032786885246,0.8403361344537815,3,2
+openstack/senlin-tempest-plugin,openstack/trove-specs,Non core,0.0,0.8403361344537815,3,2
+openstack/senlin-tempest-plugin,openstack/manila-image-elements,Core,6.382978723404255,1.25,4,3
+openstack/senlin-tempest-plugin,openstack/manila-image-elements,Non core,2.127659574468085,2.5,4,3
+openstack/senlin-tempest-plugin,openstack/blazar-specs,Core,6.451612903225806,3.571428571428571,2,2
+openstack/senlin-tempest-plugin,openstack/blazar-specs,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/molteniron,Core,12.5,1.639344262295082,4,2
+openstack/senlin-tempest-plugin,openstack/molteniron,Non core,0.0,1.639344262295082,4,2
+openstack/senlin-tempest-plugin,openstack/solum-specs,Core,8.333333333333332,0.0,4,0
+openstack/senlin-tempest-plugin,openstack/solum-specs,Non core,2.7777777777777777,0.0,4,0
+openstack/senlin-tempest-plugin,openstack/patrole,Core,4.672897196261682,4.285714285714286,7,9
+openstack/senlin-tempest-plugin,openstack/patrole,Non core,1.8691588785046727,2.142857142857143,7,9
+openstack/senlin-tempest-plugin,openstack/performance-docs,Core,1.6129032258064515,1.0869565217391304,2,3
+openstack/senlin-tempest-plugin,openstack/performance-docs,Non core,1.6129032258064515,2.1739130434782608,2,3
+openstack/senlin-tempest-plugin,openstack/sphinx-feature-classification,Core,7.317073170731707,4.411764705882353,3,4
+openstack/senlin-tempest-plugin,openstack/sphinx-feature-classification,Non core,0.0,1.4705882352941175,3,4
+openstack/senlin-tempest-plugin,openstack/etcd3gw,Core,3.225806451612903,2.127659574468085,1,1
+openstack/senlin-tempest-plugin,openstack/etcd3gw,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/watcher-specs,Core,4.615384615384616,0.8547008547008548,7,3
+openstack/senlin-tempest-plugin,openstack/watcher-specs,Non core,6.153846153846154,1.7094017094017095,7,3
+openstack/senlin-tempest-plugin,openstack/yaql,Core,7.2727272727272725,2.272727272727273,5,5
+openstack/senlin-tempest-plugin,openstack/yaql,Non core,1.8181818181818181,3.4090909090909087,5,5
+openstack/senlin-tempest-plugin,openstack/puppet-openstack-guide,Core,6.382978723404255,4.166666666666666,4,5
+openstack/senlin-tempest-plugin,openstack/puppet-openstack-guide,Non core,2.127659574468085,2.7777777777777777,4,5
+openstack/senlin-tempest-plugin,openstack/puppet-panko,Core,7.017543859649122,4.615384615384616,6,5
+openstack/senlin-tempest-plugin,openstack/puppet-panko,Non core,3.508771929824561,3.076923076923077,6,5
+openstack/senlin-tempest-plugin,openstack/heat-cfnclient,Core,6.976744186046512,6.25,3,6
+openstack/senlin-tempest-plugin,openstack/heat-cfnclient,Non core,0.0,3.125,3,6
+openstack/senlin-tempest-plugin,openstack/heat-cfntools,Core,4.3478260869565215,4.123711340206185,4,9
+openstack/senlin-tempest-plugin,openstack/heat-cfntools,Non core,1.4492753623188406,5.154639175257731,4,9
+openstack/senlin-tempest-plugin,openstack/heat-templates,Core,4.098360655737705,3.3816425120772946,7,9
+openstack/senlin-tempest-plugin,openstack/heat-templates,Non core,1.639344262295082,0.966183574879227,7,9
+openstack/senlin-tempest-plugin,openstack/governance-sigs,Core,7.4074074074074066,3.8461538461538463,4,9
+openstack/senlin-tempest-plugin,openstack/governance-sigs,Non core,0.0,3.076923076923077,4,9
+openstack/senlin-tempest-plugin,openstack/openstack-zuul-roles,Core,7.6923076923076925,2.127659574468085,2,1
+openstack/senlin-tempest-plugin,openstack/openstack-zuul-roles,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/nova-powervm,Core,5.194805194805195,2.307692307692308,4,6
+openstack/senlin-tempest-plugin,openstack/nova-powervm,Non core,0.0,2.307692307692308,4,6
+openstack/senlin-tempest-plugin,openstack/openstack-helm-addons,Core,0.0,0.6993006993006993,0,7
+openstack/senlin-tempest-plugin,openstack/openstack-helm-addons,Non core,0.0,4.195804195804196,0,7
+openstack/senlin-tempest-plugin,openstack/python-pankoclient,Core,9.090909090909092,4.3478260869565215,5,8
+openstack/senlin-tempest-plugin,openstack/python-pankoclient,Non core,2.272727272727273,7.246376811594203,5,8
+openstack/senlin-tempest-plugin,openstack/qa-specs,Core,5.88235294117647,2.8169014084507045,4,6
+openstack/senlin-tempest-plugin,openstack/qa-specs,Non core,0.0,1.4084507042253522,4,6
+openstack/senlin-tempest-plugin,openstack/zaqar-specs,Core,5.263157894736842,3.125,3,6
+openstack/senlin-tempest-plugin,openstack/zaqar-specs,Non core,0.0,3.125,3,6
+openstack/senlin-tempest-plugin,openstack/swift-bench,Core,0.0,2.8169014084507045,1,3
+openstack/senlin-tempest-plugin,openstack/swift-bench,Non core,2.4390243902439024,1.4084507042253522,1,3
+openstack/senlin-tempest-plugin,openstack/whereto,Core,8.333333333333332,5.660377358490567,5,6
+openstack/senlin-tempest-plugin,openstack/whereto,Non core,5.555555555555555,5.660377358490567,5,6
+openstack/senlin-tempest-plugin,openstack/murano-specs,Core,4.838709677419355,1.0416666666666665,4,3
+openstack/senlin-tempest-plugin,openstack/murano-specs,Non core,1.6129032258064515,2.083333333333333,4,3
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-modify-image,Core,6.122448979591836,0.0,4,5
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-modify-image,Non core,2.0408163265306123,5.263157894736842,4,5
+openstack/senlin-tempest-plugin,openstack/requestsexceptions,Core,10.714285714285714,1.9230769230769231,3,2
+openstack/senlin-tempest-plugin,openstack/requestsexceptions,Non core,0.0,1.9230769230769231,3,2
+openstack/senlin-tempest-plugin,openstack/panko,Core,6.896551724137931,3.90625,9,11
+openstack/senlin-tempest-plugin,openstack/panko,Non core,3.4482758620689653,4.6875,9,11
+openstack/senlin-tempest-plugin,openstack/api-sig,Core,4.166666666666666,2.2123893805309733,3,6
+openstack/senlin-tempest-plugin,openstack/api-sig,Non core,0.0,0.4424778761061947,3,6
+openstack/senlin-tempest-plugin,openstack/openstack-chef-specs,Core,4.444444444444445,2.941176470588235,2,4
+openstack/senlin-tempest-plugin,openstack/openstack-chef-specs,Non core,0.0,2.941176470588235,2,4
+openstack/senlin-tempest-plugin,openstack/freezer-specs,Core,7.142857142857142,3.225806451612903,3,2
+openstack/senlin-tempest-plugin,openstack/freezer-specs,Non core,0.0,0.0,3,2
+openstack/senlin-tempest-plugin,openstack/oslo.tools,Core,5.769230769230769,3.1746031746031744,4,3
+openstack/senlin-tempest-plugin,openstack/oslo.tools,Non core,1.9230769230769231,1.5873015873015872,4,3
+openstack/senlin-tempest-plugin,openstack/microversion-parse,Core,6.451612903225806,1.9607843137254901,2,1
+openstack/senlin-tempest-plugin,openstack/microversion-parse,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/openstackclient,Core,9.523809523809524,4.411764705882353,6,4
+openstack/senlin-tempest-plugin,openstack/openstackclient,Non core,4.761904761904762,1.4705882352941175,6,4
+openstack/senlin-tempest-plugin,openstack/ossa,Core,4.651162790697675,3.225806451612903,2,5
+openstack/senlin-tempest-plugin,openstack/ossa,Non core,0.0,2.1505376344086025,2,5
+openstack/senlin-tempest-plugin,openstack/reviewstats,Core,5.208333333333334,1.935483870967742,5,3
+openstack/senlin-tempest-plugin,openstack/reviewstats,Non core,0.0,0.0,5,3
+openstack/senlin-tempest-plugin,openstack/oslo-cookiecutter,Core,6.976744186046512,4.6875,3,5
+openstack/senlin-tempest-plugin,openstack/oslo-cookiecutter,Non core,0.0,3.125,3,5
+openstack/senlin-tempest-plugin,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/security-analysis,Core,6.896551724137931,5.263157894736842,3,4
+openstack/senlin-tempest-plugin,openstack/security-analysis,Non core,3.4482758620689653,1.7543859649122806,3,4
+openstack/senlin-tempest-plugin,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-keystone,Core,7.4074074074074066,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-keystone,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-apt_package_pinning,Core,7.547169811320755,2.7027027027027026,7,6
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-apt_package_pinning,Non core,5.660377358490567,5.405405405405405,7,6
+openstack/senlin-tempest-plugin,openstack/ansible-role-qdrouterd,Core,5.88235294117647,3.1746031746031744,2,4
+openstack/senlin-tempest-plugin,openstack/ansible-role-qdrouterd,Non core,0.0,3.1746031746031744,2,4
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-openstack_openrc,Core,6.153846153846154,1.1764705882352942,6,4
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-openstack_openrc,Non core,3.076923076923077,3.5294117647058822,6,4
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-nspawn_container_create,Core,10.0,4.918032786885246,5,8
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-nspawn_container_create,Non core,2.5,8.19672131147541,5,8
+openstack/senlin-tempest-plugin,openstack/devstack-tools,Core,8.108108108108109,8.51063829787234,4,7
+openstack/senlin-tempest-plugin,openstack/devstack-tools,Non core,2.7027027027027026,6.382978723404255,4,7
+openstack/senlin-tempest-plugin,openstack/coverage2sql,Core,9.30232558139535,12.5,5,9
+openstack/senlin-tempest-plugin,openstack/coverage2sql,Non core,2.3255813953488373,6.25,5,9
+openstack/senlin-tempest-plugin,openstack/bashate,Core,7.352941176470589,5.747126436781609,5,5
+openstack/senlin-tempest-plugin,openstack/bashate,Non core,0.0,0.0,5,5
+openstack/senlin-tempest-plugin,openstack/hacking,Core,4.761904761904762,3.825136612021858,6,10
+openstack/senlin-tempest-plugin,openstack/hacking,Non core,0.9523809523809524,1.639344262295082,6,10
+openstack/senlin-tempest-plugin,openstack/xstatic-mdi,Core,3.4482758620689653,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-mdi,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-roboto-fontface,Core,3.571428571428571,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-roboto-fontface,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/openstack-chef,Core,8.88888888888889,1.8518518518518516,4,2
+openstack/senlin-tempest-plugin,openstack/openstack-chef,Non core,0.0,1.8518518518518516,4,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstackclient,Core,3.3333333333333335,0.0,1,3
+openstack/senlin-tempest-plugin,openstack/cookbook-openstackclient,Non core,0.0,6.666666666666667,1,3
+openstack/senlin-tempest-plugin,openstack/xstatic-angular,Core,2.941176470588235,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-hacluster,Core,7.6923076923076925,1.9607843137254901,3,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-hacluster,Non core,0.0,1.9607843137254901,3,2
+openstack/senlin-tempest-plugin,openstack/puppet-openstack-specs,Core,9.090909090909092,2.197802197802198,5,2
+openstack/senlin-tempest-plugin,openstack/puppet-openstack-specs,Non core,2.272727272727273,0.0,5,2
+openstack/senlin-tempest-plugin,openstack/puppet-monasca,Core,6.0,0.8771929824561403,5,3
+openstack/senlin-tempest-plugin,openstack/puppet-monasca,Non core,4.0,1.7543859649122806,5,3
+openstack/senlin-tempest-plugin,openstack/eslint-config-openstack,Core,8.333333333333332,6.329113924050633,4,5
+openstack/senlin-tempest-plugin,openstack/eslint-config-openstack,Non core,2.7777777777777777,0.0,4,5
+openstack/senlin-tempest-plugin,openstack/karma-subunit-reporter,Core,12.0,4.878048780487805,3,2
+openstack/senlin-tempest-plugin,openstack/karma-subunit-reporter,Non core,0.0,0.0,3,2
+openstack/senlin-tempest-plugin,openstack/openstack-helm-docs,Core,3.4482758620689653,3.4482758620689653,2,4
+openstack/senlin-tempest-plugin,openstack/openstack-helm-docs,Non core,3.4482758620689653,3.4482758620689653,2,4
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-specs,Core,5.47945205479452,2.7777777777777777,6,4
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-specs,Non core,2.73972602739726,0.0,6,4
+openstack/senlin-tempest-plugin,openstack/tempest-lib,Core,1.5151515151515151,2.4193548387096775,1,4
+openstack/senlin-tempest-plugin,openstack/tempest-lib,Non core,0.0,0.8064516129032258,1,4
+openstack/senlin-tempest-plugin,openstack/tripleo-ha-utils,Core,3.225806451612903,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/tripleo-ha-utils,Non core,0.0,1.639344262295082,1,1
+openstack/senlin-tempest-plugin,openstack/devstack-vagrant,Core,5.555555555555555,3.389830508474576,2,2
+openstack/senlin-tempest-plugin,openstack/devstack-vagrant,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/goal-tools,Core,7.142857142857142,6.25,3,6
+openstack/senlin-tempest-plugin,openstack/goal-tools,Non core,3.571428571428571,6.25,3,6
+openstack/senlin-tempest-plugin,openstack/cookiecutter,Core,4.6875,3.9215686274509802,3,4
+openstack/senlin-tempest-plugin,openstack/cookiecutter,Non core,0.0,0.0,3,4
+openstack/senlin-tempest-plugin,openstack/dib-utils,Core,5.405405405405405,2.73972602739726,2,2
+openstack/senlin-tempest-plugin,openstack/dib-utils,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/constellations,Core,7.6923076923076925,4.166666666666666,3,4
+openstack/senlin-tempest-plugin,openstack/constellations,Non core,3.8461538461538463,4.166666666666666,3,4
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-integration-test,Core,5.0,1.4492753623188406,2,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-integration-test,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-dashboard,Core,2.9850746268656714,0.9615384615384616,2,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-dashboard,Non core,0.0,0.9615384615384616,2,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-telemetry,Core,2.941176470588235,1.1627906976744187,2,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-telemetry,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-orchestration,Core,5.263157894736842,4.545454545454546,3,4
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-orchestration,Non core,0.0,0.0,3,4
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-bare-metal,Core,0.0,1.7543859649122806,0,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-bare-metal,Non core,0.0,0.0,0,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-dns,Core,0.0,2.272727272727273,0,4
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-dns,Non core,0.0,6.8181818181818175,0,4
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-compute,Core,2.2988505747126435,0.7751937984496124,2,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-compute,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-network,Core,3.4090909090909087,0.8130081300813009,3,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-network,Non core,0.0,0.8130081300813009,3,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-block-storage,Core,3.6585365853658534,0.9523809523809524,3,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-block-storage,Non core,0.0,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-image,Core,2.7027027027027026,0.9615384615384616,2,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-image,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-identity,Core,5.405405405405405,0.9090909090909091,4,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-identity,Non core,0.0,0.0,4,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-ops-database,Core,5.357142857142857,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-ops-database,Non core,0.0,1.1904761904761905,3,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-ops-messaging,Core,6.122448979591836,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-ops-messaging,Non core,0.0,1.2987012987012987,3,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-common,Core,3.614457831325301,1.5873015873015872,3,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-common,Non core,0.0,0.0,3,2
+openstack/senlin-tempest-plugin,openstack/self-healing-sig,Core,6.25,3.3333333333333335,2,2
+openstack/senlin-tempest-plugin,openstack/self-healing-sig,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/security-specs,Core,8.333333333333332,1.5151515151515151,3,1
+openstack/senlin-tempest-plugin,openstack/security-specs,Non core,0.0,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_panko,Core,6.976744186046512,4.3478260869565215,5,7
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_panko,Non core,4.651162790697675,5.797101449275362,5,7
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-nspawn_hosts,Core,7.317073170731707,3.125,5,7
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-nspawn_hosts,Non core,4.878048780487805,7.8125,5,7
+openstack/senlin-tempest-plugin,openstack/charm-layer-openstack-principle,Core,7.4074074074074066,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/charm-watcher-dashboard,Core,8.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/charm-watcher-dashboard,Non core,0.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/charm-watcher,Core,7.4074074074074066,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/charm-watcher,Non core,0.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-galera_client,Core,5.555555555555555,1.1235955056179776,6,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-galera_client,Non core,2.7777777777777777,4.49438202247191,6,5
+openstack/senlin-tempest-plugin,openstack/cloudkitty-specs,Core,8.108108108108109,1.5384615384615385,3,1
+openstack/senlin-tempest-plugin,openstack/cloudkitty-specs,Non core,0.0,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/osops,Core,3.571428571428571,2.2222222222222223,1,1
+openstack/senlin-tempest-plugin,openstack/osops,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-ironic,Core,7.4074074074074066,2.564102564102564,2,1
+openstack/senlin-tempest-plugin,openstack/charm-ironic,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/multi-arch-sig,Core,4.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/multi-arch-sig,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-nova-compute-proxy,Core,2.941176470588235,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-nova-compute-proxy,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-odl-controller,Core,2.857142857142857,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-odl-controller,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-nova-lxd,Core,7.317073170731707,1.694915254237288,3,2
+openstack/senlin-tempest-plugin,openstack/charm-nova-lxd,Non core,0.0,1.694915254237288,3,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-nova-cell,Core,0.0,2.631578947368421,0,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-barbican-secrets,Core,7.142857142857142,2.380952380952381,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-barbican-secrets,Non core,0.0,2.380952380952381,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-mysql-innodb-cluster,Core,4.166666666666666,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-ceph-rbd-mirror,Core,7.4074074074074066,2.3255813953488373,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,2.3255813953488373,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-placement,Core,8.333333333333332,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-placement,Non core,0.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-mysql-shared,Core,14.285714285714285,0.0,4,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-mysql-shared,Non core,0.0,0.0,4,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-dashboard-plugin,Core,7.142857142857142,2.380952380952381,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-dashboard-plugin,Non core,0.0,2.380952380952381,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-neutron-load-balancer,Core,7.142857142857142,2.380952380952381,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-neutron-load-balancer,Non core,0.0,2.380952380952381,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-neutron-plugin-api-subordinate,Core,14.285714285714285,4.545454545454546,5,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,3.571428571428571,0.0,5,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-neutron-plugin,Core,11.11111111111111,2.3255813953488373,3,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-neutron-plugin,Non core,0.0,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/xstatic-json2yaml,Core,4.166666666666666,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-jquery.tablesorter,Core,4.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-magic-search,Core,3.3333333333333335,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-magic-search,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-jsencrypt,Core,3.571428571428571,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-jsencrypt,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-js-yaml,Core,4.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-spin,Core,4.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-spin,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-rickshaw,Core,3.4482758620689653,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-rickshaw,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-panko,Core,3.571428571428571,4.3478260869565215,1,3
+openstack/senlin-tempest-plugin,openstack/charm-panko,Non core,0.0,2.1739130434782608,1,3
+openstack/senlin-tempest-plugin,openstack/charm-interface-service-control,Core,7.142857142857142,2.272727272727273,3,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-service-control,Non core,3.571428571428571,2.272727272727273,3,2
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_almanach,Core,6.8181818181818175,3.076923076923077,5,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_almanach,Non core,4.545454545454546,4.615384615384616,5,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-pip_install,Core,4.545454545454546,2.941176470588235,6,6
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-pip_install,Non core,4.545454545454546,2.941176470588235,6,6
+openstack/senlin-tempest-plugin,openstack/python-karborclient,Core,7.462686567164178,3.260869565217391,9,9
+openstack/senlin-tempest-plugin,openstack/python-karborclient,Non core,5.970149253731343,6.521739130434782,9,9
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone-admin,Core,12.0,0.0,3,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone-admin,Non core,0.0,0.0,3,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-nova-compute,Core,10.714285714285714,2.2222222222222223,4,3
+openstack/senlin-tempest-plugin,openstack/charm-interface-nova-compute,Non core,3.571428571428571,4.444444444444445,4,3
+openstack/senlin-tempest-plugin,openstack/charm-interface-manila-plugin,Core,7.4074074074074066,2.3255813953488373,2,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-manila-plugin,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/murano-apps,Core,5.633802816901409,1.8867924528301887,5,2
+openstack/senlin-tempest-plugin,openstack/murano-apps,Non core,1.4084507042253522,0.0,5,2
+openstack/senlin-tempest-plugin,openstack/puppet-senlin,Core,8.571428571428571,1.8518518518518516,4,1
+openstack/senlin-tempest-plugin,openstack/puppet-senlin,Non core,2.857142857142857,0.0,4,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-application-catalog,Core,3.571428571428571,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-application-catalog,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/training-labs,Core,5.357142857142857,4.054054054054054,5,8
+openstack/senlin-tempest-plugin,openstack/training-labs,Non core,3.571428571428571,6.756756756756757,5,8
+openstack/senlin-tempest-plugin,openstack/karbor,Core,3.8461538461538463,2.631578947368421,7,11
+openstack/senlin-tempest-plugin,openstack/karbor,Non core,1.5384615384615385,3.1578947368421053,7,11
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-open-cas,Core,4.0,6.8181818181818175,1,3
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,3
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_congress,Core,6.8181818181818175,2.666666666666667,5,6
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_congress,Non core,4.545454545454546,5.333333333333334,5,6
+openstack/senlin-tempest-plugin,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone-notifications,Core,0.0,2.631578947368421,0,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/senlin-tempest-plugin,openstack/os-collect-config,Core,5.47945205479452,2.2388059701492535,4,7
+openstack/senlin-tempest-plugin,openstack/os-collect-config,Non core,0.0,2.9850746268656714,4,7
+openstack/senlin-tempest-plugin,openstack/os-apply-config,Core,5.633802816901409,3.225806451612903,5,9
+openstack/senlin-tempest-plugin,openstack/os-apply-config,Non core,1.4084507042253522,4.032258064516129,5,9
+openstack/senlin-tempest-plugin,openstack/puppet-freezer,Core,9.523809523809524,1.639344262295082,6,3
+openstack/senlin-tempest-plugin,openstack/puppet-freezer,Non core,4.761904761904762,3.278688524590164,6,3
+openstack/senlin-tempest-plugin,openstack/vitrage-specs,Core,5.357142857142857,0.0,5,4
+openstack/senlin-tempest-plugin,openstack/vitrage-specs,Non core,3.571428571428571,4.761904761904762,5,4
+openstack/senlin-tempest-plugin,openstack/specs-cookiecutter,Core,10.344827586206897,6.122448979591836,3,3
+openstack/senlin-tempest-plugin,openstack/specs-cookiecutter,Non core,0.0,0.0,3,3
+openstack/senlin-tempest-plugin,openstack/rpm-packaging-tools,Core,9.375,5.172413793103448,3,5
+openstack/senlin-tempest-plugin,openstack/rpm-packaging-tools,Non core,0.0,3.4482758620689653,3,5
+openstack/senlin-tempest-plugin,openstack/ansible-role-openstack-operations,Core,8.333333333333332,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-openstack-operations,Non core,0.0,1.8518518518518516,3,1
+openstack/senlin-tempest-plugin,openstack/os-refresh-config,Core,6.896551724137931,1.9417475728155338,4,9
+openstack/senlin-tempest-plugin,openstack/os-refresh-config,Non core,0.0,6.796116504854369,4,9
+openstack/senlin-tempest-plugin,openstack/mistral-specs,Core,6.382978723404255,1.36986301369863,5,3
+openstack/senlin-tempest-plugin,openstack/mistral-specs,Non core,4.25531914893617,2.73972602739726,5,3
+openstack/senlin-tempest-plugin,openstack/scientific-wg,Core,8.0,4.878048780487805,2,2
+openstack/senlin-tempest-plugin,openstack/scientific-wg,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone-fid-service-provider,Core,3.8461538461538463,2.380952380952381,1,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/manila-test-image,Core,3.8461538461538463,1.9607843137254901,1,2
+openstack/senlin-tempest-plugin,openstack/manila-test-image,Non core,0.0,1.9607843137254901,1,2
+openstack/senlin-tempest-plugin,openstack/governance-website,Core,6.451612903225806,3.7037037037037033,2,4
+openstack/senlin-tempest-plugin,openstack/governance-website,Non core,0.0,3.7037037037037033,2,4
+openstack/senlin-tempest-plugin,openstack/bugdaystats,Core,0.0,3.9215686274509802,0,2
+openstack/senlin-tempest-plugin,openstack/bugdaystats,Non core,0.0,0.0,0,2
+openstack/senlin-tempest-plugin,openstack/upstream-institute-virtual-environment,Core,0.0,2.0408163265306123,1,1
+openstack/senlin-tempest-plugin,openstack/upstream-institute-virtual-environment,Non core,3.4482758620689653,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/karbor-dashboard,Core,5.454545454545454,3.488372093023256,6,10
+openstack/senlin-tempest-plugin,openstack/karbor-dashboard,Non core,5.454545454545454,8.13953488372093,6,10
+openstack/senlin-tempest-plugin,openstack/django_openstack_auth,Core,4.166666666666666,1.0101010101010102,5,4
+openstack/senlin-tempest-plugin,openstack/django_openstack_auth,Non core,1.0416666666666665,1.0101010101010102,5,4
+openstack/senlin-tempest-plugin,openstack/monasca-transform,Core,5.084745762711865,2.4390243902439024,5,7
+openstack/senlin-tempest-plugin,openstack/monasca-transform,Non core,3.389830508474576,6.097560975609756,5,7
+openstack/senlin-tempest-plugin,openstack/monasca-ceilometer,Core,4.3478260869565215,1.9047619047619049,4,6
+openstack/senlin-tempest-plugin,openstack/monasca-ceilometer,Non core,1.4492753623188406,3.8095238095238098,4,6
+openstack/senlin-tempest-plugin,openstack/monasca-log-api,Core,6.944444444444445,2.4193548387096775,7,7
+openstack/senlin-tempest-plugin,openstack/monasca-log-api,Non core,2.7777777777777777,3.225806451612903,7,7
+openstack/senlin-tempest-plugin,openstack/nose-html-output,Core,6.666666666666667,1.9607843137254901,2,1
+openstack/senlin-tempest-plugin,openstack/nose-html-output,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/kolla-cli,Core,2.380952380952381,3.076923076923077,3,10
+openstack/senlin-tempest-plugin,openstack/kolla-cli,Non core,4.761904761904762,12.307692307692308,3,10
+openstack/senlin-tempest-plugin,openstack/neutron-lbaas-dashboard,Core,6.0606060606060606,3.389830508474576,5,8
+openstack/senlin-tempest-plugin,openstack/neutron-lbaas-dashboard,Non core,1.5151515151515151,3.389830508474576,5,8
+openstack/senlin-tempest-plugin,openstack/searchlight,Core,3.007518796992481,2.4691358024691357,8,11
+openstack/senlin-tempest-plugin,openstack/searchlight,Non core,3.007518796992481,4.320987654320987,8,11
+openstack/senlin-tempest-plugin,openstack/searchlight-ui,Core,4.6875,3.571428571428571,5,5
+openstack/senlin-tempest-plugin,openstack/searchlight-ui,Non core,3.125,2.380952380952381,5,5
+openstack/senlin-tempest-plugin,openstack/searchlight-specs,Core,6.976744186046512,1.4492753623188406,4,4
+openstack/senlin-tempest-plugin,openstack/searchlight-specs,Non core,2.3255813953488373,4.3478260869565215,4,4
+openstack/senlin-tempest-plugin,openstack/python-searchlightclient,Core,6.666666666666667,2.3529411764705883,8,7
+openstack/senlin-tempest-plugin,openstack/python-searchlightclient,Non core,6.666666666666667,5.88235294117647,8,7
+openstack/senlin-tempest-plugin,openstack/charm-tempest,Core,7.142857142857142,3.389830508474576,3,3
+openstack/senlin-tempest-plugin,openstack/charm-tempest,Non core,0.0,1.694915254237288,3,3
+openstack/senlin-tempest-plugin,openstack/charm-barbican-softhsm,Core,7.6923076923076925,1.8181818181818181,3,2
+openstack/senlin-tempest-plugin,openstack/charm-barbican-softhsm,Non core,0.0,1.8181818181818181,3,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-client,Core,3.3333333333333335,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-client,Non core,0.0,1.9607843137254901,1,1
+openstack/senlin-tempest-plugin,openstack/instack-undercloud,Core,2.479338842975207,0.847457627118644,4,6
+openstack/senlin-tempest-plugin,openstack/instack-undercloud,Non core,0.8264462809917356,1.694915254237288,4,6
+openstack/senlin-tempest-plugin,openstack/publiccloud-sig,Core,7.142857142857142,4.444444444444445,2,2
+openstack/senlin-tempest-plugin,openstack/publiccloud-sig,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/ideas,Core,7.6923076923076925,4.6875,2,3
+openstack/senlin-tempest-plugin,openstack/ideas,Non core,0.0,0.0,2,3
+openstack/senlin-tempest-plugin,openstack/uc-recognition,Core,4.0,2.1739130434782608,1,1
+openstack/senlin-tempest-plugin,openstack/uc-recognition,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/ops-tags-team,Core,3.125,2.941176470588235,1,2
+openstack/senlin-tempest-plugin,openstack/ops-tags-team,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/enterprise-wg,Core,4.3478260869565215,2.7027027027027026,1,1
+openstack/senlin-tempest-plugin,openstack/enterprise-wg,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/governance-uc,Core,7.142857142857142,3.5294117647058822,3,7
+openstack/senlin-tempest-plugin,openstack/governance-uc,Non core,0.0,4.705882352941177,3,7
+openstack/senlin-tempest-plugin,openstack/workload-ref-archs,Core,9.090909090909092,6.25,3,5
+openstack/senlin-tempest-plugin,openstack/workload-ref-archs,Non core,0.0,4.166666666666666,3,5
+openstack/senlin-tempest-plugin,openstack/arch-wg,Core,3.8461538461538463,1.8867924528301887,1,1
+openstack/senlin-tempest-plugin,openstack/arch-wg,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/project-navigator-data,Core,10.526315789473683,3.278688524590164,4,2
+openstack/senlin-tempest-plugin,openstack/project-navigator-data,Non core,0.0,0.0,4,2
+openstack/senlin-tempest-plugin,openstack/openstack-specs,Core,7.5,1.8604651162790697,3,4
+openstack/senlin-tempest-plugin,openstack/openstack-specs,Non core,0.0,0.0,3,4
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_monasca,Core,9.433962264150944,3.614457831325301,7,8
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_monasca,Non core,3.7735849056603774,6.024096385542169,7,8
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_monasca-agent,Core,9.523809523809524,4.411764705882353,6,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_monasca-agent,Non core,4.761904761904762,2.941176470588235,6,5
+openstack/senlin-tempest-plugin,openstack/ironic-inspector-specs,Core,4.444444444444445,1.2195121951219512,3,2
+openstack/senlin-tempest-plugin,openstack/ironic-inspector-specs,Non core,2.2222222222222223,1.2195121951219512,3,2
+openstack/senlin-tempest-plugin,openstack/sushy-cli,Core,6.666666666666667,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/sushy-cli,Non core,0.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/puppet-glare,Core,8.333333333333332,4.6875,5,3
+openstack/senlin-tempest-plugin,openstack/puppet-glare,Non core,2.083333333333333,0.0,5,3
+openstack/senlin-tempest-plugin,openstack/xstatic-bootstrap-scss,Core,3.4482758620689653,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-bootstrap-scss,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/openstack-planet,Core,1.6528925619834711,1.3986013986013985,4,2
+openstack/senlin-tempest-plugin,openstack/openstack-planet,Non core,0.0,0.0,4,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone-credentials,Core,10.344827586206897,2.2222222222222223,4,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone-credentials,Non core,3.4482758620689653,0.0,4,1
+openstack/senlin-tempest-plugin,openstack/monasca-kibana-plugin,Core,9.67741935483871,3.6363636363636362,3,2
+openstack/senlin-tempest-plugin,openstack/monasca-kibana-plugin,Non core,0.0,0.0,3,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone-domain-backend,Core,11.11111111111111,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-amqp1,Core,12.903225806451612,1.7543859649122806,4,1
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-amqp1,Non core,0.0,0.0,4,1
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-kafka,Core,6.896551724137931,4.0,2,4
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-kafka,Non core,0.0,4.0,2,4
+openstack/senlin-tempest-plugin,openstack/tripleo-ipsec,Core,9.67741935483871,0.0,4,2
+openstack/senlin-tempest-plugin,openstack/tripleo-ipsec,Non core,3.225806451612903,3.6363636363636362,4,2
+openstack/senlin-tempest-plugin,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/monasca-grafana-datasource,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-bind-rndc,Core,10.714285714285714,2.272727272727273,4,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-bind-rndc,Non core,3.571428571428571,0.0,4,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-rabbitmq,Core,10.714285714285714,2.2222222222222223,3,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-rabbitmq,Non core,0.0,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-openstack-ha,Core,7.142857142857142,4.545454545454546,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-openstack-ha,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-gnocchi,Core,11.538461538461538,4.0,3,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-gnocchi,Non core,0.0,0.0,3,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-bgp,Core,10.714285714285714,2.272727272727273,3,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-bgp,Non core,0.0,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-websso-fid-service-provider,Core,4.0,2.5,1,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-designate,Core,3.8461538461538463,2.4390243902439024,1,1
+openstack/senlin-tempest-plugin,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/tempest-horizon,Core,10.256410256410255,1.8181818181818181,5,4
+openstack/senlin-tempest-plugin,openstack/tempest-horizon,Non core,2.564102564102564,5.454545454545454,5,4
+openstack/senlin-tempest-plugin,openstack/logstash-filters,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/logstash-filters,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-jquery-migrate,Core,3.8461538461538463,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-jquery-migrate,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/qinling-dashboard,Core,7.142857142857142,4.0,3,3
+openstack/senlin-tempest-plugin,openstack/qinling-dashboard,Non core,3.571428571428571,2.0,3,3
+openstack/senlin-tempest-plugin,openstack/python-qinlingclient,Core,8.333333333333332,7.4074074074074066,6,9
+openstack/senlin-tempest-plugin,openstack/python-qinlingclient,Non core,4.166666666666666,9.25925925925926,6,9
+openstack/senlin-tempest-plugin,openstack/qinling,Core,8.333333333333332,4.477611940298507,8,7
+openstack/senlin-tempest-plugin,openstack/qinling,Non core,5.0,5.970149253731343,8,7
+openstack/senlin-tempest-plugin,openstack/monasca-analytics,Core,6.521739130434782,4.0,3,4
+openstack/senlin-tempest-plugin,openstack/monasca-analytics,Non core,0.0,1.3333333333333335,3,4
+openstack/senlin-tempest-plugin,openstack/oslo-incubator,Core,1.3745704467353952,0.8658008658008658,4,4
+openstack/senlin-tempest-plugin,openstack/oslo-incubator,Non core,0.0,0.0,4,4
+openstack/senlin-tempest-plugin,openstack/puppet-congress,Core,8.51063829787234,1.694915254237288,6,2
+openstack/senlin-tempest-plugin,openstack/puppet-congress,Non core,4.25531914893617,1.694915254237288,6,2
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_monasca-ui,Core,9.67741935483871,5.660377358490567,5,3
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_monasca-ui,Non core,6.451612903225806,0.0,5,3
+openstack/senlin-tempest-plugin,openstack/auto-scaling-sig,Core,7.4074074074074066,1.9230769230769231,2,1
+openstack/senlin-tempest-plugin,openstack/auto-scaling-sig,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/os-loganalyze,Core,4.0,7.317073170731707,2,6
+openstack/senlin-tempest-plugin,openstack/os-loganalyze,Non core,0.0,0.0,2,6
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-pika,Core,7.6923076923076925,4.3478260869565215,2,2
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-pika,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-zmq,Core,10.0,4.081632653061225,3,2
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-zmq,Non core,0.0,0.0,3,2
+openstack/senlin-tempest-plugin,openstack/networking-l2gw,Core,4.597701149425287,1.0810810810810811,4,3
+openstack/senlin-tempest-plugin,openstack/networking-l2gw,Non core,0.0,0.5405405405405406,4,3
+openstack/senlin-tempest-plugin,openstack/networking-l2gw-tempest-plugin,Core,6.0606060606060606,5.454545454545454,2,5
+openstack/senlin-tempest-plugin,openstack/networking-l2gw-tempest-plugin,Non core,0.0,3.6363636363636362,2,5
+openstack/senlin-tempest-plugin,openstack/charm-interface-ceph-mds,Core,10.714285714285714,0.0,3,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-ceph-mds,Non core,0.0,0.0,3,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-ui-router,Core,4.0,2.3255813953488373,1,1
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-ui-router,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/xstatic-vis,Core,8.0,2.4390243902439024,2,1
+openstack/senlin-tempest-plugin,openstack/xstatic-vis,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-database,Core,3.225806451612903,3.4482758620689653,1,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-database,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-data-processing,Core,3.571428571428571,3.8461538461538463,1,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-data-processing,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/trove-integration,Core,1.1363636363636365,2.2222222222222223,1,3
+openstack/senlin-tempest-plugin,openstack/trove-integration,Non core,0.0,0.0,1,3
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-sensu,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-sensu,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/python-ceilometerclient,Core,2.9850746268656714,2.3255813953488373,4,6
+openstack/senlin-tempest-plugin,openstack/python-ceilometerclient,Non core,0.0,0.46511627906976744,4,6
+openstack/senlin-tempest-plugin,openstack/keystoneauth-saml2,Core,5.88235294117647,2.941176470588235,2,2
+openstack/senlin-tempest-plugin,openstack/keystoneauth-saml2,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/murano-deployment,Core,1.7241379310344827,1.3888888888888888,1,1
+openstack/senlin-tempest-plugin,openstack/murano-deployment,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/python-keystoneclient-kerberos,Core,5.88235294117647,3.0303030303030303,2,2
+openstack/senlin-tempest-plugin,openstack/python-keystoneclient-kerberos,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/python-wsmanclient,Core,3.8461538461538463,2.272727272727273,1,1
+openstack/senlin-tempest-plugin,openstack/python-wsmanclient,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-upgrade,Core,6.451612903225806,1.6129032258064515,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-upgrade,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-object-storage,Core,2.0,2.5974025974025974,1,2
+openstack/senlin-tempest-plugin,openstack/cookbook-openstack-object-storage,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/fairy-slipper,Core,6.896551724137931,8.16326530612245,2,4
+openstack/senlin-tempest-plugin,openstack/fairy-slipper,Non core,0.0,0.0,2,4
+openstack/senlin-tempest-plugin,openstack/django-openstack-auth-kerberos,Core,7.4074074074074066,1.9230769230769231,2,1
+openstack/senlin-tempest-plugin,openstack/django-openstack-auth-kerberos,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/horizon-cisco-ui,Core,5.88235294117647,4.166666666666666,2,2
+openstack/senlin-tempest-plugin,openstack/horizon-cisco-ui,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/zuul-packaging,Core,8.333333333333332,4.444444444444445,2,2
+openstack/senlin-tempest-plugin,openstack/zuul-packaging,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/networking-generic-switch-tempest-plugin,Core,4.166666666666666,2.7027027027027026,1,1
+openstack/senlin-tempest-plugin,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/tripleo-incubator,Core,1.694915254237288,2.051282051282051,2,4
+openstack/senlin-tempest-plugin,openstack/tripleo-incubator,Non core,0.0,0.0,2,4
+openstack/senlin-tempest-plugin,openstack/ironic-webclient,Core,3.4482758620689653,1.5151515151515151,1,1
+openstack/senlin-tempest-plugin,openstack/ironic-webclient,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/puppet-crane,Core,4.166666666666666,5.263157894736842,1,2
+openstack/senlin-tempest-plugin,openstack/puppet-crane,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/release-tools,Core,5.555555555555555,2.857142857142857,3,4
+openstack/senlin-tempest-plugin,openstack/release-tools,Non core,0.0,0.9523809523809524,3,4
+openstack/senlin-tempest-plugin,openstack/gnocchi,Core,2.2222222222222223,3.125,2,6
+openstack/senlin-tempest-plugin,openstack/gnocchi,Non core,0.0,0.625,2,6
+openstack/senlin-tempest-plugin,openstack/networking-ofagent,Core,3.0303030303030303,3.3333333333333335,1,2
+openstack/senlin-tempest-plugin,openstack/networking-ofagent,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/python-neutron-pd-driver,Core,4.0,5.128205128205128,1,2
+openstack/senlin-tempest-plugin,openstack/python-neutron-pd-driver,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/charm-ceph,Core,2.380952380952381,1.8181818181818181,1,1
+openstack/senlin-tempest-plugin,openstack/charm-ceph,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_freezer,Core,4.166666666666666,2.631578947368421,1,1
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-pip_lock_down,Core,8.823529411764707,4.0,3,2
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.0,3,2
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-security,Core,5.084745762711865,1.9230769230769231,3,2
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-security,Non core,0.0,0.0,3,2
+openstack/senlin-tempest-plugin,openstack/oslosphinx,Core,4.477611940298507,5.05050505050505,3,7
+openstack/senlin-tempest-plugin,openstack/oslosphinx,Non core,0.0,2.0202020202020203,3,7
+openstack/senlin-tempest-plugin,openstack/python-gnocchiclient,Core,1.8867924528301887,2.9850746268656714,1,2
+openstack/senlin-tempest-plugin,openstack/python-gnocchiclient,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-cinder,Core,4.0,2.564102564102564,1,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-cookiecutter,Core,4.0,5.128205128205128,1,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-glance,Core,8.0,5.128205128205128,2,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-keystone,Core,8.0,2.380952380952381,2,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-mariadb,Core,12.0,4.878048780487805,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-rabbitmq,Core,4.166666666666666,2.7027027027027026,1,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-tripleo,Core,8.0,5.0,2,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-ui,Core,7.4074074074074066,4.878048780487805,3,3
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-ui,Non core,3.7037037037037033,2.4390243902439024,3,3
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-aodh,Core,7.4074074074074066,2.4390243902439024,3,3
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-aodh,Non core,3.7037037037037033,4.878048780487805,3,3
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-barbican,Core,7.4074074074074066,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-barbican,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-ceilometer,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-ceilometer,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-cinder,Core,7.4074074074074066,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-cinder,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-cookiecutter,Core,10.0,4.166666666666666,4,3
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-cookiecutter,Non core,3.3333333333333335,2.083333333333333,4,3
+openstack/senlin-tempest-plugin,openstack/tripleo-ui,Core,5.555555555555555,4.040404040404041,4,7
+openstack/senlin-tempest-plugin,openstack/tripleo-ui,Non core,1.8518518518518516,3.0303030303030303,4,7
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-ovn,Core,7.4074074074074066,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-ovn,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-opendaylight,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-opendaylight,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-octavia,Core,11.538461538461538,2.4390243902439024,4,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-octavia,Non core,3.8461538461538463,2.4390243902439024,4,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-nova,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-nova,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/os-cloud-config,Core,4.166666666666666,2.3622047244094486,3,3
+openstack/senlin-tempest-plugin,openstack/os-cloud-config,Non core,0.0,0.0,3,3
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-zaqar,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-zaqar,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-tempest,Core,7.4074074074074066,2.5,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-tempest,Non core,3.7037037037037033,2.5,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-sahara,Core,7.4074074074074066,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-sahara,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-swift,Core,7.4074074074074066,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-swift,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-tacker,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-tacker,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,7.4074074074074066,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-rabbitmq,Core,7.4074074074074066,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-rabbitmq,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-qdrouterd,Core,4.166666666666666,2.631578947368421,1,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-panko,Core,7.4074074074074066,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-panko,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-heat,Core,7.4074074074074066,2.4390243902439024,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-heat,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-haproxy,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-haproxy,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-gnocchi,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-gnocchi,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-glance,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-glance,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-designate,Core,7.4074074074074066,2.380952380952381,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-designate,Non core,3.7037037037037033,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-neutron,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-neutron,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-mistral,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-mistral,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-memcached,Core,7.4074074074074066,2.4390243902439024,3,3
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-memcached,Non core,3.7037037037037033,4.878048780487805,3,3
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-manila,Core,7.4074074074074066,2.380952380952381,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-manila,Non core,3.7037037037037033,2.380952380952381,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-ironic,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-ironic,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-keepalived,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-keepalived,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-horizon,Core,7.4074074074074066,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/ansible-role-tripleo-horizon,Non core,3.7037037037037033,2.4390243902439024,3,2
+openstack/senlin-tempest-plugin,openstack/pylockfile,Core,6.666666666666667,5.769230769230769,2,4
+openstack/senlin-tempest-plugin,openstack/pylockfile,Non core,0.0,1.9230769230769231,2,4
+openstack/senlin-tempest-plugin,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/dragonflow,Core,3.571428571428571,1.8433179723502304,8,11
+openstack/senlin-tempest-plugin,openstack/dragonflow,Non core,2.142857142857143,3.225806451612903,8,11
+openstack/senlin-tempest-plugin,openstack/openstack,Core,3.7037037037037033,3.8461538461538463,1,2
+openstack/senlin-tempest-plugin,openstack/openstack,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-pacemaker-remote,Core,7.6923076923076925,2.3255813953488373,2,2
+openstack/senlin-tempest-plugin,openstack/charm-interface-pacemaker-remote,Non core,0.0,2.3255813953488373,2,2
+openstack/senlin-tempest-plugin,openstack/networking-onos,Core,2.564102564102564,1.1904761904761905,1,2
+openstack/senlin-tempest-plugin,openstack/networking-onos,Non core,0.0,1.1904761904761905,1,2
+openstack/senlin-tempest-plugin,openstack/solum-infra-guestagent,Core,3.4482758620689653,2.0408163265306123,1,1
+openstack/senlin-tempest-plugin,openstack/solum-infra-guestagent,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/openstack-ux,Core,3.8461538461538463,1.8518518518518516,1,1
+openstack/senlin-tempest-plugin,openstack/openstack-ux,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/mox3,Core,6.666666666666667,5.797101449275362,5,5
+openstack/senlin-tempest-plugin,openstack/mox3,Non core,4.444444444444445,1.4492753623188406,5,5
+openstack/senlin-tempest-plugin,openstack/charm-layer-ceph,Core,4.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-layer-ceph-base,Core,7.6923076923076925,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/charm-layer-ceph-base,Non core,0.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/python-tricircleclient,Core,7.894736842105263,3.225806451612903,4,4
+openstack/senlin-tempest-plugin,openstack/python-tricircleclient,Non core,2.631578947368421,3.225806451612903,4,4
+openstack/senlin-tempest-plugin,openstack/tricircle,Core,4.040404040404041,1.7964071856287425,5,8
+openstack/senlin-tempest-plugin,openstack/tricircle,Non core,1.0101010101010102,2.9940119760479043,5,8
+openstack/senlin-tempest-plugin,openstack/swift-specs,Core,4.444444444444445,3.061224489795918,2,3
+openstack/senlin-tempest-plugin,openstack/swift-specs,Non core,0.0,0.0,2,3
+openstack/senlin-tempest-plugin,openstack/congress,Core,4.216867469879518,1.6877637130801686,10,10
+openstack/senlin-tempest-plugin,openstack/congress,Non core,1.8072289156626504,2.5316455696202533,10,10
+openstack/senlin-tempest-plugin,openstack/congress-tempest-plugin,Core,8.108108108108109,5.454545454545454,6,7
+openstack/senlin-tempest-plugin,openstack/congress-tempest-plugin,Non core,8.108108108108109,7.2727272727272725,6,7
+openstack/senlin-tempest-plugin,openstack/python-congressclient,Core,4.285714285714286,5.0,5,9
+openstack/senlin-tempest-plugin,openstack/python-congressclient,Non core,2.857142857142857,6.25,5,9
+openstack/senlin-tempest-plugin,openstack/congress-specs,Core,7.547169811320755,3.79746835443038,5,5
+openstack/senlin-tempest-plugin,openstack/congress-specs,Non core,1.8867924528301887,2.5316455696202533,5,5
+openstack/senlin-tempest-plugin,openstack/congress-dashboard,Core,6.976744186046512,6.25,5,7
+openstack/senlin-tempest-plugin,openstack/congress-dashboard,Non core,4.651162790697675,4.6875,5,7
+openstack/senlin-tempest-plugin,openstack/syntribos,Core,3.8461538461538463,1.4285714285714286,2,2
+openstack/senlin-tempest-plugin,openstack/syntribos,Non core,0.0,1.4285714285714286,2,2
+openstack/senlin-tempest-plugin,openstack/syntribos-payloads,Core,4.166666666666666,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/syntribos-payloads,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/syntribos-openstack-templates,Core,3.8461538461538463,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/syntribos-openstack-templates,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/i18n-specs,Core,8.333333333333332,2.380952380952381,2,2
+openstack/senlin-tempest-plugin,openstack/i18n-specs,Non core,0.0,2.380952380952381,2,2
+openstack/senlin-tempest-plugin,openstack/tempest-plugin-cookiecutter,Core,7.6923076923076925,6.521739130434782,2,3
+openstack/senlin-tempest-plugin,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,2,3
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-cookiecutter,Core,8.0,5.0,2,2
+openstack/senlin-tempest-plugin,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/xstatic-graphlib,Core,0.0,2.564102564102564,0,1
+openstack/senlin-tempest-plugin,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-repo_build,Core,3.9473684210526314,2.7027027027027026,6,9
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-repo_build,Non core,3.9473684210526314,5.405405405405405,6,9
+openstack/senlin-tempest-plugin,openstack/xstatic-bootstrap-datepicker,Core,3.3333333333333335,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-hogan,Core,4.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-hogan,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-jquery.quicksearch,Core,4.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_molteniron,Core,7.142857142857142,3.3333333333333335,5,7
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_molteniron,Non core,4.761904761904762,8.333333333333332,5,7
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-lrdragndrop,Core,3.4482758620689653,2.0408163265306123,1,1
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/faafo,Core,6.25,1.8867924528301887,2,1
+openstack/senlin-tempest-plugin,openstack/faafo,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-bootstrap,Core,3.125,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/networking-calico,Core,5.555555555555555,3.3707865168539324,3,5
+openstack/senlin-tempest-plugin,openstack/networking-calico,Non core,0.0,2.247191011235955,3,5
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-gettext,Core,3.4482758620689653,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-gettext,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/shotgun,Core,2.380952380952381,0.9174311926605505,1,1
+openstack/senlin-tempest-plugin,openstack/shotgun,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/fuel-devops,Core,2.4096385542168677,0.5747126436781609,2,3
+openstack/senlin-tempest-plugin,openstack/fuel-devops,Non core,0.0,1.1494252873563218,2,3
+openstack/senlin-tempest-plugin,openstack/fuel-plugin-murano,Core,2.857142857142857,1.5384615384615385,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-plugin-murano,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-web,Core,0.8620689655172413,0.2352941176470588,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-web,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-plugins,Core,2.9850746268656714,0.7352941176470588,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-plugins,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-virtualbox,Core,3.125,1.7543859649122806,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-virtualbox,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-ostf,Core,1.680672268907563,0.4048582995951417,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-ostf,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-qa,Core,0.684931506849315,0.35714285714285715,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-qa,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-specs,Core,1.6129032258064515,0.3003003003003003,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-specs,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-nailgun-extension-cluster-upgrade,Core,3.0303030303030303,1.7543859649122806,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-nailgun-agent,Core,1.6666666666666667,0.7575757575757576,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-nailgun-agent,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-mirror,Core,3.7037037037037033,0.7299270072992701,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-mirror,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-menu,Core,3.571428571428571,1.3513513513513513,2,2
+openstack/senlin-tempest-plugin,openstack/fuel-menu,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/fuel-main,Core,0.6211180124223602,0.3546099290780142,1,2
+openstack/senlin-tempest-plugin,openstack/fuel-main,Non core,0.0,0.3546099290780142,1,2
+openstack/senlin-tempest-plugin,openstack/fuel-ui,Core,1.5625,0.8064516129032258,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-ui,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-library,Core,0.904977375565611,0.21097046413502107,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-library,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-dev-tools,Core,8.823529411764707,1.7543859649122806,3,1
+openstack/senlin-tempest-plugin,openstack/fuel-dev-tools,Non core,0.0,0.0,3,1
+openstack/senlin-tempest-plugin,openstack/fuel-stats,Core,4.761904761904762,1.2048192771084338,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-stats,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-nailgun-extension-converted-serializers,Core,4.0,2.5,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-nailgun-extension-iac,Core,3.7037037037037033,2.380952380952381,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-plugin-murano-tests,Core,2.941176470588235,1.5384615384615385,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-astute,Core,1.1363636363636365,0.5319148936170213,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-astute,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-docs,Core,0.847457627118644,0.2857142857142857,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-docs,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuel-agent,Core,2.197802197802198,0.5434782608695652,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-agent,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-octane,Core,3.7735849056603774,1.098901098901099,2,1
+openstack/senlin-tempest-plugin,openstack/fuel-octane,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/tuning-box,Core,3.571428571428571,1.6129032258064515,1,1
+openstack/senlin-tempest-plugin,openstack/tuning-box,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/python-fuelclient,Core,1.0869565217391304,0.5494505494505495,1,1
+openstack/senlin-tempest-plugin,openstack/python-fuelclient,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/neutron-interconnection,Core,0.0,4.3478260869565215,0,2
+openstack/senlin-tempest-plugin,openstack/neutron-interconnection,Non core,0.0,0.0,0,2
+openstack/senlin-tempest-plugin,openstack/openstack-chef-repo,Core,1.5625,2.247191011235955,1,2
+openstack/senlin-tempest-plugin,openstack/openstack-chef-repo,Non core,0.0,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/os-acc,Core,0.0,3.7735849056603774,1,2
+openstack/senlin-tempest-plugin,openstack/os-acc,Non core,3.8461538461538463,0.0,1,2
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_zaqar,Core,5.454545454545454,2.5,5,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_zaqar,Non core,3.6363636363636362,3.75,5,5
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_watcher,Core,4.0,2.73972602739726,5,4
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_watcher,Non core,6.0,2.73972602739726,5,4
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_searchlight,Core,10.0,0.0,7,2
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_searchlight,Non core,7.5,3.0303030303030303,7,2
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-vis,Core,4.166666666666666,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-font-awesome,Core,3.4482758620689653,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-font-awesome,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-jasmine,Core,3.0303030303030303,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-jasmine,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-notify,Core,4.166666666666666,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-material,Core,3.8461538461538463,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/tempest-tripleo-ui,Core,3.8461538461538463,2.083333333333333,1,1
+openstack/senlin-tempest-plugin,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/docs-specs,Core,2.941176470588235,1.680672268907563,3,5
+openstack/senlin-tempest-plugin,openstack/docs-specs,Non core,1.4705882352941175,0.42016806722689076,3,5
+openstack/senlin-tempest-plugin,openstack/release-schedule-generator,Core,0.0,4.878048780487805,0,2
+openstack/senlin-tempest-plugin,openstack/release-schedule-generator,Non core,0.0,0.0,0,2
+openstack/senlin-tempest-plugin,openstack-infra/opendev-website,Core,4.166666666666666,2.380952380952381,1,1
+openstack/senlin-tempest-plugin,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/castellan-ui,Core,7.4074074074074066,3.6363636363636362,2,2
+openstack/senlin-tempest-plugin,openstack/castellan-ui,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack-attic/compute-api,Core,4.444444444444445,1.3888888888888888,2,1
+openstack/senlin-tempest-plugin,openstack-attic/compute-api,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/charm-neutron-api-odl,Core,3.0303030303030303,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-neutron-api-odl,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/charm-murano,Core,4.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-murano,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-openvswitch-odl,Core,3.0303030303030303,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-openvswitch-odl,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-odl-controller-api,Core,8.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/charm-interface-odl-controller-api,Non core,0.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/charm-glusterfs,Core,4.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-glusterfs,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-trove,Core,3.3333333333333335,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/charm-trove,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/fuxi,Core,2.0,1.2345679012345678,1,2
+openstack/senlin-tempest-plugin,openstack/fuxi,Non core,0.0,1.2345679012345678,1,2
+openstack/senlin-tempest-plugin,openstack/xstatic-filesaver,Core,4.166666666666666,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-uuid,Core,4.166666666666666,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/bandit,Core,3.75,2.8846153846153846,3,3
+openstack/senlin-tempest-plugin,openstack/bandit,Non core,0.0,0.0,3,3
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-smart-table,Core,3.8461538461538463,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-bootswatch,Core,3.7037037037037033,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-bootswatch,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/xstatic-d3,Core,3.571428571428571,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/xstatic-d3,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/instack,Core,4.545454545454546,1.3888888888888888,2,1
+openstack/senlin-tempest-plugin,openstack/instack,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/astara,Core,3.389830508474576,1.1764705882352942,2,1
+openstack/senlin-tempest-plugin,openstack/astara,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/astara-appliance,Core,2.7027027027027026,1.6666666666666667,1,1
+openstack/senlin-tempest-plugin,openstack/astara-appliance,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/astara-horizon,Core,3.3333333333333335,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/astara-horizon,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/astara-neutron,Core,2.941176470588235,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/astara-neutron,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/anchor,Core,0.0,1.2658227848101267,0,1
+openstack/senlin-tempest-plugin,openstack/anchor,Non core,0.0,0.0,0,1
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/fuxi-golang,Core,4.3478260869565215,2.5,1,1
+openstack/senlin-tempest-plugin,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/fuxi-kubernetes,Core,4.166666666666666,2.2222222222222223,1,1
+openstack/senlin-tempest-plugin,openstack/fuxi-kubernetes,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack-infra/puppet-odsreg,Core,7.4074074074074066,2.0,2,1
+openstack/senlin-tempest-plugin,openstack-infra/puppet-odsreg,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack-infra/puppet-docker_registry,Core,4.3478260869565215,0.0,1,0
+openstack/senlin-tempest-plugin,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/releasestatus,Core,4.0,2.272727272727273,1,1
+openstack/senlin-tempest-plugin,openstack/releasestatus,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack-infra/vinz-webclient,Core,4.3478260869565215,0.0,1,0
+openstack/senlin-tempest-plugin,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/activity-board,Core,2.631578947368421,1.1904761904761905,1,1
+openstack/senlin-tempest-plugin,openstack/activity-board,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack-infra/beaker-localhost,Core,4.3478260869565215,2.631578947368421,1,1
+openstack/senlin-tempest-plugin,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack-infra/beaker-nodepool,Core,4.3478260869565215,2.631578947368421,1,1
+openstack/senlin-tempest-plugin,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/rst2bash,Core,8.0,4.545454545454546,2,3
+openstack/senlin-tempest-plugin,openstack/rst2bash,Non core,0.0,2.272727272727273,2,3
+openstack/senlin-tempest-plugin,openstack/kolla-kubernetes,Core,2.3255813953488373,1.2987012987012987,3,3
+openstack/senlin-tempest-plugin,openstack/kolla-kubernetes,Non core,1.1627906976744187,0.6493506493506493,3,3
+openstack/senlin-tempest-plugin,openstack/cue-dashboard,Core,6.25,2.127659574468085,2,1
+openstack/senlin-tempest-plugin,openstack/cue-dashboard,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack/python-cueclient,Core,5.714285714285714,4.3478260869565215,2,2
+openstack/senlin-tempest-plugin,openstack/python-cueclient,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/cue,Core,3.7735849056603774,2.857142857142857,2,2
+openstack/senlin-tempest-plugin,openstack/cue,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/app-catalog,Core,2.4096385542168677,0.9900990099009901,2,1
+openstack/senlin-tempest-plugin,openstack/app-catalog,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack-attic/identity-api,Core,3.125,1.694915254237288,2,2
+openstack/senlin-tempest-plugin,openstack-attic/identity-api,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/python-magnetodbclient,Core,3.7037037037037033,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/python-magnetodbclient,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/app-catalog-ui,Core,3.225806451612903,1.8867924528301887,1,1
+openstack/senlin-tempest-plugin,openstack/app-catalog-ui,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/salt-formula-kubernetes,Core,3.571428571428571,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-kubernetes,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/app-catalog-common,Core,0.0,2.564102564102564,0,1
+openstack/senlin-tempest-plugin,openstack/app-catalog-common,Non core,0.0,0.0,0,1
+openstack/senlin-tempest-plugin,openstack/python-appcatalogclient,Core,0.0,2.380952380952381,0,1
+openstack/senlin-tempest-plugin,openstack/python-appcatalogclient,Non core,0.0,0.0,0,1
+openstack/senlin-tempest-plugin,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-openstack-pkg-tools,Core,0.0,2.1739130434782608,0,1
+openstack/senlin-tempest-plugin,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,1
+openstack/senlin-tempest-plugin,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-mistral,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-mistral,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/installguide-cookiecutter,Core,3.0303030303030303,2.0408163265306123,1,2
+openstack/senlin-tempest-plugin,openstack/installguide-cookiecutter,Non core,0.0,2.0408163265306123,1,2
+openstack/senlin-tempest-plugin,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-opencontrail,Core,2.564102564102564,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-opencontrail,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-neutron,Core,2.631578947368421,1.9607843137254901,1,1
+openstack/senlin-tempest-plugin,openstack/salt-formula-neutron,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-nova,Core,2.272727272727273,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-nova,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-keystone,Core,2.4390243902439024,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-keystone,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-horizon,Core,2.7777777777777777,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-horizon,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-heat,Core,2.3255813953488373,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-heat,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-glance,Core,2.380952380952381,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-glance,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-cinder,Core,2.4390243902439024,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-cinder,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-ceilometer,Core,3.0303030303030303,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-ceilometer,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/openstack-salt,Core,3.7037037037037033,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/openstack-salt,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-midonet,Core,4.3478260869565215,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/salt-formula-midonet,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack/magnetodb-specs,Core,6.0606060606060606,0.0,2,0
+openstack/senlin-tempest-plugin,openstack/magnetodb-specs,Non core,0.0,0.0,2,0
+openstack/senlin-tempest-plugin,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack-attic/oslo.version,Core,6.666666666666667,3.7037037037037033,2,2
+openstack/senlin-tempest-plugin,openstack-attic/oslo.version,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack-attic/image-api,Core,6.25,1.8181818181818181,2,1
+openstack/senlin-tempest-plugin,openstack-attic/image-api,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack-attic/object-api,Core,4.761904761904762,1.5384615384615385,2,1
+openstack/senlin-tempest-plugin,openstack-attic/object-api,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack-attic/volume-api,Core,2.7027027027027026,1.7543859649122806,1,1
+openstack/senlin-tempest-plugin,openstack-attic/volume-api,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack/magnetodb,Core,4.545454545454546,2.7777777777777777,2,2
+openstack/senlin-tempest-plugin,openstack/magnetodb,Non core,0.0,0.0,2,2
+openstack/senlin-tempest-plugin,openstack/openstack-nose,Core,0.0,4.651162790697675,0,2
+openstack/senlin-tempest-plugin,openstack/openstack-nose,Non core,0.0,0.0,0,2
+openstack/senlin-tempest-plugin,openstack-attic/netconn-api,Core,4.081632653061225,1.1627906976744187,2,1
+openstack/senlin-tempest-plugin,openstack-attic/netconn-api,Non core,0.0,0.0,2,1
+openstack/senlin-tempest-plugin,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack-attic/melange,Core,2.564102564102564,0.0,1,0
+openstack/senlin-tempest-plugin,openstack-attic/melange,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack-attic/openstack-qa,Core,3.8461538461538463,0.0,1,0
+openstack/senlin-tempest-plugin,openstack-attic/openstack-qa,Non core,0.0,0.0,1,0
+openstack/senlin-tempest-plugin,openstack-attic/database-api,Core,2.941176470588235,1.8867924528301887,1,1
+openstack/senlin-tempest-plugin,openstack-attic/database-api,Non core,0.0,0.0,1,1
+openstack/senlin-tempest-plugin,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/senlin-tempest-plugin,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

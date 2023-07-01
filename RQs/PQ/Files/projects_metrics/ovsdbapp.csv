@@ -1,0 +1,2011 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/ovsdbapp,openstack/python-octaviaclient,Core,4.2105263157894735,6.015037593984962,11,21
+openstack/ovsdbapp,openstack/python-octaviaclient,Non core,7.368421052631578,9.774436090225564,11,21
+openstack/ovsdbapp,openstack/octavia-lib,Core,4.477611940298507,7.079646017699115,9,14
+openstack/ovsdbapp,openstack/octavia-lib,Non core,8.955223880597014,5.3097345132743365,9,14
+openstack/ovsdbapp,openstack/charm-neutron-gateway,Core,3.0927835051546393,3.278688524590164,6,8
+openstack/ovsdbapp,openstack/charm-neutron-gateway,Non core,3.0927835051546393,3.278688524590164,6,8
+openstack/ovsdbapp,openstack/charm-hacluster,Core,3.4090909090909087,2.608695652173913,5,10
+openstack/ovsdbapp,openstack/charm-hacluster,Non core,2.272727272727273,6.086956521739131,5,10
+openstack/ovsdbapp,openstack/charm-manila,Core,4.0,1.9801980198019802,5,5
+openstack/ovsdbapp,openstack/charm-manila,Non core,2.666666666666667,2.9702970297029703,5,5
+openstack/ovsdbapp,openstack/ironic-prometheus-exporter,Core,7.462686567164178,3.061224489795918,5,4
+openstack/ovsdbapp,openstack/ironic-prometheus-exporter,Non core,0.0,1.0204081632653061,5,4
+openstack/ovsdbapp,openstack/charm-manila-netapp,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-manila-netapp,Non core,1.8181818181818181,0.0,1,0
+openstack/ovsdbapp,openstack/charm-pacemaker-remote,Core,3.225806451612903,2.083333333333333,3,4
+openstack/ovsdbapp,openstack/charm-pacemaker-remote,Non core,1.6129032258064515,2.083333333333333,3,4
+openstack/ovsdbapp,openstack/charm-glance-simplestreams-sync,Core,2.5974025974025974,1.9417475728155338,4,4
+openstack/ovsdbapp,openstack/charm-glance-simplestreams-sync,Non core,2.5974025974025974,1.9417475728155338,4,4
+openstack/ovsdbapp,openstack/oslo-specs,Core,3.2520325203252036,3.4700315457413247,9,20
+openstack/ovsdbapp,openstack/oslo-specs,Non core,4.0650406504065035,2.8391167192429023,9,20
+openstack/ovsdbapp,openstack/openstack-ansible-rsyslog_server,Core,4.25531914893617,2.2222222222222223,7,10
+openstack/ovsdbapp,openstack/openstack-ansible-rsyslog_server,Non core,3.1914893617021276,5.185185185185185,7,10
+openstack/ovsdbapp,openstack/openstack-ansible-rsyslog_client,Core,4.0,3.007518796992481,8,11
+openstack/ovsdbapp,openstack/openstack-ansible-rsyslog_client,Non core,4.0,5.263157894736842,8,11
+openstack/ovsdbapp,openstack/charm-cinder-backup,Core,4.225352112676056,2.9702970297029703,5,6
+openstack/ovsdbapp,openstack/charm-cinder-backup,Non core,2.8169014084507045,2.9702970297029703,5,6
+openstack/ovsdbapp,openstack/charm-cinder-backup-swift-proxy,Core,1.5625,1.0526315789473684,2,1
+openstack/ovsdbapp,openstack/charm-cinder-backup-swift-proxy,Non core,1.5625,0.0,2,1
+openstack/ovsdbapp,openstack/tripleo-ci-health-queries,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/tripleo-ci-health-queries,Non core,0.0,1.0416666666666665,0,1
+openstack/ovsdbapp,openstack/castellan,Core,4.838709677419355,3.5532994923857872,11,17
+openstack/ovsdbapp,openstack/castellan,Non core,4.032258064516129,5.0761421319796955,11,17
+openstack/ovsdbapp,openstack/kuryr,Core,5.426356589147287,5.172413793103448,16,30
+openstack/ovsdbapp,openstack/kuryr,Non core,6.976744186046512,7.758620689655173,16,30
+openstack/ovsdbapp,openstack/masakari-monitors,Core,5.555555555555555,5.9259259259259265,9,18
+openstack/ovsdbapp,openstack/masakari-monitors,Non core,4.444444444444445,7.4074074074074066,9,18
+openstack/ovsdbapp,openstack/adjutant,Core,5.970149253731343,4.0,10,10
+openstack/ovsdbapp,openstack/adjutant,Non core,8.955223880597014,6.0,10,10
+openstack/ovsdbapp,openstack/keystonemiddleware,Core,2.4691358024691357,4.044117647058823,7,22
+openstack/ovsdbapp,openstack/keystonemiddleware,Non core,1.8518518518518516,4.044117647058823,7,22
+openstack/ovsdbapp,openstack/charm-barbican-vault,Core,1.4492753623188406,2.0202020202020203,2,3
+openstack/ovsdbapp,openstack/charm-barbican-vault,Non core,1.4492753623188406,1.0101010101010102,2,3
+openstack/ovsdbapp,openstack/charm-aodh,Core,4.054054054054054,0.9174311926605505,4,2
+openstack/ovsdbapp,openstack/charm-aodh,Non core,1.3513513513513513,0.9174311926605505,4,2
+openstack/ovsdbapp,openstack/charm-keystone,Core,2.608695652173913,1.5037593984962405,7,6
+openstack/ovsdbapp,openstack/charm-keystone,Non core,3.4782608695652173,3.007518796992481,7,6
+openstack/ovsdbapp,openstack/charm-designate-bind,Core,2.5316455696202533,2.7522935779816518,3,8
+openstack/ovsdbapp,openstack/charm-designate-bind,Non core,1.2658227848101267,4.587155963302752,3,8
+openstack/ovsdbapp,openstack/charm-magnum,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-magnum,Non core,1.7857142857142856,0.0,1,0
+openstack/ovsdbapp,openstack/charm-manila-ganesha,Core,3.0303030303030303,1.0309278350515463,3,1
+openstack/ovsdbapp,openstack/charm-manila-ganesha,Non core,1.5151515151515151,0.0,3,1
+openstack/ovsdbapp,openstack/ldappool,Core,2.8169014084507045,4.807692307692308,7,10
+openstack/ovsdbapp,openstack/ldappool,Non core,7.042253521126761,4.807692307692308,7,10
+openstack/ovsdbapp,openstack/charm-nova-compute-nvidia-vgpu,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-nova-compute-nvidia-vgpu,Non core,1.7857142857142856,0.0,1,0
+openstack/ovsdbapp,openstack/charm-zuul-jobs,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-zuul-jobs,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-swift-storage,Core,4.705882352941177,2.479338842975207,8,7
+openstack/ovsdbapp,openstack/charm-swift-storage,Non core,4.705882352941177,3.3057851239669422,8,7
+openstack/ovsdbapp,openstack/charm-swift-proxy,Core,5.952380952380952,2.608695652173913,8,4
+openstack/ovsdbapp,openstack/charm-swift-proxy,Non core,3.571428571428571,0.8695652173913043,8,4
+openstack/ovsdbapp,openstack/openstack-virtual-baremetal,Core,1.4084507042253522,1.7543859649122806,2,3
+openstack/ovsdbapp,openstack/openstack-virtual-baremetal,Non core,1.4084507042253522,0.8771929824561403,2,3
+openstack/ovsdbapp,openstack/charm-neutron-openvswitch,Core,4.123711340206185,2.4,7,8
+openstack/ovsdbapp,openstack/charm-neutron-openvswitch,Non core,3.0927835051546393,4.0,7,8
+openstack/ovsdbapp,openstack/kuryr-libnetwork,Core,4.807692307692308,7.142857142857142,12,26
+openstack/ovsdbapp,openstack/kuryr-libnetwork,Non core,6.730769230769231,9.740259740259742,12,26
+openstack/ovsdbapp,openstack/charm-placement,Core,3.225806451612903,1.0204081632653061,3,1
+openstack/ovsdbapp,openstack/charm-placement,Non core,1.6129032258064515,0.0,3,1
+openstack/ovsdbapp,openstack/cyborg,Core,4.424778761061947,5.05050505050505,13,23
+openstack/ovsdbapp,openstack/cyborg,Non core,7.079646017699115,6.565656565656567,13,23
+openstack/ovsdbapp,openstack/charm-nova-cell-controller,Core,3.0303030303030303,1.0204081632653061,3,3
+openstack/ovsdbapp,openstack/charm-nova-cell-controller,Non core,1.5151515151515151,2.0408163265306123,3,3
+openstack/ovsdbapp,openstack/charm-keystone-ldap,Core,4.166666666666666,0.9523809523809524,5,3
+openstack/ovsdbapp,openstack/charm-keystone-ldap,Non core,2.7777777777777777,1.9047619047619049,5,3
+openstack/ovsdbapp,openstack/charm-keystone-saml-mellon,Core,1.4925373134328357,2.912621359223301,2,5
+openstack/ovsdbapp,openstack/charm-keystone-saml-mellon,Non core,1.4925373134328357,1.9417475728155338,2,5
+openstack/ovsdbapp,openstack/charm-manila-generic,Core,4.285714285714286,3.0303030303030303,5,6
+openstack/ovsdbapp,openstack/charm-manila-generic,Non core,2.857142857142857,3.0303030303030303,5,6
+openstack/ovsdbapp,openstack/charm-manila-dashboard,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-manila-dashboard,Non core,1.8181818181818181,0.0,1,0
+openstack/ovsdbapp,openstack/charm-ironic-api,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-ironic-api,Non core,1.694915254237288,0.0,1,0
+openstack/ovsdbapp,openstack/charm-cinder-netapp,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-cinder-netapp,Non core,1.7543859649122806,0.0,1,0
+openstack/ovsdbapp,openstack/charm-ceilometer,Core,3.4482758620689653,2.6548672566371683,5,6
+openstack/ovsdbapp,openstack/charm-ceilometer,Non core,2.2988505747126435,2.6548672566371683,5,6
+openstack/ovsdbapp,openstack/charm-keystone-openidc,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-keystone-openidc,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-mysql-router,Core,2.898550724637681,0.0,3,0
+openstack/ovsdbapp,openstack/charm-mysql-router,Non core,1.4492753623188406,0.0,3,0
+openstack/ovsdbapp,openstack/rally-openstack,Core,6.481481481481481,11.333333333333332,11,24
+openstack/ovsdbapp,openstack/rally-openstack,Non core,3.7037037037037033,4.666666666666667,11,24
+openstack/ovsdbapp,openstack/os-win,Core,5.319148936170213,5.511811023622047,11,14
+openstack/ovsdbapp,openstack/os-win,Non core,6.382978723404255,5.511811023622047,11,14
+openstack/ovsdbapp,openstack/python-neutronclient,Core,3.508771929824561,3.9556962025316458,23,51
+openstack/ovsdbapp,openstack/python-neutronclient,Non core,3.216374269005848,4.113924050632911,23,51
+openstack/ovsdbapp,openstack/sushy-tools,Core,6.097560975609756,5.932203389830509,8,15
+openstack/ovsdbapp,openstack/sushy-tools,Non core,3.6585365853658534,6.779661016949152,8,15
+openstack/ovsdbapp,openstack/charm-ceilometer-agent,Core,5.333333333333334,2.8846153846153846,6,7
+openstack/ovsdbapp,openstack/charm-ceilometer-agent,Non core,2.666666666666667,3.8461538461538463,6,7
+openstack/ovsdbapp,openstack/charm-barbican,Core,2.666666666666667,1.9417475728155338,4,6
+openstack/ovsdbapp,openstack/charm-barbican,Non core,2.666666666666667,3.8834951456310676,4,6
+openstack/ovsdbapp,openstack/charm-octavia-diskimage-retrofit,Core,1.4925373134328357,0.0,2,1
+openstack/ovsdbapp,openstack/charm-octavia-diskimage-retrofit,Non core,1.4925373134328357,0.9900990099009901,2,1
+openstack/ovsdbapp,openstack/ansible-role-redhat-subscription,Core,4.285714285714286,1.8018018018018018,5,4
+openstack/ovsdbapp,openstack/ansible-role-redhat-subscription,Non core,2.857142857142857,1.8018018018018018,5,4
+openstack/ovsdbapp,openstack/oslo.db,Core,3.296703296703297,4.778156996587031,12,32
+openstack/ovsdbapp,openstack/oslo.db,Non core,3.296703296703297,6.143344709897611,12,32
+openstack/ovsdbapp,openstack/tripleo-repos,Core,2.272727272727273,1.4388489208633095,8,9
+openstack/ovsdbapp,openstack/tripleo-repos,Non core,6.8181818181818175,5.0359712230215825,8,9
+openstack/ovsdbapp,openstack/openstack-ansible-os_mistral,Core,4.411764705882353,0.9615384615384616,4,5
+openstack/ovsdbapp,openstack/openstack-ansible-os_mistral,Non core,1.4705882352941175,3.8461538461538463,4,5
+openstack/ovsdbapp,openstack/oswin-tempest-plugin,Core,3.125,3.4090909090909087,9,6
+openstack/ovsdbapp,openstack/oswin-tempest-plugin,Non core,10.9375,3.4090909090909087,9,6
+openstack/ovsdbapp,openstack/pymod2pkg,Core,4.444444444444445,5.185185185185185,8,14
+openstack/ovsdbapp,openstack/pymod2pkg,Non core,4.444444444444445,5.185185185185185,8,14
+openstack/ovsdbapp,openstack/large-scale,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/large-scale,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/neutron-fwaas,Core,6.382978723404255,8.0,20,52
+openstack/ovsdbapp,openstack/neutron-fwaas,Non core,4.25531914893617,6.857142857142858,20,52
+openstack/ovsdbapp,openstack/python-tackerclient,Core,2.631578947368421,2.5906735751295336,8,19
+openstack/ovsdbapp,openstack/python-tackerclient,Non core,2.631578947368421,7.253886010362693,8,19
+openstack/ovsdbapp,openstack/charm-cinder-nimblestorage,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-cinder-nimblestorage,Non core,1.8181818181818181,0.0,1,0
+openstack/ovsdbapp,openstack/metalsmith,Core,5.555555555555555,6.422018348623854,5,10
+openstack/ovsdbapp,openstack/metalsmith,Non core,1.3888888888888888,2.7522935779816518,5,10
+openstack/ovsdbapp,openstack/openstack-ansible-os_murano,Core,3.389830508474576,1.0638297872340425,2,1
+openstack/ovsdbapp,openstack/openstack-ansible-os_murano,Non core,0.0,0.0,2,1
+openstack/ovsdbapp,openstack/kuryr-tempest-plugin,Core,5.405405405405405,7.017543859649122,7,15
+openstack/ovsdbapp,openstack/kuryr-tempest-plugin,Non core,4.054054054054054,6.140350877192982,7,15
+openstack/ovsdbapp,openstack/networking-sfc,Core,7.751937984496124,12.449799196787147,19,50
+openstack/ovsdbapp,openstack/networking-sfc,Non core,6.976744186046512,7.630522088353414,19,50
+openstack/ovsdbapp,openstack/charm-cinder-three-par,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-cinder-three-par,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/cyborg-tempest-plugin,Core,2.631578947368421,2.803738317757009,4,8
+openstack/ovsdbapp,openstack/cyborg-tempest-plugin,Non core,2.631578947368421,4.672897196261682,4,8
+openstack/ovsdbapp,openstack/charm-ceph-iscsi,Core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/charm-ceph-iscsi,Non core,1.6666666666666667,1.0526315789473684,1,1
+openstack/ovsdbapp,openstack/charm-cinder-solidfire,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-cinder-solidfire,Non core,1.8181818181818181,0.0,1,0
+openstack/ovsdbapp,openstack/puppet-qdr,Core,4.0,0.0,6,4
+openstack/ovsdbapp,openstack/puppet-qdr,Non core,4.0,3.8095238095238098,6,4
+openstack/ovsdbapp,openstack/vitrage-tempest-plugin,Core,3.79746835443038,1.9047619047619049,9,6
+openstack/ovsdbapp,openstack/vitrage-tempest-plugin,Non core,7.59493670886076,3.8095238095238098,9,6
+openstack/ovsdbapp,openstack/tripleo-specs,Core,2.877697841726619,2.785515320334262,7,18
+openstack/ovsdbapp,openstack/tripleo-specs,Non core,2.158273381294964,2.2284122562674096,7,18
+openstack/ovsdbapp,openstack/charm-neutron-api-plugin-arista,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-neutron-api-plugin-arista,Non core,1.694915254237288,0.0,1,0
+openstack/ovsdbapp,openstack/charm-ceph-fs,Core,4.10958904109589,2.0,4,5
+openstack/ovsdbapp,openstack/charm-ceph-fs,Non core,1.36986301369863,3.0,4,5
+openstack/ovsdbapp,openstack/stevedore,Core,5.154639175257731,5.590062111801243,10,13
+openstack/ovsdbapp,openstack/stevedore,Non core,5.154639175257731,2.484472049689441,10,13
+openstack/ovsdbapp,openstack/charm-ceph-proxy,Core,4.054054054054054,2.727272727272727,4,5
+openstack/ovsdbapp,openstack/charm-ceph-proxy,Non core,1.3513513513513513,1.8181818181818181,4,5
+openstack/ovsdbapp,openstack/charm-cloudkitty,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-cloudkitty,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-ops-openstack,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-ops-openstack,Non core,1.6666666666666667,0.0,1,0
+openstack/ovsdbapp,openstack/zun-tempest-plugin,Core,4.285714285714286,3.8095238095238098,6,8
+openstack/ovsdbapp,openstack/zun-tempest-plugin,Non core,4.285714285714286,3.8095238095238098,6,8
+openstack/ovsdbapp,openstack/storlets,Core,4.040404040404041,3.64963503649635,12,11
+openstack/ovsdbapp,openstack/storlets,Non core,8.080808080808081,4.37956204379562,12,11
+openstack/ovsdbapp,openstack/training-guides,Core,3.0303030303030303,4.081632653061225,5,14
+openstack/ovsdbapp,openstack/training-guides,Non core,0.7575757575757576,3.061224489795918,5,14
+openstack/ovsdbapp,openstack/openstack-ansible-plugins,Core,3.5398230088495577,1.875,8,10
+openstack/ovsdbapp,openstack/openstack-ansible-plugins,Non core,3.5398230088495577,4.375,8,10
+openstack/ovsdbapp,openstack/python-muranoclient,Core,3.067484662576687,2.8301886792452833,12,14
+openstack/ovsdbapp,openstack/python-muranoclient,Non core,4.294478527607362,3.7735849056603774,12,14
+openstack/ovsdbapp,openstack/solum-dashboard,Core,5.952380952380952,4.032258064516129,9,10
+openstack/ovsdbapp,openstack/solum-dashboard,Non core,4.761904761904762,4.032258064516129,9,10
+openstack/ovsdbapp,openstack/python-solumclient,Core,3.8095238095238098,5.185185185185185,9,17
+openstack/ovsdbapp,openstack/python-solumclient,Non core,4.761904761904762,7.4074074074074066,9,17
+openstack/ovsdbapp,openstack/solum-tempest-plugin,Core,3.3333333333333335,3.488372093023256,5,7
+openstack/ovsdbapp,openstack/solum-tempest-plugin,Non core,5.0,4.651162790697675,5,7
+openstack/ovsdbapp,openstack/murano-tempest-plugin,Core,3.1746031746031744,2.1739130434782608,6,5
+openstack/ovsdbapp,openstack/murano-tempest-plugin,Non core,6.349206349206349,3.260869565217391,6,5
+openstack/ovsdbapp,openstack/heat-translator,Core,2.941176470588235,3.3333333333333335,7,14
+openstack/ovsdbapp,openstack/heat-translator,Non core,2.2058823529411766,4.444444444444445,7,14
+openstack/ovsdbapp,openstack/tosca-parser,Core,3.7383177570093453,2.7210884353741496,10,14
+openstack/ovsdbapp,openstack/tosca-parser,Non core,5.607476635514018,6.802721088435375,10,14
+openstack/ovsdbapp,openstack/tacker-horizon,Core,5.263157894736842,4.545454545454546,9,21
+openstack/ovsdbapp,openstack/tacker-horizon,Non core,4.2105263157894735,9.090909090909092,9,21
+openstack/ovsdbapp,openstack/ironic-python-agent-builder,Core,3.571428571428571,3.7593984962406015,7,14
+openstack/ovsdbapp,openstack/ironic-python-agent-builder,Non core,4.761904761904762,6.7669172932330826,7,14
+openstack/ovsdbapp,openstack/ansible-role-systemd_networkd,Core,4.285714285714286,1.8867924528301887,6,6
+openstack/ovsdbapp,openstack/ansible-role-systemd_networkd,Non core,4.285714285714286,3.7735849056603774,6,6
+openstack/ovsdbapp,openstack/ansible-role-systemd_service,Core,4.10958904109589,0.9345794392523363,5,4
+openstack/ovsdbapp,openstack/ansible-role-systemd_service,Non core,2.73972602739726,2.803738317757009,5,4
+openstack/ovsdbapp,openstack/openstack-ansible-os_keystone,Core,3.64963503649635,2.604166666666667,10,13
+openstack/ovsdbapp,openstack/openstack-ansible-os_keystone,Non core,3.64963503649635,4.166666666666666,10,13
+openstack/ovsdbapp,openstack/ansible-role-chrony,Core,1.5873015873015872,3.061224489795918,4,4
+openstack/ovsdbapp,openstack/ansible-role-chrony,Non core,4.761904761904762,1.0204081632653061,4,4
+openstack/ovsdbapp,openstack/cloudkitty-tempest-plugin,Core,4.545454545454546,1.9801980198019802,9,10
+openstack/ovsdbapp,openstack/cloudkitty-tempest-plugin,Non core,9.090909090909092,7.920792079207921,9,10
+openstack/ovsdbapp,openstack/oslo.config,Core,4.854368932038835,4.273504273504273,19,36
+openstack/ovsdbapp,openstack/oslo.config,Non core,4.368932038834951,5.982905982905983,19,36
+openstack/ovsdbapp,openstack/senlin-tempest-plugin,Core,5.633802816901409,4.672897196261682,5,11
+openstack/ovsdbapp,openstack/senlin-tempest-plugin,Non core,1.4084507042253522,5.607476635514018,5,11
+openstack/ovsdbapp,openstack/heat-tempest-plugin,Core,4.054054054054054,4.310344827586207,4,9
+openstack/ovsdbapp,openstack/heat-tempest-plugin,Non core,1.3513513513513513,3.4482758620689653,4,9
+openstack/ovsdbapp,openstack/freezer-tempest-plugin,Core,2.857142857142857,2.941176470588235,5,8
+openstack/ovsdbapp,openstack/freezer-tempest-plugin,Non core,4.285714285714286,4.901960784313726,5,8
+openstack/ovsdbapp,openstack/monasca-tempest-plugin,Core,5.263157894736842,2.6548672566371683,7,7
+openstack/ovsdbapp,openstack/monasca-tempest-plugin,Non core,3.9473684210526314,3.5398230088495577,7,7
+openstack/ovsdbapp,openstack/stackviz,Core,6.578947368421052,9.523809523809524,9,16
+openstack/ovsdbapp,openstack/stackviz,Non core,5.263157894736842,5.714285714285714,9,16
+openstack/ovsdbapp,openstack/kayobe-config-dev,Core,3.278688524590164,2.083333333333333,3,2
+openstack/ovsdbapp,openstack/kayobe-config-dev,Non core,1.639344262295082,0.0,3,2
+openstack/ovsdbapp,openstack/pbr,Core,4.054054054054054,4.149377593360995,11,21
+openstack/ovsdbapp,openstack/pbr,Non core,3.3783783783783785,4.564315352697095,11,21
+openstack/ovsdbapp,openstack/oslo.cache,Core,4.3478260869565215,4.926108374384237,9,22
+openstack/ovsdbapp,openstack/oslo.cache,Non core,3.4782608695652173,5.911330049261084,9,22
+openstack/ovsdbapp,openstack/charm-ceph-rbd-mirror,Core,1.4705882352941175,1.0204081632653061,2,3
+openstack/ovsdbapp,openstack/charm-ceph-rbd-mirror,Non core,1.4705882352941175,2.0408163265306123,2,3
+openstack/ovsdbapp,openstack/ansible-config_template,Core,3.9473684210526314,1.574803149606299,8,6
+openstack/ovsdbapp,openstack/ansible-config_template,Non core,6.578947368421052,3.149606299212598,8,6
+openstack/ovsdbapp,openstack/designate-dashboard,Core,4.761904761904762,4.069767441860465,11,17
+openstack/ovsdbapp,openstack/designate-dashboard,Non core,5.714285714285714,5.813953488372093,11,17
+openstack/ovsdbapp,openstack/charm-interface-cinder-backend,Core,1.7241379310344827,1.1363636363636365,1,1
+openstack/ovsdbapp,openstack/charm-interface-cinder-backend,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/cyborg-specs,Core,2.857142857142857,3.2,7,11
+openstack/ovsdbapp,openstack/cyborg-specs,Non core,7.142857142857142,5.6000000000000005,7,11
+openstack/ovsdbapp,openstack/python-mistralclient,Core,3.2467532467532463,3.111111111111111,12,19
+openstack/ovsdbapp,openstack/python-mistralclient,Non core,4.545454545454546,5.333333333333334,12,19
+openstack/ovsdbapp,openstack/ha-guide,Core,2.857142857142857,3.3333333333333335,5,10
+openstack/ovsdbapp,openstack/ha-guide,Non core,1.9047619047619049,2.2222222222222223,5,10
+openstack/ovsdbapp,openstack/watcher,Core,2.7522935779816518,3.4482758620689653,11,23
+openstack/ovsdbapp,openstack/watcher,Non core,2.293577981651376,4.482758620689655,11,23
+openstack/ovsdbapp,openstack/openstack-ansible-os_cloudkitty,Core,5.376344086021505,3.968253968253968,9,10
+openstack/ovsdbapp,openstack/openstack-ansible-os_cloudkitty,Non core,4.301075268817205,3.968253968253968,9,10
+openstack/ovsdbapp,openstack/openstack-ansible-os_cinder,Core,2.8368794326241136,2.6178010471204187,8,15
+openstack/ovsdbapp,openstack/openstack-ansible-os_cinder,Non core,2.8368794326241136,5.2356020942408374,8,15
+openstack/ovsdbapp,openstack/openstack-health,Core,3.296703296703297,3.1847133757961785,7,13
+openstack/ovsdbapp,openstack/openstack-health,Non core,4.395604395604396,5.095541401273886,7,13
+openstack/ovsdbapp,openstack/openstack-ansible-os_swift,Core,3.937007874015748,2.9940119760479043,9,12
+openstack/ovsdbapp,openstack/openstack-ansible-os_swift,Non core,3.149606299212598,4.191616766467066,9,12
+openstack/ovsdbapp,openstack/masakari-specs,Core,5.797101449275362,5.3097345132743365,6,10
+openstack/ovsdbapp,openstack/masakari-specs,Non core,2.898550724637681,3.5398230088495577,6,10
+openstack/ovsdbapp,openstack/telemetry-specs,Core,2.6785714285714284,2.072538860103627,3,5
+openstack/ovsdbapp,openstack/telemetry-specs,Non core,0.0,0.5181347150259068,3,5
+openstack/ovsdbapp,openstack/osprofiler,Core,5.833333333333333,4.022988505747127,16,18
+openstack/ovsdbapp,openstack/osprofiler,Non core,7.5,6.321839080459771,16,18
+openstack/ovsdbapp,openstack/openstack-ansible-os_trove,Core,4.040404040404041,3.6764705882352944,8,12
+openstack/ovsdbapp,openstack/openstack-ansible-os_trove,Non core,4.040404040404041,5.147058823529411,8,12
+openstack/ovsdbapp,openstack/openstack-ansible-os_manila,Core,2.857142857142857,1.8867924528301887,4,4
+openstack/ovsdbapp,openstack/openstack-ansible-os_manila,Non core,2.857142857142857,1.8867924528301887,4,4
+openstack/ovsdbapp,openstack/ansible-hardening,Core,6.097560975609756,3.816793893129771,9,10
+openstack/ovsdbapp,openstack/ansible-hardening,Non core,4.878048780487805,3.816793893129771,9,10
+openstack/ovsdbapp,openstack/barbican-specs,Core,2.083333333333333,1.8633540372670807,5,7
+openstack/ovsdbapp,openstack/barbican-specs,Non core,3.125,2.484472049689441,5,7
+openstack/ovsdbapp,openstack/python-heatclient,Core,2.73972602739726,3.1161473087818696,11,23
+openstack/ovsdbapp,openstack/python-heatclient,Non core,2.28310502283105,3.39943342776204,11,23
+openstack/ovsdbapp,openstack/oslo.versionedobjects,Core,6.153846153846154,5.729166666666666,16,22
+openstack/ovsdbapp,openstack/oslo.versionedobjects,Non core,6.153846153846154,5.729166666666666,16,22
+openstack/ovsdbapp,openstack/os-api-ref,Core,5.555555555555555,4.6875,7,10
+openstack/ovsdbapp,openstack/os-api-ref,Non core,2.2222222222222223,3.125,7,10
+openstack/ovsdbapp,openstack/devstack-plugin-container,Core,6.0606060606060606,3.0,4,6
+openstack/ovsdbapp,openstack/devstack-plugin-container,Non core,0.0,3.0,4,6
+openstack/ovsdbapp,openstack/venus-dashboard,Core,0.0,1.1235955056179776,0,3
+openstack/ovsdbapp,openstack/venus-dashboard,Non core,0.0,2.247191011235955,0,3
+openstack/ovsdbapp,openstack/manila-ui,Core,4.310344827586207,4.0,12,16
+openstack/ovsdbapp,openstack/manila-ui,Non core,6.0344827586206895,5.142857142857142,12,16
+openstack/ovsdbapp,openstack/devstack-plugin-nfs,Core,3.3333333333333335,4.901960784313726,2,6
+openstack/ovsdbapp,openstack/devstack-plugin-nfs,Non core,0.0,0.9803921568627451,2,6
+openstack/ovsdbapp,openstack/taskflow,Core,2.7586206896551726,5.752212389380531,10,21
+openstack/ovsdbapp,openstack/taskflow,Non core,4.137931034482759,3.5398230088495577,10,21
+openstack/ovsdbapp,openstack/python-cyborgclient,Core,5.555555555555555,5.932203389830509,9,10
+openstack/ovsdbapp,openstack/python-cyborgclient,Non core,6.944444444444445,2.5423728813559325,9,10
+openstack/ovsdbapp,openstack/zun,Core,2.793296089385475,4.365079365079365,12,22
+openstack/ovsdbapp,openstack/zun,Non core,3.910614525139665,4.365079365079365,12,22
+openstack/ovsdbapp,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-openstack-loadbalancer,Non core,1.7241379310344827,0.0,1,0
+openstack/ovsdbapp,openstack/ansible-role-python_venv_build,Core,4.0,1.694915254237288,6,7
+openstack/ovsdbapp,openstack/ansible-role-python_venv_build,Non core,4.0,4.23728813559322,6,7
+openstack/ovsdbapp,openstack/mistral-dashboard,Core,4.854368932038835,1.9607843137254901,10,11
+openstack/ovsdbapp,openstack/mistral-dashboard,Non core,4.854368932038835,5.228758169934641,10,11
+openstack/ovsdbapp,openstack/mistral-lib,Core,6.097560975609756,4.958677685950414,11,17
+openstack/ovsdbapp,openstack/mistral-lib,Non core,7.317073170731707,9.090909090909092,11,17
+openstack/ovsdbapp,openstack/monasca-events-api,Core,5.970149253731343,2.727272727272727,8,7
+openstack/ovsdbapp,openstack/monasca-events-api,Non core,5.970149253731343,3.6363636363636362,8,7
+openstack/ovsdbapp,openstack/python-zaqarclient,Core,2.877697841726619,4.444444444444445,5,20
+openstack/ovsdbapp,openstack/python-zaqarclient,Non core,0.7194244604316548,6.666666666666667,5,20
+openstack/ovsdbapp,openstack/monasca-api,Core,3.4682080924855487,2.7450980392156863,10,20
+openstack/ovsdbapp,openstack/monasca-api,Non core,2.312138728323699,5.098039215686274,10,20
+openstack/ovsdbapp,openstack/monasca-persister,Core,4.504504504504505,3.4090909090909087,12,17
+openstack/ovsdbapp,openstack/monasca-persister,Non core,6.306306306306306,6.25,12,17
+openstack/ovsdbapp,openstack/monasca-notification,Core,4.385964912280701,3.5502958579881656,12,14
+openstack/ovsdbapp,openstack/monasca-notification,Non core,6.140350877192982,4.733727810650888,12,14
+openstack/ovsdbapp,openstack/python-saharaclient,Core,2.898550724637681,3.125,8,15
+openstack/ovsdbapp,openstack/python-saharaclient,Non core,2.898550724637681,4.6875,8,15
+openstack/ovsdbapp,openstack/charm-magpie,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-magpie,Non core,1.5384615384615385,0.0,1,0
+openstack/ovsdbapp,openstack/openstack-ansible-os_placement,Core,2.857142857142857,0.9345794392523363,4,4
+openstack/ovsdbapp,openstack/openstack-ansible-os_placement,Non core,2.857142857142857,2.803738317757009,4,4
+openstack/ovsdbapp,openstack/openstackdocstheme,Core,4.424778761061947,5.0,8,10
+openstack/ovsdbapp,openstack/openstackdocstheme,Non core,2.6548672566371683,0.5555555555555556,8,10
+openstack/ovsdbapp,openstack/sahara,Core,1.935483870967742,2.127659574468085,12,23
+openstack/ovsdbapp,openstack/sahara,Non core,1.935483870967742,3.309692671394799,12,23
+openstack/ovsdbapp,openstack/ironic-ui,Core,5.9405940594059405,4.697986577181208,11,14
+openstack/ovsdbapp,openstack/ironic-ui,Non core,4.9504950495049505,4.697986577181208,11,14
+openstack/ovsdbapp,openstack/oslo.serialization,Core,4.672897196261682,6.918238993710692,13,20
+openstack/ovsdbapp,openstack/oslo.serialization,Non core,7.476635514018691,5.660377358490567,13,20
+openstack/ovsdbapp,openstack/oslo.context,Core,5.1020408163265305,4.9079754601226995,12,19
+openstack/ovsdbapp,openstack/oslo.context,Non core,7.142857142857142,6.748466257668712,12,19
+openstack/ovsdbapp,openstack/oslo.limit,Core,3.8461538461538463,6.0344827586206895,9,13
+openstack/ovsdbapp,openstack/oslo.limit,Non core,7.6923076923076925,5.172413793103448,9,13
+openstack/ovsdbapp,openstack/oslo.middleware,Core,4.098360655737705,4.25531914893617,13,17
+openstack/ovsdbapp,openstack/oslo.middleware,Non core,6.557377049180328,4.787234042553192,13,17
+openstack/ovsdbapp,openstack/oslo.reports,Core,4.597701149425287,5.555555555555555,10,18
+openstack/ovsdbapp,openstack/oslo.reports,Non core,6.896551724137931,6.944444444444445,10,18
+openstack/ovsdbapp,openstack/futurist,Core,5.681818181818182,2.9850746268656714,9,10
+openstack/ovsdbapp,openstack/futurist,Non core,4.545454545454546,4.477611940298507,9,10
+openstack/ovsdbapp,openstack/oslo.i18n,Core,4.854368932038835,5.590062111801243,11,22
+openstack/ovsdbapp,openstack/oslo.i18n,Non core,5.825242718446602,8.074534161490684,11,22
+openstack/ovsdbapp,openstack/sushy-oem-idrac,Core,0.0,0.9523809523809524,0,1
+openstack/ovsdbapp,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/python-dracclient,Core,0.0,2.857142857142857,2,10
+openstack/ovsdbapp,openstack/python-dracclient,Non core,2.2222222222222223,4.285714285714286,2,10
+openstack/ovsdbapp,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/openstack-ansible-os_masakari,Core,5.194805194805195,4.0650406504065035,9,10
+openstack/ovsdbapp,openstack/openstack-ansible-os_masakari,Non core,6.493506493506493,4.0650406504065035,9,10
+openstack/ovsdbapp,openstack/ansible-role-systemd_mount,Core,4.411764705882353,1.9417475728155338,5,5
+openstack/ovsdbapp,openstack/ansible-role-systemd_mount,Non core,2.941176470588235,2.912621359223301,5,5
+openstack/ovsdbapp,openstack/python-senlinclient,Core,3.731343283582089,4.191616766467066,11,21
+openstack/ovsdbapp,openstack/python-senlinclient,Non core,4.477611940298507,8.383233532934131,11,21
+openstack/ovsdbapp,openstack/senlin-dashboard,Core,5.1020408163265305,5.263157894736842,12,21
+openstack/ovsdbapp,openstack/senlin-dashboard,Non core,7.142857142857142,8.552631578947368,12,21
+openstack/ovsdbapp,openstack/networking-generic-switch,Core,3.7037037037037033,4.72972972972973,9,13
+openstack/ovsdbapp,openstack/networking-generic-switch,Non core,4.62962962962963,4.054054054054054,9,13
+openstack/ovsdbapp,openstack/sahara-image-elements,Core,2.586206896551724,1.875,4,7
+openstack/ovsdbapp,openstack/sahara-image-elements,Non core,0.8620689655172413,2.5,4,7
+openstack/ovsdbapp,openstack/ansible-role-thales-hsm,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/ansible-role-thales-hsm,Non core,0.0,1.0309278350515463,0,1
+openstack/ovsdbapp,openstack/ansible-role-atos-hsm,Core,0.0,1.0638297872340425,0,2
+openstack/ovsdbapp,openstack/ansible-role-atos-hsm,Non core,0.0,1.0638297872340425,0,2
+openstack/ovsdbapp,openstack/adjutant-ui,Core,6.557377049180328,6.521739130434782,4,9
+openstack/ovsdbapp,openstack/adjutant-ui,Non core,0.0,3.260869565217391,4,9
+openstack/ovsdbapp,openstack/sahara-extra,Core,3.3333333333333335,3.875968992248062,5,10
+openstack/ovsdbapp,openstack/sahara-extra,Non core,2.2222222222222223,3.875968992248062,5,10
+openstack/ovsdbapp,openstack/blazar-nova,Core,5.063291139240507,5.511811023622047,7,13
+openstack/ovsdbapp,openstack/blazar-nova,Non core,3.79746835443038,4.724409448818897,7,13
+openstack/ovsdbapp,openstack/oslo.service,Core,6.153846153846154,7.6923076923076925,16,30
+openstack/ovsdbapp,openstack/oslo.service,Non core,6.153846153846154,7.6923076923076925,16,30
+openstack/ovsdbapp,openstack/blazar-dashboard,Core,8.823529411764707,6.837606837606838,10,18
+openstack/ovsdbapp,openstack/blazar-dashboard,Non core,5.88235294117647,8.547008547008547,10,18
+openstack/ovsdbapp,openstack/paunch,Core,4.2105263157894735,5.714285714285714,7,17
+openstack/ovsdbapp,openstack/paunch,Non core,3.1578947368421053,4.0,7,17
+openstack/ovsdbapp,openstack/service-types-authority,Core,5.714285714285714,4.964539007092199,5,8
+openstack/ovsdbapp,openstack/service-types-authority,Non core,1.4285714285714286,0.7092198581560284,5,8
+openstack/ovsdbapp,openstack/python-ironic-inspector-client,Core,6.451612903225806,5.47945205479452,9,20
+openstack/ovsdbapp,openstack/python-ironic-inspector-client,Non core,3.225806451612903,8.21917808219178,9,20
+openstack/ovsdbapp,openstack/openstack-ansible-memcached_server,Core,4.25531914893617,1.4814814814814816,7,8
+openstack/ovsdbapp,openstack/openstack-ansible-memcached_server,Non core,3.1914893617021276,4.444444444444445,7,8
+openstack/ovsdbapp,openstack/os-testr,Core,4.301075268817205,5.369127516778524,10,18
+openstack/ovsdbapp,openstack/os-testr,Non core,6.451612903225806,6.7114093959731544,10,18
+openstack/ovsdbapp,openstack/openstack-ansible-ceph_client,Core,4.081632653061225,2.083333333333333,8,11
+openstack/ovsdbapp,openstack/openstack-ansible-ceph_client,Non core,4.081632653061225,5.555555555555555,8,11
+openstack/ovsdbapp,openstack/openstack-ansible-os_magnum,Core,3.9215686274509802,3.2679738562091507,8,10
+openstack/ovsdbapp,openstack/openstack-ansible-os_magnum,Non core,3.9215686274509802,3.2679738562091507,8,10
+openstack/ovsdbapp,openstack/openstack-ansible-os_blazar,Core,5.194805194805195,2.5423728813559325,7,8
+openstack/ovsdbapp,openstack/openstack-ansible-os_blazar,Non core,3.896103896103896,4.23728813559322,7,8
+openstack/ovsdbapp,openstack/openstack-ansible-os_designate,Core,3.7735849056603774,3.1847133757961785,9,13
+openstack/ovsdbapp,openstack/openstack-ansible-os_designate,Non core,4.716981132075472,5.095541401273886,9,13
+openstack/ovsdbapp,openstack/openstack-ansible-os_gnocchi,Core,3.7735849056603774,2.797202797202797,7,11
+openstack/ovsdbapp,openstack/openstack-ansible-os_gnocchi,Non core,2.8301886792452833,4.895104895104895,7,11
+openstack/ovsdbapp,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,2
+openstack/ovsdbapp,openstack/openstack-ansible-os_senlin,Non core,0.0,2.1739130434782608,0,2
+openstack/ovsdbapp,openstack/ptgbot,Core,4.545454545454546,5.825242718446602,3,8
+openstack/ovsdbapp,openstack/ptgbot,Non core,0.0,1.9417475728155338,3,8
+openstack/ovsdbapp,openstack/openstack-ansible-os_zun,Core,5.263157894736842,3.5398230088495577,7,9
+openstack/ovsdbapp,openstack/openstack-ansible-os_zun,Non core,3.9473684210526314,4.424778761061947,7,9
+openstack/ovsdbapp,openstack/openstack-ansible-repo_server,Core,3.8461538461538463,1.9607843137254901,7,7
+openstack/ovsdbapp,openstack/openstack-ansible-repo_server,Non core,2.8846153846153846,2.6143790849673203,7,7
+openstack/ovsdbapp,openstack/python-watcherclient,Core,3.10077519379845,6.122448979591836,9,18
+openstack/ovsdbapp,openstack/python-watcherclient,Non core,3.875968992248062,6.122448979591836,9,18
+openstack/ovsdbapp,openstack/heat-agents,Core,3.4090909090909087,4.487179487179487,4,14
+openstack/ovsdbapp,openstack/heat-agents,Non core,1.1363636363636365,4.487179487179487,4,14
+openstack/ovsdbapp,openstack/oslo.rootwrap,Core,8.333333333333332,9.30232558139535,19,29
+openstack/ovsdbapp,openstack/oslo.rootwrap,Non core,9.25925925925926,7.55813953488372,19,29
+openstack/ovsdbapp,openstack/automaton,Core,3.896103896103896,4.273504273504273,9,10
+openstack/ovsdbapp,openstack/automaton,Non core,7.792207792207792,4.273504273504273,9,10
+openstack/ovsdbapp,openstack/debtcollector,Core,5.681818181818182,5.217391304347826,10,11
+openstack/ovsdbapp,openstack/debtcollector,Non core,5.681818181818182,4.3478260869565215,10,11
+openstack/ovsdbapp,openstack/vitrage-dashboard,Core,2.727272727272727,4.285714285714286,11,12
+openstack/ovsdbapp,openstack/vitrage-dashboard,Non core,7.2727272727272725,4.285714285714286,11,12
+openstack/ovsdbapp,openstack/oslotest,Core,4.807692307692308,6.493506493506493,11,18
+openstack/ovsdbapp,openstack/oslotest,Non core,5.769230769230769,5.194805194805195,11,18
+openstack/ovsdbapp,openstack/kayobe-config,Core,3.225806451612903,2.247191011235955,3,2
+openstack/ovsdbapp,openstack/kayobe-config,Non core,1.6129032258064515,0.0,3,2
+openstack/ovsdbapp,openstack/compute-hyperv,Core,3.8461538461538463,3.6036036036036037,10,13
+openstack/ovsdbapp,openstack/compute-hyperv,Non core,8.974358974358974,8.108108108108109,10,13
+openstack/ovsdbapp,openstack/python-cloudkittyclient,Core,2.8301886792452833,4.444444444444445,10,19
+openstack/ovsdbapp,openstack/python-cloudkittyclient,Non core,6.60377358490566,9.62962962962963,10,19
+openstack/ovsdbapp,openstack/charm-interface-keystone,Core,4.6875,1.0416666666666665,5,4
+openstack/ovsdbapp,openstack/charm-interface-keystone,Non core,3.125,3.125,5,4
+openstack/ovsdbapp,openstack/cloudkitty-dashboard,Core,6.593406593406594,4.794520547945205,10,14
+openstack/ovsdbapp,openstack/cloudkitty-dashboard,Non core,4.395604395604396,4.794520547945205,10,14
+openstack/ovsdbapp,openstack/networking-hyperv,Core,6.315789473684211,5.982905982905983,12,18
+openstack/ovsdbapp,openstack/networking-hyperv,Non core,6.315789473684211,9.401709401709402,12,18
+openstack/ovsdbapp,openstack/i18n,Core,5.555555555555555,5.0,7,14
+openstack/ovsdbapp,openstack/i18n,Non core,2.2222222222222223,5.0,7,14
+openstack/ovsdbapp,openstack/sahara-tests,Core,6.976744186046512,5.0359712230215825,7,11
+openstack/ovsdbapp,openstack/sahara-tests,Non core,1.1627906976744187,2.877697841726619,7,11
+openstack/ovsdbapp,openstack/python-zunclient,Core,4.878048780487805,3.4682080924855487,15,14
+openstack/ovsdbapp,openstack/python-zunclient,Non core,7.317073170731707,4.624277456647398,15,14
+openstack/ovsdbapp,openstack/sahara-plugin-cdh,Core,4.838709677419355,4.25531914893617,5,11
+openstack/ovsdbapp,openstack/sahara-plugin-cdh,Non core,3.225806451612903,7.446808510638298,5,11
+openstack/ovsdbapp,openstack/monasca-ui,Core,5.0,3.5532994923857872,11,17
+openstack/ovsdbapp,openstack/monasca-ui,Non core,4.166666666666666,5.0761421319796955,11,17
+openstack/ovsdbapp,openstack/python-adjutantclient,Core,6.557377049180328,3.3707865168539324,5,7
+openstack/ovsdbapp,openstack/python-adjutantclient,Non core,1.639344262295082,4.49438202247191,5,7
+openstack/ovsdbapp,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/ansible-role-lunasa-hsm,Core,1.8181818181818181,1.1627906976744187,1,2
+openstack/ovsdbapp,openstack/ansible-role-lunasa-hsm,Non core,0.0,1.1627906976744187,1,2
+openstack/ovsdbapp,openstack/monasca-thresh,Core,1.25,0.7874015748031495,2,2
+openstack/ovsdbapp,openstack/monasca-thresh,Non core,1.25,0.7874015748031495,2,2
+openstack/ovsdbapp,openstack/heat-specs,Core,2.459016393442623,2.734375,3,11
+openstack/ovsdbapp,openstack/heat-specs,Non core,0.0,1.5625,3,11
+openstack/ovsdbapp,openstack/watcher-dashboard,Core,5.376344086021505,3.6764705882352944,11,14
+openstack/ovsdbapp,openstack/watcher-dashboard,Non core,6.451612903225806,6.61764705882353,11,14
+openstack/ovsdbapp,openstack/sahara-plugin-ambari,Core,4.918032786885246,3.3333333333333335,5,8
+openstack/ovsdbapp,openstack/sahara-plugin-ambari,Non core,3.278688524590164,5.555555555555555,5,8
+openstack/ovsdbapp,openstack/sahara-plugin-mapr,Core,5.0,4.3478260869565215,5,11
+openstack/ovsdbapp,openstack/sahara-plugin-mapr,Non core,3.3333333333333335,7.608695652173914,5,11
+openstack/ovsdbapp,openstack/sahara-plugin-spark,Core,5.084745762711865,3.4090909090909087,5,5
+openstack/ovsdbapp,openstack/sahara-plugin-spark,Non core,3.389830508474576,2.272727272727273,5,5
+openstack/ovsdbapp,openstack/sahara-plugin-storm,Core,5.084745762711865,3.4090909090909087,5,6
+openstack/ovsdbapp,openstack/sahara-plugin-storm,Non core,3.389830508474576,3.4090909090909087,5,6
+openstack/ovsdbapp,openstack/sahara-plugin-vanilla,Core,5.084745762711865,3.3333333333333335,5,6
+openstack/ovsdbapp,openstack/sahara-plugin-vanilla,Non core,3.389830508474576,3.3333333333333335,5,6
+openstack/ovsdbapp,openstack/sahara-specs,Core,1.9417475728155338,1.3157894736842104,2,4
+openstack/ovsdbapp,openstack/sahara-specs,Non core,0.0,1.3157894736842104,2,4
+openstack/ovsdbapp,openstack/venus-tempest-plugin,Core,0.0,1.1363636363636365,1,1
+openstack/ovsdbapp,openstack/venus-tempest-plugin,Non core,1.6666666666666667,0.0,1,1
+openstack/ovsdbapp,openstack/venus-specs,Core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/venus-specs,Non core,1.7543859649122806,0.0,1,0
+openstack/ovsdbapp,openstack/ceilometermiddleware,Core,3.4090909090909087,2.7777777777777777,6,13
+openstack/ovsdbapp,openstack/ceilometermiddleware,Non core,3.4090909090909087,6.25,6,13
+openstack/ovsdbapp,openstack/trove-tempest-plugin,Core,6.557377049180328,4.854368932038835,7,10
+openstack/ovsdbapp,openstack/trove-tempest-plugin,Non core,4.918032786885246,4.854368932038835,7,10
+openstack/ovsdbapp,openstack/arch-design,Core,3.389830508474576,2.2988505747126435,3,2
+openstack/ovsdbapp,openstack/arch-design,Non core,1.694915254237288,0.0,3,2
+openstack/ovsdbapp,openstack/monasca-common,Core,4.132231404958678,3.389830508474576,8,14
+openstack/ovsdbapp,openstack/monasca-common,Non core,2.479338842975207,4.519774011299435,8,14
+openstack/ovsdbapp,openstack/monasca-statsd,Core,5.952380952380952,3.1746031746031744,10,14
+openstack/ovsdbapp,openstack/monasca-statsd,Non core,5.952380952380952,7.936507936507936,10,14
+openstack/ovsdbapp,openstack/python-monascaclient,Core,3.8461538461538463,3.825136612021858,13,18
+openstack/ovsdbapp,openstack/python-monascaclient,Non core,6.153846153846154,6.0109289617486334,13,18
+openstack/ovsdbapp,openstack/renderspec,Core,5.88235294117647,4.854368932038835,10,8
+openstack/ovsdbapp,openstack/renderspec,Non core,8.823529411764707,2.912621359223301,10,8
+openstack/ovsdbapp,openstack/os-service-types,Core,4.411764705882353,5.660377358490567,8,12
+openstack/ovsdbapp,openstack/os-service-types,Non core,7.352941176470589,5.660377358490567,8,12
+openstack/ovsdbapp,openstack/masakari-dashboard,Core,6.944444444444445,7.079646017699115,9,18
+openstack/ovsdbapp,openstack/masakari-dashboard,Non core,5.555555555555555,8.849557522123893,9,18
+openstack/ovsdbapp,openstack/freezer-dr,Core,4.166666666666666,4.545454545454546,7,11
+openstack/ovsdbapp,openstack/freezer-dr,Non core,5.555555555555555,5.454545454545454,7,11
+openstack/ovsdbapp,openstack/tempest-stress,Core,4.477611940298507,5.617977528089887,7,11
+openstack/ovsdbapp,openstack/tempest-stress,Non core,5.970149253731343,6.741573033707865,7,11
+openstack/ovsdbapp,openstack/charm-neutron-api-genericswitch,Core,3.6363636363636362,2.3255813953488373,3,2
+openstack/ovsdbapp,openstack/charm-neutron-api-genericswitch,Non core,1.8181818181818181,0.0,3,2
+openstack/ovsdbapp,openstack/charm-neutron-dynamic-routing,Core,4.545454545454546,2.0618556701030926,4,4
+openstack/ovsdbapp,openstack/charm-neutron-dynamic-routing,Non core,1.5151515151515151,2.0618556701030926,4,4
+openstack/ovsdbapp,openstack/charm-interface-ceph-client,Core,3.3333333333333335,2.197802197802198,2,3
+openstack/ovsdbapp,openstack/charm-interface-ceph-client,Non core,0.0,1.098901098901099,2,3
+openstack/ovsdbapp,openstack/charm-percona-cluster,Core,3.4090909090909087,2.4193548387096775,6,9
+openstack/ovsdbapp,openstack/charm-percona-cluster,Non core,3.4090909090909087,4.838709677419355,6,9
+openstack/ovsdbapp,openstack/charm-deployment-guide,Core,2.4390243902439024,0.8849557522123894,4,3
+openstack/ovsdbapp,openstack/charm-deployment-guide,Non core,2.4390243902439024,1.7699115044247788,4,3
+openstack/ovsdbapp,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/oslo.metrics,Core,1.7241379310344827,2.1739130434782608,4,6
+openstack/ovsdbapp,openstack/oslo.metrics,Non core,5.172413793103448,4.3478260869565215,4,6
+openstack/ovsdbapp,openstack/oslo.vmware,Core,4.0650406504065035,4.901960784313726,11,22
+openstack/ovsdbapp,openstack/oslo.vmware,Non core,4.878048780487805,5.88235294117647,11,22
+openstack/ovsdbapp,openstack/oslo.upgradecheck,Core,8.064516129032258,7.07070707070707,10,12
+openstack/ovsdbapp,openstack/oslo.upgradecheck,Non core,8.064516129032258,5.05050505050505,10,12
+openstack/ovsdbapp,openstack/python-masakariclient,Core,4.545454545454546,6.956521739130435,8,20
+openstack/ovsdbapp,openstack/python-masakariclient,Non core,4.545454545454546,10.434782608695652,8,20
+openstack/ovsdbapp,openstack/python-vitrageclient,Core,4.123711340206185,1.7391304347826086,11,7
+openstack/ovsdbapp,openstack/python-vitrageclient,Non core,7.216494845360824,4.3478260869565215,11,7
+openstack/ovsdbapp,openstack/python-blazarclient,Core,4.081632653061225,5.714285714285714,9,20
+openstack/ovsdbapp,openstack/python-blazarclient,Non core,5.1020408163265305,8.571428571428571,9,20
+openstack/ovsdbapp,openstack/zaqar-tempest-plugin,Core,4.761904761904762,2.941176470588235,4,6
+openstack/ovsdbapp,openstack/zaqar-tempest-plugin,Non core,1.5873015873015872,2.941176470588235,4,6
+openstack/ovsdbapp,openstack/tripleo-common-tempest-plugin,Core,4.6875,2.8301886792452833,7,10
+openstack/ovsdbapp,openstack/tripleo-common-tempest-plugin,Non core,6.25,6.60377358490566,7,10
+openstack/ovsdbapp,openstack/mistral-tempest-plugin,Core,2.73972602739726,2.727272727272727,5,8
+openstack/ovsdbapp,openstack/mistral-tempest-plugin,Non core,4.10958904109589,4.545454545454546,5,8
+openstack/ovsdbapp,openstack/barbican-ui,Core,1.8518518518518516,2.1505376344086025,1,2
+openstack/ovsdbapp,openstack/barbican-ui,Non core,0.0,0.0,1,2
+openstack/ovsdbapp,openstack/liberasurecode,Core,1.5625,1.0,2,3
+openstack/ovsdbapp,openstack/liberasurecode,Non core,1.5625,2.0,2,3
+openstack/ovsdbapp,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/os-client-config,Core,2.4193548387096775,4.571428571428571,9,14
+openstack/ovsdbapp,openstack/os-client-config,Non core,4.838709677419355,3.428571428571429,9,14
+openstack/ovsdbapp,openstack/monasca-specs,Core,3.1746031746031744,0.9090909090909091,3,3
+openstack/ovsdbapp,openstack/monasca-specs,Non core,1.5873015873015872,1.8181818181818181,3,3
+openstack/ovsdbapp,openstack/os-performance-tools,Core,6.25,4.123711340206185,9,7
+openstack/ovsdbapp,openstack/os-performance-tools,Non core,7.8125,3.0927835051546393,9,7
+openstack/ovsdbapp,openstack/trove-specs,Core,3.296703296703297,1.25,3,7
+openstack/ovsdbapp,openstack/trove-specs,Non core,0.0,3.125,3,7
+openstack/ovsdbapp,openstack/manila-image-elements,Core,4.0,1.6260162601626018,6,6
+openstack/ovsdbapp,openstack/manila-image-elements,Non core,4.0,3.2520325203252036,6,6
+openstack/ovsdbapp,openstack/blazar-specs,Core,3.278688524590164,4.0,2,4
+openstack/ovsdbapp,openstack/blazar-specs,Non core,0.0,0.0,2,4
+openstack/ovsdbapp,openstack/molteniron,Core,8.333333333333332,2.8846153846153846,6,5
+openstack/ovsdbapp,openstack/molteniron,Non core,1.6666666666666667,1.9230769230769231,6,5
+openstack/ovsdbapp,openstack/solum-specs,Core,4.477611940298507,0.0,3,1
+openstack/ovsdbapp,openstack/solum-specs,Non core,0.0,0.9523809523809524,3,1
+openstack/ovsdbapp,openstack/patrole,Core,3.731343283582089,4.41988950276243,10,14
+openstack/ovsdbapp,openstack/patrole,Non core,3.731343283582089,3.314917127071823,10,14
+openstack/ovsdbapp,openstack/performance-docs,Core,2.2222222222222223,3.007518796992481,4,8
+openstack/ovsdbapp,openstack/performance-docs,Non core,2.2222222222222223,3.007518796992481,4,8
+openstack/ovsdbapp,openstack/sphinx-feature-classification,Core,4.545454545454546,5.555555555555555,8,10
+openstack/ovsdbapp,openstack/sphinx-feature-classification,Non core,7.575757575757576,3.7037037037037033,8,10
+openstack/ovsdbapp,openstack/etcd3gw,Core,1.639344262295082,4.49438202247191,1,5
+openstack/ovsdbapp,openstack/etcd3gw,Non core,0.0,1.1235955056179776,1,5
+openstack/ovsdbapp,openstack/watcher-specs,Core,2.0408163265306123,1.25,4,6
+openstack/ovsdbapp,openstack/watcher-specs,Non core,2.0408163265306123,2.5,4,6
+openstack/ovsdbapp,openstack/yaql,Core,4.819277108433735,1.5384615384615385,7,9
+openstack/ovsdbapp,openstack/yaql,Non core,3.614457831325301,5.384615384615385,7,9
+openstack/ovsdbapp,openstack/puppet-openstack-guide,Core,5.405405405405405,3.5398230088495577,7,10
+openstack/ovsdbapp,openstack/puppet-openstack-guide,Non core,4.054054054054054,5.3097345132743365,7,10
+openstack/ovsdbapp,openstack/puppet-panko,Core,3.488372093023256,3.7037037037037033,7,8
+openstack/ovsdbapp,openstack/puppet-panko,Non core,4.651162790697675,3.7037037037037033,7,8
+openstack/ovsdbapp,openstack/heat-cfnclient,Core,4.225352112676056,3.7037037037037033,5,8
+openstack/ovsdbapp,openstack/heat-cfnclient,Non core,2.8169014084507045,3.7037037037037033,5,8
+openstack/ovsdbapp,openstack/heat-cfntools,Core,3.225806451612903,2.857142857142857,10,12
+openstack/ovsdbapp,openstack/heat-cfntools,Non core,7.526881720430108,5.714285714285714,10,12
+openstack/ovsdbapp,openstack/heat-templates,Core,2.5974025974025974,1.1904761904761905,5,10
+openstack/ovsdbapp,openstack/heat-templates,Non core,0.6493506493506493,2.7777777777777777,5,10
+openstack/ovsdbapp,openstack/governance-sigs,Core,4.938271604938271,5.9171597633136095,7,16
+openstack/ovsdbapp,openstack/governance-sigs,Non core,3.7037037037037033,3.5502958579881656,7,16
+openstack/ovsdbapp,openstack/openstack-zuul-roles,Core,1.7543859649122806,1.0869565217391304,1,2
+openstack/ovsdbapp,openstack/openstack-zuul-roles,Non core,0.0,1.0869565217391304,1,2
+openstack/ovsdbapp,openstack/nova-powervm,Core,3.8095238095238098,2.9585798816568047,6,13
+openstack/ovsdbapp,openstack/nova-powervm,Non core,1.9047619047619049,4.733727810650888,6,13
+openstack/ovsdbapp,openstack/openstack-helm-addons,Core,0.0,0.5291005291005291,3,7
+openstack/ovsdbapp,openstack/openstack-helm-addons,Non core,3.4090909090909087,3.1746031746031744,3,7
+openstack/ovsdbapp,openstack/python-pankoclient,Core,5.555555555555555,4.587155963302752,7,14
+openstack/ovsdbapp,openstack/python-pankoclient,Non core,4.166666666666666,8.256880733944955,7,14
+openstack/ovsdbapp,openstack/qa-specs,Core,4.2105263157894735,3.804347826086957,7,10
+openstack/ovsdbapp,openstack/qa-specs,Non core,3.1578947368421053,1.6304347826086956,7,10
+openstack/ovsdbapp,openstack/zaqar-specs,Core,3.5294117647058822,2.142857142857143,5,8
+openstack/ovsdbapp,openstack/zaqar-specs,Non core,2.3529411764705883,3.571428571428571,5,8
+openstack/ovsdbapp,openstack/swift-bench,Core,0.0,0.8547008547008548,2,3
+openstack/ovsdbapp,openstack/swift-bench,Non core,2.857142857142857,1.7094017094017095,2,3
+openstack/ovsdbapp,openstack/whereto,Core,4.761904761904762,5.05050505050505,8,6
+openstack/ovsdbapp,openstack/whereto,Non core,7.936507936507936,1.0101010101010102,8,6
+openstack/ovsdbapp,openstack/murano-specs,Core,3.225806451612903,1.4492753623188406,3,7
+openstack/ovsdbapp,openstack/murano-specs,Non core,0.0,3.6231884057971016,3,7
+openstack/ovsdbapp,openstack/ansible-role-tripleo-modify-image,Core,3.8461538461538463,3.64963503649635,5,9
+openstack/ovsdbapp,openstack/ansible-role-tripleo-modify-image,Non core,2.564102564102564,2.9197080291970803,5,9
+openstack/ovsdbapp,openstack/requestsexceptions,Core,3.4482758620689653,1.0416666666666665,3,4
+openstack/ovsdbapp,openstack/requestsexceptions,Non core,1.7241379310344827,3.125,3,4
+openstack/ovsdbapp,openstack/panko,Core,5.172413793103448,4.166666666666666,10,17
+openstack/ovsdbapp,openstack/panko,Non core,3.4482758620689653,5.952380952380952,10,17
+openstack/ovsdbapp,openstack/api-sig,Core,3.0303030303030303,3.007518796992481,6,12
+openstack/ovsdbapp,openstack/api-sig,Non core,3.0303030303030303,1.5037593984962405,6,12
+openstack/ovsdbapp,openstack/openstack-chef-specs,Core,2.73972602739726,2.6785714285714284,4,6
+openstack/ovsdbapp,openstack/openstack-chef-specs,Non core,2.73972602739726,2.6785714285714284,4,6
+openstack/ovsdbapp,openstack/freezer-specs,Core,4.285714285714286,2.8301886792452833,5,4
+openstack/ovsdbapp,openstack/freezer-specs,Non core,2.857142857142857,0.9433962264150944,5,4
+openstack/ovsdbapp,openstack/oslo.tools,Core,5.063291139240507,3.8834951456310676,7,9
+openstack/ovsdbapp,openstack/oslo.tools,Non core,3.79746835443038,4.854368932038835,7,9
+openstack/ovsdbapp,openstack/microversion-parse,Core,3.3333333333333335,3.1914893617021276,3,4
+openstack/ovsdbapp,openstack/microversion-parse,Non core,1.6666666666666667,1.0638297872340425,3,4
+openstack/ovsdbapp,openstack/openstackclient,Core,5.633802816901409,6.60377358490566,7,12
+openstack/ovsdbapp,openstack/openstackclient,Non core,4.225352112676056,4.716981132075472,7,12
+openstack/ovsdbapp,openstack/ossa,Core,2.7777777777777777,3.6764705882352944,3,8
+openstack/ovsdbapp,openstack/ossa,Non core,1.3888888888888888,2.2058823529411766,3,8
+openstack/ovsdbapp,openstack/reviewstats,Core,3.149606299212598,4.6875,4,12
+openstack/ovsdbapp,openstack/reviewstats,Non core,0.0,1.5625,4,12
+openstack/ovsdbapp,openstack/oslo-cookiecutter,Core,4.166666666666666,5.769230769230769,4,11
+openstack/ovsdbapp,openstack/oslo-cookiecutter,Non core,1.3888888888888888,4.807692307692308,4,11
+openstack/ovsdbapp,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/security-analysis,Core,3.389830508474576,2.912621359223301,3,4
+openstack/ovsdbapp,openstack/security-analysis,Non core,1.694915254237288,0.9708737864077669,3,4
+openstack/ovsdbapp,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/ansible-role-tripleo-keystone,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-keystone,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/openstack-ansible-apt_package_pinning,Core,4.761904761904762,2.586206896551724,6,10
+openstack/ovsdbapp,openstack/openstack-ansible-apt_package_pinning,Non core,2.380952380952381,6.0344827586206895,6,10
+openstack/ovsdbapp,openstack/ansible-role-qdrouterd,Core,3.225806451612903,2.803738317757009,4,6
+openstack/ovsdbapp,openstack/ansible-role-qdrouterd,Non core,3.225806451612903,2.803738317757009,4,6
+openstack/ovsdbapp,openstack/openstack-ansible-openstack_openrc,Core,4.3478260869565215,2.380952380952381,9,9
+openstack/ovsdbapp,openstack/openstack-ansible-openstack_openrc,Non core,5.434782608695652,4.761904761904762,9,9
+openstack/ovsdbapp,openstack/openstack-ansible-nspawn_container_create,Core,4.285714285714286,2.8301886792452833,5,9
+openstack/ovsdbapp,openstack/openstack-ansible-nspawn_container_create,Non core,2.857142857142857,5.660377358490567,5,9
+openstack/ovsdbapp,openstack/devstack-tools,Core,4.615384615384616,5.4945054945054945,6,9
+openstack/ovsdbapp,openstack/devstack-tools,Non core,4.615384615384616,4.395604395604396,6,9
+openstack/ovsdbapp,openstack/coverage2sql,Core,5.714285714285714,6.521739130434782,8,11
+openstack/ovsdbapp,openstack/coverage2sql,Non core,5.714285714285714,5.434782608695652,8,11
+openstack/ovsdbapp,openstack/bashate,Core,5.263157894736842,5.426356589147287,8,9
+openstack/ovsdbapp,openstack/bashate,Non core,3.1578947368421053,1.550387596899225,8,9
+openstack/ovsdbapp,openstack/hacking,Core,4.615384615384616,6.481481481481481,11,23
+openstack/ovsdbapp,openstack/hacking,Non core,3.8461538461538463,4.166666666666666,11,23
+openstack/ovsdbapp,openstack/xstatic-mdi,Core,1.694915254237288,1.0752688172043012,1,2
+openstack/ovsdbapp,openstack/xstatic-mdi,Non core,0.0,1.0752688172043012,1,2
+openstack/ovsdbapp,openstack/xstatic-roboto-fontface,Core,1.7241379310344827,1.0638297872340425,1,2
+openstack/ovsdbapp,openstack/xstatic-roboto-fontface,Non core,0.0,1.0638297872340425,1,2
+openstack/ovsdbapp,openstack/openstack-chef,Core,2.7027027027027026,2.0202020202020203,5,3
+openstack/ovsdbapp,openstack/openstack-chef,Non core,4.054054054054054,1.0101010101010102,5,3
+openstack/ovsdbapp,openstack/cookbook-openstackclient,Core,0.0,0.0,0,3
+openstack/ovsdbapp,openstack/cookbook-openstackclient,Non core,0.0,3.296703296703297,0,3
+openstack/ovsdbapp,openstack/xstatic-angular,Core,1.5625,0.9803921568627451,1,2
+openstack/ovsdbapp,openstack/xstatic-angular,Non core,0.0,0.9803921568627451,1,2
+openstack/ovsdbapp,openstack/charm-interface-hacluster,Core,2.941176470588235,1.0638297872340425,4,5
+openstack/ovsdbapp,openstack/charm-interface-hacluster,Non core,2.941176470588235,4.25531914893617,4,5
+openstack/ovsdbapp,openstack/puppet-openstack-specs,Core,4.166666666666666,0.7462686567164178,7,5
+openstack/ovsdbapp,openstack/puppet-openstack-specs,Non core,5.555555555555555,2.9850746268656714,7,5
+openstack/ovsdbapp,openstack/puppet-monasca,Core,2.4691358024691357,0.6369426751592357,4,6
+openstack/ovsdbapp,openstack/puppet-monasca,Non core,2.4691358024691357,3.1847133757961785,4,6
+openstack/ovsdbapp,openstack/eslint-config-openstack,Core,6.153846153846154,4.032258064516129,5,6
+openstack/ovsdbapp,openstack/eslint-config-openstack,Non core,1.5384615384615385,0.8064516129032258,5,6
+openstack/ovsdbapp,openstack/karma-subunit-reporter,Core,5.454545454545454,2.3255813953488373,3,3
+openstack/ovsdbapp,openstack/karma-subunit-reporter,Non core,0.0,1.1627906976744187,3,3
+openstack/ovsdbapp,openstack/openstack-helm-docs,Core,1.6666666666666667,2.912621359223301,1,5
+openstack/ovsdbapp,openstack/openstack-helm-docs,Non core,0.0,1.9417475728155338,1,5
+openstack/ovsdbapp,openstack/openstack-ansible-specs,Core,2.8846153846153846,1.6042780748663104,5,7
+openstack/ovsdbapp,openstack/openstack-ansible-specs,Non core,1.9230769230769231,2.13903743315508,5,7
+openstack/ovsdbapp,openstack/tempest-lib,Core,2.127659574468085,1.183431952662722,3,5
+openstack/ovsdbapp,openstack/tempest-lib,Non core,1.0638297872340425,1.7751479289940828,3,5
+openstack/ovsdbapp,openstack/tripleo-ha-utils,Core,1.6666666666666667,0.9523809523809524,2,3
+openstack/ovsdbapp,openstack/tripleo-ha-utils,Non core,1.6666666666666667,1.9047619047619049,2,3
+openstack/ovsdbapp,openstack/devstack-vagrant,Core,4.615384615384616,1.9607843137254901,3,5
+openstack/ovsdbapp,openstack/devstack-vagrant,Non core,0.0,2.941176470588235,3,5
+openstack/ovsdbapp,openstack/goal-tools,Core,5.172413793103448,6.741573033707865,3,11
+openstack/ovsdbapp,openstack/goal-tools,Non core,0.0,5.617977528089887,3,11
+openstack/ovsdbapp,openstack/cookiecutter,Core,4.3478260869565215,6.382978723404255,5,11
+openstack/ovsdbapp,openstack/cookiecutter,Non core,1.0869565217391304,1.4184397163120568,5,11
+openstack/ovsdbapp,openstack/dib-utils,Core,4.615384615384616,2.586206896551724,4,5
+openstack/ovsdbapp,openstack/dib-utils,Non core,1.5384615384615385,1.7241379310344827,4,5
+openstack/ovsdbapp,openstack/constellations,Core,3.6363636363636362,4.395604395604396,4,7
+openstack/ovsdbapp,openstack/constellations,Non core,3.6363636363636362,3.296703296703297,4,7
+openstack/ovsdbapp,openstack/cookbook-openstack-integration-test,Core,0.0,0.8928571428571428,0,4
+openstack/ovsdbapp,openstack/cookbook-openstack-integration-test,Non core,0.0,2.6785714285714284,0,4
+openstack/ovsdbapp,openstack/cookbook-openstack-dashboard,Core,1.0309278350515463,0.6756756756756757,2,4
+openstack/ovsdbapp,openstack/cookbook-openstack-dashboard,Non core,1.0309278350515463,2.027027027027027,2,4
+openstack/ovsdbapp,openstack/cookbook-openstack-telemetry,Core,1.0204081632653061,0.7692307692307693,2,3
+openstack/ovsdbapp,openstack/cookbook-openstack-telemetry,Non core,1.0204081632653061,1.5384615384615385,2,3
+openstack/ovsdbapp,openstack/cookbook-openstack-orchestration,Core,1.1235955056179776,1.4925373134328357,1,4
+openstack/ovsdbapp,openstack/cookbook-openstack-orchestration,Non core,0.0,1.4925373134328357,1,4
+openstack/ovsdbapp,openstack/cookbook-openstack-bare-metal,Core,0.0,0.9900990099009901,0,3
+openstack/ovsdbapp,openstack/cookbook-openstack-bare-metal,Non core,0.0,1.9801980198019802,0,3
+openstack/ovsdbapp,openstack/cookbook-openstack-dns,Core,0.0,1.1363636363636365,0,6
+openstack/ovsdbapp,openstack/cookbook-openstack-dns,Non core,0.0,5.681818181818182,0,6
+openstack/ovsdbapp,openstack/cookbook-openstack-compute,Core,0.847457627118644,0.5813953488372093,1,4
+openstack/ovsdbapp,openstack/cookbook-openstack-compute,Non core,0.0,1.744186046511628,1,4
+openstack/ovsdbapp,openstack/cookbook-openstack-network,Core,0.8333333333333334,0.6060606060606061,1,6
+openstack/ovsdbapp,openstack/cookbook-openstack-network,Non core,0.0,3.0303030303030303,1,6
+openstack/ovsdbapp,openstack/cookbook-openstack-block-storage,Core,1.7857142857142856,0.6756756756756757,3,4
+openstack/ovsdbapp,openstack/cookbook-openstack-block-storage,Non core,0.8928571428571428,2.027027027027027,3,4
+openstack/ovsdbapp,openstack/cookbook-openstack-image,Core,0.9523809523809524,0.6802721088435374,1,4
+openstack/ovsdbapp,openstack/cookbook-openstack-image,Non core,0.0,2.0408163265306123,1,4
+openstack/ovsdbapp,openstack/cookbook-openstack-identity,Core,1.9047619047619049,1.3157894736842104,3,5
+openstack/ovsdbapp,openstack/cookbook-openstack-identity,Non core,0.9523809523809524,1.9736842105263157,3,5
+openstack/ovsdbapp,openstack/cookbook-openstack-ops-database,Core,1.1363636363636365,0.0,1,1
+openstack/ovsdbapp,openstack/cookbook-openstack-ops-database,Non core,0.0,0.7692307692307693,1,1
+openstack/ovsdbapp,openstack/cookbook-openstack-ops-messaging,Core,1.2345679012345678,0.0,1,3
+openstack/ovsdbapp,openstack/cookbook-openstack-ops-messaging,Non core,0.0,2.479338842975207,1,3
+openstack/ovsdbapp,openstack/cookbook-openstack-common,Core,1.7699115044247788,0.5882352941176471,3,4
+openstack/ovsdbapp,openstack/cookbook-openstack-common,Non core,0.8849557522123894,1.7647058823529411,3,4
+openstack/ovsdbapp,openstack/self-healing-sig,Core,3.278688524590164,1.9047619047619049,3,3
+openstack/ovsdbapp,openstack/self-healing-sig,Non core,1.639344262295082,0.9523809523809524,3,3
+openstack/ovsdbapp,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/security-specs,Core,4.615384615384616,0.9009009009009009,4,2
+openstack/ovsdbapp,openstack/security-specs,Non core,1.5384615384615385,0.9009009009009009,4,2
+openstack/ovsdbapp,openstack/openstack-ansible-os_panko,Core,5.633802816901409,5.357142857142857,7,10
+openstack/ovsdbapp,openstack/openstack-ansible-os_panko,Non core,4.225352112676056,3.571428571428571,7,10
+openstack/ovsdbapp,openstack/openstack-ansible-nspawn_hosts,Core,5.797101449275362,1.834862385321101,7,8
+openstack/ovsdbapp,openstack/openstack-ansible-nspawn_hosts,Non core,4.3478260869565215,5.5045871559633035,7,8
+openstack/ovsdbapp,openstack/charm-layer-openstack-principle,Core,3.571428571428571,0.0,3,0
+openstack/ovsdbapp,openstack/charm-layer-openstack-principle,Non core,1.7857142857142856,0.0,3,0
+openstack/ovsdbapp,openstack/charm-watcher-dashboard,Core,3.6363636363636362,1.0869565217391304,2,1
+openstack/ovsdbapp,openstack/charm-watcher-dashboard,Non core,0.0,0.0,2,1
+openstack/ovsdbapp,openstack/charm-watcher,Core,3.508771929824561,0.9900990099009901,2,1
+openstack/ovsdbapp,openstack/charm-watcher,Non core,0.0,0.0,2,1
+openstack/ovsdbapp,openstack/openstack-ansible-galera_client,Core,4.0,1.5267175572519083,8,9
+openstack/ovsdbapp,openstack/openstack-ansible-galera_client,Non core,4.0,5.343511450381679,8,9
+openstack/ovsdbapp,openstack/cloudkitty-specs,Core,4.615384615384616,1.8518518518518516,5,4
+openstack/ovsdbapp,openstack/cloudkitty-specs,Non core,3.076923076923077,1.8518518518518516,5,4
+openstack/ovsdbapp,openstack/osops,Core,1.7241379310344827,4.545454545454546,1,4
+openstack/ovsdbapp,openstack/osops,Non core,0.0,0.0,1,4
+openstack/ovsdbapp,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-ironic,Core,5.454545454545454,2.380952380952381,4,2
+openstack/ovsdbapp,openstack/charm-ironic,Non core,1.8181818181818181,0.0,4,2
+openstack/ovsdbapp,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/multi-arch-sig,Core,1.8181818181818181,2.272727272727273,1,2
+openstack/ovsdbapp,openstack/multi-arch-sig,Non core,0.0,0.0,1,2
+openstack/ovsdbapp,openstack/charm-nova-compute-proxy,Core,3.3333333333333335,1.0752688172043012,5,2
+openstack/ovsdbapp,openstack/charm-nova-compute-proxy,Non core,5.0,1.0752688172043012,5,2
+openstack/ovsdbapp,openstack/charm-odl-controller,Core,3.1746031746031744,1.098901098901099,3,2
+openstack/ovsdbapp,openstack/charm-odl-controller,Non core,1.5873015873015872,1.098901098901099,3,2
+openstack/ovsdbapp,openstack/charm-nova-lxd,Core,4.545454545454546,1.9607843137254901,8,5
+openstack/ovsdbapp,openstack/charm-nova-lxd,Non core,7.575757575757576,2.941176470588235,8,5
+openstack/ovsdbapp,openstack/charm-interface-nova-cell,Core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/xstatic-lodash,Core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/xstatic-lodash,Non core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/xstatic-moment,Core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/xstatic-moment,Non core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/charm-interface-barbican-secrets,Core,1.7241379310344827,1.1494252873563218,2,3
+openstack/ovsdbapp,openstack/charm-interface-barbican-secrets,Non core,1.7241379310344827,2.2988505747126435,2,3
+openstack/ovsdbapp,openstack/charm-interface-mysql-innodb-cluster,Core,1.8518518518518516,0.0,1,0
+openstack/ovsdbapp,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-interface-ceph-rbd-mirror,Core,1.7543859649122806,1.1363636363636365,2,3
+openstack/ovsdbapp,openstack/charm-interface-ceph-rbd-mirror,Non core,1.7543859649122806,2.272727272727273,2,3
+openstack/ovsdbapp,openstack/charm-interface-placement,Core,1.8518518518518516,0.0,2,0
+openstack/ovsdbapp,openstack/charm-interface-placement,Non core,1.8518518518518516,0.0,2,0
+openstack/ovsdbapp,openstack/charm-interface-mysql-shared,Core,5.084745762711865,0.0,3,1
+openstack/ovsdbapp,openstack/charm-interface-mysql-shared,Non core,0.0,1.1111111111111112,3,1
+openstack/ovsdbapp,openstack/charm-interface-dashboard-plugin,Core,1.7241379310344827,1.1494252873563218,2,3
+openstack/ovsdbapp,openstack/charm-interface-dashboard-plugin,Non core,1.7241379310344827,2.2988505747126435,2,3
+openstack/ovsdbapp,openstack/charm-interface-neutron-load-balancer,Core,1.7241379310344827,1.1494252873563218,2,3
+openstack/ovsdbapp,openstack/charm-interface-neutron-load-balancer,Non core,1.7241379310344827,2.2988505747126435,2,3
+openstack/ovsdbapp,openstack/charm-interface-neutron-plugin-api-subordinate,Core,5.084745762711865,2.2222222222222223,4,2
+openstack/ovsdbapp,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,1.694915254237288,0.0,4,2
+openstack/ovsdbapp,openstack/charm-interface-neutron-plugin,Core,5.263157894736842,1.1363636363636365,3,2
+openstack/ovsdbapp,openstack/charm-interface-neutron-plugin,Non core,0.0,1.1363636363636365,3,2
+openstack/ovsdbapp,openstack/xstatic-json2yaml,Core,1.8518518518518516,1.1904761904761905,1,1
+openstack/ovsdbapp,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/xstatic-jquery.tablesorter,Core,3.7037037037037033,1.1627906976744187,2,2
+openstack/ovsdbapp,openstack/xstatic-jquery.tablesorter,Non core,0.0,1.1627906976744187,2,2
+openstack/ovsdbapp,openstack/xstatic-magic-search,Core,1.6666666666666667,1.0416666666666665,1,2
+openstack/ovsdbapp,openstack/xstatic-magic-search,Non core,0.0,1.0416666666666665,1,2
+openstack/ovsdbapp,openstack/xstatic-jsencrypt,Core,1.7241379310344827,1.0416666666666665,1,2
+openstack/ovsdbapp,openstack/xstatic-jsencrypt,Non core,0.0,1.0416666666666665,1,2
+openstack/ovsdbapp,openstack/xstatic-js-yaml,Core,1.8181818181818181,1.1764705882352942,1,1
+openstack/ovsdbapp,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/xstatic-spin,Core,3.7037037037037033,1.1627906976744187,2,2
+openstack/ovsdbapp,openstack/xstatic-spin,Non core,0.0,1.1627906976744187,2,2
+openstack/ovsdbapp,openstack/xstatic-rickshaw,Core,3.4482758620689653,1.0752688172043012,2,2
+openstack/ovsdbapp,openstack/xstatic-rickshaw,Non core,0.0,1.0752688172043012,2,2
+openstack/ovsdbapp,openstack/charm-panko,Core,1.7543859649122806,2.1739130434782608,2,3
+openstack/ovsdbapp,openstack/charm-panko,Non core,1.7543859649122806,1.0869565217391304,2,3
+openstack/ovsdbapp,openstack/charm-interface-service-control,Core,1.694915254237288,1.1235955056179776,2,3
+openstack/ovsdbapp,openstack/charm-interface-service-control,Non core,1.694915254237288,2.247191011235955,2,3
+openstack/ovsdbapp,openstack/openstack-ansible-os_almanach,Core,4.10958904109589,2.803738317757009,6,9
+openstack/ovsdbapp,openstack/openstack-ansible-os_almanach,Non core,4.10958904109589,5.607476635514018,6,9
+openstack/ovsdbapp,openstack/openstack-ansible-pip_install,Core,3.125,2.054794520547945,6,8
+openstack/ovsdbapp,openstack/openstack-ansible-pip_install,Non core,3.125,3.4246575342465753,6,8
+openstack/ovsdbapp,openstack/python-karborclient,Core,4.081632653061225,4.477611940298507,8,13
+openstack/ovsdbapp,openstack/python-karborclient,Non core,4.081632653061225,5.223880597014925,8,13
+openstack/ovsdbapp,openstack/charm-interface-keystone-admin,Core,5.454545454545454,0.0,3,1
+openstack/ovsdbapp,openstack/charm-interface-keystone-admin,Non core,0.0,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/charm-interface-nova-compute,Core,3.389830508474576,1.098901098901099,3,3
+openstack/ovsdbapp,openstack/charm-interface-nova-compute,Non core,1.694915254237288,2.197802197802198,3,3
+openstack/ovsdbapp,openstack/charm-interface-manila-plugin,Core,3.571428571428571,1.1363636363636365,3,2
+openstack/ovsdbapp,openstack/charm-interface-manila-plugin,Non core,1.7857142857142856,1.1363636363636365,3,2
+openstack/ovsdbapp,openstack/murano-apps,Core,3.9603960396039604,2.013422818791946,5,5
+openstack/ovsdbapp,openstack/murano-apps,Non core,0.9900990099009901,1.342281879194631,5,5
+openstack/ovsdbapp,openstack/puppet-senlin,Core,4.761904761904762,2.1052631578947367,6,6
+openstack/ovsdbapp,openstack/puppet-senlin,Non core,4.761904761904762,4.2105263157894735,6,6
+openstack/ovsdbapp,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,1,2
+openstack/ovsdbapp,openstack/cookbook-openstack-application-catalog,Non core,1.7241379310344827,2.247191011235955,1,2
+openstack/ovsdbapp,openstack/training-labs,Core,8.75,6.0344827586206895,11,12
+openstack/ovsdbapp,openstack/training-labs,Non core,5.0,4.310344827586207,11,12
+openstack/ovsdbapp,openstack/karbor,Core,2.547770700636943,4.444444444444445,10,22
+openstack/ovsdbapp,openstack/karbor,Non core,3.821656050955414,5.333333333333334,10,22
+openstack/ovsdbapp,openstack/devstack-plugin-open-cas,Core,1.8181818181818181,2.197802197802198,1,2
+openstack/ovsdbapp,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,2
+openstack/ovsdbapp,openstack/openstack-ansible-os_congress,Core,5.633802816901409,3.418803418803419,8,10
+openstack/ovsdbapp,openstack/openstack-ansible-os_congress,Non core,5.633802816901409,5.128205128205128,8,10
+openstack/ovsdbapp,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-interface-keystone-notifications,Core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/os-collect-config,Core,4.2105263157894735,2.8735632183908044,12,13
+openstack/ovsdbapp,openstack/os-collect-config,Non core,8.421052631578947,4.597701149425287,12,13
+openstack/ovsdbapp,openstack/os-apply-config,Core,4.166666666666666,4.216867469879518,10,13
+openstack/ovsdbapp,openstack/os-apply-config,Non core,6.25,3.614457831325301,10,13
+openstack/ovsdbapp,openstack/puppet-freezer,Core,4.166666666666666,2.912621359223301,6,7
+openstack/ovsdbapp,openstack/puppet-freezer,Non core,4.166666666666666,3.8834951456310676,6,7
+openstack/ovsdbapp,openstack/vitrage-specs,Core,3.5294117647058822,0.0,6,6
+openstack/ovsdbapp,openstack/vitrage-specs,Non core,3.5294117647058822,4.6875,6,6
+openstack/ovsdbapp,openstack/specs-cookiecutter,Core,5.084745762711865,6.593406593406594,3,7
+openstack/ovsdbapp,openstack/specs-cookiecutter,Non core,0.0,1.098901098901099,3,7
+openstack/ovsdbapp,openstack/rpm-packaging-tools,Core,4.918032786885246,3.9215686274509802,4,7
+openstack/ovsdbapp,openstack/rpm-packaging-tools,Non core,1.639344262295082,2.941176470588235,4,7
+openstack/ovsdbapp,openstack/ansible-role-openstack-operations,Core,3.125,1.0,5,1
+openstack/ovsdbapp,openstack/ansible-role-openstack-operations,Non core,4.6875,0.0,5,1
+openstack/ovsdbapp,openstack/os-refresh-config,Core,4.878048780487805,3.4013605442176873,10,11
+openstack/ovsdbapp,openstack/os-refresh-config,Non core,7.317073170731707,4.081632653061225,10,11
+openstack/ovsdbapp,openstack/mistral-specs,Core,3.8461538461538463,0.847457627118644,4,4
+openstack/ovsdbapp,openstack/mistral-specs,Non core,1.282051282051282,2.5423728813559325,4,4
+openstack/ovsdbapp,openstack/scientific-wg,Core,3.6363636363636362,2.3255813953488373,2,3
+openstack/ovsdbapp,openstack/scientific-wg,Non core,0.0,1.1627906976744187,2,3
+openstack/ovsdbapp,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,1.1363636363636365,0,1
+openstack/ovsdbapp,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/manila-test-image,Core,3.6363636363636362,3.225806451612903,2,6
+openstack/ovsdbapp,openstack/manila-test-image,Non core,0.0,3.225806451612903,2,6
+openstack/ovsdbapp,openstack/governance-website,Core,3.3333333333333335,6.315789473684211,3,9
+openstack/ovsdbapp,openstack/governance-website,Non core,1.6666666666666667,3.1578947368421053,3,9
+openstack/ovsdbapp,openstack/bugdaystats,Core,0.0,2.083333333333333,0,3
+openstack/ovsdbapp,openstack/bugdaystats,Non core,0.0,1.0416666666666665,0,3
+openstack/ovsdbapp,openstack/upstream-institute-virtual-environment,Core,0.0,2.127659574468085,0,2
+openstack/ovsdbapp,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,2
+openstack/ovsdbapp,openstack/karbor-dashboard,Core,3.614457831325301,4.6875,8,14
+openstack/ovsdbapp,openstack/karbor-dashboard,Non core,6.024096385542169,6.25,8,14
+openstack/ovsdbapp,openstack/django_openstack_auth,Core,3.149606299212598,1.2345679012345678,4,5
+openstack/ovsdbapp,openstack/django_openstack_auth,Non core,0.0,0.823045267489712,4,5
+openstack/ovsdbapp,openstack/monasca-transform,Core,4.761904761904762,3.278688524590164,10,13
+openstack/ovsdbapp,openstack/monasca-transform,Non core,7.142857142857142,7.377049180327869,10,13
+openstack/ovsdbapp,openstack/monasca-ceilometer,Core,4.25531914893617,3.3783783783783785,9,9
+openstack/ovsdbapp,openstack/monasca-ceilometer,Non core,5.319148936170213,2.7027027027027026,9,9
+openstack/ovsdbapp,openstack/monasca-log-api,Core,5.0,3.6809815950920246,9,14
+openstack/ovsdbapp,openstack/monasca-log-api,Non core,4.0,4.9079754601226995,9,14
+openstack/ovsdbapp,openstack/nose-html-output,Core,3.3333333333333335,2.1052631578947367,2,3
+openstack/ovsdbapp,openstack/nose-html-output,Non core,0.0,1.0526315789473684,2,3
+openstack/ovsdbapp,openstack/kolla-cli,Core,1.4285714285714286,3.669724770642202,5,12
+openstack/ovsdbapp,openstack/kolla-cli,Non core,5.714285714285714,7.339449541284404,5,12
+openstack/ovsdbapp,openstack/neutron-lbaas-dashboard,Core,4.301075268817205,5.921052631578947,8,20
+openstack/ovsdbapp,openstack/neutron-lbaas-dashboard,Non core,4.301075268817205,7.236842105263158,8,20
+openstack/ovsdbapp,openstack/searchlight,Core,2.484472049689441,2.9850746268656714,10,18
+openstack/ovsdbapp,openstack/searchlight,Non core,3.7267080745341614,5.970149253731343,10,18
+openstack/ovsdbapp,openstack/searchlight-ui,Core,4.3478260869565215,3.10077519379845,7,6
+openstack/ovsdbapp,openstack/searchlight-ui,Non core,3.260869565217391,1.550387596899225,7,6
+openstack/ovsdbapp,openstack/searchlight-specs,Core,4.225352112676056,0.8771929824561403,6,5
+openstack/ovsdbapp,openstack/searchlight-specs,Non core,4.225352112676056,3.508771929824561,6,5
+openstack/ovsdbapp,openstack/python-searchlightclient,Core,5.617977528089887,3.149606299212598,9,11
+openstack/ovsdbapp,openstack/python-searchlightclient,Non core,4.49438202247191,5.511811023622047,9,11
+openstack/ovsdbapp,openstack/charm-tempest,Core,4.285714285714286,1.9607843137254901,5,6
+openstack/ovsdbapp,openstack/charm-tempest,Non core,2.857142857142857,3.9215686274509802,5,6
+openstack/ovsdbapp,openstack/charm-barbican-softhsm,Core,4.411764705882353,2.0408163265306123,4,5
+openstack/ovsdbapp,openstack/charm-barbican-softhsm,Non core,1.4705882352941175,3.061224489795918,4,5
+openstack/ovsdbapp,openstack/cookbook-openstack-client,Core,1.6666666666666667,0.0,1,1
+openstack/ovsdbapp,openstack/cookbook-openstack-client,Non core,0.0,1.0309278350515463,1,1
+openstack/ovsdbapp,openstack/instack-undercloud,Core,2.054794520547945,2.2058823529411766,9,16
+openstack/ovsdbapp,openstack/instack-undercloud,Non core,4.10958904109589,3.6764705882352944,9,16
+openstack/ovsdbapp,openstack/publiccloud-sig,Core,3.508771929824561,2.2222222222222223,3,3
+openstack/ovsdbapp,openstack/publiccloud-sig,Non core,1.7543859649122806,1.1111111111111112,3,3
+openstack/ovsdbapp,openstack/ideas,Core,3.571428571428571,5.607476635514018,2,6
+openstack/ovsdbapp,openstack/ideas,Non core,0.0,0.0,2,6
+openstack/ovsdbapp,openstack/uc-recognition,Core,1.8181818181818181,2.2222222222222223,1,3
+openstack/ovsdbapp,openstack/uc-recognition,Non core,0.0,1.1111111111111112,1,3
+openstack/ovsdbapp,openstack/ops-tags-team,Core,1.6129032258064515,3.6363636363636362,1,6
+openstack/ovsdbapp,openstack/ops-tags-team,Non core,0.0,1.8181818181818181,1,6
+openstack/ovsdbapp,openstack/enterprise-wg,Core,1.8867924528301887,2.4390243902439024,1,2
+openstack/ovsdbapp,openstack/enterprise-wg,Non core,0.0,0.0,1,2
+openstack/ovsdbapp,openstack/governance-uc,Core,4.285714285714286,4.724409448818897,5,11
+openstack/ovsdbapp,openstack/governance-uc,Non core,2.857142857142857,3.937007874015748,5,11
+openstack/ovsdbapp,openstack/workload-ref-archs,Core,5.0,4.3478260869565215,6,7
+openstack/ovsdbapp,openstack/workload-ref-archs,Non core,5.0,3.260869565217391,6,7
+openstack/ovsdbapp,openstack/arch-wg,Core,1.7857142857142856,2.0618556701030926,1,3
+openstack/ovsdbapp,openstack/arch-wg,Non core,0.0,1.0309278350515463,1,3
+openstack/ovsdbapp,openstack/project-navigator-data,Core,4.3478260869565215,5.88235294117647,3,7
+openstack/ovsdbapp,openstack/project-navigator-data,Non core,0.0,0.9803921568627451,3,7
+openstack/ovsdbapp,openstack/openstack-specs,Core,4.285714285714286,3.9525691699604746,3,12
+openstack/ovsdbapp,openstack/openstack-specs,Non core,0.0,0.7905138339920948,3,12
+openstack/ovsdbapp,openstack/openstack-ansible-os_monasca,Core,4.819277108433735,3.225806451612903,7,13
+openstack/ovsdbapp,openstack/openstack-ansible-os_monasca,Non core,3.614457831325301,7.258064516129033,7,13
+openstack/ovsdbapp,openstack/openstack-ansible-os_monasca-agent,Core,4.10958904109589,2.7027027027027026,5,8
+openstack/ovsdbapp,openstack/openstack-ansible-os_monasca-agent,Non core,2.73972602739726,4.504504504504505,5,8
+openstack/ovsdbapp,openstack/ironic-inspector-specs,Core,2.73972602739726,1.5873015873015872,5,4
+openstack/ovsdbapp,openstack/ironic-inspector-specs,Non core,4.10958904109589,1.5873015873015872,5,4
+openstack/ovsdbapp,openstack/sushy-cli,Core,3.389830508474576,1.0752688172043012,3,1
+openstack/ovsdbapp,openstack/sushy-cli,Non core,1.694915254237288,0.0,3,1
+openstack/ovsdbapp,openstack/puppet-glare,Core,3.9473684210526314,2.8301886792452833,7,7
+openstack/ovsdbapp,openstack/puppet-glare,Non core,5.263157894736842,3.7735849056603774,7,7
+openstack/ovsdbapp,openstack/xstatic-bootstrap-scss,Core,1.694915254237288,1.0416666666666665,1,2
+openstack/ovsdbapp,openstack/xstatic-bootstrap-scss,Non core,0.0,1.0416666666666665,1,2
+openstack/ovsdbapp,openstack/openstack-planet,Core,2.6415094339622645,3.910614525139665,11,12
+openstack/ovsdbapp,openstack/openstack-planet,Non core,1.509433962264151,2.793296089385475,11,12
+openstack/ovsdbapp,openstack/charm-interface-keystone-credentials,Core,5.0,1.1111111111111112,3,2
+openstack/ovsdbapp,openstack/charm-interface-keystone-credentials,Non core,0.0,1.1111111111111112,3,2
+openstack/ovsdbapp,openstack/monasca-kibana-plugin,Core,3.225806451612903,2.0,2,3
+openstack/ovsdbapp,openstack/monasca-kibana-plugin,Non core,0.0,1.0,2,3
+openstack/ovsdbapp,openstack/charm-interface-keystone-domain-backend,Core,5.357142857142857,1.1494252873563218,4,1
+openstack/ovsdbapp,openstack/charm-interface-keystone-domain-backend,Non core,1.7857142857142856,0.0,4,1
+openstack/ovsdbapp,openstack/devstack-plugin-amqp1,Core,6.666666666666667,4.040404040404041,5,5
+openstack/ovsdbapp,openstack/devstack-plugin-amqp1,Non core,1.6666666666666667,1.0101010101010102,5,5
+openstack/ovsdbapp,openstack/devstack-plugin-kafka,Core,5.263157894736842,4.301075268817205,4,7
+openstack/ovsdbapp,openstack/devstack-plugin-kafka,Non core,1.7543859649122806,3.225806451612903,4,7
+openstack/ovsdbapp,openstack/tripleo-ipsec,Core,4.918032786885246,2.0202020202020203,4,4
+openstack/ovsdbapp,openstack/tripleo-ipsec,Non core,1.639344262295082,2.0202020202020203,4,4
+openstack/ovsdbapp,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,2
+openstack/ovsdbapp,openstack/monasca-grafana-datasource,Non core,0.0,1.9047619047619049,0,2
+openstack/ovsdbapp,openstack/charm-interface-bind-rndc,Core,5.084745762711865,1.1235955056179776,3,2
+openstack/ovsdbapp,openstack/charm-interface-bind-rndc,Non core,0.0,1.1235955056179776,3,2
+openstack/ovsdbapp,openstack/charm-interface-rabbitmq,Core,5.172413793103448,1.1111111111111112,3,2
+openstack/ovsdbapp,openstack/charm-interface-rabbitmq,Non core,0.0,1.1111111111111112,3,2
+openstack/ovsdbapp,openstack/charm-interface-openstack-ha,Core,3.4482758620689653,2.247191011235955,2,3
+openstack/ovsdbapp,openstack/charm-interface-openstack-ha,Non core,0.0,1.1235955056179776,2,3
+openstack/ovsdbapp,openstack/charm-interface-gnocchi,Core,5.357142857142857,2.083333333333333,3,2
+openstack/ovsdbapp,openstack/charm-interface-gnocchi,Non core,0.0,0.0,3,2
+openstack/ovsdbapp,openstack/charm-interface-bgp,Core,5.263157894736842,1.1235955056179776,4,2
+openstack/ovsdbapp,openstack/charm-interface-bgp,Non core,1.7543859649122806,1.1235955056179776,4,2
+openstack/ovsdbapp,openstack/charm-interface-websso-fid-service-provider,Core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/charm-interface-designate,Core,1.7857142857142856,1.1494252873563218,1,1
+openstack/ovsdbapp,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/tempest-horizon,Core,5.88235294117647,3.0303030303030303,6,6
+openstack/ovsdbapp,openstack/tempest-horizon,Non core,2.941176470588235,3.0303030303030303,6,6
+openstack/ovsdbapp,openstack/logstash-filters,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/logstash-filters,Non core,0.0,1.1494252873563218,0,1
+openstack/ovsdbapp,openstack/xstatic-jquery-migrate,Core,3.6363636363636362,1.1494252873563218,2,2
+openstack/ovsdbapp,openstack/xstatic-jquery-migrate,Non core,0.0,1.1494252873563218,2,2
+openstack/ovsdbapp,openstack/qinling-dashboard,Core,5.172413793103448,5.4945054945054945,3,8
+openstack/ovsdbapp,openstack/qinling-dashboard,Non core,0.0,3.296703296703297,3,8
+openstack/ovsdbapp,openstack/python-qinlingclient,Core,5.633802816901409,6.185567010309279,13,12
+openstack/ovsdbapp,openstack/python-qinlingclient,Non core,12.676056338028168,6.185567010309279,13,12
+openstack/ovsdbapp,openstack/qinling,Core,5.617977528089887,4.504504504504505,9,9
+openstack/ovsdbapp,openstack/qinling,Non core,4.49438202247191,3.6036036036036037,9,9
+openstack/ovsdbapp,openstack/monasca-analytics,Core,5.633802816901409,4.310344827586207,8,9
+openstack/ovsdbapp,openstack/monasca-analytics,Non core,5.633802816901409,3.4482758620689653,8,9
+openstack/ovsdbapp,openstack/oslo-incubator,Core,2.2222222222222223,2.8455284552845526,10,20
+openstack/ovsdbapp,openstack/oslo-incubator,Non core,0.9523809523809524,1.2195121951219512,10,20
+openstack/ovsdbapp,openstack/puppet-congress,Core,3.896103896103896,0.9900990099009901,6,6
+openstack/ovsdbapp,openstack/puppet-congress,Non core,3.896103896103896,4.9504950495049505,6,6
+openstack/ovsdbapp,openstack/openstack-ansible-os_monasca-ui,Core,4.838709677419355,2.0408163265306123,4,4
+openstack/ovsdbapp,openstack/openstack-ansible-os_monasca-ui,Non core,1.6129032258064515,2.0408163265306123,4,4
+openstack/ovsdbapp,openstack/auto-scaling-sig,Core,1.7241379310344827,1.0204081632653061,1,1
+openstack/ovsdbapp,openstack/auto-scaling-sig,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/os-loganalyze,Core,1.25,3.90625,2,6
+openstack/ovsdbapp,openstack/os-loganalyze,Non core,1.25,0.78125,2,6
+openstack/ovsdbapp,openstack/devstack-plugin-pika,Core,3.6363636363636362,3.3333333333333335,3,4
+openstack/ovsdbapp,openstack/devstack-plugin-pika,Non core,1.8181818181818181,1.1111111111111112,3,4
+openstack/ovsdbapp,openstack/devstack-plugin-zmq,Core,6.896551724137931,5.4945054945054945,5,6
+openstack/ovsdbapp,openstack/devstack-plugin-zmq,Non core,1.7241379310344827,1.098901098901099,5,6
+openstack/ovsdbapp,openstack/networking-l2gw,Core,5.454545454545454,9.405940594059405,11,32
+openstack/ovsdbapp,openstack/networking-l2gw,Non core,4.545454545454546,6.435643564356436,11,32
+openstack/ovsdbapp,openstack/networking-l2gw-tempest-plugin,Core,5.0,9.89010989010989,5,15
+openstack/ovsdbapp,openstack/networking-l2gw-tempest-plugin,Non core,3.3333333333333335,6.593406593406594,5,15
+openstack/ovsdbapp,openstack/charm-interface-ceph-mds,Core,5.172413793103448,0.0,3,1
+openstack/ovsdbapp,openstack/charm-interface-ceph-mds,Non core,0.0,1.1363636363636365,3,1
+openstack/ovsdbapp,openstack/xstatic-angular-ui-router,Core,1.8181818181818181,2.2988505747126435,1,3
+openstack/ovsdbapp,openstack/xstatic-angular-ui-router,Non core,0.0,1.1494252873563218,1,3
+openstack/ovsdbapp,openstack/xstatic-vis,Core,3.6363636363636362,2.3255813953488373,2,2
+openstack/ovsdbapp,openstack/xstatic-vis,Non core,0.0,0.0,2,2
+openstack/ovsdbapp,openstack/cookbook-openstack-database,Core,1.639344262295082,1.9417475728155338,1,3
+openstack/ovsdbapp,openstack/cookbook-openstack-database,Non core,0.0,0.9708737864077669,1,3
+openstack/ovsdbapp,openstack/cookbook-openstack-data-processing,Core,1.7241379310344827,2.0618556701030926,1,3
+openstack/ovsdbapp,openstack/cookbook-openstack-data-processing,Non core,0.0,1.0309278350515463,1,3
+openstack/ovsdbapp,openstack/trove-integration,Core,0.847457627118644,2.247191011235955,1,6
+openstack/ovsdbapp,openstack/trove-integration,Non core,0.0,1.1235955056179776,1,6
+openstack/ovsdbapp,openstack/ansible-role-tripleo-sensu,Core,3.508771929824561,1.1363636363636365,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-sensu,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/python-ceilometerclient,Core,2.4539877300613497,2.3346303501945527,5,10
+openstack/ovsdbapp,openstack/python-ceilometerclient,Non core,0.6134969325153374,1.556420233463035,5,10
+openstack/ovsdbapp,openstack/keystoneauth-saml2,Core,3.125,1.7699115044247788,2,3
+openstack/ovsdbapp,openstack/keystoneauth-saml2,Non core,0.0,0.8849557522123894,2,3
+openstack/ovsdbapp,openstack/murano-deployment,Core,1.1363636363636365,1.7391304347826086,1,4
+openstack/ovsdbapp,openstack/murano-deployment,Non core,0.0,1.7391304347826086,1,4
+openstack/ovsdbapp,openstack/python-keystoneclient-kerberos,Core,3.125,1.8018018018018018,2,3
+openstack/ovsdbapp,openstack/python-keystoneclient-kerberos,Non core,0.0,0.9009009009009009,2,3
+openstack/ovsdbapp,openstack/python-wsmanclient,Core,1.7857142857142856,1.1235955056179776,1,2
+openstack/ovsdbapp,openstack/python-wsmanclient,Non core,0.0,1.1235955056179776,1,2
+openstack/ovsdbapp,openstack/fuel-upgrade,Core,3.278688524590164,0.9345794392523363,2,2
+openstack/ovsdbapp,openstack/fuel-upgrade,Non core,0.0,0.9345794392523363,2,2
+openstack/ovsdbapp,openstack/cookbook-openstack-object-storage,Core,1.25,1.639344262295082,1,3
+openstack/ovsdbapp,openstack/cookbook-openstack-object-storage,Non core,0.0,0.819672131147541,1,3
+openstack/ovsdbapp,openstack/fairy-slipper,Core,3.389830508474576,3.1578947368421053,2,4
+openstack/ovsdbapp,openstack/fairy-slipper,Non core,0.0,1.0526315789473684,2,4
+openstack/ovsdbapp,openstack/django-openstack-auth-kerberos,Core,3.571428571428571,2.1052631578947367,3,4
+openstack/ovsdbapp,openstack/django-openstack-auth-kerberos,Non core,1.7857142857142856,2.1052631578947367,3,4
+openstack/ovsdbapp,openstack/horizon-cisco-ui,Core,3.125,3.296703296703297,2,5
+openstack/ovsdbapp,openstack/horizon-cisco-ui,Non core,0.0,2.197802197802198,2,5
+openstack/ovsdbapp,openstack/zuul-packaging,Core,3.7037037037037033,2.2222222222222223,2,3
+openstack/ovsdbapp,openstack/zuul-packaging,Non core,0.0,1.1111111111111112,2,3
+openstack/ovsdbapp,openstack/networking-generic-switch-tempest-plugin,Core,1.8518518518518516,1.2048192771084338,1,1
+openstack/ovsdbapp,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/tripleo-incubator,Core,2.0408163265306123,2.109704641350211,3,8
+openstack/ovsdbapp,openstack/tripleo-incubator,Non core,0.0,1.2658227848101267,3,8
+openstack/ovsdbapp,openstack/ironic-webclient,Core,1.694915254237288,1.8181818181818181,1,3
+openstack/ovsdbapp,openstack/ironic-webclient,Non core,0.0,0.9090909090909091,1,3
+openstack/ovsdbapp,openstack/puppet-crane,Core,1.8518518518518516,2.4096385542168677,1,3
+openstack/ovsdbapp,openstack/puppet-crane,Non core,0.0,1.2048192771084338,1,3
+openstack/ovsdbapp,openstack/release-tools,Core,4.938271604938271,4.195804195804196,6,12
+openstack/ovsdbapp,openstack/release-tools,Non core,2.4691358024691357,4.195804195804196,6,12
+openstack/ovsdbapp,openstack/gnocchi,Core,1.680672268907563,1.9704433497536946,3,9
+openstack/ovsdbapp,openstack/gnocchi,Non core,0.8403361344537815,2.4630541871921183,3,9
+openstack/ovsdbapp,openstack/networking-ofagent,Core,1.5873015873015872,7.216494845360824,1,11
+openstack/ovsdbapp,openstack/networking-ofagent,Non core,0.0,4.123711340206185,1,11
+openstack/ovsdbapp,openstack/python-neutron-pd-driver,Core,1.8181818181818181,2.4096385542168677,1,4
+openstack/ovsdbapp,openstack/python-neutron-pd-driver,Non core,0.0,2.4096385542168677,1,4
+openstack/ovsdbapp,openstack/charm-ceph,Core,1.4084507042253522,1.0101010101010102,2,3
+openstack/ovsdbapp,openstack/charm-ceph,Non core,1.4084507042253522,2.0202020202020203,2,3
+openstack/ovsdbapp,openstack/openstack-ansible-os_freezer,Core,1.8518518518518516,1.1904761904761905,1,1
+openstack/ovsdbapp,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/openstack-ansible-pip_lock_down,Core,4.6875,2.1052631578947367,3,3
+openstack/ovsdbapp,openstack/openstack-ansible-pip_lock_down,Non core,0.0,1.0526315789473684,3,3
+openstack/ovsdbapp,openstack/openstack-ansible-security,Core,3.3707865168539324,1.3513513513513513,3,4
+openstack/ovsdbapp,openstack/openstack-ansible-security,Non core,0.0,1.3513513513513513,3,4
+openstack/ovsdbapp,openstack/oslosphinx,Core,4.301075268817205,4.166666666666666,7,8
+openstack/ovsdbapp,openstack/oslosphinx,Non core,3.225806451612903,1.3888888888888888,7,8
+openstack/ovsdbapp,openstack/python-gnocchiclient,Core,1.2048192771084338,1.7857142857142856,1,3
+openstack/ovsdbapp,openstack/python-gnocchiclient,Non core,0.0,0.8928571428571428,1,3
+openstack/ovsdbapp,openstack/ansible-role-k8s-cinder,Core,1.8181818181818181,1.1764705882352942,1,1
+openstack/ovsdbapp,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/ansible-role-k8s-cookiecutter,Core,1.8181818181818181,2.3529411764705883,1,2
+openstack/ovsdbapp,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,1,2
+openstack/ovsdbapp,openstack/ansible-role-k8s-glance,Core,3.6363636363636362,2.3529411764705883,2,2
+openstack/ovsdbapp,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,2,2
+openstack/ovsdbapp,openstack/ansible-role-k8s-keystone,Core,3.6363636363636362,1.1363636363636365,2,1
+openstack/ovsdbapp,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,2,1
+openstack/ovsdbapp,openstack/ansible-role-k8s-mariadb,Core,3.571428571428571,2.2988505747126435,2,2
+openstack/ovsdbapp,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,2,2
+openstack/ovsdbapp,openstack/ansible-role-k8s-rabbitmq,Core,1.8518518518518516,1.2048192771084338,1,1
+openstack/ovsdbapp,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/ansible-role-k8s-tripleo,Core,3.6363636363636362,2.3255813953488373,2,2
+openstack/ovsdbapp,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,2,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-ui,Core,3.508771929824561,2.272727272727273,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-ui,Non core,1.7543859649122806,0.0,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-aodh,Core,3.508771929824561,1.1363636363636365,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-aodh,Non core,1.7543859649122806,1.1363636363636365,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-barbican,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-barbican,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-ceilometer,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-ceilometer,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-cinder,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-cinder,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-cookiecutter,Core,5.0,2.1505376344086025,4,4
+openstack/ovsdbapp,openstack/ansible-role-tripleo-cookiecutter,Non core,1.6666666666666667,2.1505376344086025,4,4
+openstack/ovsdbapp,openstack/tripleo-ui,Core,3.614457831325301,4.285714285714286,5,12
+openstack/ovsdbapp,openstack/tripleo-ui,Non core,2.4096385542168677,4.285714285714286,5,12
+openstack/ovsdbapp,openstack/ansible-role-tripleo-ovn,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-ovn,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-opendaylight,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-opendaylight,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-octavia,Core,3.4482758620689653,1.1494252873563218,2,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-octavia,Non core,0.0,1.1494252873563218,2,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-nova,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-nova,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/os-cloud-config,Core,4.0,2.380952380952381,5,8
+openstack/ovsdbapp,openstack/os-cloud-config,Non core,1.0,2.380952380952381,5,8
+openstack/ovsdbapp,openstack/ansible-role-tripleo-zaqar,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-zaqar,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-tempest,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-tempest,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-sahara,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-sahara,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-swift,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-swift,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-tacker,Core,3.508771929824561,1.1363636363636365,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-tacker,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-rabbitmq,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-rabbitmq,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-qdrouterd,Core,1.8518518518518516,1.1904761904761905,1,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-panko,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-panko,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-heat,Core,3.508771929824561,1.1494252873563218,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-heat,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-haproxy,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-haproxy,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-gnocchi,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-gnocchi,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-glance,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-glance,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-designate,Core,3.508771929824561,1.1363636363636365,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-designate,Non core,1.7543859649122806,0.0,3,1
+openstack/ovsdbapp,openstack/ansible-role-tripleo-neutron,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-neutron,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-mistral,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-mistral,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-memcached,Core,3.508771929824561,1.1363636363636365,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-memcached,Non core,1.7543859649122806,1.1363636363636365,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-manila,Core,3.508771929824561,1.1363636363636365,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-manila,Non core,1.7543859649122806,1.1363636363636365,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-ironic,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-ironic,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-keepalived,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-keepalived,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-horizon,Core,3.508771929824561,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/ansible-role-tripleo-horizon,Non core,1.7543859649122806,1.1494252873563218,3,2
+openstack/ovsdbapp,openstack/pylockfile,Core,3.3333333333333335,3.061224489795918,2,4
+openstack/ovsdbapp,openstack/pylockfile,Non core,0.0,1.0204081632653061,2,4
+openstack/ovsdbapp,openstack/xstatic-moment-timezone,Core,0.0,2.380952380952381,0,2
+openstack/ovsdbapp,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,2
+openstack/ovsdbapp,openstack/xstatic-dagre-d3,Core,0.0,2.380952380952381,0,2
+openstack/ovsdbapp,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,2
+openstack/ovsdbapp,openstack/xstatic-dagre,Core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/xstatic-dagre,Non core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/dragonflow,Core,2.9940119760479043,6.995884773662551,11,31
+openstack/ovsdbapp,openstack/dragonflow,Non core,3.592814371257485,5.761316872427984,11,31
+openstack/ovsdbapp,openstack/openstack,Core,1.7543859649122806,4.2105263157894735,1,5
+openstack/ovsdbapp,openstack/openstack,Non core,0.0,1.0526315789473684,1,5
+openstack/ovsdbapp,openstack/charm-interface-pacemaker-remote,Core,1.7857142857142856,1.1494252873563218,2,4
+openstack/ovsdbapp,openstack/charm-interface-pacemaker-remote,Non core,1.7857142857142856,3.4482758620689653,2,4
+openstack/ovsdbapp,openstack/networking-onos,Core,2.941176470588235,5.932203389830509,2,14
+openstack/ovsdbapp,openstack/networking-onos,Non core,0.0,5.932203389830509,2,14
+openstack/ovsdbapp,openstack/solum-infra-guestagent,Core,1.694915254237288,1.0638297872340425,1,2
+openstack/ovsdbapp,openstack/solum-infra-guestagent,Non core,0.0,1.0638297872340425,1,2
+openstack/ovsdbapp,openstack/openstack-ux,Core,1.7857142857142856,1.0101010101010102,1,2
+openstack/ovsdbapp,openstack/openstack-ux,Non core,0.0,1.0101010101010102,1,2
+openstack/ovsdbapp,openstack/mox3,Core,4.166666666666666,5.357142857142857,8,8
+openstack/ovsdbapp,openstack/mox3,Non core,6.944444444444445,1.7857142857142856,8,8
+openstack/ovsdbapp,openstack/charm-layer-ceph,Core,1.8181818181818181,0.0,1,0
+openstack/ovsdbapp,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/ovsdbapp,openstack/charm-layer-ceph-base,Core,3.571428571428571,0.0,2,1
+openstack/ovsdbapp,openstack/charm-layer-ceph-base,Non core,0.0,1.1494252873563218,2,1
+openstack/ovsdbapp,openstack/python-tricircleclient,Core,6.349206349206349,4.9504950495049505,9,11
+openstack/ovsdbapp,openstack/python-tricircleclient,Non core,7.936507936507936,5.9405940594059405,9,11
+openstack/ovsdbapp,openstack/tricircle,Core,5.833333333333333,5.41871921182266,14,18
+openstack/ovsdbapp,openstack/tricircle,Non core,5.833333333333333,3.4482758620689653,14,18
+openstack/ovsdbapp,openstack/swift-specs,Core,2.666666666666667,2.097902097902098,2,4
+openstack/ovsdbapp,openstack/swift-specs,Non core,0.0,0.6993006993006993,2,4
+openstack/ovsdbapp,openstack/congress,Core,3.0927835051546393,4.074074074074074,12,23
+openstack/ovsdbapp,openstack/congress,Non core,3.0927835051546393,4.444444444444445,12,23
+openstack/ovsdbapp,openstack/congress-tempest-plugin,Core,6.0606060606060606,5.05050505050505,7,9
+openstack/ovsdbapp,openstack/congress-tempest-plugin,Non core,4.545454545454546,4.040404040404041,7,9
+openstack/ovsdbapp,openstack/python-congressclient,Core,4.2105263157894735,5.785123966942149,10,14
+openstack/ovsdbapp,openstack/python-congressclient,Non core,6.315789473684211,5.785123966942149,10,14
+openstack/ovsdbapp,openstack/congress-specs,Core,4.819277108433735,2.4390243902439024,5,7
+openstack/ovsdbapp,openstack/congress-specs,Non core,1.2048192771084338,3.2520325203252036,5,7
+openstack/ovsdbapp,openstack/congress-dashboard,Core,7.246376811594203,6.730769230769231,9,13
+openstack/ovsdbapp,openstack/congress-dashboard,Non core,5.797101449275362,5.769230769230769,9,13
+openstack/ovsdbapp,openstack/syntribos,Core,2.4691358024691357,0.8849557522123894,3,5
+openstack/ovsdbapp,openstack/syntribos,Non core,1.2345679012345678,3.5398230088495577,3,5
+openstack/ovsdbapp,openstack/syntribos-payloads,Core,1.8518518518518516,0.0,1,1
+openstack/ovsdbapp,openstack/syntribos-payloads,Non core,0.0,1.1363636363636365,1,1
+openstack/ovsdbapp,openstack/syntribos-openstack-templates,Core,1.7857142857142856,0.0,1,1
+openstack/ovsdbapp,openstack/syntribos-openstack-templates,Non core,0.0,1.1111111111111112,1,1
+openstack/ovsdbapp,openstack/i18n-specs,Core,3.7037037037037033,2.3255813953488373,2,4
+openstack/ovsdbapp,openstack/i18n-specs,Non core,0.0,2.3255813953488373,2,4
+openstack/ovsdbapp,openstack/tempest-plugin-cookiecutter,Core,3.571428571428571,2.1739130434782608,2,3
+openstack/ovsdbapp,openstack/tempest-plugin-cookiecutter,Non core,0.0,1.0869565217391304,2,3
+openstack/ovsdbapp,openstack/devstack-plugin-cookiecutter,Core,1.7857142857142856,1.1627906976744187,1,2
+openstack/ovsdbapp,openstack/devstack-plugin-cookiecutter,Non core,0.0,1.1627906976744187,1,2
+openstack/ovsdbapp,openstack/xstatic-graphlib,Core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/openstack-ansible-repo_build,Core,2.8846153846153846,2.5974025974025974,8,12
+openstack/ovsdbapp,openstack/openstack-ansible-repo_build,Non core,4.807692307692308,5.194805194805195,8,12
+openstack/ovsdbapp,openstack/xstatic-bootstrap-datepicker,Core,3.389830508474576,1.0309278350515463,2,2
+openstack/ovsdbapp,openstack/xstatic-bootstrap-datepicker,Non core,0.0,1.0309278350515463,2,2
+openstack/ovsdbapp,openstack/xstatic-hogan,Core,3.7037037037037033,1.1627906976744187,2,2
+openstack/ovsdbapp,openstack/xstatic-hogan,Non core,0.0,1.1627906976744187,2,2
+openstack/ovsdbapp,openstack/xstatic-jquery.quicksearch,Core,3.7037037037037033,1.1627906976744187,2,2
+openstack/ovsdbapp,openstack/xstatic-jquery.quicksearch,Non core,0.0,1.1627906976744187,2,2
+openstack/ovsdbapp,openstack/openstack-ansible-os_molteniron,Core,4.285714285714286,2.8846153846153846,7,9
+openstack/ovsdbapp,openstack/openstack-ansible-os_molteniron,Non core,5.714285714285714,5.769230769230769,7,9
+openstack/ovsdbapp,openstack/xstatic-angular-lrdragndrop,Core,1.694915254237288,2.1505376344086025,1,3
+openstack/ovsdbapp,openstack/xstatic-angular-lrdragndrop,Non core,0.0,1.0752688172043012,1,3
+openstack/ovsdbapp,openstack/faafo,Core,3.225806451612903,1.0309278350515463,2,3
+openstack/ovsdbapp,openstack/faafo,Non core,0.0,2.0618556701030926,2,3
+openstack/ovsdbapp,openstack/xstatic-angular-bootstrap,Core,1.6129032258064515,1.0101010101010102,1,2
+openstack/ovsdbapp,openstack/xstatic-angular-bootstrap,Non core,0.0,1.0101010101010102,1,2
+openstack/ovsdbapp,openstack/networking-calico,Core,3.79746835443038,5.691056910569105,8,17
+openstack/ovsdbapp,openstack/networking-calico,Non core,6.329113924050633,8.130081300813007,8,17
+openstack/ovsdbapp,openstack/xstatic-angular-gettext,Core,1.7241379310344827,1.0638297872340425,2,2
+openstack/ovsdbapp,openstack/xstatic-angular-gettext,Non core,1.7241379310344827,1.0638297872340425,2,2
+openstack/ovsdbapp,openstack/shotgun,Core,1.3888888888888888,0.6493506493506493,1,2
+openstack/ovsdbapp,openstack/shotgun,Non core,0.0,0.6493506493506493,1,2
+openstack/ovsdbapp,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-aioeventlet,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/fuel-devops,Core,1.7857142857142856,0.9216589861751152,3,6
+openstack/ovsdbapp,openstack/fuel-devops,Non core,0.8928571428571428,1.8433179723502304,3,6
+openstack/ovsdbapp,openstack/fuel-plugin-murano,Core,1.5384615384615385,0.9090909090909091,1,2
+openstack/ovsdbapp,openstack/fuel-plugin-murano,Non core,0.0,0.9090909090909091,1,2
+openstack/ovsdbapp,openstack/fuel-web,Core,0.7662835249042145,0.6479481641468683,3,9
+openstack/ovsdbapp,openstack/fuel-web,Non core,0.38314176245210724,1.2958963282937366,3,9
+openstack/ovsdbapp,openstack/fuel-plugins,Core,2.0618556701030926,0.5524861878453038,2,2
+openstack/ovsdbapp,openstack/fuel-plugins,Non core,0.0,0.5524861878453038,2,2
+openstack/ovsdbapp,openstack/fuel-virtualbox,Core,1.6129032258064515,0.9803921568627451,1,2
+openstack/ovsdbapp,openstack/fuel-virtualbox,Non core,0.0,0.9803921568627451,1,2
+openstack/ovsdbapp,openstack/fuel-ostf,Core,1.342281879194631,0.3448275862068966,2,4
+openstack/ovsdbapp,openstack/fuel-ostf,Non core,0.0,1.0344827586206897,2,4
+openstack/ovsdbapp,openstack/fuel-qa,Core,0.5681818181818182,0.30959752321981426,1,4
+openstack/ovsdbapp,openstack/fuel-qa,Non core,0.0,0.9287925696594427,1,4
+openstack/ovsdbapp,openstack/fuel-specs,Core,1.2987012987012987,1.0752688172043012,2,8
+openstack/ovsdbapp,openstack/fuel-specs,Non core,0.0,1.0752688172043012,2,8
+openstack/ovsdbapp,openstack/fuel-nailgun-extension-cluster-upgrade,Core,1.5873015873015872,0.9803921568627451,1,2
+openstack/ovsdbapp,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.9803921568627451,1,2
+openstack/ovsdbapp,openstack/fuel-nailgun-agent,Core,1.1111111111111112,0.5649717514124294,1,2
+openstack/ovsdbapp,openstack/fuel-nailgun-agent,Non core,0.0,0.5649717514124294,1,2
+openstack/ovsdbapp,openstack/fuel-mirror,Core,2.380952380952381,0.5524861878453038,2,3
+openstack/ovsdbapp,openstack/fuel-mirror,Non core,0.0,1.1049723756906076,2,3
+openstack/ovsdbapp,openstack/fuel-menu,Core,2.3255813953488373,1.0416666666666665,2,4
+openstack/ovsdbapp,openstack/fuel-menu,Non core,0.0,1.0416666666666665,2,4
+openstack/ovsdbapp,openstack/fuel-main,Core,0.5235602094240838,0.6172839506172839,1,6
+openstack/ovsdbapp,openstack/fuel-main,Non core,0.0,1.2345679012345678,1,6
+openstack/ovsdbapp,openstack/fuel-ui,Core,1.0638297872340425,0.5952380952380952,1,3
+openstack/ovsdbapp,openstack/fuel-ui,Non core,0.0,1.1904761904761905,1,3
+openstack/ovsdbapp,openstack/fuel-library,Core,0.796812749003984,0.9784735812133072,2,10
+openstack/ovsdbapp,openstack/fuel-library,Non core,0.0,0.9784735812133072,2,10
+openstack/ovsdbapp,openstack/fuel-dev-tools,Core,4.6875,0.9803921568627451,3,2
+openstack/ovsdbapp,openstack/fuel-dev-tools,Non core,0.0,0.9803921568627451,3,2
+openstack/ovsdbapp,openstack/fuel-stats,Core,2.7777777777777777,0.78125,2,2
+openstack/ovsdbapp,openstack/fuel-stats,Non core,0.0,0.78125,2,2
+openstack/ovsdbapp,openstack/fuel-nailgun-extension-converted-serializers,Core,1.8181818181818181,1.1764705882352942,1,2
+openstack/ovsdbapp,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,1.1764705882352942,1,2
+openstack/ovsdbapp,openstack/fuel-nailgun-extension-iac,Core,1.7543859649122806,1.1494252873563218,1,2
+openstack/ovsdbapp,openstack/fuel-nailgun-extension-iac,Non core,0.0,1.1494252873563218,1,2
+openstack/ovsdbapp,openstack/fuel-plugin-murano-tests,Core,1.5625,0.9090909090909091,1,2
+openstack/ovsdbapp,openstack/fuel-plugin-murano-tests,Non core,0.0,0.9090909090909091,1,2
+openstack/ovsdbapp,openstack/fuel-astute,Core,0.847457627118644,0.4291845493562232,1,2
+openstack/ovsdbapp,openstack/fuel-astute,Non core,0.0,0.4291845493562232,1,2
+openstack/ovsdbapp,openstack/fuel-docs,Core,0.6802721088435374,1.0256410256410255,2,7
+openstack/ovsdbapp,openstack/fuel-docs,Non core,0.6802721088435374,0.7692307692307693,2,7
+openstack/ovsdbapp,openstack/fuel-agent,Core,2.5,0.43859649122807015,3,3
+openstack/ovsdbapp,openstack/fuel-agent,Non core,0.0,0.8771929824561403,3,3
+openstack/ovsdbapp,openstack/fuel-octane,Core,2.4096385542168677,0.7462686567164178,2,4
+openstack/ovsdbapp,openstack/fuel-octane,Non core,0.0,2.2388059701492535,2,4
+openstack/ovsdbapp,openstack/tuning-box,Core,3.508771929824561,1.8867924528301887,2,3
+openstack/ovsdbapp,openstack/tuning-box,Non core,0.0,0.9433962264150944,2,3
+openstack/ovsdbapp,openstack/python-fuelclient,Core,0.819672131147541,0.8888888888888888,1,4
+openstack/ovsdbapp,openstack/python-fuelclient,Non core,0.0,0.8888888888888888,1,4
+openstack/ovsdbapp,openstack/neutron-interconnection,Core,1.8518518518518516,8.13953488372093,2,8
+openstack/ovsdbapp,openstack/neutron-interconnection,Non core,1.8518518518518516,1.1627906976744187,2,8
+openstack/ovsdbapp,openstack/openstack-chef-repo,Core,0.0,0.7462686567164178,0,3
+openstack/ovsdbapp,openstack/openstack-chef-repo,Non core,0.0,1.4925373134328357,0,3
+openstack/ovsdbapp,openstack/os-acc,Core,0.0,3.061224489795918,0,3
+openstack/ovsdbapp,openstack/os-acc,Non core,0.0,0.0,0,3
+openstack/ovsdbapp,openstack/openstack-ansible-os_zaqar,Core,3.571428571428571,2.4390243902439024,6,8
+openstack/ovsdbapp,openstack/openstack-ansible-os_zaqar,Non core,3.571428571428571,4.0650406504065035,6,8
+openstack/ovsdbapp,openstack/openstack-ansible-os_watcher,Core,2.5,3.4782608695652173,5,8
+openstack/ovsdbapp,openstack/openstack-ansible-os_watcher,Non core,3.75,3.4782608695652173,5,8
+openstack/ovsdbapp,openstack/openstack-ansible-os_searchlight,Core,4.225352112676056,0.9174311926605505,6,5
+openstack/ovsdbapp,openstack/openstack-ansible-os_searchlight,Non core,4.225352112676056,3.669724770642202,6,5
+openstack/ovsdbapp,openstack/xstatic-angular-vis,Core,1.8518518518518516,1.2048192771084338,1,1
+openstack/ovsdbapp,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/xstatic-font-awesome,Core,1.694915254237288,1.0638297872340425,1,2
+openstack/ovsdbapp,openstack/xstatic-font-awesome,Non core,0.0,1.0638297872340425,1,2
+openstack/ovsdbapp,openstack/xstatic-jasmine,Core,1.6129032258064515,1.0416666666666665,2,2
+openstack/ovsdbapp,openstack/xstatic-jasmine,Non core,1.6129032258064515,1.0416666666666665,2,2
+openstack/ovsdbapp,openstack/xstatic-angular-notify,Core,1.8518518518518516,1.1904761904761905,1,1
+openstack/ovsdbapp,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/xstatic-angular-material,Core,1.7857142857142856,1.1627906976744187,1,1
+openstack/ovsdbapp,openstack/xstatic-angular-material,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/tempest-tripleo-ui,Core,1.7857142857142856,1.0638297872340425,1,1
+openstack/ovsdbapp,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/docs-specs,Core,3.0927835051546393,3.6363636363636362,4,14
+openstack/ovsdbapp,openstack/docs-specs,Non core,1.0309278350515463,1.4545454545454546,4,14
+openstack/ovsdbapp,openstack/release-schedule-generator,Core,0.0,2.3255813953488373,0,3
+openstack/ovsdbapp,openstack/release-schedule-generator,Non core,0.0,1.1627906976744187,0,3
+openstack/ovsdbapp,openstack-infra/opendev-website,Core,1.8518518518518516,1.1363636363636365,1,1
+openstack/ovsdbapp,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/castellan-ui,Core,5.357142857142857,3.0303030303030303,3,4
+openstack/ovsdbapp,openstack/castellan-ui,Non core,0.0,1.0101010101010102,3,4
+openstack/ovsdbapp,openstack-attic/compute-api,Core,1.3157894736842104,2.631578947368421,1,5
+openstack/ovsdbapp,openstack-attic/compute-api,Non core,0.0,1.7543859649122806,1,5
+openstack/ovsdbapp,openstack/charm-neutron-api-odl,Core,3.278688524590164,1.0869565217391304,3,2
+openstack/ovsdbapp,openstack/charm-neutron-api-odl,Non core,1.639344262295082,1.0869565217391304,3,2
+openstack/ovsdbapp,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/charm-murano,Core,1.8181818181818181,0.0,1,1
+openstack/ovsdbapp,openstack/charm-murano,Non core,0.0,1.1764705882352942,1,1
+openstack/ovsdbapp,openstack/charm-openvswitch-odl,Core,1.5873015873015872,0.0,1,1
+openstack/ovsdbapp,openstack/charm-openvswitch-odl,Non core,0.0,1.098901098901099,1,1
+openstack/ovsdbapp,openstack/charm-interface-odl-controller-api,Core,3.6363636363636362,0.0,2,1
+openstack/ovsdbapp,openstack/charm-interface-odl-controller-api,Non core,0.0,1.1764705882352942,2,1
+openstack/ovsdbapp,openstack/charm-glusterfs,Core,1.8181818181818181,0.0,1,1
+openstack/ovsdbapp,openstack/charm-glusterfs,Non core,0.0,1.1111111111111112,1,1
+openstack/ovsdbapp,openstack/charm-trove,Core,1.694915254237288,0.0,2,2
+openstack/ovsdbapp,openstack/charm-trove,Non core,1.694915254237288,2.272727272727273,2,2
+openstack/ovsdbapp,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-positional,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-requests-unixsocket,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-traceback2,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-ryu,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-linecache2,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-gabbi,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-cotyledon,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-migrate,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/fuxi,Core,1.282051282051282,3.2520325203252036,3,6
+openstack/ovsdbapp,openstack/fuxi,Non core,2.564102564102564,1.6260162601626018,3,6
+openstack/ovsdbapp,openstack/xstatic-filesaver,Core,1.8518518518518516,1.2048192771084338,1,1
+openstack/ovsdbapp,openstack/xstatic-filesaver,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/xstatic-angular-uuid,Core,1.8518518518518516,1.2048192771084338,1,1
+openstack/ovsdbapp,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/bandit,Core,1.8018018018018018,2.73972602739726,2,7
+openstack/ovsdbapp,openstack/bandit,Non core,0.0,2.054794520547945,2,7
+openstack/ovsdbapp,openstack/xstatic-angular-smart-table,Core,1.7857142857142856,1.1363636363636365,1,2
+openstack/ovsdbapp,openstack/xstatic-angular-smart-table,Non core,0.0,1.1363636363636365,1,2
+openstack/ovsdbapp,openstack/xstatic-bootswatch,Core,1.7543859649122806,1.0638297872340425,1,2
+openstack/ovsdbapp,openstack/xstatic-bootswatch,Non core,0.0,1.0638297872340425,1,2
+openstack/ovsdbapp,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-msgpack-python,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/xstatic-d3,Core,1.7241379310344827,1.0638297872340425,1,2
+openstack/ovsdbapp,openstack/xstatic-d3,Non core,0.0,1.0638297872340425,1,2
+openstack/ovsdbapp,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pymemcache,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-novnc,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/instack,Core,4.285714285714286,1.7543859649122806,6,5
+openstack/ovsdbapp,openstack/instack,Non core,4.285714285714286,2.631578947368421,6,5
+openstack/ovsdbapp,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pysaml2,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-trollius,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-autobahn,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pyldap,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/astara,Core,2.247191011235955,1.574803149606299,2,5
+openstack/ovsdbapp,openstack/astara,Non core,0.0,2.3622047244094486,2,5
+openstack/ovsdbapp,openstack/astara-appliance,Core,1.4925373134328357,1.9417475728155338,1,4
+openstack/ovsdbapp,openstack/astara-appliance,Non core,0.0,1.9417475728155338,1,4
+openstack/ovsdbapp,openstack/astara-horizon,Core,1.6666666666666667,1.0204081632653061,1,2
+openstack/ovsdbapp,openstack/astara-horizon,Non core,0.0,1.0204081632653061,1,2
+openstack/ovsdbapp,openstack/astara-neutron,Core,1.5625,1.0204081632653061,1,3
+openstack/ovsdbapp,openstack/astara-neutron,Non core,0.0,2.0408163265306123,1,3
+openstack/ovsdbapp,openstack/anchor,Core,0.0,1.639344262295082,0,4
+openstack/ovsdbapp,openstack/anchor,Non core,0.0,1.639344262295082,0,4
+openstack/ovsdbapp,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/fuxi-golang,Core,1.8867924528301887,3.571428571428571,1,3
+openstack/ovsdbapp,openstack/fuxi-golang,Non core,0.0,0.0,1,3
+openstack/ovsdbapp,openstack/fuxi-kubernetes,Core,1.8518518518518516,3.4090909090909087,1,4
+openstack/ovsdbapp,openstack/fuxi-kubernetes,Non core,0.0,1.1363636363636365,1,4
+openstack/ovsdbapp,openstack-infra/puppet-odsreg,Core,1.7241379310344827,2.127659574468085,1,3
+openstack/ovsdbapp,openstack-infra/puppet-odsreg,Non core,0.0,1.0638297872340425,1,3
+openstack/ovsdbapp,openstack-infra/puppet-docker_registry,Core,1.8867924528301887,1.2048192771084338,1,1
+openstack/ovsdbapp,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/releasestatus,Core,1.8181818181818181,2.272727272727273,1,3
+openstack/ovsdbapp,openstack/releasestatus,Non core,0.0,1.1363636363636365,1,3
+openstack/ovsdbapp,openstack-infra/vinz-webclient,Core,1.8867924528301887,1.2048192771084338,1,1
+openstack/ovsdbapp,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/activity-board,Core,1.4705882352941175,2.380952380952381,1,5
+openstack/ovsdbapp,openstack/activity-board,Non core,0.0,1.5873015873015872,1,5
+openstack/ovsdbapp,openstack-infra/beaker-localhost,Core,1.8867924528301887,1.1904761904761905,1,1
+openstack/ovsdbapp,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack-infra/beaker-nodepool,Core,1.8867924528301887,1.1904761904761905,1,1
+openstack/ovsdbapp,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/rst2bash,Core,3.6363636363636362,2.2222222222222223,2,3
+openstack/ovsdbapp,openstack/rst2bash,Non core,0.0,1.1111111111111112,2,3
+openstack/ovsdbapp,openstack/kolla-kubernetes,Core,1.7391304347826086,1.0101010101010102,4,5
+openstack/ovsdbapp,openstack/kolla-kubernetes,Non core,1.7391304347826086,1.5151515151515151,4,5
+openstack/ovsdbapp,openstack/cue-dashboard,Core,3.225806451612903,1.0869565217391304,2,2
+openstack/ovsdbapp,openstack/cue-dashboard,Non core,0.0,1.0869565217391304,2,2
+openstack/ovsdbapp,openstack/python-cueclient,Core,3.125,2.197802197802198,3,3
+openstack/ovsdbapp,openstack/python-cueclient,Non core,1.5625,1.098901098901099,3,3
+openstack/ovsdbapp,openstack/cue,Core,2.4096385542168677,1.7699115044247788,2,5
+openstack/ovsdbapp,openstack/cue,Non core,0.0,2.6548672566371683,2,5
+openstack/ovsdbapp,openstack/app-catalog,Core,1.7699115044247788,0.6896551724137931,2,3
+openstack/ovsdbapp,openstack/app-catalog,Non core,0.0,1.3793103448275863,2,3
+openstack/ovsdbapp,openstack-attic/identity-api,Core,1.0526315789473684,1.8518518518518516,1,4
+openstack/ovsdbapp,openstack-attic/identity-api,Non core,0.0,0.6172839506172839,1,4
+openstack/ovsdbapp,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-fixtures,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/python-magnetodbclient,Non core,0.0,1.0869565217391304,0,1
+openstack/ovsdbapp,openstack/app-catalog-ui,Core,1.639344262295082,1.0204081632653061,1,2
+openstack/ovsdbapp,openstack/app-catalog-ui,Non core,0.0,1.0204081632653061,1,2
+openstack/ovsdbapp,openstack/salt-formula-kubernetes,Core,1.7241379310344827,0.0,1,2
+openstack/ovsdbapp,openstack/salt-formula-kubernetes,Non core,0.0,2.272727272727273,1,2
+openstack/ovsdbapp,openstack/app-catalog-common,Core,0.0,1.1904761904761905,0,2
+openstack/ovsdbapp,openstack/app-catalog-common,Non core,0.0,1.1904761904761905,0,2
+openstack/ovsdbapp,openstack/python-appcatalogclient,Core,0.0,1.1494252873563218,0,2
+openstack/ovsdbapp,openstack/python-appcatalogclient,Non core,0.0,1.1494252873563218,0,2
+openstack/ovsdbapp,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-nova,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-kazoo,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-congressclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-congress,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-net-config,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-ironic,Non core,0.0,1.1494252873563218,0,1
+openstack/ovsdbapp,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-swauth,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-api-ref,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-designate,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-swift,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-manila-ui,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-barbican,Non core,0.0,1.1494252873563218,0,1
+openstack/ovsdbapp,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-cinder,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-magnum,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-trove,Non core,0.0,1.1363636363636365,0,1
+openstack/ovsdbapp,openstack/deb-openstack-pkg-tools,Core,0.0,1.098901098901099,0,2
+openstack/ovsdbapp,openstack/deb-openstack-pkg-tools,Non core,0.0,1.098901098901099,0,2
+openstack/ovsdbapp,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-swiftclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-alembic,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-cinderclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-networking-nec,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-neutron-taas,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-networking-mlnx,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-openstack-meta-packages,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-networking-odl,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-nodepool,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-networking-cisco,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-networking-midonet,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-networking-arista,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-networking-hyperv,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-rtslib-fb,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-murano,Non core,0.0,1.1363636363636365,0,1
+openstack/ovsdbapp,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-semantic-version,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-ldappool,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-zaqar-ui,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-zaqar,Non core,0.0,1.1363636363636365,0,1
+openstack/ovsdbapp,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-watcher,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-testr,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-win,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pycadf,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pyghmi,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-reno,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-refresh-config,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-vif,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pyeclib,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-quantumclient,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-requestsexceptions,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pbr,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-requests-mock,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-saharaclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-scciclient,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-seamicroclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-auto-backports,Non core,0.0,1.1494252873563218,0,1
+openstack/ovsdbapp,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-senlinclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-taskflow,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-testtools,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-tooz,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-shotgun,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-tackerclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-tosca-parser,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-troveclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-tuskarclient,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-watcherclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-wsme,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-bootswatch,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-angular-mock,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-d3,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-hogan,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-font-awesome,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jasmine,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-magic-search,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-mdi,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-objectpath,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-qunit,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-rickshaw,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-spin,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-tv4,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-yaql,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-zaqarclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-rally,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-sahara,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-sahara-dashboard,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-senlin,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-senlin-dashboard,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-stevedore,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-swift-bench,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-swift-plugin-s3,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-trove-dashboard,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-tempest,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-osprofiler,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.vmware,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.utils,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.rootwrap,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.service,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.privsep,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.versionedobjects,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslotest,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.serialization,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.reports,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.policy,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.middleware,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.messaging,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.log,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-aodhclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-automaton,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-barbicanclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-bashate,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-castellan,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-ceilometerclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-ceilometermiddleware,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-cliff,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-cursive,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-debtcollector,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-designateclient,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-dib-utils,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-diskimage-builder,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-doc8,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-django-openstack-auth,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-fuelclient,Non core,0.0,1.1363636363636365,0,1
+openstack/ovsdbapp,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-dogpile.cache,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-futurist,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-glanceclient,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-glance-store,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-hacking,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-heatclient,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-ironicclient,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-ironic-inspector-client,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-ironic-lib,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-k8sclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-keystoneauth1,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-keystoneclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-keystonemiddleware,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-magnumclient,Non core,0.0,1.1494252873563218,0,1
+openstack/ovsdbapp,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-manilaclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-microversion-parse,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-mistralclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-monascaclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-mox3,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-muranoclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-neutronclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-neutron-lib,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-novaclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-openstackclient,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-openstackdocstheme,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-openstacksdk,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-apply-config,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-brick,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-osc-lib,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-client-config,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-collect-config,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.cache,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.db,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.concurrency,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.config,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.i18n,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oslo.context,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-openstack-nose,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-openstack-doc-tools,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-openstack-trove,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-oslosphinx,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-aodh,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-bandit,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-ceilometer,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-ceilometermiddleware,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-designate-dashboard,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-git-review,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-glance,Non core,0.0,1.1363636363636365,0,1
+openstack/ovsdbapp,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-glare,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-heat,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-heat-cfntools,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-horizon,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-ironic-inspector,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-ironic-ui,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-keystone,Non core,0.0,1.1494252873563218,0,1
+openstack/ovsdbapp,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-liberasurecode,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-manila,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack/deb-mistral,Core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack/deb-mistral,Non core,1.694915254237288,1.1363636363636365,1,1
+openstack/ovsdbapp,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-murano-agent,Non core,0.0,1.1363636363636365,0,1
+openstack/ovsdbapp,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-murano-dashboard,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-networking-l2gw,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-networking-ovn,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-neutron,Non core,0.0,1.1494252873563218,0,1
+openstack/ovsdbapp,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-neutron-fwaas,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-neutron-vpnaas,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-neutron-lbaas,Non core,0.0,1.1363636363636365,0,1
+openstack/ovsdbapp,openstack/installguide-cookiecutter,Core,3.225806451612903,1.0526315789473684,2,2
+openstack/ovsdbapp,openstack/installguide-cookiecutter,Non core,0.0,1.0526315789473684,2,2
+openstack/ovsdbapp,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-gnocchi,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-eventlet,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pymysql,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/salt-formula-opencontrail,Core,1.4492753623188406,0.0,1,2
+openstack/ovsdbapp,openstack/salt-formula-opencontrail,Non core,0.0,2.1505376344086025,1,2
+openstack/ovsdbapp,openstack/salt-formula-neutron,Core,1.4705882352941175,1.0416666666666665,1,2
+openstack/ovsdbapp,openstack/salt-formula-neutron,Non core,0.0,1.0416666666666665,1,2
+openstack/ovsdbapp,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/salt-formula-swift,Non core,0.0,1.1494252873563218,0,1
+openstack/ovsdbapp,openstack/salt-formula-nova,Core,1.3513513513513513,0.0,1,2
+openstack/ovsdbapp,openstack/salt-formula-nova,Non core,0.0,2.083333333333333,1,2
+openstack/ovsdbapp,openstack/salt-formula-keystone,Core,1.4084507042253522,0.0,1,1
+openstack/ovsdbapp,openstack/salt-formula-keystone,Non core,0.0,1.0526315789473684,1,1
+openstack/ovsdbapp,openstack/salt-formula-horizon,Core,1.5151515151515151,0.0,1,1
+openstack/ovsdbapp,openstack/salt-formula-horizon,Non core,0.0,1.0869565217391304,1,1
+openstack/ovsdbapp,openstack/salt-formula-heat,Core,1.36986301369863,0.0,1,1
+openstack/ovsdbapp,openstack/salt-formula-heat,Non core,0.0,1.0752688172043012,1,1
+openstack/ovsdbapp,openstack/salt-formula-glance,Core,1.3888888888888888,0.0,1,2
+openstack/ovsdbapp,openstack/salt-formula-glance,Non core,0.0,2.127659574468085,1,2
+openstack/ovsdbapp,openstack/salt-formula-cinder,Core,1.4084507042253522,0.0,1,1
+openstack/ovsdbapp,openstack/salt-formula-cinder,Non core,0.0,1.0869565217391304,1,1
+openstack/ovsdbapp,openstack/salt-formula-ceilometer,Core,1.5873015873015872,0.0,1,1
+openstack/ovsdbapp,openstack/salt-formula-ceilometer,Non core,0.0,1.0638297872340425,1,1
+openstack/ovsdbapp,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pygit2,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-libisal,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xvfbwrapper,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-testresources,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-django-compressor,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-sqlalchemy-utils,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pykmip,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-coffin,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-txaio,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-hplefthandclient,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-django-overextends,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pytimeparse,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-nose-timer,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-retrying,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-django-discover-runner,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-lesscpy,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-happybase,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-extras,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-functools32,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pydot-ng,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-jsonschema,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-kafka,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-rcssmin,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-nose-parameterized,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pika-pool,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-rfc3986,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-httpretty,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pint,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-django-pyscss,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-falcon,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-subunit,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-django-formtools,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-nose-exclude,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pydotplus,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pager,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-proliantutils,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-gnocchiclient,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-django-babel,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-requests-kerberos,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-colander,Non core,0.0,1.1764705882352942,0,1
+openstack/ovsdbapp,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-dcos,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-django-bootstrap-form,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-term.js,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-toml,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-semver,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-websocket-client,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-fasteners,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-jingo,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pecan,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-frozendict,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/ovsdbapp,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-wrapt,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-funcsigs,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-crank,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pyvmomi,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-wsgi-intercept,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-os-cloud-config,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-weakrefmethod,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-steadymark,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-warlock,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-couleur,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-json-patch,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-jsonrpclib,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-multi-key-dict,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-memcache,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pulp,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-fonts-roboto-fontface,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-websockify,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-daemonize,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-pyngus,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-editor,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-ddt,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-monotonic,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-rjsmin,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-jsonpath-rw,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-django-appconf,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-oauth2client,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-json-pointer,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack-attic/akanda,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack-attic/akanda,Non core,0.0,1.0752688172043012,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-smart-table,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-requestbuilder,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-nosehtmloutput,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-csscompressor,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-croniter,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-python-concurrent.futures,Non core,0.0,1.1904761904761905,0,1
+openstack/ovsdbapp,openstack/openstack-salt,Core,1.7543859649122806,0.0,1,1
+openstack/ovsdbapp,openstack/openstack-salt,Non core,0.0,1.1363636363636365,1,1
+openstack/ovsdbapp,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack/deb-spice-html5,Non core,0.0,1.2048192771084338,0,1
+openstack/ovsdbapp,openstack/salt-formula-midonet,Core,1.8867924528301887,0.0,1,1
+openstack/ovsdbapp,openstack/salt-formula-midonet,Non core,0.0,1.2048192771084338,1,1
+openstack/ovsdbapp,openstack/magnetodb-specs,Core,1.5625,0.0,1,1
+openstack/ovsdbapp,openstack/magnetodb-specs,Non core,0.0,1.0,1,1
+openstack/ovsdbapp,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack-attic/akanda-appliance-builder,Non core,0.0,1.1363636363636365,0,1
+openstack/ovsdbapp,openstack-attic/oslo.version,Core,3.3333333333333335,3.061224489795918,2,4
+openstack/ovsdbapp,openstack-attic/oslo.version,Non core,0.0,1.0204081632653061,2,4
+openstack/ovsdbapp,openstack-attic/image-api,Core,1.5873015873015872,1.0,1,2
+openstack/ovsdbapp,openstack-attic/image-api,Non core,0.0,1.0,1,2
+openstack/ovsdbapp,openstack-attic/object-api,Core,1.36986301369863,0.9090909090909091,1,2
+openstack/ovsdbapp,openstack-attic/object-api,Non core,0.0,0.9090909090909091,1,2
+openstack/ovsdbapp,openstack-attic/volume-api,Core,1.4925373134328357,0.9803921568627451,1,2
+openstack/ovsdbapp,openstack-attic/volume-api,Non core,0.0,0.9803921568627451,1,2
+openstack/ovsdbapp,openstack/magnetodb,Core,1.3333333333333335,0.8547008547008548,1,3
+openstack/ovsdbapp,openstack/magnetodb,Non core,0.0,1.7094017094017095,1,3
+openstack/ovsdbapp,openstack/openstack-nose,Core,0.0,1.1235955056179776,0,2
+openstack/ovsdbapp,openstack/openstack-nose,Non core,0.0,1.1235955056179776,0,2
+openstack/ovsdbapp,openstack-attic/netconn-api,Core,2.5316455696202533,3.2,2,8
+openstack/ovsdbapp,openstack-attic/netconn-api,Non core,0.0,3.2,2,8
+openstack/ovsdbapp,openstack-attic/python-melangeclient,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack-attic/python-melangeclient,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack-attic/melange,Core,0.0,0.0,1,1
+openstack/ovsdbapp,openstack-attic/melange,Non core,1.4492753623188406,1.0416666666666665,1,1
+openstack/ovsdbapp,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/ovsdbapp,openstack-attic/openstack-qa,Non core,0.0,1.1627906976744187,0,1
+openstack/ovsdbapp,openstack-attic/database-api,Core,1.5625,1.0204081632653061,1,2
+openstack/ovsdbapp,openstack-attic/database-api,Non core,0.0,1.0204081632653061,1,2
+openstack/ovsdbapp,openstack-attic/openstack-security-notes,Core,0.0,1.3333333333333335,0,3
+openstack/ovsdbapp,openstack-attic/openstack-security-notes,Non core,0.0,0.6666666666666667,0,3

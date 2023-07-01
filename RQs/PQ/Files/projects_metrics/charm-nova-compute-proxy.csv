@@ -1,0 +1,1309 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/charm-nova-compute-proxy,openstack/charm-odl-controller,Core,12.5,7.6923076923076925,9,11
+openstack/charm-nova-compute-proxy,openstack/charm-odl-controller,Non core,43.75,76.92307692307693,9,11
+openstack/charm-nova-compute-proxy,openstack/charm-nova-lxd,Core,9.090909090909092,4.0,11,13
+openstack/charm-nova-compute-proxy,openstack/charm-nova-lxd,Non core,40.909090909090914,48.0,11,13
+openstack/charm-nova-compute-proxy,openstack/charm-interface-nova-cell,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/charm-interface-nova-cell,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/charm-interface-magpie,Core,0.0,0.0,1,3
+openstack/charm-nova-compute-proxy,openstack/charm-interface-magpie,Non core,7.6923076923076925,23.076923076923077,1,3
+openstack/charm-nova-compute-proxy,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/charm-interface-barbican-secrets,Core,0.0,0.0,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-barbican-secrets,Non core,11.76470588235294,23.52941176470588,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,1,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-mysql-innodb-cluster,Non core,7.6923076923076925,30.76923076923077,1,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-ceph-rbd-mirror,Core,0.0,0.0,2,5
+openstack/charm-nova-compute-proxy,openstack/charm-interface-ceph-rbd-mirror,Non core,12.5,29.411764705882355,2,5
+openstack/charm-nova-compute-proxy,openstack/charm-interface-placement,Core,0.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/charm-interface-placement,Non core,7.142857142857142,7.6923076923076925,1,1
+openstack/charm-nova-compute-proxy,openstack/charm-interface-mysql-shared,Core,5.555555555555555,0.0,3,8
+openstack/charm-nova-compute-proxy,openstack/charm-interface-mysql-shared,Non core,11.11111111111111,57.14285714285714,3,8
+openstack/charm-nova-compute-proxy,openstack/charm-interface-dashboard-plugin,Core,0.0,0.0,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-dashboard-plugin,Non core,11.76470588235294,23.52941176470588,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-neutron-load-balancer,Core,0.0,0.0,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-neutron-load-balancer,Non core,11.76470588235294,23.52941176470588,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-neutron-plugin-api-subordinate,Core,5.263157894736842,0.0,3,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,10.526315789473683,35.294117647058826,3,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-neutron-plugin,Core,5.88235294117647,0.0,2,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-neutron-plugin,Non core,5.88235294117647,40.0,2,6
+openstack/charm-nova-compute-proxy,openstack/xstatic-json2yaml,Core,7.6923076923076925,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-jquery.tablesorter,Core,7.142857142857142,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-jquery.tablesorter,Non core,0.0,5.555555555555555,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-magic-search,Core,5.263157894736842,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-magic-search,Non core,0.0,3.571428571428571,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-jsencrypt,Core,5.88235294117647,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-jsencrypt,Non core,0.0,3.571428571428571,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-js-yaml,Core,7.142857142857142,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-spin,Core,7.142857142857142,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-spin,Non core,0.0,5.555555555555555,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-rickshaw,Core,5.555555555555555,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-rickshaw,Non core,0.0,4.0,1,1
+openstack/charm-nova-compute-proxy,openstack/charm-panko,Core,7.142857142857142,0.0,4,6
+openstack/charm-nova-compute-proxy,openstack/charm-panko,Non core,21.428571428571427,30.0,4,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-service-control,Core,0.0,0.0,2,5
+openstack/charm-nova-compute-proxy,openstack/charm-interface-service-control,Non core,11.11111111111111,27.77777777777778,2,5
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_almanach,Core,5.714285714285714,2.2222222222222223,3,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_almanach,Non core,2.857142857142857,2.2222222222222223,3,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-pip_install,Core,3.4482758620689653,1.2048192771084338,3,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-pip_install,Non core,1.7241379310344827,1.2048192771084338,3,2
+openstack/charm-nova-compute-proxy,openstack/python-karborclient,Core,1.6129032258064515,0.0,3,2
+openstack/charm-nova-compute-proxy,openstack/python-karborclient,Non core,3.225806451612903,2.631578947368421,3,2
+openstack/charm-nova-compute-proxy,openstack/charm-interface-keystone-admin,Core,6.666666666666667,0.0,2,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-keystone-admin,Non core,6.666666666666667,46.15384615384615,2,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-nova-compute,Core,0.0,0.0,2,5
+openstack/charm-nova-compute-proxy,openstack/charm-interface-nova-compute,Non core,10.526315789473683,25.0,2,5
+openstack/charm-nova-compute-proxy,openstack/charm-interface-manila-plugin,Core,5.88235294117647,0.0,1,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-manila-plugin,Non core,0.0,40.0,1,6
+openstack/charm-nova-compute-proxy,openstack/murano-apps,Core,3.1746031746031744,1.2048192771084338,2,2
+openstack/charm-nova-compute-proxy,openstack/murano-apps,Non core,0.0,1.2048192771084338,2,2
+openstack/charm-nova-compute-proxy,openstack/puppet-senlin,Core,4.0,0.0,3,0
+openstack/charm-nova-compute-proxy,openstack/puppet-senlin,Non core,8.0,0.0,3,0
+openstack/charm-nova-compute-proxy,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/cookbook-openstack-application-catalog,Non core,5.88235294117647,4.761904761904762,1,1
+openstack/charm-nova-compute-proxy,openstack/training-labs,Core,4.25531914893617,1.7543859649122806,3,2
+openstack/charm-nova-compute-proxy,openstack/training-labs,Non core,2.127659574468085,1.7543859649122806,3,2
+openstack/charm-nova-compute-proxy,openstack/karbor,Core,1.6528925619834711,0.5714285714285714,5,3
+openstack/charm-nova-compute-proxy,openstack/karbor,Non core,2.479338842975207,1.1428571428571428,5,3
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-open-cas,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_congress,Core,5.88235294117647,1.7543859649122806,4,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_congress,Non core,5.88235294117647,0.0,4,1
+openstack/charm-nova-compute-proxy,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,1,3
+openstack/charm-nova-compute-proxy,openstack/charm-ops-interface-ceph-client,Non core,7.6923076923076925,20.0,1,3
+openstack/charm-nova-compute-proxy,openstack/charm-interface-keystone-notifications,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/charm-interface-keystone-notifications,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/os-collect-config,Core,3.278688524590164,0.8620689655172413,5,2
+openstack/charm-nova-compute-proxy,openstack/os-collect-config,Non core,4.918032786885246,0.8620689655172413,5,2
+openstack/charm-nova-compute-proxy,openstack/os-apply-config,Core,3.3333333333333335,0.9259259259259258,5,2
+openstack/charm-nova-compute-proxy,openstack/os-apply-config,Non core,5.0,0.9259259259259258,5,2
+openstack/charm-nova-compute-proxy,openstack/puppet-freezer,Core,2.857142857142857,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/puppet-freezer,Non core,2.857142857142857,2.5,2,1
+openstack/charm-nova-compute-proxy,openstack/vitrage-specs,Core,2.127659574468085,0.0,3,1
+openstack/charm-nova-compute-proxy,openstack/vitrage-specs,Non core,4.25531914893617,1.5625,3,1
+openstack/charm-nova-compute-proxy,openstack/specs-cookiecutter,Core,5.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/specs-cookiecutter,Non core,0.0,3.571428571428571,1,1
+openstack/charm-nova-compute-proxy,openstack/rpm-packaging-tools,Core,4.545454545454546,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/rpm-packaging-tools,Non core,4.545454545454546,2.564102564102564,2,1
+openstack/charm-nova-compute-proxy,openstack/ansible-role-openstack-operations,Core,3.8461538461538463,0.0,2,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-openstack-operations,Non core,3.8461538461538463,0.0,2,0
+openstack/charm-nova-compute-proxy,openstack/os-refresh-config,Core,2.127659574468085,0.0,4,1
+openstack/charm-nova-compute-proxy,openstack/os-refresh-config,Non core,6.382978723404255,1.1363636363636365,4,1
+openstack/charm-nova-compute-proxy,openstack/mistral-specs,Core,2.564102564102564,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/mistral-specs,Non core,2.564102564102564,1.9230769230769231,2,1
+openstack/charm-nova-compute-proxy,openstack/scientific-wg,Core,6.666666666666667,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/scientific-wg,Non core,0.0,5.263157894736842,1,1
+openstack/charm-nova-compute-proxy,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.0,0,3
+openstack/charm-nova-compute-proxy,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,17.647058823529413,0,3
+openstack/charm-nova-compute-proxy,openstack/manila-test-image,Core,6.666666666666667,3.571428571428571,1,2
+openstack/charm-nova-compute-proxy,openstack/manila-test-image,Non core,0.0,3.571428571428571,1,2
+openstack/charm-nova-compute-proxy,openstack/governance-website,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/governance-website,Non core,0.0,2.941176470588235,0,1
+openstack/charm-nova-compute-proxy,openstack/bugdaystats,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/bugdaystats,Non core,0.0,3.4482758620689653,0,1
+openstack/charm-nova-compute-proxy,openstack/upstream-institute-virtual-environment,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/karbor-dashboard,Core,0.0,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/karbor-dashboard,Non core,4.166666666666666,1.3888888888888888,2,1
+openstack/charm-nova-compute-proxy,openstack/django_openstack_auth,Core,1.1235955056179776,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/django_openstack_auth,Non core,0.0,0.5617977528089888,1,1
+openstack/charm-nova-compute-proxy,openstack/monasca-transform,Core,4.166666666666666,1.5625,5,2
+openstack/charm-nova-compute-proxy,openstack/monasca-transform,Non core,6.25,1.5625,5,2
+openstack/charm-nova-compute-proxy,openstack/monasca-ceilometer,Core,3.508771929824561,1.1627906976744187,5,2
+openstack/charm-nova-compute-proxy,openstack/monasca-ceilometer,Non core,5.263157894736842,1.1627906976744187,5,2
+openstack/charm-nova-compute-proxy,openstack/monasca-log-api,Core,3.125,0.9523809523809524,4,3
+openstack/charm-nova-compute-proxy,openstack/monasca-log-api,Non core,3.125,1.9047619047619049,4,3
+openstack/charm-nova-compute-proxy,openstack/nose-html-output,Core,0.0,3.7037037037037033,0,2
+openstack/charm-nova-compute-proxy,openstack/nose-html-output,Non core,0.0,3.7037037037037033,0,2
+openstack/charm-nova-compute-proxy,openstack/kolla-cli,Core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/kolla-cli,Non core,3.0303030303030303,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/neutron-lbaas-dashboard,Core,1.7543859649122806,0.0,3,2
+openstack/charm-nova-compute-proxy,openstack/neutron-lbaas-dashboard,Non core,3.508771929824561,1.9801980198019802,3,2
+openstack/charm-nova-compute-proxy,openstack/searchlight,Core,0.7936507936507936,0.0,4,1
+openstack/charm-nova-compute-proxy,openstack/searchlight,Non core,2.380952380952381,0.6711409395973155,4,1
+openstack/charm-nova-compute-proxy,openstack/searchlight-ui,Core,1.7857142857142856,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/searchlight-ui,Non core,1.7857142857142856,1.5384615384615385,2,1
+openstack/charm-nova-compute-proxy,openstack/searchlight-specs,Core,3.0303030303030303,0.0,3,1
+openstack/charm-nova-compute-proxy,openstack/searchlight-specs,Non core,6.0606060606060606,2.0408163265306123,3,1
+openstack/charm-nova-compute-proxy,openstack/python-searchlightclient,Core,1.8867924528301887,0.0,4,1
+openstack/charm-nova-compute-proxy,openstack/python-searchlightclient,Non core,5.660377358490567,1.4705882352941175,4,1
+openstack/charm-nova-compute-proxy,openstack/charm-tempest,Core,4.0,0.0,9,11
+openstack/charm-nova-compute-proxy,openstack/charm-tempest,Non core,32.0,39.285714285714285,9,11
+openstack/charm-nova-compute-proxy,openstack/charm-barbican-softhsm,Core,4.3478260869565215,0.0,8,11
+openstack/charm-nova-compute-proxy,openstack/charm-barbican-softhsm,Non core,30.434782608695656,47.82608695652174,8,11
+openstack/charm-nova-compute-proxy,openstack/cookbook-openstack-client,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/cookbook-openstack-client,Non core,0.0,3.571428571428571,0,1
+openstack/charm-nova-compute-proxy,openstack/instack-undercloud,Core,0.9009009009009009,0.0,3,1
+openstack/charm-nova-compute-proxy,openstack/instack-undercloud,Non core,1.8018018018018018,0.45871559633027525,3,1
+openstack/charm-nova-compute-proxy,openstack/publiccloud-sig,Core,5.555555555555555,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/publiccloud-sig,Non core,0.0,4.3478260869565215,1,1
+openstack/charm-nova-compute-proxy,openstack/ideas,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/ideas,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/uc-recognition,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/uc-recognition,Non core,0.0,4.3478260869565215,0,1
+openstack/charm-nova-compute-proxy,openstack/ops-tags-team,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/ops-tags-team,Non core,0.0,2.1739130434782608,0,1
+openstack/charm-nova-compute-proxy,openstack/enterprise-wg,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/enterprise-wg,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/governance-uc,Core,3.0303030303030303,1.4925373134328357,1,2
+openstack/charm-nova-compute-proxy,openstack/governance-uc,Non core,0.0,1.4925373134328357,1,2
+openstack/charm-nova-compute-proxy,openstack/workload-ref-archs,Core,4.166666666666666,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/workload-ref-archs,Non core,0.0,3.4482758620689653,1,1
+openstack/charm-nova-compute-proxy,openstack/arch-wg,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/arch-wg,Non core,0.0,3.3333333333333335,0,1
+openstack/charm-nova-compute-proxy,openstack/project-navigator-data,Core,3.3333333333333335,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/project-navigator-data,Non core,0.0,2.564102564102564,1,1
+openstack/charm-nova-compute-proxy,openstack/openstack-specs,Core,3.225806451612903,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/openstack-specs,Non core,0.0,0.5128205128205128,1,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_monasca,Core,4.3478260869565215,1.5151515151515151,3,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_monasca,Non core,2.1739130434782608,1.5151515151515151,3,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_monasca-agent,Core,5.714285714285714,2.083333333333333,2,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_monasca-agent,Non core,0.0,2.083333333333333,2,2
+openstack/charm-nova-compute-proxy,openstack/ironic-inspector-specs,Core,2.857142857142857,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/ironic-inspector-specs,Non core,2.857142857142857,1.6666666666666667,2,1
+openstack/charm-nova-compute-proxy,openstack/sushy-cli,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/sushy-cli,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/puppet-glare,Core,2.5,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/puppet-glare,Non core,2.5,2.3255813953488373,2,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-bootstrap-scss,Core,5.555555555555555,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-bootstrap-scss,Non core,0.0,3.571428571428571,1,1
+openstack/charm-nova-compute-proxy,openstack/openstack-planet,Core,0.8658008658008658,0.8333333333333334,4,2
+openstack/charm-nova-compute-proxy,openstack/openstack-planet,Non core,0.8658008658008658,0.8333333333333334,4,2
+openstack/charm-nova-compute-proxy,openstack/charm-interface-keystone-credentials,Core,5.0,0.0,2,7
+openstack/charm-nova-compute-proxy,openstack/charm-interface-keystone-credentials,Non core,5.0,43.75,2,7
+openstack/charm-nova-compute-proxy,openstack/monasca-kibana-plugin,Core,4.545454545454546,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/monasca-kibana-plugin,Non core,0.0,3.0303030303030303,1,1
+openstack/charm-nova-compute-proxy,openstack/charm-interface-keystone-domain-backend,Core,5.88235294117647,0.0,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-keystone-domain-backend,Non core,5.88235294117647,26.666666666666668,2,4
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-amqp1,Core,9.090909090909092,3.0303030303030303,2,2
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-amqp1,Non core,0.0,3.0303030303030303,2,2
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-kafka,Core,11.11111111111111,3.4482758620689653,2,2
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-kafka,Non core,0.0,3.4482758620689653,2,2
+openstack/charm-nova-compute-proxy,openstack/tripleo-ipsec,Core,4.3478260869565215,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/tripleo-ipsec,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/monasca-grafana-datasource,Non core,0.0,2.7027027027027026,0,1
+openstack/charm-nova-compute-proxy,openstack/charm-interface-bind-rndc,Core,5.263157894736842,0.0,2,5
+openstack/charm-nova-compute-proxy,openstack/charm-interface-bind-rndc,Non core,5.263157894736842,29.411764705882355,2,5
+openstack/charm-nova-compute-proxy,openstack/charm-interface-rabbitmq,Core,5.88235294117647,0.0,3,8
+openstack/charm-nova-compute-proxy,openstack/charm-interface-rabbitmq,Non core,11.76470588235294,53.333333333333336,3,8
+openstack/charm-nova-compute-proxy,openstack/charm-interface-openstack-ha,Core,6.25,0.0,3,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-openstack-ha,Non core,12.5,35.294117647058826,3,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-gnocchi,Core,5.88235294117647,0.0,1,9
+openstack/charm-nova-compute-proxy,openstack/charm-interface-gnocchi,Non core,0.0,45.0,1,9
+openstack/charm-nova-compute-proxy,openstack/charm-interface-bgp,Core,5.88235294117647,0.0,3,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-bgp,Non core,11.76470588235294,37.5,3,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.0,0,2
+openstack/charm-nova-compute-proxy,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,12.5,0,2
+openstack/charm-nova-compute-proxy,openstack/charm-interface-designate,Core,0.0,0.0,1,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-designate,Non core,6.666666666666667,26.666666666666668,1,4
+openstack/charm-nova-compute-proxy,openstack/tempest-horizon,Core,3.125,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/tempest-horizon,Non core,0.0,2.857142857142857,1,1
+openstack/charm-nova-compute-proxy,openstack/logstash-filters,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/logstash-filters,Non core,0.0,5.555555555555555,0,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-jquery-migrate,Core,6.666666666666667,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-jquery-migrate,Non core,0.0,5.263157894736842,1,1
+openstack/charm-nova-compute-proxy,openstack/qinling-dashboard,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/qinling-dashboard,Non core,0.0,3.4482758620689653,0,1
+openstack/charm-nova-compute-proxy,openstack/python-qinlingclient,Core,2.564102564102564,0.0,4,2
+openstack/charm-nova-compute-proxy,openstack/python-qinlingclient,Non core,7.6923076923076925,5.263157894736842,4,2
+openstack/charm-nova-compute-proxy,openstack/qinling,Core,3.7735849056603774,2.0408163265306123,4,2
+openstack/charm-nova-compute-proxy,openstack/qinling,Non core,3.7735849056603774,2.0408163265306123,4,2
+openstack/charm-nova-compute-proxy,openstack/monasca-analytics,Core,5.88235294117647,1.8867924528301887,4,3
+openstack/charm-nova-compute-proxy,openstack/monasca-analytics,Non core,5.88235294117647,3.7735849056603774,4,3
+openstack/charm-nova-compute-proxy,openstack/oslo-incubator,Core,0.7092198581560284,0.22675736961451248,2,2
+openstack/charm-nova-compute-proxy,openstack/oslo-incubator,Non core,0.0,0.22675736961451248,2,2
+openstack/charm-nova-compute-proxy,openstack/puppet-congress,Core,2.5,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/puppet-congress,Non core,2.5,2.7027027027027026,2,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_monasca-ui,Core,4.166666666666666,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,3.125,1,1
+openstack/charm-nova-compute-proxy,openstack/auto-scaling-sig,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/auto-scaling-sig,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/os-loganalyze,Core,2.5,1.5873015873015872,1,2
+openstack/charm-nova-compute-proxy,openstack/os-loganalyze,Non core,0.0,1.5873015873015872,1,2
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-pika,Core,6.25,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-pika,Non core,0.0,4.166666666666666,1,1
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-zmq,Core,10.0,3.8461538461538463,2,2
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-zmq,Non core,0.0,3.8461538461538463,2,2
+openstack/charm-nova-compute-proxy,openstack/networking-l2gw,Core,2.666666666666667,0.6172839506172839,5,3
+openstack/charm-nova-compute-proxy,openstack/networking-l2gw,Non core,4.0,1.2345679012345678,5,3
+openstack/charm-nova-compute-proxy,openstack/networking-l2gw-tempest-plugin,Core,4.3478260869565215,2.7777777777777777,1,1
+openstack/charm-nova-compute-proxy,openstack/networking-l2gw-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/charm-interface-ceph-mds,Core,5.88235294117647,0.0,3,6
+openstack/charm-nova-compute-proxy,openstack/charm-interface-ceph-mds,Non core,11.76470588235294,42.857142857142854,3,6
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-ui-router,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-ui-router,Non core,0.0,5.0,0,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-vis,Core,6.666666666666667,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-vis,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/cookbook-openstack-database,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/cookbook-openstack-database,Non core,0.0,2.7777777777777777,0,1
+openstack/charm-nova-compute-proxy,openstack/cookbook-openstack-data-processing,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/cookbook-openstack-data-processing,Non core,0.0,3.3333333333333335,0,1
+openstack/charm-nova-compute-proxy,openstack/trove-integration,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/trove-integration,Non core,0.0,0.8771929824561403,0,1
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-sensu,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/python-ceilometerclient,Core,0.7936507936507936,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/python-ceilometerclient,Non core,0.0,0.5076142131979695,1,1
+openstack/charm-nova-compute-proxy,openstack/keystoneauth-saml2,Core,4.166666666666666,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/keystoneauth-saml2,Non core,0.0,2.1739130434782608,1,1
+openstack/charm-nova-compute-proxy,openstack/murano-deployment,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/murano-deployment,Non core,0.0,2.0408163265306123,0,1
+openstack/charm-nova-compute-proxy,openstack/python-keystoneclient-kerberos,Core,4.166666666666666,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/python-keystoneclient-kerberos,Non core,0.0,2.272727272727273,1,1
+openstack/charm-nova-compute-proxy,openstack/python-wsmanclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/python-wsmanclient,Non core,0.0,4.761904761904762,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-upgrade,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-upgrade,Non core,0.0,2.564102564102564,0,1
+openstack/charm-nova-compute-proxy,openstack/cookbook-openstack-object-storage,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/cookbook-openstack-object-storage,Non core,0.0,1.8181818181818181,0,1
+openstack/charm-nova-compute-proxy,openstack/fairy-slipper,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fairy-slipper,Non core,0.0,3.4482758620689653,0,1
+openstack/charm-nova-compute-proxy,openstack/django-openstack-auth-kerberos,Core,5.88235294117647,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/django-openstack-auth-kerberos,Non core,0.0,3.4482758620689653,1,1
+openstack/charm-nova-compute-proxy,openstack/horizon-cisco-ui,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/horizon-cisco-ui,Non core,0.0,3.8461538461538463,0,1
+openstack/charm-nova-compute-proxy,openstack/zuul-packaging,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/zuul-packaging,Non core,0.0,4.3478260869565215,0,1
+openstack/charm-nova-compute-proxy,openstack/networking-generic-switch-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/tripleo-incubator,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/tripleo-incubator,Non core,0.0,0.5714285714285714,0,1
+openstack/charm-nova-compute-proxy,openstack/ironic-webclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/ironic-webclient,Non core,0.0,2.3255813953488373,0,1
+openstack/charm-nova-compute-proxy,openstack/puppet-crane,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/puppet-crane,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/release-tools,Core,4.545454545454546,1.1904761904761905,2,2
+openstack/charm-nova-compute-proxy,openstack/release-tools,Non core,0.0,1.1904761904761905,2,2
+openstack/charm-nova-compute-proxy,openstack/gnocchi,Core,1.2658227848101267,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/gnocchi,Non core,1.2658227848101267,0.7042253521126761,2,1
+openstack/charm-nova-compute-proxy,openstack/networking-ofagent,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/networking-ofagent,Non core,0.0,2.631578947368421,0,1
+openstack/charm-nova-compute-proxy,openstack/python-neutron-pd-driver,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/python-neutron-pd-driver,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/charm-ceph,Core,0.0,0.0,8,10
+openstack/charm-nova-compute-proxy,openstack/charm-ceph,Non core,33.33333333333333,43.47826086956522,8,10
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_freezer,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-pip_lock_down,Core,4.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-pip_lock_down,Non core,0.0,3.571428571428571,1,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-security,Core,2.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-security,Non core,0.0,1.2195121951219512,1,1
+openstack/charm-nova-compute-proxy,openstack/oslosphinx,Core,1.7857142857142856,0.0,3,1
+openstack/charm-nova-compute-proxy,openstack/oslosphinx,Non core,3.571428571428571,1.2195121951219512,3,1
+openstack/charm-nova-compute-proxy,openstack/python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/python-gnocchiclient,Non core,0.0,2.2222222222222223,0,1
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-cinder,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-glance,Core,6.666666666666667,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-keystone,Core,6.666666666666667,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-mariadb,Core,6.25,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-rabbitmq,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-tripleo,Core,6.666666666666667,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-ui,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-aodh,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-barbican,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-ceilometer,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-cinder,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-cookiecutter,Core,4.545454545454546,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/tripleo-ui,Core,2.1739130434782608,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/tripleo-ui,Non core,0.0,1.2195121951219512,1,1
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-ovn,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-opendaylight,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-octavia,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-nova,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-nova,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/os-cloud-config,Core,1.5873015873015872,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/os-cloud-config,Non core,0.0,0.9433962264150944,1,1
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-zaqar,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-tempest,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-sahara,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-swift,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-tacker,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-rabbitmq,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-qdrouterd,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-panko,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-heat,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-haproxy,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-gnocchi,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-glance,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-glance,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-designate,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-neutron,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-mistral,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-memcached,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-memcached,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-manila,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-manila,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-ironic,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-keepalived,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-horizon,Core,5.555555555555555,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/pylockfile,Core,5.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/pylockfile,Non core,0.0,3.125,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/dragonflow,Core,1.5037593984962405,0.49261083743842365,4,2
+openstack/charm-nova-compute-proxy,openstack/dragonflow,Non core,1.5037593984962405,0.49261083743842365,4,2
+openstack/charm-nova-compute-proxy,openstack/openstack,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/openstack,Non core,0.0,3.3333333333333335,0,1
+openstack/charm-nova-compute-proxy,openstack/charm-interface-pacemaker-remote,Core,0.0,0.0,1,5
+openstack/charm-nova-compute-proxy,openstack/charm-interface-pacemaker-remote,Non core,6.25,29.411764705882355,1,5
+openstack/charm-nova-compute-proxy,openstack/networking-onos,Core,3.571428571428571,1.639344262295082,1,2
+openstack/charm-nova-compute-proxy,openstack/networking-onos,Non core,0.0,1.639344262295082,1,2
+openstack/charm-nova-compute-proxy,openstack/solum-infra-guestagent,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/solum-infra-guestagent,Non core,0.0,3.8461538461538463,0,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ux,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ux,Non core,0.0,3.225806451612903,0,1
+openstack/charm-nova-compute-proxy,openstack/mox3,Core,2.857142857142857,0.0,4,1
+openstack/charm-nova-compute-proxy,openstack/mox3,Non core,8.571428571428571,2.0,4,1
+openstack/charm-nova-compute-proxy,openstack/charm-layer-ceph,Core,0.0,0.0,1,2
+openstack/charm-nova-compute-proxy,openstack/charm-layer-ceph,Non core,7.142857142857142,15.384615384615385,1,2
+openstack/charm-nova-compute-proxy,openstack/charm-layer-ceph-base,Core,6.25,0.0,1,4
+openstack/charm-nova-compute-proxy,openstack/charm-layer-ceph-base,Non core,0.0,26.666666666666668,1,4
+openstack/charm-nova-compute-proxy,openstack/python-tricircleclient,Core,3.7037037037037033,0.0,4,1
+openstack/charm-nova-compute-proxy,openstack/python-tricircleclient,Non core,11.11111111111111,2.380952380952381,4,1
+openstack/charm-nova-compute-proxy,openstack/tricircle,Core,2.272727272727273,0.6711409395973155,5,3
+openstack/charm-nova-compute-proxy,openstack/tricircle,Non core,3.4090909090909087,1.342281879194631,5,3
+openstack/charm-nova-compute-proxy,openstack/swift-specs,Core,2.857142857142857,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/swift-specs,Non core,0.0,1.2987012987012987,1,1
+openstack/charm-nova-compute-proxy,openstack/congress,Core,1.25,0.4524886877828055,5,3
+openstack/charm-nova-compute-proxy,openstack/congress,Non core,1.875,0.904977375565611,5,3
+openstack/charm-nova-compute-proxy,openstack/congress-tempest-plugin,Core,3.225806451612903,2.631578947368421,1,1
+openstack/charm-nova-compute-proxy,openstack/congress-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/python-congressclient,Core,1.639344262295082,0.0,3,1
+openstack/charm-nova-compute-proxy,openstack/python-congressclient,Non core,3.278688524590164,1.5384615384615385,3,1
+openstack/charm-nova-compute-proxy,openstack/congress-specs,Core,2.2222222222222223,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/congress-specs,Non core,2.2222222222222223,1.6666666666666667,2,1
+openstack/charm-nova-compute-proxy,openstack/congress-dashboard,Core,2.7777777777777777,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/congress-dashboard,Non core,0.0,2.127659574468085,1,1
+openstack/charm-nova-compute-proxy,openstack/syntribos,Core,2.4390243902439024,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/syntribos,Non core,2.4390243902439024,2.083333333333333,2,1
+openstack/charm-nova-compute-proxy,openstack/syntribos-payloads,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/syntribos-payloads,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/syntribos-openstack-templates,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/syntribos-openstack-templates,Non core,0.0,4.761904761904762,0,1
+openstack/charm-nova-compute-proxy,openstack/i18n-specs,Core,7.142857142857142,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/i18n-specs,Non core,0.0,5.0,1,1
+openstack/charm-nova-compute-proxy,openstack/tempest-plugin-cookiecutter,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/tempest-plugin-cookiecutter,Non core,0.0,4.0,0,1
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-cookiecutter,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/devstack-plugin-cookiecutter,Non core,0.0,5.555555555555555,0,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-graphlib,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-graphlib,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-repo_build,Core,2.941176470588235,1.0526315789473684,3,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-repo_build,Non core,1.4705882352941175,1.0526315789473684,3,2
+openstack/charm-nova-compute-proxy,openstack/xstatic-bootstrap-datepicker,Core,5.263157894736842,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-bootstrap-datepicker,Non core,0.0,3.4482758620689653,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-hogan,Core,7.142857142857142,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-hogan,Non core,0.0,5.555555555555555,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-jquery.quicksearch,Core,7.142857142857142,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-jquery.quicksearch,Non core,0.0,5.555555555555555,1,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_molteniron,Core,6.0606060606060606,2.380952380952381,3,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_molteniron,Non core,3.0303030303030303,2.380952380952381,3,2
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-lrdragndrop,Core,5.555555555555555,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-lrdragndrop,Non core,0.0,3.8461538461538463,1,1
+openstack/charm-nova-compute-proxy,openstack/faafo,Core,4.545454545454546,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/faafo,Non core,0.0,3.3333333333333335,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-bootstrap,Core,4.761904761904762,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-bootstrap,Non core,0.0,3.225806451612903,1,1
+openstack/charm-nova-compute-proxy,openstack/networking-calico,Core,4.651162790697675,1.4492753623188406,3,2
+openstack/charm-nova-compute-proxy,openstack/networking-calico,Non core,2.3255813953488373,1.4492753623188406,3,2
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-gettext,Core,5.555555555555555,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-gettext,Non core,0.0,3.8461538461538463,1,1
+openstack/charm-nova-compute-proxy,openstack/shotgun,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/shotgun,Non core,0.0,1.1627906976744187,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-aioeventlet,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-devops,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-devops,Non core,0.0,0.6535947712418301,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-plugin-murano,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-plugin-murano,Non core,0.0,2.380952380952381,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-web,Core,0.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/fuel-web,Non core,0.45045045045045046,0.24875621890547264,1,1
+openstack/charm-nova-compute-proxy,openstack/fuel-plugins,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-plugins,Non core,0.0,0.8849557522123894,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-virtualbox,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-virtualbox,Non core,0.0,2.941176470588235,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-ostf,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-ostf,Non core,0.0,0.4464285714285714,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-qa,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-qa,Non core,0.0,0.38910505836575876,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-specs,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-specs,Non core,0.0,0.3225806451612903,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-nailgun-extension-cluster-upgrade,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,2.941176470588235,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-nailgun-agent,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-nailgun-agent,Non core,0.0,0.9174311926605505,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-mirror,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-mirror,Non core,0.0,0.8771929824561403,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-menu,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-menu,Non core,0.0,0.7936507936507936,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-main,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-main,Non core,0.0,0.38461538461538464,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-ui,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-ui,Non core,0.0,0.9900990099009901,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-library,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-library,Non core,0.0,0.22172949002217296,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-dev-tools,Core,4.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/fuel-dev-tools,Non core,0.0,2.941176470588235,1,1
+openstack/charm-nova-compute-proxy,openstack/fuel-stats,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-stats,Non core,0.0,1.6666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-nailgun-extension-converted-serializers,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-nailgun-extension-iac,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-nailgun-extension-iac,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-plugin-murano-tests,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-plugin-murano-tests,Non core,0.0,2.380952380952381,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-astute,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-astute,Non core,0.0,0.6060606060606061,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-docs,Core,0.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/fuel-docs,Non core,0.9345794392523363,0.3058103975535168,1,1
+openstack/charm-nova-compute-proxy,openstack/fuel-agent,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-agent,Non core,0.0,0.6211180124223602,0,1
+openstack/charm-nova-compute-proxy,openstack/fuel-octane,Core,2.3255813953488373,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/fuel-octane,Non core,0.0,1.4705882352941175,1,1
+openstack/charm-nova-compute-proxy,openstack/tuning-box,Core,5.88235294117647,2.631578947368421,1,2
+openstack/charm-nova-compute-proxy,openstack/tuning-box,Non core,0.0,2.631578947368421,1,2
+openstack/charm-nova-compute-proxy,openstack/python-fuelclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/python-fuelclient,Non core,0.0,0.628930817610063,0,1
+openstack/charm-nova-compute-proxy,openstack/neutron-interconnection,Core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/neutron-interconnection,Non core,7.142857142857142,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/openstack-chef-repo,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/openstack-chef-repo,Non core,0.0,1.4925373134328357,0,1
+openstack/charm-nova-compute-proxy,openstack/os-acc,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/os-acc,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_zaqar,Core,4.444444444444445,1.6666666666666667,4,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_zaqar,Non core,4.444444444444445,1.6666666666666667,4,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_watcher,Core,2.380952380952381,1.9230769230769231,2,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_watcher,Non core,2.380952380952381,1.9230769230769231,2,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_searchlight,Core,6.0606060606060606,2.3255813953488373,3,2
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_searchlight,Non core,3.0303030303030303,2.3255813953488373,3,2
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-vis,Core,7.6923076923076925,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-font-awesome,Core,5.555555555555555,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-font-awesome,Non core,0.0,3.8461538461538463,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-jasmine,Core,4.545454545454546,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-jasmine,Non core,0.0,3.571428571428571,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-notify,Core,7.6923076923076925,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-material,Core,6.666666666666667,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/tempest-tripleo-ui,Core,6.666666666666667,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/docs-specs,Core,1.7241379310344827,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/docs-specs,Non core,1.7241379310344827,0.45662100456621,2,1
+openstack/charm-nova-compute-proxy,openstack/release-schedule-generator,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/release-schedule-generator,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack-infra/opendev-website,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack-infra/opendev-website,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/castellan-ui,Core,12.5,3.125,2,2
+openstack/charm-nova-compute-proxy,openstack/castellan-ui,Non core,0.0,3.125,2,2
+openstack/charm-nova-compute-proxy,openstack-attic/compute-api,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/compute-api,Non core,0.0,2.0408163265306123,0,1
+openstack/charm-nova-compute-proxy,openstack/charm-neutron-api-odl,Core,12.5,7.142857142857142,7,11
+openstack/charm-nova-compute-proxy,openstack/charm-neutron-api-odl,Non core,31.25,71.42857142857143,7,11
+openstack/charm-nova-compute-proxy,openstack/charm-manila-glusterfs,Core,0.0,0.0,1,2
+openstack/charm-nova-compute-proxy,openstack/charm-manila-glusterfs,Non core,8.333333333333332,15.384615384615385,1,2
+openstack/charm-nova-compute-proxy,openstack/charm-murano,Core,7.6923076923076925,0.0,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-murano,Non core,7.6923076923076925,30.76923076923077,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-openvswitch-odl,Core,5.88235294117647,0.0,6,10
+openstack/charm-nova-compute-proxy,openstack/charm-openvswitch-odl,Non core,29.411764705882355,76.92307692307693,6,10
+openstack/charm-nova-compute-proxy,openstack/charm-interface-odl-controller-api,Core,7.142857142857142,0.0,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-interface-odl-controller-api,Non core,7.142857142857142,30.76923076923077,2,4
+openstack/charm-nova-compute-proxy,openstack/charm-glusterfs,Core,7.6923076923076925,0.0,2,7
+openstack/charm-nova-compute-proxy,openstack/charm-glusterfs,Non core,7.6923076923076925,46.666666666666664,2,7
+openstack/charm-nova-compute-proxy,openstack/charm-trove,Core,6.25,0.0,4,5
+openstack/charm-nova-compute-proxy,openstack/charm-trove,Non core,18.75,31.25,4,5
+openstack/charm-nova-compute-proxy,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-positional,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-requests-unixsocket,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-traceback2,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ryu,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-linecache2,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-gabbi,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-cotyledon,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-migrate,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/fuxi,Core,0.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/fuxi,Non core,2.564102564102564,1.694915254237288,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-filesaver,Core,7.6923076923076925,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-uuid,Core,7.6923076923076925,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/charm-nova-compute-proxy,openstack/bandit,Core,1.4285714285714286,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/bandit,Non core,1.4285714285714286,1.2048192771084338,2,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-smart-table,Core,6.666666666666667,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-angular-smart-table,Non core,0.0,5.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-bootswatch,Core,6.25,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-bootswatch,Non core,0.0,3.8461538461538463,1,1
+openstack/charm-nova-compute-proxy,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-msgpack-python,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-d3,Core,5.88235294117647,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/xstatic-d3,Non core,0.0,3.8461538461538463,1,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pymemcache,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-novnc,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/instack,Core,6.25,2.083333333333333,3,2
+openstack/charm-nova-compute-proxy,openstack/instack,Non core,3.125,2.083333333333333,3,2
+openstack/charm-nova-compute-proxy,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pysaml2,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-trollius,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-autobahn,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pyldap,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/astara,Core,2.0408163265306123,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/astara,Non core,0.0,1.6129032258064515,1,1
+openstack/charm-nova-compute-proxy,openstack/astara-appliance,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/astara-appliance,Non core,0.0,2.7027027027027026,0,1
+openstack/charm-nova-compute-proxy,openstack/astara-horizon,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/astara-horizon,Non core,0.0,3.3333333333333335,0,1
+openstack/charm-nova-compute-proxy,openstack/astara-neutron,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/astara-neutron,Non core,0.0,3.225806451612903,0,1
+openstack/charm-nova-compute-proxy,openstack/anchor,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/anchor,Non core,0.0,1.7857142857142856,0,1
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/fuxi-golang,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/fuxi-golang,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/fuxi-kubernetes,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/fuxi-kubernetes,Non core,0.0,4.545454545454546,0,1
+openstack/charm-nova-compute-proxy,openstack-infra/puppet-odsreg,Core,0.0,3.8461538461538463,0,2
+openstack/charm-nova-compute-proxy,openstack-infra/puppet-odsreg,Non core,0.0,3.8461538461538463,0,2
+openstack/charm-nova-compute-proxy,openstack-infra/puppet-docker_registry,Core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/releasestatus,Core,0.0,5.0,0,2
+openstack/charm-nova-compute-proxy,openstack/releasestatus,Non core,0.0,5.0,0,2
+openstack/charm-nova-compute-proxy,openstack-infra/vinz-webclient,Core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/activity-board,Core,0.0,1.6666666666666667,0,2
+openstack/charm-nova-compute-proxy,openstack/activity-board,Non core,0.0,1.6666666666666667,0,2
+openstack/charm-nova-compute-proxy,openstack-infra/beaker-localhost,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack-infra/beaker-nodepool,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/rst2bash,Core,6.666666666666667,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/rst2bash,Non core,0.0,4.3478260869565215,1,1
+openstack/charm-nova-compute-proxy,openstack/kolla-kubernetes,Core,1.3157894736842104,0.0,2,1
+openstack/charm-nova-compute-proxy,openstack/kolla-kubernetes,Non core,1.3157894736842104,0.7518796992481203,2,1
+openstack/charm-nova-compute-proxy,openstack/cue-dashboard,Core,4.545454545454546,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/cue-dashboard,Non core,0.0,4.166666666666666,1,1
+openstack/charm-nova-compute-proxy,openstack/python-cueclient,Core,4.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/python-cueclient,Non core,0.0,4.166666666666666,1,1
+openstack/charm-nova-compute-proxy,openstack/cue,Core,2.3255813953488373,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/cue,Non core,0.0,2.083333333333333,1,1
+openstack/charm-nova-compute-proxy,openstack/app-catalog,Core,1.36986301369863,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/app-catalog,Non core,0.0,1.282051282051282,1,1
+openstack/charm-nova-compute-proxy,openstack-attic/identity-api,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/identity-api,Non core,0.0,1.0416666666666665,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-fixtures,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/python-magnetodbclient,Non core,0.0,4.3478260869565215,0,1
+openstack/charm-nova-compute-proxy,openstack/app-catalog-ui,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/app-catalog-ui,Non core,0.0,3.3333333333333335,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-kubernetes,Non core,0.0,5.0,0,1
+openstack/charm-nova-compute-proxy,openstack/app-catalog-common,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/app-catalog-common,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/python-appcatalogclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/python-appcatalogclient,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-nova,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-kazoo,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-congressclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-congress,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-net-config,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ironic,Non core,0.0,5.555555555555555,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-swauth,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-api-ref,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-designate,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-swift,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-manila-ui,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-barbican,Non core,0.0,5.555555555555555,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-cinder,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-magnum,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-trove,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-openstack-pkg-tools,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-openstack-pkg-tools,Non core,0.0,4.3478260869565215,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-swiftclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-alembic,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-cinderclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-nec,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-neutron-taas,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-mlnx,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-openstack-meta-packages,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-odl,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-nodepool,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-cisco,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-midonet,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-arista,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-hyperv,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-rtslib-fb,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-murano,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-semantic-version,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ldappool,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-zaqar-ui,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-zaqar,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-watcher,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-testr,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-win,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pycadf,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pyghmi,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-reno,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-refresh-config,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-vif,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pyeclib,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-quantumclient,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-requestsexceptions,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pbr,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-requests-mock,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-saharaclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-scciclient,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-seamicroclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-auto-backports,Non core,0.0,5.555555555555555,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-senlinclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-taskflow,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-testtools,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-tooz,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-shotgun,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-tackerclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-tosca-parser,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-troveclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-tuskarclient,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-watcherclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-wsme,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-bootswatch,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-angular-mock,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-d3,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-hogan,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-font-awesome,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jasmine,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-magic-search,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-mdi,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-objectpath,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-qunit,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-rickshaw,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-spin,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-tv4,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-yaql,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-zaqarclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-rally,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-sahara,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-sahara-dashboard,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-senlin,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-senlin-dashboard,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-stevedore,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-swift-bench,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-swift-plugin-s3,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-trove-dashboard,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-tempest,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-osprofiler,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.vmware,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.utils,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.rootwrap,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.service,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.privsep,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.versionedobjects,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslotest,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.serialization,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.reports,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.policy,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.middleware,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.messaging,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.log,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-aodhclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-automaton,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-barbicanclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-bashate,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-castellan,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ceilometerclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ceilometermiddleware,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-cliff,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-cursive,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-debtcollector,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-designateclient,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-dib-utils,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-diskimage-builder,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-doc8,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-openstack-auth,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-fuelclient,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-dogpile.cache,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-futurist,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-glanceclient,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-glance-store,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-hacking,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-heatclient,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ironicclient,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ironic-inspector-client,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ironic-lib,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-k8sclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-keystoneauth1,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-keystoneclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-keystonemiddleware,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-magnumclient,Non core,0.0,5.555555555555555,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-manilaclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-microversion-parse,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-mistralclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-monascaclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-mox3,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-muranoclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-neutronclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-neutron-lib,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-novaclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-openstackclient,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-openstackdocstheme,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-openstacksdk,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-apply-config,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-brick,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-osc-lib,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-client-config,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-collect-config,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.cache,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.db,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.concurrency,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.config,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.i18n,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oslo.context,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-openstack-nose,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-openstack-doc-tools,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-openstack-trove,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-oslosphinx,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-aodh,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-bandit,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ceilometer,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ceilometermiddleware,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-designate-dashboard,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-git-review,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-glance,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-glare,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-heat,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-heat-cfntools,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-horizon,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ironic-inspector,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-ironic-ui,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-keystone,Non core,0.0,5.555555555555555,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-liberasurecode,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-manila,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-mistral,Core,0.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/deb-mistral,Non core,5.555555555555555,5.263157894736842,1,1
+openstack/charm-nova-compute-proxy,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-murano-agent,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-murano-dashboard,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-l2gw,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-networking-ovn,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-neutron,Non core,0.0,5.555555555555555,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-neutron-fwaas,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-neutron-vpnaas,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-neutron-lbaas,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/installguide-cookiecutter,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/installguide-cookiecutter,Non core,0.0,3.7037037037037033,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-gnocchi,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-eventlet,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pymysql,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-opencontrail,Non core,0.0,4.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-neutron,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-neutron,Non core,0.0,3.571428571428571,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-swift,Non core,0.0,5.555555555555555,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-nova,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-nova,Non core,0.0,3.571428571428571,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-keystone,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-keystone,Non core,0.0,3.8461538461538463,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-horizon,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-horizon,Non core,0.0,4.3478260869565215,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-heat,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-heat,Non core,0.0,4.166666666666666,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-glance,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-glance,Non core,0.0,3.8461538461538463,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-cinder,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-cinder,Non core,0.0,4.3478260869565215,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-ceilometer,Non core,0.0,4.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pygit2,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-libisal,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xvfbwrapper,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-testresources,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-compressor,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-sqlalchemy-utils,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pykmip,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-coffin,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-txaio,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-hplefthandclient,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-overextends,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pytimeparse,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-nose-timer,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-retrying,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-discover-runner,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-lesscpy,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-happybase,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-extras,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-functools32,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pydot-ng,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-jsonschema,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-kafka,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-rcssmin,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-nose-parameterized,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pika-pool,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-rfc3986,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-httpretty,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pint,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-pyscss,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-falcon,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-subunit,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-formtools,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-nose-exclude,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pydotplus,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pager,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-proliantutils,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-gnocchiclient,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-babel,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-requests-kerberos,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-colander,Non core,0.0,6.25,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-dcos,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-bootstrap-form,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-term.js,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-toml,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-semver,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-websocket-client,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-fasteners,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-jingo,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pecan,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-frozendict,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/charm-nova-compute-proxy,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-wrapt,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-funcsigs,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-crank,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pyvmomi,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-wsgi-intercept,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-os-cloud-config,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-weakrefmethod,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-steadymark,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-warlock,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-couleur,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-json-patch,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-jsonrpclib,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-multi-key-dict,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-memcache,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pulp,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-fonts-roboto-fontface,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-websockify,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-daemonize,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-pyngus,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-editor,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-ddt,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-monotonic,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-rjsmin,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-jsonpath-rw,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-django-appconf,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-oauth2client,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-json-pointer,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/akanda,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/akanda,Non core,0.0,4.166666666666666,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-smart-table,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-requestbuilder,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-nosehtmloutput,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-csscompressor,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-croniter,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-python-concurrent.futures,Non core,0.0,6.666666666666667,0,1
+openstack/charm-nova-compute-proxy,openstack/openstack-salt,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/openstack-salt,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/deb-spice-html5,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-midonet,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/salt-formula-midonet,Non core,0.0,7.142857142857142,0,1
+openstack/charm-nova-compute-proxy,openstack/magnetodb-specs,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/magnetodb-specs,Non core,0.0,3.225806451612903,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/akanda-appliance-builder,Non core,0.0,5.263157894736842,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/oslo.version,Core,5.0,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack-attic/oslo.version,Non core,0.0,3.125,1,1
+openstack/charm-nova-compute-proxy,openstack-attic/image-api,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/image-api,Non core,0.0,3.125,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/object-api,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/object-api,Non core,0.0,2.380952380952381,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/volume-api,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/volume-api,Non core,0.0,2.941176470588235,0,1
+openstack/charm-nova-compute-proxy,openstack/magnetodb,Core,2.941176470588235,0.0,1,1
+openstack/charm-nova-compute-proxy,openstack/magnetodb,Non core,0.0,2.0,1,1
+openstack/charm-nova-compute-proxy,openstack/openstack-nose,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack/openstack-nose,Non core,0.0,4.761904761904762,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/netconn-api,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/netconn-api,Non core,0.0,1.5873015873015872,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/python-melangeclient,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/python-melangeclient,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/melange,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/melange,Non core,0.0,3.7037037037037033,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/openstack-qa,Non core,0.0,5.88235294117647,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/database-api,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/database-api,Non core,0.0,3.3333333333333335,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/charm-nova-compute-proxy,openstack-attic/openstack-security-notes,Non core,0.0,1.2048192771084338,0,1

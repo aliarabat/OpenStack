@@ -1,0 +1,835 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/fuel-specs,openstack/fuel-nailgun-extension-cluster-upgrade,Core,2.7777777777777777,4.013377926421405,6,21
+openstack/fuel-specs,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,2.7777777777777777,3.0100334448160537,6,21
+openstack/fuel-specs,openstack/fuel-nailgun-agent,Core,8.47457627118644,9.46372239747634,23,78
+openstack/fuel-specs,openstack/fuel-nailgun-agent,Non core,11.016949152542372,15.141955835962145,23,78
+openstack/fuel-specs,openstack/fuel-mirror,Core,8.403361344537815,7.975460122699387,17,74
+openstack/fuel-specs,openstack/fuel-mirror,Non core,5.88235294117647,14.723926380368098,17,74
+openstack/fuel-specs,openstack/fuel-menu,Core,7.199999999999999,9.480122324159021,13,85
+openstack/fuel-specs,openstack/fuel-menu,Non core,3.2,16.51376146788991,13,85
+openstack/fuel-specs,openstack/fuel-main,Core,16.39344262295082,12.9973474801061,59,169
+openstack/fuel-specs,openstack/fuel-main,Non core,15.846994535519126,31.830238726790448,59,169
+openstack/fuel-specs,openstack/fuel-ui,Core,8.870967741935484,6.707317073170732,21,59
+openstack/fuel-specs,openstack/fuel-ui,Non core,8.064516129032258,11.28048780487805,21,59
+openstack/fuel-specs,openstack/fuel-library,Core,14.732142857142858,12.22879684418146,79,230
+openstack/fuel-specs,openstack/fuel-library,Non core,20.535714285714285,33.13609467455622,79,230
+openstack/fuel-specs,openstack/fuel-dev-tools,Core,3.669724770642202,0.9868421052631579,8,16
+openstack/fuel-specs,openstack/fuel-dev-tools,Non core,3.669724770642202,4.276315789473684,8,16
+openstack/fuel-specs,openstack/fuel-stats,Core,7.079646017699115,4.248366013071895,11,40
+openstack/fuel-specs,openstack/fuel-stats,Non core,2.6548672566371683,8.823529411764707,11,40
+openstack/fuel-specs,openstack/fuel-nailgun-extension-converted-serializers,Core,1.9230769230769231,1.006711409395973,2,5
+openstack/fuel-specs,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.6711409395973155,2,5
+openstack/fuel-specs,openstack/fuel-nailgun-extension-iac,Core,1.9230769230769231,1.0033444816053512,4,6
+openstack/fuel-specs,openstack/fuel-nailgun-extension-iac,Non core,1.9230769230769231,1.0033444816053512,4,6
+openstack/fuel-specs,openstack/fuel-plugin-murano-tests,Core,1.7857142857142856,3.5830618892508146,3,21
+openstack/fuel-specs,openstack/fuel-plugin-murano-tests,Non core,0.8928571428571428,3.257328990228013,3,21
+openstack/fuel-specs,openstack/fuel-astute,Core,14.50381679389313,11.011904761904761,38,115
+openstack/fuel-specs,openstack/fuel-astute,Non core,14.50381679389313,23.214285714285715,38,115
+openstack/fuel-specs,openstack/fuel-docs,Core,9.25925925925926,14.390243902439023,37,203
+openstack/fuel-specs,openstack/fuel-docs,Non core,13.580246913580247,35.12195121951219,37,203
+openstack/fuel-specs,openstack/fuel-agent,Core,10.48951048951049,10.416666666666668,30,111
+openstack/fuel-specs,openstack/fuel-agent,Non core,10.48951048951049,22.61904761904762,30,111
+openstack/fuel-specs,openstack/fuel-octane,Core,4.878048780487805,5.7324840764331215,12,40
+openstack/fuel-specs,openstack/fuel-octane,Non core,4.878048780487805,7.006369426751593,12,40
+openstack/fuel-specs,openstack/tuning-box,Core,2.8301886792452833,2.622950819672131,3,20
+openstack/fuel-specs,openstack/tuning-box,Non core,0.0,3.934426229508197,3,20
+openstack/fuel-specs,openstack/python-fuelclient,Core,14.5985401459854,11.011904761904761,36,109
+openstack/fuel-specs,openstack/python-fuelclient,Non core,11.678832116788321,21.428571428571427,36,109
+openstack/fuel-specs,openstack/neutron-interconnection,Core,0.0,0.3236245954692557,0,1
+openstack/fuel-specs,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/openstack-chef-repo,Core,1.3986013986013985,0.28735632183908044,2,5
+openstack/fuel-specs,openstack/openstack-chef-repo,Non core,0.0,1.1494252873563218,2,5
+openstack/fuel-specs,openstack/os-acc,Core,0.0,0.31746031746031744,0,2
+openstack/fuel-specs,openstack/os-acc,Non core,0.0,0.31746031746031744,0,2
+openstack/fuel-specs,openstack/openstack-ansible-os_zaqar,Core,1.4492753623188406,0.5813953488372093,2,3
+openstack/fuel-specs,openstack/openstack-ansible-os_zaqar,Non core,0.0,0.29069767441860467,2,3
+openstack/fuel-specs,openstack/openstack-ansible-os_watcher,Core,1.5037593984962405,0.5970149253731344,2,4
+openstack/fuel-specs,openstack/openstack-ansible-os_watcher,Non core,0.0,0.5970149253731344,2,4
+openstack/fuel-specs,openstack/openstack-ansible-os_searchlight,Core,0.7936507936507936,0.6116207951070336,1,3
+openstack/fuel-specs,openstack/openstack-ansible-os_searchlight,Non core,0.0,0.3058103975535168,1,3
+openstack/fuel-specs,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/xstatic-font-awesome,Core,0.9174311926605505,0.0,1,2
+openstack/fuel-specs,openstack/xstatic-font-awesome,Non core,0.0,0.6451612903225806,1,2
+openstack/fuel-specs,openstack/xstatic-jasmine,Core,0.8849557522123894,0.0,1,2
+openstack/fuel-specs,openstack/xstatic-jasmine,Non core,0.0,0.641025641025641,1,2
+openstack/fuel-specs,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/xstatic-angular-material,Core,0.0,0.33112582781456956,0,1
+openstack/fuel-specs,openstack/xstatic-angular-material,Non core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/tempest-tripleo-ui,Core,0.0,0.6472491909385114,0,2
+openstack/fuel-specs,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/docs-specs,Core,2.054794520547945,1.4373716632443532,5,18
+openstack/fuel-specs,openstack/docs-specs,Non core,1.36986301369863,2.2587268993839835,5,18
+openstack/fuel-specs,openstack/release-schedule-generator,Core,0.9433962264150944,0.6622516556291391,1,3
+openstack/fuel-specs,openstack/release-schedule-generator,Non core,0.0,0.33112582781456956,1,3
+openstack/fuel-specs,openstack-infra/opendev-website,Core,0.9615384615384616,0.6600660066006601,1,2
+openstack/fuel-specs,openstack-infra/opendev-website,Non core,0.0,0.0,1,2
+openstack/fuel-specs,openstack/castellan-ui,Core,0.9259259259259258,0.6329113924050633,1,3
+openstack/fuel-specs,openstack/castellan-ui,Non core,0.0,0.31645569620253167,1,3
+openstack/fuel-specs,openstack-attic/compute-api,Core,1.6,0.906344410876133,2,4
+openstack/fuel-specs,openstack-attic/compute-api,Non core,0.0,0.3021148036253776,2,4
+openstack/fuel-specs,openstack/charm-neutron-api-odl,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/charm-neutron-api-odl,Non core,0.0,0.3236245954692557,0,1
+openstack/fuel-specs,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/charm-murano,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/charm-murano,Non core,0.0,0.33222591362126247,0,1
+openstack/fuel-specs,openstack/charm-openvswitch-odl,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/charm-openvswitch-odl,Non core,0.0,0.32573289902280134,0,1
+openstack/fuel-specs,openstack/charm-interface-odl-controller-api,Core,0.9433962264150944,0.0,1,1
+openstack/fuel-specs,openstack/charm-interface-odl-controller-api,Non core,0.0,0.33222591362126247,1,1
+openstack/fuel-specs,openstack/charm-glusterfs,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/charm-glusterfs,Non core,0.0,0.32679738562091504,0,1
+openstack/fuel-specs,openstack/charm-trove,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/charm-trove,Non core,0.0,0.32786885245901637,0,1
+openstack/fuel-specs,openstack/deb-python-positional,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-positional,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-requests-unixsocket,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-traceback2,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-traceback2,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-ryu,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-ryu,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-linecache2,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-linecache2,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-gabbi,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-gabbi,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-cotyledon,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-cotyledon,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-migrate,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-migrate,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/fuxi,Core,2.34375,0.8823529411764706,3,5
+openstack/fuel-specs,openstack/fuxi,Non core,0.0,0.5882352941176471,3,5
+openstack/fuel-specs,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/bandit,Core,1.2422360248447204,0.8264462809917356,2,6
+openstack/fuel-specs,openstack/bandit,Non core,0.0,0.8264462809917356,2,6
+openstack/fuel-specs,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/xstatic-angular-smart-table,Non core,0.0,0.32786885245901637,0,1
+openstack/fuel-specs,openstack/xstatic-bootswatch,Core,0.9345794392523363,0.0,1,2
+openstack/fuel-specs,openstack/xstatic-bootswatch,Non core,0.0,0.6451612903225806,1,2
+openstack/fuel-specs,openstack/deb-msgpack-python,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-msgpack-python,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/xstatic-d3,Core,0.9259259259259258,0.0,1,3
+openstack/fuel-specs,openstack/xstatic-d3,Non core,0.0,0.9708737864077669,1,3
+openstack/fuel-specs,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/deb-python-pymemcache,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pymemcache,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-novnc,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-novnc,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/instack,Core,1.6129032258064515,0.9090909090909091,2,5
+openstack/fuel-specs,openstack/instack,Non core,0.0,0.6060606060606061,2,5
+openstack/fuel-specs,openstack/deb-python-pysaml2,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pysaml2,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-trollius,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-trollius,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-autobahn,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-autobahn,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-pyldap,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pyldap,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/astara,Core,1.4388489208633095,0.5847953216374269,2,6
+openstack/fuel-specs,openstack/astara,Non core,0.0,1.1695906432748537,2,6
+openstack/fuel-specs,openstack/astara-appliance,Core,1.7241379310344827,0.0,2,2
+openstack/fuel-specs,openstack/astara-appliance,Non core,0.0,0.6230529595015576,2,2
+openstack/fuel-specs,openstack/astara-horizon,Core,1.834862385321101,0.0,2,2
+openstack/fuel-specs,openstack/astara-horizon,Non core,0.0,0.6369426751592357,2,2
+openstack/fuel-specs,openstack/astara-neutron,Core,1.7699115044247788,0.0,2,2
+openstack/fuel-specs,openstack/astara-neutron,Non core,0.0,0.6349206349206349,2,2
+openstack/fuel-specs,openstack/anchor,Core,0.0,0.2967359050445104,0,5
+openstack/fuel-specs,openstack/anchor,Non core,0.0,1.1869436201780417,0,5
+openstack/fuel-specs,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/fuxi-golang,Core,0.9708737864077669,0.33112582781456956,1,1
+openstack/fuel-specs,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/fuel-specs,openstack/fuxi-kubernetes,Core,0.9615384615384616,0.6557377049180327,1,3
+openstack/fuel-specs,openstack/fuxi-kubernetes,Non core,0.0,0.32786885245901637,1,3
+openstack/fuel-specs,openstack-infra/puppet-odsreg,Core,0.9259259259259258,0.6472491909385114,1,4
+openstack/fuel-specs,openstack-infra/puppet-odsreg,Non core,0.0,0.6472491909385114,1,4
+openstack/fuel-specs,openstack-infra/puppet-docker_registry,Core,0.9708737864077669,0.0,1,0
+openstack/fuel-specs,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/fuel-specs,openstack/releasestatus,Core,0.9523809523809524,0.0,1,2
+openstack/fuel-specs,openstack/releasestatus,Non core,0.0,0.6557377049180327,1,2
+openstack/fuel-specs,openstack-infra/vinz-webclient,Core,0.9708737864077669,0.0,1,0
+openstack/fuel-specs,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/fuel-specs,openstack/activity-board,Core,0.847457627118644,0.5865102639296188,1,6
+openstack/fuel-specs,openstack/activity-board,Non core,0.0,1.1730205278592376,1,6
+openstack/fuel-specs,openstack-infra/beaker-localhost,Core,0.9708737864077669,0.33333333333333337,1,1
+openstack/fuel-specs,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/fuel-specs,openstack-infra/beaker-nodepool,Core,0.9708737864077669,0.33333333333333337,1,1
+openstack/fuel-specs,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/fuel-specs,openstack/rst2bash,Core,0.9433962264150944,0.32573289902280134,1,2
+openstack/fuel-specs,openstack/rst2bash,Non core,0.0,0.32573289902280134,1,2
+openstack/fuel-specs,openstack/kolla-kubernetes,Core,0.5952380952380952,1.4742014742014742,1,12
+openstack/fuel-specs,openstack/kolla-kubernetes,Non core,0.0,1.4742014742014742,1,12
+openstack/fuel-specs,openstack/cue-dashboard,Core,0.8849557522123894,0.32573289902280134,1,3
+openstack/fuel-specs,openstack/cue-dashboard,Non core,0.0,0.6514657980456027,1,3
+openstack/fuel-specs,openstack/python-cueclient,Core,0.8620689655172413,0.32573289902280134,1,3
+openstack/fuel-specs,openstack/python-cueclient,Non core,0.0,0.6514657980456027,1,3
+openstack/fuel-specs,openstack/cue,Core,1.5037593984962405,0.30303030303030304,2,4
+openstack/fuel-specs,openstack/cue,Non core,0.0,0.9090909090909091,2,4
+openstack/fuel-specs,openstack/app-catalog,Core,2.564102564102564,2.923976608187134,9,22
+openstack/fuel-specs,openstack/app-catalog,Non core,3.205128205128205,3.508771929824561,9,22
+openstack/fuel-specs,openstack-attic/identity-api,Core,1.3888888888888888,0.8021390374331552,2,8
+openstack/fuel-specs,openstack-attic/identity-api,Non core,0.0,1.3368983957219251,2,8
+openstack/fuel-specs,openstack/deb-python-fixtures,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-fixtures,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/python-magnetodbclient,Non core,0.0,0.3246753246753247,0,1
+openstack/fuel-specs,openstack/app-catalog-ui,Core,2.7522935779816518,2.6143790849673203,3,10
+openstack/fuel-specs,openstack/app-catalog-ui,Non core,0.0,0.6535947712418301,3,10
+openstack/fuel-specs,openstack/salt-formula-kubernetes,Core,0.9259259259259258,0.0,1,2
+openstack/fuel-specs,openstack/salt-formula-kubernetes,Non core,0.0,0.6578947368421052,1,2
+openstack/fuel-specs,openstack/app-catalog-common,Core,0.0,1.006711409395973,0,4
+openstack/fuel-specs,openstack/app-catalog-common,Non core,0.0,0.33557046979865773,0,4
+openstack/fuel-specs,openstack/python-appcatalogclient,Core,0.0,1.3333333333333335,0,5
+openstack/fuel-specs,openstack/python-appcatalogclient,Non core,0.0,0.33333333333333337,0,5
+openstack/fuel-specs,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/deb-nova,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-nova,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-kazoo,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-kazoo,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-congressclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-congressclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-congress,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-os-net-config,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-ironic,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-ironic,Non core,0.0,0.6622516556291391,0,2
+openstack/fuel-specs,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-swauth,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-os-api-ref,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-designate,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-designate,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-swift,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-swift,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-manila-ui,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-manila-ui,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-barbican,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-barbican,Non core,0.0,0.6622516556291391,0,2
+openstack/fuel-specs,openstack/deb-cinder,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-cinder,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-magnum,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-magnum,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-trove,Core,0.0,0.0,0,4
+openstack/fuel-specs,openstack/deb-trove,Non core,0.0,1.3289036544850499,0,4
+openstack/fuel-specs,openstack/deb-openstack-pkg-tools,Core,0.0,0.6600660066006601,0,6
+openstack/fuel-specs,openstack/deb-openstack-pkg-tools,Non core,0.0,1.3201320132013201,0,6
+openstack/fuel-specs,openstack/deb-python-swiftclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-swiftclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-alembic,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-alembic,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-cinderclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-cinderclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-networking-nec,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-neutron-taas,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-networking-mlnx,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-networking-mlnx,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-openstack-meta-packages,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-networking-odl,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-nodepool,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-networking-cisco,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-networking-midonet,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-networking-arista,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-networking-arista,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-networking-hyperv,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-rtslib-fb,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-murano,Core,0.0,0.0,0,4
+openstack/fuel-specs,openstack/deb-murano,Non core,0.0,1.3289036544850499,0,4
+openstack/fuel-specs,openstack/deb-python-semantic-version,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-semantic-version,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-ldappool,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-ldappool,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-zaqar-ui,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-zaqar-ui,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-zaqar,Core,0.0,0.0,0,4
+openstack/fuel-specs,openstack/deb-zaqar,Non core,0.0,1.3289036544850499,0,4
+openstack/fuel-specs,openstack/deb-watcher,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-watcher,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-os-testr,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-os-testr,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-os-win,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-os-win,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-pycadf,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pycadf,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-pyghmi,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pyghmi,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-reno,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-reno,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-os-refresh-config,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-os-vif,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-os-vif,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-pyeclib,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-quantumclient,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-requestsexceptions,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-pbr,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pbr,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-requests-mock,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-requests-mock,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-saharaclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-saharaclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-scciclient,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-seamicroclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-auto-backports,Core,0.0,0.0,0,3
+openstack/fuel-specs,openstack/deb-auto-backports,Non core,0.0,0.9966777408637874,0,3
+openstack/fuel-specs,openstack/deb-python-senlinclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-senlinclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-taskflow,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-taskflow,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-testtools,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-testtools,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-tooz,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-tooz,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-shotgun,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-shotgun,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-tackerclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-tackerclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-tosca-parser,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-troveclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-troveclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-tuskarclient,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-python-watcherclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-watcherclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-wsme,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-wsme,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-d3,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-hogan,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-mdi,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-qunit,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-spin,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-tv4,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-yaql,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-yaql,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-zaqarclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-rally,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-rally,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-sahara,Core,0.0,0.0,0,3
+openstack/fuel-specs,openstack/deb-sahara,Non core,0.0,1.0,0,3
+openstack/fuel-specs,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-sahara-dashboard,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-senlin,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-senlin,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-senlin-dashboard,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-stevedore,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-stevedore,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-swift-bench,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-swift-plugin-s3,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-trove-dashboard,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-trove-dashboard,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-tempest,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-tempest,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-osprofiler,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-osprofiler,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.vmware,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.utils,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.service,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.service,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.privsep,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslotest,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslotest,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.serialization,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.reports,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.policy,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.middleware,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.messaging,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.log,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.log,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-aodhclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-aodhclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-automaton,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-automaton,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-barbicanclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-bashate,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-python-castellan,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-castellan,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-ceilometerclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-cliff,Core,0.0,0.0,0,3
+openstack/fuel-specs,openstack/deb-python-cliff,Non core,0.0,1.0,0,3
+openstack/fuel-specs,openstack/deb-python-cursive,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-cursive,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-debtcollector,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-debtcollector,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-designateclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-designateclient,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-dib-utils,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-diskimage-builder,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-doc8,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-doc8,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-django-openstack-auth,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-fuelclient,Core,0.0,0.0,0,4
+openstack/fuel-specs,openstack/deb-python-fuelclient,Non core,0.0,1.3289036544850499,0,4
+openstack/fuel-specs,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-dogpile.cache,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-futurist,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-futurist,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-glanceclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-glanceclient,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-glance-store,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-glance-store,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-hacking,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-hacking,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-heatclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-heatclient,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-ironicclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-ironicclient,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-ironic-lib,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-k8sclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-k8sclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-keystoneauth1,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-keystoneclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-keystonemiddleware,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-magnumclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-magnumclient,Non core,0.0,0.6622516556291391,0,2
+openstack/fuel-specs,openstack/deb-python-manilaclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-manilaclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-microversion-parse,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-mistralclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-mistralclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-monascaclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-monascaclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-mox3,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-mox3,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-muranoclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-muranoclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-neutronclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-neutronclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-neutron-lib,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-novaclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-novaclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-openstackclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-openstackclient,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-openstackdocstheme,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-openstacksdk,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-os-apply-config,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-os-brick,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-os-brick,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-osc-lib,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-osc-lib,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-os-client-config,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-os-client-config,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-os-collect-config,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.cache,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.db,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.db,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.concurrency,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.config,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.config,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.i18n,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.context,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oslo.context,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-openstack-nose,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-openstack-doc-tools,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-openstack-trove,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-openstack-trove,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-oslosphinx,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-oslosphinx,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-aodh,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-aodh,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-bandit,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-bandit,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-ceilometer,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-ceilometer,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-ceilometermiddleware,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-designate-dashboard,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-designate-dashboard,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-git-review,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-glance,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-glance,Non core,0.0,0.6600660066006601,0,2
+openstack/fuel-specs,openstack/deb-glare,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-glare,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-heat,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-heat,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-heat-cfntools,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-heat-cfntools,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-horizon,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-horizon,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-ironic-inspector,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-ironic-inspector,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-ironic-ui,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-ironic-ui,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-keystone,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-keystone,Non core,0.0,0.6622516556291391,0,2
+openstack/fuel-specs,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-liberasurecode,Non core,0.0,0.33333333333333337,0,1
+openstack/fuel-specs,openstack/deb-manila,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-manila,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack/deb-mistral,Core,0.0,0.0,0,4
+openstack/fuel-specs,openstack/deb-mistral,Non core,0.0,1.3289036544850499,0,4
+openstack/fuel-specs,openstack/deb-murano-agent,Core,0.0,0.0,0,4
+openstack/fuel-specs,openstack/deb-murano-agent,Non core,0.0,1.3289036544850499,0,4
+openstack/fuel-specs,openstack/deb-murano-dashboard,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-murano-dashboard,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-networking-l2gw,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-networking-l2gw,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-networking-ovn,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-networking-ovn,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-neutron,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-neutron,Non core,0.0,0.6622516556291391,0,2
+openstack/fuel-specs,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-neutron-fwaas,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-neutron-vpnaas,Non core,0.0,0.6666666666666667,0,2
+openstack/fuel-specs,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,4
+openstack/fuel-specs,openstack/deb-neutron-lbaas,Non core,0.0,1.3289036544850499,0,4
+openstack/fuel-specs,openstack/installguide-cookiecutter,Core,1.7857142857142856,0.3225806451612903,2,3
+openstack/fuel-specs,openstack/installguide-cookiecutter,Non core,0.0,0.6451612903225806,2,3
+openstack/fuel-specs,openstack/deb-gnocchi,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-gnocchi,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-eventlet,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-eventlet,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-pymysql,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pymysql,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/salt-formula-opencontrail,Core,0.847457627118644,0.32786885245901637,2,6
+openstack/fuel-specs,openstack/salt-formula-opencontrail,Non core,0.847457627118644,1.639344262295082,2,6
+openstack/fuel-specs,openstack/salt-formula-neutron,Core,0.8547008547008548,0.6514657980456027,2,7
+openstack/fuel-specs,openstack/salt-formula-neutron,Non core,0.8547008547008548,1.6286644951140066,2,7
+openstack/fuel-specs,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/salt-formula-swift,Non core,0.0,0.33003300330033003,0,1
+openstack/fuel-specs,openstack/salt-formula-nova,Core,0.8130081300813009,0.32573289902280134,2,7
+openstack/fuel-specs,openstack/salt-formula-nova,Non core,0.8130081300813009,1.9543973941368076,2,7
+openstack/fuel-specs,openstack/salt-formula-keystone,Core,0.8333333333333334,0.32786885245901637,2,7
+openstack/fuel-specs,openstack/salt-formula-keystone,Non core,0.8333333333333334,1.9672131147540985,2,7
+openstack/fuel-specs,openstack/salt-formula-horizon,Core,0.8620689655172413,0.32786885245901637,1,4
+openstack/fuel-specs,openstack/salt-formula-horizon,Non core,0.0,0.9836065573770493,1,4
+openstack/fuel-specs,openstack/salt-formula-heat,Core,0.819672131147541,0.32679738562091504,2,4
+openstack/fuel-specs,openstack/salt-formula-heat,Non core,0.819672131147541,0.9803921568627451,2,4
+openstack/fuel-specs,openstack/salt-formula-glance,Core,0.8264462809917356,0.3289473684210526,2,8
+openstack/fuel-specs,openstack/salt-formula-glance,Non core,0.8264462809917356,2.302631578947368,2,8
+openstack/fuel-specs,openstack/salt-formula-cinder,Core,0.8333333333333334,0.3289473684210526,2,5
+openstack/fuel-specs,openstack/salt-formula-cinder,Non core,0.8333333333333334,1.3157894736842104,2,5
+openstack/fuel-specs,openstack/salt-formula-ceilometer,Core,0.8928571428571428,0.32573289902280134,2,4
+openstack/fuel-specs,openstack/salt-formula-ceilometer,Non core,0.8928571428571428,0.9771986970684038,2,4
+openstack/fuel-specs,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-pygit2,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-libisal,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xvfbwrapper,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-testresources,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-testresources,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-django-compressor,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-django-compressor,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-pykmip,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pykmip,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-coffin,Core,0.0,0.0,0,3
+openstack/fuel-specs,openstack/deb-python-coffin,Non core,0.0,1.0033444816053512,0,3
+openstack/fuel-specs,openstack/deb-python-txaio,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-txaio,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-hplefthandclient,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-django-overextends,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pytimeparse,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-nose-timer,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-nose-timer,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-retrying,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-retrying,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-django-discover-runner,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-lesscpy,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-happybase,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-extras,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-functools32,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-functools32,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-pydot-ng,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-jsonschema,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-jsonschema,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-kafka,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-kafka,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-rcssmin,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-nose-parameterized,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-pika-pool,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pika-pool,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-rfc3986,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-rfc3986,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-httpretty,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-pint,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-django-pyscss,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-falcon,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-falcon,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-subunit,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-subunit,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-django-formtools,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-nose-exclude,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-pydotplus,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pydotplus,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-pager,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-proliantutils,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-proliantutils,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-gnocchiclient,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-django-babel,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-django-babel,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-requests-kerberos,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-colander,Core,0.0,0.0,0,3
+openstack/fuel-specs,openstack/deb-python-colander,Non core,0.0,1.0033444816053512,0,3
+openstack/fuel-specs,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-dcos,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-term.js,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-toml,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-semver,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-semver,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-websocket-client,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-fasteners,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-fasteners,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-jingo,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-pecan,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pecan,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-frozendict,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/fuel-specs,openstack/deb-python-wrapt,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-wrapt,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-funcsigs,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-funcsigs,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-crank,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-crank,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-pyvmomi,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-wsgi-intercept,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-os-cloud-config,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-weakrefmethod,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-steadymark,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-warlock,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-warlock,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-couleur,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-couleur,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-json-patch,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-json-patch,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-jsonrpclib,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-multi-key-dict,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-memcache,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-memcache,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-pulp,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-websockify,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-websockify,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-daemonize,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-pyngus,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-pyngus,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-editor,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-editor,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-ddt,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-ddt,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-monotonic,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-monotonic,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-rjsmin,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-rjsmin,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-jsonpath-rw,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-django-appconf,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-django-appconf,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-oauth2client,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-oauth2client,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-json-pointer,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-json-pointer,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack-attic/akanda,Core,0.9345794392523363,0.0,1,2
+openstack/fuel-specs,openstack-attic/akanda,Non core,0.0,0.6493506493506493,1,2
+openstack/fuel-specs,openstack/deb-python-xstatic,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-requestbuilder,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-nosehtmloutput,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack/deb-python-csscompressor,Non core,0.0,0.33444816053511706,0,1
+openstack/fuel-specs,openstack/deb-python-croniter,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-croniter,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-python-concurrent.futures,Non core,0.0,0.6688963210702341,0,2
+openstack/fuel-specs,openstack/openstack-salt,Core,0.9345794392523363,0.0,1,2
+openstack/fuel-specs,openstack/openstack-salt,Non core,0.0,0.6600660066006601,1,2
+openstack/fuel-specs,openstack/deb-spice-html5,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack/deb-spice-html5,Non core,0.0,0.6711409395973155,0,2
+openstack/fuel-specs,openstack/salt-formula-midonet,Core,0.9708737864077669,0.0,1,1
+openstack/fuel-specs,openstack/salt-formula-midonet,Non core,0.0,0.33444816053511706,1,1
+openstack/fuel-specs,openstack/magnetodb-specs,Core,1.7699115044247788,0.0,2,3
+openstack/fuel-specs,openstack/magnetodb-specs,Non core,0.0,0.9554140127388535,2,3
+openstack/fuel-specs,openstack-attic/akanda-appliance-builder,Core,0.9345794392523363,0.0,1,1
+openstack/fuel-specs,openstack-attic/akanda-appliance-builder,Non core,0.0,0.3289473684210526,1,1
+openstack/fuel-specs,openstack-attic/oslo.version,Core,1.8181818181818181,0.9584664536741214,2,5
+openstack/fuel-specs,openstack-attic/oslo.version,Non core,0.0,0.6389776357827476,2,5
+openstack/fuel-specs,openstack-attic/image-api,Core,1.7857142857142856,0.6349206349206349,2,3
+openstack/fuel-specs,openstack-attic/image-api,Non core,0.0,0.31746031746031744,2,3
+openstack/fuel-specs,openstack-attic/object-api,Core,1.639344262295082,0.6153846153846154,2,3
+openstack/fuel-specs,openstack-attic/object-api,Non core,0.0,0.3076923076923077,2,3
+openstack/fuel-specs,openstack-attic/volume-api,Core,1.7241379310344827,0.6309148264984227,2,3
+openstack/fuel-specs,openstack-attic/volume-api,Non core,0.0,0.31545741324921134,2,3
+openstack/fuel-specs,openstack/magnetodb,Core,0.0,0.0,1,5
+openstack/fuel-specs,openstack/magnetodb,Non core,0.8,1.5105740181268883,1,5
+openstack/fuel-specs,openstack/openstack-nose,Core,0.0,0.6578947368421052,0,3
+openstack/fuel-specs,openstack/openstack-nose,Non core,0.0,0.3289473684210526,0,3
+openstack/fuel-specs,openstack-attic/netconn-api,Core,2.34375,0.872093023255814,3,5
+openstack/fuel-specs,openstack-attic/netconn-api,Non core,0.0,0.5813953488372093,3,5
+openstack/fuel-specs,openstack-attic/python-melangeclient,Core,0.0,0.0,0,1
+openstack/fuel-specs,openstack-attic/python-melangeclient,Non core,0.0,0.33112582781456956,0,1
+openstack/fuel-specs,openstack-attic/melange,Core,0.0,0.3225806451612903,0,3
+openstack/fuel-specs,openstack-attic/melange,Non core,0.0,0.6451612903225806,0,3
+openstack/fuel-specs,openstack-attic/openstack-qa,Core,0.0,0.0,0,2
+openstack/fuel-specs,openstack-attic/openstack-qa,Non core,0.0,0.6644518272425249,0,2
+openstack/fuel-specs,openstack-attic/database-api,Core,1.7699115044247788,0.6389776357827476,2,3
+openstack/fuel-specs,openstack-attic/database-api,Non core,0.0,0.3194888178913738,2,3
+openstack/fuel-specs,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,3
+openstack/fuel-specs,openstack-attic/openstack-security-notes,Non core,0.0,0.819672131147541,0,3

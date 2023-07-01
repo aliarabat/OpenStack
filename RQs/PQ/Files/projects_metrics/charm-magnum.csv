@@ -1,0 +1,1961 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/charm-magnum,openstack/charm-manila-ganesha,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-manila-ganesha,Non core,17.647058823529413,43.75,3,7
+openstack/charm-magnum,openstack/ldappool,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/ldappool,Non core,3.571428571428571,2.631578947368421,1,1
+openstack/charm-magnum,openstack/charm-nova-compute-nvidia-vgpu,Core,0.0,0.0,3,6
+openstack/charm-magnum,openstack/charm-nova-compute-nvidia-vgpu,Non core,60.0,75.0,3,6
+openstack/charm-magnum,openstack/charm-zuul-jobs,Core,0.0,0.0,0,2
+openstack/charm-magnum,openstack/charm-zuul-jobs,Non core,0.0,18.181818181818183,0,2
+openstack/charm-magnum,openstack/charm-swift-storage,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-swift-storage,Non core,7.317073170731707,15.217391304347828,3,7
+openstack/charm-magnum,openstack/charm-swift-proxy,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-swift-proxy,Non core,7.5,18.91891891891892,3,7
+openstack/charm-magnum,openstack/openstack-virtual-baremetal,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/openstack-virtual-baremetal,Non core,4.3478260869565215,0.0,1,0
+openstack/charm-magnum,openstack/charm-neutron-openvswitch,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-neutron-openvswitch,Non core,5.769230769230769,13.725490196078432,3,7
+openstack/charm-magnum,openstack/kuryr-libnetwork,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/kuryr-libnetwork,Non core,1.5151515151515151,0.0,1,0
+openstack/charm-magnum,openstack/charm-placement,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-placement,Non core,23.076923076923077,41.17647058823529,3,7
+openstack/charm-magnum,openstack/cyborg,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cyborg,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-nova-cell-controller,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-nova-cell-controller,Non core,17.647058823529413,36.84210526315789,3,7
+openstack/charm-magnum,openstack/charm-keystone-ldap,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-keystone-ldap,Non core,12.0,26.923076923076923,3,7
+openstack/charm-magnum,openstack/charm-keystone-saml-mellon,Core,0.0,0.0,4,7
+openstack/charm-magnum,openstack/charm-keystone-saml-mellon,Non core,25.0,26.923076923076923,4,7
+openstack/charm-magnum,openstack/charm-manila-generic,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-manila-generic,Non core,13.043478260869565,30.434782608695656,3,7
+openstack/charm-magnum,openstack/charm-manila-dashboard,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-manila-dashboard,Non core,75.0,77.77777777777779,3,7
+openstack/charm-magnum,openstack/charm-ironic-api,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-ironic-api,Non core,37.5,63.63636363636363,3,7
+openstack/charm-magnum,openstack/charm-cinder-netapp,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-cinder-netapp,Non core,50.0,87.5,3,7
+openstack/charm-magnum,openstack/charm-ceilometer,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-ceilometer,Non core,7.5,18.91891891891892,3,7
+openstack/charm-magnum,openstack/charm-keystone-openidc,Core,0.0,0.0,1,2
+openstack/charm-magnum,openstack/charm-keystone-openidc,Non core,20.0,25.0,1,2
+openstack/charm-magnum,openstack/charm-mysql-router,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-mysql-router,Non core,15.0,36.84210526315789,3,7
+openstack/charm-magnum,openstack/rally-openstack,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/rally-openstack,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-win,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/os-win,Non core,1.8181818181818181,1.5384615384615385,1,1
+openstack/charm-magnum,openstack/python-neutronclient,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/python-neutronclient,Non core,0.31746031746031744,0.16474464579901155,1,1
+openstack/charm-magnum,openstack/sushy-tools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sushy-tools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-ceilometer-agent,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-ceilometer-agent,Non core,10.344827586206897,24.137931034482758,3,7
+openstack/charm-magnum,openstack/charm-barbican,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-barbican,Non core,11.11111111111111,25.925925925925924,3,7
+openstack/charm-magnum,openstack/charm-octavia-diskimage-retrofit,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-octavia-diskimage-retrofit,Non core,17.647058823529413,35.0,3,7
+openstack/charm-magnum,openstack/ansible-role-redhat-subscription,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-redhat-subscription,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/oslo.db,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/oslo.db,Non core,0.0,0.4016064257028112,0,1
+openstack/charm-magnum,openstack/tripleo-repos,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/tripleo-repos,Non core,2.1739130434782608,0.0,1,0
+openstack/charm-magnum,openstack/openstack-ansible-os_mistral,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_mistral,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/oswin-tempest-plugin,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/oswin-tempest-plugin,Non core,4.3478260869565215,0.0,1,0
+openstack/charm-magnum,openstack/pymod2pkg,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/pymod2pkg,Non core,2.083333333333333,0.0,1,0
+openstack/charm-magnum,openstack/large-scale,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/large-scale,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/neutron-fwaas,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/neutron-fwaas,Non core,0.6329113924050633,0.0,1,0
+openstack/charm-magnum,openstack/python-tackerclient,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/python-tackerclient,Non core,0.0,0.7352941176470588,0,1
+openstack/charm-magnum,openstack/charm-cinder-nimblestorage,Core,0.0,0.0,2,6
+openstack/charm-magnum,openstack/charm-cinder-nimblestorage,Non core,40.0,66.66666666666666,2,6
+openstack/charm-magnum,openstack/metalsmith,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/metalsmith,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_murano,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_murano,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/kuryr-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/kuryr-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-sfc,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/networking-sfc,Non core,1.0204081632653061,0.4484304932735426,1,1
+openstack/charm-magnum,openstack/charm-cinder-three-par,Core,0.0,0.0,1,3
+openstack/charm-magnum,openstack/charm-cinder-three-par,Non core,16.666666666666664,37.5,1,3
+openstack/charm-magnum,openstack/cyborg-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cyborg-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-ceph-iscsi,Core,0.0,0.0,3,6
+openstack/charm-magnum,openstack/charm-ceph-iscsi,Non core,33.33333333333333,40.0,3,6
+openstack/charm-magnum,openstack/charm-cinder-solidfire,Core,0.0,0.0,2,6
+openstack/charm-magnum,openstack/charm-cinder-solidfire,Non core,40.0,75.0,2,6
+openstack/charm-magnum,openstack/puppet-qdr,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-qdr,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/vitrage-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/vitrage-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-neutron-api-plugin-arista,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-neutron-api-plugin-arista,Non core,37.5,63.63636363636363,3,7
+openstack/charm-magnum,openstack/charm-ceph-fs,Core,0.0,0.0,3,6
+openstack/charm-magnum,openstack/charm-ceph-fs,Non core,12.0,25.0,3,6
+openstack/charm-magnum,openstack/stevedore,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/stevedore,Non core,1.7543859649122806,1.0204081632653061,1,1
+openstack/charm-magnum,openstack/charm-ceph-proxy,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-ceph-proxy,Non core,11.538461538461538,21.21212121212121,3,7
+openstack/charm-magnum,openstack/charm-cloudkitty,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/charm-cloudkitty,Non core,0.0,14.285714285714285,0,1
+openstack/charm-magnum,openstack/charm-ops-openstack,Core,0.0,0.0,2,4
+openstack/charm-magnum,openstack/charm-ops-openstack,Non core,20.0,40.0,2,4
+openstack/charm-magnum,openstack/zun-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/zun-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/storlets,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/storlets,Non core,1.639344262295082,0.0,1,0
+openstack/charm-magnum,openstack/training-guides,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/training-guides,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-plugins,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-plugins,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-muranoclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-muranoclient,Non core,0.8,0.0,1,0
+openstack/charm-magnum,openstack/solum-dashboard,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/solum-dashboard,Non core,2.3255813953488373,0.0,1,0
+openstack/charm-magnum,openstack/python-solumclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-solumclient,Non core,1.5625,0.0,1,0
+openstack/charm-magnum,openstack/solum-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/solum-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/murano-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/murano-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/heat-translator,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/heat-translator,Non core,1.0752688172043012,0.0,1,0
+openstack/charm-magnum,openstack/tosca-parser,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/tosca-parser,Non core,1.4925373134328357,0.0,1,0
+openstack/charm-magnum,openstack/tacker-horizon,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/tacker-horizon,Non core,1.8518518518518516,1.0101010101010102,1,1
+openstack/charm-magnum,openstack/ironic-python-agent-builder,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ironic-python-agent-builder,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-systemd_networkd,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-systemd_networkd,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-systemd_service,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-systemd_service,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_keystone,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_keystone,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-chrony,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-chrony,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cloudkitty-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cloudkitty-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/oslo.config,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/oslo.config,Non core,0.5714285714285714,0.3215434083601286,1,1
+openstack/charm-magnum,openstack/senlin-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/senlin-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/heat-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/heat-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/freezer-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/freezer-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/stackviz,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/stackviz,Non core,2.857142857142857,0.0,1,0
+openstack/charm-magnum,openstack/kayobe-config-dev,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/kayobe-config-dev,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/pbr,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/pbr,Non core,0.9174311926605505,0.5376344086021506,1,1
+openstack/charm-magnum,openstack/oslo.cache,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/oslo.cache,Non core,0.0,0.6711409395973155,0,1
+openstack/charm-magnum,openstack/charm-ceph-rbd-mirror,Core,0.0,0.0,4,6
+openstack/charm-magnum,openstack/charm-ceph-rbd-mirror,Non core,23.52941176470588,30.0,4,6
+openstack/charm-magnum,openstack/ansible-config_template,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-config_template,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/designate-dashboard,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/designate-dashboard,Non core,1.5151515151515151,0.8849557522123894,1,1
+openstack/charm-magnum,openstack/charm-interface-cinder-backend,Core,0.0,0.0,1,3
+openstack/charm-magnum,openstack/charm-interface-cinder-backend,Non core,11.11111111111111,27.27272727272727,1,3
+openstack/charm-magnum,openstack/cyborg-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cyborg-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-mistralclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-mistralclient,Non core,0.8620689655172413,0.0,1,0
+openstack/charm-magnum,openstack/ha-guide,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ha-guide,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/watcher,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/watcher,Non core,0.0,0.42194092827004215,0,1
+openstack/charm-magnum,openstack/openstack-ansible-os_cloudkitty,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_cloudkitty,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_cinder,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_cinder,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-health,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/openstack-health,Non core,2.083333333333333,0.0,1,0
+openstack/charm-magnum,openstack/openstack-ansible-os_swift,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_swift,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/masakari-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/masakari-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/telemetry-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/telemetry-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/osprofiler,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/osprofiler,Non core,1.1627906976744187,0.8620689655172413,1,1
+openstack/charm-magnum,openstack/openstack-ansible-os_trove,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_trove,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_manila,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_manila,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-hardening,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-hardening,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/barbican-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/barbican-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-heatclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-heatclient,Non core,0.5555555555555556,0.0,1,0
+openstack/charm-magnum,openstack/oslo.versionedobjects,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/oslo.versionedobjects,Non core,1.0416666666666665,0.7246376811594203,1,1
+openstack/charm-magnum,openstack/os-api-ref,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/os-api-ref,Non core,2.127659574468085,0.0,1,0
+openstack/charm-magnum,openstack/devstack-plugin-container,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-container,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/venus-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/venus-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/manila-ui,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/manila-ui,Non core,1.282051282051282,0.8695652173913043,1,1
+openstack/charm-magnum,openstack/devstack-plugin-nfs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-nfs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/taskflow,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/taskflow,Non core,0.9523809523809524,0.5847953216374269,1,1
+openstack/charm-magnum,openstack/python-cyborgclient,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/python-cyborgclient,Non core,3.225806451612903,1.9230769230769231,1,1
+openstack/charm-magnum,openstack/zun,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/zun,Non core,0.7092198581560284,0.0,1,0
+openstack/charm-magnum,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,3,6
+openstack/charm-magnum,openstack/charm-openstack-loadbalancer,Non core,42.857142857142854,60.0,3,6
+openstack/charm-magnum,openstack/ansible-role-python_venv_build,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-python_venv_build,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/mistral-dashboard,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/mistral-dashboard,Non core,1.5873015873015872,0.0,1,0
+openstack/charm-magnum,openstack/mistral-lib,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/mistral-lib,Non core,2.3255813953488373,0.0,1,0
+openstack/charm-magnum,openstack/monasca-events-api,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/monasca-events-api,Non core,4.0,0.0,1,0
+openstack/charm-magnum,openstack/python-zaqarclient,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/python-zaqarclient,Non core,0.0,0.8064516129032258,0,1
+openstack/charm-magnum,openstack/monasca-api,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-api,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-persister,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/monasca-persister,Non core,1.36986301369863,0.0,1,0
+openstack/charm-magnum,openstack/monasca-notification,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/monasca-notification,Non core,1.3157894736842104,0.0,1,0
+openstack/charm-magnum,openstack/python-saharaclient,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/python-saharaclient,Non core,0.0,0.7633587786259541,0,1
+openstack/charm-magnum,openstack/charm-magpie,Core,0.0,0.0,3,6
+openstack/charm-magnum,openstack/charm-magpie,Non core,21.428571428571427,42.857142857142854,3,6
+openstack/charm-magnum,openstack/openstack-ansible-os_placement,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_placement,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstackdocstheme,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/openstackdocstheme,Non core,1.4084507042253522,0.8771929824561403,1,1
+openstack/charm-magnum,openstack/sahara,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/sahara,Non core,0.3676470588235294,0.2702702702702703,1,1
+openstack/charm-magnum,openstack/ironic-ui,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/ironic-ui,Non core,1.6129032258064515,0.0,1,0
+openstack/charm-magnum,openstack/oslo.serialization,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/oslo.serialization,Non core,1.4285714285714286,0.9708737864077669,1,1
+openstack/charm-magnum,openstack/oslo.context,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/oslo.context,Non core,0.0,0.9433962264150944,0,1
+openstack/charm-magnum,openstack/oslo.limit,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/oslo.limit,Non core,2.7027027027027026,1.8867924528301887,1,1
+openstack/charm-magnum,openstack/oslo.middleware,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/oslo.middleware,Non core,1.1764705882352942,0.7751937984496124,1,1
+openstack/charm-magnum,openstack/oslo.reports,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/oslo.reports,Non core,0.0,1.1627906976744187,0,1
+openstack/charm-magnum,openstack/futurist,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/futurist,Non core,2.127659574468085,0.0,1,0
+openstack/charm-magnum,openstack/oslo.i18n,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/oslo.i18n,Non core,1.5625,0.0,1,0
+openstack/charm-magnum,openstack/sushy-oem-idrac,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-dracclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-dracclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_masakari,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_masakari,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-systemd_mount,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-systemd_mount,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-senlinclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-senlinclient,Non core,1.0526315789473684,0.0,1,0
+openstack/charm-magnum,openstack/senlin-dashboard,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/senlin-dashboard,Non core,1.6666666666666667,0.0,1,0
+openstack/charm-magnum,openstack/networking-generic-switch,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-generic-switch,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sahara-image-elements,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sahara-image-elements,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-thales-hsm,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-thales-hsm,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-atos-hsm,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-atos-hsm,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/adjutant-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/adjutant-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sahara-extra,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sahara-extra,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/blazar-nova,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/blazar-nova,Non core,2.7777777777777777,0.0,1,0
+openstack/charm-magnum,openstack/oslo.service,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/oslo.service,Non core,1.0416666666666665,0.6711409395973155,1,1
+openstack/charm-magnum,openstack/blazar-dashboard,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/blazar-dashboard,Non core,3.571428571428571,0.0,1,0
+openstack/charm-magnum,openstack/paunch,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/paunch,Non core,1.9230769230769231,0.0,1,0
+openstack/charm-magnum,openstack/service-types-authority,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/service-types-authority,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-ironic-inspector-client,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-ironic-inspector-client,Non core,1.9230769230769231,0.0,1,0
+openstack/charm-magnum,openstack/openstack-ansible-memcached_server,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-memcached_server,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-testr,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/os-testr,Non core,1.8867924528301887,1.098901098901099,1,1
+openstack/charm-magnum,openstack/openstack-ansible-ceph_client,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-ceph_client,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_magnum,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_magnum,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_blazar,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_blazar,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_designate,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_designate,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_gnocchi,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_senlin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ptgbot,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ptgbot,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_zun,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_zun,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-repo_server,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-repo_server,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-watcherclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-watcherclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/heat-agents,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/heat-agents,Non core,0.0,1.0638297872340425,0,1
+openstack/charm-magnum,openstack/oslo.rootwrap,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/oslo.rootwrap,Non core,1.2987012987012987,0.8,1,1
+openstack/charm-magnum,openstack/automaton,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/automaton,Non core,2.7777777777777777,1.9607843137254901,1,1
+openstack/charm-magnum,openstack/debtcollector,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/debtcollector,Non core,2.083333333333333,2.0,1,1
+openstack/charm-magnum,openstack/vitrage-dashboard,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/vitrage-dashboard,Non core,1.4084507042253522,0.0,1,0
+openstack/charm-magnum,openstack/oslotest,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/oslotest,Non core,1.5384615384615385,1.0416666666666665,1,1
+openstack/charm-magnum,openstack/kayobe-config,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/kayobe-config,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/compute-hyperv,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/compute-hyperv,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-cloudkittyclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-cloudkittyclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-interface-keystone,Core,0.0,0.0,2,6
+openstack/charm-magnum,openstack/charm-interface-keystone,Non core,11.11111111111111,31.57894736842105,2,6
+openstack/charm-magnum,openstack/cloudkitty-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cloudkitty-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-hyperv,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/networking-hyperv,Non core,1.7543859649122806,1.694915254237288,1,1
+openstack/charm-magnum,openstack/i18n,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/i18n,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sahara-tests,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sahara-tests,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-zunclient,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/python-zunclient,Non core,1.1363636363636365,0.9009009009009009,1,1
+openstack/charm-magnum,openstack/sahara-plugin-cdh,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/sahara-plugin-cdh,Non core,5.88235294117647,3.4482758620689653,1,1
+openstack/charm-magnum,openstack/monasca-ui,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/monasca-ui,Non core,1.2345679012345678,0.0,1,0
+openstack/charm-magnum,openstack/python-adjutantclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-adjutantclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-ceph-nfs,Core,0.0,0.0,0,3
+openstack/charm-magnum,openstack/charm-ceph-nfs,Non core,0.0,37.5,0,3
+openstack/charm-magnum,openstack/ansible-role-lunasa-hsm,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-thresh,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-thresh,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/heat-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/heat-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/watcher-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/watcher-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sahara-plugin-ambari,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/sahara-plugin-ambari,Non core,6.25,4.545454545454546,1,1
+openstack/charm-magnum,openstack/sahara-plugin-mapr,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/sahara-plugin-mapr,Non core,6.666666666666667,3.7037037037037033,1,1
+openstack/charm-magnum,openstack/sahara-plugin-spark,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/sahara-plugin-spark,Non core,7.142857142857142,5.88235294117647,1,1
+openstack/charm-magnum,openstack/sahara-plugin-storm,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/sahara-plugin-storm,Non core,7.142857142857142,5.555555555555555,1,1
+openstack/charm-magnum,openstack/sahara-plugin-vanilla,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/sahara-plugin-vanilla,Non core,7.142857142857142,5.0,1,1
+openstack/charm-magnum,openstack/sahara-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sahara-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/venus-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ceilometermiddleware,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/ceilometermiddleware,Non core,2.272727272727273,0.0,1,0
+openstack/charm-magnum,openstack/trove-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/trove-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/arch-design,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/arch-design,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-common,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/monasca-common,Non core,0.0,0.8695652173913043,0,1
+openstack/charm-magnum,openstack/monasca-statsd,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/monasca-statsd,Non core,2.272727272727273,0.0,1,0
+openstack/charm-magnum,openstack/python-monascaclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-monascaclient,Non core,1.0752688172043012,0.0,1,0
+openstack/charm-magnum,openstack/renderspec,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/renderspec,Non core,3.571428571428571,0.0,1,0
+openstack/charm-magnum,openstack/os-service-types,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/os-service-types,Non core,3.8461538461538463,0.0,1,0
+openstack/charm-magnum,openstack/masakari-dashboard,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/masakari-dashboard,Non core,3.225806451612903,0.0,1,0
+openstack/charm-magnum,openstack/freezer-dr,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/freezer-dr,Non core,3.4482758620689653,0.0,1,0
+openstack/charm-magnum,openstack/tempest-stress,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/tempest-stress,Non core,4.166666666666666,0.0,1,0
+openstack/charm-magnum,openstack/charm-neutron-api-genericswitch,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/charm-neutron-api-genericswitch,Non core,12.5,0.0,1,0
+openstack/charm-magnum,openstack/charm-neutron-dynamic-routing,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-neutron-dynamic-routing,Non core,16.666666666666664,36.84210526315789,3,7
+openstack/charm-magnum,openstack/charm-interface-ceph-client,Core,0.0,0.0,1,3
+openstack/charm-magnum,openstack/charm-interface-ceph-client,Non core,8.333333333333332,18.75,1,3
+openstack/charm-magnum,openstack/charm-percona-cluster,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-percona-cluster,Non core,7.142857142857142,13.725490196078432,3,7
+openstack/charm-magnum,openstack/charm-deployment-guide,Core,0.0,0.0,3,7
+openstack/charm-magnum,openstack/charm-deployment-guide,Non core,8.823529411764707,20.588235294117645,3,7
+openstack/charm-magnum,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/oslo.metrics,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/oslo.metrics,Non core,8.333333333333332,4.545454545454546,1,1
+openstack/charm-magnum,openstack/oslo.vmware,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/oslo.vmware,Non core,1.1904761904761905,0.6666666666666667,1,1
+openstack/charm-magnum,openstack/oslo.upgradecheck,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/oslo.upgradecheck,Non core,4.545454545454546,0.0,1,0
+openstack/charm-magnum,openstack/python-masakariclient,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/python-masakariclient,Non core,0.0,1.694915254237288,0,1
+openstack/charm-magnum,openstack/python-vitrageclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-vitrageclient,Non core,1.7241379310344827,0.0,1,0
+openstack/charm-magnum,openstack/python-blazarclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-blazarclient,Non core,1.7543859649122806,0.0,1,0
+openstack/charm-magnum,openstack/zaqar-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/zaqar-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-common-tempest-plugin,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/tripleo-common-tempest-plugin,Non core,4.761904761904762,0.0,1,0
+openstack/charm-magnum,openstack/mistral-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/mistral-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/barbican-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/barbican-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/liberasurecode,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/liberasurecode,Non core,6.25,3.7037037037037033,1,1
+openstack/charm-magnum,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-client-config,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/os-client-config,Non core,1.2048192771084338,0.0,1,0
+openstack/charm-magnum,openstack/monasca-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-performance-tools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-performance-tools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/trove-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/trove-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/manila-image-elements,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/manila-image-elements,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/blazar-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/blazar-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/molteniron,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/molteniron,Non core,6.25,3.0303030303030303,1,1
+openstack/charm-magnum,openstack/solum-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/solum-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/patrole,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/patrole,Non core,1.0638297872340425,0.0,1,0
+openstack/charm-magnum,openstack/performance-docs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/performance-docs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sphinx-feature-classification,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/sphinx-feature-classification,Non core,4.166666666666666,2.380952380952381,1,1
+openstack/charm-magnum,openstack/etcd3gw,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/etcd3gw,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/watcher-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/watcher-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/yaql,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/yaql,Non core,2.5,1.5873015873015872,1,1
+openstack/charm-magnum,openstack/puppet-openstack-guide,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-openstack-guide,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-panko,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-panko,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/heat-cfnclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/heat-cfnclient,Non core,3.8461538461538463,0.0,1,0
+openstack/charm-magnum,openstack/heat-cfntools,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/heat-cfntools,Non core,1.8867924528301887,0.0,1,0
+openstack/charm-magnum,openstack/heat-templates,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/heat-templates,Non core,0.9174311926605505,0.0,1,0
+openstack/charm-magnum,openstack/governance-sigs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/governance-sigs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-zuul-roles,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-zuul-roles,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/nova-powervm,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/nova-powervm,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-helm-addons,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-helm-addons,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-pankoclient,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/python-pankoclient,Non core,3.4482758620689653,2.127659574468085,1,1
+openstack/charm-magnum,openstack/qa-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/qa-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/zaqar-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/zaqar-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/swift-bench,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/swift-bench,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/whereto,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/whereto,Non core,4.761904761904762,0.0,1,0
+openstack/charm-magnum,openstack/murano-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/murano-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-modify-image,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-modify-image,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/requestsexceptions,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/requestsexceptions,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/panko,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/panko,Non core,1.3157894736842104,0.0,1,0
+openstack/charm-magnum,openstack/api-sig,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/api-sig,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-chef-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-chef-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/freezer-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/freezer-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/oslo.tools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/oslo.tools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/microversion-parse,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/microversion-parse,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstackclient,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/openstackclient,Non core,0.0,2.380952380952381,0,1
+openstack/charm-magnum,openstack/ossa,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ossa,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/reviewstats,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/reviewstats,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/oslo-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/oslo-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/security-analysis,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/security-analysis,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-keystone,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-keystone,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-apt_package_pinning,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-apt_package_pinning,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-qdrouterd,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-qdrouterd,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-openstack_openrc,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-openstack_openrc,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-nspawn_container_create,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-nspawn_container_create,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-tools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-tools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/coverage2sql,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/coverage2sql,Non core,3.571428571428571,0.0,1,0
+openstack/charm-magnum,openstack/bashate,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/bashate,Non core,1.8867924528301887,0.0,1,0
+openstack/charm-magnum,openstack/hacking,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/hacking,Non core,1.098901098901099,0.0,1,0
+openstack/charm-magnum,openstack/xstatic-mdi,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-chef,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-chef,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstackclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstackclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-interface-hacluster,Core,0.0,0.0,2,6
+openstack/charm-magnum,openstack/charm-interface-hacluster,Non core,9.523809523809524,33.33333333333333,2,6
+openstack/charm-magnum,openstack/puppet-openstack-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-openstack-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-monasca,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-monasca,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/eslint-config-openstack,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/eslint-config-openstack,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/karma-subunit-reporter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/karma-subunit-reporter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-helm-docs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-helm-docs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tempest-lib,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tempest-lib,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-ha-utils,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-ha-utils,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-vagrant,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-vagrant,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/goal-tools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/goal-tools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/dib-utils,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/dib-utils,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/constellations,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/constellations,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-integration-test,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-integration-test,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-telemetry,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-telemetry,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-orchestration,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-orchestration,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-bare-metal,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-bare-metal,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-dns,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-dns,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-compute,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-compute,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-network,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-network,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-block-storage,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-block-storage,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-image,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-image,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-identity,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-identity,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-ops-database,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-ops-database,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-ops-messaging,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-ops-messaging,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-common,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-common,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/self-healing-sig,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/self-healing-sig,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,1,4
+openstack/charm-magnum,openstack/charm-ops-interface-tls-certificates,Non core,14.285714285714285,50.0,1,4
+openstack/charm-magnum,openstack/security-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/security-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_panko,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_panko,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-nspawn_hosts,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-nspawn_hosts,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-layer-openstack-principle,Core,0.0,0.0,2,4
+openstack/charm-magnum,openstack/charm-layer-openstack-principle,Non core,25.0,36.36363636363637,2,4
+openstack/charm-magnum,openstack/charm-watcher-dashboard,Core,0.0,0.0,1,3
+openstack/charm-magnum,openstack/charm-watcher-dashboard,Non core,14.285714285714285,20.0,1,3
+openstack/charm-magnum,openstack/charm-watcher,Core,0.0,0.0,1,7
+openstack/charm-magnum,openstack/charm-watcher,Non core,11.11111111111111,35.0,1,7
+openstack/charm-magnum,openstack/openstack-ansible-galera_client,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-galera_client,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cloudkitty-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cloudkitty-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/osops,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/osops,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-ironic,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-ironic,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/multi-arch-sig,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/multi-arch-sig,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-nova-compute-proxy,Core,0.0,0.0,1,4
+openstack/charm-magnum,openstack/charm-nova-compute-proxy,Non core,6.666666666666667,25.0,1,4
+openstack/charm-magnum,openstack/charm-odl-controller,Core,0.0,0.0,1,4
+openstack/charm-magnum,openstack/charm-odl-controller,Non core,6.25,28.57142857142857,1,4
+openstack/charm-magnum,openstack/charm-nova-lxd,Core,0.0,0.0,2,5
+openstack/charm-magnum,openstack/charm-nova-lxd,Non core,8.695652173913043,18.51851851851852,2,5
+openstack/charm-magnum,openstack/charm-interface-nova-cell,Core,0.0,0.0,1,2
+openstack/charm-magnum,openstack/charm-interface-nova-cell,Non core,25.0,25.0,1,2
+openstack/charm-magnum,openstack/charm-interface-magpie,Core,0.0,0.0,1,2
+openstack/charm-magnum,openstack/charm-interface-magpie,Non core,20.0,25.0,1,2
+openstack/charm-magnum,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-interface-barbican-secrets,Core,0.0,0.0,2,2
+openstack/charm-magnum,openstack/charm-interface-barbican-secrets,Non core,22.22222222222222,15.384615384615385,2,2
+openstack/charm-magnum,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,10.0,0,1
+openstack/charm-magnum,openstack/charm-interface-ceph-rbd-mirror,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/charm-interface-ceph-rbd-mirror,Non core,11.11111111111111,6.666666666666667,1,1
+openstack/charm-magnum,openstack/charm-interface-placement,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/charm-interface-placement,Non core,16.666666666666664,0.0,1,0
+openstack/charm-magnum,openstack/charm-interface-mysql-shared,Core,0.0,0.0,0,4
+openstack/charm-magnum,openstack/charm-interface-mysql-shared,Non core,0.0,33.33333333333333,0,4
+openstack/charm-magnum,openstack/charm-interface-dashboard-plugin,Core,0.0,0.0,2,2
+openstack/charm-magnum,openstack/charm-interface-dashboard-plugin,Non core,22.22222222222222,15.384615384615385,2,2
+openstack/charm-magnum,openstack/charm-interface-neutron-load-balancer,Core,0.0,0.0,2,2
+openstack/charm-magnum,openstack/charm-interface-neutron-load-balancer,Non core,22.22222222222222,15.384615384615385,2,2
+openstack/charm-magnum,openstack/charm-interface-neutron-plugin-api-subordinate,Core,0.0,0.0,2,3
+openstack/charm-magnum,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,16.666666666666664,21.428571428571427,2,3
+openstack/charm-magnum,openstack/charm-interface-neutron-plugin,Core,0.0,0.0,1,3
+openstack/charm-magnum,openstack/charm-interface-neutron-plugin,Non core,10.0,25.0,1,3
+openstack/charm-magnum,openstack/xstatic-json2yaml,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-json2yaml,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-js-yaml,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-js-yaml,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-spin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-spin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-panko,Core,0.0,0.0,2,4
+openstack/charm-magnum,openstack/charm-panko,Non core,25.0,25.0,2,4
+openstack/charm-magnum,openstack/charm-interface-service-control,Core,0.0,0.0,2,2
+openstack/charm-magnum,openstack/charm-interface-service-control,Non core,20.0,13.333333333333334,2,2
+openstack/charm-magnum,openstack/openstack-ansible-os_almanach,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_almanach,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-pip_install,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-pip_install,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-karborclient,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/python-karborclient,Non core,1.7857142857142856,1.4084507042253522,1,1
+openstack/charm-magnum,openstack/charm-interface-keystone-admin,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/charm-interface-keystone-admin,Non core,0.0,8.333333333333332,0,1
+openstack/charm-magnum,openstack/charm-interface-nova-compute,Core,0.0,0.0,2,2
+openstack/charm-magnum,openstack/charm-interface-nova-compute,Non core,18.181818181818183,11.76470588235294,2,2
+openstack/charm-magnum,openstack/charm-interface-manila-plugin,Core,0.0,0.0,1,2
+openstack/charm-magnum,openstack/charm-interface-manila-plugin,Non core,11.11111111111111,15.384615384615385,1,2
+openstack/charm-magnum,openstack/murano-apps,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/murano-apps,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-senlin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-senlin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-application-catalog,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/training-labs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/training-labs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/karbor,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/karbor,Non core,0.8547008547008548,0.5847953216374269,1,1
+openstack/charm-magnum,openstack/devstack-plugin-open-cas,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_congress,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_congress,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,3
+openstack/charm-magnum,openstack/charm-ops-interface-ceph-client,Non core,0.0,33.33333333333333,0,3
+openstack/charm-magnum,openstack/charm-interface-keystone-notifications,Core,0.0,0.0,1,2
+openstack/charm-magnum,openstack/charm-interface-keystone-notifications,Non core,25.0,25.0,1,2
+openstack/charm-magnum,openstack/os-collect-config,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/os-collect-config,Non core,1.7543859649122806,0.0,1,0
+openstack/charm-magnum,openstack/os-apply-config,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/os-apply-config,Non core,1.7857142857142856,0.0,1,0
+openstack/charm-magnum,openstack/puppet-freezer,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-freezer,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/vitrage-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/vitrage-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/specs-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/specs-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/rpm-packaging-tools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/rpm-packaging-tools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-openstack-operations,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-openstack-operations,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-refresh-config,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/os-refresh-config,Non core,2.380952380952381,0.0,1,0
+openstack/charm-magnum,openstack/mistral-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/mistral-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/scientific-wg,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/scientific-wg,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.0,1,2
+openstack/charm-magnum,openstack/charm-interface-keystone-fid-service-provider,Non core,14.285714285714285,16.666666666666664,1,2
+openstack/charm-magnum,openstack/manila-test-image,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/manila-test-image,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/governance-website,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/governance-website,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/bugdaystats,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/bugdaystats,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/upstream-institute-virtual-environment,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/karbor-dashboard,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/karbor-dashboard,Non core,2.4390243902439024,0.0,1,0
+openstack/charm-magnum,openstack/django_openstack_auth,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/django_openstack_auth,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-transform,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/monasca-transform,Non core,2.272727272727273,0.0,1,0
+openstack/charm-magnum,openstack/monasca-ceilometer,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/monasca-ceilometer,Non core,1.8867924528301887,0.0,1,0
+openstack/charm-magnum,openstack/monasca-log-api,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/monasca-log-api,Non core,0.0,0.9900990099009901,0,1
+openstack/charm-magnum,openstack/nose-html-output,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/nose-html-output,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/kolla-cli,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/kolla-cli,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/neutron-lbaas-dashboard,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/neutron-lbaas-dashboard,Non core,1.9607843137254901,1.0416666666666665,1,1
+openstack/charm-magnum,openstack/searchlight,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/searchlight,Non core,0.8264462809917356,0.0,1,0
+openstack/charm-magnum,openstack/searchlight-ui,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/searchlight-ui,Non core,2.0408163265306123,0.0,1,0
+openstack/charm-magnum,openstack/searchlight-specs,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/searchlight-specs,Non core,3.7037037037037033,0.0,1,0
+openstack/charm-magnum,openstack/python-searchlightclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-searchlightclient,Non core,2.083333333333333,0.0,1,0
+openstack/charm-magnum,openstack/charm-tempest,Core,0.0,0.0,3,6
+openstack/charm-magnum,openstack/charm-tempest,Non core,13.043478260869565,22.22222222222222,3,6
+openstack/charm-magnum,openstack/charm-barbican-softhsm,Core,0.0,0.0,3,6
+openstack/charm-magnum,openstack/charm-barbican-softhsm,Non core,15.0,27.27272727272727,3,6
+openstack/charm-magnum,openstack/cookbook-openstack-client,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-client,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/instack-undercloud,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/instack-undercloud,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/publiccloud-sig,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/publiccloud-sig,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ideas,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ideas,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/uc-recognition,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/uc-recognition,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ops-tags-team,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ops-tags-team,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/enterprise-wg,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/enterprise-wg,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/governance-uc,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/governance-uc,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/workload-ref-archs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/workload-ref-archs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/arch-wg,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/arch-wg,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/project-navigator-data,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/project-navigator-data,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_monasca,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_monasca,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_monasca-agent,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_monasca-agent,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ironic-inspector-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ironic-inspector-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sushy-cli,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/sushy-cli,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-glare,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-glare,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-planet,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/openstack-planet,Non core,0.4424778761061947,0.0,1,0
+openstack/charm-magnum,openstack/charm-interface-keystone-credentials,Core,0.0,0.0,1,4
+openstack/charm-magnum,openstack/charm-interface-keystone-credentials,Non core,7.6923076923076925,30.76923076923077,1,4
+openstack/charm-magnum,openstack/monasca-kibana-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-kibana-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-interface-keystone-domain-backend,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/charm-interface-keystone-domain-backend,Non core,10.0,8.333333333333332,1,1
+openstack/charm-magnum,openstack/devstack-plugin-amqp1,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-amqp1,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-kafka,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-kafka,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-ipsec,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-ipsec,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/monasca-grafana-datasource,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-interface-bind-rndc,Core,0.0,0.0,1,2
+openstack/charm-magnum,openstack/charm-interface-bind-rndc,Non core,8.333333333333332,14.285714285714285,1,2
+openstack/charm-magnum,openstack/charm-interface-rabbitmq,Core,0.0,0.0,1,4
+openstack/charm-magnum,openstack/charm-interface-rabbitmq,Non core,9.090909090909092,30.76923076923077,1,4
+openstack/charm-magnum,openstack/charm-interface-openstack-ha,Core,0.0,0.0,1,3
+openstack/charm-magnum,openstack/charm-interface-openstack-ha,Non core,10.0,21.428571428571427,1,3
+openstack/charm-magnum,openstack/charm-interface-gnocchi,Core,0.0,0.0,1,7
+openstack/charm-magnum,openstack/charm-interface-gnocchi,Non core,11.11111111111111,43.75,1,7
+openstack/charm-magnum,openstack/charm-interface-bgp,Core,0.0,0.0,2,3
+openstack/charm-magnum,openstack/charm-interface-bgp,Non core,20.0,23.076923076923077,2,3
+openstack/charm-magnum,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/charm-interface-websso-fid-service-provider,Non core,16.666666666666664,9.090909090909092,1,1
+openstack/charm-magnum,openstack/charm-interface-designate,Core,0.0,0.0,1,2
+openstack/charm-magnum,openstack/charm-interface-designate,Non core,14.285714285714285,18.181818181818183,1,2
+openstack/charm-magnum,openstack/tempest-horizon,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tempest-horizon,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/logstash-filters,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/logstash-filters,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/qinling-dashboard,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/qinling-dashboard,Non core,0.0,4.3478260869565215,0,1
+openstack/charm-magnum,openstack/python-qinlingclient,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/python-qinlingclient,Non core,2.941176470588235,3.0303030303030303,1,1
+openstack/charm-magnum,openstack/qinling,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/qinling,Non core,2.083333333333333,0.0,1,0
+openstack/charm-magnum,openstack/monasca-analytics,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/monasca-analytics,Non core,3.4482758620689653,2.0408163265306123,1,1
+openstack/charm-magnum,openstack/oslo-incubator,Core,0.0,0.0,0,1
+openstack/charm-magnum,openstack/oslo-incubator,Non core,0.0,0.22935779816513763,0,1
+openstack/charm-magnum,openstack/puppet-congress,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-congress,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_monasca-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/auto-scaling-sig,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/auto-scaling-sig,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-loganalyze,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-loganalyze,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-pika,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-pika,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-zmq,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-zmq,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-l2gw,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/networking-l2gw,Non core,1.4084507042253522,0.6329113924050633,1,1
+openstack/charm-magnum,openstack/networking-l2gw-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-l2gw-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-interface-ceph-mds,Core,0.0,0.0,0,2
+openstack/charm-magnum,openstack/charm-interface-ceph-mds,Non core,0.0,16.666666666666664,0,2
+openstack/charm-magnum,openstack/xstatic-angular-ui-router,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-ui-router,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-vis,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-vis,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-database,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-database,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-data-processing,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-data-processing,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/trove-integration,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/trove-integration,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-sensu,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/keystoneauth-saml2,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/keystoneauth-saml2,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/murano-deployment,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/murano-deployment,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-keystoneclient-kerberos,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-keystoneclient-kerberos,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-wsmanclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-wsmanclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-upgrade,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-upgrade,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-object-storage,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cookbook-openstack-object-storage,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fairy-slipper,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fairy-slipper,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/django-openstack-auth-kerberos,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/django-openstack-auth-kerberos,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/horizon-cisco-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/horizon-cisco-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/zuul-packaging,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/zuul-packaging,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-generic-switch-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-incubator,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-incubator,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ironic-webclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ironic-webclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-crane,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/puppet-crane,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/release-tools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/release-tools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/gnocchi,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-ofagent,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-ofagent,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-neutron-pd-driver,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-neutron-pd-driver,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-ceph,Core,0.0,0.0,2,6
+openstack/charm-magnum,openstack/charm-ceph,Non core,9.090909090909092,28.57142857142857,2,6
+openstack/charm-magnum,openstack/openstack-ansible-os_freezer,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-pip_lock_down,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-security,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-security,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/oslosphinx,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/oslosphinx,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-cinder,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-glance,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-keystone,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-mariadb,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-rabbitmq,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-tripleo,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-aodh,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-barbican,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-cinder,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tripleo-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-ovn,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-opendaylight,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-octavia,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-nova,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-nova,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-cloud-config,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-cloud-config,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-zaqar,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-tempest,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-sahara,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-swift,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-tacker,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-rabbitmq,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-qdrouterd,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-panko,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-heat,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-haproxy,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-gnocchi,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-glance,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-glance,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-designate,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-neutron,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-mistral,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-memcached,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-memcached,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-manila,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-manila,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-ironic,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-keepalived,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-horizon,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/pylockfile,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/pylockfile,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/dragonflow,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/dragonflow,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-interface-pacemaker-remote,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/charm-interface-pacemaker-remote,Non core,12.5,6.666666666666667,1,1
+openstack/charm-magnum,openstack/networking-onos,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-onos,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/solum-infra-guestagent,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/solum-infra-guestagent,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ux,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ux,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/mox3,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/mox3,Non core,3.3333333333333335,0.0,1,0
+openstack/charm-magnum,openstack/charm-layer-ceph,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-layer-ceph,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-layer-ceph-base,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/charm-layer-ceph-base,Non core,12.5,0.0,1,0
+openstack/charm-magnum,openstack/python-tricircleclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-tricircleclient,Non core,4.545454545454546,0.0,1,0
+openstack/charm-magnum,openstack/tricircle,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/tricircle,Non core,1.1904761904761905,0.6896551724137931,1,1
+openstack/charm-magnum,openstack/swift-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/swift-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/congress,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/congress,Non core,0.641025641025641,0.4608294930875576,1,1
+openstack/charm-magnum,openstack/congress-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/congress-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-congressclient,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/python-congressclient,Non core,1.8181818181818181,0.0,1,0
+openstack/charm-magnum,openstack/congress-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/congress-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/congress-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/congress-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/syntribos,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/syntribos,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/syntribos-payloads,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/syntribos-payloads,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/syntribos-openstack-templates,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/syntribos-openstack-templates,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/i18n-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/i18n-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tempest-plugin-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-graphlib,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-graphlib,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-repo_build,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-repo_build,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-hogan,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_molteniron,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_molteniron,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/faafo,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/faafo,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-calico,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/networking-calico,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/shotgun,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/shotgun,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-devops,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-devops,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-plugin-murano,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-plugin-murano,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-web,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-web,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-plugins,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-plugins,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-virtualbox,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-virtualbox,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-ostf,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-ostf,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-qa,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-qa,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-nailgun-extension-cluster-upgrade,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-nailgun-agent,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-nailgun-agent,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-mirror,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-mirror,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-menu,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-menu,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-main,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-main,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-library,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-library,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-dev-tools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-dev-tools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-stats,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-stats,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-nailgun-extension-converted-serializers,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-nailgun-extension-iac,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-plugin-murano-tests,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-astute,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-astute,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-docs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-docs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-agent,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-agent,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-octane,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuel-octane,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tuning-box,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tuning-box,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-fuelclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-fuelclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/neutron-interconnection,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/neutron-interconnection,Non core,16.666666666666664,0.0,1,0
+openstack/charm-magnum,openstack/openstack-chef-repo,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-chef-repo,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-acc,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/os-acc,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_zaqar,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_zaqar,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_watcher,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_watcher,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_searchlight,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_searchlight,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tempest-tripleo-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/docs-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/docs-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/release-schedule-generator,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/release-schedule-generator,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/opendev-website,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/opendev-website,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/castellan-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/castellan-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/compute-api,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/compute-api,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-neutron-api-odl,Core,0.0,0.0,1,5
+openstack/charm-magnum,openstack/charm-neutron-api-odl,Non core,7.142857142857142,35.714285714285715,1,5
+openstack/charm-magnum,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-murano,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/charm-murano,Non core,16.666666666666664,0.0,1,0
+openstack/charm-magnum,openstack/charm-openvswitch-odl,Core,0.0,0.0,1,4
+openstack/charm-magnum,openstack/charm-openvswitch-odl,Non core,7.142857142857142,30.76923076923077,1,4
+openstack/charm-magnum,openstack/charm-interface-odl-controller-api,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-interface-odl-controller-api,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/charm-glusterfs,Core,0.0,0.0,0,3
+openstack/charm-magnum,openstack/charm-glusterfs,Non core,0.0,23.076923076923077,0,3
+openstack/charm-magnum,openstack/charm-trove,Core,0.0,0.0,1,1
+openstack/charm-magnum,openstack/charm-trove,Non core,9.090909090909092,7.142857142857142,1,1
+openstack/charm-magnum,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuxi,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuxi,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/bandit,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/bandit,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-d3,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/xstatic-d3,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/instack,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/instack,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/astara,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/astara,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/astara-appliance,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/astara-appliance,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/astara-horizon,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/astara-horizon,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/astara-neutron,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/astara-neutron,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/anchor,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/anchor,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuxi-golang,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuxi-golang,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuxi-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/fuxi-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/puppet-odsreg,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/puppet-odsreg,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/puppet-docker_registry,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/releasestatus,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/releasestatus,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/vinz-webclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/activity-board,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/activity-board,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/beaker-localhost,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/beaker-nodepool,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/rst2bash,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/rst2bash,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/kolla-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/kolla-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cue-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cue-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-cueclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-cueclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cue,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/cue,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/app-catalog,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/app-catalog,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/identity-api,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/identity-api,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/app-catalog-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/app-catalog-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/app-catalog-common,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/app-catalog-common,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-appcatalogclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/python-appcatalogclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-openstack-pkg-tools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-mistral,Core,0.0,0.0,1,0
+openstack/charm-magnum,openstack/deb-mistral,Non core,10.0,0.0,1,0
+openstack/charm-magnum,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/installguide-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/installguide-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-opencontrail,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-neutron,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-neutron,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-nova,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-nova,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-keystone,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-keystone,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-horizon,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-horizon,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-heat,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-heat,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-glance,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-glance,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-cinder,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-cinder,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-salt,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-salt,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-midonet,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/salt-formula-midonet,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/magnetodb-specs,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/magnetodb-specs,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/oslo.version,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/oslo.version,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/image-api,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/image-api,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/object-api,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/object-api,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/volume-api,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/volume-api,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/magnetodb,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/magnetodb,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-nose,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack/openstack-nose,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/netconn-api,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/netconn-api,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/database-api,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/database-api,Non core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/charm-magnum,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

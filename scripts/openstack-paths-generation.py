@@ -3,8 +3,10 @@ import networkx as nx
 from itertools import chain, product,  starmap
 from functools import partial
 import os
-import shutil
+import ast
 import re
+import sys
+sys.path.append('../utils')
 import helpers as hpr
 from commons import combine_openstack_data
 
@@ -24,7 +26,7 @@ def remove_single_components(arr):
             result.append(list(item))
 
     return result
-
+    
 def retrieve_related_bug(x):
     result = re.findall(r"(Related-Bug:\s#\d+)", x)
     return [item[14:] for item in result]
@@ -124,22 +126,29 @@ if __name__ == "__main__":
     df_depends_needed = pd.read_csv("%sFiles/source_target_evolution.csv" % DIR)
 
     paths = get_paths(df_depends_needed)
-
+    
     related_bug_number_changes = build_related_bug_paths(df)
-    topic_number_changes = build_other_paths(df, "topic")
+    # topic_number_changes = build_other_paths(df, "topic")
     change_id_number_changes = build_other_paths(df, "change_id")
 
+    # TO DELETE AFTER
+    # paths = pd.read_csv("%sFiles/Number/depends_needed.csv" % DIR)
+    # paths = paths["Path"].apply(ast.literal_eval).values.tolist()
+    # related_bug_number_changes = pd.read_csv("%sFiles/Number/related_bug.csv" % DIR)
+    # related_bug_number_changes = related_bug_number_changes["Path"].apply(ast.literal_eval).values.tolist()
+    # # topic_number_changes = pd.read_csv("%sFiles/Number/topic.csv" % DIR)
+    # # topic_number_changes = topic_number_changes["Path"].apply(ast.literal_eval).values.tolist()
+    # change_id_number_changes = pd.read_csv("%sFiles/Number/change_id.csv" % DIR)
+    # change_id_number_changes = change_id_number_changes["Path"].apply(ast.literal_eval).values.tolist()
+    # END DELETE AFTER
     result_number_changes = combine_co_changes_number(paths, related_bug_number_changes)
-
-    result_number_changes = combine_co_changes_number(result_number_changes, topic_number_changes)
 
     result_number_changes = combine_co_changes_number(result_number_changes, change_id_number_changes)
 
     pd.DataFrame({"Path": paths}).to_csv("%sFiles/Number/depends_needed.csv" % DIR, index=False)
     pd.DataFrame({"Path": related_bug_number_changes}).to_csv("%sFiles/Number/related_bug.csv" % DIR, index=False)
-    pd.DataFrame({"Path": topic_number_changes}).to_csv("%sFiles/Number/topic.csv" % DIR, index=False)
     pd.DataFrame({"Path": change_id_number_changes}).to_csv("%sFiles/Number/change_id.csv" % DIR, index=False)
-    pd.DataFrame({"Path": result_number_changes}).to_csv("%sExperiments/all_paths.csv" % DIR, index=False)
+    pd.DataFrame({"Path": result_number_changes}).to_csv("%sFiles/Number/all_paths.csv" % DIR, index=False)
 
     end_date, end_header = hpr.generate_date("This script ended at")
 

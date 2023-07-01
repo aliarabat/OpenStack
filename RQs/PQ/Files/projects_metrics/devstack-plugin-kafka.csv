@@ -1,0 +1,1125 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/devstack-plugin-kafka,openstack/tripleo-ipsec,Core,11.76470588235294,5.405405405405405,3,2
+openstack/devstack-plugin-kafka,openstack/tripleo-ipsec,Non core,5.88235294117647,0.0,3,2
+openstack/devstack-plugin-kafka,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/monasca-grafana-datasource,Non core,0.0,2.380952380952381,0,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-bind-rndc,Core,6.25,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-bind-rndc,Non core,0.0,3.8461538461538463,1,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-rabbitmq,Core,6.666666666666667,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-rabbitmq,Non core,0.0,3.7037037037037033,1,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-openstack-ha,Core,7.142857142857142,3.8461538461538463,1,2
+openstack/devstack-plugin-kafka,openstack/charm-interface-openstack-ha,Non core,0.0,3.8461538461538463,1,2
+openstack/devstack-plugin-kafka,openstack/charm-interface-gnocchi,Core,7.6923076923076925,3.0303030303030303,1,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-gnocchi,Non core,0.0,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-bgp,Core,14.285714285714285,0.0,2,0
+openstack/devstack-plugin-kafka,openstack/charm-interface-bgp,Non core,0.0,0.0,2,0
+openstack/devstack-plugin-kafka,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/charm-interface-designate,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/charm-interface-designate,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/tempest-horizon,Core,3.7037037037037033,0.0,2,2
+openstack/devstack-plugin-kafka,openstack/tempest-horizon,Non core,3.7037037037037033,5.128205128205128,2,2
+openstack/devstack-plugin-kafka,openstack/logstash-filters,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/logstash-filters,Non core,0.0,4.3478260869565215,0,1
+openstack/devstack-plugin-kafka,openstack/xstatic-jquery-migrate,Core,9.090909090909092,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-jquery-migrate,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/qinling-dashboard,Core,0.0,6.0606060606060606,0,2
+openstack/devstack-plugin-kafka,openstack/qinling-dashboard,Non core,0.0,0.0,0,2
+openstack/devstack-plugin-kafka,openstack/python-qinlingclient,Core,5.555555555555555,7.5,3,5
+openstack/devstack-plugin-kafka,openstack/python-qinlingclient,Non core,2.7777777777777777,5.0,3,5
+openstack/devstack-plugin-kafka,openstack/qinling,Core,6.0,5.88235294117647,3,5
+openstack/devstack-plugin-kafka,openstack/qinling,Non core,0.0,3.9215686274509802,3,5
+openstack/devstack-plugin-kafka,openstack/monasca-analytics,Core,6.25,5.357142857142857,2,5
+openstack/devstack-plugin-kafka,openstack/monasca-analytics,Non core,0.0,3.571428571428571,2,5
+openstack/devstack-plugin-kafka,openstack/oslo-incubator,Core,1.0869565217391304,1.6018306636155606,4,11
+openstack/devstack-plugin-kafka,openstack/oslo-incubator,Non core,0.36231884057971014,0.9153318077803204,4,11
+openstack/devstack-plugin-kafka,openstack/puppet-congress,Core,2.7777777777777777,2.4390243902439024,2,2
+openstack/devstack-plugin-kafka,openstack/puppet-congress,Non core,2.7777777777777777,2.4390243902439024,2,2
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_monasca-ui,Core,5.0,2.7777777777777777,1,2
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,2.7777777777777777,1,2
+openstack/devstack-plugin-kafka,openstack/auto-scaling-sig,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/auto-scaling-sig,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/os-loganalyze,Core,2.7777777777777777,6.153846153846154,1,5
+openstack/devstack-plugin-kafka,openstack/os-loganalyze,Non core,0.0,1.5384615384615385,1,5
+openstack/devstack-plugin-kafka,openstack/devstack-plugin-pika,Core,22.22222222222222,17.391304347826086,4,7
+openstack/devstack-plugin-kafka,openstack/devstack-plugin-pika,Non core,22.22222222222222,13.043478260869565,4,7
+openstack/devstack-plugin-kafka,openstack/devstack-plugin-zmq,Core,23.076923076923077,36.36363636363637,5,11
+openstack/devstack-plugin-kafka,openstack/devstack-plugin-zmq,Non core,15.384615384615385,13.636363636363635,5,11
+openstack/devstack-plugin-kafka,openstack/networking-l2gw,Core,2.7027027027027026,1.8181818181818181,2,5
+openstack/devstack-plugin-kafka,openstack/networking-l2gw,Non core,0.0,1.2121212121212122,2,5
+openstack/devstack-plugin-kafka,openstack/networking-l2gw-tempest-plugin,Core,5.555555555555555,8.108108108108109,2,5
+openstack/devstack-plugin-kafka,openstack/networking-l2gw-tempest-plugin,Non core,5.555555555555555,5.405405405405405,2,5
+openstack/devstack-plugin-kafka,openstack/charm-interface-ceph-mds,Core,6.666666666666667,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-ceph-mds,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-ui-router,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-ui-router,Non core,0.0,4.0,0,1
+openstack/devstack-plugin-kafka,openstack/xstatic-vis,Core,9.090909090909092,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/xstatic-vis,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/cookbook-openstack-database,Core,0.0,2.5,0,2
+openstack/devstack-plugin-kafka,openstack/cookbook-openstack-database,Non core,0.0,2.5,0,2
+openstack/devstack-plugin-kafka,openstack/cookbook-openstack-data-processing,Core,0.0,2.941176470588235,0,2
+openstack/devstack-plugin-kafka,openstack/cookbook-openstack-data-processing,Non core,0.0,2.941176470588235,0,2
+openstack/devstack-plugin-kafka,openstack/trove-integration,Core,0.0,0.847457627118644,0,2
+openstack/devstack-plugin-kafka,openstack/trove-integration,Non core,0.0,0.847457627118644,0,2
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-sensu,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/python-ceilometerclient,Core,0.819672131147541,2.0408163265306123,1,7
+openstack/devstack-plugin-kafka,openstack/python-ceilometerclient,Non core,0.0,1.530612244897959,1,7
+openstack/devstack-plugin-kafka,openstack/keystoneauth-saml2,Core,5.0,2.0,1,2
+openstack/devstack-plugin-kafka,openstack/keystoneauth-saml2,Non core,0.0,2.0,1,2
+openstack/devstack-plugin-kafka,openstack/murano-deployment,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/murano-deployment,Non core,0.0,1.8518518518518516,0,1
+openstack/devstack-plugin-kafka,openstack/python-keystoneclient-kerberos,Core,5.0,2.083333333333333,1,2
+openstack/devstack-plugin-kafka,openstack/python-keystoneclient-kerberos,Non core,0.0,2.083333333333333,1,2
+openstack/devstack-plugin-kafka,openstack/python-wsmanclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/python-wsmanclient,Non core,0.0,3.8461538461538463,0,1
+openstack/devstack-plugin-kafka,openstack/fuel-upgrade,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/fuel-upgrade,Non core,0.0,2.272727272727273,0,1
+openstack/devstack-plugin-kafka,openstack/cookbook-openstack-object-storage,Core,0.0,1.694915254237288,0,2
+openstack/devstack-plugin-kafka,openstack/cookbook-openstack-object-storage,Non core,0.0,1.694915254237288,0,2
+openstack/devstack-plugin-kafka,openstack/fairy-slipper,Core,0.0,6.25,0,3
+openstack/devstack-plugin-kafka,openstack/fairy-slipper,Non core,0.0,3.125,0,3
+openstack/devstack-plugin-kafka,openstack/django-openstack-auth-kerberos,Core,7.6923076923076925,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/django-openstack-auth-kerberos,Non core,0.0,2.941176470588235,1,1
+openstack/devstack-plugin-kafka,openstack/horizon-cisco-ui,Core,0.0,3.3333333333333335,0,2
+openstack/devstack-plugin-kafka,openstack/horizon-cisco-ui,Non core,0.0,3.3333333333333335,0,2
+openstack/devstack-plugin-kafka,openstack/zuul-packaging,Core,0.0,3.7037037037037033,0,2
+openstack/devstack-plugin-kafka,openstack/zuul-packaging,Non core,0.0,3.7037037037037033,0,2
+openstack/devstack-plugin-kafka,openstack/networking-generic-switch-tempest-plugin,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/tripleo-incubator,Core,0.9615384615384616,1.694915254237288,1,4
+openstack/devstack-plugin-kafka,openstack/tripleo-incubator,Non core,0.0,0.5649717514124294,1,4
+openstack/devstack-plugin-kafka,openstack/ironic-webclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/ironic-webclient,Non core,0.0,2.083333333333333,0,1
+openstack/devstack-plugin-kafka,openstack/puppet-crane,Core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/puppet-crane,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/release-tools,Core,5.0,7.228915662650602,2,8
+openstack/devstack-plugin-kafka,openstack/release-tools,Non core,0.0,2.4096385542168677,2,8
+openstack/devstack-plugin-kafka,openstack/gnocchi,Core,1.3157894736842104,2.8169014084507045,1,6
+openstack/devstack-plugin-kafka,openstack/gnocchi,Non core,0.0,1.4084507042253522,1,6
+openstack/devstack-plugin-kafka,openstack/networking-ofagent,Core,0.0,2.380952380952381,0,2
+openstack/devstack-plugin-kafka,openstack/networking-ofagent,Non core,0.0,2.380952380952381,0,2
+openstack/devstack-plugin-kafka,openstack/python-neutron-pd-driver,Core,0.0,4.761904761904762,0,2
+openstack/devstack-plugin-kafka,openstack/python-neutron-pd-driver,Non core,0.0,4.761904761904762,0,2
+openstack/devstack-plugin-kafka,openstack/charm-ceph,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/charm-ceph,Non core,0.0,2.7027027027027026,0,1
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_freezer,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-pip_lock_down,Core,4.761904761904762,3.125,1,2
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-pip_lock_down,Non core,0.0,3.125,1,2
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-security,Core,2.1739130434782608,1.1627906976744187,1,2
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-security,Non core,0.0,1.1627906976744187,1,2
+openstack/devstack-plugin-kafka,openstack/oslosphinx,Core,3.7735849056603774,7.5,2,8
+openstack/devstack-plugin-kafka,openstack/oslosphinx,Non core,0.0,2.5,2,8
+openstack/devstack-plugin-kafka,openstack/python-gnocchiclient,Core,0.0,4.166666666666666,0,3
+openstack/devstack-plugin-kafka,openstack/python-gnocchiclient,Non core,0.0,2.083333333333333,0,3
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-cinder,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-cookiecutter,Core,0.0,9.523809523809524,0,2
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,0,2
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-glance,Core,9.090909090909092,4.545454545454546,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-keystone,Core,9.090909090909092,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-mariadb,Core,8.333333333333332,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-rabbitmq,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-tripleo,Core,9.090909090909092,4.3478260869565215,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-ui,Core,7.142857142857142,4.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-aodh,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-aodh,Non core,0.0,4.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-barbican,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-ceilometer,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-cinder,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-cookiecutter,Core,5.555555555555555,3.125,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/tripleo-ui,Core,2.4390243902439024,4.878048780487805,2,6
+openstack/devstack-plugin-kafka,openstack/tripleo-ui,Non core,2.4390243902439024,2.4390243902439024,2,6
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-ovn,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-opendaylight,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-octavia,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-octavia,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-nova,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-nova,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/os-cloud-config,Core,3.4482758620689653,1.834862385321101,2,3
+openstack/devstack-plugin-kafka,openstack/os-cloud-config,Non core,0.0,0.9174311926605505,2,3
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-zaqar,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-zaqar,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-tempest,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-sahara,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-swift,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-tacker,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-rabbitmq,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-qdrouterd,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-panko,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-heat,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-haproxy,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-haproxy,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-gnocchi,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-glance,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-glance,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-designate,Core,7.142857142857142,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-neutron,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-neutron,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-mistral,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-mistral,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-memcached,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-memcached,Non core,0.0,4.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-manila,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-manila,Non core,0.0,4.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-ironic,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-ironic,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-keepalived,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-keepalived,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-horizon,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/ansible-role-tripleo-horizon,Non core,0.0,4.166666666666666,1,1
+openstack/devstack-plugin-kafka,openstack/pylockfile,Core,6.25,19.35483870967742,1,7
+openstack/devstack-plugin-kafka,openstack/pylockfile,Non core,0.0,3.225806451612903,1,7
+openstack/devstack-plugin-kafka,openstack/xstatic-moment-timezone,Core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/xstatic-dagre-d3,Core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/dragonflow,Core,1.5267175572519083,1.9704433497536946,2,7
+openstack/devstack-plugin-kafka,openstack/dragonflow,Non core,0.0,1.477832512315271,2,7
+openstack/devstack-plugin-kafka,openstack/openstack,Core,0.0,12.903225806451612,0,5
+openstack/devstack-plugin-kafka,openstack/openstack,Non core,0.0,3.225806451612903,0,5
+openstack/devstack-plugin-kafka,openstack/charm-interface-pacemaker-remote,Core,8.333333333333332,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-pacemaker-remote,Non core,0.0,3.8461538461538463,1,1
+openstack/devstack-plugin-kafka,openstack/networking-onos,Core,4.166666666666666,3.076923076923077,1,3
+openstack/devstack-plugin-kafka,openstack/networking-onos,Non core,0.0,1.5384615384615385,1,3
+openstack/devstack-plugin-kafka,openstack/solum-infra-guestagent,Core,0.0,3.3333333333333335,0,2
+openstack/devstack-plugin-kafka,openstack/solum-infra-guestagent,Non core,0.0,3.3333333333333335,0,2
+openstack/devstack-plugin-kafka,openstack/openstack-ux,Core,0.0,2.857142857142857,0,2
+openstack/devstack-plugin-kafka,openstack/openstack-ux,Non core,0.0,2.857142857142857,0,2
+openstack/devstack-plugin-kafka,openstack/mox3,Core,2.941176470588235,14.893617021276595,1,9
+openstack/devstack-plugin-kafka,openstack/mox3,Non core,0.0,4.25531914893617,1,9
+openstack/devstack-plugin-kafka,openstack/charm-layer-ceph,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/charm-layer-ceph,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/charm-layer-ceph-base,Core,8.333333333333332,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-layer-ceph-base,Non core,0.0,4.3478260869565215,1,1
+openstack/devstack-plugin-kafka,openstack/python-tricircleclient,Core,4.0,4.545454545454546,2,4
+openstack/devstack-plugin-kafka,openstack/python-tricircleclient,Non core,4.0,4.545454545454546,2,4
+openstack/devstack-plugin-kafka,openstack/tricircle,Core,3.488372093023256,3.3333333333333335,3,7
+openstack/devstack-plugin-kafka,openstack/tricircle,Non core,0.0,1.3333333333333335,3,7
+openstack/devstack-plugin-kafka,openstack/swift-specs,Core,3.225806451612903,2.5,1,3
+openstack/devstack-plugin-kafka,openstack/swift-specs,Non core,0.0,1.25,1,3
+openstack/devstack-plugin-kafka,openstack/congress,Core,1.89873417721519,2.727272727272727,3,9
+openstack/devstack-plugin-kafka,openstack/congress,Non core,0.0,1.3636363636363635,3,9
+openstack/devstack-plugin-kafka,openstack/congress-tempest-plugin,Core,3.8461538461538463,5.0,2,4
+openstack/devstack-plugin-kafka,openstack/congress-tempest-plugin,Non core,3.8461538461538463,5.0,2,4
+openstack/devstack-plugin-kafka,openstack/python-congressclient,Core,1.7241379310344827,2.9850746268656714,2,4
+openstack/devstack-plugin-kafka,openstack/python-congressclient,Non core,1.7241379310344827,2.9850746268656714,2,4
+openstack/devstack-plugin-kafka,openstack/congress-specs,Core,2.380952380952381,1.5625,1,2
+openstack/devstack-plugin-kafka,openstack/congress-specs,Non core,0.0,1.5625,1,2
+openstack/devstack-plugin-kafka,openstack/congress-dashboard,Core,3.125,6.122448979591836,1,4
+openstack/devstack-plugin-kafka,openstack/congress-dashboard,Non core,0.0,2.0408163265306123,1,4
+openstack/devstack-plugin-kafka,openstack/syntribos,Core,2.631578947368421,1.9230769230769231,1,2
+openstack/devstack-plugin-kafka,openstack/syntribos,Non core,0.0,1.9230769230769231,1,2
+openstack/devstack-plugin-kafka,openstack/syntribos-payloads,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/syntribos-payloads,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack/syntribos-openstack-templates,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/syntribos-openstack-templates,Non core,0.0,3.8461538461538463,0,1
+openstack/devstack-plugin-kafka,openstack/i18n-specs,Core,10.0,4.166666666666666,1,2
+openstack/devstack-plugin-kafka,openstack/i18n-specs,Non core,0.0,4.166666666666666,1,2
+openstack/devstack-plugin-kafka,openstack/tempest-plugin-cookiecutter,Core,0.0,3.4482758620689653,0,2
+openstack/devstack-plugin-kafka,openstack/tempest-plugin-cookiecutter,Non core,0.0,3.4482758620689653,0,2
+openstack/devstack-plugin-kafka,openstack/devstack-plugin-cookiecutter,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/devstack-plugin-cookiecutter,Non core,0.0,4.3478260869565215,0,1
+openstack/devstack-plugin-kafka,openstack/xstatic-graphlib,Core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-repo_build,Core,3.076923076923077,3.125,2,6
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-repo_build,Non core,0.0,3.125,2,6
+openstack/devstack-plugin-kafka,openstack/xstatic-bootstrap-datepicker,Core,6.666666666666667,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-bootstrap-datepicker,Non core,0.0,2.941176470588235,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-hogan,Core,10.0,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-hogan,Non core,0.0,4.3478260869565215,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-jquery.quicksearch,Core,10.0,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-jquery.quicksearch,Non core,0.0,4.3478260869565215,1,1
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_molteniron,Core,6.666666666666667,4.545454545454546,2,5
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_molteniron,Non core,0.0,6.8181818181818175,2,5
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-lrdragndrop,Core,7.142857142857142,3.3333333333333335,1,2
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-lrdragndrop,Non core,0.0,3.3333333333333335,1,2
+openstack/devstack-plugin-kafka,openstack/faafo,Core,5.555555555555555,2.941176470588235,1,2
+openstack/devstack-plugin-kafka,openstack/faafo,Non core,0.0,2.941176470588235,1,2
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-bootstrap,Core,5.88235294117647,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-bootstrap,Non core,0.0,2.7777777777777777,1,1
+openstack/devstack-plugin-kafka,openstack/networking-calico,Core,5.0,2.7777777777777777,2,4
+openstack/devstack-plugin-kafka,openstack/networking-calico,Non core,0.0,2.7777777777777777,2,4
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-gettext,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-gettext,Non core,0.0,3.225806451612903,1,1
+openstack/devstack-plugin-kafka,openstack/shotgun,Core,0.0,1.1111111111111112,0,2
+openstack/devstack-plugin-kafka,openstack/shotgun,Non core,0.0,1.1111111111111112,0,2
+openstack/devstack-plugin-kafka,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-aioeventlet,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/fuel-devops,Core,0.0,0.6451612903225806,0,4
+openstack/devstack-plugin-kafka,openstack/fuel-devops,Non core,0.0,1.935483870967742,0,4
+openstack/devstack-plugin-kafka,openstack/fuel-plugin-murano,Core,0.0,2.1739130434782608,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-plugin-murano,Non core,0.0,2.1739130434782608,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-web,Core,0.0,0.49382716049382713,0,3
+openstack/devstack-plugin-kafka,openstack/fuel-web,Non core,0.0,0.24691358024691357,0,3
+openstack/devstack-plugin-kafka,openstack/fuel-plugins,Core,0.0,0.8547008547008548,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-plugins,Non core,0.0,0.8547008547008548,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-virtualbox,Core,0.0,2.631578947368421,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-virtualbox,Non core,0.0,2.631578947368421,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-ostf,Core,0.0,0.881057268722467,0,3
+openstack/devstack-plugin-kafka,openstack/fuel-ostf,Non core,0.0,0.4405286343612335,0,3
+openstack/devstack-plugin-kafka,openstack/fuel-qa,Core,0.0,0.38314176245210724,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-qa,Non core,0.0,0.38314176245210724,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-specs,Core,0.0,0.6389776357827476,0,3
+openstack/devstack-plugin-kafka,openstack/fuel-specs,Non core,0.0,0.3194888178913738,0,3
+openstack/devstack-plugin-kafka,openstack/fuel-nailgun-extension-cluster-upgrade,Core,0.0,2.631578947368421,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,2.631578947368421,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-nailgun-agent,Core,0.0,0.8849557522123894,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-nailgun-agent,Non core,0.0,0.8849557522123894,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-mirror,Core,0.0,0.847457627118644,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-mirror,Non core,0.0,0.847457627118644,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-menu,Core,0.0,0.7692307692307693,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-menu,Non core,0.0,0.7692307692307693,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-main,Core,0.0,0.7633587786259541,0,4
+openstack/devstack-plugin-kafka,openstack/fuel-main,Non core,0.0,0.7633587786259541,0,4
+openstack/devstack-plugin-kafka,openstack/fuel-ui,Core,0.0,0.9523809523809524,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-ui,Non core,0.0,0.9523809523809524,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-library,Core,0.0,0.4405286343612335,0,3
+openstack/devstack-plugin-kafka,openstack/fuel-library,Non core,0.0,0.22026431718061676,0,3
+openstack/devstack-plugin-kafka,openstack/fuel-dev-tools,Core,4.761904761904762,2.631578947368421,1,2
+openstack/devstack-plugin-kafka,openstack/fuel-dev-tools,Non core,0.0,2.631578947368421,1,2
+openstack/devstack-plugin-kafka,openstack/fuel-stats,Core,0.0,1.5625,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-stats,Non core,0.0,1.5625,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-nailgun-extension-converted-serializers,Core,0.0,4.761904761904762,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,4.761904761904762,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-nailgun-extension-iac,Core,0.0,4.3478260869565215,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-nailgun-extension-iac,Non core,0.0,4.3478260869565215,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-plugin-murano-tests,Core,0.0,2.1739130434782608,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-plugin-murano-tests,Non core,0.0,2.1739130434782608,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-astute,Core,0.0,0.591715976331361,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-astute,Non core,0.0,0.591715976331361,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-docs,Core,0.0,0.6060606060606061,0,3
+openstack/devstack-plugin-kafka,openstack/fuel-docs,Non core,0.0,0.30303030303030304,0,3
+openstack/devstack-plugin-kafka,openstack/fuel-agent,Core,0.0,0.6060606060606061,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-agent,Non core,0.0,0.6060606060606061,0,2
+openstack/devstack-plugin-kafka,openstack/fuel-octane,Core,2.564102564102564,1.3888888888888888,1,2
+openstack/devstack-plugin-kafka,openstack/fuel-octane,Non core,0.0,1.3888888888888888,1,2
+openstack/devstack-plugin-kafka,openstack/tuning-box,Core,7.6923076923076925,4.761904761904762,1,3
+openstack/devstack-plugin-kafka,openstack/tuning-box,Non core,0.0,2.380952380952381,1,3
+openstack/devstack-plugin-kafka,openstack/python-fuelclient,Core,0.0,1.2345679012345678,0,3
+openstack/devstack-plugin-kafka,openstack/python-fuelclient,Non core,0.0,0.6172839506172839,0,3
+openstack/devstack-plugin-kafka,openstack/neutron-interconnection,Core,0.0,3.4482758620689653,0,1
+openstack/devstack-plugin-kafka,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/openstack-chef-repo,Core,0.0,1.4084507042253522,0,2
+openstack/devstack-plugin-kafka,openstack/openstack-chef-repo,Non core,0.0,1.4084507042253522,0,2
+openstack/devstack-plugin-kafka,openstack/os-acc,Core,0.0,5.714285714285714,0,2
+openstack/devstack-plugin-kafka,openstack/os-acc,Non core,0.0,0.0,0,2
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_zaqar,Core,4.651162790697675,3.1746031746031744,2,4
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_zaqar,Non core,0.0,3.1746031746031744,2,4
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_watcher,Core,2.631578947368421,5.454545454545454,2,4
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_watcher,Non core,2.631578947368421,1.8181818181818181,2,4
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_searchlight,Core,6.666666666666667,2.083333333333333,2,2
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_searchlight,Non core,0.0,2.083333333333333,2,2
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-vis,Core,11.11111111111111,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/xstatic-font-awesome,Core,7.142857142857142,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-font-awesome,Non core,0.0,3.225806451612903,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-jasmine,Core,5.555555555555555,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-jasmine,Non core,0.0,3.0303030303030303,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-notify,Core,11.11111111111111,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-material,Core,9.090909090909092,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/tempest-tripleo-ui,Core,9.090909090909092,6.896551724137931,1,2
+openstack/devstack-plugin-kafka,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,2
+openstack/devstack-plugin-kafka,openstack/docs-specs,Core,1.8181818181818181,2.28310502283105,1,6
+openstack/devstack-plugin-kafka,openstack/docs-specs,Non core,0.0,0.45662100456621,1,6
+openstack/devstack-plugin-kafka,openstack/release-schedule-generator,Core,0.0,9.090909090909092,0,3
+openstack/devstack-plugin-kafka,openstack/release-schedule-generator,Non core,0.0,4.545454545454546,0,3
+openstack/devstack-plugin-kafka,openstack-infra/opendev-website,Core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack-infra/opendev-website,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/castellan-ui,Core,16.666666666666664,8.571428571428571,2,4
+openstack/devstack-plugin-kafka,openstack/castellan-ui,Non core,0.0,2.857142857142857,2,4
+openstack/devstack-plugin-kafka,openstack-attic/compute-api,Core,0.0,3.8461538461538463,0,3
+openstack/devstack-plugin-kafka,openstack-attic/compute-api,Non core,0.0,1.9230769230769231,0,3
+openstack/devstack-plugin-kafka,openstack/charm-neutron-api-odl,Core,11.76470588235294,3.571428571428571,2,2
+openstack/devstack-plugin-kafka,openstack/charm-neutron-api-odl,Non core,0.0,3.571428571428571,2,2
+openstack/devstack-plugin-kafka,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/charm-murano,Core,10.0,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-murano,Non core,0.0,4.761904761904762,1,1
+openstack/devstack-plugin-kafka,openstack/charm-openvswitch-odl,Core,5.555555555555555,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-openvswitch-odl,Non core,0.0,3.7037037037037033,1,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-odl-controller-api,Core,9.090909090909092,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-interface-odl-controller-api,Non core,0.0,4.761904761904762,1,1
+openstack/devstack-plugin-kafka,openstack/charm-glusterfs,Core,10.0,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-glusterfs,Non core,0.0,3.8461538461538463,1,1
+openstack/devstack-plugin-kafka,openstack/charm-trove,Core,6.666666666666667,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/charm-trove,Non core,0.0,4.0,1,1
+openstack/devstack-plugin-kafka,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-positional,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-requests-unixsocket,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-traceback2,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ryu,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-linecache2,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-gabbi,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-cotyledon,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-migrate,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/fuxi,Core,0.0,1.5873015873015872,0,2
+openstack/devstack-plugin-kafka,openstack/fuxi,Non core,0.0,1.5873015873015872,0,2
+openstack/devstack-plugin-kafka,openstack/xstatic-filesaver,Core,11.11111111111111,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-uuid,Core,11.11111111111111,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/devstack-plugin-kafka,openstack/bandit,Core,1.4925373134328357,3.5294117647058822,1,4
+openstack/devstack-plugin-kafka,openstack/bandit,Non core,0.0,1.1764705882352942,1,4
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-smart-table,Core,9.090909090909092,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-angular-smart-table,Non core,0.0,4.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-bootswatch,Core,8.333333333333332,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-bootswatch,Non core,0.0,3.225806451612903,1,1
+openstack/devstack-plugin-kafka,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-msgpack-python,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/xstatic-d3,Core,7.6923076923076925,0.0,1,1
+openstack/devstack-plugin-kafka,openstack/xstatic-d3,Non core,0.0,3.225806451612903,1,1
+openstack/devstack-plugin-kafka,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pymemcache,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-novnc,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/instack,Core,11.11111111111111,8.16326530612245,4,6
+openstack/devstack-plugin-kafka,openstack/instack,Non core,3.7037037037037033,4.081632653061225,4,6
+openstack/devstack-plugin-kafka,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pysaml2,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-trollius,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-autobahn,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pyldap,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/astara,Core,2.2222222222222223,3.076923076923077,1,3
+openstack/devstack-plugin-kafka,openstack/astara,Non core,0.0,1.5384615384615385,1,3
+openstack/devstack-plugin-kafka,openstack/astara-appliance,Core,0.0,2.4390243902439024,0,2
+openstack/devstack-plugin-kafka,openstack/astara-appliance,Non core,0.0,2.4390243902439024,0,2
+openstack/devstack-plugin-kafka,openstack/astara-horizon,Core,0.0,2.941176470588235,0,2
+openstack/devstack-plugin-kafka,openstack/astara-horizon,Non core,0.0,2.941176470588235,0,2
+openstack/devstack-plugin-kafka,openstack/astara-neutron,Core,0.0,2.857142857142857,0,2
+openstack/devstack-plugin-kafka,openstack/astara-neutron,Non core,0.0,2.857142857142857,0,2
+openstack/devstack-plugin-kafka,openstack/anchor,Core,0.0,1.6666666666666667,0,2
+openstack/devstack-plugin-kafka,openstack/anchor,Non core,0.0,1.6666666666666667,0,2
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/fuxi-golang,Core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/fuxi-golang,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/fuxi-kubernetes,Core,0.0,3.8461538461538463,0,2
+openstack/devstack-plugin-kafka,openstack/fuxi-kubernetes,Non core,0.0,3.8461538461538463,0,2
+openstack/devstack-plugin-kafka,openstack-infra/puppet-odsreg,Core,0.0,6.666666666666667,0,3
+openstack/devstack-plugin-kafka,openstack-infra/puppet-odsreg,Non core,0.0,3.3333333333333335,0,3
+openstack/devstack-plugin-kafka,openstack-infra/puppet-docker_registry,Core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/releasestatus,Core,0.0,8.333333333333332,0,3
+openstack/devstack-plugin-kafka,openstack/releasestatus,Non core,0.0,4.166666666666666,0,3
+openstack/devstack-plugin-kafka,openstack-infra/vinz-webclient,Core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/activity-board,Core,4.3478260869565215,3.125,1,3
+openstack/devstack-plugin-kafka,openstack/activity-board,Non core,0.0,1.5625,1,3
+openstack/devstack-plugin-kafka,openstack-infra/beaker-localhost,Core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack-infra/beaker-nodepool,Core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/rst2bash,Core,9.090909090909092,12.0,1,4
+openstack/devstack-plugin-kafka,openstack/rst2bash,Non core,0.0,4.0,1,4
+openstack/devstack-plugin-kafka,openstack/kolla-kubernetes,Core,1.36986301369863,1.4705882352941175,1,3
+openstack/devstack-plugin-kafka,openstack/kolla-kubernetes,Non core,0.0,0.7352941176470588,1,3
+openstack/devstack-plugin-kafka,openstack/cue-dashboard,Core,5.555555555555555,3.571428571428571,1,2
+openstack/devstack-plugin-kafka,openstack/cue-dashboard,Non core,0.0,3.571428571428571,1,2
+openstack/devstack-plugin-kafka,openstack/python-cueclient,Core,4.761904761904762,3.571428571428571,1,2
+openstack/devstack-plugin-kafka,openstack/python-cueclient,Non core,0.0,3.571428571428571,1,2
+openstack/devstack-plugin-kafka,openstack/cue,Core,2.564102564102564,3.9215686274509802,1,3
+openstack/devstack-plugin-kafka,openstack/cue,Non core,0.0,1.9607843137254901,1,3
+openstack/devstack-plugin-kafka,openstack/app-catalog,Core,1.4492753623188406,1.2195121951219512,1,2
+openstack/devstack-plugin-kafka,openstack/app-catalog,Non core,0.0,1.2195121951219512,1,2
+openstack/devstack-plugin-kafka,openstack-attic/identity-api,Core,0.0,3.061224489795918,0,4
+openstack/devstack-plugin-kafka,openstack-attic/identity-api,Non core,0.0,1.0204081632653061,0,4
+openstack/devstack-plugin-kafka,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-fixtures,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/python-magnetodbclient,Non core,0.0,3.571428571428571,0,1
+openstack/devstack-plugin-kafka,openstack/app-catalog-ui,Core,0.0,2.941176470588235,0,2
+openstack/devstack-plugin-kafka,openstack/app-catalog-ui,Non core,0.0,2.941176470588235,0,2
+openstack/devstack-plugin-kafka,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-kubernetes,Non core,0.0,4.0,0,1
+openstack/devstack-plugin-kafka,openstack/app-catalog-common,Core,0.0,5.0,0,2
+openstack/devstack-plugin-kafka,openstack/app-catalog-common,Non core,0.0,5.0,0,2
+openstack/devstack-plugin-kafka,openstack/python-appcatalogclient,Core,0.0,4.3478260869565215,0,2
+openstack/devstack-plugin-kafka,openstack/python-appcatalogclient,Non core,0.0,4.3478260869565215,0,2
+openstack/devstack-plugin-kafka,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-nova,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-kazoo,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-congressclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-congress,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-net-config,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ironic,Non core,0.0,4.3478260869565215,0,1
+openstack/devstack-plugin-kafka,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-swauth,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-api-ref,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-designate,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-swift,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-manila-ui,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-barbican,Non core,0.0,4.3478260869565215,0,1
+openstack/devstack-plugin-kafka,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-cinder,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-magnum,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-trove,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack/deb-openstack-pkg-tools,Core,0.0,3.7037037037037033,0,2
+openstack/devstack-plugin-kafka,openstack/deb-openstack-pkg-tools,Non core,0.0,3.7037037037037033,0,2
+openstack/devstack-plugin-kafka,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-swiftclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-alembic,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-cinderclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-nec,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-neutron-taas,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-mlnx,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-openstack-meta-packages,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-odl,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-nodepool,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-cisco,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-midonet,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-arista,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-hyperv,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-rtslib-fb,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-murano,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-semantic-version,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ldappool,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-zaqar-ui,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-zaqar,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-watcher,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-testr,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-win,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pycadf,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pyghmi,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-reno,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-refresh-config,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-vif,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pyeclib,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-quantumclient,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-requestsexceptions,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pbr,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-requests-mock,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-saharaclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-scciclient,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-seamicroclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-auto-backports,Non core,0.0,4.3478260869565215,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-senlinclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-taskflow,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-testtools,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-tooz,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-shotgun,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-tackerclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-tosca-parser,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-troveclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-tuskarclient,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-watcherclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-wsme,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-bootswatch,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-angular-mock,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-d3,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-hogan,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-font-awesome,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jasmine,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-magic-search,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-mdi,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-objectpath,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-qunit,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-rickshaw,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-spin,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-tv4,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-yaql,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-zaqarclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-rally,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-sahara,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-sahara-dashboard,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-senlin,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-senlin-dashboard,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-stevedore,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-swift-bench,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-swift-plugin-s3,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-trove-dashboard,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-tempest,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-osprofiler,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.vmware,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.utils,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.rootwrap,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.service,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.privsep,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.versionedobjects,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslotest,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.serialization,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.reports,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.policy,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.middleware,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.messaging,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.log,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-aodhclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-automaton,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-barbicanclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-bashate,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-castellan,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ceilometerclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ceilometermiddleware,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-cliff,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-cursive,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-debtcollector,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-designateclient,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-dib-utils,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-diskimage-builder,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-doc8,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-openstack-auth,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-fuelclient,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-dogpile.cache,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-futurist,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-glanceclient,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-glance-store,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-hacking,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-heatclient,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ironicclient,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ironic-inspector-client,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ironic-lib,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-k8sclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-keystoneauth1,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-keystoneclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-keystonemiddleware,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-magnumclient,Non core,0.0,4.3478260869565215,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-manilaclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-microversion-parse,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-mistralclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-monascaclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-mox3,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-muranoclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-neutronclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-neutron-lib,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-novaclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-openstackclient,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-openstackdocstheme,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-openstacksdk,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-apply-config,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-brick,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-osc-lib,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-client-config,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-collect-config,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.cache,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.db,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.concurrency,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.config,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.i18n,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oslo.context,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-openstack-nose,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-openstack-doc-tools,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-openstack-trove,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-oslosphinx,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-aodh,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-bandit,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ceilometer,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ceilometermiddleware,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-designate-dashboard,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-git-review,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-glance,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-glare,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-heat,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-heat-cfntools,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-horizon,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ironic-inspector,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-ironic-ui,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-keystone,Non core,0.0,4.3478260869565215,0,1
+openstack/devstack-plugin-kafka,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-liberasurecode,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-manila,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack/deb-mistral,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-mistral,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-murano-agent,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-murano-dashboard,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-l2gw,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-networking-ovn,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-neutron,Non core,0.0,4.3478260869565215,0,1
+openstack/devstack-plugin-kafka,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-neutron-fwaas,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-neutron-vpnaas,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-neutron-lbaas,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack/installguide-cookiecutter,Core,0.0,3.225806451612903,0,2
+openstack/devstack-plugin-kafka,openstack/installguide-cookiecutter,Non core,0.0,3.225806451612903,0,2
+openstack/devstack-plugin-kafka,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-gnocchi,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-eventlet,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pymysql,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-opencontrail,Non core,0.0,3.3333333333333335,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-neutron,Core,0.0,3.125,0,2
+openstack/devstack-plugin-kafka,openstack/salt-formula-neutron,Non core,0.0,3.125,0,2
+openstack/devstack-plugin-kafka,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-swift,Non core,0.0,4.3478260869565215,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-nova,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-nova,Non core,0.0,3.0303030303030303,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-keystone,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-keystone,Non core,0.0,3.225806451612903,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-horizon,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-horizon,Non core,0.0,3.571428571428571,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-heat,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-heat,Non core,0.0,3.4482758620689653,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-glance,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-glance,Non core,0.0,3.225806451612903,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-cinder,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-cinder,Non core,0.0,3.571428571428571,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-ceilometer,Non core,0.0,3.3333333333333335,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pygit2,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-libisal,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xvfbwrapper,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-testresources,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-compressor,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-sqlalchemy-utils,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pykmip,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-coffin,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-txaio,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-hplefthandclient,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-overextends,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pytimeparse,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-nose-timer,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-retrying,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-discover-runner,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-lesscpy,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-happybase,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-extras,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-functools32,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pydot-ng,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-jsonschema,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-kafka,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-rcssmin,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-nose-parameterized,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pika-pool,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-rfc3986,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-httpretty,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pint,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-pyscss,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-falcon,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-subunit,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-formtools,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-nose-exclude,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pydotplus,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pager,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-proliantutils,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-gnocchiclient,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-babel,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-requests-kerberos,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-colander,Non core,0.0,4.761904761904762,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-dcos,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-bootstrap-form,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-term.js,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-toml,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-semver,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-websocket-client,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-fasteners,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-jingo,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pecan,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-frozendict,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/devstack-plugin-kafka,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-wrapt,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-funcsigs,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-crank,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pyvmomi,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-wsgi-intercept,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-os-cloud-config,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-weakrefmethod,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-steadymark,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-warlock,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-couleur,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-json-patch,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-jsonrpclib,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-multi-key-dict,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-memcache,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pulp,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-fonts-roboto-fontface,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-websockify,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-daemonize,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-pyngus,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-editor,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-ddt,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-monotonic,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-rjsmin,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-jsonpath-rw,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-django-appconf,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-oauth2client,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-json-pointer,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack-attic/akanda,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack-attic/akanda,Non core,0.0,3.4482758620689653,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-smart-table,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-requestbuilder,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-nosehtmloutput,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-csscompressor,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-croniter,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-python-concurrent.futures,Non core,0.0,5.0,0,1
+openstack/devstack-plugin-kafka,openstack/openstack-salt,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/openstack-salt,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/deb-spice-html5,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-midonet,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/salt-formula-midonet,Non core,0.0,5.263157894736842,0,1
+openstack/devstack-plugin-kafka,openstack/magnetodb-specs,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack/magnetodb-specs,Non core,0.0,2.7777777777777777,0,1
+openstack/devstack-plugin-kafka,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack-attic/akanda-appliance-builder,Non core,0.0,4.166666666666666,0,1
+openstack/devstack-plugin-kafka,openstack-attic/oslo.version,Core,6.25,15.625,1,6
+openstack/devstack-plugin-kafka,openstack-attic/oslo.version,Non core,0.0,3.125,1,6
+openstack/devstack-plugin-kafka,openstack-attic/image-api,Core,0.0,2.7777777777777777,0,2
+openstack/devstack-plugin-kafka,openstack-attic/image-api,Non core,0.0,2.7777777777777777,0,2
+openstack/devstack-plugin-kafka,openstack-attic/object-api,Core,0.0,2.1739130434782608,0,2
+openstack/devstack-plugin-kafka,openstack-attic/object-api,Non core,0.0,2.1739130434782608,0,2
+openstack/devstack-plugin-kafka,openstack-attic/volume-api,Core,0.0,2.631578947368421,0,2
+openstack/devstack-plugin-kafka,openstack-attic/volume-api,Non core,0.0,2.631578947368421,0,2
+openstack/devstack-plugin-kafka,openstack/magnetodb,Core,3.3333333333333335,1.8518518518518516,1,2
+openstack/devstack-plugin-kafka,openstack/magnetodb,Non core,0.0,1.8518518518518516,1,2
+openstack/devstack-plugin-kafka,openstack/openstack-nose,Core,0.0,4.0,0,2
+openstack/devstack-plugin-kafka,openstack/openstack-nose,Non core,0.0,4.0,0,2
+openstack/devstack-plugin-kafka,openstack-attic/netconn-api,Core,0.0,1.4925373134328357,0,2
+openstack/devstack-plugin-kafka,openstack-attic/netconn-api,Non core,0.0,1.4925373134328357,0,2
+openstack/devstack-plugin-kafka,openstack-attic/python-melangeclient,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack-attic/python-melangeclient,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack-attic/melange,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack-attic/melange,Non core,0.0,3.125,0,1
+openstack/devstack-plugin-kafka,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack-attic/openstack-qa,Non core,0.0,4.545454545454546,0,1
+openstack/devstack-plugin-kafka,openstack-attic/database-api,Core,0.0,2.941176470588235,0,2
+openstack/devstack-plugin-kafka,openstack-attic/database-api,Non core,0.0,2.941176470588235,0,2
+openstack/devstack-plugin-kafka,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/devstack-plugin-kafka,openstack-attic/openstack-security-notes,Non core,0.0,1.1363636363636365,0,1

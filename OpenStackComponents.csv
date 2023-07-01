@@ -1,0 +1,55 @@
+﻿OpenStack Components,Category,Sub-Category
+NOVA,OpenStack Services,Compute Service
+ZUN,OpenStack Services,Containers Service
+IRONIC,OpenStack Services,Bare Metal Provisionning Service
+CYBORG,OpenStack Services,Lifecycle managmenet of accelerators
+SWIFT,OpenStack Services,Object store
+CINDER,OpenStack Services,Block Storage
+MANILA,OpenStack Services,Shared filesystems
+NEUTRON,OpenStack Services,Networking
+OCTAVIA,OpenStack Services,Load balancer
+DESIGNATE,OpenStack Services,DNS service
+KEYSTONE,OpenStack Services,Identity service
+PLACEMENT,OpenStack Services,Placement service
+GLANCE,OpenStack Services,Image service
+BARBICAN,OpenStack Services,Key managmenet
+HEAT,OpenStack Services,Orchestration
+SENLIN,OpenStack Services,Clustering service
+MISTRAL,OpenStack Services,Workflow service
+ZAQAR,OpenStack Services,Messaging Service
+BLAZAR,OpenStack Services,Resource reservation service
+AODH,OpenStack Services,Alarming Service
+MAGNUM,OpenStack Services,Container Orchestration Engine Provisionning
+SAHARA,OpenStack Services,Big Data Processing Framework Provisionning
+TROVE,OpenStack Services,Database as a Service
+MASAKARI,OpenStack Services,Instances High Availability Service
+MURANO,OpenStack Services,Application Catalog
+SOLUM,OpenStack Services,Software Development Lifecycle Automation
+FREEZER,OpenStack Services,Backup - Restore - Disaster Recovery
+EC2API,OpenStack Services,EC2 API proxy
+HORIZON,OpenStack Services,Dashboard
+SKYLINE,OpenStack Services,Next generation dashboard (emerging technology)
+CEILOMETER,Operations tooling,Metering & Data Collection Service
+MONASCA,Operations tooling,Monitoring
+WATCHER,Operations tooling,Optimization Service
+VITRAGE,Operations tooling,Root Cause Analysis service
+ADJUTANT,Operations tooling,Operations processes automation
+CLOUDKITTY,Operations tooling,Billing and chargebacks
+RALLY,Operations tooling,Benchmarking tool
+TEMPEST,Operations tooling,OpenStack Integration Test Suite
+PATROLE,Operations tooling,OpenStack RBAC Integration Test Suite
+STORLETS,Add-Ons to Services,Computable object storage
+KURYR,Integration enablers,OpenStack Networking integration for containers
+TACKER,Integration enablers,NFV Orchestration
+OPENSTACKCLIENT,Client tools,Command-line interface for all OpenStack services
+OPENSTACKSDK,Client tools,Official Python SDK for OpenStack APIs
+TRIPLEO,Lifecycle management,Deploys OpenStack using OpenStack itself
+OPENSTACK-HELM,Lifecycle management,Deploys OpenStack in containers using HELM
+KOLLA-ANSIBLE,Lifecycle management,Deploys OpenStack in containers using Ansible
+KAYOBE,Lifecycle management,Deployment of containerised OpenStack to bare metal
+OPENSTACK-ANSIBLE,Lifecycle management,Ansible playbooks to deploy OpenStack
+OPENSTACK-CHARMS,Lifecycle management,Deploys OpenStack in containers using Charms and Juju
+BIFROST,Lifecycle management,Ansible playbooks using ironic
+OPENSTACK-CHEF,Lifecycle management,Chef cookbooks to build and operate and consume OpenStack
+LOCI,Lifecycle management,Lightweight OCI containers
+PUPPET-OPENSTACK,Lifecycle management,Puppet modules to deploy OpenStack

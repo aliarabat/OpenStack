@@ -1,0 +1,1259 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-pip_install,Core,21.428571428571427,18.51851851851852,19,25
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-pip_install,Non core,12.5,12.345679012345679,19,25
+openstack/openstack-ansible-os_almanach,openstack/python-karborclient,Core,5.714285714285714,3.260869565217391,9,7
+openstack/openstack-ansible-os_almanach,openstack/python-karborclient,Non core,7.142857142857142,4.3478260869565215,9,7
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-keystone-admin,Core,6.896551724137931,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-keystone-admin,Non core,0.0,2.564102564102564,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-nova-compute,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-nova-compute,Non core,0.0,4.545454545454546,0,2
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-manila-plugin,Core,6.666666666666667,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-manila-plugin,Non core,0.0,2.4390243902439024,2,1
+openstack/openstack-ansible-os_almanach,openstack/murano-apps,Core,5.405405405405405,1.9417475728155338,5,3
+openstack/openstack-ansible-os_almanach,openstack/murano-apps,Non core,1.3513513513513513,0.9708737864077669,5,3
+openstack/openstack-ansible-os_almanach,openstack/puppet-senlin,Core,5.263157894736842,2.0408163265306123,4,4
+openstack/openstack-ansible-os_almanach,openstack/puppet-senlin,Non core,5.263157894736842,6.122448979591836,4,4
+openstack/openstack-ansible-os_almanach,openstack/cookbook-openstack-application-catalog,Core,3.4482758620689653,0.0,3,1
+openstack/openstack-ansible-os_almanach,openstack/cookbook-openstack-application-catalog,Non core,6.896551724137931,2.380952380952381,3,1
+openstack/openstack-ansible-os_almanach,openstack/training-labs,Core,7.017543859649122,2.7777777777777777,7,8
+openstack/openstack-ansible-os_almanach,openstack/training-labs,Non core,5.263157894736842,8.333333333333332,7,8
+openstack/openstack-ansible-os_almanach,openstack/karbor,Core,4.580152671755725,2.1505376344086025,9,13
+openstack/openstack-ansible-os_almanach,openstack/karbor,Non core,2.2900763358778624,4.838709677419355,9,13
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-open-cas,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_congress,Core,23.684210526315788,20.689655172413794,14,21
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_congress,Non core,13.157894736842104,15.517241379310345,14,21
+openstack/openstack-ansible-os_almanach,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-keystone-notifications,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/os-collect-config,Core,7.042253521126761,2.272727272727273,9,7
+openstack/openstack-ansible-os_almanach,openstack/os-collect-config,Non core,5.633802816901409,3.0303030303030303,9,7
+openstack/openstack-ansible-os_almanach,openstack/os-apply-config,Core,7.142857142857142,3.2520325203252036,9,8
+openstack/openstack-ansible-os_almanach,openstack/os-apply-config,Non core,5.714285714285714,3.2520325203252036,9,8
+openstack/openstack-ansible-os_almanach,openstack/puppet-freezer,Core,9.090909090909092,1.8181818181818181,7,7
+openstack/openstack-ansible-os_almanach,openstack/puppet-freezer,Non core,6.8181818181818175,10.909090909090908,7,7
+openstack/openstack-ansible-os_almanach,openstack/vitrage-specs,Core,5.172413793103448,0.0,6,5
+openstack/openstack-ansible-os_almanach,openstack/vitrage-specs,Non core,5.172413793103448,6.172839506172839,6,5
+openstack/openstack-ansible-os_almanach,openstack/specs-cookiecutter,Core,6.0606060606060606,2.083333333333333,2,2
+openstack/openstack-ansible-os_almanach,openstack/specs-cookiecutter,Non core,0.0,2.083333333333333,2,2
+openstack/openstack-ansible-os_almanach,openstack/rpm-packaging-tools,Core,5.714285714285714,3.508771929824561,3,4
+openstack/openstack-ansible-os_almanach,openstack/rpm-packaging-tools,Non core,2.857142857142857,3.508771929824561,3,4
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-openstack-operations,Core,2.564102564102564,1.9230769230769231,3,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-openstack-operations,Non core,5.128205128205128,0.0,3,1
+openstack/openstack-ansible-os_almanach,openstack/os-refresh-config,Core,6.896551724137931,1.9607843137254901,7,8
+openstack/openstack-ansible-os_almanach,openstack/os-refresh-config,Non core,5.172413793103448,5.88235294117647,7,8
+openstack/openstack-ansible-os_almanach,openstack/mistral-specs,Core,5.88235294117647,0.0,4,2
+openstack/openstack-ansible-os_almanach,openstack/mistral-specs,Non core,1.9607843137254901,2.7777777777777777,4,2
+openstack/openstack-ansible-os_almanach,openstack/scientific-wg,Core,3.4482758620689653,2.564102564102564,1,2
+openstack/openstack-ansible-os_almanach,openstack/scientific-wg,Non core,0.0,2.564102564102564,1,2
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/manila-test-image,Core,7.142857142857142,4.25531914893617,2,4
+openstack/openstack-ansible-os_almanach,openstack/manila-test-image,Non core,0.0,4.25531914893617,2,4
+openstack/openstack-ansible-os_almanach,openstack/governance-website,Core,6.25,6.0,4,6
+openstack/openstack-ansible-os_almanach,openstack/governance-website,Non core,6.25,6.0,4,6
+openstack/openstack-ansible-os_almanach,openstack/bugdaystats,Core,0.0,2.0408163265306123,0,2
+openstack/openstack-ansible-os_almanach,openstack/bugdaystats,Non core,0.0,2.0408163265306123,0,2
+openstack/openstack-ansible-os_almanach,openstack/upstream-institute-virtual-environment,Core,0.0,2.127659574468085,0,1
+openstack/openstack-ansible-os_almanach,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/karbor-dashboard,Core,5.454545454545454,3.488372093023256,9,8
+openstack/openstack-ansible-os_almanach,openstack/karbor-dashboard,Non core,10.909090909090908,5.813953488372093,9,8
+openstack/openstack-ansible-os_almanach,openstack/django_openstack_auth,Core,5.05050505050505,0.5076142131979695,5,3
+openstack/openstack-ansible-os_almanach,openstack/django_openstack_auth,Non core,0.0,1.015228426395939,5,3
+openstack/openstack-ansible-os_almanach,openstack/monasca-transform,Core,8.620689655172415,2.564102564102564,9,9
+openstack/openstack-ansible-os_almanach,openstack/monasca-transform,Non core,6.896551724137931,8.974358974358974,9,9
+openstack/openstack-ansible-os_almanach,openstack/monasca-ceilometer,Core,7.246376811594203,1.9801980198019802,7,8
+openstack/openstack-ansible-os_almanach,openstack/monasca-ceilometer,Non core,2.898550724637681,5.9405940594059405,7,8
+openstack/openstack-ansible-os_almanach,openstack/monasca-log-api,Core,8.108108108108109,1.6666666666666667,8,9
+openstack/openstack-ansible-os_almanach,openstack/monasca-log-api,Non core,2.7027027027027026,5.833333333333333,8,9
+openstack/openstack-ansible-os_almanach,openstack/nose-html-output,Core,6.0606060606060606,4.25531914893617,2,3
+openstack/openstack-ansible-os_almanach,openstack/nose-html-output,Non core,0.0,2.127659574468085,2,3
+openstack/openstack-ansible-os_almanach,openstack/kolla-cli,Core,0.0,3.0303030303030303,3,7
+openstack/openstack-ansible-os_almanach,openstack/kolla-cli,Non core,6.666666666666667,7.575757575757576,3,7
+openstack/openstack-ansible-os_almanach,openstack/neutron-lbaas-dashboard,Core,4.477611940298507,1.694915254237288,7,6
+openstack/openstack-ansible-os_almanach,openstack/neutron-lbaas-dashboard,Non core,5.970149253731343,3.389830508474576,7,6
+openstack/openstack-ansible-os_almanach,openstack/searchlight,Core,2.941176470588235,0.6211180124223602,8,10
+openstack/openstack-ansible-os_almanach,openstack/searchlight,Non core,2.941176470588235,5.590062111801243,8,10
+openstack/openstack-ansible-os_almanach,openstack/searchlight-ui,Core,6.25,2.4390243902439024,8,5
+openstack/openstack-ansible-os_almanach,openstack/searchlight-ui,Non core,6.25,3.6585365853658534,8,5
+openstack/openstack-ansible-os_almanach,openstack/searchlight-specs,Core,6.8181818181818175,0.0,6,1
+openstack/openstack-ansible-os_almanach,openstack/searchlight-specs,Non core,6.8181818181818175,1.4285714285714286,6,1
+openstack/openstack-ansible-os_almanach,openstack/python-searchlightclient,Core,6.666666666666667,0.0,11,5
+openstack/openstack-ansible-os_almanach,openstack/python-searchlightclient,Non core,11.666666666666666,5.88235294117647,11,5
+openstack/openstack-ansible-os_almanach,openstack/charm-tempest,Core,2.127659574468085,0.0,1,2
+openstack/openstack-ansible-os_almanach,openstack/charm-tempest,Non core,0.0,3.4482758620689653,1,2
+openstack/openstack-ansible-os_almanach,openstack/charm-barbican-softhsm,Core,2.272727272727273,0.0,1,2
+openstack/openstack-ansible-os_almanach,openstack/charm-barbican-softhsm,Non core,0.0,3.7735849056603774,1,2
+openstack/openstack-ansible-os_almanach,openstack/cookbook-openstack-client,Core,0.0,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/cookbook-openstack-client,Non core,3.0303030303030303,2.0408163265306123,1,1
+openstack/openstack-ansible-os_almanach,openstack/instack-undercloud,Core,4.166666666666666,0.8620689655172413,8,8
+openstack/openstack-ansible-os_almanach,openstack/instack-undercloud,Non core,2.5,2.586206896551724,8,8
+openstack/openstack-ansible-os_almanach,openstack/publiccloud-sig,Core,6.451612903225806,2.3255813953488373,2,2
+openstack/openstack-ansible-os_almanach,openstack/publiccloud-sig,Non core,0.0,2.3255813953488373,2,2
+openstack/openstack-ansible-os_almanach,openstack/ideas,Core,6.896551724137931,6.557377049180328,2,4
+openstack/openstack-ansible-os_almanach,openstack/ideas,Non core,0.0,0.0,2,4
+openstack/openstack-ansible-os_almanach,openstack/uc-recognition,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/uc-recognition,Non core,0.0,2.272727272727273,0,1
+openstack/openstack-ansible-os_almanach,openstack/ops-tags-team,Core,0.0,1.5151515151515151,0,2
+openstack/openstack-ansible-os_almanach,openstack/ops-tags-team,Non core,0.0,1.5151515151515151,0,2
+openstack/openstack-ansible-os_almanach,openstack/enterprise-wg,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/enterprise-wg,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/governance-uc,Core,4.444444444444445,7.4074074074074066,3,9
+openstack/openstack-ansible-os_almanach,openstack/governance-uc,Non core,2.2222222222222223,3.7037037037037033,3,9
+openstack/openstack-ansible-os_almanach,openstack/workload-ref-archs,Core,5.714285714285714,4.3478260869565215,4,5
+openstack/openstack-ansible-os_almanach,openstack/workload-ref-archs,Non core,5.714285714285714,6.521739130434782,4,5
+openstack/openstack-ansible-os_almanach,openstack/arch-wg,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/arch-wg,Non core,0.0,1.9607843137254901,0,1
+openstack/openstack-ansible-os_almanach,openstack/project-navigator-data,Core,4.651162790697675,5.263157894736842,2,4
+openstack/openstack-ansible-os_almanach,openstack/project-navigator-data,Non core,0.0,1.7543859649122806,2,4
+openstack/openstack-ansible-os_almanach,openstack/openstack-specs,Core,4.545454545454546,2.3696682464454977,2,6
+openstack/openstack-ansible-os_almanach,openstack/openstack-specs,Non core,0.0,0.47393364928909953,2,6
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_monasca,Core,35.0,23.4375,23,25
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_monasca,Non core,22.5,15.625,23,25
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_monasca-agent,Core,25.0,26.0,15,21
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_monasca-agent,Non core,16.666666666666664,16.0,15,21
+openstack/openstack-ansible-os_almanach,openstack/ironic-inspector-specs,Core,6.521739130434782,1.2658227848101267,5,3
+openstack/openstack-ansible-os_almanach,openstack/ironic-inspector-specs,Non core,4.3478260869565215,2.5316455696202533,5,3
+openstack/openstack-ansible-os_almanach,openstack/sushy-cli,Core,2.941176470588235,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/sushy-cli,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/puppet-glare,Core,10.416666666666668,5.172413793103448,8,7
+openstack/openstack-ansible-os_almanach,openstack/puppet-glare,Non core,6.25,6.896551724137931,8,7
+openstack/openstack-ansible-os_almanach,openstack/xstatic-bootstrap-scss,Core,3.125,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-bootstrap-scss,Non core,0.0,2.0408163265306123,1,1
+openstack/openstack-ansible-os_almanach,openstack/openstack-planet,Core,2.8925619834710745,2.158273381294964,7,4
+openstack/openstack-ansible-os_almanach,openstack/openstack-planet,Non core,0.0,0.7194244604316548,7,4
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-keystone-credentials,Core,5.88235294117647,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-keystone-credentials,Non core,0.0,2.3255813953488373,2,1
+openstack/openstack-ansible-os_almanach,openstack/monasca-kibana-plugin,Core,5.714285714285714,1.8867924528301887,2,2
+openstack/openstack-ansible-os_almanach,openstack/monasca-kibana-plugin,Non core,0.0,1.8867924528301887,2,2
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-keystone-domain-backend,Core,6.451612903225806,0.0,2,0
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,2,0
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-amqp1,Core,11.76470588235294,1.8867924528301887,4,3
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-amqp1,Non core,0.0,3.7735849056603774,4,3
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-kafka,Core,6.25,4.25531914893617,2,5
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-kafka,Non core,0.0,6.382978723404255,2,5
+openstack/openstack-ansible-os_almanach,openstack/tripleo-ipsec,Core,5.714285714285714,1.8518518518518516,3,1
+openstack/openstack-ansible-os_almanach,openstack/tripleo-ipsec,Non core,2.857142857142857,0.0,3,1
+openstack/openstack-ansible-os_almanach,openstack/monasca-grafana-datasource,Core,2.7777777777777777,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/monasca-grafana-datasource,Non core,0.0,1.7241379310344827,1,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-bind-rndc,Core,6.0606060606060606,0.0,2,2
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-bind-rndc,Non core,0.0,4.878048780487805,2,2
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-rabbitmq,Core,6.25,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-rabbitmq,Non core,0.0,2.3255813953488373,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-openstack-ha,Core,3.125,2.380952380952381,1,2
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-openstack-ha,Non core,0.0,2.380952380952381,1,2
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-gnocchi,Core,6.666666666666667,2.0408163265306123,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-gnocchi,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-bgp,Core,3.0303030303030303,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-bgp,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-designate,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-designate,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/tempest-horizon,Core,9.30232558139535,0.0,4,2
+openstack/openstack-ansible-os_almanach,openstack/tempest-horizon,Non core,0.0,3.6363636363636362,4,2
+openstack/openstack-ansible-os_almanach,openstack/logstash-filters,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/logstash-filters,Non core,0.0,2.564102564102564,0,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-jquery-migrate,Core,3.4482758620689653,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-jquery-migrate,Non core,0.0,2.5,1,1
+openstack/openstack-ansible-os_almanach,openstack/qinling-dashboard,Core,3.125,2.0408163265306123,2,2
+openstack/openstack-ansible-os_almanach,openstack/qinling-dashboard,Non core,3.125,2.0408163265306123,2,2
+openstack/openstack-ansible-os_almanach,openstack/python-qinlingclient,Core,4.25531914893617,1.7857142857142856,10,5
+openstack/openstack-ansible-os_almanach,openstack/python-qinlingclient,Non core,17.02127659574468,7.142857142857142,10,5
+openstack/openstack-ansible-os_almanach,openstack/qinling,Core,6.557377049180328,3.0303030303030303,10,6
+openstack/openstack-ansible-os_almanach,openstack/qinling,Non core,9.836065573770492,6.0606060606060606,10,6
+openstack/openstack-ansible-os_almanach,openstack/monasca-analytics,Core,11.11111111111111,2.73972602739726,7,4
+openstack/openstack-ansible-os_almanach,openstack/monasca-analytics,Non core,4.444444444444445,2.73972602739726,7,4
+openstack/openstack-ansible-os_almanach,openstack/oslo-incubator,Core,1.7064846416382253,0.6521739130434783,5,4
+openstack/openstack-ansible-os_almanach,openstack/oslo-incubator,Non core,0.0,0.21739130434782608,5,4
+openstack/openstack-ansible-os_almanach,openstack/puppet-congress,Core,10.416666666666668,3.7037037037037033,8,5
+openstack/openstack-ansible-os_almanach,openstack/puppet-congress,Non core,6.25,5.555555555555555,8,5
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_monasca-ui,Core,12.5,19.51219512195122,7,13
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_monasca-ui,Non core,9.375,12.195121951219512,7,13
+openstack/openstack-ansible-os_almanach,openstack/auto-scaling-sig,Core,3.225806451612903,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/auto-scaling-sig,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/os-loganalyze,Core,3.7735849056603774,3.6585365853658534,2,4
+openstack/openstack-ansible-os_almanach,openstack/os-loganalyze,Non core,0.0,1.2195121951219512,2,4
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-pika,Core,3.3333333333333335,2.272727272727273,1,2
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-pika,Non core,0.0,2.272727272727273,1,2
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-zmq,Core,12.5,4.3478260869565215,4,3
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-zmq,Non core,0.0,2.1739130434782608,4,3
+openstack/openstack-ansible-os_almanach,openstack/networking-l2gw,Core,4.597701149425287,1.1049723756906076,7,5
+openstack/openstack-ansible-os_almanach,openstack/networking-l2gw,Non core,3.4482758620689653,1.6574585635359116,7,5
+openstack/openstack-ansible-os_almanach,openstack/networking-l2gw-tempest-plugin,Core,9.375,3.7037037037037033,6,4
+openstack/openstack-ansible-os_almanach,openstack/networking-l2gw-tempest-plugin,Non core,9.375,3.7037037037037033,6,4
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-ceph-mds,Core,6.25,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-ceph-mds,Non core,0.0,2.5,2,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-ui-router,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-ui-router,Non core,0.0,2.4390243902439024,0,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-vis,Core,3.4482758620689653,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-vis,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/cookbook-openstack-database,Core,0.0,1.7857142857142856,0,2
+openstack/openstack-ansible-os_almanach,openstack/cookbook-openstack-database,Non core,0.0,1.7857142857142856,0,2
+openstack/openstack-ansible-os_almanach,openstack/cookbook-openstack-data-processing,Core,0.0,2.0,0,2
+openstack/openstack-ansible-os_almanach,openstack/cookbook-openstack-data-processing,Non core,0.0,2.0,0,2
+openstack/openstack-ansible-os_almanach,openstack/trove-integration,Core,1.098901098901099,1.5037593984962405,1,3
+openstack/openstack-ansible-os_almanach,openstack/trove-integration,Non core,0.0,0.7518796992481203,1,3
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-sensu,Core,7.142857142857142,2.5,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-sensu,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/python-ceilometerclient,Core,2.1739130434782608,0.46511627906976744,3,4
+openstack/openstack-ansible-os_almanach,openstack/python-ceilometerclient,Non core,0.0,1.3953488372093024,3,4
+openstack/openstack-ansible-os_almanach,openstack/keystoneauth-saml2,Core,2.631578947368421,1.5151515151515151,1,2
+openstack/openstack-ansible-os_almanach,openstack/keystoneauth-saml2,Non core,0.0,1.5151515151515151,1,2
+openstack/openstack-ansible-os_almanach,openstack/murano-deployment,Core,3.3333333333333335,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/murano-deployment,Non core,0.0,1.4285714285714286,2,1
+openstack/openstack-ansible-os_almanach,openstack/python-keystoneclient-kerberos,Core,2.631578947368421,1.5625,1,2
+openstack/openstack-ansible-os_almanach,openstack/python-keystoneclient-kerberos,Non core,0.0,1.5625,1,2
+openstack/openstack-ansible-os_almanach,openstack/python-wsmanclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/python-wsmanclient,Non core,0.0,2.380952380952381,0,1
+openstack/openstack-ansible-os_almanach,openstack/fuel-upgrade,Core,2.857142857142857,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/fuel-upgrade,Non core,0.0,1.6666666666666667,1,1
+openstack/openstack-ansible-os_almanach,openstack/cookbook-openstack-object-storage,Core,3.8461538461538463,2.7027027027027026,2,3
+openstack/openstack-ansible-os_almanach,openstack/cookbook-openstack-object-storage,Non core,0.0,1.3513513513513513,2,3
+openstack/openstack-ansible-os_almanach,openstack/fairy-slipper,Core,3.0303030303030303,2.0408163265306123,1,2
+openstack/openstack-ansible-os_almanach,openstack/fairy-slipper,Non core,0.0,2.0408163265306123,1,2
+openstack/openstack-ansible-os_almanach,openstack/django-openstack-auth-kerberos,Core,3.225806451612903,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/django-openstack-auth-kerberos,Non core,0.0,2.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/horizon-cisco-ui,Core,8.333333333333332,2.1739130434782608,3,2
+openstack/openstack-ansible-os_almanach,openstack/horizon-cisco-ui,Non core,0.0,2.1739130434782608,3,2
+openstack/openstack-ansible-os_almanach,openstack/zuul-packaging,Core,3.571428571428571,2.3255813953488373,1,2
+openstack/openstack-ansible-os_almanach,openstack/zuul-packaging,Non core,0.0,2.3255813953488373,1,2
+openstack/openstack-ansible-os_almanach,openstack/networking-generic-switch-tempest-plugin,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/tripleo-incubator,Core,1.6528925619834711,1.0309278350515463,2,3
+openstack/openstack-ansible-os_almanach,openstack/tripleo-incubator,Non core,0.0,0.5154639175257731,2,3
+openstack/openstack-ansible-os_almanach,openstack/ironic-webclient,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_almanach,openstack/ironic-webclient,Non core,0.0,3.1746031746031744,0,2
+openstack/openstack-ansible-os_almanach,openstack/puppet-crane,Core,0.0,2.7777777777777777,0,2
+openstack/openstack-ansible-os_almanach,openstack/puppet-crane,Non core,0.0,2.7777777777777777,0,2
+openstack/openstack-ansible-os_almanach,openstack/release-tools,Core,5.263157894736842,2.941176470588235,3,5
+openstack/openstack-ansible-os_almanach,openstack/release-tools,Non core,0.0,1.9607843137254901,3,5
+openstack/openstack-ansible-os_almanach,openstack/gnocchi,Core,3.296703296703297,0.6211180124223602,4,3
+openstack/openstack-ansible-os_almanach,openstack/gnocchi,Non core,1.098901098901099,1.2422360248447204,4,3
+openstack/openstack-ansible-os_almanach,openstack/networking-ofagent,Core,0.0,1.7241379310344827,0,2
+openstack/openstack-ansible-os_almanach,openstack/networking-ofagent,Non core,0.0,1.7241379310344827,0,2
+openstack/openstack-ansible-os_almanach,openstack/python-neutron-pd-driver,Core,0.0,2.7027027027027026,0,2
+openstack/openstack-ansible-os_almanach,openstack/python-neutron-pd-driver,Non core,0.0,2.7027027027027026,0,2
+openstack/openstack-ansible-os_almanach,openstack/charm-ceph,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/charm-ceph,Non core,0.0,1.8867924528301887,0,1
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_freezer,Core,3.7037037037037033,5.714285714285714,1,2
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-pip_lock_down,Core,21.21212121212121,17.073170731707318,7,9
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-pip_lock_down,Non core,0.0,4.878048780487805,7,9
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-security,Core,14.035087719298245,12.222222222222221,8,14
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-security,Non core,0.0,3.3333333333333335,8,14
+openstack/openstack-ansible-os_almanach,openstack/oslosphinx,Core,4.411764705882353,4.123711340206185,5,7
+openstack/openstack-ansible-os_almanach,openstack/oslosphinx,Non core,2.941176470588235,3.0927835051546393,5,7
+openstack/openstack-ansible-os_almanach,openstack/python-gnocchiclient,Core,0.0,1.5384615384615385,0,2
+openstack/openstack-ansible-os_almanach,openstack/python-gnocchiclient,Non core,0.0,1.5384615384615385,0,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-cinder,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-cookiecutter,Core,3.571428571428571,2.631578947368421,1,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-glance,Core,7.142857142857142,2.631578947368421,2,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-keystone,Core,7.142857142857142,0.0,2,0
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,2,0
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-mariadb,Core,10.714285714285714,2.5,3,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,3,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-rabbitmq,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-tripleo,Core,7.142857142857142,2.564102564102564,2,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-ui,Core,3.4482758620689653,5.0,4,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-ui,Non core,10.344827586206897,0.0,4,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-aodh,Core,7.142857142857142,2.5,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-aodh,Non core,10.714285714285714,2.5,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-barbican,Core,7.142857142857142,2.564102564102564,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-barbican,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-ceilometer,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-ceilometer,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-cinder,Core,7.142857142857142,2.564102564102564,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-cinder,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-cookiecutter,Core,9.375,4.3478260869565215,5,3
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-cookiecutter,Non core,6.25,2.1739130434782608,5,3
+openstack/openstack-ansible-os_almanach,openstack/tripleo-ui,Core,5.454545454545454,3.125,6,8
+openstack/openstack-ansible-os_almanach,openstack/tripleo-ui,Non core,5.454545454545454,5.208333333333334,6,8
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-ovn,Core,7.142857142857142,2.564102564102564,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-ovn,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-opendaylight,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-opendaylight,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-octavia,Core,6.896551724137931,2.564102564102564,4,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-octavia,Non core,6.896551724137931,2.564102564102564,4,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-nova,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-nova,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/os-cloud-config,Core,4.0,0.7936507936507936,3,2
+openstack/openstack-ansible-os_almanach,openstack/os-cloud-config,Non core,0.0,0.7936507936507936,3,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-zaqar,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-zaqar,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-tempest,Core,7.142857142857142,2.564102564102564,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-tempest,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-sahara,Core,7.142857142857142,2.564102564102564,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-sahara,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-swift,Core,7.142857142857142,2.564102564102564,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-swift,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-tacker,Core,7.142857142857142,2.5,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-tacker,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,7.142857142857142,2.564102564102564,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-rabbitmq,Core,7.142857142857142,2.564102564102564,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-rabbitmq,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-qdrouterd,Core,3.7037037037037033,2.7777777777777777,1,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-panko,Core,7.142857142857142,2.564102564102564,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-panko,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-heat,Core,6.896551724137931,2.564102564102564,4,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-heat,Non core,6.896551724137931,0.0,4,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-haproxy,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-haproxy,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-gnocchi,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-gnocchi,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-glance,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-glance,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-designate,Core,7.142857142857142,2.5,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-designate,Non core,10.714285714285714,0.0,5,1
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-neutron,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-neutron,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-mistral,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-mistral,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-memcached,Core,7.142857142857142,2.5,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-memcached,Non core,10.714285714285714,2.5,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-manila,Core,7.142857142857142,2.5,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-manila,Non core,10.714285714285714,2.5,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-ironic,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-ironic,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-keepalived,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-keepalived,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-horizon,Core,7.142857142857142,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/ansible-role-tripleo-horizon,Non core,10.714285714285714,2.564102564102564,5,2
+openstack/openstack-ansible-os_almanach,openstack/pylockfile,Core,2.941176470588235,1.9230769230769231,1,2
+openstack/openstack-ansible-os_almanach,openstack/pylockfile,Non core,0.0,1.9230769230769231,1,2
+openstack/openstack-ansible-os_almanach,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/dragonflow,Core,4.285714285714286,1.8779342723004695,11,13
+openstack/openstack-ansible-os_almanach,openstack/dragonflow,Non core,3.571428571428571,4.225352112676056,11,13
+openstack/openstack-ansible-os_almanach,openstack/openstack,Core,3.3333333333333335,4.081632653061225,1,3
+openstack/openstack-ansible-os_almanach,openstack/openstack,Non core,0.0,2.0408163265306123,1,3
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-pacemaker-remote,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-pacemaker-remote,Non core,0.0,4.878048780487805,0,2
+openstack/openstack-ansible-os_almanach,openstack/networking-onos,Core,4.878048780487805,2.5,2,4
+openstack/openstack-ansible-os_almanach,openstack/networking-onos,Non core,0.0,2.5,2,4
+openstack/openstack-ansible-os_almanach,openstack/solum-infra-guestagent,Core,3.125,2.1739130434782608,1,2
+openstack/openstack-ansible-os_almanach,openstack/solum-infra-guestagent,Non core,0.0,2.1739130434782608,1,2
+openstack/openstack-ansible-os_almanach,openstack/openstack-ux,Core,3.4482758620689653,1.9607843137254901,1,2
+openstack/openstack-ansible-os_almanach,openstack/openstack-ux,Non core,0.0,1.9607843137254901,1,2
+openstack/openstack-ansible-os_almanach,openstack/mox3,Core,8.695652173913043,2.9850746268656714,7,5
+openstack/openstack-ansible-os_almanach,openstack/mox3,Non core,6.521739130434782,4.477611940298507,7,5
+openstack/openstack-ansible-os_almanach,openstack/charm-layer-ceph,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-layer-ceph,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-layer-ceph-base,Core,3.3333333333333335,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/charm-layer-ceph-base,Non core,0.0,2.564102564102564,1,1
+openstack/openstack-ansible-os_almanach,openstack/python-tricircleclient,Core,5.128205128205128,3.389830508474576,6,5
+openstack/openstack-ansible-os_almanach,openstack/python-tricircleclient,Non core,10.256410256410255,5.084745762711865,6,5
+openstack/openstack-ansible-os_almanach,openstack/tricircle,Core,6.185567010309279,2.4242424242424243,10,8
+openstack/openstack-ansible-os_almanach,openstack/tricircle,Non core,4.123711340206185,2.4242424242424243,10,8
+openstack/openstack-ansible-os_almanach,openstack/swift-specs,Core,6.382978723404255,1.0309278350515463,3,2
+openstack/openstack-ansible-os_almanach,openstack/swift-specs,Non core,0.0,1.0309278350515463,3,2
+openstack/openstack-ansible-os_almanach,openstack/congress,Core,3.571428571428571,0.851063829787234,11,10
+openstack/openstack-ansible-os_almanach,openstack/congress,Non core,2.976190476190476,3.404255319148936,11,10
+openstack/openstack-ansible-os_almanach,openstack/congress-tempest-plugin,Core,7.6923076923076925,7.6923076923076925,7,8
+openstack/openstack-ansible-os_almanach,openstack/congress-tempest-plugin,Non core,10.256410256410255,7.6923076923076925,7,8
+openstack/openstack-ansible-os_almanach,openstack/python-congressclient,Core,5.714285714285714,2.5,8,7
+openstack/openstack-ansible-os_almanach,openstack/python-congressclient,Non core,5.714285714285714,6.25,8,7
+openstack/openstack-ansible-os_almanach,openstack/congress-specs,Core,5.172413793103448,1.2658227848101267,3,3
+openstack/openstack-ansible-os_almanach,openstack/congress-specs,Non core,0.0,2.5316455696202533,3,3
+openstack/openstack-ansible-os_almanach,openstack/congress-dashboard,Core,4.545454545454546,3.225806451612903,7,7
+openstack/openstack-ansible-os_almanach,openstack/congress-dashboard,Non core,11.363636363636363,8.064516129032258,7,7
+openstack/openstack-ansible-os_almanach,openstack/syntribos,Core,7.6923076923076925,1.4925373134328357,5,3
+openstack/openstack-ansible-os_almanach,openstack/syntribos,Non core,1.9230769230769231,2.9850746268656714,5,3
+openstack/openstack-ansible-os_almanach,openstack/syntribos-payloads,Core,3.7037037037037033,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/syntribos-payloads,Non core,0.0,2.5,1,1
+openstack/openstack-ansible-os_almanach,openstack/syntribos-openstack-templates,Core,3.4482758620689653,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/syntribos-openstack-templates,Non core,0.0,2.380952380952381,1,1
+openstack/openstack-ansible-os_almanach,openstack/i18n-specs,Core,7.4074074074074066,2.5,2,2
+openstack/openstack-ansible-os_almanach,openstack/i18n-specs,Non core,0.0,2.5,2,2
+openstack/openstack-ansible-os_almanach,openstack/tempest-plugin-cookiecutter,Core,3.3333333333333335,2.2222222222222223,1,2
+openstack/openstack-ansible-os_almanach,openstack/tempest-plugin-cookiecutter,Non core,0.0,2.2222222222222223,1,2
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-cookiecutter,Core,3.4482758620689653,2.631578947368421,1,2
+openstack/openstack-ansible-os_almanach,openstack/devstack-plugin-cookiecutter,Non core,0.0,2.631578947368421,1,2
+openstack/openstack-ansible-os_almanach,openstack/xstatic-graphlib,Core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-repo_build,Core,18.75,16.666666666666664,21,28
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-repo_build,Non core,14.0625,14.444444444444443,21,28
+openstack/openstack-ansible-os_almanach,openstack/xstatic-bootstrap-datepicker,Core,3.0303030303030303,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-bootstrap-datepicker,Non core,0.0,2.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-hogan,Core,3.571428571428571,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-hogan,Non core,0.0,2.564102564102564,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-jquery.quicksearch,Core,3.571428571428571,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-jquery.quicksearch,Non core,0.0,2.564102564102564,1,1
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_molteniron,Core,33.33333333333333,26.666666666666668,17,20
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_molteniron,Non core,18.181818181818183,17.77777777777778,17,20
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-lrdragndrop,Core,3.125,4.444444444444445,1,3
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-lrdragndrop,Non core,0.0,2.2222222222222223,1,3
+openstack/openstack-ansible-os_almanach,openstack/faafo,Core,12.121212121212121,2.0,4,2
+openstack/openstack-ansible-os_almanach,openstack/faafo,Non core,0.0,2.0,4,2
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-bootstrap,Core,2.857142857142857,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-bootstrap,Non core,0.0,1.9230769230769231,1,1
+openstack/openstack-ansible-os_almanach,openstack/networking-calico,Core,11.76470588235294,4.705882352941177,9,7
+openstack/openstack-ansible-os_almanach,openstack/networking-calico,Non core,5.88235294117647,3.5294117647058822,9,7
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-gettext,Core,3.125,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-gettext,Non core,0.0,2.127659574468085,1,1
+openstack/openstack-ansible-os_almanach,openstack/shotgun,Core,2.2222222222222223,0.9433962264150944,1,2
+openstack/openstack-ansible-os_almanach,openstack/shotgun,Non core,0.0,0.9433962264150944,1,2
+openstack/openstack-ansible-os_almanach,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-aioeventlet,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/fuel-devops,Core,2.3529411764705883,0.5847953216374269,3,4
+openstack/openstack-ansible-os_almanach,openstack/fuel-devops,Non core,1.1764705882352942,1.7543859649122806,3,4
+openstack/openstack-ansible-os_almanach,openstack/fuel-plugin-murano,Core,5.405405405405405,1.6129032258064515,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-plugin-murano,Non core,0.0,1.6129032258064515,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-web,Core,1.293103448275862,0.7159904534606205,5,5
+openstack/openstack-ansible-os_almanach,openstack/fuel-web,Non core,0.8620689655172413,0.47732696897374705,5,5
+openstack/openstack-ansible-os_almanach,openstack/fuel-plugins,Core,4.3478260869565215,0.7518796992481203,3,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-plugins,Non core,0.0,0.7518796992481203,3,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-virtualbox,Core,5.88235294117647,1.8518518518518516,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-virtualbox,Non core,0.0,1.8518518518518516,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-ostf,Core,2.479338842975207,0.4098360655737705,3,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-ostf,Non core,0.0,0.4098360655737705,3,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-qa,Core,2.0408163265306123,0.36101083032490977,3,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-qa,Non core,0.0,0.36101083032490977,3,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-specs,Core,1.574803149606299,0.60790273556231,2,3
+openstack/openstack-ansible-os_almanach,openstack/fuel-specs,Non core,0.0,0.303951367781155,2,3
+openstack/openstack-ansible-os_almanach,openstack/fuel-nailgun-extension-cluster-upgrade,Core,5.714285714285714,1.8518518518518516,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,1.8518518518518516,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-nailgun-agent,Core,1.5873015873015872,0.7751937984496124,1,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-nailgun-agent,Non core,0.0,0.7751937984496124,1,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-mirror,Core,1.7241379310344827,0.7462686567164178,1,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-mirror,Non core,0.0,0.7462686567164178,1,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-menu,Core,3.389830508474576,0.684931506849315,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-menu,Non core,0.0,0.684931506849315,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-main,Core,1.2269938650306749,0.7194244604316548,2,4
+openstack/openstack-ansible-os_almanach,openstack/fuel-main,Non core,0.0,0.7194244604316548,2,4
+openstack/openstack-ansible-os_almanach,openstack/fuel-ui,Core,3.0303030303030303,0.8333333333333334,2,3
+openstack/openstack-ansible-os_almanach,openstack/fuel-ui,Non core,0.0,1.6666666666666667,2,3
+openstack/openstack-ansible-os_almanach,openstack/fuel-library,Core,1.345291479820628,0.641025641025641,3,5
+openstack/openstack-ansible-os_almanach,openstack/fuel-library,Non core,0.0,0.4273504273504274,3,5
+openstack/openstack-ansible-os_almanach,openstack/fuel-dev-tools,Core,5.263157894736842,1.8518518518518516,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-dev-tools,Non core,0.0,1.8518518518518516,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-stats,Core,4.444444444444445,1.25,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-stats,Non core,0.0,1.25,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-nailgun-extension-converted-serializers,Core,3.571428571428571,2.7027027027027026,1,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,2.7027027027027026,1,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-nailgun-extension-iac,Core,3.3333333333333335,2.564102564102564,1,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-nailgun-extension-iac,Non core,0.0,2.564102564102564,1,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-plugin-murano-tests,Core,5.555555555555555,1.6129032258064515,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-plugin-murano-tests,Non core,0.0,1.6129032258064515,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-astute,Core,2.2222222222222223,0.5405405405405406,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-astute,Non core,0.0,0.5405405405405406,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-docs,Core,0.8333333333333334,0.5780346820809248,2,3
+openstack/openstack-ansible-os_almanach,openstack/fuel-docs,Non core,0.8333333333333334,0.2890173410404624,2,3
+openstack/openstack-ansible-os_almanach,openstack/fuel-agent,Core,3.225806451612903,0.5524861878453038,3,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-agent,Non core,0.0,0.5524861878453038,3,2
+openstack/openstack-ansible-os_almanach,openstack/fuel-octane,Core,7.4074074074074066,1.1627906976744187,4,4
+openstack/openstack-ansible-os_almanach,openstack/fuel-octane,Non core,0.0,3.488372093023256,4,4
+openstack/openstack-ansible-os_almanach,openstack/tuning-box,Core,6.666666666666667,3.4482758620689653,2,3
+openstack/openstack-ansible-os_almanach,openstack/tuning-box,Non core,0.0,1.7241379310344827,2,3
+openstack/openstack-ansible-os_almanach,openstack/python-fuelclient,Core,2.127659574468085,0.5586592178770949,2,2
+openstack/openstack-ansible-os_almanach,openstack/python-fuelclient,Non core,0.0,0.5586592178770949,2,2
+openstack/openstack-ansible-os_almanach,openstack/neutron-interconnection,Core,0.0,2.2222222222222223,0,1
+openstack/openstack-ansible-os_almanach,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/openstack-chef-repo,Core,3.0303030303030303,3.5294117647058822,2,4
+openstack/openstack-ansible-os_almanach,openstack/openstack-chef-repo,Non core,0.0,1.1764705882352942,2,4
+openstack/openstack-ansible-os_almanach,openstack/os-acc,Core,0.0,1.9230769230769231,0,1
+openstack/openstack-ansible-os_almanach,openstack/os-acc,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_zaqar,Core,30.952380952380953,26.31578947368421,21,26
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_zaqar,Non core,19.047619047619047,19.298245614035086,21,26
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_watcher,Core,36.11111111111111,29.411764705882355,22,24
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_watcher,Non core,25.0,17.647058823529413,22,24
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_searchlight,Core,31.25,26.08695652173913,18,20
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_searchlight,Non core,25.0,17.391304347826086,18,20
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-vis,Core,3.7037037037037033,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-font-awesome,Core,3.125,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-font-awesome,Non core,0.0,2.127659574468085,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-jasmine,Core,2.7777777777777777,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-jasmine,Non core,0.0,2.0408163265306123,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-notify,Core,3.7037037037037033,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-material,Core,3.4482758620689653,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/tempest-tripleo-ui,Core,3.4482758620689653,2.1739130434782608,1,1
+openstack/openstack-ansible-os_almanach,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/docs-specs,Core,4.411764705882353,1.276595744680851,6,6
+openstack/openstack-ansible-os_almanach,openstack/docs-specs,Non core,4.411764705882353,1.276595744680851,6,6
+openstack/openstack-ansible-os_almanach,openstack/release-schedule-generator,Core,3.571428571428571,2.564102564102564,2,2
+openstack/openstack-ansible-os_almanach,openstack/release-schedule-generator,Non core,3.571428571428571,2.564102564102564,2,2
+openstack/openstack-ansible-os_almanach,openstack-infra/opendev-website,Core,3.7037037037037033,5.128205128205128,1,2
+openstack/openstack-ansible-os_almanach,openstack-infra/opendev-website,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_almanach,openstack/castellan-ui,Core,10.344827586206897,3.8461538461538463,3,3
+openstack/openstack-ansible-os_almanach,openstack/castellan-ui,Non core,0.0,1.9230769230769231,3,3
+openstack/openstack-ansible-os_almanach,openstack-attic/compute-api,Core,4.166666666666666,1.4492753623188406,2,2
+openstack/openstack-ansible-os_almanach,openstack-attic/compute-api,Non core,0.0,1.4492753623188406,2,2
+openstack/openstack-ansible-os_almanach,openstack/charm-neutron-api-odl,Core,5.714285714285714,2.272727272727273,2,2
+openstack/openstack-ansible-os_almanach,openstack/charm-neutron-api-odl,Non core,0.0,2.272727272727273,2,2
+openstack/openstack-ansible-os_almanach,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/charm-murano,Core,3.571428571428571,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/charm-murano,Non core,0.0,2.7027027027027026,1,1
+openstack/openstack-ansible-os_almanach,openstack/charm-openvswitch-odl,Core,2.7777777777777777,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/charm-openvswitch-odl,Non core,0.0,2.3255813953488373,1,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-odl-controller-api,Core,7.142857142857142,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-interface-odl-controller-api,Non core,0.0,2.7027027027027026,2,1
+openstack/openstack-ansible-os_almanach,openstack/charm-glusterfs,Core,3.571428571428571,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/charm-glusterfs,Non core,0.0,2.380952380952381,1,1
+openstack/openstack-ansible-os_almanach,openstack/charm-trove,Core,3.0303030303030303,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/charm-trove,Non core,0.0,2.4390243902439024,1,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-positional,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-requests-unixsocket,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-traceback2,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ryu,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-linecache2,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-gabbi,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-cotyledon,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-migrate,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/fuxi,Core,3.8461538461538463,1.2658227848101267,2,2
+openstack/openstack-ansible-os_almanach,openstack/fuxi,Non core,0.0,1.2658227848101267,2,2
+openstack/openstack-ansible-os_almanach,openstack/xstatic-filesaver,Core,3.7037037037037033,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-uuid,Core,3.7037037037037033,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_almanach,openstack/bandit,Core,6.25,0.9708737864077669,6,2
+openstack/openstack-ansible-os_almanach,openstack/bandit,Non core,1.25,0.9708737864077669,6,2
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-smart-table,Core,3.4482758620689653,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-angular-smart-table,Non core,0.0,2.4390243902439024,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-bootswatch,Core,3.3333333333333335,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-bootswatch,Non core,0.0,2.127659574468085,1,1
+openstack/openstack-ansible-os_almanach,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-msgpack-python,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-d3,Core,3.225806451612903,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/xstatic-d3,Non core,0.0,2.127659574468085,1,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pymemcache,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-novnc,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/instack,Core,11.627906976744185,3.0303030303030303,6,5
+openstack/openstack-ansible-os_almanach,openstack/instack,Non core,2.3255813953488373,4.545454545454546,6,5
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pysaml2,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-trollius,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-autobahn,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pyldap,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/astara,Core,3.225806451612903,1.2195121951219512,2,2
+openstack/openstack-ansible-os_almanach,openstack/astara,Non core,0.0,1.2195121951219512,2,2
+openstack/openstack-ansible-os_almanach,openstack/astara-appliance,Core,2.5,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/astara-appliance,Non core,0.0,1.7241379310344827,1,1
+openstack/openstack-ansible-os_almanach,openstack/astara-horizon,Core,3.0303030303030303,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/astara-horizon,Non core,0.0,1.9607843137254901,1,1
+openstack/openstack-ansible-os_almanach,openstack/astara-neutron,Core,2.7027027027027026,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/astara-neutron,Non core,0.0,1.9230769230769231,1,1
+openstack/openstack-ansible-os_almanach,openstack/anchor,Core,0.0,1.3157894736842104,0,2
+openstack/openstack-ansible-os_almanach,openstack/anchor,Non core,0.0,1.3157894736842104,0,2
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/fuxi-golang,Core,3.8461538461538463,2.631578947368421,1,1
+openstack/openstack-ansible-os_almanach,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/fuxi-kubernetes,Core,3.7037037037037033,2.380952380952381,1,2
+openstack/openstack-ansible-os_almanach,openstack/fuxi-kubernetes,Non core,0.0,2.380952380952381,1,2
+openstack/openstack-ansible-os_almanach,openstack-infra/puppet-odsreg,Core,6.666666666666667,6.666666666666667,2,4
+openstack/openstack-ansible-os_almanach,openstack-infra/puppet-odsreg,Non core,0.0,2.2222222222222223,2,4
+openstack/openstack-ansible-os_almanach,openstack-infra/puppet-docker_registry,Core,3.8461538461538463,2.857142857142857,1,1
+openstack/openstack-ansible-os_almanach,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/releasestatus,Core,3.571428571428571,2.4390243902439024,1,2
+openstack/openstack-ansible-os_almanach,openstack/releasestatus,Non core,0.0,2.4390243902439024,1,2
+openstack/openstack-ansible-os_almanach,openstack-infra/vinz-webclient,Core,3.8461538461538463,2.857142857142857,1,1
+openstack/openstack-ansible-os_almanach,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/activity-board,Core,2.4390243902439024,2.5,1,3
+openstack/openstack-ansible-os_almanach,openstack/activity-board,Non core,0.0,1.25,1,3
+openstack/openstack-ansible-os_almanach,openstack-infra/beaker-localhost,Core,3.8461538461538463,2.7777777777777777,1,1
+openstack/openstack-ansible-os_almanach,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack-infra/beaker-nodepool,Core,3.8461538461538463,2.7777777777777777,1,1
+openstack/openstack-ansible-os_almanach,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/rst2bash,Core,7.142857142857142,2.3255813953488373,2,2
+openstack/openstack-ansible-os_almanach,openstack/rst2bash,Non core,0.0,2.3255813953488373,2,2
+openstack/openstack-ansible-os_almanach,openstack/kolla-kubernetes,Core,3.571428571428571,0.6622516556291391,8,4
+openstack/openstack-ansible-os_almanach,openstack/kolla-kubernetes,Non core,5.952380952380952,1.9867549668874174,8,4
+openstack/openstack-ansible-os_almanach,openstack/cue-dashboard,Core,5.714285714285714,2.272727272727273,2,2
+openstack/openstack-ansible-os_almanach,openstack/cue-dashboard,Non core,0.0,2.272727272727273,2,2
+openstack/openstack-ansible-os_almanach,openstack/python-cueclient,Core,5.263157894736842,2.272727272727273,2,2
+openstack/openstack-ansible-os_almanach,openstack/python-cueclient,Non core,0.0,2.272727272727273,2,2
+openstack/openstack-ansible-os_almanach,openstack/cue,Core,3.571428571428571,1.4705882352941175,2,2
+openstack/openstack-ansible-os_almanach,openstack/cue,Non core,0.0,1.4705882352941175,2,2
+openstack/openstack-ansible-os_almanach,openstack/app-catalog,Core,3.5294117647058822,1.0204081632653061,3,2
+openstack/openstack-ansible-os_almanach,openstack/app-catalog,Non core,0.0,1.0204081632653061,3,2
+openstack/openstack-ansible-os_almanach,openstack-attic/identity-api,Core,2.9850746268656714,0.8620689655172413,2,2
+openstack/openstack-ansible-os_almanach,openstack-attic/identity-api,Non core,0.0,0.8620689655172413,2,2
+openstack/openstack-ansible-os_almanach,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-fixtures,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/python-magnetodbclient,Core,3.3333333333333335,2.3255813953488373,1,2
+openstack/openstack-ansible-os_almanach,openstack/python-magnetodbclient,Non core,0.0,2.3255813953488373,1,2
+openstack/openstack-ansible-os_almanach,openstack/app-catalog-ui,Core,6.0606060606060606,2.0,2,2
+openstack/openstack-ansible-os_almanach,openstack/app-catalog-ui,Non core,0.0,2.0,2,2
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-kubernetes,Core,3.225806451612903,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-kubernetes,Non core,0.0,2.4390243902439024,1,1
+openstack/openstack-ansible-os_almanach,openstack/app-catalog-common,Core,0.0,2.7777777777777777,0,2
+openstack/openstack-ansible-os_almanach,openstack/app-catalog-common,Non core,0.0,2.7777777777777777,0,2
+openstack/openstack-ansible-os_almanach,openstack/python-appcatalogclient,Core,0.0,2.564102564102564,0,2
+openstack/openstack-ansible-os_almanach,openstack/python-appcatalogclient,Non core,0.0,2.564102564102564,0,2
+openstack/openstack-ansible-os_almanach,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-nova,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-kazoo,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-congressclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-congress,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-net-config,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ironic,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_almanach,openstack/deb-ironic,Non core,0.0,5.263157894736842,0,2
+openstack/openstack-ansible-os_almanach,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-swauth,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-api-ref,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-designate,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-swift,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-manila-ui,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-barbican,Non core,0.0,2.564102564102564,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-cinder,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-magnum,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-trove,Non core,0.0,2.5,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-openstack-pkg-tools,Core,0.0,2.3255813953488373,0,2
+openstack/openstack-ansible-os_almanach,openstack/deb-openstack-pkg-tools,Non core,0.0,2.3255813953488373,0,2
+openstack/openstack-ansible-os_almanach,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-swiftclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-alembic,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-cinderclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-nec,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-neutron-taas,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-mlnx,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-openstack-meta-packages,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-odl,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-nodepool,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-cisco,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-midonet,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-arista,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-hyperv,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-rtslib-fb,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-murano,Non core,0.0,2.5,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-semantic-version,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ldappool,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-zaqar-ui,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-zaqar,Non core,0.0,2.5,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-watcher,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-testr,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-win,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pycadf,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pyghmi,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-reno,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-refresh-config,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-vif,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pyeclib,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-quantumclient,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-requestsexceptions,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pbr,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-requests-mock,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-saharaclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-scciclient,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-seamicroclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-auto-backports,Non core,0.0,2.564102564102564,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-senlinclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-taskflow,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-testtools,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-tooz,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-shotgun,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-tackerclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-tosca-parser,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-troveclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-tuskarclient,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-watcherclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-wsme,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-bootswatch,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-angular-mock,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-d3,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-hogan,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-font-awesome,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jasmine,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-magic-search,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-mdi,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-objectpath,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-qunit,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-rickshaw,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-spin,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-tv4,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-yaql,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-zaqarclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-rally,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-sahara,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-sahara-dashboard,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-senlin,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-senlin-dashboard,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-stevedore,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-swift-bench,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-swift-plugin-s3,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-trove-dashboard,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-tempest,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-osprofiler,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.vmware,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.utils,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.rootwrap,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.service,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.privsep,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.versionedobjects,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslotest,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.serialization,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.reports,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.policy,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.middleware,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.messaging,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.log,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-aodhclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-automaton,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-barbicanclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-bashate,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-castellan,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ceilometerclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ceilometermiddleware,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-cliff,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-cursive,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-debtcollector,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-designateclient,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-dib-utils,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-diskimage-builder,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-doc8,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-openstack-auth,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-fuelclient,Non core,0.0,2.5,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-dogpile.cache,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-futurist,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-glanceclient,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-glance-store,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-hacking,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-heatclient,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ironicclient,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ironic-inspector-client,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ironic-lib,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-k8sclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-keystoneauth1,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-keystoneclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-keystonemiddleware,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-magnumclient,Non core,0.0,2.564102564102564,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-manilaclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-microversion-parse,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-mistralclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-monascaclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-mox3,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-muranoclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-neutronclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-neutron-lib,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-novaclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-openstackclient,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-openstackdocstheme,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-openstacksdk,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-apply-config,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-brick,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-osc-lib,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-client-config,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-collect-config,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.cache,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.db,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.concurrency,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.config,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.i18n,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oslo.context,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-openstack-nose,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-openstack-doc-tools,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-openstack-trove,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-oslosphinx,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-aodh,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-bandit,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ceilometer,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ceilometermiddleware,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-designate-dashboard,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-git-review,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-glance,Non core,0.0,2.5,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-glare,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-heat,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-heat-cfntools,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-horizon,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ironic-inspector,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-ironic-ui,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-keystone,Non core,0.0,2.564102564102564,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-liberasurecode,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-manila,Non core,0.0,2.631578947368421,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-mistral,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-mistral,Non core,0.0,2.5,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-murano-agent,Non core,0.0,2.5,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-murano-dashboard,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-l2gw,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-networking-ovn,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-neutron,Non core,0.0,2.564102564102564,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-neutron-fwaas,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-neutron-vpnaas,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-neutron-lbaas,Non core,0.0,2.5,0,1
+openstack/openstack-ansible-os_almanach,openstack/installguide-cookiecutter,Core,5.714285714285714,2.127659574468085,2,2
+openstack/openstack-ansible-os_almanach,openstack/installguide-cookiecutter,Non core,0.0,2.127659574468085,2,2
+openstack/openstack-ansible-os_almanach,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-gnocchi,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-eventlet,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pymysql,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-opencontrail,Core,2.380952380952381,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-opencontrail,Non core,0.0,2.1739130434782608,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-neutron,Core,2.4390243902439024,2.083333333333333,1,2
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-neutron,Non core,0.0,2.083333333333333,1,2
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-swift,Non core,0.0,2.564102564102564,0,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-nova,Core,2.127659574468085,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-nova,Non core,0.0,2.0408163265306123,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-keystone,Core,2.272727272727273,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-keystone,Non core,0.0,2.127659574468085,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-horizon,Core,2.564102564102564,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-horizon,Non core,0.0,2.272727272727273,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-heat,Core,2.1739130434782608,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-heat,Non core,0.0,2.2222222222222223,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-glance,Core,2.2222222222222223,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-glance,Non core,0.0,2.127659574468085,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-cinder,Core,2.272727272727273,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-cinder,Non core,0.0,2.272727272727273,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-ceilometer,Core,2.7777777777777777,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-ceilometer,Non core,0.0,2.1739130434782608,1,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pygit2,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-libisal,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xvfbwrapper,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-testresources,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-compressor,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-sqlalchemy-utils,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pykmip,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-coffin,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-txaio,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-hplefthandclient,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-overextends,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pytimeparse,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-nose-timer,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-retrying,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-discover-runner,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-lesscpy,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-happybase,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-extras,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-functools32,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pydot-ng,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-jsonschema,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-kafka,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-rcssmin,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-nose-parameterized,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pika-pool,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-rfc3986,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-httpretty,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pint,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-pyscss,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-falcon,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-subunit,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-formtools,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-nose-exclude,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pydotplus,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pager,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-proliantutils,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-gnocchiclient,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-babel,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-requests-kerberos,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-colander,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-dcos,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-bootstrap-form,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-term.js,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-toml,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-semver,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-websocket-client,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-fasteners,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-jingo,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pecan,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-frozendict,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_almanach,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-wrapt,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-funcsigs,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-crank,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pyvmomi,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-wsgi-intercept,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-os-cloud-config,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-weakrefmethod,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-steadymark,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-warlock,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-couleur,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-json-patch,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-jsonrpclib,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-multi-key-dict,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-memcache,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pulp,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-fonts-roboto-fontface,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-websockify,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-daemonize,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-pyngus,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-editor,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-ddt,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-monotonic,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-rjsmin,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-jsonpath-rw,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-django-appconf,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-oauth2client,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-json-pointer,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack-attic/akanda,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack-attic/akanda,Non core,0.0,2.2222222222222223,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-smart-table,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-requestbuilder,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-nosehtmloutput,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-csscompressor,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-croniter,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-python-concurrent.futures,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-ansible-os_almanach,openstack/openstack-salt,Core,3.3333333333333335,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/openstack-salt,Non core,0.0,2.5,1,1
+openstack/openstack-ansible-os_almanach,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack/deb-spice-html5,Non core,0.0,2.857142857142857,0,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-midonet,Core,3.8461538461538463,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack/salt-formula-midonet,Non core,0.0,2.857142857142857,1,1
+openstack/openstack-ansible-os_almanach,openstack/magnetodb-specs,Core,5.555555555555555,1.9607843137254901,2,2
+openstack/openstack-ansible-os_almanach,openstack/magnetodb-specs,Non core,0.0,1.9607843137254901,2,2
+openstack/openstack-ansible-os_almanach,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack-attic/akanda-appliance-builder,Non core,0.0,2.5,0,1
+openstack/openstack-ansible-os_almanach,openstack-attic/oslo.version,Core,6.0606060606060606,1.9230769230769231,2,2
+openstack/openstack-ansible-os_almanach,openstack-attic/oslo.version,Non core,0.0,1.9230769230769231,2,2
+openstack/openstack-ansible-os_almanach,openstack-attic/image-api,Core,5.714285714285714,3.9215686274509802,2,3
+openstack/openstack-ansible-os_almanach,openstack-attic/image-api,Non core,0.0,1.9607843137254901,2,3
+openstack/openstack-ansible-os_almanach,openstack-attic/object-api,Core,4.444444444444445,1.6129032258064515,2,2
+openstack/openstack-ansible-os_almanach,openstack-attic/object-api,Non core,0.0,1.6129032258064515,2,2
+openstack/openstack-ansible-os_almanach,openstack-attic/volume-api,Core,2.5,1.8518518518518516,1,2
+openstack/openstack-ansible-os_almanach,openstack-attic/volume-api,Non core,0.0,1.8518518518518516,1,2
+openstack/openstack-ansible-os_almanach,openstack/magnetodb,Core,4.25531914893617,0.0,2,1
+openstack/openstack-ansible-os_almanach,openstack/magnetodb,Non core,0.0,1.4084507042253522,2,1
+openstack/openstack-ansible-os_almanach,openstack/openstack-nose,Core,0.0,2.4390243902439024,0,2
+openstack/openstack-ansible-os_almanach,openstack/openstack-nose,Non core,0.0,2.4390243902439024,0,2
+openstack/openstack-ansible-os_almanach,openstack-attic/netconn-api,Core,3.8461538461538463,1.2048192771084338,2,2
+openstack/openstack-ansible-os_almanach,openstack-attic/netconn-api,Non core,0.0,1.2048192771084338,2,2
+openstack/openstack-ansible-os_almanach,openstack-attic/python-melangeclient,Core,3.125,0.0,1,1
+openstack/openstack-ansible-os_almanach,openstack-attic/python-melangeclient,Non core,0.0,2.631578947368421,1,1
+openstack/openstack-ansible-os_almanach,openstack-attic/melange,Core,2.380952380952381,2.127659574468085,1,2
+openstack/openstack-ansible-os_almanach,openstack-attic/melange,Non core,0.0,2.127659574468085,1,2
+openstack/openstack-ansible-os_almanach,openstack-attic/openstack-qa,Core,3.4482758620689653,2.7027027027027026,1,2
+openstack/openstack-ansible-os_almanach,openstack-attic/openstack-qa,Non core,0.0,2.7027027027027026,1,2
+openstack/openstack-ansible-os_almanach,openstack-attic/database-api,Core,2.7027027027027026,2.0,1,2
+openstack/openstack-ansible-os_almanach,openstack-attic/database-api,Non core,0.0,2.0,1,2
+openstack/openstack-ansible-os_almanach,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_almanach,openstack-attic/openstack-security-notes,Non core,0.0,0.9615384615384616,0,1

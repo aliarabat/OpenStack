@@ -1,0 +1,1711 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/sahara,openstack/ironic-ui,Core,4.934210526315789,2.112676056338028,24,19
+openstack/sahara,openstack/ironic-ui,Non core,2.9605263157894735,2.3474178403755865,24,19
+openstack/sahara,openstack/oslo.serialization,Core,5.863192182410423,4.750593824228028,29,40
+openstack/sahara,openstack/oslo.serialization,Non core,3.5830618892508146,4.750593824228028,29,40
+openstack/sahara,openstack/oslo.context,Core,4.318936877076411,4.0,25,39
+openstack/sahara,openstack/oslo.context,Non core,3.9867109634551494,5.176470588235294,25,39
+openstack/sahara,openstack/oslo.limit,Core,2.422145328719723,3.0848329048843186,14,22
+openstack/sahara,openstack/oslo.limit,Non core,2.422145328719723,2.570694087403599,14,22
+openstack/sahara,openstack/oslo.middleware,Core,4.672897196261682,5.542725173210162,30,54
+openstack/sahara,openstack/oslo.middleware,Non core,4.672897196261682,6.928406466512701,30,54
+openstack/sahara,openstack/oslo.reports,Core,3.389830508474576,3.6855036855036856,18,37
+openstack/sahara,openstack/oslo.reports,Non core,2.711864406779661,5.405405405405405,18,37
+openstack/sahara,openstack/futurist,Core,3.4013605442176873,3.258145363408521,19,27
+openstack/sahara,openstack/futurist,Non core,3.061224489795918,3.508771929824561,19,27
+openstack/sahara,openstack/oslo.i18n,Core,4.9504950495049505,5.011933174224343,27,46
+openstack/sahara,openstack/oslo.i18n,Non core,3.9603960396039604,5.966587112171838,27,46
+openstack/sahara,openstack/sushy-oem-idrac,Core,0.0,0.5181347150259068,0,2
+openstack/sahara,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,2
+openstack/sahara,openstack/python-dracclient,Core,1.3289036544850499,0.9592326139088728,7,15
+openstack/sahara,openstack/python-dracclient,Non core,0.9966777408637874,2.6378896882494005,7,15
+openstack/sahara,openstack/openstack-ansible-os_adjutant,Core,0.36363636363636365,0.267379679144385,1,1
+openstack/sahara,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,1,1
+openstack/sahara,openstack/openstack-ansible-os_masakari,Core,2.768166089965398,2.5380710659898478,13,21
+openstack/sahara,openstack/openstack-ansible-os_masakari,Non core,1.7301038062283738,2.7918781725888326,13,21
+openstack/sahara,openstack/ansible-role-systemd_mount,Core,2.1505376344086025,1.58311345646438,10,11
+openstack/sahara,openstack/ansible-role-systemd_mount,Non core,1.4336917562724014,1.3192612137203166,10,11
+openstack/sahara,openstack/python-senlinclient,Core,4.9079754601226995,3.009259259259259,35,38
+openstack/sahara,openstack/python-senlinclient,Non core,5.828220858895705,5.787037037037037,35,38
+openstack/sahara,openstack/senlin-dashboard,Core,4.333333333333334,3.8461538461538463,26,39
+openstack/sahara,openstack/senlin-dashboard,Non core,4.333333333333334,5.528846153846153,26,39
+openstack/sahara,openstack/networking-generic-switch,Core,2.5,2.863961813842482,13,24
+openstack/sahara,openstack/networking-generic-switch,Non core,1.5625,2.863961813842482,13,24
+openstack/sahara,openstack/sahara-image-elements,Core,7.553956834532374,4.473684210526316,58,69
+openstack/sahara,openstack/sahara-image-elements,Non core,13.309352517985612,13.684210526315791,58,69
+openstack/sahara,openstack/ansible-role-thales-hsm,Core,0.0,1.0666666666666667,1,5
+openstack/sahara,openstack/ansible-role-thales-hsm,Non core,0.3663003663003663,0.26666666666666666,1,5
+openstack/sahara,openstack/ansible-role-atos-hsm,Core,0.0,1.6172506738544474,1,7
+openstack/sahara,openstack/ansible-role-atos-hsm,Non core,0.3676470588235294,0.2695417789757413,1,7
+openstack/sahara,openstack/adjutant-ui,Core,1.444043321299639,1.0666666666666667,4,8
+openstack/sahara,openstack/adjutant-ui,Non core,0.0,1.0666666666666667,4,8
+openstack/sahara,openstack/sahara-extra,Core,4.676258992805756,5.149051490514905,33,52
+openstack/sahara,openstack/sahara-extra,Non core,7.194244604316546,8.94308943089431,33,52
+openstack/sahara,openstack/blazar-nova,Core,3.5211267605633805,3.5443037974683547,18,27
+openstack/sahara,openstack/blazar-nova,Non core,2.8169014084507045,3.2911392405063293,18,27
+openstack/sahara,openstack/oslo.service,Core,4.804804804804805,5.240174672489083,29,49
+openstack/sahara,openstack/oslo.service,Non core,3.903903903903904,5.458515283842795,29,49
+openstack/sahara,openstack/blazar-dashboard,Core,1.76678445229682,2.5380710659898478,11,23
+openstack/sahara,openstack/blazar-dashboard,Non core,2.1201413427561837,3.2994923857868024,11,23
+openstack/sahara,openstack/paunch,Core,3.9735099337748347,3.5955056179775284,16,29
+openstack/sahara,openstack/paunch,Non core,1.3245033112582782,2.9213483146067416,16,29
+openstack/sahara,openstack/service-types-authority,Core,2.4822695035460995,4.878048780487805,9,21
+openstack/sahara,openstack/service-types-authority,Non core,0.7092198581560284,0.24390243902439024,9,21
+openstack/sahara,openstack/python-ironic-inspector-client,Core,4.026845637583892,2.3980815347721824,20,31
+openstack/sahara,openstack/python-ironic-inspector-client,Non core,2.684563758389262,5.0359712230215825,20,31
+openstack/sahara,openstack/openstack-ansible-memcached_server,Core,4.040404040404041,1.477832512315271,20,19
+openstack/sahara,openstack/openstack-ansible-memcached_server,Non core,2.6936026936026933,3.201970443349754,20,19
+openstack/sahara,openstack/os-testr,Core,3.642384105960265,4.07673860911271,17,32
+openstack/sahara,openstack/os-testr,Non core,1.9867549668874174,3.597122302158273,17,32
+openstack/sahara,openstack/openstack-ansible-ceph_client,Core,3.9603960396039604,1.9184652278177456,19,20
+openstack/sahara,openstack/openstack-ansible-ceph_client,Non core,2.31023102310231,2.877697841726619,19,20
+openstack/sahara,openstack/openstack-ansible-os_magnum,Core,3.908794788273615,2.3529411764705883,19,20
+openstack/sahara,openstack/openstack-ansible-os_magnum,Non core,2.2801302931596092,2.3529411764705883,19,20
+openstack/sahara,openstack/openstack-ansible-os_blazar,Core,2.430555555555556,2.3017902813299234,12,17
+openstack/sahara,openstack/openstack-ansible-os_blazar,Non core,1.7361111111111112,2.0460358056265986,12,17
+openstack/sahara,openstack/openstack-ansible-os_designate,Core,4.193548387096775,2.576112412177986,21,25
+openstack/sahara,openstack/openstack-ansible-os_designate,Non core,2.5806451612903225,3.278688524590164,21,25
+openstack/sahara,openstack/openstack-ansible-os_gnocchi,Core,3.536977491961415,2.657004830917874,18,22
+openstack/sahara,openstack/openstack-ansible-os_gnocchi,Non core,2.2508038585209005,2.657004830917874,18,22
+openstack/sahara,openstack/openstack-ansible-os_senlin,Core,0.3663003663003663,0.2680965147453083,1,3
+openstack/sahara,openstack/openstack-ansible-os_senlin,Non core,0.0,0.5361930294906166,1,3
+openstack/sahara,openstack/ptgbot,Core,3.260869565217391,3.9893617021276597,9,17
+openstack/sahara,openstack/ptgbot,Non core,0.0,0.5319148936170213,9,17
+openstack/sahara,openstack/openstack-ansible-os_zun,Core,3.169014084507042,2.0618556701030926,15,16
+openstack/sahara,openstack/openstack-ansible-os_zun,Non core,2.112676056338028,2.0618556701030926,15,16
+openstack/sahara,openstack/openstack-ansible-repo_server,Core,3.5830618892508146,2.8503562945368173,20,21
+openstack/sahara,openstack/openstack-ansible-repo_server,Non core,2.9315960912052117,2.137767220902613,20,21
+openstack/sahara,openstack/python-watcherclient,Core,4.968944099378882,2.8503562945368173,32,26
+openstack/sahara,openstack/python-watcherclient,Non core,4.968944099378882,3.32541567695962,32,26
+openstack/sahara,openstack/heat-agents,Core,2.7027027027027026,2.843601895734597,12,30
+openstack/sahara,openstack/heat-agents,Non core,1.3513513513513513,4.265402843601896,12,30
+openstack/sahara,openstack/oslo.rootwrap,Core,5.7324840764331215,5.287356321839081,29,48
+openstack/sahara,openstack/oslo.rootwrap,Non core,3.5031847133757963,5.747126436781609,29,48
+openstack/sahara,openstack/automaton,Core,2.8268551236749118,2.051282051282051,19,19
+openstack/sahara,openstack/automaton,Non core,3.8869257950530036,2.8205128205128207,19,19
+openstack/sahara,openstack/debtcollector,Core,4.844290657439446,3.6363636363636362,25,23
+openstack/sahara,openstack/debtcollector,Non core,3.8062283737024223,2.3376623376623376,25,23
+openstack/sahara,openstack/vitrage-dashboard,Core,3.1948881789137378,0.9569377990430622,24,16
+openstack/sahara,openstack/vitrage-dashboard,Non core,4.472843450479233,2.8708133971291865,24,16
+openstack/sahara,openstack/oslotest,Core,5.647840531561462,4.578313253012048,30,39
+openstack/sahara,openstack/oslotest,Non core,4.318936877076411,4.819277108433735,30,39
+openstack/sahara,openstack/kayobe-config,Core,0.7220216606498195,0.2688172043010753,4,1
+openstack/sahara,openstack/kayobe-config,Non core,0.7220216606498195,0.0,4,1
+openstack/sahara,openstack/compute-hyperv,Core,2.3890784982935154,2.083333333333333,11,22
+openstack/sahara,openstack/compute-hyperv,Non core,1.3651877133105803,3.6458333333333335,11,22
+openstack/sahara,openstack/python-cloudkittyclient,Core,3.2362459546925564,2.2332506203473943,23,33
+openstack/sahara,openstack/python-cloudkittyclient,Non core,4.207119741100324,5.955334987593052,23,33
+openstack/sahara,openstack/charm-interface-keystone,Core,1.0752688172043012,0.26595744680851063,6,6
+openstack/sahara,openstack/charm-interface-keystone,Non core,1.0752688172043012,1.3297872340425532,6,6
+openstack/sahara,openstack/cloudkitty-dashboard,Core,3.728813559322034,2.4271844660194173,22,30
+openstack/sahara,openstack/cloudkitty-dashboard,Non core,3.728813559322034,4.854368932038835,22,30
+openstack/sahara,openstack/networking-hyperv,Core,3.618421052631579,2.2900763358778624,19,24
+openstack/sahara,openstack/networking-hyperv,Non core,2.631578947368421,3.816793893129771,19,24
+openstack/sahara,openstack/i18n,Core,3.3444816053511706,2.93398533007335,14,27
+openstack/sahara,openstack/i18n,Non core,1.3377926421404682,3.6674816625916873,14,27
+openstack/sahara,openstack/sahara-tests,Core,4.642857142857143,3.324808184143223,29,41
+openstack/sahara,openstack/sahara-tests,Non core,5.714285714285714,7.161125319693094,29,41
+openstack/sahara,openstack/python-zunclient,Core,4.024767801857585,1.580135440180587,31,26
+openstack/sahara,openstack/python-zunclient,Non core,5.572755417956656,4.288939051918736,31,26
+openstack/sahara,openstack/sahara-plugin-cdh,Core,2.952029520295203,3.278688524590164,12,21
+openstack/sahara,openstack/sahara-plugin-cdh,Non core,1.4760147601476015,2.459016393442623,12,21
+openstack/sahara,openstack/monasca-ui,Core,4.3478260869565215,1.4989293361884368,25,29
+openstack/sahara,openstack/monasca-ui,Non core,3.4161490683229814,4.710920770877944,25,29
+openstack/sahara,openstack/python-adjutantclient,Core,1.8115942028985508,1.084010840108401,6,9
+openstack/sahara,openstack/python-adjutantclient,Non core,0.36231884057971014,1.3550135501355014,6,9
+openstack/sahara,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/sahara,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/ansible-role-lunasa-hsm,Core,0.36900369003690037,0.544959128065395,1,3
+openstack/sahara,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.2724795640326975,1,3
+openstack/sahara,openstack/monasca-thresh,Core,1.7301038062283738,0.24752475247524752,9,7
+openstack/sahara,openstack/monasca-thresh,Non core,1.384083044982699,1.4851485148514851,9,7
+openstack/sahara,openstack/heat-specs,Core,3.0864197530864197,2.579365079365079,17,45
+openstack/sahara,openstack/heat-specs,Non core,2.1604938271604937,6.349206349206349,17,45
+openstack/sahara,openstack/watcher-dashboard,Core,2.6402640264026402,1.4492753623188406,17,18
+openstack/sahara,openstack/watcher-dashboard,Non core,2.9702970297029703,2.898550724637681,17,18
+openstack/sahara,openstack/sahara-plugin-ambari,Core,2.5830258302583027,2.197802197802198,11,16
+openstack/sahara,openstack/sahara-plugin-ambari,Non core,1.4760147601476015,2.197802197802198,11,16
+openstack/sahara,openstack/sahara-plugin-mapr,Core,2.5925925925925926,2.459016393442623,11,19
+openstack/sahara,openstack/sahara-plugin-mapr,Non core,1.4814814814814816,2.73224043715847,11,19
+openstack/sahara,openstack/sahara-plugin-spark,Core,2.5925925925925926,2.197802197802198,10,11
+openstack/sahara,openstack/sahara-plugin-spark,Non core,1.1111111111111112,0.8241758241758242,10,11
+openstack/sahara,openstack/sahara-plugin-storm,Core,2.5925925925925926,2.197802197802198,10,12
+openstack/sahara,openstack/sahara-plugin-storm,Non core,1.1111111111111112,1.098901098901099,10,12
+openstack/sahara,openstack/sahara-plugin-vanilla,Core,2.5925925925925926,2.197802197802198,10,14
+openstack/sahara,openstack/sahara-plugin-vanilla,Non core,1.1111111111111112,1.6483516483516485,10,14
+openstack/sahara,openstack/sahara-specs,Core,4.7272727272727275,3.9473684210526314,46,58
+openstack/sahara,openstack/sahara-specs,Non core,12.0,11.31578947368421,46,58
+openstack/sahara,openstack/venus-tempest-plugin,Core,0.36231884057971014,1.366120218579235,1,5
+openstack/sahara,openstack/venus-tempest-plugin,Non core,0.0,0.0,1,5
+openstack/sahara,openstack/venus-specs,Core,0.7352941176470588,1.366120218579235,2,5
+openstack/sahara,openstack/venus-specs,Non core,0.0,0.0,2,5
+openstack/sahara,openstack/ceilometermiddleware,Core,3.728813559322034,3.201970443349754,15,33
+openstack/sahara,openstack/ceilometermiddleware,Non core,1.3559322033898304,4.926108374384237,15,33
+openstack/sahara,openstack/trove-tempest-plugin,Core,2.5454545454545454,1.5665796344647518,9,12
+openstack/sahara,openstack/trove-tempest-plugin,Non core,0.7272727272727273,1.5665796344647518,9,12
+openstack/sahara,openstack/arch-design,Core,0.7272727272727273,1.092896174863388,3,5
+openstack/sahara,openstack/arch-design,Non core,0.36363636363636365,0.273224043715847,3,5
+openstack/sahara,openstack/monasca-common,Core,4.049844236760125,1.7977528089887642,24,28
+openstack/sahara,openstack/monasca-common,Non core,3.4267912772585665,4.49438202247191,24,28
+openstack/sahara,openstack/monasca-statsd,Core,4.482758620689655,1.4851485148514851,20,18
+openstack/sahara,openstack/monasca-statsd,Non core,2.413793103448276,2.9702970297029703,20,18
+openstack/sahara,openstack/python-monascaclient,Core,4.2682926829268295,2.6548672566371683,31,31
+openstack/sahara,openstack/python-monascaclient,Non core,5.182926829268292,4.20353982300885,31,31
+openstack/sahara,openstack/renderspec,Core,3.571428571428571,2.1164021164021163,14,15
+openstack/sahara,openstack/renderspec,Non core,1.4285714285714286,1.8518518518518516,14,15
+openstack/sahara,openstack/os-service-types,Core,2.5,2.6246719160104988,12,19
+openstack/sahara,openstack/os-service-types,Non core,1.7857142857142856,2.3622047244094486,12,19
+openstack/sahara,openstack/masakari-dashboard,Core,1.3888888888888888,1.5113350125944585,9,16
+openstack/sahara,openstack/masakari-dashboard,Non core,1.7361111111111112,2.518891687657431,9,16
+openstack/sahara,openstack/freezer-dr,Core,2.1052631578947367,1.550387596899225,10,16
+openstack/sahara,openstack/freezer-dr,Non core,1.4035087719298245,2.5839793281653747,10,16
+openstack/sahara,openstack/tempest-stress,Core,1.4184397163120568,1.0752688172043012,8,10
+openstack/sahara,openstack/tempest-stress,Non core,1.4184397163120568,1.6129032258064515,8,10
+openstack/sahara,openstack/charm-neutron-api-genericswitch,Core,0.7380073800738007,0.5434782608695652,3,2
+openstack/sahara,openstack/charm-neutron-api-genericswitch,Non core,0.36900369003690037,0.0,3,2
+openstack/sahara,openstack/charm-neutron-dynamic-routing,Core,1.0638297872340425,0.5291005291005291,4,5
+openstack/sahara,openstack/charm-neutron-dynamic-routing,Non core,0.3546099290780142,0.7936507936507936,4,5
+openstack/sahara,openstack/charm-interface-ceph-client,Core,0.7246376811594203,0.5361930294906166,2,3
+openstack/sahara,openstack/charm-interface-ceph-client,Non core,0.0,0.2680965147453083,2,3
+openstack/sahara,openstack/charm-percona-cluster,Core,1.3201320132013201,0.7389162561576355,7,9
+openstack/sahara,openstack/charm-percona-cluster,Non core,0.9900990099009901,1.477832512315271,7,9
+openstack/sahara,openstack/charm-deployment-guide,Core,0.6711409395973155,0.25380710659898476,4,4
+openstack/sahara,openstack/charm-deployment-guide,Non core,0.6711409395973155,0.7614213197969544,4,4
+openstack/sahara,openstack/rbd-iscsi-client,Core,0.0,0.2695417789757413,0,1
+openstack/sahara,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,1
+openstack/sahara,openstack/oslo.metrics,Core,1.098901098901099,1.0752688172043012,5,8
+openstack/sahara,openstack/oslo.metrics,Non core,0.7326007326007326,1.0752688172043012,5,8
+openstack/sahara,openstack/oslo.vmware,Core,4.643962848297214,5.9734513274336285,27,56
+openstack/sahara,openstack/oslo.vmware,Non core,3.7151702786377707,6.415929203539823,27,56
+openstack/sahara,openstack/oslo.upgradecheck,Core,2.5179856115107913,2.3746701846965697,10,14
+openstack/sahara,openstack/oslo.upgradecheck,Non core,1.079136690647482,1.3192612137203166,10,14
+openstack/sahara,openstack/python-masakariclient,Core,3.3557046979865772,1.7587939698492463,14,19
+openstack/sahara,openstack/python-masakariclient,Non core,1.342281879194631,3.015075376884422,14,19
+openstack/sahara,openstack/python-vitrageclient,Core,2.666666666666667,0.5089058524173028,24,11
+openstack/sahara,openstack/python-vitrageclient,Non core,5.333333333333334,2.2900763358778624,24,11
+openstack/sahara,openstack/python-blazarclient,Core,3.289473684210526,2.9629629629629632,19,37
+openstack/sahara,openstack/python-blazarclient,Non core,2.9605263157894735,6.172839506172839,19,37
+openstack/sahara,openstack/zaqar-tempest-plugin,Core,2.5454545454545454,1.58311345646438,8,11
+openstack/sahara,openstack/zaqar-tempest-plugin,Non core,0.36363636363636365,1.3192612137203166,8,11
+openstack/sahara,openstack/tripleo-common-tempest-plugin,Core,1.7921146953405016,1.5625,8,14
+openstack/sahara,openstack/tripleo-common-tempest-plugin,Non core,1.0752688172043012,2.083333333333333,8,14
+openstack/sahara,openstack/mistral-tempest-plugin,Core,2.8368794326241136,0.7672634271099744,12,9
+openstack/sahara,openstack/mistral-tempest-plugin,Non core,1.4184397163120568,1.5345268542199488,12,9
+openstack/sahara,openstack/barbican-ui,Core,0.3703703703703704,1.0752688172043012,1,5
+openstack/sahara,openstack/barbican-ui,Non core,0.0,0.2688172043010753,1,5
+openstack/sahara,openstack/liberasurecode,Core,0.35842293906810035,0.26246719160104987,3,4
+openstack/sahara,openstack/liberasurecode,Non core,0.7168458781362007,0.7874015748031495,3,4
+openstack/sahara,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/sahara,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/os-client-config,Core,5.263157894736842,3.8901601830663615,26,34
+openstack/sahara,openstack/os-client-config,Non core,2.786377708978328,3.8901601830663615,26,34
+openstack/sahara,openstack/monasca-specs,Core,0.7194244604316548,1.0282776349614395,4,6
+openstack/sahara,openstack/monasca-specs,Non core,0.7194244604316548,0.5141388174807198,4,6
+openstack/sahara,openstack/os-performance-tools,Core,1.4134275618374559,1.8716577540106951,6,12
+openstack/sahara,openstack/os-performance-tools,Non core,0.7067137809187279,1.3368983957219251,6,12
+openstack/sahara,openstack/trove-specs,Core,2.348993288590604,0.936768149882904,12,22
+openstack/sahara,openstack/trove-specs,Non core,1.6778523489932886,4.215456674473068,12,22
+openstack/sahara,openstack/manila-image-elements,Core,1.7301038062283738,1.0126582278481013,8,16
+openstack/sahara,openstack/manila-image-elements,Non core,1.0380622837370241,3.0379746835443036,8,16
+openstack/sahara,openstack/blazar-specs,Core,1.0869565217391304,1.0471204188481675,3,4
+openstack/sahara,openstack/blazar-specs,Non core,0.0,0.0,3,4
+openstack/sahara,openstack/molteniron,Core,1.8115942028985508,1.0416666666666665,6,7
+openstack/sahara,openstack/molteniron,Non core,0.36231884057971014,0.78125,6,7
+openstack/sahara,openstack/solum-specs,Core,2.527075812274368,0.7853403141361256,9,6
+openstack/sahara,openstack/solum-specs,Non core,0.7220216606498195,0.7853403141361256,9,6
+openstack/sahara,openstack/patrole,Core,3.857566765578635,3.5955056179775284,23,32
+openstack/sahara,openstack/patrole,Non core,2.967359050445104,3.5955056179775284,23,32
+openstack/sahara,openstack/performance-docs,Core,1.6835016835016834,1.9900497512437811,13,21
+openstack/sahara,openstack/performance-docs,Non core,2.6936026936026933,3.233830845771144,13,21
+openstack/sahara,openstack/sphinx-feature-classification,Core,2.127659574468085,2.0779220779220777,8,15
+openstack/sahara,openstack/sphinx-feature-classification,Non core,0.7092198581560284,1.8181818181818181,8,15
+openstack/sahara,openstack/etcd3gw,Core,0.36101083032490977,1.3513513513513513,1,6
+openstack/sahara,openstack/etcd3gw,Non core,0.0,0.2702702702702703,1,6
+openstack/sahara,openstack/watcher-specs,Core,1.3029315960912053,1.3888888888888888,11,16
+openstack/sahara,openstack/watcher-specs,Non core,2.2801302931596092,2.314814814814815,11,16
+openstack/sahara,openstack/yaql,Core,3.4602076124567476,2.272727272727273,17,25
+openstack/sahara,openstack/yaql,Non core,2.422145328719723,4.040404040404041,17,25
+openstack/sahara,openstack/puppet-openstack-guide,Core,3.180212014134275,2.33160621761658,14,19
+openstack/sahara,openstack/puppet-openstack-guide,Non core,1.76678445229682,2.5906735751295336,14,19
+openstack/sahara,openstack/puppet-panko,Core,3.4129692832764507,1.5584415584415585,16,13
+openstack/sahara,openstack/puppet-panko,Non core,2.04778156996587,1.8181818181818181,16,13
+openstack/sahara,openstack/heat-cfnclient,Core,2.8469750889679712,2.3622047244094486,11,17
+openstack/sahara,openstack/heat-cfnclient,Non core,1.0676156583629894,2.099737532808399,11,17
+openstack/sahara,openstack/heat-cfntools,Core,3.3333333333333335,2.195121951219512,19,24
+openstack/sahara,openstack/heat-cfntools,Non core,3.0,3.6585365853658534,19,24
+openstack/sahara,openstack/heat-templates,Core,2.824858757062147,2.376237623762376,21,39
+openstack/sahara,openstack/heat-templates,Non core,3.1073446327683616,5.346534653465347,21,39
+openstack/sahara,openstack/governance-sigs,Core,4.861111111111112,5.287356321839081,16,32
+openstack/sahara,openstack/governance-sigs,Non core,0.6944444444444444,2.0689655172413794,16,32
+openstack/sahara,openstack/openstack-zuul-roles,Core,1.107011070110701,0.8064516129032258,3,4
+openstack/sahara,openstack/openstack-zuul-roles,Non core,0.0,0.2688172043010753,3,4
+openstack/sahara,openstack/nova-powervm,Core,2.5559105431309903,2.7649769585253456,14,30
+openstack/sahara,openstack/nova-powervm,Non core,1.9169329073482428,4.147465437788019,14,30
+openstack/sahara,openstack/openstack-helm-addons,Core,0.3289473684210526,0.8602150537634409,3,13
+openstack/sahara,openstack/openstack-helm-addons,Non core,0.6578947368421052,1.935483870967742,3,13
+openstack/sahara,openstack/python-pankoclient,Core,2.456140350877193,2.604166666666667,10,21
+openstack/sahara,openstack/python-pankoclient,Non core,1.0526315789473684,2.864583333333333,10,21
+openstack/sahara,openstack/qa-specs,Core,3.6303630363036308,2.888888888888889,15,26
+openstack/sahara,openstack/qa-specs,Non core,1.3201320132013201,2.888888888888889,15,26
+openstack/sahara,openstack/zaqar-specs,Core,2.7491408934707904,2.2332506203473943,15,27
+openstack/sahara,openstack/zaqar-specs,Non core,2.405498281786942,4.466501240694789,15,27
+openstack/sahara,openstack/swift-bench,Core,0.35211267605633806,0.7653061224489796,4,10
+openstack/sahara,openstack/swift-bench,Non core,1.056338028169014,1.7857142857142856,4,10
+openstack/sahara,openstack/whereto,Core,1.444043321299639,2.4128686327077746,10,14
+openstack/sahara,openstack/whereto,Non core,2.166064981949458,1.3404825737265416,10,14
+openstack/sahara,openstack/murano-specs,Core,2.0066889632107023,1.4634146341463417,13,17
+openstack/sahara,openstack/murano-specs,Non core,2.341137123745819,2.682926829268293,13,17
+openstack/sahara,openstack/ansible-role-tripleo-modify-image,Core,2.7586206896551726,2.195121951219512,9,18
+openstack/sahara,openstack/ansible-role-tripleo-modify-image,Non core,0.3448275862068966,2.195121951219512,9,18
+openstack/sahara,openstack/requestsexceptions,Core,1.4705882352941175,1.3404825737265416,5,9
+openstack/sahara,openstack/requestsexceptions,Non core,0.3676470588235294,1.0723860589812333,5,9
+openstack/sahara,openstack/panko,Core,5.128205128205128,3.5046728971962615,30,39
+openstack/sahara,openstack/panko,Non core,4.487179487179487,5.607476635514018,30,39
+openstack/sahara,openstack/api-sig,Core,3.2467532467532463,4.615384615384616,13,40
+openstack/sahara,openstack/api-sig,Non core,0.974025974025974,3.076923076923077,13,40
+openstack/sahara,openstack/openstack-chef-specs,Core,1.3937282229965158,1.2886597938144329,6,12
+openstack/sahara,openstack/openstack-chef-specs,Non core,0.6968641114982579,1.804123711340206,6,12
+openstack/sahara,openstack/freezer-specs,Core,2.135231316725979,1.3020833333333335,10,8
+openstack/sahara,openstack/freezer-specs,Non core,1.4234875444839856,0.78125,10,8
+openstack/sahara,openstack/oslo.tools,Core,2.405498281786942,2.094240837696335,11,12
+openstack/sahara,openstack/oslo.tools,Non core,1.3745704467353952,1.0471204188481675,11,12
+openstack/sahara,openstack/microversion-parse,Core,0.7246376811594203,1.6085790884718498,3,7
+openstack/sahara,openstack/microversion-parse,Non core,0.36231884057971014,0.2680965147453083,3,7
+openstack/sahara,openstack/openstackclient,Core,2.4475524475524475,2.8947368421052633,8,20
+openstack/sahara,openstack/openstackclient,Non core,0.34965034965034963,2.368421052631579,8,20
+openstack/sahara,openstack/ossa,Core,1.3937282229965158,5.263157894736842,4,27
+openstack/sahara,openstack/ossa,Non core,0.0,1.5037593984962405,4,27
+openstack/sahara,openstack/reviewstats,Core,5.246913580246913,6.23608017817372,23,37
+openstack/sahara,openstack/reviewstats,Non core,1.8518518518518516,2.0044543429844097,23,37
+openstack/sahara,openstack/oslo-cookiecutter,Core,2.867383512544803,2.638522427440633,13,18
+openstack/sahara,openstack/oslo-cookiecutter,Non core,1.7921146953405016,2.1108179419525066,13,18
+openstack/sahara,openstack/openstack-helm-deployments,Core,0.0,0.0,1,1
+openstack/sahara,openstack/openstack-helm-deployments,Non core,0.3663003663003663,0.25773195876288657,1,1
+openstack/sahara,openstack/security-analysis,Core,1.094890510948905,2.1108179419525066,4,10
+openstack/sahara,openstack/security-analysis,Non core,0.36496350364963503,0.5277044854881267,4,10
+openstack/sahara,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/sahara,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/ansible-role-tripleo-keystone,Core,0.7326007326007326,0.27100271002710025,3,1
+openstack/sahara,openstack/ansible-role-tripleo-keystone,Non core,0.3663003663003663,0.0,3,1
+openstack/sahara,openstack/openstack-ansible-apt_package_pinning,Core,3.7800687285223367,1.7857142857142856,15,16
+openstack/sahara,openstack/openstack-ansible-apt_package_pinning,Non core,1.3745704467353952,2.295918367346939,15,16
+openstack/sahara,openstack/ansible-role-qdrouterd,Core,1.8181818181818181,1.8229166666666667,7,11
+openstack/sahara,openstack/ansible-role-qdrouterd,Non core,0.7272727272727273,1.0416666666666665,7,11
+openstack/sahara,openstack/openstack-ansible-openstack_openrc,Core,3.322259136212625,1.7587939698492463,16,19
+openstack/sahara,openstack/openstack-ansible-openstack_openrc,Non core,1.9933554817275747,3.015075376884422,16,19
+openstack/sahara,openstack/openstack-ansible-nspawn_container_create,Core,2.5089605734767026,2.1052631578947367,12,17
+openstack/sahara,openstack/openstack-ansible-nspawn_container_create,Non core,1.7921146953405016,2.368421052631579,12,17
+openstack/sahara,openstack/devstack-tools,Core,1.7857142857142856,1.891891891891892,7,12
+openstack/sahara,openstack/devstack-tools,Non core,0.7142857142857143,1.3513513513513513,7,12
+openstack/sahara,openstack/coverage2sql,Core,2.112676056338028,1.0752688172043012,10,13
+openstack/sahara,openstack/coverage2sql,Non core,1.4084507042253522,2.4193548387096775,10,13
+openstack/sahara,openstack/bashate,Core,3.6544850498338874,3.2418952618453867,18,19
+openstack/sahara,openstack/bashate,Non core,2.3255813953488373,1.4962593516209477,18,19
+openstack/sahara,openstack/hacking,Core,5.151515151515151,5.793991416309012,27,55
+openstack/sahara,openstack/hacking,Non core,3.0303030303030303,6.008583690987124,27,55
+openstack/sahara,openstack/xstatic-mdi,Core,0.7299270072992701,0.0,2,3
+openstack/sahara,openstack/xstatic-mdi,Non core,0.0,0.8021390374331552,2,3
+openstack/sahara,openstack/xstatic-roboto-fontface,Core,0.7326007326007326,0.0,2,3
+openstack/sahara,openstack/xstatic-roboto-fontface,Non core,0.0,0.8,2,3
+openstack/sahara,openstack/openstack-chef,Core,1.384083044982699,1.0610079575596816,6,7
+openstack/sahara,openstack/openstack-chef,Non core,0.6920415224913495,0.7957559681697612,6,7
+openstack/sahara,openstack/cookbook-openstackclient,Core,0.36231884057971014,0.2702702702702703,1,6
+openstack/sahara,openstack/cookbook-openstackclient,Non core,0.0,1.3513513513513513,1,6
+openstack/sahara,openstack/xstatic-angular,Core,0.7194244604316548,0.0,3,3
+openstack/sahara,openstack/xstatic-angular,Non core,0.3597122302158274,0.7832898172323759,3,3
+openstack/sahara,openstack/charm-interface-hacluster,Core,1.056338028169014,0.26595744680851063,4,5
+openstack/sahara,openstack/charm-interface-hacluster,Non core,0.35211267605633806,1.0638297872340425,4,5
+openstack/sahara,openstack/puppet-openstack-specs,Core,3.558718861209965,1.9704433497536946,14,15
+openstack/sahara,openstack/puppet-openstack-specs,Non core,1.4234875444839856,1.7241379310344827,14,15
+openstack/sahara,openstack/puppet-monasca,Core,2.807017543859649,1.8691588785046727,16,17
+openstack/sahara,openstack/puppet-monasca,Non core,2.807017543859649,2.102803738317757,16,17
+openstack/sahara,openstack/eslint-config-openstack,Core,1.7921146953405016,1.7456359102244388,7,11
+openstack/sahara,openstack/eslint-config-openstack,Non core,0.7168458781362007,0.997506234413965,7,11
+openstack/sahara,openstack/karma-subunit-reporter,Core,1.107011070110701,1.092896174863388,3,5
+openstack/sahara,openstack/karma-subunit-reporter,Non core,0.0,0.273224043715847,3,5
+openstack/sahara,openstack/openstack-helm-docs,Core,0.36363636363636365,1.5706806282722512,2,8
+openstack/sahara,openstack/openstack-helm-docs,Non core,0.36363636363636365,0.5235602094240838,2,8
+openstack/sahara,openstack/openstack-ansible-specs,Core,2.5806451612903225,1.9607843137254901,15,17
+openstack/sahara,openstack/openstack-ansible-specs,Non core,2.258064516129032,1.7429193899782136,15,17
+openstack/sahara,openstack/tempest-lib,Core,2.6402640264026402,2.102803738317757,10,28
+openstack/sahara,openstack/tempest-lib,Non core,0.6600660066006601,4.439252336448598,10,28
+openstack/sahara,openstack/tripleo-ha-utils,Core,0.36363636363636365,0.0,3,4
+openstack/sahara,openstack/tripleo-ha-utils,Non core,0.7272727272727273,1.0362694300518136,3,4
+openstack/sahara,openstack/devstack-vagrant,Core,1.4285714285714286,1.3157894736842104,4,9
+openstack/sahara,openstack/devstack-vagrant,Non core,0.0,1.0526315789473684,4,9
+openstack/sahara,openstack/goal-tools,Core,1.4705882352941175,2.452316076294278,5,15
+openstack/sahara,openstack/goal-tools,Non core,0.3676470588235294,1.6348773841961852,5,15
+openstack/sahara,openstack/cookiecutter,Core,3.7037037037037033,5.985037406483791,16,33
+openstack/sahara,openstack/cookiecutter,Non core,1.6835016835016834,2.2443890274314215,16,33
+openstack/sahara,openstack/dib-utils,Core,1.7921146953405016,1.0126582278481013,6,8
+openstack/sahara,openstack/dib-utils,Non core,0.35842293906810035,1.0126582278481013,6,8
+openstack/sahara,openstack/constellations,Core,0.7380073800738007,2.73224043715847,4,14
+openstack/sahara,openstack/constellations,Non core,0.7380073800738007,1.092896174863388,4,14
+openstack/sahara,openstack/cookbook-openstack-integration-test,Core,1.4084507042253522,0.7712082262210797,4,9
+openstack/sahara,openstack/cookbook-openstack-integration-test,Non core,0.0,1.5424164524421593,4,9
+openstack/sahara,openstack/cookbook-openstack-dashboard,Core,1.2861736334405145,0.9478672985781991,4,12
+openstack/sahara,openstack/cookbook-openstack-dashboard,Non core,0.0,1.8957345971563981,4,12
+openstack/sahara,openstack/cookbook-openstack-telemetry,Core,1.2903225806451613,0.9876543209876543,6,10
+openstack/sahara,openstack/cookbook-openstack-telemetry,Non core,0.6451612903225806,1.4814814814814816,6,10
+openstack/sahara,openstack/cookbook-openstack-orchestration,Core,1.6611295681063125,1.2224938875305624,5,11
+openstack/sahara,openstack/cookbook-openstack-orchestration,Non core,0.0,1.466992665036675,5,11
+openstack/sahara,openstack/cookbook-openstack-bare-metal,Core,0.7194244604316548,1.0554089709762533,2,7
+openstack/sahara,openstack/cookbook-openstack-bare-metal,Non core,0.0,0.79155672823219,2,7
+openstack/sahara,openstack/cookbook-openstack-dns,Core,0.0,0.5420054200542005,0,7
+openstack/sahara,openstack/cookbook-openstack-dns,Non core,0.0,1.3550135501355014,0,7
+openstack/sahara,openstack/cookbook-openstack-compute,Core,1.2084592145015105,1.3636363636363635,4,18
+openstack/sahara,openstack/cookbook-openstack-compute,Non core,0.0,2.727272727272727,4,18
+openstack/sahara,openstack/cookbook-openstack-network,Core,1.5060240963855422,1.1389521640091116,5,14
+openstack/sahara,openstack/cookbook-openstack-network,Non core,0.0,2.050113895216401,5,14
+openstack/sahara,openstack/cookbook-openstack-block-storage,Core,1.5384615384615385,1.179245283018868,6,10
+openstack/sahara,openstack/cookbook-openstack-block-storage,Non core,0.3076923076923077,1.179245283018868,6,10
+openstack/sahara,openstack/cookbook-openstack-image,Core,1.2618296529968454,1.187648456057007,5,12
+openstack/sahara,openstack/cookbook-openstack-image,Non core,0.31545741324921134,1.66270783847981,5,12
+openstack/sahara,openstack/cookbook-openstack-identity,Core,1.8927444794952681,1.1682242990654206,7,11
+openstack/sahara,openstack/cookbook-openstack-identity,Non core,0.31545741324921134,1.4018691588785046,7,11
+openstack/sahara,openstack/cookbook-openstack-ops-database,Core,1.6722408026755853,0.9852216748768473,6,7
+openstack/sahara,openstack/cookbook-openstack-ops-database,Non core,0.33444816053511706,0.7389162561576355,6,7
+openstack/sahara,openstack/cookbook-openstack-ops-messaging,Core,1.7064846416382253,0.5,5,6
+openstack/sahara,openstack/cookbook-openstack-ops-messaging,Non core,0.0,1.0,5,6
+openstack/sahara,openstack/cookbook-openstack-common,Core,1.8461538461538463,1.1261261261261262,7,12
+openstack/sahara,openstack/cookbook-openstack-common,Non core,0.3076923076923077,1.5765765765765765,7,12
+openstack/sahara,openstack/self-healing-sig,Core,1.4545454545454546,1.0389610389610389,5,5
+openstack/sahara,openstack/self-healing-sig,Non core,0.36363636363636365,0.2597402597402597,5,5
+openstack/sahara,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/sahara,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/security-specs,Core,2.166064981949458,2.6246719160104988,8,14
+openstack/sahara,openstack/security-specs,Non core,0.7220216606498195,1.0498687664041995,8,14
+openstack/sahara,openstack/openstack-ansible-os_panko,Core,2.4822695035460995,2.842377260981912,12,17
+openstack/sahara,openstack/openstack-ansible-os_panko,Non core,1.773049645390071,1.550387596899225,12,17
+openstack/sahara,openstack/openstack-ansible-nspawn_hosts,Core,2.5089605734767026,1.8229166666666667,13,15
+openstack/sahara,openstack/openstack-ansible-nspawn_hosts,Non core,2.1505376344086025,2.083333333333333,13,15
+openstack/sahara,openstack/charm-layer-openstack-principle,Core,0.7352941176470588,0.0,3,0
+openstack/sahara,openstack/charm-layer-openstack-principle,Non core,0.3676470588235294,0.0,3,0
+openstack/sahara,openstack/charm-watcher-dashboard,Core,0.7380073800738007,0.267379679144385,2,1
+openstack/sahara,openstack/charm-watcher-dashboard,Non core,0.0,0.0,2,1
+openstack/sahara,openstack/charm-watcher,Core,0.7326007326007326,0.2617801047120419,2,2
+openstack/sahara,openstack/charm-watcher,Non core,0.0,0.2617801047120419,2,2
+openstack/sahara,openstack/openstack-ansible-galera_client,Core,3.9215686274509802,2.2332506203473943,18,19
+openstack/sahara,openstack/openstack-ansible-galera_client,Non core,1.9607843137254901,2.481389578163772,18,19
+openstack/sahara,openstack/cloudkitty-specs,Core,1.0676156583629894,0.2564102564102564,5,4
+openstack/sahara,openstack/cloudkitty-specs,Non core,0.7117437722419928,0.7692307692307693,5,4
+openstack/sahara,openstack/osops,Core,0.7352941176470588,0.8086253369272237,3,3
+openstack/sahara,openstack/osops,Non core,0.3676470588235294,0.0,3,3
+openstack/sahara,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/sahara,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/charm-ironic,Core,1.107011070110701,0.546448087431694,4,2
+openstack/sahara,openstack/charm-ironic,Non core,0.36900369003690037,0.0,4,2
+openstack/sahara,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/sahara,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/multi-arch-sig,Core,1.1152416356877324,1.0869565217391304,3,4
+openstack/sahara,openstack/multi-arch-sig,Non core,0.0,0.0,3,4
+openstack/sahara,openstack/charm-nova-compute-proxy,Core,0.7220216606498195,0.267379679144385,4,3
+openstack/sahara,openstack/charm-nova-compute-proxy,Non core,0.7220216606498195,0.53475935828877,4,3
+openstack/sahara,openstack/charm-odl-controller,Core,0.7168458781362007,0.2688172043010753,3,3
+openstack/sahara,openstack/charm-odl-controller,Non core,0.35842293906810035,0.5376344086021506,3,3
+openstack/sahara,openstack/charm-nova-lxd,Core,1.4134275618374559,0.5235602094240838,7,7
+openstack/sahara,openstack/charm-nova-lxd,Non core,1.0600706713780919,1.3089005235602094,7,7
+openstack/sahara,openstack/charm-interface-nova-cell,Core,0.0,0.273224043715847,0,1
+openstack/sahara,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/sahara,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/sahara,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/xstatic-lodash,Core,0.3703703703703704,0.0,1,0
+openstack/sahara,openstack/xstatic-lodash,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/xstatic-moment,Core,0.3703703703703704,0.0,1,0
+openstack/sahara,openstack/xstatic-moment,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/charm-interface-barbican-secrets,Core,0.7326007326007326,0.27100271002710025,3,3
+openstack/sahara,openstack/charm-interface-barbican-secrets,Non core,0.3663003663003663,0.5420054200542005,3,3
+openstack/sahara,openstack/charm-interface-mysql-innodb-cluster,Core,0.3703703703703704,0.0,1,0
+openstack/sahara,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/charm-interface-ceph-rbd-mirror,Core,0.7352941176470588,0.2702702702702703,3,3
+openstack/sahara,openstack/charm-interface-ceph-rbd-mirror,Non core,0.3676470588235294,0.5405405405405406,3,3
+openstack/sahara,openstack/charm-interface-placement,Core,0.7434944237918215,0.0,3,0
+openstack/sahara,openstack/charm-interface-placement,Non core,0.37174721189591076,0.0,3,0
+openstack/sahara,openstack/charm-interface-mysql-shared,Core,1.4598540145985401,0.0,4,1
+openstack/sahara,openstack/charm-interface-mysql-shared,Non core,0.0,0.2688172043010753,4,1
+openstack/sahara,openstack/charm-interface-dashboard-plugin,Core,0.7326007326007326,0.27100271002710025,3,3
+openstack/sahara,openstack/charm-interface-dashboard-plugin,Non core,0.3663003663003663,0.5420054200542005,3,3
+openstack/sahara,openstack/charm-interface-neutron-load-balancer,Core,0.7326007326007326,0.27100271002710025,3,3
+openstack/sahara,openstack/charm-interface-neutron-load-balancer,Non core,0.3663003663003663,0.5420054200542005,3,3
+openstack/sahara,openstack/charm-interface-neutron-plugin-api-subordinate,Core,1.465201465201465,0.5376344086021506,6,2
+openstack/sahara,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,0.7326007326007326,0.0,6,2
+openstack/sahara,openstack/charm-interface-neutron-plugin,Core,1.098901098901099,0.2702702702702703,3,2
+openstack/sahara,openstack/charm-interface-neutron-plugin,Non core,0.0,0.2702702702702703,3,2
+openstack/sahara,openstack/xstatic-json2yaml,Core,0.3703703703703704,0.0,1,0
+openstack/sahara,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/xstatic-jquery.tablesorter,Core,0.36900369003690037,0.0,1,1
+openstack/sahara,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.27100271002710025,1,1
+openstack/sahara,openstack/xstatic-magic-search,Core,1.098901098901099,0.26666666666666666,4,5
+openstack/sahara,openstack/xstatic-magic-search,Non core,0.3663003663003663,1.0666666666666667,4,5
+openstack/sahara,openstack/xstatic-jsencrypt,Core,0.7352941176470588,0.0,3,5
+openstack/sahara,openstack/xstatic-jsencrypt,Non core,0.3676470588235294,1.3333333333333335,3,5
+openstack/sahara,openstack/xstatic-js-yaml,Core,0.36900369003690037,0.0,1,0
+openstack/sahara,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/xstatic-spin,Core,0.36900369003690037,0.0,1,1
+openstack/sahara,openstack/xstatic-spin,Non core,0.0,0.27100271002710025,1,1
+openstack/sahara,openstack/xstatic-rickshaw,Core,0.7326007326007326,0.0,3,4
+openstack/sahara,openstack/xstatic-rickshaw,Non core,0.3663003663003663,1.0723860589812333,3,4
+openstack/sahara,openstack/charm-panko,Core,0.3663003663003663,0.5376344086021506,2,5
+openstack/sahara,openstack/charm-panko,Non core,0.3663003663003663,0.8064516129032258,2,5
+openstack/sahara,openstack/charm-interface-service-control,Core,0.7326007326007326,0.2695417789757413,4,3
+openstack/sahara,openstack/charm-interface-service-control,Non core,0.7326007326007326,0.5390835579514826,4,3
+openstack/sahara,openstack/openstack-ansible-os_almanach,Core,3.1914893617021276,1.5625,13,14
+openstack/sahara,openstack/openstack-ansible-os_almanach,Non core,1.4184397163120568,2.083333333333333,13,14
+openstack/sahara,openstack/openstack-ansible-pip_install,Core,2.980132450331126,2.669902912621359,16,24
+openstack/sahara,openstack/openstack-ansible-pip_install,Non core,2.3178807947019866,3.1553398058252426,16,24
+openstack/sahara,openstack/python-karborclient,Core,2.9702970297029703,1.9801980198019802,19,25
+openstack/sahara,openstack/python-karborclient,Non core,3.3003300330033,4.207920792079208,19,25
+openstack/sahara,openstack/charm-interface-keystone-admin,Core,1.107011070110701,0.0,3,2
+openstack/sahara,openstack/charm-interface-keystone-admin,Non core,0.0,0.5434782608695652,3,2
+openstack/sahara,openstack/charm-interface-nova-compute,Core,1.098901098901099,0.2680965147453083,5,3
+openstack/sahara,openstack/charm-interface-nova-compute,Non core,0.7326007326007326,0.5361930294906166,5,3
+openstack/sahara,openstack/charm-interface-manila-plugin,Core,0.7326007326007326,0.2702702702702703,2,2
+openstack/sahara,openstack/charm-interface-manila-plugin,Non core,0.0,0.2702702702702703,2,2
+openstack/sahara,openstack/murano-apps,Core,3.618421052631579,2.15311004784689,18,18
+openstack/sahara,openstack/murano-apps,Non core,2.302631578947368,2.15311004784689,18,18
+openstack/sahara,openstack/puppet-senlin,Core,1.4545454545454546,1.0666666666666667,10,8
+openstack/sahara,openstack/puppet-senlin,Non core,2.181818181818182,1.0666666666666667,10,8
+openstack/sahara,openstack/cookbook-openstack-application-catalog,Core,0.3663003663003663,0.0,2,2
+openstack/sahara,openstack/cookbook-openstack-application-catalog,Non core,0.3663003663003663,0.5390835579514826,2,2
+openstack/sahara,openstack/training-labs,Core,3.0927835051546393,2.313624678663239,16,21
+openstack/sahara,openstack/training-labs,Non core,2.405498281786942,3.0848329048843186,16,21
+openstack/sahara,openstack/karbor,Core,3.7142857142857144,2.6476578411405294,33,38
+openstack/sahara,openstack/karbor,Non core,5.714285714285714,5.091649694501019,33,38
+openstack/sahara,openstack/devstack-plugin-open-cas,Core,0.36900369003690037,0.8064516129032258,1,3
+openstack/sahara,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,3
+openstack/sahara,openstack/openstack-ansible-os_congress,Core,2.4734982332155475,2.0460358056265986,12,18
+openstack/sahara,openstack/openstack-ansible-os_congress,Non core,1.76678445229682,2.557544757033248,12,18
+openstack/sahara,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/sahara,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/charm-interface-keystone-notifications,Core,0.0,0.273224043715847,0,1
+openstack/sahara,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/sahara,openstack/os-collect-config,Core,3.9473684210526314,2.059496567505721,19,32
+openstack/sahara,openstack/os-collect-config,Non core,2.302631578947368,5.263157894736842,19,32
+openstack/sahara,openstack/os-apply-config,Core,4.983388704318937,2.784222737819025,21,30
+openstack/sahara,openstack/os-apply-config,Non core,1.9933554817275747,4.176334106728538,21,30
+openstack/sahara,openstack/puppet-freezer,Core,2.491103202846975,1.3089005235602094,13,10
+openstack/sahara,openstack/puppet-freezer,Non core,2.135231316725979,1.3089005235602094,13,10
+openstack/sahara,openstack/vitrage-specs,Core,1.342281879194631,0.49627791563275436,9,13
+openstack/sahara,openstack/vitrage-specs,Non core,1.6778523489932886,2.729528535980149,9,13
+openstack/sahara,openstack/specs-cookiecutter,Core,2.2058823529411766,2.4324324324324325,6,10
+openstack/sahara,openstack/specs-cookiecutter,Non core,0.0,0.2702702702702703,6,10
+openstack/sahara,openstack/rpm-packaging-tools,Core,2.952029520295203,1.8617021276595744,10,15
+openstack/sahara,openstack/rpm-packaging-tools,Non core,0.7380073800738007,2.127659574468085,10,15
+openstack/sahara,openstack/ansible-role-openstack-operations,Core,1.8050541516245486,0.5277044854881267,8,4
+openstack/sahara,openstack/ansible-role-openstack-operations,Non core,1.083032490974729,0.5277044854881267,8,4
+openstack/sahara,openstack/os-refresh-config,Core,5.594405594405594,2.1844660194174756,22,28
+openstack/sahara,openstack/os-refresh-config,Non core,2.097902097902098,4.611650485436893,22,28
+openstack/sahara,openstack/mistral-specs,Core,2.807017543859649,0.5050505050505051,13,8
+openstack/sahara,openstack/mistral-specs,Non core,1.7543859649122806,1.5151515151515151,13,8
+openstack/sahara,openstack/scientific-wg,Core,0.7380073800738007,0.5434782608695652,2,3
+openstack/sahara,openstack/scientific-wg,Non core,0.0,0.2717391304347826,2,3
+openstack/sahara,openstack/charm-interface-keystone-fid-service-provider,Core,0.3676470588235294,0.2702702702702703,1,1
+openstack/sahara,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,1,1
+openstack/sahara,openstack/manila-test-image,Core,0.7380073800738007,1.06951871657754,2,7
+openstack/sahara,openstack/manila-test-image,Non core,0.0,0.8021390374331552,2,7
+openstack/sahara,openstack/governance-website,Core,1.4545454545454546,2.680965147453083,4,13
+openstack/sahara,openstack/governance-website,Non core,0.0,0.8042895442359249,4,13
+openstack/sahara,openstack/bugdaystats,Core,0.7352941176470588,1.0723860589812333,2,8
+openstack/sahara,openstack/bugdaystats,Non core,0.0,1.0723860589812333,2,8
+openstack/sahara,openstack/upstream-institute-virtual-environment,Core,0.36363636363636365,1.06951871657754,1,4
+openstack/sahara,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,1,4
+openstack/sahara,openstack/karbor-dashboard,Core,1.3651877133105803,1.9851116625310175,14,21
+openstack/sahara,openstack/karbor-dashboard,Non core,3.4129692832764507,3.225806451612903,14,21
+openstack/sahara,openstack/django_openstack_auth,Core,3.669724770642202,2.4193548387096775,20,34
+openstack/sahara,openstack/django_openstack_auth,Non core,2.4464831804281344,4.435483870967742,20,34
+openstack/sahara,openstack/monasca-transform,Core,3.793103448275862,1.7587939698492463,20,19
+openstack/sahara,openstack/monasca-transform,Non core,3.103448275862069,3.015075376884422,20,19
+openstack/sahara,openstack/monasca-ceilometer,Core,4.406779661016949,1.4251781472684086,24,18
+openstack/sahara,openstack/monasca-ceilometer,Non core,3.728813559322034,2.8503562945368173,24,18
+openstack/sahara,openstack/monasca-log-api,Core,5.3156146179401995,2.314814814814815,24,27
+openstack/sahara,openstack/monasca-log-api,Non core,2.6578073089700998,3.935185185185185,24,27
+openstack/sahara,openstack/nose-html-output,Core,1.8315018315018317,1.6216216216216217,5,10
+openstack/sahara,openstack/nose-html-output,Non core,0.0,1.0810810810810811,5,10
+openstack/sahara,openstack/kolla-cli,Core,1.4084507042253522,1.8181818181818181,7,18
+openstack/sahara,openstack/kolla-cli,Non core,1.056338028169014,2.857142857142857,7,18
+openstack/sahara,openstack/neutron-lbaas-dashboard,Core,2.3333333333333335,1.6241299303944314,17,23
+openstack/sahara,openstack/neutron-lbaas-dashboard,Non core,3.3333333333333335,3.7122969837587005,17,23
+openstack/sahara,openstack/searchlight,Core,4.651162790697675,4.444444444444445,43,51
+openstack/sahara,openstack/searchlight,Non core,7.848837209302325,6.888888888888889,43,51
+openstack/sahara,openstack/searchlight-ui,Core,3.389830508474576,1.240694789081886,20,14
+openstack/sahara,openstack/searchlight-ui,Non core,3.389830508474576,2.2332506203473943,20,14
+openstack/sahara,openstack/searchlight-specs,Core,1.773049645390071,0.25316455696202533,11,6
+openstack/sahara,openstack/searchlight-specs,Non core,2.127659574468085,1.2658227848101267,11,6
+openstack/sahara,openstack/python-searchlightclient,Core,2.711864406779661,1.2468827930174564,19,19
+openstack/sahara,openstack/python-searchlightclient,Non core,3.728813559322034,3.4912718204488775,19,19
+openstack/sahara,openstack/charm-tempest,Core,1.0452961672473868,0.5208333333333333,4,6
+openstack/sahara,openstack/charm-tempest,Non core,0.34843205574912894,1.0416666666666665,4,6
+openstack/sahara,openstack/charm-barbican-softhsm,Core,1.4134275618374559,0.5277044854881267,5,6
+openstack/sahara,openstack/charm-barbican-softhsm,Non core,0.35335689045936397,1.0554089709762533,5,6
+openstack/sahara,openstack/cookbook-openstack-client,Core,0.7272727272727273,0.2652519893899204,2,3
+openstack/sahara,openstack/cookbook-openstack-client,Non core,0.0,0.5305039787798408,2,3
+openstack/sahara,openstack/instack-undercloud,Core,3.39943342776204,4.238921001926782,18,51
+openstack/sahara,openstack/instack-undercloud,Non core,1.69971671388102,5.5876685934489405,18,51
+openstack/sahara,openstack/publiccloud-sig,Core,0.7299270072992701,0.5376344086021506,2,3
+openstack/sahara,openstack/publiccloud-sig,Non core,0.0,0.2688172043010753,2,3
+openstack/sahara,openstack/ideas,Core,0.7352941176470588,2.864583333333333,2,11
+openstack/sahara,openstack/ideas,Non core,0.0,0.0,2,11
+openstack/sahara,openstack/uc-recognition,Core,0.36900369003690037,0.5376344086021506,1,3
+openstack/sahara,openstack/uc-recognition,Non core,0.0,0.2688172043010753,1,3
+openstack/sahara,openstack/ops-tags-team,Core,0.7220216606498195,1.8134715025906734,2,12
+openstack/sahara,openstack/ops-tags-team,Non core,0.0,1.2953367875647668,2,12
+openstack/sahara,openstack/enterprise-wg,Core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/enterprise-wg,Non core,0.0,0.0,1,1
+openstack/sahara,openstack/governance-uc,Core,2.4734982332155475,2.2332506203473943,8,17
+openstack/sahara,openstack/governance-uc,Non core,0.35335689045936397,1.9851116625310175,8,17
+openstack/sahara,openstack/workload-ref-archs,Core,1.0869565217391304,1.6216216216216217,6,11
+openstack/sahara,openstack/workload-ref-archs,Non core,1.0869565217391304,1.3513513513513513,6,11
+openstack/sahara,openstack/arch-wg,Core,1.1111111111111112,1.6042780748663104,3,8
+openstack/sahara,openstack/arch-wg,Non core,0.0,0.53475935828877,3,8
+openstack/sahara,openstack/project-navigator-data,Core,2.857142857142857,3.1746031746031744,8,13
+openstack/sahara,openstack/project-navigator-data,Non core,0.0,0.26455026455026454,8,13
+openstack/sahara,openstack/openstack-specs,Core,2.867383512544803,6.2,10,47
+openstack/sahara,openstack/openstack-specs,Non core,0.7168458781362007,3.2,10,47
+openstack/sahara,openstack/openstack-ansible-os_monasca,Core,3.7800687285223367,2.770780856423174,15,22
+openstack/sahara,openstack/openstack-ansible-os_monasca,Non core,1.3745704467353952,2.770780856423174,15,22
+openstack/sahara,openstack/openstack-ansible-os_monasca-agent,Core,2.8469750889679712,2.33160621761658,13,15
+openstack/sahara,openstack/openstack-ansible-os_monasca-agent,Non core,1.7793594306049825,1.5544041450777202,13,15
+openstack/sahara,openstack/ironic-inspector-specs,Core,1.0452961672473868,0.7389162561576355,7,6
+openstack/sahara,openstack/ironic-inspector-specs,Non core,1.3937282229965158,0.7389162561576355,7,6
+openstack/sahara,openstack/sushy-cli,Core,1.090909090909091,0.53475935828877,3,2
+openstack/sahara,openstack/sushy-cli,Non core,0.0,0.0,3,2
+openstack/sahara,openstack/puppet-glare,Core,3.169014084507042,1.837270341207349,15,14
+openstack/sahara,openstack/puppet-glare,Non core,2.112676056338028,1.837270341207349,15,14
+openstack/sahara,openstack/xstatic-bootstrap-scss,Core,0.7326007326007326,0.0,3,4
+openstack/sahara,openstack/xstatic-bootstrap-scss,Non core,0.3663003663003663,1.0638297872340425,3,4
+openstack/sahara,openstack/openstack-planet,Core,4.782608695652174,3.325942350332594,32,22
+openstack/sahara,openstack/openstack-planet,Non core,2.1739130434782608,1.5521064301552108,32,22
+openstack/sahara,openstack/charm-interface-keystone-credentials,Core,1.090909090909091,0.2695417789757413,4,3
+openstack/sahara,openstack/charm-interface-keystone-credentials,Non core,0.36363636363636365,0.5390835579514826,4,3
+openstack/sahara,openstack/monasca-kibana-plugin,Core,1.4492753623188406,0.5235602094240838,4,3
+openstack/sahara,openstack/monasca-kibana-plugin,Non core,0.0,0.2617801047120419,4,3
+openstack/sahara,openstack/charm-interface-keystone-domain-backend,Core,1.098901098901099,0.27100271002710025,3,1
+openstack/sahara,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,1
+openstack/sahara,openstack/devstack-plugin-amqp1,Core,2.5547445255474455,2.13903743315508,7,12
+openstack/sahara,openstack/devstack-plugin-amqp1,Non core,0.0,1.06951871657754,7,12
+openstack/sahara,openstack/devstack-plugin-kafka,Core,1.094890510948905,1.6172506738544474,3,11
+openstack/sahara,openstack/devstack-plugin-kafka,Non core,0.0,1.3477088948787064,3,11
+openstack/sahara,openstack/tripleo-ipsec,Core,2.18978102189781,1.5873015873015872,7,7
+openstack/sahara,openstack/tripleo-ipsec,Non core,0.36496350364963503,0.26455026455026454,7,7
+openstack/sahara,openstack/monasca-grafana-datasource,Core,0.3597122302158274,0.0,2,2
+openstack/sahara,openstack/monasca-grafana-datasource,Non core,0.3597122302158274,0.516795865633075,2,2
+openstack/sahara,openstack/charm-interface-bind-rndc,Core,1.094890510948905,0.2702702702702703,4,3
+openstack/sahara,openstack/charm-interface-bind-rndc,Non core,0.36496350364963503,0.5405405405405406,4,3
+openstack/sahara,openstack/charm-interface-rabbitmq,Core,1.094890510948905,0.2695417789757413,3,3
+openstack/sahara,openstack/charm-interface-rabbitmq,Non core,0.0,0.5390835579514826,3,3
+openstack/sahara,openstack/charm-interface-openstack-ha,Core,0.7299270072992701,0.5390835579514826,2,3
+openstack/sahara,openstack/charm-interface-openstack-ha,Non core,0.0,0.2695417789757413,2,3
+openstack/sahara,openstack/charm-interface-gnocchi,Core,1.1029411764705883,0.5305039787798408,3,3
+openstack/sahara,openstack/charm-interface-gnocchi,Non core,0.0,0.2652519893899204,3,3
+openstack/sahara,openstack/charm-interface-bgp,Core,1.098901098901099,0.2695417789757413,4,2
+openstack/sahara,openstack/charm-interface-bgp,Non core,0.3663003663003663,0.2695417789757413,4,2
+openstack/sahara,openstack/charm-interface-websso-fid-service-provider,Core,0.36900369003690037,0.2717391304347826,1,1
+openstack/sahara,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,1,1
+openstack/sahara,openstack/charm-interface-designate,Core,0.3676470588235294,0.27100271002710025,1,1
+openstack/sahara,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/sahara,openstack/tempest-horizon,Core,1.7793594306049825,0.5249343832020997,9,6
+openstack/sahara,openstack/tempest-horizon,Non core,1.4234875444839856,1.0498687664041995,9,6
+openstack/sahara,openstack/logstash-filters,Core,0.0,0.544959128065395,0,3
+openstack/sahara,openstack/logstash-filters,Non core,0.0,0.2724795640326975,0,3
+openstack/sahara,openstack/xstatic-jquery-migrate,Core,0.3676470588235294,0.0,1,1
+openstack/sahara,openstack/xstatic-jquery-migrate,Non core,0.0,0.2702702702702703,1,1
+openstack/sahara,openstack/qinling-dashboard,Core,1.098901098901099,1.0723860589812333,4,8
+openstack/sahara,openstack/qinling-dashboard,Non core,0.3663003663003663,1.0723860589812333,4,8
+openstack/sahara,openstack/python-qinlingclient,Core,1.7543859649122806,1.3333333333333335,15,16
+openstack/sahara,openstack/python-qinlingclient,Non core,3.508771929824561,2.933333333333333,15,16
+openstack/sahara,openstack/qinling,Core,3.389830508474576,1.2886597938144329,19,14
+openstack/sahara,openstack/qinling,Non core,3.050847457627119,2.3195876288659796,19,14
+openstack/sahara,openstack/monasca-analytics,Core,2.4822695035460995,1.5228426395939088,13,13
+openstack/sahara,openstack/monasca-analytics,Non core,2.127659574468085,1.7766497461928936,13,13
+openstack/sahara,openstack/oslo-incubator,Core,5.4989816700611,4.65444287729196,50,85
+openstack/sahara,openstack/oslo-incubator,Non core,4.684317718940937,7.334273624823695,50,85
+openstack/sahara,openstack/puppet-congress,Core,3.180212014134275,1.3192612137203166,16,10
+openstack/sahara,openstack/puppet-congress,Non core,2.4734982332155475,1.3192612137203166,16,10
+openstack/sahara,openstack/openstack-ansible-os_monasca-ui,Core,1.4598540145985401,1.3297872340425532,8,8
+openstack/sahara,openstack/openstack-ansible-os_monasca-ui,Non core,1.4598540145985401,0.7978723404255319,8,8
+openstack/sahara,openstack/auto-scaling-sig,Core,0.7326007326007326,0.7936507936507936,2,3
+openstack/sahara,openstack/auto-scaling-sig,Non core,0.0,0.0,2,3
+openstack/sahara,openstack/os-loganalyze,Core,2.430555555555556,2.5,10,16
+openstack/sahara,openstack/os-loganalyze,Non core,1.0416666666666665,1.5,10,16
+openstack/sahara,openstack/devstack-plugin-pika,Core,0.7352941176470588,1.3513513513513513,2,6
+openstack/sahara,openstack/devstack-plugin-pika,Non core,0.0,0.2702702702702703,2,6
+openstack/sahara,openstack/devstack-plugin-zmq,Core,2.2058823529411766,1.6172506738544474,7,8
+openstack/sahara,openstack/devstack-plugin-zmq,Non core,0.3676470588235294,0.5390835579514826,7,8
+openstack/sahara,openstack/networking-l2gw,Core,3.4700315457413247,2.4691358024691357,20,30
+openstack/sahara,openstack/networking-l2gw,Non core,2.8391167192429023,3.7037037037037033,20,30
+openstack/sahara,openstack/networking-l2gw-tempest-plugin,Core,1.8181818181818181,1.58311345646438,6,9
+openstack/sahara,openstack/networking-l2gw-tempest-plugin,Non core,0.36363636363636365,0.79155672823219,6,9
+openstack/sahara,openstack/charm-interface-ceph-mds,Core,1.094890510948905,0.0,3,1
+openstack/sahara,openstack/charm-interface-ceph-mds,Non core,0.0,0.2702702702702703,3,1
+openstack/sahara,openstack/xstatic-angular-ui-router,Core,0.7407407407407408,0.2702702702702703,2,2
+openstack/sahara,openstack/xstatic-angular-ui-router,Non core,0.0,0.2702702702702703,2,2
+openstack/sahara,openstack/xstatic-vis,Core,0.7380073800738007,0.27100271002710025,2,1
+openstack/sahara,openstack/xstatic-vis,Non core,0.0,0.0,2,1
+openstack/sahara,openstack/cookbook-openstack-database,Core,1.090909090909091,1.0471204188481675,3,6
+openstack/sahara,openstack/cookbook-openstack-database,Non core,0.0,0.5235602094240838,3,6
+openstack/sahara,openstack/cookbook-openstack-data-processing,Core,1.1029411764705883,1.3368983957219251,3,8
+openstack/sahara,openstack/cookbook-openstack-data-processing,Non core,0.0,0.8021390374331552,3,8
+openstack/sahara,openstack/trove-integration,Core,2.147239263803681,1.7897091722595078,9,19
+openstack/sahara,openstack/trove-integration,Non core,0.6134969325153374,2.460850111856823,9,19
+openstack/sahara,openstack/ansible-role-tripleo-sensu,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-sensu,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/python-ceilometerclient,Core,4.53257790368272,4.627766599597585,31,52
+openstack/sahara,openstack/python-ceilometerclient,Non core,4.2492917847025495,5.8350100603621735,31,52
+openstack/sahara,openstack/keystoneauth-saml2,Core,1.444043321299639,1.8229166666666667,5,14
+openstack/sahara,openstack/keystoneauth-saml2,Non core,0.36101083032490977,1.8229166666666667,5,14
+openstack/sahara,openstack/murano-deployment,Core,2.422145328719723,1.5463917525773196,16,13
+openstack/sahara,openstack/murano-deployment,Non core,3.1141868512110724,1.804123711340206,16,13
+openstack/sahara,openstack/python-keystoneclient-kerberos,Core,1.444043321299639,1.5665796344647518,5,13
+openstack/sahara,openstack/python-keystoneclient-kerberos,Non core,0.36101083032490977,1.8276762402088773,5,13
+openstack/sahara,openstack/python-wsmanclient,Core,0.3676470588235294,0.27100271002710025,1,4
+openstack/sahara,openstack/python-wsmanclient,Non core,0.0,0.8130081300813009,1,4
+openstack/sahara,openstack/fuel-upgrade,Core,1.090909090909091,0.5181347150259068,4,5
+openstack/sahara,openstack/fuel-upgrade,Non core,0.36363636363636365,0.7772020725388601,4,5
+openstack/sahara,openstack/cookbook-openstack-object-storage,Core,1.0204081632653061,0.997506234413965,3,6
+openstack/sahara,openstack/cookbook-openstack-object-storage,Non core,0.0,0.4987531172069825,3,6
+openstack/sahara,openstack/fairy-slipper,Core,0.7299270072992701,1.3368983957219251,3,7
+openstack/sahara,openstack/fairy-slipper,Non core,0.36496350364963503,0.53475935828877,3,7
+openstack/sahara,openstack/django-openstack-auth-kerberos,Core,0.7352941176470588,0.26595744680851063,3,5
+openstack/sahara,openstack/django-openstack-auth-kerberos,Non core,0.3676470588235294,1.0638297872340425,3,5
+openstack/sahara,openstack/horizon-cisco-ui,Core,1.4598540145985401,0.5376344086021506,8,6
+openstack/sahara,openstack/horizon-cisco-ui,Non core,1.4598540145985401,1.0752688172043012,8,6
+openstack/sahara,openstack/zuul-packaging,Core,0.7407407407407408,1.084010840108401,2,6
+openstack/sahara,openstack/zuul-packaging,Non core,0.0,0.5420054200542005,2,6
+openstack/sahara,openstack/networking-generic-switch-tempest-plugin,Core,0.3703703703703704,0.273972602739726,1,1
+openstack/sahara,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/sahara,openstack/tripleo-incubator,Core,2.849002849002849,2.1825396825396823,15,23
+openstack/sahara,openstack/tripleo-incubator,Non core,1.4245014245014245,2.380952380952381,15,23
+openstack/sahara,openstack/ironic-webclient,Core,0.7299270072992701,0.7772020725388601,2,9
+openstack/sahara,openstack/ironic-webclient,Non core,0.0,1.5544041450777202,2,9
+openstack/sahara,openstack/puppet-crane,Core,0.3703703703703704,0.547945205479452,1,3
+openstack/sahara,openstack/puppet-crane,Non core,0.0,0.273972602739726,1,3
+openstack/sahara,openstack/release-tools,Core,4.545454545454546,3.7128712871287126,17,33
+openstack/sahara,openstack/release-tools,Non core,1.3986013986013985,4.455445544554455,17,33
+openstack/sahara,openstack/gnocchi,Core,2.786377708978328,3.0837004405286343,15,40
+openstack/sahara,openstack/gnocchi,Non core,1.8575851393188854,5.726872246696035,15,40
+openstack/sahara,openstack/networking-ofagent,Core,1.0869565217391304,1.3192612137203166,4,11
+openstack/sahara,openstack/networking-ofagent,Non core,0.36231884057971014,1.58311345646438,4,11
+openstack/sahara,openstack/python-neutron-pd-driver,Core,0.36900369003690037,0.546448087431694,1,3
+openstack/sahara,openstack/python-neutron-pd-driver,Non core,0.0,0.273224043715847,1,3
+openstack/sahara,openstack/charm-ceph,Core,0.3508771929824561,0.2638522427440633,4,5
+openstack/sahara,openstack/charm-ceph,Non core,1.0526315789473684,1.0554089709762533,4,5
+openstack/sahara,openstack/openstack-ansible-os_freezer,Core,0.3703703703703704,0.547945205479452,1,2
+openstack/sahara,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,2
+openstack/sahara,openstack/openstack-ansible-pip_lock_down,Core,1.7985611510791366,0.8,5,5
+openstack/sahara,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.5333333333333333,5,5
+openstack/sahara,openstack/openstack-ansible-security,Core,3.0303030303030303,2.403846153846154,11,18
+openstack/sahara,openstack/openstack-ansible-security,Non core,0.6734006734006733,1.9230769230769231,11,18
+openstack/sahara,openstack/oslosphinx,Core,5.084745762711865,5.472636815920398,21,32
+openstack/sahara,openstack/oslosphinx,Non core,2.0338983050847457,2.4875621890547266,21,32
+openstack/sahara,openstack/python-gnocchiclient,Core,1.36986301369863,0.7731958762886598,8,9
+openstack/sahara,openstack/python-gnocchiclient,Non core,1.36986301369863,1.5463917525773196,8,9
+openstack/sahara,openstack/ansible-role-k8s-cinder,Core,0.36900369003690037,0.2724795640326975,1,1
+openstack/sahara,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/sahara,openstack/ansible-role-k8s-cookiecutter,Core,0.7407407407407408,0.819672131147541,2,3
+openstack/sahara,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,3
+openstack/sahara,openstack/ansible-role-k8s-glance,Core,1.1111111111111112,0.544959128065395,3,2
+openstack/sahara,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,3,2
+openstack/sahara,openstack/ansible-role-k8s-keystone,Core,1.1111111111111112,0.2702702702702703,3,1
+openstack/sahara,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,3,1
+openstack/sahara,openstack/ansible-role-k8s-mariadb,Core,1.4814814814814816,0.5420054200542005,4,2
+openstack/sahara,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,4,2
+openstack/sahara,openstack/ansible-role-k8s-rabbitmq,Core,0.3703703703703704,0.273972602739726,1,1
+openstack/sahara,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/sahara,openstack/ansible-role-k8s-tripleo,Core,1.1111111111111112,0.5434782608695652,3,2
+openstack/sahara,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,3,2
+openstack/sahara,openstack/ansible-role-tripleo-ui,Core,0.7326007326007326,0.5420054200542005,3,3
+openstack/sahara,openstack/ansible-role-tripleo-ui,Non core,0.3663003663003663,0.27100271002710025,3,3
+openstack/sahara,openstack/ansible-role-tripleo-aodh,Core,0.7326007326007326,0.5420054200542005,3,3
+openstack/sahara,openstack/ansible-role-tripleo-aodh,Non core,0.3663003663003663,0.27100271002710025,3,3
+openstack/sahara,openstack/ansible-role-tripleo-barbican,Core,0.7326007326007326,0.5434782608695652,3,2
+openstack/sahara,openstack/ansible-role-tripleo-barbican,Non core,0.3663003663003663,0.0,3,2
+openstack/sahara,openstack/ansible-role-tripleo-ceilometer,Core,0.7326007326007326,0.5434782608695652,3,3
+openstack/sahara,openstack/ansible-role-tripleo-ceilometer,Non core,0.3663003663003663,0.2717391304347826,3,3
+openstack/sahara,openstack/ansible-role-tripleo-cinder,Core,0.7326007326007326,0.27100271002710025,3,1
+openstack/sahara,openstack/ansible-role-tripleo-cinder,Non core,0.3663003663003663,0.0,3,1
+openstack/sahara,openstack/ansible-role-tripleo-cookiecutter,Core,1.824817518248175,0.5361930294906166,6,6
+openstack/sahara,openstack/ansible-role-tripleo-cookiecutter,Non core,0.36496350364963503,1.0723860589812333,6,6
+openstack/sahara,openstack/tripleo-ui,Core,2.3890784982935154,2.1739130434782608,11,20
+openstack/sahara,openstack/tripleo-ui,Non core,1.3651877133105803,2.657004830917874,11,20
+openstack/sahara,openstack/ansible-role-tripleo-ovn,Core,0.7326007326007326,0.27100271002710025,3,1
+openstack/sahara,openstack/ansible-role-tripleo-ovn,Non core,0.3663003663003663,0.0,3,1
+openstack/sahara,openstack/ansible-role-tripleo-opendaylight,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-opendaylight,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-octavia,Core,1.098901098901099,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-nova,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-nova,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/os-cloud-config,Core,2.903225806451613,1.8518518518518516,11,26
+openstack/sahara,openstack/os-cloud-config,Non core,0.6451612903225806,4.166666666666666,11,26
+openstack/sahara,openstack/ansible-role-tripleo-zaqar,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-zaqar,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-tempest,Core,0.7326007326007326,0.2717391304347826,3,2
+openstack/sahara,openstack/ansible-role-tripleo-tempest,Non core,0.3663003663003663,0.2717391304347826,3,2
+openstack/sahara,openstack/ansible-role-tripleo-sahara,Core,0.7326007326007326,0.27100271002710025,3,1
+openstack/sahara,openstack/ansible-role-tripleo-sahara,Non core,0.3663003663003663,0.0,3,1
+openstack/sahara,openstack/ansible-role-tripleo-swift,Core,0.7326007326007326,0.27100271002710025,3,1
+openstack/sahara,openstack/ansible-role-tripleo-swift,Non core,0.3663003663003663,0.0,3,1
+openstack/sahara,openstack/ansible-role-tripleo-tacker,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-tacker,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,0.7326007326007326,0.27100271002710025,3,1
+openstack/sahara,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.3663003663003663,0.0,3,1
+openstack/sahara,openstack/ansible-role-tripleo-rabbitmq,Core,0.7326007326007326,0.27100271002710025,3,1
+openstack/sahara,openstack/ansible-role-tripleo-rabbitmq,Non core,0.3663003663003663,0.0,3,1
+openstack/sahara,openstack/ansible-role-tripleo-qdrouterd,Core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/sahara,openstack/ansible-role-tripleo-panko,Core,0.7326007326007326,0.27100271002710025,3,1
+openstack/sahara,openstack/ansible-role-tripleo-panko,Non core,0.3663003663003663,0.0,3,1
+openstack/sahara,openstack/ansible-role-tripleo-heat,Core,0.7326007326007326,0.27100271002710025,3,1
+openstack/sahara,openstack/ansible-role-tripleo-heat,Non core,0.3663003663003663,0.0,3,1
+openstack/sahara,openstack/ansible-role-tripleo-haproxy,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-haproxy,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-gnocchi,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-gnocchi,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-glance,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-glance,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-designate,Core,0.7326007326007326,0.2702702702702703,3,1
+openstack/sahara,openstack/ansible-role-tripleo-designate,Non core,0.3663003663003663,0.0,3,1
+openstack/sahara,openstack/ansible-role-tripleo-neutron,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-neutron,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-mistral,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-mistral,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-memcached,Core,0.7326007326007326,0.27100271002710025,3,3
+openstack/sahara,openstack/ansible-role-tripleo-memcached,Non core,0.3663003663003663,0.5420054200542005,3,3
+openstack/sahara,openstack/ansible-role-tripleo-manila,Core,0.7326007326007326,0.2702702702702703,3,2
+openstack/sahara,openstack/ansible-role-tripleo-manila,Non core,0.3663003663003663,0.2702702702702703,3,2
+openstack/sahara,openstack/ansible-role-tripleo-ironic,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-ironic,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-keepalived,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-keepalived,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-horizon,Core,0.7326007326007326,0.27100271002710025,3,2
+openstack/sahara,openstack/ansible-role-tripleo-horizon,Non core,0.3663003663003663,0.27100271002710025,3,2
+openstack/sahara,openstack/pylockfile,Core,1.8315018315018317,1.8716577540106951,5,10
+openstack/sahara,openstack/pylockfile,Non core,0.0,0.8021390374331552,5,10
+openstack/sahara,openstack/xstatic-moment-timezone,Core,0.7407407407407408,0.2724795640326975,2,1
+openstack/sahara,openstack/xstatic-moment-timezone,Non core,0.0,0.0,2,1
+openstack/sahara,openstack/xstatic-dagre-d3,Core,0.7407407407407408,0.2724795640326975,2,1
+openstack/sahara,openstack/xstatic-dagre-d3,Non core,0.0,0.0,2,1
+openstack/sahara,openstack/xstatic-dagre,Core,0.3703703703703704,0.0,1,0
+openstack/sahara,openstack/xstatic-dagre,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/dragonflow,Core,3.910614525139665,3.3333333333333335,36,46
+openstack/sahara,openstack/dragonflow,Non core,6.145251396648044,5.686274509803922,36,46
+openstack/sahara,openstack/openstack,Core,1.486988847583643,2.997275204359673,5,15
+openstack/sahara,openstack/openstack,Non core,0.37174721189591076,1.08991825613079,5,15
+openstack/sahara,openstack/charm-interface-pacemaker-remote,Core,0.7380073800738007,0.27100271002710025,3,4
+openstack/sahara,openstack/charm-interface-pacemaker-remote,Non core,0.36900369003690037,0.8130081300813009,3,4
+openstack/sahara,openstack/networking-onos,Core,0.7042253521126761,0.7462686567164178,2,12
+openstack/sahara,openstack/networking-onos,Non core,0.0,2.2388059701492535,2,12
+openstack/sahara,openstack/solum-infra-guestagent,Core,1.4760147601476015,1.0723860589812333,5,5
+openstack/sahara,openstack/solum-infra-guestagent,Non core,0.36900369003690037,0.2680965147453083,5,5
+openstack/sahara,openstack/openstack-ux,Core,0.3676470588235294,0.5263157894736842,1,3
+openstack/sahara,openstack/openstack-ux,Non core,0.0,0.2631578947368421,1,3
+openstack/sahara,openstack/mox3,Core,3.571428571428571,2.864583333333333,16,18
+openstack/sahara,openstack/mox3,Non core,2.142857142857143,1.8229166666666667,16,18
+openstack/sahara,openstack/charm-layer-ceph,Core,0.36900369003690037,0.0,1,0
+openstack/sahara,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/charm-layer-ceph-base,Core,0.7352941176470588,0.0,2,1
+openstack/sahara,openstack/charm-layer-ceph-base,Non core,0.0,0.27100271002710025,2,1
+openstack/sahara,openstack/python-tricircleclient,Core,1.7921146953405016,1.5706806282722512,9,12
+openstack/sahara,openstack/python-tricircleclient,Non core,1.4336917562724014,1.5706806282722512,9,12
+openstack/sahara,openstack/tricircle,Core,3.6809815950920246,4.319654427645788,24,40
+openstack/sahara,openstack/tricircle,Non core,3.6809815950920246,4.319654427645788,24,40
+openstack/sahara,openstack/swift-specs,Core,1.7361111111111112,1.9277108433734942,5,14
+openstack/sahara,openstack/swift-specs,Non core,0.0,1.4457831325301205,5,14
+openstack/sahara,openstack/congress,Core,6.486486486486487,4.330708661417323,52,67
+openstack/sahara,openstack/congress,Non core,7.567567567567568,8.858267716535433,52,67
+openstack/sahara,openstack/congress-tempest-plugin,Core,2.158273381294964,1.3192612137203166,11,11
+openstack/sahara,openstack/congress-tempest-plugin,Non core,1.7985611510791366,1.58311345646438,11,11
+openstack/sahara,openstack/python-congressclient,Core,2.9605263157894735,1.7587939698492463,17,19
+openstack/sahara,openstack/python-congressclient,Non core,2.631578947368421,3.015075376884422,17,19
+openstack/sahara,openstack/congress-specs,Core,2.7210884353741496,0.49382716049382713,10,7
+openstack/sahara,openstack/congress-specs,Non core,0.6802721088435374,1.2345679012345678,10,7
+openstack/sahara,openstack/congress-dashboard,Core,2.127659574468085,1.8181818181818181,12,14
+openstack/sahara,openstack/congress-dashboard,Non core,2.127659574468085,1.8181818181818181,12,14
+openstack/sahara,openstack/syntribos,Core,2.456140350877193,1.0230179028132993,15,9
+openstack/sahara,openstack/syntribos,Non core,2.807017543859649,1.278772378516624,15,9
+openstack/sahara,openstack/syntribos-payloads,Core,0.3703703703703704,0.0,1,1
+openstack/sahara,openstack/syntribos-payloads,Non core,0.0,0.2702702702702703,1,1
+openstack/sahara,openstack/syntribos-openstack-templates,Core,0.3676470588235294,0.0,1,1
+openstack/sahara,openstack/syntribos-openstack-templates,Non core,0.0,0.2688172043010753,1,1
+openstack/sahara,openstack/i18n-specs,Core,0.7407407407407408,0.27100271002710025,2,3
+openstack/sahara,openstack/i18n-specs,Non core,0.0,0.5420054200542005,2,3
+openstack/sahara,openstack/tempest-plugin-cookiecutter,Core,0.7352941176470588,1.3513513513513513,2,7
+openstack/sahara,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.5405405405405406,2,7
+openstack/sahara,openstack/devstack-plugin-cookiecutter,Core,1.1111111111111112,0.544959128065395,3,3
+openstack/sahara,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.2724795640326975,3,3
+openstack/sahara,openstack/xstatic-graphlib,Core,0.0,0.2724795640326975,0,1
+openstack/sahara,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/sahara,openstack/openstack-ansible-repo_build,Core,3.559870550161812,2.6004728132387704,19,25
+openstack/sahara,openstack/openstack-ansible-repo_build,Non core,2.5889967637540456,3.309692671394799,19,25
+openstack/sahara,openstack/xstatic-bootstrap-datepicker,Core,0.7299270072992701,0.0,3,6
+openstack/sahara,openstack/xstatic-bootstrap-datepicker,Non core,0.36496350364963503,1.6,3,6
+openstack/sahara,openstack/xstatic-hogan,Core,0.36900369003690037,0.0,1,1
+openstack/sahara,openstack/xstatic-hogan,Non core,0.0,0.27100271002710025,1,1
+openstack/sahara,openstack/xstatic-jquery.quicksearch,Core,0.36900369003690037,0.0,1,1
+openstack/sahara,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.27100271002710025,1,1
+openstack/sahara,openstack/openstack-ansible-os_molteniron,Core,2.491103202846975,1.8469656992084433,12,16
+openstack/sahara,openstack/openstack-ansible-os_molteniron,Non core,1.7793594306049825,2.3746701846965697,12,16
+openstack/sahara,openstack/xstatic-angular-lrdragndrop,Core,1.107011070110701,0.5390835579514826,5,7
+openstack/sahara,openstack/xstatic-angular-lrdragndrop,Non core,0.7380073800738007,1.3477088948787064,5,7
+openstack/sahara,openstack/faafo,Core,2.18978102189781,0.8042895442359249,6,9
+openstack/sahara,openstack/faafo,Non core,0.0,1.6085790884718498,6,9
+openstack/sahara,openstack/xstatic-angular-bootstrap,Core,0.7246376811594203,0.26455026455026454,3,5
+openstack/sahara,openstack/xstatic-angular-bootstrap,Non core,0.36231884057971014,1.0582010582010581,3,5
+openstack/sahara,openstack/networking-calico,Core,2.3890784982935154,1.4705882352941175,10,14
+openstack/sahara,openstack/networking-calico,Non core,1.023890784982935,1.9607843137254901,10,14
+openstack/sahara,openstack/xstatic-angular-gettext,Core,0.7326007326007326,0.0,3,4
+openstack/sahara,openstack/xstatic-angular-gettext,Non core,0.3663003663003663,1.06951871657754,3,4
+openstack/sahara,openstack/shotgun,Core,0.34843205574912894,0.23094688221709006,2,5
+openstack/sahara,openstack/shotgun,Non core,0.34843205574912894,0.9237875288683602,2,5
+openstack/sahara,openstack/deb-python-aioeventlet,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-aioeventlet,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/fuel-devops,Core,1.5432098765432098,1.0395010395010396,7,24
+openstack/sahara,openstack/fuel-devops,Non core,0.6172839506172839,3.9501039501039505,7,24
+openstack/sahara,openstack/fuel-plugin-murano,Core,1.8115942028985508,1.0362694300518136,6,8
+openstack/sahara,openstack/fuel-plugin-murano,Non core,0.36231884057971014,1.0362694300518136,6,8
+openstack/sahara,openstack/fuel-web,Core,2.6200873362445414,2.3054755043227666,22,60
+openstack/sahara,openstack/fuel-web,Non core,2.1834061135371177,6.340057636887608,22,60
+openstack/sahara,openstack/fuel-plugins,Core,1.6233766233766231,0.6593406593406593,7,10
+openstack/sahara,openstack/fuel-plugins,Non core,0.6493506493506493,1.5384615384615385,7,10
+openstack/sahara,openstack/fuel-virtualbox,Core,1.0869565217391304,0.26041666666666663,3,2
+openstack/sahara,openstack/fuel-virtualbox,Non core,0.0,0.26041666666666663,3,2
+openstack/sahara,openstack/fuel-ostf,Core,2.857142857142857,1.486988847583643,17,38
+openstack/sahara,openstack/fuel-ostf,Non core,2.0,5.5762081784386615,17,38
+openstack/sahara,openstack/fuel-qa,Core,1.5706806282722512,1.2089810017271159,11,30
+openstack/sahara,openstack/fuel-qa,Non core,1.3089005235602094,3.9723661485319512,11,30
+openstack/sahara,openstack/fuel-specs,Core,2.2346368715083798,1.7515923566878981,14,34
+openstack/sahara,openstack/fuel-specs,Non core,1.675977653631285,3.662420382165605,14,34
+openstack/sahara,openstack/fuel-nailgun-extension-cluster-upgrade,Core,0.7220216606498195,0.26041666666666663,3,2
+openstack/sahara,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.36101083032490977,0.26041666666666663,3,2
+openstack/sahara,openstack/fuel-nailgun-agent,Core,0.9868421052631579,0.22075055187637968,3,8
+openstack/sahara,openstack/fuel-nailgun-agent,Non core,0.0,1.545253863134658,3,8
+openstack/sahara,openstack/fuel-mirror,Core,1.0033444816053512,0.44150110375275936,3,13
+openstack/sahara,openstack/fuel-mirror,Non core,0.0,2.4282560706401766,3,13
+openstack/sahara,openstack/fuel-menu,Core,1.3377926421404682,0.6423982869379015,5,11
+openstack/sahara,openstack/fuel-menu,Non core,0.33444816053511706,1.7130620985010707,5,11
+openstack/sahara,openstack/fuel-main,Core,2.0253164556962027,1.9064124783362217,13,35
+openstack/sahara,openstack/fuel-main,Non core,1.2658227848101267,4.15944540727903,13,35
+openstack/sahara,openstack/fuel-ui,Core,1.3071895424836601,0.22624434389140274,5,11
+openstack/sahara,openstack/fuel-ui,Non core,0.32679738562091504,2.262443438914027,5,11
+openstack/sahara,openstack/fuel-library,Core,3.1390134529147984,2.194787379972565,23,74
+openstack/sahara,openstack/fuel-library,Non core,2.0179372197309418,7.956104252400549,23,74
+openstack/sahara,openstack/fuel-dev-tools,Core,1.7985611510791366,0.2617801047120419,5,4
+openstack/sahara,openstack/fuel-dev-tools,Non core,0.0,0.7853403141361256,5,4
+openstack/sahara,openstack/fuel-stats,Core,1.7793594306049825,0.7407407407407408,9,7
+openstack/sahara,openstack/fuel-stats,Non core,1.4234875444839856,0.9876543209876543,9,7
+openstack/sahara,openstack/fuel-nailgun-extension-converted-serializers,Core,0.36900369003690037,0.2724795640326975,1,2
+openstack/sahara,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.2724795640326975,1,2
+openstack/sahara,openstack/fuel-nailgun-extension-iac,Core,0.7352941176470588,0.27100271002710025,2,2
+openstack/sahara,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.27100271002710025,2,2
+openstack/sahara,openstack/fuel-plugin-murano-tests,Core,0.7168458781362007,1.2953367875647668,2,8
+openstack/sahara,openstack/fuel-plugin-murano-tests,Non core,0.0,0.7772020725388601,2,8
+openstack/sahara,openstack/fuel-astute,Core,1.524390243902439,0.7984031936127743,7,16
+openstack/sahara,openstack/fuel-astute,Non core,0.6097560975609756,2.3952095808383236,7,16
+openstack/sahara,openstack/fuel-docs,Core,0.28169014084507044,2.066772655007949,10,50
+openstack/sahara,openstack/fuel-docs,Non core,2.535211267605634,5.88235294117647,10,50
+openstack/sahara,openstack/fuel-agent,Core,2.769230769230769,0.8016032064128256,14,14
+openstack/sahara,openstack/fuel-agent,Non core,1.5384615384615385,2.004008016032064,14,14
+openstack/sahara,openstack/fuel-octane,Core,2.04778156996587,0.24390243902439024,8,10
+openstack/sahara,openstack/fuel-octane,Non core,0.6825938566552902,2.195121951219512,8,10
+openstack/sahara,openstack/tuning-box,Core,0.7326007326007326,0.5181347150259068,2,5
+openstack/sahara,openstack/tuning-box,Non core,0.0,0.7772020725388601,2,5
+openstack/sahara,openstack/python-fuelclient,Core,1.2012012012012012,0.8097165991902834,6,17
+openstack/sahara,openstack/python-fuelclient,Non core,0.6006006006006006,2.631578947368421,6,17
+openstack/sahara,openstack/neutron-interconnection,Core,0.0,0.8042895442359249,1,3
+openstack/sahara,openstack/neutron-interconnection,Non core,0.36900369003690037,0.0,1,3
+openstack/sahara,openstack/openstack-chef-repo,Core,0.9803921568627451,1.2195121951219512,5,9
+openstack/sahara,openstack/openstack-chef-repo,Non core,0.6535947712418301,0.975609756097561,5,9
+openstack/sahara,openstack/os-acc,Core,0.0,1.0554089709762533,1,4
+openstack/sahara,openstack/os-acc,Non core,0.3676470588235294,0.0,1,4
+openstack/sahara,openstack/openstack-ansible-os_zaqar,Core,3.0927835051546393,1.7632241813602016,15,16
+openstack/sahara,openstack/openstack-ansible-os_zaqar,Non core,2.0618556701030926,2.2670025188916876,15,16
+openstack/sahara,openstack/openstack-ansible-os_watcher,Core,2.7874564459930316,2.056555269922879,14,16
+openstack/sahara,openstack/openstack-ansible-os_watcher,Non core,2.0905923344947737,2.056555269922879,14,16
+openstack/sahara,openstack/openstack-ansible-os_searchlight,Core,2.877697841726619,1.2953367875647668,15,10
+openstack/sahara,openstack/openstack-ansible-os_searchlight,Non core,2.5179856115107913,1.2953367875647668,15,10
+openstack/sahara,openstack/xstatic-angular-vis,Core,0.3703703703703704,0.0,1,0
+openstack/sahara,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/xstatic-font-awesome,Core,0.7326007326007326,0.0,3,4
+openstack/sahara,openstack/xstatic-font-awesome,Non core,0.3663003663003663,1.06951871657754,3,4
+openstack/sahara,openstack/xstatic-jasmine,Core,1.0869565217391304,0.26595744680851063,4,4
+openstack/sahara,openstack/xstatic-jasmine,Non core,0.36231884057971014,0.7978723404255319,4,4
+openstack/sahara,openstack/xstatic-angular-notify,Core,0.3703703703703704,0.0,1,0
+openstack/sahara,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/xstatic-angular-material,Core,0.7380073800738007,0.0,2,0
+openstack/sahara,openstack/xstatic-angular-material,Non core,0.0,0.0,2,0
+openstack/sahara,openstack/tempest-tripleo-ui,Core,0.3676470588235294,0.5333333333333333,1,2
+openstack/sahara,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,2
+openstack/sahara,openstack/docs-specs,Core,2.2950819672131146,5.961538461538462,12,51
+openstack/sahara,openstack/docs-specs,Non core,1.639344262295082,3.8461538461538463,12,51
+openstack/sahara,openstack/release-schedule-generator,Core,0.7380073800738007,1.36986301369863,2,6
+openstack/sahara,openstack/release-schedule-generator,Non core,0.0,0.273972602739726,2,6
+openstack/sahara,openstack-infra/opendev-website,Core,0.3703703703703704,1.366120218579235,1,5
+openstack/sahara,openstack-infra/opendev-website,Non core,0.0,0.0,1,5
+openstack/sahara,openstack/castellan-ui,Core,1.1029411764705883,2.406417112299465,3,11
+openstack/sahara,openstack/castellan-ui,Non core,0.0,0.53475935828877,3,11
+openstack/sahara,openstack-attic/compute-api,Core,1.3888888888888888,1.5228426395939088,5,7
+openstack/sahara,openstack-attic/compute-api,Non core,0.3472222222222222,0.25380710659898476,5,7
+openstack/sahara,openstack/charm-neutron-api-odl,Core,0.7194244604316548,0.2680965147453083,2,3
+openstack/sahara,openstack/charm-neutron-api-odl,Non core,0.0,0.5361930294906166,2,3
+openstack/sahara,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/sahara,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/charm-murano,Core,0.36900369003690037,0.0,1,1
+openstack/sahara,openstack/charm-murano,Non core,0.0,0.2724795640326975,1,1
+openstack/sahara,openstack/charm-openvswitch-odl,Core,0.35842293906810035,0.0,1,2
+openstack/sahara,openstack/charm-openvswitch-odl,Non core,0.0,0.5376344086021506,1,2
+openstack/sahara,openstack/charm-interface-odl-controller-api,Core,0.7380073800738007,0.0,2,1
+openstack/sahara,openstack/charm-interface-odl-controller-api,Non core,0.0,0.2724795640326975,2,1
+openstack/sahara,openstack/charm-glusterfs,Core,0.36900369003690037,0.0,1,1
+openstack/sahara,openstack/charm-glusterfs,Non core,0.0,0.2688172043010753,1,1
+openstack/sahara,openstack/charm-trove,Core,0.36231884057971014,0.0,1,1
+openstack/sahara,openstack/charm-trove,Non core,0.0,0.2695417789757413,1,1
+openstack/sahara,openstack/deb-python-positional,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-python-positional,Non core,0.7434944237918215,0.821917808219178,2,3
+openstack/sahara,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-requests-unixsocket,Non core,0.7407407407407408,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-traceback2,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-traceback2,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-ryu,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-ryu,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-linecache2,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-linecache2,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-gabbi,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-gabbi,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-cotyledon,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-cotyledon,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-migrate,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-migrate,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/fuxi,Core,1.3793103448275863,0.7481296758104738,7,10
+openstack/sahara,openstack/fuxi,Non core,1.0344827586206897,1.7456359102244388,7,10
+openstack/sahara,openstack/xstatic-filesaver,Core,0.3703703703703704,0.0,1,0
+openstack/sahara,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/xstatic-angular-uuid,Core,0.3703703703703704,0.0,1,0
+openstack/sahara,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/sahara,openstack/bandit,Core,3.2467532467532463,3.9215686274509802,21,27
+openstack/sahara,openstack/bandit,Non core,3.571428571428571,2.696078431372549,21,27
+openstack/sahara,openstack/xstatic-angular-smart-table,Core,0.3676470588235294,0.0,1,1
+openstack/sahara,openstack/xstatic-angular-smart-table,Non core,0.0,0.2695417789757413,1,1
+openstack/sahara,openstack/xstatic-bootswatch,Core,0.7380073800738007,0.0,3,4
+openstack/sahara,openstack/xstatic-bootswatch,Non core,0.36900369003690037,1.06951871657754,3,4
+openstack/sahara,openstack/deb-msgpack-python,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-msgpack-python,Non core,0.7434944237918215,0.821917808219178,2,3
+openstack/sahara,openstack/xstatic-d3,Core,0.7352941176470588,0.0,3,5
+openstack/sahara,openstack/xstatic-d3,Non core,0.3676470588235294,1.3404825737265416,3,5
+openstack/sahara,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/sahara,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/deb-python-pymemcache,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-pymemcache,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-novnc,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-novnc,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/instack,Core,1.7605633802816902,1.5463917525773196,8,13
+openstack/sahara,openstack/instack,Non core,1.056338028169014,1.804123711340206,8,13
+openstack/sahara,openstack/deb-python-pysaml2,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-python-pysaml2,Non core,0.7434944237918215,0.819672131147541,2,3
+openstack/sahara,openstack/deb-python-trollius,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-trollius,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-autobahn,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-autobahn,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-pyldap,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-pyldap,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/astara,Core,2.027027027027027,0.75,11,14
+openstack/sahara,openstack/astara,Non core,1.6891891891891893,2.75,11,14
+openstack/sahara,openstack/astara-appliance,Core,1.0752688172043012,0.5263157894736842,5,9
+openstack/sahara,openstack/astara-appliance,Non core,0.7168458781362007,1.8421052631578945,5,9
+openstack/sahara,openstack/astara-horizon,Core,1.098901098901099,0.26595744680851063,4,6
+openstack/sahara,openstack/astara-horizon,Non core,0.3663003663003663,1.3297872340425532,4,6
+openstack/sahara,openstack/astara-neutron,Core,1.083032490974729,0.26666666666666666,4,8
+openstack/sahara,openstack/astara-neutron,Non core,0.36101083032490977,1.866666666666667,4,8
+openstack/sahara,openstack/anchor,Core,1.0416666666666665,2.5773195876288657,9,20
+openstack/sahara,openstack/anchor,Non core,2.083333333333333,2.5773195876288657,9,20
+openstack/sahara,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/sahara,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/fuxi-golang,Core,0.37174721189591076,0.2717391304347826,1,1
+openstack/sahara,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/sahara,openstack/fuxi-kubernetes,Core,0.3703703703703704,0.5390835579514826,1,3
+openstack/sahara,openstack/fuxi-kubernetes,Non core,0.0,0.2695417789757413,1,3
+openstack/sahara,openstack-infra/puppet-odsreg,Core,1.4760147601476015,1.6216216216216217,4,9
+openstack/sahara,openstack-infra/puppet-odsreg,Non core,0.0,0.8108108108108109,4,9
+openstack/sahara,openstack-infra/puppet-docker_registry,Core,0.37174721189591076,0.5494505494505495,1,2
+openstack/sahara,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,2
+openstack/sahara,openstack/releasestatus,Core,1.1152416356877324,1.643835616438356,3,8
+openstack/sahara,openstack/releasestatus,Non core,0.0,0.547945205479452,3,8
+openstack/sahara,openstack-infra/vinz-webclient,Core,0.37174721189591076,0.5494505494505495,1,2
+openstack/sahara,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,2
+openstack/sahara,openstack/activity-board,Core,0.7092198581560284,2.763819095477387,3,15
+openstack/sahara,openstack/activity-board,Non core,0.3546099290780142,1.0050251256281406,3,15
+openstack/sahara,openstack-infra/beaker-localhost,Core,0.37174721189591076,0.547945205479452,1,2
+openstack/sahara,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,2
+openstack/sahara,openstack-infra/beaker-nodepool,Core,0.37174721189591076,0.547945205479452,1,2
+openstack/sahara,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,2
+openstack/sahara,openstack/rst2bash,Core,0.7380073800738007,1.084010840108401,2,6
+openstack/sahara,openstack/rst2bash,Non core,0.0,0.5420054200542005,2,6
+openstack/sahara,openstack/kolla-kubernetes,Core,1.875,1.0775862068965518,15,21
+openstack/sahara,openstack/kolla-kubernetes,Non core,2.8125,3.4482758620689653,15,21
+openstack/sahara,openstack/cue-dashboard,Core,1.0869565217391304,0.5390835579514826,4,5
+openstack/sahara,openstack/cue-dashboard,Non core,0.36231884057971014,0.8086253369272237,4,5
+openstack/sahara,openstack/python-cueclient,Core,1.079136690647482,0.5390835579514826,5,5
+openstack/sahara,openstack/python-cueclient,Non core,0.7194244604316548,0.8086253369272237,5,5
+openstack/sahara,openstack/cue,Core,1.7123287671232876,0.7751937984496124,9,13
+openstack/sahara,openstack/cue,Non core,1.36986301369863,2.5839793281653747,9,13
+openstack/sahara,openstack/app-catalog,Core,1.8867924528301887,0.7177033492822966,13,12
+openstack/sahara,openstack/app-catalog,Non core,2.20125786163522,2.15311004784689,13,12
+openstack/sahara,openstack-attic/identity-api,Core,1.65016501650165,2.5522041763341066,9,17
+openstack/sahara,openstack-attic/identity-api,Non core,1.3201320132013201,1.3921113689095126,9,17
+openstack/sahara,openstack/deb-python-fixtures,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-fixtures,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/python-magnetodbclient,Core,0.3676470588235294,0.0,2,2
+openstack/sahara,openstack/python-magnetodbclient,Non core,0.3676470588235294,0.5361930294906166,2,2
+openstack/sahara,openstack/app-catalog-ui,Core,1.090909090909091,0.7978723404255319,3,6
+openstack/sahara,openstack/app-catalog-ui,Non core,0.0,0.7978723404255319,3,6
+openstack/sahara,openstack/salt-formula-kubernetes,Core,0.36496350364963503,0.0,1,2
+openstack/sahara,openstack/salt-formula-kubernetes,Non core,0.0,0.5405405405405406,1,2
+openstack/sahara,openstack/app-catalog-common,Core,0.0,0.273224043715847,0,2
+openstack/sahara,openstack/app-catalog-common,Non core,0.0,0.273224043715847,0,2
+openstack/sahara,openstack/python-appcatalogclient,Core,0.0,0.27100271002710025,1,2
+openstack/sahara,openstack/python-appcatalogclient,Non core,0.3676470588235294,0.27100271002710025,1,2
+openstack/sahara,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/sahara,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/deb-nova,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-nova,Non core,0.7380073800738007,0.819672131147541,2,3
+openstack/sahara,openstack/deb-kazoo,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-kazoo,Non core,0.7434944237918215,0.821917808219178,2,3
+openstack/sahara,openstack/deb-python-congressclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-congressclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/sahara,openstack/deb-congress,Non core,0.0,0.273972602739726,0,1
+openstack/sahara,openstack/deb-python-os-net-config,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-os-net-config,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-ironic,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-ironic,Non core,0.7380073800738007,0.5434782608695652,2,2
+openstack/sahara,openstack/deb-swauth,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-swauth,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-python-os-api-ref,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-os-api-ref,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-designate,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-designate,Non core,0.7407407407407408,0.819672131147541,2,3
+openstack/sahara,openstack/deb-swift,Core,0.0,0.0,1,2
+openstack/sahara,openstack/deb-swift,Non core,0.3703703703703704,0.546448087431694,1,2
+openstack/sahara,openstack/deb-manila-ui,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-manila-ui,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-barbican,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-barbican,Non core,0.7380073800738007,0.8174386920980926,2,3
+openstack/sahara,openstack/deb-cinder,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-cinder,Non core,0.7352941176470588,0.546448087431694,2,2
+openstack/sahara,openstack/deb-magnum,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-magnum,Non core,0.7352941176470588,0.544959128065395,2,2
+openstack/sahara,openstack/deb-trove,Core,0.3703703703703704,0.0,2,3
+openstack/sahara,openstack/deb-trove,Non core,0.3703703703703704,0.8152173913043478,2,3
+openstack/sahara,openstack/deb-openstack-pkg-tools,Core,0.3676470588235294,0.2702702702702703,3,5
+openstack/sahara,openstack/deb-openstack-pkg-tools,Non core,0.7352941176470588,1.0810810810810811,3,5
+openstack/sahara,openstack/deb-python-swiftclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-swiftclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-alembic,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-alembic,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-cinderclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-cinderclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.7407407407407408,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/sahara,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/sahara,openstack/deb-networking-nec,Non core,0.0,0.273972602739726,0,1
+openstack/sahara,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/sahara,openstack/deb-neutron-taas,Non core,0.0,0.273972602739726,0,1
+openstack/sahara,openstack/deb-networking-mlnx,Core,0.0,0.0,1,2
+openstack/sahara,openstack/deb-networking-mlnx,Non core,0.36900369003690037,0.547945205479452,1,2
+openstack/sahara,openstack/deb-openstack-meta-packages,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-openstack-meta-packages,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/sahara,openstack/deb-networking-odl,Non core,0.0,0.273972602739726,0,1
+openstack/sahara,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/sahara,openstack/deb-nodepool,Non core,0.0,0.273972602739726,0,1
+openstack/sahara,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/sahara,openstack/deb-networking-cisco,Non core,0.0,0.273972602739726,0,1
+openstack/sahara,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/sahara,openstack/deb-networking-midonet,Non core,0.0,0.273972602739726,0,1
+openstack/sahara,openstack/deb-networking-arista,Core,0.0,0.0,1,2
+openstack/sahara,openstack/deb-networking-arista,Non core,0.3703703703703704,0.547945205479452,1,2
+openstack/sahara,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/sahara,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/sahara,openstack/deb-networking-hyperv,Non core,0.0,0.273972602739726,0,1
+openstack/sahara,openstack/deb-python-rtslib-fb,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-rtslib-fb,Non core,0.7407407407407408,0.547945205479452,2,2
+openstack/sahara,openstack/deb-murano,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-murano,Non core,0.7352941176470588,0.8152173913043478,2,3
+openstack/sahara,openstack/deb-python-semantic-version,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-semantic-version,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-ldappool,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-ldappool,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-zaqar-ui,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-zaqar-ui,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-zaqar,Core,0.36900369003690037,0.0,3,3
+openstack/sahara,openstack/deb-zaqar,Non core,0.7380073800738007,0.8152173913043478,3,3
+openstack/sahara,openstack/deb-watcher,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-watcher,Non core,0.7352941176470588,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-os-testr,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-os-testr,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-os-win,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-os-win,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-pycadf,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-pycadf,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-pyghmi,Core,0.3703703703703704,0.0,3,2
+openstack/sahara,openstack/deb-python-pyghmi,Non core,0.7407407407407408,0.546448087431694,3,2
+openstack/sahara,openstack/deb-python-reno,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-reno,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-os-refresh-config,Core,0.3703703703703704,0.0,2,2
+openstack/sahara,openstack/deb-python-os-refresh-config,Non core,0.3703703703703704,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-os-vif,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-os-vif,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-pyeclib,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-pyeclib,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-python-quantumclient,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-quantumclient,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-python-requestsexceptions,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-requestsexceptions,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-pbr,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-python-pbr,Non core,0.7407407407407408,0.819672131147541,2,3
+openstack/sahara,openstack/deb-python-requests-mock,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-requests-mock,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-saharaclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-saharaclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-scciclient,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-scciclient,Non core,0.36900369003690037,0.273224043715847,1,1
+openstack/sahara,openstack/deb-python-seamicroclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-seamicroclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-auto-backports,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-auto-backports,Non core,0.7380073800738007,0.8174386920980926,2,3
+openstack/sahara,openstack/deb-python-senlinclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-senlinclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-taskflow,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-taskflow,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-testtools,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-testtools,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-tooz,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-tooz,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-shotgun,Core,0.3703703703703704,0.0,2,2
+openstack/sahara,openstack/deb-python-shotgun,Non core,0.3703703703703704,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-tackerclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-tackerclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-tosca-parser,Core,0.3703703703703704,0.0,2,2
+openstack/sahara,openstack/deb-python-tosca-parser,Non core,0.3703703703703704,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-troveclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-troveclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-tuskarclient,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-tuskarclient,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-python-watcherclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-watcherclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-cookies,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-fileupload,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-wsme,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-wsme,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-schema-form,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-bootswatch,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-gettext,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-angular-mock,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-d3,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-d3,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-hogan,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-font-awesome,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-jasmine,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery-migrate,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-jsencrypt,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-magic-search,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-mdi,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-objectpath,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-qunit,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-xstatic-rickshaw,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-python-xstatic-spin,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-spin,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,1,2
+openstack/sahara,openstack/deb-python-xstatic-tv4,Non core,0.3703703703703704,0.547945205479452,1,2
+openstack/sahara,openstack/deb-python-yaql,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-yaql,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-zaqarclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-zaqarclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-rally,Core,0.0,0.0,1,2
+openstack/sahara,openstack/deb-rally,Non core,0.36900369003690037,0.546448087431694,1,2
+openstack/sahara,openstack/deb-sahara,Core,0.36900369003690037,0.0,3,2
+openstack/sahara,openstack/deb-sahara,Non core,0.7380073800738007,0.544959128065395,3,2
+openstack/sahara,openstack/deb-sahara-dashboard,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-sahara-dashboard,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-senlin,Core,0.36900369003690037,0.0,3,3
+openstack/sahara,openstack/deb-senlin,Non core,0.7380073800738007,0.819672131147541,3,3
+openstack/sahara,openstack/deb-senlin-dashboard,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-senlin-dashboard,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-stevedore,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-stevedore,Non core,0.7407407407407408,0.819672131147541,2,3
+openstack/sahara,openstack/deb-swift-bench,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-swift-bench,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-swift-plugin-s3,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-swift-plugin-s3,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-trove-dashboard,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-trove-dashboard,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-tempest,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-tempest,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-osprofiler,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-osprofiler,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.vmware,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.vmware,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.utils,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.utils,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.rootwrap,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.service,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.service,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.privsep,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.privsep,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.versionedobjects,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslotest,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslotest,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.serialization,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.serialization,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.reports,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.reports,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.policy,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.policy,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.middleware,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.middleware,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.messaging,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.messaging,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.log,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.log,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-aodhclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-aodhclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-automaton,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-automaton,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-barbicanclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-barbicanclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-bashate,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-bashate,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-python-castellan,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-castellan,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-ceilometerclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-ceilometerclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-ceilometermiddleware,Core,0.3703703703703704,0.0,3,2
+openstack/sahara,openstack/deb-python-ceilometermiddleware,Non core,0.7407407407407408,0.546448087431694,3,2
+openstack/sahara,openstack/deb-python-cliff,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-cliff,Non core,0.7407407407407408,0.544959128065395,2,2
+openstack/sahara,openstack/deb-python-cursive,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-cursive,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-debtcollector,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-debtcollector,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-designateclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-designateclient,Non core,0.7407407407407408,0.544959128065395,2,2
+openstack/sahara,openstack/deb-python-dib-utils,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-dib-utils,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-python-diskimage-builder,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-diskimage-builder,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-doc8,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-doc8,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-django-openstack-auth,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-fuelclient,Core,0.3703703703703704,0.0,2,3
+openstack/sahara,openstack/deb-python-fuelclient,Non core,0.3703703703703704,0.8152173913043478,2,3
+openstack/sahara,openstack/deb-python-dogpile.cache,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-dogpile.cache,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-futurist,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-futurist,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-glanceclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-glanceclient,Non core,0.7407407407407408,0.544959128065395,2,2
+openstack/sahara,openstack/deb-python-glance-store,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-glance-store,Non core,0.7407407407407408,0.544959128065395,2,2
+openstack/sahara,openstack/deb-python-hacking,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-python-hacking,Non core,0.7380073800738007,0.819672131147541,2,3
+openstack/sahara,openstack/deb-python-heatclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-heatclient,Non core,0.7407407407407408,0.544959128065395,2,2
+openstack/sahara,openstack/deb-python-ironicclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-ironicclient,Non core,0.7407407407407408,0.544959128065395,2,2
+openstack/sahara,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-ironic-inspector-client,Non core,0.7407407407407408,0.544959128065395,2,2
+openstack/sahara,openstack/deb-python-ironic-lib,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-ironic-lib,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-jsonpath-rw-ext,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-k8sclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-k8sclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-keystoneauth1,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-keystoneauth1,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-keystoneclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-keystoneclient,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-python-keystonemiddleware,Non core,0.7407407407407408,0.819672131147541,2,3
+openstack/sahara,openstack/deb-python-magnumclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-magnumclient,Non core,0.7407407407407408,0.5434782608695652,2,2
+openstack/sahara,openstack/deb-python-manilaclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-manilaclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-microversion-parse,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-microversion-parse,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-mistralclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-mistralclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-monascaclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-monascaclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-mox3,Core,0.3703703703703704,0.0,2,2
+openstack/sahara,openstack/deb-python-mox3,Non core,0.3703703703703704,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-muranoclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-muranoclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-neutronclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-neutronclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-neutron-lib,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-neutron-lib,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-novaclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-novaclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-openstackclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-openstackclient,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-openstackdocstheme,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-openstacksdk,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-openstacksdk,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-os-apply-config,Core,0.3703703703703704,0.0,2,2
+openstack/sahara,openstack/deb-python-os-apply-config,Non core,0.3703703703703704,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-os-brick,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-os-brick,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-osc-lib,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-osc-lib,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-os-client-config,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-os-client-config,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-os-collect-config,Core,0.3703703703703704,0.0,2,2
+openstack/sahara,openstack/deb-python-os-collect-config,Non core,0.3703703703703704,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.cache,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.cache,Non core,0.7380073800738007,0.544959128065395,2,2
+openstack/sahara,openstack/deb-python-oslo.db,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.db,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.concurrency,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.config,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.config,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.i18n,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.i18n,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-oslo.context,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oslo.context,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-openstack-nose,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-openstack-nose,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-openstack-doc-tools,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-openstack-doc-tools,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-openstack-trove,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-openstack-trove,Non core,0.7380073800738007,0.819672131147541,2,3
+openstack/sahara,openstack/deb-oslosphinx,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-oslosphinx,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-aodh,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-aodh,Non core,0.7380073800738007,0.819672131147541,2,3
+openstack/sahara,openstack/deb-bandit,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-bandit,Non core,0.7380073800738007,0.819672131147541,2,3
+openstack/sahara,openstack/deb-ceilometer,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-ceilometer,Non core,0.7380073800738007,0.819672131147541,2,3
+openstack/sahara,openstack/deb-ceilometermiddleware,Core,0.0,0.0,1,2
+openstack/sahara,openstack/deb-ceilometermiddleware,Non core,0.3703703703703704,0.546448087431694,1,2
+openstack/sahara,openstack/deb-designate-dashboard,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-designate-dashboard,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-git-review,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-git-review,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-glance,Core,0.0,0.0,2,4
+openstack/sahara,openstack/deb-glance,Non core,0.7380073800738007,1.08991825613079,2,4
+openstack/sahara,openstack/deb-glare,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-glare,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-heat,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-heat,Non core,0.7380073800738007,0.819672131147541,2,3
+openstack/sahara,openstack/deb-heat-cfntools,Core,0.0,0.0,0,2
+openstack/sahara,openstack/deb-heat-cfntools,Non core,0.0,0.547945205479452,0,2
+openstack/sahara,openstack/deb-horizon,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-horizon,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-ironic-inspector,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-ironic-inspector,Non core,0.7380073800738007,0.546448087431694,2,2
+openstack/sahara,openstack/deb-ironic-ui,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-ironic-ui,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-keystone,Core,0.0,0.0,2,4
+openstack/sahara,openstack/deb-keystone,Non core,0.7352941176470588,1.092896174863388,2,4
+openstack/sahara,openstack/deb-liberasurecode,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-liberasurecode,Non core,0.3703703703703704,0.273224043715847,1,1
+openstack/sahara,openstack/deb-manila,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-manila,Non core,0.7380073800738007,0.819672131147541,2,3
+openstack/sahara,openstack/deb-mistral,Core,0.0,0.0,3,3
+openstack/sahara,openstack/deb-mistral,Non core,1.098901098901099,0.8152173913043478,3,3
+openstack/sahara,openstack/deb-murano-agent,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-murano-agent,Non core,0.7380073800738007,0.8152173913043478,2,3
+openstack/sahara,openstack/deb-murano-dashboard,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-murano-dashboard,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-networking-l2gw,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-networking-l2gw,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-networking-ovn,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-networking-ovn,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-neutron,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-neutron,Non core,0.7380073800738007,0.8174386920980926,2,3
+openstack/sahara,openstack/deb-neutron-fwaas,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-neutron-fwaas,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-neutron-vpnaas,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-neutron-vpnaas,Non core,0.7407407407407408,0.546448087431694,2,2
+openstack/sahara,openstack/deb-neutron-lbaas,Core,0.0,0.0,2,3
+openstack/sahara,openstack/deb-neutron-lbaas,Non core,0.7380073800738007,0.8152173913043478,2,3
+openstack/sahara,openstack/installguide-cookiecutter,Core,1.4492753623188406,0.8042895442359249,4,6
+openstack/sahara,openstack/installguide-cookiecutter,Non core,0.0,0.8042895442359249,4,6
+openstack/sahara,openstack/deb-gnocchi,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-gnocchi,Non core,0.7380073800738007,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-eventlet,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-eventlet,Non core,0.7407407407407408,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-pymysql,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-pymysql,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/salt-formula-opencontrail,Core,0.35211267605633806,0.0,2,2
+openstack/sahara,openstack/salt-formula-opencontrail,Non core,0.35211267605633806,0.5333333333333333,2,2
+openstack/sahara,openstack/salt-formula-neutron,Core,0.35335689045936397,0.2652519893899204,2,3
+openstack/sahara,openstack/salt-formula-neutron,Non core,0.35335689045936397,0.5305039787798408,2,3
+openstack/sahara,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/sahara,openstack/salt-formula-swift,Non core,0.0,0.27100271002710025,0,1
+openstack/sahara,openstack/salt-formula-nova,Core,0.34602076124567477,0.0,2,3
+openstack/sahara,openstack/salt-formula-nova,Non core,0.34602076124567477,0.7957559681697612,2,3
+openstack/sahara,openstack/salt-formula-keystone,Core,0.34965034965034963,0.0,2,2
+openstack/sahara,openstack/salt-formula-keystone,Non core,0.34965034965034963,0.5319148936170213,2,2
+openstack/sahara,openstack/salt-formula-horizon,Core,0.3558718861209964,0.0,2,1
+openstack/sahara,openstack/salt-formula-horizon,Non core,0.3558718861209964,0.267379679144385,2,1
+openstack/sahara,openstack/salt-formula-heat,Core,0.3472222222222222,0.0,2,1
+openstack/sahara,openstack/salt-formula-heat,Non core,0.3472222222222222,0.26666666666666666,2,1
+openstack/sahara,openstack/salt-formula-glance,Core,0.34843205574912894,0.0,2,4
+openstack/sahara,openstack/salt-formula-glance,Non core,0.34843205574912894,1.06951871657754,2,4
+openstack/sahara,openstack/salt-formula-cinder,Core,0.34965034965034963,0.0,2,2
+openstack/sahara,openstack/salt-formula-cinder,Non core,0.34965034965034963,0.5361930294906166,2,2
+openstack/sahara,openstack/salt-formula-ceilometer,Core,0.36101083032490977,0.0,3,3
+openstack/sahara,openstack/salt-formula-ceilometer,Non core,0.7220216606498195,0.8021390374331552,3,3
+openstack/sahara,openstack/deb-python-pygit2,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-pygit2,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-libisal,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-libisal,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xvfbwrapper,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-testresources,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-testresources,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-django-compressor,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-django-compressor,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-sqlalchemy-utils,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-pykmip,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-pykmip,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-coffin,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-coffin,Non core,0.7434944237918215,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-txaio,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-txaio,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-hplefthandclient,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-hplefthandclient,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-django-overextends,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-django-overextends,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-pytimeparse,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-pytimeparse,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-nose-timer,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-nose-timer,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-retrying,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-retrying,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-django-discover-runner,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-django-discover-runner,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-lesscpy,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-lesscpy,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-happybase,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-happybase,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-extras,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-extras,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-functools32,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-functools32,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-pydot-ng,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-pydot-ng,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-jsonschema,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-jsonschema,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-kafka,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-kafka,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-rcssmin,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-rcssmin,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-nose-parameterized,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-nose-parameterized,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-pika-pool,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-pika-pool,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-rfc3986,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-rfc3986,Non core,0.7407407407407408,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-httpretty,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-httpretty,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-pint,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-pint,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-django-pyscss,Core,0.0,0.0,1,2
+openstack/sahara,openstack/deb-python-django-pyscss,Non core,0.37174721189591076,0.547945205479452,1,2
+openstack/sahara,openstack/deb-python-falcon,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-falcon,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-subunit,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-subunit,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-django-formtools,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-django-formtools,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-nose-exclude,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-nose-exclude,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-pydotplus,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-pydotplus,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-pager,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-pager,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-proliantutils,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-proliantutils,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-gnocchiclient,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-gnocchiclient,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-django-babel,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-django-babel,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-requests-kerberos,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-requests-kerberos,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-colander,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-colander,Non core,0.7434944237918215,0.546448087431694,2,2
+openstack/sahara,openstack/deb-python-dcos,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-dcos,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-django-bootstrap-form,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-term.js,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-toml,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-toml,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-semver,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-semver,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-websocket-client,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-websocket-client,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-fasteners,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-fasteners,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-jingo,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-jingo,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-pecan,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-pecan,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-frozendict,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-frozendict,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/sahara,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/sahara,openstack/deb-python-wrapt,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-wrapt,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-funcsigs,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-funcsigs,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-crank,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-crank,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-pyvmomi,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-pyvmomi,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-wsgi-intercept,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-os-cloud-config,Core,0.37174721189591076,0.0,2,2
+openstack/sahara,openstack/deb-python-os-cloud-config,Non core,0.37174721189591076,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-weakrefmethod,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-weakrefmethod,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-steadymark,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-steadymark,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-warlock,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-warlock,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-couleur,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-couleur,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-roboto-fontface,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-json-patch,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-json-patch,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-jsonrpclib,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-jsonrpclib,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-multi-key-dict,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-multi-key-dict,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-memcache,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-memcache,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-pulp,Core,0.37174721189591076,0.0,2,1
+openstack/sahara,openstack/deb-python-pulp,Non core,0.37174721189591076,0.273972602739726,2,1
+openstack/sahara,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-fonts-roboto-fontface,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-websockify,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-websockify,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-daemonize,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-daemonize,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-pyngus,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-pyngus,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-editor,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-editor,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-ddt,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-ddt,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-monotonic,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-monotonic,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-rjsmin,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-rjsmin,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-jsonpath-rw,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-django-appconf,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-django-appconf,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-oauth2client,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-oauth2client,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-json-pointer,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-json-pointer,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack-attic/akanda,Core,0.36900369003690037,0.0,3,4
+openstack/sahara,openstack-attic/akanda,Non core,0.7380073800738007,1.0752688172043012,3,4
+openstack/sahara,openstack/deb-python-xstatic,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-smart-table,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-xstatic-jquery-ui,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-requestbuilder,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-requestbuilder,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,1,1
+openstack/sahara,openstack/deb-python-nosehtmloutput,Non core,0.37174721189591076,0.273972602739726,1,1
+openstack/sahara,openstack/deb-python-csscompressor,Core,0.37174721189591076,0.0,2,1
+openstack/sahara,openstack/deb-python-csscompressor,Non core,0.37174721189591076,0.273972602739726,2,1
+openstack/sahara,openstack/deb-python-croniter,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-croniter,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/deb-python-concurrent.futures,Core,0.0,0.0,2,2
+openstack/sahara,openstack/deb-python-concurrent.futures,Non core,0.7434944237918215,0.547945205479452,2,2
+openstack/sahara,openstack/openstack-salt,Core,0.3663003663003663,0.0,1,2
+openstack/sahara,openstack/openstack-salt,Non core,0.0,0.5420054200542005,1,2
+openstack/sahara,openstack/deb-spice-html5,Core,0.0,0.0,0,2
+openstack/sahara,openstack/deb-spice-html5,Non core,0.0,0.5494505494505495,0,2
+openstack/sahara,openstack/salt-formula-midonet,Core,0.37174721189591076,0.0,1,1
+openstack/sahara,openstack/salt-formula-midonet,Non core,0.0,0.273972602739726,1,1
+openstack/sahara,openstack/magnetodb-specs,Core,1.079136690647482,0.0,3,5
+openstack/sahara,openstack/magnetodb-specs,Non core,0.0,1.3227513227513228,3,5
+openstack/sahara,openstack-attic/akanda-appliance-builder,Core,0.3676470588235294,0.0,2,3
+openstack/sahara,openstack-attic/akanda-appliance-builder,Non core,0.3676470588235294,0.8152173913043478,2,3
+openstack/sahara,openstack-attic/oslo.version,Core,2.214022140221402,1.6,7,9
+openstack/sahara,openstack-attic/oslo.version,Non core,0.36900369003690037,0.8,7,9
+openstack/sahara,openstack-attic/image-api,Core,1.0869565217391304,1.0554089709762533,4,5
+openstack/sahara,openstack-attic/image-api,Non core,0.36231884057971014,0.2638522427440633,4,5
+openstack/sahara,openstack-attic/object-api,Core,1.048951048951049,1.2886597938144329,4,6
+openstack/sahara,openstack-attic/object-api,Non core,0.34965034965034963,0.25773195876288657,4,6
+openstack/sahara,openstack-attic/volume-api,Core,0.7142857142857143,1.0526315789473684,4,6
+openstack/sahara,openstack-attic/volume-api,Non core,0.7142857142857143,0.5263157894736842,4,6
+openstack/sahara,openstack/magnetodb,Core,1.0380622837370241,1.0204081632653061,3,10
+openstack/sahara,openstack/magnetodb,Non core,0.0,1.530612244897959,3,10
+openstack/sahara,openstack/openstack-nose,Core,0.36231884057971014,0.5405405405405406,1,3
+openstack/sahara,openstack/openstack-nose,Non core,0.0,0.2702702702702703,1,3
+openstack/sahara,openstack-attic/netconn-api,Core,1.718213058419244,0.9803921568627451,6,7
+openstack/sahara,openstack-attic/netconn-api,Non core,0.3436426116838488,0.7352941176470588,6,7
+openstack/sahara,openstack-attic/python-melangeclient,Core,0.36363636363636365,0.0,1,1
+openstack/sahara,openstack-attic/python-melangeclient,Non core,0.0,0.2717391304347826,1,1
+openstack/sahara,openstack-attic/melange,Core,1.0638297872340425,0.5319148936170213,4,3
+openstack/sahara,openstack-attic/melange,Non core,0.3546099290780142,0.26595744680851063,4,3
+openstack/sahara,openstack-attic/openstack-qa,Core,0.3676470588235294,0.0,1,1
+openstack/sahara,openstack-attic/openstack-qa,Non core,0.0,0.2717391304347826,1,1
+openstack/sahara,openstack-attic/database-api,Core,1.083032490974729,0.7936507936507936,4,4
+openstack/sahara,openstack-attic/database-api,Non core,0.36101083032490977,0.26455026455026454,4,4
+openstack/sahara,openstack-attic/openstack-security-notes,Core,0.7272727272727273,1.411764705882353,2,10
+openstack/sahara,openstack-attic/openstack-security-notes,Non core,0.0,0.9411764705882352,2,10

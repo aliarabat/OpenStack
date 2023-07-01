@@ -1,0 +1,2353 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/kayobe,openstack/ansible-role-zookeeper,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/ansible-role-zookeeper,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/python-manilaclient,Core,2.0408163265306123,1.8115942028985508,9,17
+openstack/kayobe,openstack/python-manilaclient,Non core,2.5510204081632653,4.3478260869565215,9,17
+openstack/kayobe,openstack/tripleo-operator-ansible,Core,4.054054054054054,1.6129032258064515,5,2
+openstack/kayobe,openstack/tripleo-operator-ansible,Non core,2.7027027027027026,0.0,5,2
+openstack/kayobe,openstack/octavia-dashboard,Core,3.3333333333333335,3.7037037037037033,7,11
+openstack/kayobe,openstack/octavia-dashboard,Non core,4.444444444444445,4.444444444444445,7,11
+openstack/kayobe,openstack/blazar-tempest-plugin,Core,6.153846153846154,6.185567010309279,6,10
+openstack/kayobe,openstack/blazar-tempest-plugin,Non core,3.076923076923077,4.123711340206185,6,10
+openstack/kayobe,openstack/neutron-specs,Core,0.8695652173913043,0.7861635220125787,4,13
+openstack/kayobe,openstack/neutron-specs,Non core,0.8695652173913043,1.257861635220126,4,13
+openstack/kayobe,openstack/tooz,Core,3.787878787878788,2.8301886792452833,5,11
+openstack/kayobe,openstack/tooz,Non core,0.0,2.358490566037736,5,11
+openstack/kayobe,openstack/manila-specs,Core,2.2988505747126435,2.083333333333333,2,6
+openstack/kayobe,openstack/manila-specs,Non core,0.0,2.083333333333333,2,6
+openstack/kayobe,openstack/glance_store,Core,2.1739130434782608,1.694915254237288,5,18
+openstack/kayobe,openstack/glance_store,Non core,0.5434782608695652,3.389830508474576,5,18
+openstack/kayobe,openstack/openstack-ansible-os_neutron,Core,1.8867924528301887,2.2222222222222223,9,21
+openstack/kayobe,openstack/openstack-ansible-os_neutron,Non core,3.7735849056603774,7.111111111111111,9,21
+openstack/kayobe,openstack/os-ken,Core,5.970149253731343,2.941176470588235,5,7
+openstack/kayobe,openstack/os-ken,Non core,1.4925373134328357,3.9215686274509802,5,7
+openstack/kayobe,openstack/keystoneauth,Core,1.1560693641618496,3.9215686274509802,3,21
+openstack/kayobe,openstack/keystoneauth,Non core,0.5780346820809248,4.313725490196078,3,21
+openstack/kayobe,openstack/openstack-ansible-haproxy_server,Core,2.857142857142857,1.4388489208633095,7,10
+openstack/kayobe,openstack/openstack-ansible-haproxy_server,Non core,3.8095238095238098,5.755395683453238,7,10
+openstack/kayobe,openstack/grenade,Core,2.013422818791946,3.3834586466165413,3,16
+openstack/kayobe,openstack/grenade,Non core,0.0,2.631578947368421,3,16
+openstack/kayobe,openstack/networking-midonet,Core,2.307692307692308,1.6326530612244898,5,13
+openstack/kayobe,openstack/networking-midonet,Non core,1.5384615384615385,3.6734693877551026,5,13
+openstack/kayobe,openstack/python-ironicclient,Core,3.7914691943127963,2.3323615160349855,11,17
+openstack/kayobe,openstack/python-ironicclient,Non core,1.4218009478672986,2.623906705539359,11,17
+openstack/kayobe,openstack/oslo.messaging,Core,1.8181818181818181,1.6241299303944314,8,16
+openstack/kayobe,openstack/oslo.messaging,Non core,1.090909090909091,2.088167053364269,8,16
+openstack/kayobe,openstack/tripleo-docs,Core,2.4271844660194173,1.7241379310344827,8,17
+openstack/kayobe,openstack/tripleo-docs,Non core,1.4563106796116505,3.1609195402298855,8,17
+openstack/kayobe,openstack/magnum,Core,3.296703296703297,3.327495621716287,16,36
+openstack/kayobe,openstack/magnum,Non core,1.098901098901099,2.9772329246935203,16,36
+openstack/kayobe,openstack/diskimage-builder,Core,2.932551319648094,3.2846715328467155,18,33
+openstack/kayobe,openstack/diskimage-builder,Non core,2.346041055718475,2.737226277372263,18,33
+openstack/kayobe,openstack/masakari,Core,4.761904761904762,4.41988950276243,11,18
+openstack/kayobe,openstack/masakari,Non core,3.968253968253968,5.524861878453039,11,18
+openstack/kayobe,openstack/python-venusclient,Core,0.0,1.1904761904761905,0,3
+openstack/kayobe,openstack/python-venusclient,Non core,0.0,2.380952380952381,0,3
+openstack/kayobe,openstack/ansible-role-container-registry,Core,4.3478260869565215,2.586206896551724,6,9
+openstack/kayobe,openstack/ansible-role-container-registry,Non core,4.3478260869565215,5.172413793103448,6,9
+openstack/kayobe,openstack/puppet-ovn,Core,2.4691358024691357,1.6528925619834711,4,7
+openstack/kayobe,openstack/puppet-ovn,Non core,2.4691358024691357,4.132231404958678,4,7
+openstack/kayobe,openstack/charm-rabbitmq-server,Core,1.0638297872340425,1.6528925619834711,1,7
+openstack/kayobe,openstack/charm-rabbitmq-server,Non core,0.0,4.132231404958678,1,7
+openstack/kayobe,openstack/senlin,Core,1.8518518518518516,1.8181818181818181,10,20
+openstack/kayobe,openstack/senlin,Non core,2.7777777777777777,5.454545454545454,10,20
+openstack/kayobe,openstack/python-designateclient,Core,2.158273381294964,2.7777777777777777,6,15
+openstack/kayobe,openstack/python-designateclient,Non core,2.158273381294964,5.555555555555555,6,15
+openstack/kayobe,openstack/puppet-horizon,Core,1.8518518518518516,1.7543859649122806,4,6
+openstack/kayobe,openstack/puppet-horizon,Non core,0.6172839506172839,0.8771929824561403,4,6
+openstack/kayobe,openstack/openstack-ansible-lxc_hosts,Core,1.8018018018018018,1.1976047904191618,6,11
+openstack/kayobe,openstack/openstack-ansible-lxc_hosts,Non core,3.6036036036036037,5.389221556886228,6,11
+openstack/kayobe,openstack/keystone-tempest-plugin,Core,3.1746031746031744,4.3478260869565215,6,12
+openstack/kayobe,openstack/keystone-tempest-plugin,Non core,6.349206349206349,6.086956521739131,6,12
+openstack/kayobe,openstack/python-barbicanclient,Core,2.6490066225165565,1.293103448275862,7,13
+openstack/kayobe,openstack/python-barbicanclient,Non core,1.9867549668874174,4.310344827586207,7,13
+openstack/kayobe,openstack/openstack-ansible-os_ironic,Core,2.5423728813559325,3.1645569620253164,6,15
+openstack/kayobe,openstack/openstack-ansible-os_ironic,Non core,2.5423728813559325,6.329113924050633,6,15
+openstack/kayobe,openstack/charm-trilio-wlm,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-trilio-wlm,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-trilio-horizon-plugin,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-trilio-horizon-plugin,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/openstack-ansible-os_barbican,Core,3.0,3.64963503649635,6,15
+openstack/kayobe,openstack/openstack-ansible-os_barbican,Non core,3.0,7.2992700729927,6,15
+openstack/kayobe,openstack/skyline-apiserver,Core,0.0,0.0,0,3
+openstack/kayobe,openstack/skyline-apiserver,Non core,0.0,3.225806451612903,0,3
+openstack/kayobe,openstack/oslo.policy,Core,3.4722222222222223,3.3472803347280333,9,19
+openstack/kayobe,openstack/oslo.policy,Non core,2.7777777777777777,4.602510460251046,9,19
+openstack/kayobe,openstack/openstack-ansible-tests,Core,1.7241379310344827,4.166666666666666,7,15
+openstack/kayobe,openstack/openstack-ansible-tests,Non core,4.310344827586207,4.761904761904762,7,15
+openstack/kayobe,openstack/openstack-ansible-os_rally,Core,3.296703296703297,3.076923076923077,6,12
+openstack/kayobe,openstack/openstack-ansible-os_rally,Non core,3.296703296703297,6.153846153846154,6,12
+openstack/kayobe,openstack/openstack-ansible-rabbitmq_server,Core,2.8846153846153846,2.6490066225165565,6,14
+openstack/kayobe,openstack/openstack-ansible-rabbitmq_server,Non core,2.8846153846153846,6.622516556291391,6,14
+openstack/kayobe,openstack/openstack-ansible-os_horizon,Core,2.941176470588235,2.7472527472527473,10,14
+openstack/kayobe,openstack/openstack-ansible-os_horizon,Non core,4.411764705882353,4.945054945054945,10,14
+openstack/kayobe,openstack/heat-dashboard,Core,4.938271604938271,3.875968992248062,8,15
+openstack/kayobe,openstack/heat-dashboard,Non core,4.938271604938271,7.751937984496124,8,15
+openstack/kayobe,openstack/oslo.log,Core,2.380952380952381,1.9083969465648856,7,17
+openstack/kayobe,openstack/oslo.log,Non core,1.7857142857142856,4.580152671755725,7,17
+openstack/kayobe,openstack/charm-ceph-dashboard,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ceph-dashboard,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/openstack-ansible-lxc_container_create,Core,2.912621359223301,2.7777777777777777,7,13
+openstack/kayobe,openstack/openstack-ansible-lxc_container_create,Non core,3.8834951456310676,6.25,7,13
+openstack/kayobe,openstack/openstack-ansible-ops,Core,3.0534351145038165,1.2121212121212122,9,8
+openstack/kayobe,openstack/openstack-ansible-ops,Non core,3.816793893129771,3.6363636363636362,9,8
+openstack/kayobe,openstack/openstack-ansible-os_sahara,Core,2.0202020202020203,2.7777777777777777,5,11
+openstack/kayobe,openstack/openstack-ansible-os_sahara,Non core,3.0303030303030303,4.861111111111112,5,11
+openstack/kayobe,openstack/python-glanceclient,Core,1.0380622837370241,1.2448132780082988,6,17
+openstack/kayobe,openstack/python-glanceclient,Non core,1.0380622837370241,2.2821576763485476,6,17
+openstack/kayobe,openstack/charm-vault,Core,1.1494252873563218,0.8849557522123894,1,6
+openstack/kayobe,openstack/charm-vault,Non core,0.0,4.424778761061947,1,6
+openstack/kayobe,openstack/puppet-glance,Core,1.7241379310344827,2.3622047244094486,4,12
+openstack/kayobe,openstack/puppet-glance,Non core,0.5747126436781609,2.3622047244094486,4,12
+openstack/kayobe,openstack/ironic-tempest-plugin,Core,5.617977528089887,6.666666666666667,8,17
+openstack/kayobe,openstack/ironic-tempest-plugin,Non core,3.3707865168539324,5.9259259259259265,8,17
+openstack/kayobe,openstack/oslo.utils,Core,2.4096385542168677,1.9305019305019304,6,15
+openstack/kayobe,openstack/oslo.utils,Non core,1.2048192771084338,3.861003861003861,6,15
+openstack/kayobe,openstack/charm-mysql-innodb-cluster,Core,2.7777777777777777,0.0,2,0
+openstack/kayobe,openstack/charm-mysql-innodb-cluster,Non core,0.0,0.0,2,0
+openstack/kayobe,openstack/charm-trilio-dm-api,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-trilio-dm-api,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-cinder-lvm,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-cinder-lvm,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/cinder-tempest-plugin,Core,4.938271604938271,2.380952380952381,6,8
+openstack/kayobe,openstack/cinder-tempest-plugin,Non core,2.4691358024691357,3.968253968253968,6,8
+openstack/kayobe,openstack/barbican-tempest-plugin,Core,2.3255813953488373,2.7777777777777777,5,12
+openstack/kayobe,openstack/barbican-tempest-plugin,Non core,3.488372093023256,5.555555555555555,5,12
+openstack/kayobe,openstack/magnum-specs,Core,3.3333333333333335,3.6363636363636362,3,8
+openstack/kayobe,openstack/magnum-specs,Non core,1.6666666666666667,3.6363636363636362,3,8
+openstack/kayobe,openstack/charm-interface-mysql-router,Core,1.9607843137254901,0.0,1,0
+openstack/kayobe,openstack/charm-interface-mysql-router,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/venus,Core,4.166666666666666,2.1739130434782608,3,4
+openstack/kayobe,openstack/venus,Non core,0.0,2.1739130434782608,3,4
+openstack/kayobe,openstack/charm-neutron-api,Core,0.9615384615384616,2.272727272727273,1,8
+openstack/kayobe,openstack/charm-neutron-api,Non core,0.0,3.787878787878788,1,8
+openstack/kayobe,openstack/tacker-specs,Core,0.9345794392523363,1.4218009478672986,2,11
+openstack/kayobe,openstack/tacker-specs,Non core,0.9345794392523363,3.7914691943127963,2,11
+openstack/kayobe,openstack/openstack-ansible-galera_server,Core,2.479338842975207,2.4242424242424243,5,16
+openstack/kayobe,openstack/openstack-ansible-galera_server,Non core,1.6528925619834711,7.2727272727272725,5,16
+openstack/kayobe,openstack/puppet-openstack_spec_helper,Core,2.5316455696202533,2.307692307692308,3,8
+openstack/kayobe,openstack/puppet-openstack_spec_helper,Non core,1.2658227848101267,3.8461538461538463,3,8
+openstack/kayobe,openstack/trove-dashboard,Core,5.1020408163265305,3.3707865168539324,9,15
+openstack/kayobe,openstack/trove-dashboard,Non core,4.081632653061225,5.056179775280898,9,15
+openstack/kayobe,openstack/pyeclib,Core,1.5873015873015872,1.0204081632653061,1,1
+openstack/kayobe,openstack/pyeclib,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/neutron-vpnaas,Core,1.675977653631285,1.2618296529968454,7,15
+openstack/kayobe,openstack/neutron-vpnaas,Non core,2.2346368715083798,3.4700315457413247,7,15
+openstack/kayobe,openstack/charm-designate,Core,2.4390243902439024,2.8846153846153846,2,7
+openstack/kayobe,openstack/charm-designate,Non core,0.0,3.8461538461538463,2,7
+openstack/kayobe,openstack/neutron-lbaas,Core,0.819672131147541,0.7177033492822966,4,12
+openstack/kayobe,openstack/neutron-lbaas,Non core,0.819672131147541,2.15311004784689,4,12
+openstack/kayobe,openstack/oslo.privsep,Core,4.854368932038835,3.225806451612903,9,14
+openstack/kayobe,openstack/oslo.privsep,Non core,3.8834951456310676,5.806451612903226,9,14
+openstack/kayobe,openstack/charm-glance,Core,1.0204081632653061,2.631578947368421,2,7
+openstack/kayobe,openstack/charm-glance,Non core,1.0204081632653061,3.508771929824561,2,7
+openstack/kayobe,openstack/charm-ceph-mon,Core,0.0,1.6129032258064515,0,6
+openstack/kayobe,openstack/charm-ceph-mon,Non core,0.0,3.225806451612903,0,6
+openstack/kayobe,openstack/vitrage,Core,3.0864197530864197,2.6548672566371683,8,18
+openstack/kayobe,openstack/vitrage,Non core,1.8518518518518516,5.3097345132743365,8,18
+openstack/kayobe,openstack/puppet-murano,Core,2.0408163265306123,1.3605442176870748,4,9
+openstack/kayobe,openstack/puppet-murano,Non core,2.0408163265306123,4.761904761904762,4,9
+openstack/kayobe,openstack/networking-bagpipe,Core,3.061224489795918,3.125,6,12
+openstack/kayobe,openstack/networking-bagpipe,Non core,3.061224489795918,4.375,6,12
+openstack/kayobe,openstack/api-site,Core,1.4705882352941175,1.1320754716981132,7,12
+openstack/kayobe,openstack/api-site,Non core,0.5882352941176471,1.1320754716981132,7,12
+openstack/kayobe,openstack/charm-cinder-purestorage,Core,1.6129032258064515,1.1111111111111112,1,1
+openstack/kayobe,openstack/charm-cinder-purestorage,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/python-magnumclient,Core,3.488372093023256,3.619909502262444,9,19
+openstack/kayobe,openstack/python-magnumclient,Non core,1.744186046511628,4.97737556561086,9,19
+openstack/kayobe,openstack/magnum-tempest-plugin,Core,5.970149253731343,8.60215053763441,6,16
+openstack/kayobe,openstack/magnum-tempest-plugin,Non core,2.9850746268656714,8.60215053763441,6,16
+openstack/kayobe,openstack/openstack-ansible-os_tempest,Core,4.444444444444445,4.060913705583756,11,19
+openstack/kayobe,openstack/openstack-ansible-os_tempest,Non core,3.7037037037037033,5.583756345177665,11,19
+openstack/kayobe,openstack/aodh,Core,2.1739130434782608,2.3529411764705883,9,11
+openstack/kayobe,openstack/aodh,Non core,2.717391304347826,1.9607843137254901,9,11
+openstack/kayobe,openstack/operations-guide,Core,1.36986301369863,0.4405286343612335,2,6
+openstack/kayobe,openstack/operations-guide,Non core,0.0,2.2026431718061676,2,6
+openstack/kayobe,openstack/contributor-guide,Core,5.88235294117647,5.384615384615385,7,15
+openstack/kayobe,openstack/contributor-guide,Non core,2.3529411764705883,6.153846153846154,7,15
+openstack/kayobe,openstack/charm-ceph-radosgw,Core,2.2222222222222223,1.8518518518518516,2,5
+openstack/kayobe,openstack/charm-ceph-radosgw,Non core,0.0,2.7777777777777777,2,5
+openstack/kayobe,openstack/python-aodhclient,Core,3.9603960396039604,2.797202797202797,7,10
+openstack/kayobe,openstack/python-aodhclient,Non core,2.9702970297029703,4.195804195804196,7,10
+openstack/kayobe,openstack/ec2-api,Core,2.6548672566371683,2.877697841726619,7,13
+openstack/kayobe,openstack/ec2-api,Non core,3.5398230088495577,6.474820143884892,7,13
+openstack/kayobe,openstack/ec2api-tempest-plugin,Core,1.5625,2.3529411764705883,5,5
+openstack/kayobe,openstack/ec2api-tempest-plugin,Non core,6.25,3.5294117647058822,5,5
+openstack/kayobe,openstack/openstack-manuals,Core,1.0050251256281406,0.881057268722467,14,26
+openstack/kayobe,openstack/openstack-manuals,Non core,0.4020100502512563,1.0279001468428781,14,26
+openstack/kayobe,openstack/security-doc,Core,2.717391304347826,1.4492753623188406,8,8
+openstack/kayobe,openstack/security-doc,Non core,1.6304347826086956,0.8695652173913043,8,8
+openstack/kayobe,openstack/openstack-ansible-openstack_hosts,Core,2.586206896551724,1.9867549668874174,7,12
+openstack/kayobe,openstack/openstack-ansible-openstack_hosts,Non core,3.4482758620689653,5.960264900662252,7,12
+openstack/kayobe,openstack/magnum-ui,Core,4.854368932038835,3.488372093023256,11,12
+openstack/kayobe,openstack/magnum-ui,Non core,5.825242718446602,3.488372093023256,11,12
+openstack/kayobe,openstack/charm-specs,Core,1.0638297872340425,3.5398230088495577,1,5
+openstack/kayobe,openstack/charm-specs,Non core,0.0,0.8849557522123894,1,5
+openstack/kayobe,openstack/ceilometer-powervm,Core,2.4096385542168677,1.4814814814814816,3,5
+openstack/kayobe,openstack/ceilometer-powervm,Non core,1.2048192771084338,2.2222222222222223,3,5
+openstack/kayobe,openstack/sahara-dashboard,Core,2.9850746268656714,2.9940119760479043,6,8
+openstack/kayobe,openstack/sahara-dashboard,Non core,1.4925373134328357,1.7964071856287425,6,8
+openstack/kayobe,openstack/freezer-web-ui,Core,2.8301886792452833,3.3783783783783785,6,16
+openstack/kayobe,openstack/freezer-web-ui,Non core,2.8301886792452833,7.4324324324324325,6,16
+openstack/kayobe,openstack/neutron-fwaas-dashboard,Core,4.10958904109589,2.34375,4,11
+openstack/kayobe,openstack/neutron-fwaas-dashboard,Non core,1.36986301369863,6.25,4,11
+openstack/kayobe,openstack/neutron-vpnaas-dashboard,Core,4.225352112676056,2.7522935779816518,5,9
+openstack/kayobe,openstack/neutron-vpnaas-dashboard,Non core,2.8169014084507045,5.5045871559633035,5,9
+openstack/kayobe,openstack/zaqar,Core,1.2396694214876034,1.4450867052023122,6,15
+openstack/kayobe,openstack/zaqar,Non core,1.2396694214876034,2.8901734104046244,6,15
+openstack/kayobe,openstack/pycadf,Core,2.857142857142857,3.048780487804878,6,8
+openstack/kayobe,openstack/pycadf,Non core,2.857142857142857,1.8292682926829267,6,8
+openstack/kayobe,openstack/election,Core,3.508771929824561,3.076923076923077,13,14
+openstack/kayobe,openstack/election,Non core,0.29239766081871343,1.2307692307692308,13,14
+openstack/kayobe,openstack/openstack-ansible-os_tacker,Core,3.75,3.3057851239669422,6,12
+openstack/kayobe,openstack/openstack-ansible-os_tacker,Non core,3.75,6.6115702479338845,6,12
+openstack/kayobe,openstack/whitebox-tempest-plugin,Core,3.508771929824561,2.127659574468085,2,5
+openstack/kayobe,openstack/whitebox-tempest-plugin,Non core,0.0,3.1914893617021276,2,5
+openstack/kayobe,openstack/charm-ceph-osd,Core,1.0,1.680672268907563,1,4
+openstack/kayobe,openstack/charm-ceph-osd,Non core,0.0,1.680672268907563,1,4
+openstack/kayobe,openstack/osc-lib,Core,3.2520325203252036,4.093567251461988,5,12
+openstack/kayobe,openstack/osc-lib,Non core,0.8130081300813009,2.923976608187134,5,12
+openstack/kayobe,openstack/charm-magnum-dashboard,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-magnum-dashboard,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charms.ceph,Core,2.4390243902439024,2.8301886792452833,3,4
+openstack/kayobe,openstack/charms.ceph,Non core,1.2195121951219512,0.9433962264150944,3,4
+openstack/kayobe,openstack/python-troveclient,Core,2.13903743315508,1.3888888888888888,6,13
+openstack/kayobe,openstack/python-troveclient,Non core,1.06951871657754,3.125,6,13
+openstack/kayobe,openstack/release-test,Core,5.084745762711865,2.4096385542168677,5,3
+openstack/kayobe,openstack/release-test,Non core,3.389830508474576,1.2048192771084338,5,3
+openstack/kayobe,openstack/charm-layer-openstack,Core,1.4492753623188406,1.0638297872340425,1,2
+openstack/kayobe,openstack/charm-layer-openstack,Non core,0.0,1.0638297872340425,1,2
+openstack/kayobe,openstack/charm-layer-openstack-api,Core,1.694915254237288,0.0,1,0
+openstack/kayobe,openstack/charm-layer-openstack-api,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/cliff,Core,4.964539007092199,2.083333333333333,7,15
+openstack/kayobe,openstack/cliff,Non core,0.0,4.166666666666666,7,15
+openstack/kayobe,openstack/virtualbmc,Core,8.333333333333332,7.6923076923076925,9,14
+openstack/kayobe,openstack/virtualbmc,Non core,2.380952380952381,4.273504273504273,9,14
+openstack/kayobe,openstack/watcher-tempest-plugin,Core,4.411764705882353,3.7383177570093453,7,10
+openstack/kayobe,openstack/watcher-tempest-plugin,Non core,5.88235294117647,5.607476635514018,7,10
+openstack/kayobe,openstack/charm-nova-cloud-controller,Core,1.0101010101010102,1.6528925619834711,1,5
+openstack/kayobe,openstack/charm-nova-cloud-controller,Non core,0.0,2.479338842975207,1,5
+openstack/kayobe,openstack/devstack-gate,Core,1.4634146341463417,1.702127659574468,4,10
+openstack/kayobe,openstack/devstack-gate,Non core,0.4878048780487805,0.425531914893617,4,10
+openstack/kayobe,openstack/ansible-role-pki,Core,0.0,1.2195121951219512,0,1
+openstack/kayobe,openstack/ansible-role-pki,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/charm-masakari-monitors,Core,1.6129032258064515,1.1363636363636365,1,1
+openstack/kayobe,openstack/charm-masakari-monitors,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/networking-baremetal,Core,8.0,6.0344827586206895,10,13
+openstack/kayobe,openstack/networking-baremetal,Non core,5.333333333333334,5.172413793103448,10,13
+openstack/kayobe,openstack/reno,Core,5.0,1.9607843137254901,7,7
+openstack/kayobe,openstack/reno,Non core,2.0,2.6143790849673203,7,7
+openstack/kayobe,openstack/project-team-guide,Core,6.730769230769231,3.5398230088495577,7,12
+openstack/kayobe,openstack/project-team-guide,Non core,0.0,1.7699115044247788,7,12
+openstack/kayobe,openstack/ui-cookiecutter,Core,1.7241379310344827,2.1052631578947367,3,4
+openstack/kayobe,openstack/ui-cookiecutter,Non core,3.4482758620689653,2.1052631578947367,3,4
+openstack/kayobe,openstack/networking-odl,Core,1.6129032258064515,1.4749262536873156,8,18
+openstack/kayobe,openstack/networking-odl,Non core,2.6881720430107525,3.8348082595870205,8,18
+openstack/kayobe,openstack/monasca-agent,Core,2.6548672566371683,3.1446540880503147,9,17
+openstack/kayobe,openstack/monasca-agent,Non core,1.3274336283185841,2.20125786163522,9,17
+openstack/kayobe,openstack/shade,Core,2.684563758389262,2.232142857142857,5,11
+openstack/kayobe,openstack/shade,Non core,0.6711409395973155,2.6785714285714284,5,11
+openstack/kayobe,openstack/python-freezerclient,Core,2.127659574468085,5.511811023622047,6,16
+openstack/kayobe,openstack/python-freezerclient,Non core,4.25531914893617,7.086614173228346,6,16
+openstack/kayobe,openstack/js-openstack-lib,Core,1.6666666666666667,1.0101010101010102,1,2
+openstack/kayobe,openstack/js-openstack-lib,Non core,0.0,1.0101010101010102,1,2
+openstack/kayobe,openstack/rally,Core,1.2195121951219512,0.9090909090909091,10,13
+openstack/kayobe,openstack/rally,Non core,1.2195121951219512,1.4545454545454546,10,13
+openstack/kayobe,openstack/cinder-specs,Core,1.7647058823529411,1.392757660167131,6,12
+openstack/kayobe,openstack/cinder-specs,Non core,1.7647058823529411,1.9498607242339834,6,12
+openstack/kayobe,openstack/reviewday,Core,1.4285714285714286,0.9259259259259258,1,1
+openstack/kayobe,openstack/reviewday,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/freezer-api,Core,3.1746031746031744,3.1847133757961785,8,19
+openstack/kayobe,openstack/freezer-api,Non core,3.1746031746031744,8.9171974522293,8,19
+openstack/kayobe,openstack/networking-powervm,Core,2.4390243902439024,0.7352941176470588,2,5
+openstack/kayobe,openstack/networking-powervm,Non core,0.0,2.941176470588235,2,5
+openstack/kayobe,openstack/openstack-doc-tools,Core,4.310344827586207,2.9940119760479043,8,12
+openstack/kayobe,openstack/openstack-doc-tools,Non core,2.586206896551724,4.191616766467066,8,12
+openstack/kayobe,openstack/freezer,Core,2.793296089385475,2.7027027027027026,12,21
+openstack/kayobe,openstack/freezer,Non core,3.910614525139665,5.405405405405405,12,21
+openstack/kayobe,openstack/puppet-openstack-cookiecutter,Core,1.25,2.6785714285714284,2,6
+openstack/kayobe,openstack/puppet-openstack-cookiecutter,Non core,1.25,2.6785714285714284,2,6
+openstack/kayobe,openstack/zaqar-ui,Core,3.7037037037037033,3.389830508474576,7,12
+openstack/kayobe,openstack/zaqar-ui,Non core,4.938271604938271,6.779661016949152,7,12
+openstack/kayobe,openstack/oslo.concurrency,Core,2.3622047244094486,3.4682080924855487,7,16
+openstack/kayobe,openstack/oslo.concurrency,Non core,3.149606299212598,5.780346820809249,7,16
+openstack/kayobe,openstack/charm-octavia,Core,2.631578947368421,1.8867924528301887,2,6
+openstack/kayobe,openstack/charm-octavia,Non core,0.0,3.7735849056603774,2,6
+openstack/kayobe,openstack/charm-ironic-conductor,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ironic-conductor,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-neutron-api-plugin-ovn,Core,3.3333333333333335,0.0,2,1
+openstack/kayobe,openstack/charm-neutron-api-plugin-ovn,Non core,0.0,1.098901098901099,2,1
+openstack/kayobe,openstack/charm-octavia-dashboard,Core,1.5384615384615385,2.197802197802198,1,4
+openstack/kayobe,openstack/charm-octavia-dashboard,Non core,0.0,2.197802197802198,1,4
+openstack/kayobe,openstack/charm-masakari,Core,1.6129032258064515,1.0752688172043012,1,2
+openstack/kayobe,openstack/charm-masakari,Non core,0.0,1.0752688172043012,1,2
+openstack/kayobe,openstack/zun-ui,Core,3.9473684210526314,6.0606060606060606,8,12
+openstack/kayobe,openstack/zun-ui,Non core,6.578947368421052,3.0303030303030303,8,12
+openstack/kayobe,openstack/python-brick-cinderclient-ext,Core,4.545454545454546,3.0534351145038165,6,11
+openstack/kayobe,openstack/python-brick-cinderclient-ext,Non core,2.272727272727273,5.343511450381679,6,11
+openstack/kayobe,openstack/puppet-tacker,Core,2.7027027027027026,3.1578947368421053,4,9
+openstack/kayobe,openstack/puppet-tacker,Non core,2.7027027027027026,6.315789473684211,4,9
+openstack/kayobe,openstack/puppet-ec2api,Core,2.5,3.0,3,4
+openstack/kayobe,openstack/puppet-ec2api,Non core,1.25,1.0,3,4
+openstack/kayobe,openstack/puppet-mistral,Core,2.1052631578947367,1.9736842105263157,5,7
+openstack/kayobe,openstack/puppet-mistral,Non core,3.1578947368421053,2.631578947368421,5,7
+openstack/kayobe,openstack/puppet-oslo,Core,4.25531914893617,3.597122302158273,7,11
+openstack/kayobe,openstack/puppet-oslo,Non core,3.1914893617021276,4.316546762589928,7,11
+openstack/kayobe,openstack/puppet-manila,Core,1.5625,2.2222222222222223,3,9
+openstack/kayobe,openstack/puppet-manila,Non core,0.78125,2.7777777777777777,3,9
+openstack/kayobe,openstack/puppet-sahara,Core,1.8181818181818181,2.7777777777777777,4,12
+openstack/kayobe,openstack/puppet-sahara,Non core,1.8181818181818181,3.888888888888889,4,12
+openstack/kayobe,openstack/puppet-vswitch,Core,1.8867924528301887,1.7751479289940828,2,8
+openstack/kayobe,openstack/puppet-vswitch,Non core,0.0,2.9585798816568047,2,8
+openstack/kayobe,openstack/puppet-gnocchi,Core,1.7857142857142856,2.5806451612903225,4,7
+openstack/kayobe,openstack/puppet-gnocchi,Non core,1.7857142857142856,1.935483870967742,4,7
+openstack/kayobe,openstack/puppet-vitrage,Core,2.3529411764705883,3.4782608695652173,5,7
+openstack/kayobe,openstack/puppet-vitrage,Non core,3.5294117647058822,2.608695652173913,5,7
+openstack/kayobe,openstack/puppet-magnum,Core,2.2222222222222223,1.5151515151515151,4,4
+openstack/kayobe,openstack/puppet-magnum,Non core,2.2222222222222223,1.5151515151515151,4,4
+openstack/kayobe,openstack/puppet-rally,Core,2.73972602739726,2.9702970297029703,5,6
+openstack/kayobe,openstack/puppet-rally,Non core,4.10958904109589,2.9702970297029703,5,6
+openstack/kayobe,openstack/puppet-watcher,Core,2.4096385542168677,3.389830508474576,6,10
+openstack/kayobe,openstack/puppet-watcher,Non core,4.819277108433735,5.084745762711865,6,10
+openstack/kayobe,openstack/puppet-cloudkitty,Core,2.564102564102564,2.0202020202020203,4,5
+openstack/kayobe,openstack/puppet-cloudkitty,Non core,2.564102564102564,3.0303030303030303,4,5
+openstack/kayobe,openstack/puppet-placement,Core,3.1746031746031744,4.123711340206185,2,6
+openstack/kayobe,openstack/puppet-placement,Non core,0.0,2.0618556701030926,2,6
+openstack/kayobe,openstack/puppet-ceilometer,Core,1.342281879194631,2.4154589371980677,4,11
+openstack/kayobe,openstack/puppet-ceilometer,Non core,1.342281879194631,2.898550724637681,4,11
+openstack/kayobe,openstack/puppet-heat,Core,2.0408163265306123,0.91324200913242,4,5
+openstack/kayobe,openstack/puppet-heat,Non core,0.6802721088435374,1.36986301369863,4,5
+openstack/kayobe,openstack/puppet-cinder,Core,1.3574660633484164,1.8461538461538463,5,13
+openstack/kayobe,openstack/puppet-cinder,Non core,0.904977375565611,2.1538461538461537,5,13
+openstack/kayobe,openstack/puppet-barbican,Core,2.0408163265306123,3.597122302158273,3,10
+openstack/kayobe,openstack/puppet-barbican,Non core,1.0204081632653061,3.597122302158273,3,10
+openstack/kayobe,openstack/tenks,Core,17.543859649122805,12.5,12,13
+openstack/kayobe,openstack/tenks,Non core,3.508771929824561,3.75,12,13
+openstack/kayobe,openstack/charm-cinder-ceph,Core,1.25,1.9230769230769231,1,5
+openstack/kayobe,openstack/charm-cinder-ceph,Non core,0.0,2.8846153846153846,1,5
+openstack/kayobe,openstack/charm-heat,Core,1.2048192771084338,1.834862385321101,1,5
+openstack/kayobe,openstack/charm-heat,Non core,0.0,2.7522935779816518,1,5
+openstack/kayobe,openstack/charm-neutron-api-plugin-ironic,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-neutron-api-plugin-ironic,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-openstack-dashboard,Core,0.9345794392523363,1.7241379310344827,1,7
+openstack/kayobe,openstack/charm-openstack-dashboard,Non core,0.0,4.310344827586207,1,7
+openstack/kayobe,openstack/charm-keystone-kerberos,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-keystone-kerberos,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/python-keystoneclient,Core,1.639344262295082,1.7786561264822136,9,22
+openstack/kayobe,openstack/python-keystoneclient,Non core,1.3114754098360655,2.5691699604743086,9,22
+openstack/kayobe,openstack/charm-gnocchi,Core,1.3333333333333335,1.9047619047619049,1,2
+openstack/kayobe,openstack/charm-gnocchi,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/ironic-lib,Core,5.88235294117647,4.25531914893617,9,11
+openstack/kayobe,openstack/ironic-lib,Non core,1.680672268907563,1.5957446808510638,9,11
+openstack/kayobe,openstack/ovsdbapp,Core,4.166666666666666,4.225352112676056,6,15
+openstack/kayobe,openstack/ovsdbapp,Non core,2.083333333333333,6.338028169014084,6,15
+openstack/kayobe,openstack/python-octaviaclient,Core,2.0618556701030926,2.18978102189781,5,10
+openstack/kayobe,openstack/python-octaviaclient,Non core,3.0927835051546393,5.109489051094891,5,10
+openstack/kayobe,openstack/octavia-lib,Core,4.411764705882353,3.571428571428571,4,8
+openstack/kayobe,openstack/octavia-lib,Non core,1.4705882352941175,3.571428571428571,4,8
+openstack/kayobe,openstack/charm-neutron-gateway,Core,1.0204081632653061,1.694915254237288,1,5
+openstack/kayobe,openstack/charm-neutron-gateway,Non core,0.0,2.5423728813559325,1,5
+openstack/kayobe,openstack/charm-hacluster,Core,1.1363636363636365,1.8181818181818181,1,8
+openstack/kayobe,openstack/charm-hacluster,Non core,0.0,5.454545454545454,1,8
+openstack/kayobe,openstack/charm-manila,Core,2.7027027027027026,2.1052631578947367,2,4
+openstack/kayobe,openstack/charm-manila,Non core,0.0,2.1052631578947367,2,4
+openstack/kayobe,openstack/ironic-prometheus-exporter,Core,9.836065573770492,6.741573033707865,7,6
+openstack/kayobe,openstack/ironic-prometheus-exporter,Non core,1.639344262295082,0.0,7,6
+openstack/kayobe,openstack/charm-manila-netapp,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-manila-netapp,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-pacemaker-remote,Core,3.389830508474576,2.247191011235955,2,4
+openstack/kayobe,openstack/charm-pacemaker-remote,Non core,0.0,2.247191011235955,2,4
+openstack/kayobe,openstack/charm-glance-simplestreams-sync,Core,1.3333333333333335,2.083333333333333,2,4
+openstack/kayobe,openstack/charm-glance-simplestreams-sync,Non core,1.3333333333333335,2.083333333333333,2,4
+openstack/kayobe,openstack/oslo-specs,Core,2.459016393442623,2.8301886792452833,6,12
+openstack/kayobe,openstack/oslo-specs,Non core,2.459016393442623,0.9433962264150944,6,12
+openstack/kayobe,openstack/openstack-ansible-rsyslog_server,Core,3.3333333333333335,2.3622047244094486,7,11
+openstack/kayobe,openstack/openstack-ansible-rsyslog_server,Non core,4.444444444444445,6.299212598425196,7,11
+openstack/kayobe,openstack/openstack-ansible-rsyslog_client,Core,3.0303030303030303,3.225806451612903,5,13
+openstack/kayobe,openstack/openstack-ansible-rsyslog_client,Non core,2.0202020202020203,7.258064516129033,5,13
+openstack/kayobe,openstack/charm-cinder-backup,Core,1.4084507042253522,2.083333333333333,1,4
+openstack/kayobe,openstack/charm-cinder-backup,Non core,0.0,2.083333333333333,1,4
+openstack/kayobe,openstack/charm-cinder-backup-swift-proxy,Core,1.639344262295082,1.1363636363636365,1,1
+openstack/kayobe,openstack/charm-cinder-backup-swift-proxy,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/tripleo-ci-health-queries,Core,1.8867924528301887,1.1235955056179776,1,1
+openstack/kayobe,openstack/tripleo-ci-health-queries,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/castellan,Core,4.032258064516129,2.5380710659898478,7,10
+openstack/kayobe,openstack/castellan,Non core,1.6129032258064515,2.5380710659898478,7,10
+openstack/kayobe,openstack/kuryr,Core,2.2388059701492535,1.2448132780082988,7,14
+openstack/kayobe,openstack/kuryr,Non core,2.9850746268656714,4.564315352697095,7,14
+openstack/kayobe,openstack/masakari-monitors,Core,7.142857142857142,6.015037593984962,11,13
+openstack/kayobe,openstack/masakari-monitors,Non core,5.952380952380952,3.7593984962406015,11,13
+openstack/kayobe,openstack/adjutant,Core,4.477611940298507,4.301075268817205,6,10
+openstack/kayobe,openstack/adjutant,Non core,4.477611940298507,6.451612903225806,6,10
+openstack/kayobe,openstack/keystonemiddleware,Core,1.2422360248447204,2.564102564102564,4,14
+openstack/kayobe,openstack/keystonemiddleware,Non core,1.2422360248447204,2.564102564102564,4,14
+openstack/kayobe,openstack/charm-barbican-vault,Core,1.5151515151515151,2.1739130434782608,1,3
+openstack/kayobe,openstack/charm-barbican-vault,Non core,0.0,1.0869565217391304,1,3
+openstack/kayobe,openstack/charm-aodh,Core,2.7777777777777777,0.9708737864077669,2,1
+openstack/kayobe,openstack/charm-aodh,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/charm-keystone,Core,0.8547008547008548,0.7874015748031495,1,5
+openstack/kayobe,openstack/charm-keystone,Non core,0.0,3.149606299212598,1,5
+openstack/kayobe,openstack/charm-designate-bind,Core,1.2987012987012987,2.912621359223301,1,7
+openstack/kayobe,openstack/charm-designate-bind,Non core,0.0,3.8834951456310676,1,7
+openstack/kayobe,openstack/charm-magnum,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-magnum,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-manila-ganesha,Core,3.1746031746031744,1.1111111111111112,2,1
+openstack/kayobe,openstack/charm-manila-ganesha,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/ldappool,Core,1.4492753623188406,5.154639175257731,5,10
+openstack/kayobe,openstack/ldappool,Non core,5.797101449275362,5.154639175257731,5,10
+openstack/kayobe,openstack/charm-nova-compute-nvidia-vgpu,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-nova-compute-nvidia-vgpu,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-zuul-jobs,Core,0.0,0.0,0,2
+openstack/kayobe,openstack/charm-zuul-jobs,Non core,0.0,2.5316455696202533,0,2
+openstack/kayobe,openstack/charm-swift-storage,Core,2.2988505747126435,1.7391304347826086,2,6
+openstack/kayobe,openstack/charm-swift-storage,Non core,0.0,3.4782608695652173,2,6
+openstack/kayobe,openstack/charm-swift-proxy,Core,3.5294117647058822,1.8181818181818181,3,2
+openstack/kayobe,openstack/charm-swift-proxy,Non core,0.0,0.0,3,2
+openstack/kayobe,openstack/openstack-virtual-baremetal,Core,2.9850746268656714,1.8518518518518516,2,2
+openstack/kayobe,openstack/openstack-virtual-baremetal,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/charm-neutron-openvswitch,Core,2.0408163265306123,1.6666666666666667,2,6
+openstack/kayobe,openstack/charm-neutron-openvswitch,Non core,0.0,3.3333333333333335,2,6
+openstack/kayobe,openstack/kuryr-libnetwork,Core,2.857142857142857,3.1446540880503147,7,14
+openstack/kayobe,openstack/kuryr-libnetwork,Non core,3.8095238095238098,5.660377358490567,7,14
+openstack/kayobe,openstack/charm-placement,Core,3.389830508474576,1.098901098901099,2,1
+openstack/kayobe,openstack/charm-placement,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/cyborg,Core,2.564102564102564,3.5532994923857872,5,17
+openstack/kayobe,openstack/cyborg,Non core,1.7094017094017095,5.0761421319796955,5,17
+openstack/kayobe,openstack/charm-nova-cell-controller,Core,3.1746031746031744,1.098901098901099,2,3
+openstack/kayobe,openstack/charm-nova-cell-controller,Non core,0.0,2.197802197802198,2,3
+openstack/kayobe,openstack/charm-keystone-ldap,Core,2.8169014084507045,1.0,2,1
+openstack/kayobe,openstack/charm-keystone-ldap,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/charm-keystone-saml-mellon,Core,1.5625,2.083333333333333,1,5
+openstack/kayobe,openstack/charm-keystone-saml-mellon,Non core,0.0,3.125,1,5
+openstack/kayobe,openstack/charm-manila-generic,Core,2.898550724637681,3.225806451612903,2,5
+openstack/kayobe,openstack/charm-manila-generic,Non core,0.0,2.1505376344086025,2,5
+openstack/kayobe,openstack/charm-manila-dashboard,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-manila-dashboard,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ironic-api,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ironic-api,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-cinder-netapp,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-cinder-netapp,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ceilometer,Core,1.1494252873563218,1.8518518518518516,1,4
+openstack/kayobe,openstack/charm-ceilometer,Non core,0.0,1.8518518518518516,1,4
+openstack/kayobe,openstack/charm-keystone-openidc,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-keystone-openidc,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-mysql-router,Core,3.0303030303030303,0.0,2,0
+openstack/kayobe,openstack/charm-mysql-router,Non core,0.0,0.0,2,0
+openstack/kayobe,openstack/rally-openstack,Core,5.714285714285714,3.79746835443038,10,9
+openstack/kayobe,openstack/rally-openstack,Non core,3.8095238095238098,1.89873417721519,10,9
+openstack/kayobe,openstack/os-win,Core,3.125,4.0,5,9
+openstack/kayobe,openstack/os-win,Non core,2.083333333333333,3.2,5,9
+openstack/kayobe,openstack/python-neutronclient,Core,1.13314447592068,0.6042296072507553,8,14
+openstack/kayobe,openstack/python-neutronclient,Non core,1.13314447592068,1.5105740181268883,8,14
+openstack/kayobe,openstack/sushy-tools,Core,6.41025641025641,6.363636363636363,8,16
+openstack/kayobe,openstack/sushy-tools,Non core,3.8461538461538463,8.181818181818182,8,16
+openstack/kayobe,openstack/charm-ceilometer-agent,Core,2.666666666666667,2.0202020202020203,2,5
+openstack/kayobe,openstack/charm-ceilometer-agent,Non core,0.0,3.0303030303030303,2,5
+openstack/kayobe,openstack/charm-barbican,Core,1.3513513513513513,2.0618556701030926,1,5
+openstack/kayobe,openstack/charm-barbican,Non core,0.0,3.0927835051546393,1,5
+openstack/kayobe,openstack/charm-octavia-diskimage-retrofit,Core,1.5625,0.0,1,2
+openstack/kayobe,openstack/charm-octavia-diskimage-retrofit,Non core,0.0,2.1505376344086025,1,2
+openstack/kayobe,openstack/ansible-role-redhat-subscription,Core,2.9850746268656714,0.9615384615384616,4,4
+openstack/kayobe,openstack/ansible-role-redhat-subscription,Non core,2.9850746268656714,2.8846153846153846,4,4
+openstack/kayobe,openstack/oslo.db,Core,2.197802197802198,2.0,8,18
+openstack/kayobe,openstack/oslo.db,Non core,2.197802197802198,4.0,8,18
+openstack/kayobe,openstack/tripleo-repos,Core,3.571428571428571,1.5151515151515151,8,9
+openstack/kayobe,openstack/tripleo-repos,Non core,5.952380952380952,5.303030303030303,8,9
+openstack/kayobe,openstack/openstack-ansible-os_mistral,Core,4.615384615384616,2.1052631578947367,3,7
+openstack/kayobe,openstack/openstack-ansible-os_mistral,Non core,0.0,5.263157894736842,3,7
+openstack/kayobe,openstack/oswin-tempest-plugin,Core,3.125,4.938271604938271,5,6
+openstack/kayobe,openstack/oswin-tempest-plugin,Non core,4.6875,2.4691358024691357,5,6
+openstack/kayobe,openstack/pymod2pkg,Core,4.444444444444445,4.615384615384616,4,12
+openstack/kayobe,openstack/pymod2pkg,Non core,0.0,4.615384615384616,4,12
+openstack/kayobe,openstack/large-scale,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/large-scale,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/neutron-fwaas,Core,1.0050251256281406,1.5957446808510638,5,19
+openstack/kayobe,openstack/neutron-fwaas,Non core,1.507537688442211,3.4574468085106385,5,19
+openstack/kayobe,openstack/python-tackerclient,Core,2.684563758389262,2.1164021164021163,7,16
+openstack/kayobe,openstack/python-tackerclient,Non core,2.013422818791946,6.349206349206349,7,16
+openstack/kayobe,openstack/charm-cinder-nimblestorage,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-cinder-nimblestorage,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/metalsmith,Core,7.8125,6.9306930693069315,9,11
+openstack/kayobe,openstack/metalsmith,Non core,6.25,3.9603960396039604,9,11
+openstack/kayobe,openstack/openstack-ansible-os_murano,Core,3.6363636363636362,2.3255813953488373,2,2
+openstack/kayobe,openstack/openstack-ansible-os_murano,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/kuryr-tempest-plugin,Core,4.166666666666666,4.62962962962963,5,14
+openstack/kayobe,openstack/kuryr-tempest-plugin,Non core,2.7777777777777777,8.333333333333332,5,14
+openstack/kayobe,openstack/networking-sfc,Core,1.4388489208633095,1.4336917562724014,5,13
+openstack/kayobe,openstack/networking-sfc,Non core,2.158273381294964,3.225806451612903,5,13
+openstack/kayobe,openstack/charm-cinder-three-par,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-cinder-three-par,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/cyborg-tempest-plugin,Core,2.73972602739726,2.912621359223301,3,5
+openstack/kayobe,openstack/cyborg-tempest-plugin,Non core,1.36986301369863,1.9417475728155338,3,5
+openstack/kayobe,openstack/charm-ceph-iscsi,Core,0.0,0.0,0,1
+openstack/kayobe,openstack/charm-ceph-iscsi,Non core,0.0,1.1363636363636365,0,1
+openstack/kayobe,openstack/charm-cinder-solidfire,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-cinder-solidfire,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/puppet-qdr,Core,2.7777777777777777,1.0309278350515463,5,5
+openstack/kayobe,openstack/puppet-qdr,Non core,4.166666666666666,4.123711340206185,5,5
+openstack/kayobe,openstack/vitrage-tempest-plugin,Core,3.896103896103896,1.0309278350515463,7,7
+openstack/kayobe,openstack/vitrage-tempest-plugin,Non core,5.194805194805195,6.185567010309279,7,7
+openstack/kayobe,openstack/tripleo-specs,Core,2.18978102189781,1.9607843137254901,5,13
+openstack/kayobe,openstack/tripleo-specs,Non core,1.4598540145985401,1.680672268907563,5,13
+openstack/kayobe,openstack/charm-neutron-api-plugin-arista,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-neutron-api-plugin-arista,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ceph-fs,Core,2.8169014084507045,2.127659574468085,2,4
+openstack/kayobe,openstack/charm-ceph-fs,Non core,0.0,2.127659574468085,2,4
+openstack/kayobe,openstack/stevedore,Core,5.208333333333334,3.1446540880503147,7,8
+openstack/kayobe,openstack/stevedore,Non core,2.083333333333333,1.8867924528301887,7,8
+openstack/kayobe,openstack/charm-ceph-proxy,Core,1.36986301369863,1.9230769230769231,1,4
+openstack/kayobe,openstack/charm-ceph-proxy,Non core,0.0,1.9230769230769231,1,4
+openstack/kayobe,openstack/charm-cloudkitty,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-cloudkitty,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ops-openstack,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ops-openstack,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/zun-tempest-plugin,Core,6.25,4.081632653061225,8,8
+openstack/kayobe,openstack/zun-tempest-plugin,Non core,6.25,4.081632653061225,8,8
+openstack/kayobe,openstack/storlets,Core,2.9702970297029703,3.0534351145038165,6,10
+openstack/kayobe,openstack/storlets,Non core,2.9702970297029703,4.580152671755725,6,10
+openstack/kayobe,openstack/training-guides,Core,3.149606299212598,2.083333333333333,6,11
+openstack/kayobe,openstack/training-guides,Non core,1.574803149606299,3.6458333333333335,6,11
+openstack/kayobe,openstack/openstack-ansible-plugins,Core,1.7857142857142856,1.9867549668874174,5,12
+openstack/kayobe,openstack/openstack-ansible-plugins,Non core,2.6785714285714284,5.960264900662252,5,12
+openstack/kayobe,openstack/python-muranoclient,Core,2.484472049689441,1.4423076923076923,10,11
+openstack/kayobe,openstack/python-muranoclient,Non core,3.7267080745341614,3.8461538461538463,10,11
+openstack/kayobe,openstack/solum-dashboard,Core,3.6585365853658534,2.5,7,7
+openstack/kayobe,openstack/solum-dashboard,Non core,4.878048780487805,3.3333333333333335,7,7
+openstack/kayobe,openstack/python-solumclient,Core,2.857142857142857,2.9850746268656714,5,11
+openstack/kayobe,openstack/python-solumclient,Non core,1.9047619047619049,5.223880597014925,5,11
+openstack/kayobe,openstack/solum-tempest-plugin,Core,3.571428571428571,3.79746835443038,5,7
+openstack/kayobe,openstack/solum-tempest-plugin,Non core,5.357142857142857,5.063291139240507,5,7
+openstack/kayobe,openstack/murano-tempest-plugin,Core,3.3333333333333335,2.380952380952381,5,6
+openstack/kayobe,openstack/murano-tempest-plugin,Non core,5.0,4.761904761904762,5,6
+openstack/kayobe,openstack/heat-translator,Core,2.272727272727273,2.857142857142857,7,12
+openstack/kayobe,openstack/heat-translator,Non core,3.0303030303030303,4.0,7,12
+openstack/kayobe,openstack/tosca-parser,Core,2.8301886792452833,2.097902097902098,7,11
+openstack/kayobe,openstack/tosca-parser,Non core,3.7735849056603774,5.594405594405594,7,11
+openstack/kayobe,openstack/tacker-horizon,Core,3.0927835051546393,2.6143790849673203,3,15
+openstack/kayobe,openstack/tacker-horizon,Non core,0.0,7.18954248366013,3,15
+openstack/kayobe,openstack/ironic-python-agent-builder,Core,6.329113924050633,6.557377049180328,8,18
+openstack/kayobe,openstack/ironic-python-agent-builder,Non core,3.79746835443038,8.19672131147541,8,18
+openstack/kayobe,openstack/ansible-role-systemd_networkd,Core,4.477611940298507,3.0927835051546393,5,8
+openstack/kayobe,openstack/ansible-role-systemd_networkd,Non core,2.9850746268656714,5.154639175257731,5,8
+openstack/kayobe,openstack/ansible-role-systemd_service,Core,4.3478260869565215,2.0618556701030926,5,7
+openstack/kayobe,openstack/ansible-role-systemd_service,Non core,2.898550724637681,5.154639175257731,5,7
+openstack/kayobe,openstack/openstack-ansible-os_keystone,Core,2.9850746268656714,2.7472527472527473,9,16
+openstack/kayobe,openstack/openstack-ansible-os_keystone,Non core,3.731343283582089,6.043956043956044,9,16
+openstack/kayobe,openstack/ansible-role-chrony,Core,1.6666666666666667,2.197802197802198,3,4
+openstack/kayobe,openstack/ansible-role-chrony,Non core,3.3333333333333335,2.197802197802198,3,4
+openstack/kayobe,openstack/cloudkitty-tempest-plugin,Core,4.545454545454546,4.301075268817205,5,11
+openstack/kayobe,openstack/cloudkitty-tempest-plugin,Non core,3.0303030303030303,7.526881720430108,5,11
+openstack/kayobe,openstack/oslo.config,Core,2.336448598130841,2.2284122562674096,7,21
+openstack/kayobe,openstack/oslo.config,Non core,0.9345794392523363,3.6211699164345403,7,21
+openstack/kayobe,openstack/senlin-tempest-plugin,Core,4.477611940298507,4.081632653061225,5,13
+openstack/kayobe,openstack/senlin-tempest-plugin,Non core,2.9850746268656714,9.183673469387756,5,13
+openstack/kayobe,openstack/heat-tempest-plugin,Core,2.7777777777777777,3.6363636363636362,2,8
+openstack/kayobe,openstack/heat-tempest-plugin,Non core,0.0,3.6363636363636362,2,8
+openstack/kayobe,openstack/freezer-tempest-plugin,Core,3.0303030303030303,4.3478260869565215,5,11
+openstack/kayobe,openstack/freezer-tempest-plugin,Non core,4.545454545454546,7.608695652173914,5,11
+openstack/kayobe,openstack/monasca-tempest-plugin,Core,8.695652173913043,5.825242718446602,10,10
+openstack/kayobe,openstack/monasca-tempest-plugin,Non core,5.797101449275362,3.8834951456310676,10,10
+openstack/kayobe,openstack/stackviz,Core,3.896103896103896,4.854368932038835,4,11
+openstack/kayobe,openstack/stackviz,Non core,1.2987012987012987,5.825242718446602,4,11
+openstack/kayobe,openstack/kayobe-config-dev,Core,16.3265306122449,15.789473684210526,11,15
+openstack/kayobe,openstack/kayobe-config-dev,Non core,6.122448979591836,3.9473684210526314,11,15
+openstack/kayobe,openstack/pbr,Core,2.666666666666667,3.319502074688797,5,14
+openstack/kayobe,openstack/pbr,Non core,0.6666666666666667,2.4896265560165975,5,14
+openstack/kayobe,openstack/oslo.cache,Core,4.424778761061947,3.9800995024875623,7,17
+openstack/kayobe,openstack/oslo.cache,Non core,1.7699115044247788,4.477611940298507,7,17
+openstack/kayobe,openstack/charm-ceph-rbd-mirror,Core,1.5384615384615385,1.1111111111111112,1,4
+openstack/kayobe,openstack/charm-ceph-rbd-mirror,Non core,0.0,3.3333333333333335,1,4
+openstack/kayobe,openstack/ansible-config_template,Core,2.666666666666667,1.680672268907563,5,7
+openstack/kayobe,openstack/ansible-config_template,Non core,4.0,4.201680672268908,5,7
+openstack/kayobe,openstack/designate-dashboard,Core,2.803738317757009,2.941176470588235,5,12
+openstack/kayobe,openstack/designate-dashboard,Non core,1.8691588785046727,4.117647058823529,5,12
+openstack/kayobe,openstack/charm-interface-cinder-backend,Core,1.8518518518518516,1.2345679012345678,1,1
+openstack/kayobe,openstack/charm-interface-cinder-backend,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/cyborg-specs,Core,2.898550724637681,3.418803418803419,4,12
+openstack/kayobe,openstack/cyborg-specs,Non core,2.898550724637681,6.837606837606838,4,12
+openstack/kayobe,openstack/python-mistralclient,Core,2.631578947368421,1.7777777777777777,10,12
+openstack/kayobe,openstack/python-mistralclient,Non core,3.9473684210526314,3.5555555555555554,10,12
+openstack/kayobe,openstack/ha-guide,Core,1.9801980198019802,1.1428571428571428,5,8
+openstack/kayobe,openstack/ha-guide,Non core,2.9702970297029703,3.428571428571429,5,8
+openstack/kayobe,openstack/watcher,Core,2.336448598130841,2.083333333333333,11,18
+openstack/kayobe,openstack/watcher,Non core,2.803738317757009,4.166666666666666,11,18
+openstack/kayobe,openstack/openstack-ansible-os_cloudkitty,Core,4.444444444444445,4.201680672268908,8,10
+openstack/kayobe,openstack/openstack-ansible-os_cloudkitty,Non core,4.444444444444445,4.201680672268908,8,10
+openstack/kayobe,openstack/openstack-ansible-os_cinder,Core,2.158273381294964,3.314917127071823,6,18
+openstack/kayobe,openstack/openstack-ansible-os_cinder,Non core,2.158273381294964,6.629834254143646,6,18
+openstack/kayobe,openstack/openstack-health,Core,2.272727272727273,2.684563758389262,6,14
+openstack/kayobe,openstack/openstack-health,Non core,4.545454545454546,6.7114093959731544,6,14
+openstack/kayobe,openstack/openstack-ansible-os_swift,Core,3.2,2.515723270440252,7,13
+openstack/kayobe,openstack/openstack-ansible-os_swift,Non core,2.4,5.660377358490567,7,13
+openstack/kayobe,openstack/masakari-specs,Core,6.0606060606060606,3.7037037037037033,5,8
+openstack/kayobe,openstack/masakari-specs,Non core,1.5151515151515151,3.7037037037037033,5,8
+openstack/kayobe,openstack/telemetry-specs,Core,1.834862385321101,1.0582010582010581,2,2
+openstack/kayobe,openstack/telemetry-specs,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/osprofiler,Core,2.380952380952381,1.7543859649122806,6,14
+openstack/kayobe,openstack/osprofiler,Non core,2.380952380952381,6.432748538011696,6,14
+openstack/kayobe,openstack/openstack-ansible-os_trove,Core,2.0408163265306123,3.10077519379845,5,12
+openstack/kayobe,openstack/openstack-ansible-os_trove,Non core,3.061224489795918,6.2015503875969,5,12
+openstack/kayobe,openstack/openstack-ansible-os_manila,Core,3.0303030303030303,3.061224489795918,4,5
+openstack/kayobe,openstack/openstack-ansible-os_manila,Non core,3.0303030303030303,2.0408163265306123,4,5
+openstack/kayobe,openstack/ansible-hardening,Core,3.6585365853658534,3.1746031746031744,5,8
+openstack/kayobe,openstack/ansible-hardening,Non core,2.4390243902439024,3.1746031746031744,5,8
+openstack/kayobe,openstack/barbican-specs,Core,1.0752688172043012,1.910828025477707,4,4
+openstack/kayobe,openstack/barbican-specs,Non core,3.225806451612903,0.6369426751592357,4,4
+openstack/kayobe,openstack/python-heatclient,Core,1.36986301369863,1.7094017094017095,7,18
+openstack/kayobe,openstack/python-heatclient,Non core,1.82648401826484,3.418803418803419,7,18
+openstack/kayobe,openstack/oslo.versionedobjects,Core,2.1739130434782608,2.5510204081632653,4,11
+openstack/kayobe,openstack/oslo.versionedobjects,Non core,0.7246376811594203,3.061224489795918,4,11
+openstack/kayobe,openstack/os-api-ref,Core,3.4482758620689653,3.278688524590164,6,9
+openstack/kayobe,openstack/os-api-ref,Non core,3.4482758620689653,4.098360655737705,6,9
+openstack/kayobe,openstack/devstack-plugin-container,Core,3.125,1.0204081632653061,2,1
+openstack/kayobe,openstack/devstack-plugin-container,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/venus-dashboard,Core,0.0,1.1904761904761905,0,1
+openstack/kayobe,openstack/venus-dashboard,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/manila-ui,Core,1.7241379310344827,2.312138728323699,8,11
+openstack/kayobe,openstack/manila-ui,Non core,5.172413793103448,4.046242774566474,8,11
+openstack/kayobe,openstack/devstack-plugin-nfs,Core,3.571428571428571,5.263157894736842,2,6
+openstack/kayobe,openstack/devstack-plugin-nfs,Non core,0.0,1.0526315789473684,2,6
+openstack/kayobe,openstack/taskflow,Core,2.0408163265306123,3.070175438596491,4,12
+openstack/kayobe,openstack/taskflow,Non core,0.6802721088435374,2.1929824561403506,4,12
+openstack/kayobe,openstack/python-cyborgclient,Core,4.225352112676056,6.363636363636363,6,11
+openstack/kayobe,openstack/python-cyborgclient,Non core,4.225352112676056,3.6363636363636362,6,11
+openstack/kayobe,openstack/zun,Core,2.272727272727273,2.788844621513944,11,16
+openstack/kayobe,openstack/zun,Non core,3.977272727272727,3.5856573705179287,11,16
+openstack/kayobe,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-openstack-loadbalancer,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/ansible-role-python_venv_build,Core,4.10958904109589,2.727272727272727,4,8
+openstack/kayobe,openstack/ansible-role-python_venv_build,Non core,1.36986301369863,4.545454545454546,4,8
+openstack/kayobe,openstack/mistral-dashboard,Core,2.8846153846153846,0.6756756756756757,5,9
+openstack/kayobe,openstack/mistral-dashboard,Non core,1.9230769230769231,5.405405405405405,5,9
+openstack/kayobe,openstack/mistral-lib,Core,3.7037037037037033,2.5,8,11
+openstack/kayobe,openstack/mistral-lib,Non core,6.172839506172839,6.666666666666667,8,11
+openstack/kayobe,openstack/monasca-events-api,Core,3.076923076923077,2.9702970297029703,6,9
+openstack/kayobe,openstack/monasca-events-api,Non core,6.153846153846154,5.9405940594059405,6,9
+openstack/kayobe,openstack/python-zaqarclient,Core,1.4492753623188406,1.6483516483516485,2,11
+openstack/kayobe,openstack/python-zaqarclient,Non core,0.0,4.395604395604396,2,11
+openstack/kayobe,openstack/monasca-api,Core,3.508771929824561,4.016064257028113,8,19
+openstack/kayobe,openstack/monasca-api,Non core,1.1695906432748537,3.614457831325301,8,19
+openstack/kayobe,openstack/monasca-persister,Core,5.5045871559633035,4.142011834319527,10,17
+openstack/kayobe,openstack/monasca-persister,Non core,3.669724770642202,5.9171597633136095,10,17
+openstack/kayobe,openstack/monasca-notification,Core,4.385964912280701,4.878048780487805,8,12
+openstack/kayobe,openstack/monasca-notification,Non core,2.631578947368421,2.4390243902439024,8,12
+openstack/kayobe,openstack/python-saharaclient,Core,2.941176470588235,1.5789473684210527,6,10
+openstack/kayobe,openstack/python-saharaclient,Non core,1.4705882352941175,3.684210526315789,6,10
+openstack/kayobe,openstack/charm-magpie,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-magpie,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/openstack-ansible-os_placement,Core,4.615384615384616,2.0408163265306123,5,6
+openstack/kayobe,openstack/openstack-ansible-os_placement,Non core,3.076923076923077,4.081632653061225,5,6
+openstack/kayobe,openstack/openstackdocstheme,Core,2.6548672566371683,3.4090909090909087,4,7
+openstack/kayobe,openstack/openstackdocstheme,Non core,0.8849557522123894,0.5681818181818182,4,7
+openstack/kayobe,openstack/sahara,Core,1.9543973941368076,1.4184397163120568,11,16
+openstack/kayobe,openstack/sahara,Non core,1.6286644951140066,2.3640661938534278,11,16
+openstack/kayobe,openstack/ironic-ui,Core,5.05050505050505,4.895104895104895,9,13
+openstack/kayobe,openstack/ironic-ui,Non core,4.040404040404041,4.195804195804196,9,13
+openstack/kayobe,openstack/oslo.serialization,Core,2.7522935779816518,3.79746835443038,7,14
+openstack/kayobe,openstack/oslo.serialization,Non core,3.669724770642202,5.063291139240507,7,14
+openstack/kayobe,openstack/oslo.context,Core,4.040404040404041,2.4096385542168677,7,9
+openstack/kayobe,openstack/oslo.context,Non core,3.0303030303030303,3.0120481927710845,7,9
+openstack/kayobe,openstack/oslo.limit,Core,4.054054054054054,6.363636363636363,9,12
+openstack/kayobe,openstack/oslo.limit,Non core,8.108108108108109,4.545454545454546,9,12
+openstack/kayobe,openstack/oslo.middleware,Core,3.225806451612903,3.2085561497326207,7,11
+openstack/kayobe,openstack/oslo.middleware,Non core,2.4193548387096775,2.6737967914438503,7,11
+openstack/kayobe,openstack/oslo.reports,Core,3.5294117647058822,4.285714285714286,8,15
+openstack/kayobe,openstack/oslo.reports,Non core,5.88235294117647,6.428571428571428,8,15
+openstack/kayobe,openstack/futurist,Core,3.4090909090909087,1.550387596899225,5,8
+openstack/kayobe,openstack/futurist,Non core,2.272727272727273,4.651162790697675,5,8
+openstack/kayobe,openstack/oslo.i18n,Core,2.8846153846153846,3.7037037037037033,6,14
+openstack/kayobe,openstack/oslo.i18n,Non core,2.8846153846153846,4.938271604938271,6,14
+openstack/kayobe,openstack/sushy-oem-idrac,Core,1.7543859649122806,4.2105263157894735,1,4
+openstack/kayobe,openstack/sushy-oem-idrac,Non core,0.0,0.0,1,4
+openstack/kayobe,openstack/python-dracclient,Core,4.878048780487805,4.615384615384616,6,13
+openstack/kayobe,openstack/python-dracclient,Non core,2.4390243902439024,5.384615384615385,6,13
+openstack/kayobe,openstack/openstack-ansible-os_adjutant,Core,1.8181818181818181,1.1764705882352942,1,1
+openstack/kayobe,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/openstack-ansible-os_masakari,Core,4.0,3.4782608695652173,7,11
+openstack/kayobe,openstack/openstack-ansible-os_masakari,Non core,5.333333333333334,6.086956521739131,7,11
+openstack/kayobe,openstack/ansible-role-systemd_mount,Core,4.6875,3.1914893617021276,5,7
+openstack/kayobe,openstack/ansible-role-systemd_mount,Non core,3.125,4.25531914893617,5,7
+openstack/kayobe,openstack/python-senlinclient,Core,2.2388059701492535,3.6809815950920246,7,18
+openstack/kayobe,openstack/python-senlinclient,Non core,2.9850746268656714,7.361963190184049,7,18
+openstack/kayobe,openstack/senlin-dashboard,Core,4.040404040404041,3.2679738562091507,7,13
+openstack/kayobe,openstack/senlin-dashboard,Non core,3.0303030303030303,5.228758169934641,7,13
+openstack/kayobe,openstack/networking-generic-switch,Core,9.0,7.913669064748201,13,15
+openstack/kayobe,openstack/networking-generic-switch,Non core,4.0,2.877697841726619,13,15
+openstack/kayobe,openstack/sahara-image-elements,Core,1.7699115044247788,0.0,3,2
+openstack/kayobe,openstack/sahara-image-elements,Non core,0.8849557522123894,1.2658227848101267,3,2
+openstack/kayobe,openstack/ansible-role-thales-hsm,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/ansible-role-thales-hsm,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/ansible-role-atos-hsm,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/ansible-role-atos-hsm,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/adjutant-ui,Core,5.263157894736842,4.49438202247191,4,5
+openstack/kayobe,openstack/adjutant-ui,Non core,1.7543859649122806,1.1235955056179776,4,5
+openstack/kayobe,openstack/sahara-extra,Core,2.3255813953488373,1.5625,5,4
+openstack/kayobe,openstack/sahara-extra,Non core,3.488372093023256,1.5625,5,4
+openstack/kayobe,openstack/blazar-nova,Core,3.8461538461538463,4.0650406504065035,4,10
+openstack/kayobe,openstack/blazar-nova,Non core,1.282051282051282,4.0650406504065035,4,10
+openstack/kayobe,openstack/oslo.service,Core,2.9629629629629632,4.522613065326634,7,19
+openstack/kayobe,openstack/oslo.service,Non core,2.2222222222222223,5.025125628140704,7,19
+openstack/kayobe,openstack/blazar-dashboard,Core,7.575757575757576,6.363636363636363,8,18
+openstack/kayobe,openstack/blazar-dashboard,Non core,4.545454545454546,10.0,8,18
+openstack/kayobe,openstack/paunch,Core,4.395604395604396,2.8901734104046244,7,12
+openstack/kayobe,openstack/paunch,Non core,3.296703296703297,4.046242774566474,7,12
+openstack/kayobe,openstack/service-types-authority,Core,1.4492753623188406,2.898550724637681,2,4
+openstack/kayobe,openstack/service-types-authority,Non core,1.4492753623188406,0.0,2,4
+openstack/kayobe,openstack/python-ironic-inspector-client,Core,9.090909090909092,5.594405594405594,10,16
+openstack/kayobe,openstack/python-ironic-inspector-client,Non core,2.272727272727273,5.594405594405594,10,16
+openstack/kayobe,openstack/openstack-ansible-memcached_server,Core,3.3333333333333335,1.5625,7,8
+openstack/kayobe,openstack/openstack-ansible-memcached_server,Non core,4.444444444444445,4.6875,7,8
+openstack/kayobe,openstack/os-testr,Core,3.1914893617021276,2.7027027027027026,5,12
+openstack/kayobe,openstack/os-testr,Non core,2.127659574468085,5.405405405405405,5,12
+openstack/kayobe,openstack/openstack-ansible-ceph_client,Core,3.1578947368421053,2.1739130434782608,7,10
+openstack/kayobe,openstack/openstack-ansible-ceph_client,Non core,4.2105263157894735,5.072463768115942,7,10
+openstack/kayobe,openstack/openstack-ansible-os_magnum,Core,3.0,3.4722222222222223,6,12
+openstack/kayobe,openstack/openstack-ansible-os_magnum,Non core,3.0,4.861111111111112,6,12
+openstack/kayobe,openstack/openstack-ansible-os_blazar,Core,4.10958904109589,4.62962962962963,7,11
+openstack/kayobe,openstack/openstack-ansible-os_blazar,Non core,5.47945205479452,5.555555555555555,7,11
+openstack/kayobe,openstack/openstack-ansible-os_designate,Core,2.857142857142857,3.3557046979865772,6,14
+openstack/kayobe,openstack/openstack-ansible-os_designate,Non core,2.857142857142857,6.0402684563758395,6,14
+openstack/kayobe,openstack/openstack-ansible-os_gnocchi,Core,2.9702970297029703,2.941176470588235,8,11
+openstack/kayobe,openstack/openstack-ansible-os_gnocchi,Non core,4.9504950495049505,5.147058823529411,8,11
+openstack/kayobe,openstack/openstack-ansible-os_senlin,Core,1.8867924528301887,1.1904761904761905,1,3
+openstack/kayobe,openstack/openstack-ansible-os_senlin,Non core,0.0,2.380952380952381,1,3
+openstack/kayobe,openstack/ptgbot,Core,3.1746031746031744,3.0,2,4
+openstack/kayobe,openstack/ptgbot,Non core,0.0,1.0,2,4
+openstack/kayobe,openstack/openstack-ansible-os_zun,Core,2.73972602739726,4.807692307692308,6,11
+openstack/kayobe,openstack/openstack-ansible-os_zun,Non core,5.47945205479452,5.769230769230769,6,11
+openstack/kayobe,openstack/openstack-ansible-repo_server,Core,2.9702970297029703,2.054794520547945,6,7
+openstack/kayobe,openstack/openstack-ansible-repo_server,Non core,2.9702970297029703,2.73972602739726,6,7
+openstack/kayobe,openstack/python-watcherclient,Core,1.5625,4.225352112676056,6,16
+openstack/kayobe,openstack/python-watcherclient,Non core,3.125,7.042253521126761,6,16
+openstack/kayobe,openstack/heat-agents,Core,3.571428571428571,3.289473684210526,4,11
+openstack/kayobe,openstack/heat-agents,Non core,1.1904761904761905,3.9473684210526314,4,11
+openstack/kayobe,openstack/oslo.rootwrap,Core,2.586206896551724,2.7624309392265194,7,13
+openstack/kayobe,openstack/oslo.rootwrap,Non core,3.4482758620689653,4.41988950276243,7,13
+openstack/kayobe,openstack/automaton,Core,3.9473684210526314,2.6785714285714284,6,8
+openstack/kayobe,openstack/automaton,Non core,3.9473684210526314,4.464285714285714,6,8
+openstack/kayobe,openstack/debtcollector,Core,4.49438202247191,2.7027027027027026,5,8
+openstack/kayobe,openstack/debtcollector,Non core,1.1235955056179776,4.504504504504505,5,8
+openstack/kayobe,openstack/vitrage-dashboard,Core,1.8181818181818181,3.787878787878788,7,13
+openstack/kayobe,openstack/vitrage-dashboard,Non core,4.545454545454546,6.0606060606060606,7,13
+openstack/kayobe,openstack/oslotest,Core,3.8461538461538463,3.289473684210526,7,13
+openstack/kayobe,openstack/oslotest,Non core,2.8846153846153846,5.263157894736842,7,13
+openstack/kayobe,openstack/kayobe-config,Core,18.367346938775512,12.0,12,9
+openstack/kayobe,openstack/kayobe-config,Non core,6.122448979591836,0.0,12,9
+openstack/kayobe,openstack/compute-hyperv,Core,2.5316455696202533,3.7383177570093453,5,10
+openstack/kayobe,openstack/compute-hyperv,Non core,3.79746835443038,5.607476635514018,5,10
+openstack/kayobe,openstack/python-cloudkittyclient,Core,3.8834951456310676,4.580152671755725,9,16
+openstack/kayobe,openstack/python-cloudkittyclient,Non core,4.854368932038835,7.633587786259542,9,16
+openstack/kayobe,openstack/charm-interface-keystone,Core,3.225806451612903,1.1235955056179776,3,4
+openstack/kayobe,openstack/charm-interface-keystone,Non core,1.6129032258064515,3.3707865168539324,3,4
+openstack/kayobe,openstack/cloudkitty-dashboard,Core,4.49438202247191,5.072463768115942,8,15
+openstack/kayobe,openstack/cloudkitty-dashboard,Non core,4.49438202247191,5.797101449275362,8,15
+openstack/kayobe,openstack/networking-hyperv,Core,3.0927835051546393,4.310344827586207,6,12
+openstack/kayobe,openstack/networking-hyperv,Non core,3.0927835051546393,6.0344827586206895,6,12
+openstack/kayobe,openstack/i18n,Core,2.2222222222222223,2.898550724637681,3,9
+openstack/kayobe,openstack/i18n,Non core,1.1111111111111112,3.6231884057971016,3,9
+openstack/kayobe,openstack/sahara-tests,Core,4.761904761904762,2.18978102189781,5,6
+openstack/kayobe,openstack/sahara-tests,Non core,1.1904761904761905,2.18978102189781,5,6
+openstack/kayobe,openstack/python-zunclient,Core,2.380952380952381,1.7543859649122806,8,9
+openstack/kayobe,openstack/python-zunclient,Non core,3.968253968253968,3.508771929824561,8,9
+openstack/kayobe,openstack/sahara-plugin-cdh,Core,5.084745762711865,3.296703296703297,4,7
+openstack/kayobe,openstack/sahara-plugin-cdh,Non core,1.694915254237288,4.395604395604396,4,7
+openstack/kayobe,openstack/monasca-ui,Core,2.479338842975207,2.5906735751295336,6,14
+openstack/kayobe,openstack/monasca-ui,Non core,2.479338842975207,4.66321243523316,6,14
+openstack/kayobe,openstack/python-adjutantclient,Core,5.084745762711865,2.380952380952381,3,5
+openstack/kayobe,openstack/python-adjutantclient,Non core,0.0,3.571428571428571,3,5
+openstack/kayobe,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/ansible-role-lunasa-hsm,Core,1.9607843137254901,1.25,1,1
+openstack/kayobe,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/monasca-thresh,Core,1.2987012987012987,1.680672268907563,1,3
+openstack/kayobe,openstack/monasca-thresh,Non core,0.0,0.8403361344537815,1,3
+openstack/kayobe,openstack/heat-specs,Core,1.680672268907563,1.1811023622047243,2,6
+openstack/kayobe,openstack/heat-specs,Non core,0.0,1.1811023622047243,2,6
+openstack/kayobe,openstack/watcher-dashboard,Core,2.1505376344086025,2.3255813953488373,7,14
+openstack/kayobe,openstack/watcher-dashboard,Non core,5.376344086021505,8.527131782945736,7,14
+openstack/kayobe,openstack/sahara-plugin-ambari,Core,5.172413793103448,2.2988505747126435,4,4
+openstack/kayobe,openstack/sahara-plugin-ambari,Non core,1.7241379310344827,2.2988505747126435,4,4
+openstack/kayobe,openstack/sahara-plugin-mapr,Core,5.263157894736842,3.4090909090909087,4,8
+openstack/kayobe,openstack/sahara-plugin-mapr,Non core,1.7543859649122806,5.681818181818182,4,8
+openstack/kayobe,openstack/sahara-plugin-spark,Core,5.357142857142857,2.4096385542168677,4,3
+openstack/kayobe,openstack/sahara-plugin-spark,Non core,1.7857142857142856,1.2048192771084338,4,3
+openstack/kayobe,openstack/sahara-plugin-storm,Core,5.357142857142857,2.380952380952381,4,3
+openstack/kayobe,openstack/sahara-plugin-storm,Non core,1.7857142857142856,1.1904761904761905,4,3
+openstack/kayobe,openstack/sahara-plugin-vanilla,Core,5.357142857142857,2.380952380952381,4,5
+openstack/kayobe,openstack/sahara-plugin-vanilla,Non core,1.7857142857142856,3.571428571428571,4,5
+openstack/kayobe,openstack/sahara-specs,Core,1.0101010101010102,1.36986301369863,2,3
+openstack/kayobe,openstack/sahara-specs,Non core,1.0101010101010102,0.684931506849315,2,3
+openstack/kayobe,openstack/venus-tempest-plugin,Core,0.0,1.2345679012345678,0,1
+openstack/kayobe,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/ceilometermiddleware,Core,2.272727272727273,1.4084507042253522,2,8
+openstack/kayobe,openstack/ceilometermiddleware,Non core,0.0,4.225352112676056,2,8
+openstack/kayobe,openstack/trove-tempest-plugin,Core,3.278688524590164,4.123711340206185,3,9
+openstack/kayobe,openstack/trove-tempest-plugin,Non core,1.639344262295082,5.154639175257731,3,9
+openstack/kayobe,openstack/arch-design,Core,3.6363636363636362,1.25,3,2
+openstack/kayobe,openstack/arch-design,Non core,1.8181818181818181,1.25,3,2
+openstack/kayobe,openstack/monasca-common,Core,3.3333333333333335,4.191616766467066,5,17
+openstack/kayobe,openstack/monasca-common,Non core,0.8333333333333334,5.9880239520958085,5,17
+openstack/kayobe,openstack/monasca-statsd,Core,3.5294117647058822,2.459016393442623,5,11
+openstack/kayobe,openstack/monasca-statsd,Non core,2.3529411764705883,6.557377049180328,5,11
+openstack/kayobe,openstack/python-monascaclient,Core,3.816793893129771,2.7624309392265194,8,13
+openstack/kayobe,openstack/python-monascaclient,Non core,2.2900763358778624,4.41988950276243,8,13
+openstack/kayobe,openstack/renderspec,Core,4.3478260869565215,5.208333333333334,5,8
+openstack/kayobe,openstack/renderspec,Non core,2.898550724637681,3.125,5,8
+openstack/kayobe,openstack/os-service-types,Core,4.615384615384616,1.9607843137254901,7,9
+openstack/kayobe,openstack/os-service-types,Non core,6.153846153846154,6.862745098039216,7,9
+openstack/kayobe,openstack/masakari-dashboard,Core,7.246376811594203,4.545454545454546,8,14
+openstack/kayobe,openstack/masakari-dashboard,Non core,4.3478260869565215,8.181818181818182,8,14
+openstack/kayobe,openstack/freezer-dr,Core,2.7777777777777777,2.7777777777777777,3,6
+openstack/kayobe,openstack/freezer-dr,Non core,1.3888888888888888,2.7777777777777777,3,6
+openstack/kayobe,openstack/tempest-stress,Core,2.9850746268656714,6.172839506172839,3,12
+openstack/kayobe,openstack/tempest-stress,Non core,1.4925373134328357,8.641975308641975,3,12
+openstack/kayobe,openstack/charm-neutron-api-genericswitch,Core,1.8867924528301887,2.5316455696202533,1,2
+openstack/kayobe,openstack/charm-neutron-api-genericswitch,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/charm-neutron-dynamic-routing,Core,3.125,2.2222222222222223,2,4
+openstack/kayobe,openstack/charm-neutron-dynamic-routing,Non core,0.0,2.2222222222222223,2,4
+openstack/kayobe,openstack/charm-interface-ceph-client,Core,1.7543859649122806,2.3529411764705883,1,2
+openstack/kayobe,openstack/charm-interface-ceph-client,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/charm-percona-cluster,Core,1.1235955056179776,1.6666666666666667,1,6
+openstack/kayobe,openstack/charm-percona-cluster,Non core,0.0,3.3333333333333335,1,6
+openstack/kayobe,openstack/charm-deployment-guide,Core,1.2345679012345678,0.9433962264150944,1,3
+openstack/kayobe,openstack/charm-deployment-guide,Non core,0.0,1.8867924528301887,1,3
+openstack/kayobe,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/oslo.metrics,Core,1.7543859649122806,1.1235955056179776,1,2
+openstack/kayobe,openstack/oslo.metrics,Non core,0.0,1.1235955056179776,1,2
+openstack/kayobe,openstack/oslo.vmware,Core,2.380952380952381,2.4390243902439024,4,14
+openstack/kayobe,openstack/oslo.vmware,Non core,0.7936507936507936,4.390243902439024,4,14
+openstack/kayobe,openstack/oslo.upgradecheck,Core,4.761904761904762,4.25531914893617,5,10
+openstack/kayobe,openstack/oslo.upgradecheck,Non core,3.1746031746031744,6.382978723404255,5,10
+openstack/kayobe,openstack/python-masakariclient,Core,4.651162790697675,5.3097345132743365,6,15
+openstack/kayobe,openstack/python-masakariclient,Non core,2.3255813953488373,7.964601769911504,6,15
+openstack/kayobe,openstack/python-vitrageclient,Core,4.166666666666666,1.8691588785046727,8,8
+openstack/kayobe,openstack/python-vitrageclient,Non core,4.166666666666666,5.607476635514018,8,8
+openstack/kayobe,openstack/python-blazarclient,Core,6.315789473684211,4.37956204379562,8,16
+openstack/kayobe,openstack/python-blazarclient,Non core,2.1052631578947367,7.2992700729927,8,16
+openstack/kayobe,openstack/zaqar-tempest-plugin,Core,5.084745762711865,3.1578947368421053,4,6
+openstack/kayobe,openstack/zaqar-tempest-plugin,Non core,1.694915254237288,3.1578947368421053,4,6
+openstack/kayobe,openstack/tripleo-common-tempest-plugin,Core,3.278688524590164,3.061224489795918,6,11
+openstack/kayobe,openstack/tripleo-common-tempest-plugin,Non core,6.557377049180328,8.16326530612245,6,11
+openstack/kayobe,openstack/mistral-tempest-plugin,Core,2.9850746268656714,1.9230769230769231,7,7
+openstack/kayobe,openstack/mistral-tempest-plugin,Non core,7.462686567164178,4.807692307692308,7,7
+openstack/kayobe,openstack/barbican-ui,Core,2.0,2.3255813953488373,1,2
+openstack/kayobe,openstack/barbican-ui,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/liberasurecode,Core,1.639344262295082,1.0638297872340425,1,2
+openstack/kayobe,openstack/liberasurecode,Non core,0.0,1.0638297872340425,1,2
+openstack/kayobe,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/os-client-config,Core,3.3057851239669422,2.2857142857142856,8,7
+openstack/kayobe,openstack/os-client-config,Non core,3.3057851239669422,1.7142857142857144,8,7
+openstack/kayobe,openstack/monasca-specs,Core,3.508771929824561,1.9417475728155338,5,3
+openstack/kayobe,openstack/monasca-specs,Non core,5.263157894736842,0.9708737864077669,5,3
+openstack/kayobe,openstack/os-performance-tools,Core,4.6875,4.395604395604396,5,6
+openstack/kayobe,openstack/os-performance-tools,Non core,3.125,2.197802197802198,5,6
+openstack/kayobe,openstack/trove-specs,Core,2.272727272727273,1.2903225806451613,2,5
+openstack/kayobe,openstack/trove-specs,Non core,0.0,1.935483870967742,2,5
+openstack/kayobe,openstack/manila-image-elements,Core,2.73972602739726,1.7241379310344827,4,6
+openstack/kayobe,openstack/manila-image-elements,Non core,2.73972602739726,3.4482758620689653,4,6
+openstack/kayobe,openstack/blazar-specs,Core,5.357142857142857,4.301075268817205,3,4
+openstack/kayobe,openstack/blazar-specs,Non core,0.0,0.0,3,4
+openstack/kayobe,openstack/molteniron,Core,6.896551724137931,5.208333333333334,4,6
+openstack/kayobe,openstack/molteniron,Non core,0.0,1.0416666666666665,4,6
+openstack/kayobe,openstack/solum-specs,Core,3.125,0.0,2,0
+openstack/kayobe,openstack/solum-specs,Non core,0.0,0.0,2,0
+openstack/kayobe,openstack/patrole,Core,2.2222222222222223,3.389830508474576,5,11
+openstack/kayobe,openstack/patrole,Non core,1.4814814814814816,2.824858757062147,5,11
+openstack/kayobe,openstack/performance-docs,Core,1.1363636363636365,1.574803149606299,2,7
+openstack/kayobe,openstack/performance-docs,Non core,1.1363636363636365,3.937007874015748,2,7
+openstack/kayobe,openstack/sphinx-feature-classification,Core,2.9850746268656714,2.857142857142857,3,6
+openstack/kayobe,openstack/sphinx-feature-classification,Non core,1.4925373134328357,2.857142857142857,3,6
+openstack/kayobe,openstack/etcd3gw,Core,3.6363636363636362,3.571428571428571,3,3
+openstack/kayobe,openstack/etcd3gw,Non core,1.8181818181818181,0.0,3,3
+openstack/kayobe,openstack/watcher-specs,Core,2.1505376344086025,1.9867549668874174,5,8
+openstack/kayobe,openstack/watcher-specs,Non core,3.225806451612903,3.3112582781456954,5,8
+openstack/kayobe,openstack/yaql,Core,3.7037037037037033,1.5873015873015872,5,6
+openstack/kayobe,openstack/yaql,Non core,2.4691358024691357,3.1746031746031744,5,6
+openstack/kayobe,openstack/puppet-openstack-guide,Core,2.73972602739726,3.7383177570093453,4,9
+openstack/kayobe,openstack/puppet-openstack-guide,Non core,2.73972602739726,4.672897196261682,4,9
+openstack/kayobe,openstack/puppet-panko,Core,2.380952380952381,3.8834951456310676,5,6
+openstack/kayobe,openstack/puppet-panko,Non core,3.571428571428571,1.9417475728155338,5,6
+openstack/kayobe,openstack/heat-cfnclient,Core,2.857142857142857,1.9230769230769231,2,5
+openstack/kayobe,openstack/heat-cfnclient,Non core,0.0,2.8846153846153846,2,5
+openstack/kayobe,openstack/heat-cfntools,Core,2.127659574468085,2.2222222222222223,5,10
+openstack/kayobe,openstack/heat-cfntools,Non core,3.1914893617021276,5.185185185185185,5,10
+openstack/kayobe,openstack/heat-templates,Core,1.3157894736842104,0.8032128514056224,3,6
+openstack/kayobe,openstack/heat-templates,Non core,0.6578947368421052,1.6064257028112447,3,6
+openstack/kayobe,openstack/governance-sigs,Core,5.128205128205128,8.227848101265822,6,20
+openstack/kayobe,openstack/governance-sigs,Non core,2.564102564102564,4.430379746835443,6,20
+openstack/kayobe,openstack/openstack-zuul-roles,Core,1.8867924528301887,1.1627906976744187,1,1
+openstack/kayobe,openstack/openstack-zuul-roles,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/nova-powervm,Core,1.9417475728155338,1.7964071856287425,4,8
+openstack/kayobe,openstack/nova-powervm,Non core,1.9417475728155338,2.9940119760479043,4,8
+openstack/kayobe,openstack/openstack-helm-addons,Core,1.1627906976744187,1.1111111111111112,1,9
+openstack/kayobe,openstack/openstack-helm-addons,Non core,0.0,3.888888888888889,1,9
+openstack/kayobe,openstack/python-pankoclient,Core,5.714285714285714,3.7735849056603774,5,10
+openstack/kayobe,openstack/python-pankoclient,Non core,1.4285714285714286,5.660377358490567,5,10
+openstack/kayobe,openstack/qa-specs,Core,3.1914893617021276,2.793296089385475,4,8
+openstack/kayobe,openstack/qa-specs,Non core,1.0638297872340425,1.675977653631285,4,8
+openstack/kayobe,openstack/zaqar-specs,Core,2.380952380952381,2.2388059701492535,2,7
+openstack/kayobe,openstack/zaqar-specs,Non core,0.0,2.9850746268656714,2,7
+openstack/kayobe,openstack/swift-bench,Core,0.0,0.9090909090909091,0,3
+openstack/kayobe,openstack/swift-bench,Non core,0.0,1.8181818181818181,0,3
+openstack/kayobe,openstack/whereto,Core,3.4482758620689653,3.225806451612903,9,5
+openstack/kayobe,openstack/whereto,Non core,12.068965517241379,2.1505376344086025,9,5
+openstack/kayobe,openstack/murano-specs,Core,2.272727272727273,0.7462686567164178,4,4
+openstack/kayobe,openstack/murano-specs,Non core,2.272727272727273,2.2388059701492535,4,4
+openstack/kayobe,openstack/ansible-role-tripleo-modify-image,Core,4.054054054054054,1.5267175572519083,5,8
+openstack/kayobe,openstack/ansible-role-tripleo-modify-image,Non core,2.7027027027027026,4.580152671755725,5,8
+openstack/kayobe,openstack/requestsexceptions,Core,3.7037037037037033,0.0,3,2
+openstack/kayobe,openstack/requestsexceptions,Non core,1.8518518518518516,2.197802197802198,3,2
+openstack/kayobe,openstack/panko,Core,3.4482758620689653,3.0303030303030303,6,13
+openstack/kayobe,openstack/panko,Non core,1.7241379310344827,4.848484848484849,6,13
+openstack/kayobe,openstack/api-sig,Core,1.0,1.9083969465648856,1,9
+openstack/kayobe,openstack/api-sig,Non core,0.0,1.5267175572519083,1,9
+openstack/kayobe,openstack/openstack-chef-specs,Core,1.3888888888888888,2.857142857142857,1,6
+openstack/kayobe,openstack/openstack-chef-specs,Non core,0.0,2.857142857142857,1,6
+openstack/kayobe,openstack/freezer-specs,Core,2.898550724637681,3.0303030303030303,2,4
+openstack/kayobe,openstack/freezer-specs,Non core,0.0,1.0101010101010102,2,4
+openstack/kayobe,openstack/oslo.tools,Core,2.5316455696202533,2.0,3,5
+openstack/kayobe,openstack/oslo.tools,Non core,1.2658227848101267,3.0,3,5
+openstack/kayobe,openstack/microversion-parse,Core,3.6363636363636362,2.247191011235955,4,2
+openstack/kayobe,openstack/microversion-parse,Non core,3.6363636363636362,0.0,4,2
+openstack/kayobe,openstack/openstackclient,Core,4.225352112676056,2.857142857142857,3,6
+openstack/kayobe,openstack/openstackclient,Non core,0.0,2.857142857142857,3,6
+openstack/kayobe,openstack/ossa,Core,2.898550724637681,3.076923076923077,2,7
+openstack/kayobe,openstack/ossa,Non core,0.0,2.307692307692308,2,7
+openstack/kayobe,openstack/reviewstats,Core,1.6,2.1052631578947367,2,7
+openstack/kayobe,openstack/reviewstats,Non core,0.0,1.5789473684210527,2,7
+openstack/kayobe,openstack/oslo-cookiecutter,Core,2.898550724637681,2.912621359223301,3,5
+openstack/kayobe,openstack/oslo-cookiecutter,Non core,1.4492753623188406,1.9417475728155338,3,5
+openstack/kayobe,openstack/openstack-helm-deployments,Core,0.0,1.0101010101010102,0,1
+openstack/kayobe,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/security-analysis,Core,1.7857142857142856,3.125,2,4
+openstack/kayobe,openstack/security-analysis,Non core,1.7857142857142856,1.0416666666666665,2,4
+openstack/kayobe,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/ansible-role-tripleo-keystone,Core,1.8867924528301887,1.25,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-keystone,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/openstack-ansible-apt_package_pinning,Core,2.4691358024691357,1.7857142857142856,5,7
+openstack/kayobe,openstack/openstack-ansible-apt_package_pinning,Non core,3.7037037037037033,4.464285714285714,5,7
+openstack/kayobe,openstack/ansible-role-qdrouterd,Core,1.6666666666666667,3.0303030303030303,2,7
+openstack/kayobe,openstack/ansible-role-qdrouterd,Non core,1.6666666666666667,4.040404040404041,2,7
+openstack/kayobe,openstack/openstack-ansible-openstack_openrc,Core,2.197802197802198,1.6666666666666667,6,8
+openstack/kayobe,openstack/openstack-ansible-openstack_openrc,Non core,4.395604395604396,5.0,6,8
+openstack/kayobe,openstack/openstack-ansible-nspawn_container_create,Core,2.9850746268656714,3.0303030303030303,4,9
+openstack/kayobe,openstack/openstack-ansible-nspawn_container_create,Non core,2.9850746268656714,6.0606060606060606,4,9
+openstack/kayobe,openstack/devstack-tools,Core,3.125,4.705882352941177,3,8
+openstack/kayobe,openstack/devstack-tools,Non core,1.5625,4.705882352941177,3,8
+openstack/kayobe,openstack/coverage2sql,Core,5.88235294117647,4.597701149425287,6,9
+openstack/kayobe,openstack/coverage2sql,Non core,2.941176470588235,5.747126436781609,6,9
+openstack/kayobe,openstack/bashate,Core,6.521739130434782,4.8,7,6
+openstack/kayobe,openstack/bashate,Non core,1.0869565217391304,0.0,7,6
+openstack/kayobe,openstack/hacking,Core,3.0303030303030303,3.1963470319634704,5,13
+openstack/kayobe,openstack/hacking,Non core,0.7575757575757576,2.73972602739726,5,13
+openstack/kayobe,openstack/xstatic-mdi,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/openstack-chef,Core,1.3888888888888888,2.1739130434782608,3,3
+openstack/kayobe,openstack/openstack-chef,Non core,2.7777777777777777,1.0869565217391304,3,3
+openstack/kayobe,openstack/cookbook-openstackclient,Core,0.0,0.0,0,4
+openstack/kayobe,openstack/cookbook-openstackclient,Non core,0.0,4.819277108433735,0,4
+openstack/kayobe,openstack/xstatic-angular,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-interface-hacluster,Core,1.4925373134328357,1.1363636363636365,1,4
+openstack/kayobe,openstack/charm-interface-hacluster,Non core,0.0,3.4090909090909087,1,4
+openstack/kayobe,openstack/puppet-openstack-specs,Core,2.8169014084507045,1.5625,4,4
+openstack/kayobe,openstack/puppet-openstack-specs,Non core,2.8169014084507045,1.5625,4,4
+openstack/kayobe,openstack/puppet-monasca,Core,2.5974025974025974,1.3245033112582782,4,5
+openstack/kayobe,openstack/puppet-monasca,Non core,2.5974025974025974,1.9867549668874174,4,5
+openstack/kayobe,openstack/eslint-config-openstack,Core,3.125,1.6528925619834711,2,2
+openstack/kayobe,openstack/eslint-config-openstack,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/karma-subunit-reporter,Core,3.8461538461538463,2.5,2,2
+openstack/kayobe,openstack/karma-subunit-reporter,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/openstack-helm-docs,Core,1.8181818181818181,4.25531914893617,2,7
+openstack/kayobe,openstack/openstack-helm-docs,Non core,1.8181818181818181,3.1914893617021276,2,7
+openstack/kayobe,openstack/openstack-ansible-specs,Core,2.0,2.2222222222222223,5,7
+openstack/kayobe,openstack/openstack-ansible-specs,Non core,3.0,1.6666666666666667,5,7
+openstack/kayobe,openstack/tempest-lib,Core,1.0869565217391304,1.2269938650306749,1,4
+openstack/kayobe,openstack/tempest-lib,Non core,0.0,1.2269938650306749,1,4
+openstack/kayobe,openstack/tripleo-ha-utils,Core,1.7543859649122806,0.0,1,4
+openstack/kayobe,openstack/tripleo-ha-utils,Non core,0.0,4.123711340206185,1,4
+openstack/kayobe,openstack/devstack-vagrant,Core,3.225806451612903,1.0204081632653061,2,2
+openstack/kayobe,openstack/devstack-vagrant,Non core,0.0,1.0204081632653061,2,2
+openstack/kayobe,openstack/goal-tools,Core,1.8181818181818181,3.571428571428571,2,9
+openstack/kayobe,openstack/goal-tools,Non core,1.8181818181818181,7.142857142857142,2,9
+openstack/kayobe,openstack/cookiecutter,Core,4.545454545454546,4.316546762589928,5,6
+openstack/kayobe,openstack/cookiecutter,Non core,1.1363636363636365,0.0,5,6
+openstack/kayobe,openstack/dib-utils,Core,1.5625,1.8018018018018018,1,3
+openstack/kayobe,openstack/dib-utils,Non core,0.0,0.9009009009009009,1,3
+openstack/kayobe,openstack/constellations,Core,1.9230769230769231,3.5294117647058822,3,6
+openstack/kayobe,openstack/constellations,Non core,3.8461538461538463,3.5294117647058822,3,6
+openstack/kayobe,openstack/cookbook-openstack-integration-test,Core,0.0,0.9433962264150944,0,3
+openstack/kayobe,openstack/cookbook-openstack-integration-test,Non core,0.0,1.8867924528301887,0,3
+openstack/kayobe,openstack/cookbook-openstack-dashboard,Core,1.0638297872340425,0.7092198581560284,1,4
+openstack/kayobe,openstack/cookbook-openstack-dashboard,Non core,0.0,2.127659574468085,1,4
+openstack/kayobe,openstack/cookbook-openstack-telemetry,Core,1.0526315789473684,0.8064516129032258,1,2
+openstack/kayobe,openstack/cookbook-openstack-telemetry,Non core,0.0,0.8064516129032258,1,2
+openstack/kayobe,openstack/cookbook-openstack-orchestration,Core,1.1764705882352942,1.5625,1,3
+openstack/kayobe,openstack/cookbook-openstack-orchestration,Non core,0.0,0.78125,1,3
+openstack/kayobe,openstack/cookbook-openstack-bare-metal,Core,0.0,1.0526315789473684,0,2
+openstack/kayobe,openstack/cookbook-openstack-bare-metal,Non core,0.0,1.0526315789473684,0,2
+openstack/kayobe,openstack/cookbook-openstack-dns,Core,0.0,1.2195121951219512,0,5
+openstack/kayobe,openstack/cookbook-openstack-dns,Non core,0.0,4.878048780487805,0,5
+openstack/kayobe,openstack/cookbook-openstack-compute,Core,0.8771929824561403,0.6024096385542169,1,3
+openstack/kayobe,openstack/cookbook-openstack-compute,Non core,0.0,1.2048192771084338,1,3
+openstack/kayobe,openstack/cookbook-openstack-network,Core,0.8620689655172413,0.6329113924050633,1,6
+openstack/kayobe,openstack/cookbook-openstack-network,Non core,0.0,3.1645569620253164,1,6
+openstack/kayobe,openstack/cookbook-openstack-block-storage,Core,1.834862385321101,0.7042253521126761,2,3
+openstack/kayobe,openstack/cookbook-openstack-block-storage,Non core,0.0,1.4084507042253522,2,3
+openstack/kayobe,openstack/cookbook-openstack-image,Core,0.9900990099009901,0.7092198581560284,1,3
+openstack/kayobe,openstack/cookbook-openstack-image,Non core,0.0,1.4184397163120568,1,3
+openstack/kayobe,openstack/cookbook-openstack-identity,Core,1.9607843137254901,0.684931506849315,2,4
+openstack/kayobe,openstack/cookbook-openstack-identity,Non core,0.0,2.054794520547945,2,4
+openstack/kayobe,openstack/cookbook-openstack-ops-database,Core,1.1904761904761905,0.0,1,2
+openstack/kayobe,openstack/cookbook-openstack-ops-database,Non core,0.0,1.639344262295082,1,2
+openstack/kayobe,openstack/cookbook-openstack-ops-messaging,Core,1.2987012987012987,0.0,1,2
+openstack/kayobe,openstack/cookbook-openstack-ops-messaging,Non core,0.0,1.7391304347826086,1,2
+openstack/kayobe,openstack/cookbook-openstack-common,Core,0.9009009009009009,0.6172839506172839,1,5
+openstack/kayobe,openstack/cookbook-openstack-common,Non core,0.0,2.4691358024691357,1,5
+openstack/kayobe,openstack/self-healing-sig,Core,1.7241379310344827,3.0927835051546393,2,4
+openstack/kayobe,openstack/self-healing-sig,Non core,1.7241379310344827,1.0309278350515463,2,4
+openstack/kayobe,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/security-specs,Core,3.1746031746031744,1.9230769230769231,2,2
+openstack/kayobe,openstack/security-specs,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/openstack-ansible-os_panko,Core,2.941176470588235,4.807692307692308,6,11
+openstack/kayobe,openstack/openstack-ansible-os_panko,Non core,5.88235294117647,5.769230769230769,6,11
+openstack/kayobe,openstack/openstack-ansible-nspawn_hosts,Core,2.941176470588235,1.9801980198019802,4,9
+openstack/kayobe,openstack/openstack-ansible-nspawn_hosts,Non core,2.941176470588235,6.9306930693069315,4,9
+openstack/kayobe,openstack/charm-layer-openstack-principle,Core,1.8518518518518516,0.0,1,0
+openstack/kayobe,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/charm-watcher-dashboard,Core,3.9215686274509802,1.1764705882352942,2,1
+openstack/kayobe,openstack/charm-watcher-dashboard,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/charm-watcher,Core,3.7735849056603774,1.0638297872340425,2,1
+openstack/kayobe,openstack/charm-watcher,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/openstack-ansible-galera_client,Core,2.0202020202020203,1.6,5,8
+openstack/kayobe,openstack/openstack-ansible-galera_client,Non core,3.0303030303030303,4.8,5,8
+openstack/kayobe,openstack/cloudkitty-specs,Core,4.761904761904762,4.0,3,5
+openstack/kayobe,openstack/cloudkitty-specs,Non core,0.0,1.0,3,5
+openstack/kayobe,openstack/osops,Core,3.8461538461538463,2.4096385542168677,3,2
+openstack/kayobe,openstack/osops,Non core,1.9230769230769231,0.0,3,2
+openstack/kayobe,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ironic,Core,1.8518518518518516,1.282051282051282,1,1
+openstack/kayobe,openstack/charm-ironic,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/multi-arch-sig,Core,1.9607843137254901,2.4691358024691357,1,2
+openstack/kayobe,openstack/multi-arch-sig,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/charm-nova-compute-proxy,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-nova-compute-proxy,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-odl-controller,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-odl-controller,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-nova-lxd,Core,1.4492753623188406,1.0309278350515463,1,3
+openstack/kayobe,openstack/charm-nova-lxd,Non core,0.0,2.0618556701030926,1,3
+openstack/kayobe,openstack/charm-interface-nova-cell,Core,0.0,1.2987012987012987,0,1
+openstack/kayobe,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-interface-barbican-secrets,Core,1.8181818181818181,1.25,1,3
+openstack/kayobe,openstack/charm-interface-barbican-secrets,Non core,0.0,2.5,1,3
+openstack/kayobe,openstack/charm-interface-mysql-innodb-cluster,Core,2.0,0.0,1,0
+openstack/kayobe,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/charm-interface-ceph-rbd-mirror,Core,1.8518518518518516,1.2345679012345678,1,3
+openstack/kayobe,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,2.4691358024691357,1,3
+openstack/kayobe,openstack/charm-interface-placement,Core,1.9607843137254901,0.0,1,0
+openstack/kayobe,openstack/charm-interface-placement,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/charm-interface-mysql-shared,Core,3.571428571428571,0.0,2,0
+openstack/kayobe,openstack/charm-interface-mysql-shared,Non core,0.0,0.0,2,0
+openstack/kayobe,openstack/charm-interface-dashboard-plugin,Core,1.8181818181818181,1.25,1,3
+openstack/kayobe,openstack/charm-interface-dashboard-plugin,Non core,0.0,2.5,1,3
+openstack/kayobe,openstack/charm-interface-neutron-load-balancer,Core,1.8181818181818181,1.25,1,3
+openstack/kayobe,openstack/charm-interface-neutron-load-balancer,Non core,0.0,2.5,1,3
+openstack/kayobe,openstack/charm-interface-neutron-plugin-api-subordinate,Core,3.571428571428571,2.4096385542168677,3,2
+openstack/kayobe,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,1.7857142857142856,0.0,3,2
+openstack/kayobe,openstack/charm-interface-neutron-plugin,Core,3.7037037037037033,1.2195121951219512,2,1
+openstack/kayobe,openstack/charm-interface-neutron-plugin,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/xstatic-json2yaml,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-json2yaml,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-js-yaml,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-js-yaml,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-spin,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-spin,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-panko,Core,0.0,2.3529411764705883,0,3
+openstack/kayobe,openstack/charm-panko,Non core,0.0,1.1764705882352942,0,3
+openstack/kayobe,openstack/charm-interface-service-control,Core,1.8181818181818181,1.2345679012345678,2,4
+openstack/kayobe,openstack/charm-interface-service-control,Non core,1.8181818181818181,3.7037037037037033,2,4
+openstack/kayobe,openstack/openstack-ansible-os_almanach,Core,1.4084507042253522,1.9607843137254901,4,7
+openstack/kayobe,openstack/openstack-ansible-os_almanach,Non core,4.225352112676056,4.901960784313726,4,7
+openstack/kayobe,openstack/openstack-ansible-pip_install,Core,1.0638297872340425,2.1739130434782608,4,9
+openstack/kayobe,openstack/openstack-ansible-pip_install,Non core,3.1914893617021276,4.3478260869565215,4,9
+openstack/kayobe,openstack/python-karborclient,Core,3.061224489795918,3.90625,4,12
+openstack/kayobe,openstack/python-karborclient,Non core,1.0204081632653061,5.46875,4,12
+openstack/kayobe,openstack/charm-interface-keystone-admin,Core,3.8461538461538463,0.0,2,0
+openstack/kayobe,openstack/charm-interface-keystone-admin,Non core,0.0,0.0,2,0
+openstack/kayobe,openstack/charm-interface-nova-compute,Core,3.6363636363636362,1.2195121951219512,3,5
+openstack/kayobe,openstack/charm-interface-nova-compute,Non core,1.8181818181818181,4.878048780487805,3,5
+openstack/kayobe,openstack/charm-interface-manila-plugin,Core,1.8518518518518516,1.2195121951219512,1,1
+openstack/kayobe,openstack/charm-interface-manila-plugin,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/murano-apps,Core,2.0202020202020203,1.3888888888888888,3,3
+openstack/kayobe,openstack/murano-apps,Non core,1.0101010101010102,0.6944444444444444,3,3
+openstack/kayobe,openstack/puppet-senlin,Core,3.225806451612903,2.247191011235955,3,5
+openstack/kayobe,openstack/puppet-senlin,Non core,1.6129032258064515,3.3707865168539324,3,5
+openstack/kayobe,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,0,1
+openstack/kayobe,openstack/cookbook-openstack-application-catalog,Non core,0.0,1.2048192771084338,0,1
+openstack/kayobe,openstack/training-labs,Core,3.75,3.6036036036036037,7,10
+openstack/kayobe,openstack/training-labs,Non core,5.0,5.405405405405405,7,10
+openstack/kayobe,openstack/karbor,Core,1.89873417721519,3.125,5,16
+openstack/kayobe,openstack/karbor,Non core,1.2658227848101267,4.017857142857143,5,16
+openstack/kayobe,openstack/devstack-plugin-open-cas,Core,1.9607843137254901,1.1764705882352942,1,1
+openstack/kayobe,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/openstack-ansible-os_congress,Core,2.857142857142857,2.727272727272727,5,10
+openstack/kayobe,openstack/openstack-ansible-os_congress,Non core,4.285714285714286,6.363636363636363,5,10
+openstack/kayobe,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-interface-keystone-notifications,Core,0.0,1.2987012987012987,0,1
+openstack/kayobe,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/os-collect-config,Core,2.0408163265306123,2.366863905325444,5,11
+openstack/kayobe,openstack/os-collect-config,Non core,3.061224489795918,4.142011834319527,5,11
+openstack/kayobe,openstack/os-apply-config,Core,2.0618556701030926,3.75,5,12
+openstack/kayobe,openstack/os-apply-config,Non core,3.0927835051546393,3.75,5,12
+openstack/kayobe,openstack/puppet-freezer,Core,2.857142857142857,3.125,4,7
+openstack/kayobe,openstack/puppet-freezer,Non core,2.857142857142857,4.166666666666666,4,7
+openstack/kayobe,openstack/vitrage-specs,Core,2.4096385542168677,0.0,4,6
+openstack/kayobe,openstack/vitrage-specs,Non core,2.4096385542168677,4.958677685950414,4,6
+openstack/kayobe,openstack/specs-cookiecutter,Core,3.571428571428571,3.4090909090909087,2,3
+openstack/kayobe,openstack/specs-cookiecutter,Non core,0.0,0.0,2,3
+openstack/kayobe,openstack/rpm-packaging-tools,Core,3.389830508474576,5.263157894736842,2,7
+openstack/kayobe,openstack/rpm-packaging-tools,Non core,0.0,2.1052631578947367,2,7
+openstack/kayobe,openstack/ansible-role-openstack-operations,Core,1.6129032258064515,1.0869565217391304,3,2
+openstack/kayobe,openstack/ansible-role-openstack-operations,Non core,3.225806451612903,1.0869565217391304,3,2
+openstack/kayobe,openstack/os-refresh-config,Core,2.380952380952381,2.8368794326241136,4,10
+openstack/kayobe,openstack/os-refresh-config,Non core,2.380952380952381,4.25531914893617,4,10
+openstack/kayobe,openstack/mistral-specs,Core,2.666666666666667,0.9090909090909091,3,5
+openstack/kayobe,openstack/mistral-specs,Non core,1.3333333333333335,3.6363636363636362,3,5
+openstack/kayobe,openstack/scientific-wg,Core,6.0,5.128205128205128,3,4
+openstack/kayobe,openstack/scientific-wg,Non core,0.0,0.0,3,4
+openstack/kayobe,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,1.2345679012345678,0,1
+openstack/kayobe,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/manila-test-image,Core,1.9230769230769231,1.1235955056179776,1,3
+openstack/kayobe,openstack/manila-test-image,Non core,0.0,2.247191011235955,1,3
+openstack/kayobe,openstack/governance-website,Core,3.571428571428571,4.395604395604396,3,6
+openstack/kayobe,openstack/governance-website,Non core,1.7857142857142856,2.197802197802198,3,6
+openstack/kayobe,openstack/bugdaystats,Core,0.0,1.098901098901099,0,1
+openstack/kayobe,openstack/bugdaystats,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/upstream-institute-virtual-environment,Core,0.0,3.488372093023256,0,3
+openstack/kayobe,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,3
+openstack/kayobe,openstack/karbor-dashboard,Core,3.75,3.2520325203252036,7,12
+openstack/kayobe,openstack/karbor-dashboard,Non core,5.0,6.504065040650407,7,12
+openstack/kayobe,openstack/django_openstack_auth,Core,1.6,0.8438818565400843,2,4
+openstack/kayobe,openstack/django_openstack_auth,Non core,0.0,0.8438818565400843,2,4
+openstack/kayobe,openstack/monasca-transform,Core,2.380952380952381,3.418803418803419,6,11
+openstack/kayobe,openstack/monasca-transform,Non core,4.761904761904762,5.982905982905983,6,11
+openstack/kayobe,openstack/monasca-ceilometer,Core,2.0618556701030926,3.571428571428571,2,10
+openstack/kayobe,openstack/monasca-ceilometer,Non core,0.0,3.571428571428571,2,10
+openstack/kayobe,openstack/monasca-log-api,Core,4.040404040404041,4.487179487179487,6,14
+openstack/kayobe,openstack/monasca-log-api,Non core,2.0202020202020203,4.487179487179487,6,14
+openstack/kayobe,openstack/nose-html-output,Core,1.7543859649122806,1.1111111111111112,1,1
+openstack/kayobe,openstack/nose-html-output,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/kolla-cli,Core,4.615384615384616,6.382978723404255,6,20
+openstack/kayobe,openstack/kolla-cli,Non core,4.615384615384616,14.893617021276595,6,20
+openstack/kayobe,openstack/neutron-lbaas-dashboard,Core,2.1505376344086025,2.5806451612903225,4,10
+openstack/kayobe,openstack/neutron-lbaas-dashboard,Non core,2.1505376344086025,3.870967741935484,4,10
+openstack/kayobe,openstack/searchlight,Core,1.875,1.5,7,12
+openstack/kayobe,openstack/searchlight,Non core,2.5,4.5,7,12
+openstack/kayobe,openstack/searchlight-ui,Core,2.247191011235955,2.4390243902439024,6,5
+openstack/kayobe,openstack/searchlight-ui,Non core,4.49438202247191,1.6260162601626018,6,5
+openstack/kayobe,openstack/searchlight-specs,Core,2.8169014084507045,0.9259259259259258,2,4
+openstack/kayobe,openstack/searchlight-specs,Non core,0.0,2.7777777777777777,2,4
+openstack/kayobe,openstack/python-searchlightclient,Core,3.4482758620689653,1.6528925619834711,7,10
+openstack/kayobe,openstack/python-searchlightclient,Non core,4.597701149425287,6.6115702479338845,7,10
+openstack/kayobe,openstack/charm-tempest,Core,2.898550724637681,2.0618556701030926,2,4
+openstack/kayobe,openstack/charm-tempest,Non core,0.0,2.0618556701030926,2,4
+openstack/kayobe,openstack/charm-barbican-softhsm,Core,4.615384615384616,2.1739130434782608,3,4
+openstack/kayobe,openstack/charm-barbican-softhsm,Non core,0.0,2.1739130434782608,3,4
+openstack/kayobe,openstack/cookbook-openstack-client,Core,1.7857142857142856,0.0,1,1
+openstack/kayobe,openstack/cookbook-openstack-client,Non core,0.0,1.1111111111111112,1,1
+openstack/kayobe,openstack/instack-undercloud,Core,0.6756756756756757,0.7407407407407408,3,11
+openstack/kayobe,openstack/instack-undercloud,Non core,1.3513513513513513,3.3333333333333335,3,11
+openstack/kayobe,openstack/publiccloud-sig,Core,1.8181818181818181,3.614457831325301,1,3
+openstack/kayobe,openstack/publiccloud-sig,Non core,0.0,0.0,1,3
+openstack/kayobe,openstack/ideas,Core,3.8461538461538463,3.9215686274509802,2,4
+openstack/kayobe,openstack/ideas,Non core,0.0,0.0,2,4
+openstack/kayobe,openstack/uc-recognition,Core,1.9607843137254901,2.380952380952381,1,2
+openstack/kayobe,openstack/uc-recognition,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/ops-tags-team,Core,1.7241379310344827,2.857142857142857,1,4
+openstack/kayobe,openstack/ops-tags-team,Non core,0.0,0.9523809523809524,1,4
+openstack/kayobe,openstack/enterprise-wg,Core,2.0408163265306123,2.666666666666667,1,2
+openstack/kayobe,openstack/enterprise-wg,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/governance-uc,Core,2.9850746268656714,3.278688524590164,4,9
+openstack/kayobe,openstack/governance-uc,Non core,2.9850746268656714,4.098360655737705,4,9
+openstack/kayobe,openstack/workload-ref-archs,Core,3.508771929824561,4.705882352941177,5,7
+openstack/kayobe,openstack/workload-ref-archs,Non core,5.263157894736842,3.5294117647058822,5,7
+openstack/kayobe,openstack/arch-wg,Core,1.9230769230769231,3.3333333333333335,1,3
+openstack/kayobe,openstack/arch-wg,Non core,0.0,0.0,1,3
+openstack/kayobe,openstack/project-navigator-data,Core,3.0303030303030303,4.081632653061225,2,4
+openstack/kayobe,openstack/project-navigator-data,Non core,0.0,0.0,2,4
+openstack/kayobe,openstack/openstack-specs,Core,2.9850746268656714,1.9762845849802373,2,5
+openstack/kayobe,openstack/openstack-specs,Non core,0.0,0.0,2,5
+openstack/kayobe,openstack/openstack-ansible-os_monasca,Core,2.4390243902439024,2.5423728813559325,4,12
+openstack/kayobe,openstack/openstack-ansible-os_monasca,Non core,2.4390243902439024,7.627118644067797,4,12
+openstack/kayobe,openstack/openstack-ansible-os_monasca-agent,Core,1.4084507042253522,1.8867924528301887,3,6
+openstack/kayobe,openstack/openstack-ansible-os_monasca-agent,Non core,2.8169014084507045,3.7735849056603774,3,6
+openstack/kayobe,openstack/ironic-inspector-specs,Core,2.857142857142857,2.5423728813559325,4,5
+openstack/kayobe,openstack/ironic-inspector-specs,Non core,2.857142857142857,1.694915254237288,4,5
+openstack/kayobe,openstack/sushy-cli,Core,5.454545454545454,3.571428571428571,3,3
+openstack/kayobe,openstack/sushy-cli,Non core,0.0,0.0,3,3
+openstack/kayobe,openstack/puppet-glare,Core,2.666666666666667,4.0,4,6
+openstack/kayobe,openstack/puppet-glare,Non core,2.666666666666667,2.0,4,6
+openstack/kayobe,openstack/xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/openstack-planet,Core,1.4925373134328357,1.1049723756906076,4,3
+openstack/kayobe,openstack/openstack-planet,Non core,0.0,0.5524861878453038,4,3
+openstack/kayobe,openstack/charm-interface-keystone-credentials,Core,3.571428571428571,1.1904761904761905,3,1
+openstack/kayobe,openstack/charm-interface-keystone-credentials,Non core,1.7857142857142856,0.0,3,1
+openstack/kayobe,openstack/monasca-kibana-plugin,Core,1.694915254237288,2.127659574468085,1,2
+openstack/kayobe,openstack/monasca-kibana-plugin,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/charm-interface-keystone-domain-backend,Core,3.7037037037037033,1.25,2,1
+openstack/kayobe,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/devstack-plugin-amqp1,Core,3.389830508474576,2.1052631578947367,2,2
+openstack/kayobe,openstack/devstack-plugin-amqp1,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/devstack-plugin-kafka,Core,1.7857142857142856,1.1111111111111112,1,3
+openstack/kayobe,openstack/devstack-plugin-kafka,Non core,0.0,2.2222222222222223,1,3
+openstack/kayobe,openstack/tripleo-ipsec,Core,3.4482758620689653,1.0869565217391304,3,4
+openstack/kayobe,openstack/tripleo-ipsec,Non core,1.7241379310344827,3.260869565217391,3,4
+openstack/kayobe,openstack/monasca-grafana-datasource,Core,1.694915254237288,2.0618556701030926,1,3
+openstack/kayobe,openstack/monasca-grafana-datasource,Non core,0.0,1.0309278350515463,1,3
+openstack/kayobe,openstack/charm-interface-bind-rndc,Core,3.6363636363636362,1.2048192771084338,3,1
+openstack/kayobe,openstack/charm-interface-bind-rndc,Non core,1.8181818181818181,0.0,3,1
+openstack/kayobe,openstack/charm-interface-rabbitmq,Core,3.6363636363636362,1.1904761904761905,2,1
+openstack/kayobe,openstack/charm-interface-rabbitmq,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/charm-interface-openstack-ha,Core,1.8181818181818181,2.4096385542168677,1,2
+openstack/kayobe,openstack/charm-interface-openstack-ha,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/charm-interface-gnocchi,Core,3.7735849056603774,2.247191011235955,2,2
+openstack/kayobe,openstack/charm-interface-gnocchi,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/charm-interface-bgp,Core,3.6363636363636362,1.2195121951219512,2,2
+openstack/kayobe,openstack/charm-interface-bgp,Non core,0.0,1.2195121951219512,2,2
+openstack/kayobe,openstack/charm-interface-websso-fid-service-provider,Core,0.0,1.2658227848101267,0,1
+openstack/kayobe,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/charm-interface-designate,Core,1.9230769230769231,1.25,1,1
+openstack/kayobe,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/tempest-horizon,Core,2.941176470588235,2.1505376344086025,2,5
+openstack/kayobe,openstack/tempest-horizon,Non core,0.0,3.225806451612903,2,5
+openstack/kayobe,openstack/logstash-filters,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/logstash-filters,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/qinling-dashboard,Core,3.6363636363636362,3.4482758620689653,2,5
+openstack/kayobe,openstack/qinling-dashboard,Non core,0.0,2.2988505747126435,2,5
+openstack/kayobe,openstack/python-qinlingclient,Core,4.166666666666666,4.395604395604396,8,11
+openstack/kayobe,openstack/python-qinlingclient,Non core,6.944444444444445,7.6923076923076925,8,11
+openstack/kayobe,openstack/qinling,Core,4.705882352941177,3.8095238095238098,9,8
+openstack/kayobe,openstack/qinling,Non core,5.88235294117647,3.8095238095238098,9,8
+openstack/kayobe,openstack/monasca-analytics,Core,2.7777777777777777,3.6036036036036037,3,7
+openstack/kayobe,openstack/monasca-analytics,Non core,1.3888888888888888,2.7027027027027026,3,7
+openstack/kayobe,openstack/oslo-incubator,Core,0.6269592476489028,0.5988023952095809,2,4
+openstack/kayobe,openstack/oslo-incubator,Non core,0.0,0.19960079840319359,2,4
+openstack/kayobe,openstack/puppet-congress,Core,2.7027027027027026,2.0618556701030926,5,3
+openstack/kayobe,openstack/puppet-congress,Non core,4.054054054054054,1.0309278350515463,5,3
+openstack/kayobe,openstack/openstack-ansible-os_monasca-ui,Core,3.4482758620689653,2.1505376344086025,4,2
+openstack/kayobe,openstack/openstack-ansible-os_monasca-ui,Non core,3.4482758620689653,0.0,4,2
+openstack/kayobe,openstack/auto-scaling-sig,Core,1.8518518518518516,2.2222222222222223,1,2
+openstack/kayobe,openstack/auto-scaling-sig,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/os-loganalyze,Core,1.2987012987012987,1.6,1,2
+openstack/kayobe,openstack/os-loganalyze,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/devstack-plugin-pika,Core,1.8867924528301887,3.571428571428571,1,3
+openstack/kayobe,openstack/devstack-plugin-pika,Non core,0.0,0.0,1,3
+openstack/kayobe,openstack/devstack-plugin-zmq,Core,3.508771929824561,2.272727272727273,2,2
+openstack/kayobe,openstack/devstack-plugin-zmq,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/networking-l2gw,Core,1.7857142857142856,1.8181818181818181,5,7
+openstack/kayobe,openstack/networking-l2gw,Non core,2.6785714285714284,1.3636363636363635,5,7
+openstack/kayobe,openstack/networking-l2gw-tempest-plugin,Core,1.7241379310344827,2.1052631578947367,3,4
+openstack/kayobe,openstack/networking-l2gw-tempest-plugin,Non core,3.4482758620689653,2.1052631578947367,3,4
+openstack/kayobe,openstack/charm-interface-ceph-mds,Core,3.6363636363636362,0.0,2,0
+openstack/kayobe,openstack/charm-interface-ceph-mds,Non core,0.0,0.0,2,0
+openstack/kayobe,openstack/xstatic-angular-ui-router,Core,1.9607843137254901,1.2195121951219512,1,1
+openstack/kayobe,openstack/xstatic-angular-ui-router,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/xstatic-vis,Core,1.9230769230769231,1.25,1,1
+openstack/kayobe,openstack/xstatic-vis,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/cookbook-openstack-database,Core,1.7543859649122806,2.0618556701030926,1,2
+openstack/kayobe,openstack/cookbook-openstack-database,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/cookbook-openstack-data-processing,Core,1.8518518518518516,2.197802197802198,1,2
+openstack/kayobe,openstack/cookbook-openstack-data-processing,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/trove-integration,Core,0.8771929824561403,1.1494252873563218,1,3
+openstack/kayobe,openstack/trove-integration,Non core,0.0,0.5747126436781609,1,3
+openstack/kayobe,openstack/ansible-role-tripleo-sensu,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-sensu,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/python-ceilometerclient,Core,1.8633540372670807,0.7782101167315175,3,3
+openstack/kayobe,openstack/python-ceilometerclient,Non core,0.0,0.38910505836575876,3,3
+openstack/kayobe,openstack/keystoneauth-saml2,Core,1.639344262295082,2.8301886792452833,1,3
+openstack/kayobe,openstack/keystoneauth-saml2,Non core,0.0,0.0,1,3
+openstack/kayobe,openstack/murano-deployment,Core,1.1904761904761905,0.9009009009009009,1,1
+openstack/kayobe,openstack/murano-deployment,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/python-keystoneclient-kerberos,Core,1.639344262295082,1.9047619047619049,1,2
+openstack/kayobe,openstack/python-keystoneclient-kerberos,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/python-wsmanclient,Core,1.9230769230769231,1.2048192771084338,1,1
+openstack/kayobe,openstack/python-wsmanclient,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/fuel-upgrade,Core,3.508771929824561,2.0,2,2
+openstack/kayobe,openstack/fuel-upgrade,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/cookbook-openstack-object-storage,Core,1.3157894736842104,1.7241379310344827,1,2
+openstack/kayobe,openstack/cookbook-openstack-object-storage,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/fairy-slipper,Core,3.6363636363636362,2.2222222222222223,2,2
+openstack/kayobe,openstack/fairy-slipper,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/django-openstack-auth-kerberos,Core,1.8518518518518516,1.098901098901099,1,1
+openstack/kayobe,openstack/django-openstack-auth-kerberos,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/horizon-cisco-ui,Core,3.3333333333333335,2.3529411764705883,2,4
+openstack/kayobe,openstack/horizon-cisco-ui,Non core,0.0,2.3529411764705883,2,4
+openstack/kayobe,openstack/zuul-packaging,Core,4.0,2.380952380952381,2,2
+openstack/kayobe,openstack/zuul-packaging,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/networking-generic-switch-tempest-plugin,Core,2.0,2.666666666666667,1,2
+openstack/kayobe,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/tripleo-incubator,Core,1.3888888888888888,1.282051282051282,2,4
+openstack/kayobe,openstack/tripleo-incubator,Non core,0.0,0.4273504273504274,2,4
+openstack/kayobe,openstack/ironic-webclient,Core,3.7037037037037033,1.9230769230769231,2,2
+openstack/kayobe,openstack/ironic-webclient,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/puppet-crane,Core,2.0,2.5974025974025974,1,2
+openstack/kayobe,openstack/puppet-crane,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/release-tools,Core,2.4691358024691357,1.3793103448275863,2,3
+openstack/kayobe,openstack/release-tools,Non core,0.0,0.6896551724137931,2,3
+openstack/kayobe,openstack/gnocchi,Core,0.8547008547008548,1.0,1,5
+openstack/kayobe,openstack/gnocchi,Non core,0.0,1.5,1,5
+openstack/kayobe,openstack/networking-ofagent,Core,1.694915254237288,2.0202020202020203,1,2
+openstack/kayobe,openstack/networking-ofagent,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/python-neutron-pd-driver,Core,1.9607843137254901,2.564102564102564,1,2
+openstack/kayobe,openstack/python-neutron-pd-driver,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/charm-ceph,Core,1.4705882352941175,1.0638297872340425,1,1
+openstack/kayobe,openstack/charm-ceph,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/openstack-ansible-os_freezer,Core,2.0,1.2987012987012987,1,1
+openstack/kayobe,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/openstack-ansible-pip_lock_down,Core,3.278688524590164,2.247191011235955,2,2
+openstack/kayobe,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/openstack-ansible-security,Core,2.3255813953488373,1.4084507042253522,2,3
+openstack/kayobe,openstack/openstack-ansible-security,Non core,0.0,0.7042253521126761,2,3
+openstack/kayobe,openstack/oslosphinx,Core,2.127659574468085,2.898550724637681,2,7
+openstack/kayobe,openstack/oslosphinx,Non core,0.0,2.1739130434782608,2,7
+openstack/kayobe,openstack/python-gnocchiclient,Core,1.2658227848101267,1.8867924528301887,1,2
+openstack/kayobe,openstack/python-gnocchiclient,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/ansible-role-k8s-cinder,Core,1.9607843137254901,1.282051282051282,1,1
+openstack/kayobe,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/ansible-role-k8s-cookiecutter,Core,1.9607843137254901,2.564102564102564,1,2
+openstack/kayobe,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/ansible-role-k8s-glance,Core,1.9230769230769231,2.564102564102564,1,2
+openstack/kayobe,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/ansible-role-k8s-keystone,Core,1.9230769230769231,1.2345679012345678,1,1
+openstack/kayobe,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/ansible-role-k8s-mariadb,Core,1.8867924528301887,2.5,1,2
+openstack/kayobe,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/ansible-role-k8s-rabbitmq,Core,2.0,1.3157894736842104,1,1
+openstack/kayobe,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/ansible-role-k8s-tripleo,Core,1.9230769230769231,2.5316455696202533,1,2
+openstack/kayobe,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/ansible-role-tripleo-ui,Core,1.8867924528301887,2.5,3,3
+openstack/kayobe,openstack/ansible-role-tripleo-ui,Non core,3.7735849056603774,1.25,3,3
+openstack/kayobe,openstack/ansible-role-tripleo-aodh,Core,1.8867924528301887,1.25,3,3
+openstack/kayobe,openstack/ansible-role-tripleo-aodh,Non core,3.7735849056603774,2.5,3,3
+openstack/kayobe,openstack/ansible-role-tripleo-barbican,Core,1.8867924528301887,1.25,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-barbican,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-ceilometer,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-ceilometer,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-cinder,Core,1.8867924528301887,1.25,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-cinder,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-cookiecutter,Core,3.571428571428571,2.3529411764705883,4,5
+openstack/kayobe,openstack/ansible-role-tripleo-cookiecutter,Non core,3.571428571428571,3.5294117647058822,4,5
+openstack/kayobe,openstack/tripleo-ui,Core,2.5,2.898550724637681,4,7
+openstack/kayobe,openstack/tripleo-ui,Non core,2.5,2.1739130434782608,4,7
+openstack/kayobe,openstack/ansible-role-tripleo-ovn,Core,1.8867924528301887,1.25,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-ovn,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-opendaylight,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-opendaylight,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-octavia,Core,1.8518518518518516,1.25,2,2
+openstack/kayobe,openstack/ansible-role-tripleo-octavia,Non core,1.8518518518518516,1.25,2,2
+openstack/kayobe,openstack/ansible-role-tripleo-nova,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-nova,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/os-cloud-config,Core,2.0202020202020203,1.8404907975460123,2,6
+openstack/kayobe,openstack/os-cloud-config,Non core,0.0,1.8404907975460123,2,6
+openstack/kayobe,openstack/ansible-role-tripleo-zaqar,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-zaqar,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-tempest,Core,1.8867924528301887,1.2658227848101267,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-tempest,Non core,3.7735849056603774,1.2658227848101267,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-sahara,Core,1.8867924528301887,1.25,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-sahara,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-swift,Core,1.8867924528301887,1.25,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-swift,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-tacker,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-tacker,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,1.8867924528301887,1.25,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-rabbitmq,Core,1.8867924528301887,1.25,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-rabbitmq,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-qdrouterd,Core,2.0,1.2987012987012987,1,1
+openstack/kayobe,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/ansible-role-tripleo-panko,Core,1.8867924528301887,1.25,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-panko,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-heat,Core,1.8867924528301887,1.25,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-heat,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-haproxy,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-haproxy,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-gnocchi,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-gnocchi,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-glance,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-glance,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-designate,Core,1.8867924528301887,1.2345679012345678,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-designate,Non core,3.7735849056603774,0.0,3,1
+openstack/kayobe,openstack/ansible-role-tripleo-neutron,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-neutron,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-mistral,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-mistral,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-memcached,Core,1.8867924528301887,1.25,3,3
+openstack/kayobe,openstack/ansible-role-tripleo-memcached,Non core,3.7735849056603774,2.5,3,3
+openstack/kayobe,openstack/ansible-role-tripleo-manila,Core,1.8867924528301887,1.2345679012345678,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-manila,Non core,3.7735849056603774,1.2345679012345678,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-ironic,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-ironic,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-keepalived,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-keepalived,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-horizon,Core,1.8867924528301887,1.25,3,2
+openstack/kayobe,openstack/ansible-role-tripleo-horizon,Non core,3.7735849056603774,1.25,3,2
+openstack/kayobe,openstack/pylockfile,Core,1.7543859649122806,2.1505376344086025,1,2
+openstack/kayobe,openstack/pylockfile,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/dragonflow,Core,1.1904761904761905,1.593625498007968,6,16
+openstack/kayobe,openstack/dragonflow,Non core,2.380952380952381,4.780876494023905,6,16
+openstack/kayobe,openstack/openstack,Core,1.8867924528301887,2.197802197802198,1,2
+openstack/kayobe,openstack/openstack,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/charm-interface-pacemaker-remote,Core,1.8867924528301887,1.25,1,4
+openstack/kayobe,openstack/charm-interface-pacemaker-remote,Non core,0.0,3.75,1,4
+openstack/kayobe,openstack/networking-onos,Core,1.5384615384615385,0.819672131147541,1,3
+openstack/kayobe,openstack/networking-onos,Non core,0.0,1.639344262295082,1,3
+openstack/kayobe,openstack/solum-infra-guestagent,Core,1.8181818181818181,1.1363636363636365,1,1
+openstack/kayobe,openstack/solum-infra-guestagent,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/openstack-ux,Core,1.9230769230769231,2.1739130434782608,1,2
+openstack/kayobe,openstack/openstack-ux,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/mox3,Core,2.8169014084507045,3.7383177570093453,5,6
+openstack/kayobe,openstack/mox3,Non core,4.225352112676056,1.8691588785046727,5,6
+openstack/kayobe,openstack/charm-layer-ceph,Core,1.9607843137254901,0.0,1,0
+openstack/kayobe,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/charm-layer-ceph-base,Core,1.8867924528301887,0.0,1,0
+openstack/kayobe,openstack/charm-layer-ceph-base,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/python-tricircleclient,Core,4.761904761904762,3.0303030303030303,5,6
+openstack/kayobe,openstack/python-tricircleclient,Non core,3.1746031746031744,3.0303030303030303,5,6
+openstack/kayobe,openstack/tricircle,Core,3.225806451612903,1.4634146341463417,6,9
+openstack/kayobe,openstack/tricircle,Non core,1.6129032258064515,2.9268292682926833,6,9
+openstack/kayobe,openstack/swift-specs,Core,1.3888888888888888,1.4492753623188406,1,2
+openstack/kayobe,openstack/swift-specs,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/congress,Core,1.0101010101010102,0.7299270072992701,4,12
+openstack/kayobe,openstack/congress,Non core,1.0101010101010102,3.64963503649635,4,12
+openstack/kayobe,openstack/congress-tempest-plugin,Core,3.1746031746031744,3.225806451612903,6,8
+openstack/kayobe,openstack/congress-tempest-plugin,Non core,6.349206349206349,5.376344086021505,6,8
+openstack/kayobe,openstack/python-congressclient,Core,2.0408163265306123,4.273504273504273,3,11
+openstack/kayobe,openstack/python-congressclient,Non core,1.0204081632653061,5.128205128205128,3,11
+openstack/kayobe,openstack/congress-specs,Core,2.4691358024691357,1.694915254237288,3,5
+openstack/kayobe,openstack/congress-specs,Non core,1.2345679012345678,2.5423728813559325,3,5
+openstack/kayobe,openstack/congress-dashboard,Core,2.941176470588235,3.9603960396039604,6,9
+openstack/kayobe,openstack/congress-dashboard,Non core,5.88235294117647,4.9504950495049505,6,9
+openstack/kayobe,openstack/syntribos,Core,1.2658227848101267,1.8691588785046727,1,4
+openstack/kayobe,openstack/syntribos,Non core,0.0,1.8691588785046727,1,4
+openstack/kayobe,openstack/syntribos-payloads,Core,2.0,1.2345679012345678,1,1
+openstack/kayobe,openstack/syntribos-payloads,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/syntribos-openstack-templates,Core,1.9230769230769231,1.2048192771084338,1,1
+openstack/kayobe,openstack/syntribos-openstack-templates,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/i18n-specs,Core,1.9607843137254901,1.2345679012345678,1,2
+openstack/kayobe,openstack/i18n-specs,Non core,0.0,1.2345679012345678,1,2
+openstack/kayobe,openstack/tempest-plugin-cookiecutter,Core,3.8461538461538463,3.5294117647058822,2,3
+openstack/kayobe,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,2,3
+openstack/kayobe,openstack/devstack-plugin-cookiecutter,Core,1.9230769230769231,1.25,1,1
+openstack/kayobe,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/xstatic-graphlib,Core,0.0,1.282051282051282,0,1
+openstack/kayobe,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/openstack-ansible-repo_build,Core,2.941176470588235,2.7777777777777777,6,15
+openstack/kayobe,openstack/openstack-ansible-repo_build,Non core,2.941176470588235,7.638888888888889,6,15
+openstack/kayobe,openstack/xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-hogan,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/openstack-ansible-os_molteniron,Core,1.4285714285714286,2.0408163265306123,3,8
+openstack/kayobe,openstack/openstack-ansible-os_molteniron,Non core,2.857142857142857,6.122448979591836,3,8
+openstack/kayobe,openstack/xstatic-angular-lrdragndrop,Core,0.0,1.1363636363636365,0,1
+openstack/kayobe,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/faafo,Core,1.694915254237288,1.0869565217391304,1,1
+openstack/kayobe,openstack/faafo,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/networking-calico,Core,1.25,2.380952380952381,3,7
+openstack/kayobe,openstack/networking-calico,Non core,2.5,3.1746031746031744,3,7
+openstack/kayobe,openstack/xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/shotgun,Core,2.9850746268656714,1.3605442176870748,2,2
+openstack/kayobe,openstack/shotgun,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/fuel-devops,Core,1.8518518518518516,0.9478672985781991,3,5
+openstack/kayobe,openstack/fuel-devops,Non core,0.9259259259259258,1.4218009478672986,3,5
+openstack/kayobe,openstack/fuel-plugin-murano,Core,1.639344262295082,0.9615384615384616,1,1
+openstack/kayobe,openstack/fuel-plugin-murano,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/fuel-web,Core,1.1673151750972763,0.6535947712418301,3,6
+openstack/kayobe,openstack/fuel-web,Non core,0.0,0.6535947712418301,3,6
+openstack/kayobe,openstack/fuel-plugins,Core,3.260869565217391,0.5714285714285714,3,1
+openstack/kayobe,openstack/fuel-plugins,Non core,0.0,0.0,3,1
+openstack/kayobe,openstack/fuel-virtualbox,Core,3.508771929824561,2.1052631578947367,2,2
+openstack/kayobe,openstack/fuel-virtualbox,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/fuel-ostf,Core,1.3793103448275863,0.7042253521126761,2,3
+openstack/kayobe,openstack/fuel-ostf,Non core,0.0,0.35211267605633806,2,3
+openstack/kayobe,openstack/fuel-qa,Core,1.1695906432748537,0.6349206349206349,2,5
+openstack/kayobe,openstack/fuel-qa,Non core,0.0,0.9523809523809524,2,5
+openstack/kayobe,openstack/fuel-specs,Core,1.3333333333333335,0.5405405405405406,2,3
+openstack/kayobe,openstack/fuel-specs,Non core,0.0,0.2702702702702703,2,3
+openstack/kayobe,openstack/fuel-nailgun-extension-cluster-upgrade,Core,1.694915254237288,1.0416666666666665,1,1
+openstack/kayobe,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/fuel-nailgun-agent,Core,1.1627906976744187,1.1764705882352942,1,2
+openstack/kayobe,openstack/fuel-nailgun-agent,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/fuel-mirror,Core,2.5,1.1560693641618496,2,4
+openstack/kayobe,openstack/fuel-mirror,Non core,0.0,1.1560693641618496,2,4
+openstack/kayobe,openstack/fuel-menu,Core,3.7037037037037033,1.6304347826086956,3,5
+openstack/kayobe,openstack/fuel-menu,Non core,0.0,1.0869565217391304,3,5
+openstack/kayobe,openstack/fuel-main,Core,1.0752688172043012,0.6309148264984227,2,6
+openstack/kayobe,openstack/fuel-main,Non core,0.0,1.2618296529968454,2,6
+openstack/kayobe,openstack/fuel-ui,Core,1.1111111111111112,0.6211180124223602,1,3
+openstack/kayobe,openstack/fuel-ui,Non core,0.0,1.2422360248447204,1,3
+openstack/kayobe,openstack/fuel-library,Core,1.2195121951219512,0.5905511811023622,3,6
+openstack/kayobe,openstack/fuel-library,Non core,0.0,0.5905511811023622,3,6
+openstack/kayobe,openstack/fuel-dev-tools,Core,3.278688524590164,1.0416666666666665,2,1
+openstack/kayobe,openstack/fuel-dev-tools,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/fuel-stats,Core,2.941176470588235,0.819672131147541,2,1
+openstack/kayobe,openstack/fuel-stats,Non core,0.0,0.0,2,1
+openstack/kayobe,openstack/fuel-nailgun-extension-converted-serializers,Core,1.9607843137254901,1.2658227848101267,1,1
+openstack/kayobe,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/fuel-nailgun-extension-iac,Core,1.8867924528301887,1.2345679012345678,1,1
+openstack/kayobe,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/fuel-plugin-murano-tests,Core,1.6666666666666667,0.9615384615384616,1,1
+openstack/kayobe,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/fuel-astute,Core,1.7699115044247788,0.8849557522123894,2,2
+openstack/kayobe,openstack/fuel-astute,Non core,0.0,0.0,2,2
+openstack/kayobe,openstack/fuel-docs,Core,0.6944444444444444,0.5181347150259068,1,4
+openstack/kayobe,openstack/fuel-docs,Non core,0.0,0.5181347150259068,1,4
+openstack/kayobe,openstack/fuel-agent,Core,2.586206896551724,0.904977375565611,3,3
+openstack/kayobe,openstack/fuel-agent,Non core,0.0,0.4524886877828055,3,3
+openstack/kayobe,openstack/fuel-octane,Core,2.5316455696202533,1.5625,2,3
+openstack/kayobe,openstack/fuel-octane,Non core,0.0,0.78125,2,3
+openstack/kayobe,openstack/tuning-box,Core,1.8518518518518516,1.0,1,2
+openstack/kayobe,openstack/tuning-box,Non core,0.0,1.0,1,2
+openstack/kayobe,openstack/python-fuelclient,Core,0.847457627118644,0.9174311926605505,1,4
+openstack/kayobe,openstack/python-fuelclient,Non core,0.0,0.9174311926605505,1,4
+openstack/kayobe,openstack/neutron-interconnection,Core,0.0,2.3529411764705883,0,2
+openstack/kayobe,openstack/neutron-interconnection,Non core,0.0,0.0,0,2
+openstack/kayobe,openstack/openstack-chef-repo,Core,0.0,0.78125,0,2
+openstack/kayobe,openstack/openstack-chef-repo,Non core,0.0,0.78125,0,2
+openstack/kayobe,openstack/os-acc,Core,0.0,3.296703296703297,0,3
+openstack/kayobe,openstack/os-acc,Non core,0.0,0.0,0,3
+openstack/kayobe,openstack/openstack-ansible-os_zaqar,Core,1.2048192771084338,1.7094017094017095,3,7
+openstack/kayobe,openstack/openstack-ansible-os_zaqar,Non core,2.4096385542168677,4.273504273504273,3,7
+openstack/kayobe,openstack/openstack-ansible-os_watcher,Core,1.2987012987012987,1.8181818181818181,4,6
+openstack/kayobe,openstack/openstack-ansible-os_watcher,Non core,3.896103896103896,3.6363636363636362,4,6
+openstack/kayobe,openstack/openstack-ansible-os_searchlight,Core,1.4492753623188406,0.0,4,4
+openstack/kayobe,openstack/openstack-ansible-os_searchlight,Non core,4.3478260869565215,3.8834951456310676,4,4
+openstack/kayobe,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/tempest-tripleo-ui,Core,0.0,1.1494252873563218,0,1
+openstack/kayobe,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/docs-specs,Core,1.0526315789473684,1.4545454545454546,2,7
+openstack/kayobe,openstack/docs-specs,Non core,1.0526315789473684,1.090909090909091,2,7
+openstack/kayobe,openstack/release-schedule-generator,Core,0.0,1.2345679012345678,0,1
+openstack/kayobe,openstack/release-schedule-generator,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack-infra/opendev-website,Core,2.0,1.2345679012345678,1,1
+openstack/kayobe,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/castellan-ui,Core,1.8518518518518516,1.0526315789473684,1,1
+openstack/kayobe,openstack/castellan-ui,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack-attic/compute-api,Core,1.3888888888888888,0.9009009009009009,1,1
+openstack/kayobe,openstack-attic/compute-api,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/charm-neutron-api-odl,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-neutron-api-odl,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-murano,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-murano,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-openvswitch-odl,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-openvswitch-odl,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-interface-odl-controller-api,Core,1.9230769230769231,0.0,1,0
+openstack/kayobe,openstack/charm-interface-odl-controller-api,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/charm-glusterfs,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-glusterfs,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-trove,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/charm-trove,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/fuxi,Core,1.3157894736842104,0.8264462809917356,1,1
+openstack/kayobe,openstack/fuxi,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/bandit,Core,0.9259259259259258,2.112676056338028,1,4
+openstack/kayobe,openstack/bandit,Non core,0.0,0.7042253521126761,1,4
+openstack/kayobe,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-d3,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/xstatic-d3,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/instack,Core,1.4084507042253522,0.9009009009009009,1,1
+openstack/kayobe,openstack/instack,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/astara,Core,1.1627906976744187,0.8264462809917356,1,4
+openstack/kayobe,openstack/astara,Non core,0.0,2.479338842975207,1,4
+openstack/kayobe,openstack/astara-appliance,Core,1.5873015873015872,1.0204081632653061,1,2
+openstack/kayobe,openstack/astara-appliance,Non core,0.0,1.0204081632653061,1,2
+openstack/kayobe,openstack/astara-horizon,Core,1.7857142857142856,0.0,1,1
+openstack/kayobe,openstack/astara-horizon,Non core,0.0,1.0869565217391304,1,1
+openstack/kayobe,openstack/astara-neutron,Core,1.6666666666666667,0.0,1,0
+openstack/kayobe,openstack/astara-neutron,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/anchor,Core,0.0,1.7391304347826086,0,4
+openstack/kayobe,openstack/anchor,Non core,0.0,1.7391304347826086,0,4
+openstack/kayobe,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/fuxi-golang,Core,2.0408163265306123,1.2658227848101267,1,1
+openstack/kayobe,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/fuxi-kubernetes,Core,2.0,1.1904761904761905,1,1
+openstack/kayobe,openstack/fuxi-kubernetes,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack-infra/puppet-odsreg,Core,1.8518518518518516,1.1235955056179776,1,1
+openstack/kayobe,openstack-infra/puppet-odsreg,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack-infra/puppet-docker_registry,Core,2.0408163265306123,0.0,1,0
+openstack/kayobe,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/releasestatus,Core,1.9607843137254901,1.2048192771084338,1,1
+openstack/kayobe,openstack/releasestatus,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack-infra/vinz-webclient,Core,2.0408163265306123,0.0,1,0
+openstack/kayobe,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/activity-board,Core,1.5625,0.0,1,1
+openstack/kayobe,openstack/activity-board,Non core,0.0,0.8130081300813009,1,1
+openstack/kayobe,openstack-infra/beaker-localhost,Core,2.0408163265306123,1.2987012987012987,1,1
+openstack/kayobe,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack-infra/beaker-nodepool,Core,2.0408163265306123,1.2987012987012987,1,1
+openstack/kayobe,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/rst2bash,Core,1.9230769230769231,1.1904761904761905,1,2
+openstack/kayobe,openstack/rst2bash,Non core,0.0,1.1904761904761905,1,2
+openstack/kayobe,openstack/kolla-kubernetes,Core,0.8771929824561403,1.0582010582010581,1,7
+openstack/kayobe,openstack/kolla-kubernetes,Non core,0.0,2.6455026455026456,1,7
+openstack/kayobe,openstack/cue-dashboard,Core,1.694915254237288,1.1627906976744187,1,1
+openstack/kayobe,openstack/cue-dashboard,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/python-cueclient,Core,1.6129032258064515,2.3529411764705883,1,2
+openstack/kayobe,openstack/python-cueclient,Non core,0.0,0.0,1,2
+openstack/kayobe,openstack/cue,Core,1.25,0.9259259259259258,1,3
+openstack/kayobe,openstack/cue,Non core,0.0,1.8518518518518516,1,3
+openstack/kayobe,openstack/app-catalog,Core,0.9090909090909091,0.7194244604316548,1,2
+openstack/kayobe,openstack/app-catalog,Non core,0.0,0.7194244604316548,1,2
+openstack/kayobe,openstack-attic/identity-api,Core,1.098901098901099,0.6329113924050633,1,1
+openstack/kayobe,openstack-attic/identity-api,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/app-catalog-ui,Core,1.7543859649122806,1.0869565217391304,1,1
+openstack/kayobe,openstack/app-catalog-ui,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/salt-formula-kubernetes,Core,1.8518518518518516,0.0,1,1
+openstack/kayobe,openstack/salt-formula-kubernetes,Non core,0.0,1.2195121951219512,1,1
+openstack/kayobe,openstack/app-catalog-common,Core,0.0,1.282051282051282,0,1
+openstack/kayobe,openstack/app-catalog-common,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/python-appcatalogclient,Core,0.0,1.2345679012345678,0,1
+openstack/kayobe,openstack/python-appcatalogclient,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-openstack-pkg-tools,Core,0.0,1.1764705882352942,0,1
+openstack/kayobe,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-mistral,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-mistral,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/installguide-cookiecutter,Core,3.4482758620689653,1.1363636363636365,2,2
+openstack/kayobe,openstack/installguide-cookiecutter,Non core,0.0,1.1363636363636365,2,2
+openstack/kayobe,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/salt-formula-opencontrail,Core,1.5384615384615385,0.0,1,1
+openstack/kayobe,openstack/salt-formula-opencontrail,Non core,0.0,1.1494252873563218,1,1
+openstack/kayobe,openstack/salt-formula-neutron,Core,1.5625,1.1111111111111112,1,1
+openstack/kayobe,openstack/salt-formula-neutron,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/salt-formula-nova,Core,1.4285714285714286,0.0,1,1
+openstack/kayobe,openstack/salt-formula-nova,Non core,0.0,1.1111111111111112,1,1
+openstack/kayobe,openstack/salt-formula-keystone,Core,1.4925373134328357,0.0,1,0
+openstack/kayobe,openstack/salt-formula-keystone,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/salt-formula-horizon,Core,1.6129032258064515,0.0,1,0
+openstack/kayobe,openstack/salt-formula-horizon,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/salt-formula-heat,Core,1.4492753623188406,0.0,1,0
+openstack/kayobe,openstack/salt-formula-heat,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/salt-formula-glance,Core,1.4705882352941175,0.0,1,1
+openstack/kayobe,openstack/salt-formula-glance,Non core,0.0,1.1363636363636365,1,1
+openstack/kayobe,openstack/salt-formula-cinder,Core,1.4925373134328357,0.0,1,0
+openstack/kayobe,openstack/salt-formula-cinder,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/salt-formula-ceilometer,Core,1.694915254237288,0.0,1,0
+openstack/kayobe,openstack/salt-formula-ceilometer,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/openstack-salt,Core,1.8867924528301887,0.0,1,0
+openstack/kayobe,openstack/openstack-salt,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/kayobe,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack/salt-formula-midonet,Core,2.0408163265306123,0.0,1,0
+openstack/kayobe,openstack/salt-formula-midonet,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack/magnetodb-specs,Core,1.6666666666666667,0.0,1,0
+openstack/kayobe,openstack/magnetodb-specs,Non core,0.0,0.0,1,0
+openstack/kayobe,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/oslo.version,Core,1.7543859649122806,1.0638297872340425,1,1
+openstack/kayobe,openstack-attic/oslo.version,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack-attic/image-api,Core,1.694915254237288,1.0638297872340425,1,1
+openstack/kayobe,openstack-attic/image-api,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack-attic/object-api,Core,1.4492753623188406,0.9615384615384616,1,1
+openstack/kayobe,openstack-attic/object-api,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack-attic/volume-api,Core,1.5873015873015872,1.0416666666666665,1,1
+openstack/kayobe,openstack-attic/volume-api,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack/magnetodb,Core,0.0,0.0,0,1
+openstack/kayobe,openstack/magnetodb,Non core,0.0,0.8928571428571428,0,1
+openstack/kayobe,openstack/openstack-nose,Core,0.0,1.2048192771084338,0,1
+openstack/kayobe,openstack/openstack-nose,Non core,0.0,0.0,0,1
+openstack/kayobe,openstack-attic/netconn-api,Core,1.3157894736842104,0.8064516129032258,1,2
+openstack/kayobe,openstack-attic/netconn-api,Non core,0.0,0.8064516129032258,1,2
+openstack/kayobe,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/database-api,Core,1.6666666666666667,1.0869565217391304,1,1
+openstack/kayobe,openstack-attic/database-api,Non core,0.0,0.0,1,1
+openstack/kayobe,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/kayobe,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

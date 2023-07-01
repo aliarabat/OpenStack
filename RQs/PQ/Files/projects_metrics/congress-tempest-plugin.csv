@@ -1,0 +1,895 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/congress-tempest-plugin,openstack/python-congressclient,Core,9.67741935483871,15.625,10,15
+openstack/congress-tempest-plugin,openstack/python-congressclient,Non core,6.451612903225806,7.8125,10,15
+openstack/congress-tempest-plugin,openstack/congress-specs,Core,12.76595744680851,10.9375,8,10
+openstack/congress-tempest-plugin,openstack/congress-specs,Non core,4.25531914893617,4.6875,8,10
+openstack/congress-tempest-plugin,openstack/congress-dashboard,Core,17.647058823529413,20.833333333333336,11,13
+openstack/congress-tempest-plugin,openstack/congress-dashboard,Non core,14.705882352941178,6.25,11,13
+openstack/congress-tempest-plugin,openstack/syntribos,Core,2.0,1.6666666666666667,1,2
+openstack/congress-tempest-plugin,openstack/syntribos,Non core,0.0,1.6666666666666667,1,2
+openstack/congress-tempest-plugin,openstack/syntribos-payloads,Core,4.761904761904762,0.0,1,0
+openstack/congress-tempest-plugin,openstack/syntribos-payloads,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/syntribos-openstack-templates,Core,4.3478260869565215,0.0,1,0
+openstack/congress-tempest-plugin,openstack/syntribos-openstack-templates,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/i18n-specs,Core,4.545454545454546,3.0303030303030303,1,1
+openstack/congress-tempest-plugin,openstack/i18n-specs,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/tempest-plugin-cookiecutter,Core,8.695652173913043,8.333333333333332,2,3
+openstack/congress-tempest-plugin,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,2,3
+openstack/congress-tempest-plugin,openstack/devstack-plugin-cookiecutter,Core,9.090909090909092,3.225806451612903,2,1
+openstack/congress-tempest-plugin,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/xstatic-graphlib,Core,0.0,3.4482758620689653,0,1
+openstack/congress-tempest-plugin,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/congress-tempest-plugin,openstack/openstack-ansible-repo_build,Core,4.166666666666666,4.040404040404041,7,11
+openstack/congress-tempest-plugin,openstack/openstack-ansible-repo_build,Non core,5.555555555555555,7.07070707070707,7,11
+openstack/congress-tempest-plugin,openstack/xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-hogan,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/openstack-ansible-os_molteniron,Core,7.6923076923076925,8.333333333333332,5,9
+openstack/congress-tempest-plugin,openstack/openstack-ansible-os_molteniron,Non core,5.128205128205128,10.416666666666668,5,9
+openstack/congress-tempest-plugin,openstack/xstatic-angular-lrdragndrop,Core,0.0,2.564102564102564,0,1
+openstack/congress-tempest-plugin,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,1
+openstack/congress-tempest-plugin,openstack/faafo,Core,3.3333333333333335,2.3255813953488373,1,1
+openstack/congress-tempest-plugin,openstack/faafo,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/networking-calico,Core,6.0,5.128205128205128,4,6
+openstack/congress-tempest-plugin,openstack/networking-calico,Non core,2.0,2.564102564102564,4,6
+openstack/congress-tempest-plugin,openstack/xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/shotgun,Core,2.564102564102564,1.0101010101010102,1,1
+openstack/congress-tempest-plugin,openstack/shotgun,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/fuel-devops,Core,2.5316455696202533,0.6097560975609756,3,3
+openstack/congress-tempest-plugin,openstack/fuel-devops,Non core,1.2658227848101267,1.2195121951219512,3,3
+openstack/congress-tempest-plugin,openstack/fuel-plugin-murano,Core,3.125,1.8181818181818181,1,1
+openstack/congress-tempest-plugin,openstack/fuel-plugin-murano,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-web,Core,0.8733624454148471,0.24154589371980675,2,2
+openstack/congress-tempest-plugin,openstack/fuel-web,Non core,0.0,0.24154589371980675,2,2
+openstack/congress-tempest-plugin,openstack/fuel-plugins,Core,3.125,0.7936507936507936,2,1
+openstack/congress-tempest-plugin,openstack/fuel-plugins,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/fuel-virtualbox,Core,3.4482758620689653,2.127659574468085,1,1
+openstack/congress-tempest-plugin,openstack/fuel-virtualbox,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-ostf,Core,1.7241379310344827,0.42194092827004215,2,1
+openstack/congress-tempest-plugin,openstack/fuel-ostf,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/fuel-qa,Core,0.6993006993006993,0.3703703703703704,1,1
+openstack/congress-tempest-plugin,openstack/fuel-qa,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-specs,Core,1.6528925619834711,0.30959752321981426,2,1
+openstack/congress-tempest-plugin,openstack/fuel-specs,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/fuel-nailgun-extension-cluster-upgrade,Core,3.3333333333333335,2.127659574468085,1,1
+openstack/congress-tempest-plugin,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-nailgun-agent,Core,1.7543859649122806,0.819672131147541,1,1
+openstack/congress-tempest-plugin,openstack/fuel-nailgun-agent,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-mirror,Core,3.9215686274509802,0.7874015748031495,2,1
+openstack/congress-tempest-plugin,openstack/fuel-mirror,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/fuel-menu,Core,3.7735849056603774,1.4492753623188406,2,2
+openstack/congress-tempest-plugin,openstack/fuel-menu,Non core,0.0,0.0,2,2
+openstack/congress-tempest-plugin,openstack/fuel-main,Core,0.6329113924050633,0.3676470588235294,1,2
+openstack/congress-tempest-plugin,openstack/fuel-main,Non core,0.0,0.3676470588235294,1,2
+openstack/congress-tempest-plugin,openstack/fuel-ui,Core,1.639344262295082,0.8771929824561403,1,1
+openstack/congress-tempest-plugin,openstack/fuel-ui,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-library,Core,0.9174311926605505,0.21551724137931033,2,1
+openstack/congress-tempest-plugin,openstack/fuel-library,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/fuel-dev-tools,Core,6.25,2.127659574468085,2,1
+openstack/congress-tempest-plugin,openstack/fuel-dev-tools,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/fuel-stats,Core,5.128205128205128,1.36986301369863,2,1
+openstack/congress-tempest-plugin,openstack/fuel-stats,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/fuel-nailgun-extension-converted-serializers,Core,4.545454545454546,3.3333333333333335,1,1
+openstack/congress-tempest-plugin,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-nailgun-extension-iac,Core,4.166666666666666,3.125,1,1
+openstack/congress-tempest-plugin,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-plugin-murano-tests,Core,3.225806451612903,1.8181818181818181,1,1
+openstack/congress-tempest-plugin,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-astute,Core,1.1764705882352942,0.5617977528089888,1,1
+openstack/congress-tempest-plugin,openstack/fuel-astute,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-docs,Core,0.8695652173913043,0.29411764705882354,1,1
+openstack/congress-tempest-plugin,openstack/fuel-docs,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuel-agent,Core,2.272727272727273,0.5747126436781609,2,1
+openstack/congress-tempest-plugin,openstack/fuel-agent,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/fuel-octane,Core,1.9607843137254901,1.25,1,2
+openstack/congress-tempest-plugin,openstack/fuel-octane,Non core,0.0,1.25,1,2
+openstack/congress-tempest-plugin,openstack/tuning-box,Core,8.333333333333332,3.9215686274509802,2,2
+openstack/congress-tempest-plugin,openstack/tuning-box,Non core,0.0,0.0,2,2
+openstack/congress-tempest-plugin,openstack/python-fuelclient,Core,1.1235955056179776,0.5813953488372093,1,1
+openstack/congress-tempest-plugin,openstack/python-fuelclient,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/neutron-interconnection,Core,0.0,8.571428571428571,0,3
+openstack/congress-tempest-plugin,openstack/neutron-interconnection,Non core,0.0,0.0,0,3
+openstack/congress-tempest-plugin,openstack/openstack-chef-repo,Core,1.639344262295082,1.25,1,1
+openstack/congress-tempest-plugin,openstack/openstack-chef-repo,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/os-acc,Core,0.0,2.272727272727273,1,1
+openstack/congress-tempest-plugin,openstack/os-acc,Non core,4.3478260869565215,0.0,1,1
+openstack/congress-tempest-plugin,openstack/openstack-ansible-os_zaqar,Core,5.88235294117647,5.970149253731343,6,8
+openstack/congress-tempest-plugin,openstack/openstack-ansible-os_zaqar,Non core,5.88235294117647,5.970149253731343,6,8
+openstack/congress-tempest-plugin,openstack/openstack-ansible-os_watcher,Core,6.666666666666667,6.666666666666667,7,7
+openstack/congress-tempest-plugin,openstack/openstack-ansible-os_watcher,Non core,8.88888888888889,5.0,7,7
+openstack/congress-tempest-plugin,openstack/openstack-ansible-os_searchlight,Core,8.108108108108109,3.6363636363636362,7,3
+openstack/congress-tempest-plugin,openstack/openstack-ansible-os_searchlight,Non core,10.81081081081081,1.8181818181818181,7,3
+openstack/congress-tempest-plugin,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/tempest-tripleo-ui,Core,0.0,2.631578947368421,0,1
+openstack/congress-tempest-plugin,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,1
+openstack/congress-tempest-plugin,openstack/docs-specs,Core,1.5384615384615385,0.8771929824561403,3,5
+openstack/congress-tempest-plugin,openstack/docs-specs,Non core,3.076923076923077,1.3157894736842104,3,5
+openstack/congress-tempest-plugin,openstack/release-schedule-generator,Core,0.0,3.125,1,1
+openstack/congress-tempest-plugin,openstack/release-schedule-generator,Non core,4.3478260869565215,0.0,1,1
+openstack/congress-tempest-plugin,openstack-infra/opendev-website,Core,4.761904761904762,3.125,1,1
+openstack/congress-tempest-plugin,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/castellan-ui,Core,8.333333333333332,6.8181818181818175,2,3
+openstack/congress-tempest-plugin,openstack/castellan-ui,Non core,0.0,0.0,2,3
+openstack/congress-tempest-plugin,openstack-attic/compute-api,Core,4.761904761904762,1.6129032258064515,2,1
+openstack/congress-tempest-plugin,openstack-attic/compute-api,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/charm-neutron-api-odl,Core,3.3333333333333335,2.7027027027027026,1,1
+openstack/congress-tempest-plugin,openstack/charm-neutron-api-odl,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/charm-murano,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/charm-murano,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/charm-openvswitch-odl,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/charm-openvswitch-odl,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/charm-interface-odl-controller-api,Core,4.3478260869565215,0.0,1,0
+openstack/congress-tempest-plugin,openstack/charm-interface-odl-controller-api,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/charm-glusterfs,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/charm-glusterfs,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/charm-trove,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/charm-trove,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/fuxi,Core,2.127659574468085,1.3888888888888888,1,1
+openstack/congress-tempest-plugin,openstack/fuxi,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/bandit,Core,2.5974025974025974,3.1914893617021276,3,3
+openstack/congress-tempest-plugin,openstack/bandit,Non core,1.2987012987012987,0.0,3,3
+openstack/congress-tempest-plugin,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-d3,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/xstatic-d3,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/instack,Core,5.128205128205128,3.3333333333333335,4,3
+openstack/congress-tempest-plugin,openstack/instack,Non core,5.128205128205128,1.6666666666666667,4,3
+openstack/congress-tempest-plugin,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/astara,Core,1.7543859649122806,2.7027027027027026,1,2
+openstack/congress-tempest-plugin,openstack/astara,Non core,0.0,0.0,1,2
+openstack/congress-tempest-plugin,openstack/astara-appliance,Core,2.941176470588235,2.0,1,1
+openstack/congress-tempest-plugin,openstack/astara-appliance,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/astara-horizon,Core,3.7037037037037033,0.0,1,0
+openstack/congress-tempest-plugin,openstack/astara-horizon,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/astara-neutron,Core,3.225806451612903,0.0,1,0
+openstack/congress-tempest-plugin,openstack/astara-neutron,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/anchor,Core,0.0,1.4492753623188406,0,1
+openstack/congress-tempest-plugin,openstack/anchor,Non core,0.0,0.0,0,1
+openstack/congress-tempest-plugin,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/fuxi-golang,Core,5.0,3.3333333333333335,1,1
+openstack/congress-tempest-plugin,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/fuxi-kubernetes,Core,4.761904761904762,2.857142857142857,1,1
+openstack/congress-tempest-plugin,openstack/fuxi-kubernetes,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack-infra/puppet-odsreg,Core,8.333333333333332,5.128205128205128,2,2
+openstack/congress-tempest-plugin,openstack-infra/puppet-odsreg,Non core,0.0,0.0,2,2
+openstack/congress-tempest-plugin,openstack-infra/puppet-docker_registry,Core,5.0,3.7037037037037033,1,1
+openstack/congress-tempest-plugin,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/releasestatus,Core,4.545454545454546,2.941176470588235,1,1
+openstack/congress-tempest-plugin,openstack/releasestatus,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack-infra/vinz-webclient,Core,5.0,3.7037037037037033,1,1
+openstack/congress-tempest-plugin,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/activity-board,Core,2.857142857142857,1.3513513513513513,1,1
+openstack/congress-tempest-plugin,openstack/activity-board,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack-infra/beaker-localhost,Core,5.0,3.571428571428571,1,1
+openstack/congress-tempest-plugin,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack-infra/beaker-nodepool,Core,5.0,3.571428571428571,1,1
+openstack/congress-tempest-plugin,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/rst2bash,Core,4.3478260869565215,2.857142857142857,1,2
+openstack/congress-tempest-plugin,openstack/rst2bash,Non core,0.0,2.857142857142857,1,2
+openstack/congress-tempest-plugin,openstack/kolla-kubernetes,Core,1.1904761904761905,2.112676056338028,2,5
+openstack/congress-tempest-plugin,openstack/kolla-kubernetes,Non core,1.1904761904761905,1.4084507042253522,2,5
+openstack/congress-tempest-plugin,openstack/cue-dashboard,Core,3.3333333333333335,2.7027027027027026,1,1
+openstack/congress-tempest-plugin,openstack/cue-dashboard,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/python-cueclient,Core,3.0303030303030303,5.555555555555555,1,2
+openstack/congress-tempest-plugin,openstack/python-cueclient,Non core,0.0,0.0,1,2
+openstack/congress-tempest-plugin,openstack/cue,Core,1.9607843137254901,1.639344262295082,1,1
+openstack/congress-tempest-plugin,openstack/cue,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/app-catalog,Core,1.2345679012345678,1.098901098901099,1,1
+openstack/congress-tempest-plugin,openstack/app-catalog,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack-attic/identity-api,Core,3.278688524590164,0.9174311926605505,2,1
+openstack/congress-tempest-plugin,openstack-attic/identity-api,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/python-magnetodbclient,Core,4.166666666666666,0.0,1,0
+openstack/congress-tempest-plugin,openstack/python-magnetodbclient,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/app-catalog-ui,Core,3.571428571428571,2.3255813953488373,1,1
+openstack/congress-tempest-plugin,openstack/app-catalog-ui,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/salt-formula-kubernetes,Core,4.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-kubernetes,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/app-catalog-common,Core,0.0,3.4482758620689653,0,1
+openstack/congress-tempest-plugin,openstack/app-catalog-common,Non core,0.0,0.0,0,1
+openstack/congress-tempest-plugin,openstack/python-appcatalogclient,Core,0.0,3.125,0,1
+openstack/congress-tempest-plugin,openstack/python-appcatalogclient,Non core,0.0,0.0,0,1
+openstack/congress-tempest-plugin,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-openstack-pkg-tools,Core,0.0,2.7777777777777777,0,1
+openstack/congress-tempest-plugin,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,1
+openstack/congress-tempest-plugin,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-mistral,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-mistral,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/installguide-cookiecutter,Core,3.3333333333333335,2.564102564102564,1,2
+openstack/congress-tempest-plugin,openstack/installguide-cookiecutter,Non core,0.0,2.564102564102564,1,2
+openstack/congress-tempest-plugin,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/salt-formula-opencontrail,Core,2.7777777777777777,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-opencontrail,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-neutron,Core,2.857142857142857,2.4390243902439024,1,1
+openstack/congress-tempest-plugin,openstack/salt-formula-neutron,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/salt-formula-nova,Core,2.4390243902439024,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-nova,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-keystone,Core,2.631578947368421,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-keystone,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-horizon,Core,3.0303030303030303,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-horizon,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-heat,Core,2.5,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-heat,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-glance,Core,2.564102564102564,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-glance,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-cinder,Core,2.631578947368421,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-cinder,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-ceilometer,Core,3.3333333333333335,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-ceilometer,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/openstack-salt,Core,4.166666666666666,0.0,1,0
+openstack/congress-tempest-plugin,openstack/openstack-salt,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack/salt-formula-midonet,Core,5.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/salt-formula-midonet,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/magnetodb-specs,Core,6.666666666666667,0.0,2,0
+openstack/congress-tempest-plugin,openstack/magnetodb-specs,Non core,0.0,0.0,2,0
+openstack/congress-tempest-plugin,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack-attic/oslo.version,Core,3.571428571428571,2.2222222222222223,1,1
+openstack/congress-tempest-plugin,openstack-attic/oslo.version,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack-attic/image-api,Core,6.896551724137931,2.2222222222222223,2,1
+openstack/congress-tempest-plugin,openstack-attic/image-api,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack-attic/object-api,Core,5.128205128205128,1.8181818181818181,2,1
+openstack/congress-tempest-plugin,openstack-attic/object-api,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack-attic/volume-api,Core,2.941176470588235,2.127659574468085,1,1
+openstack/congress-tempest-plugin,openstack-attic/volume-api,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack/magnetodb,Core,2.380952380952381,0.0,1,0
+openstack/congress-tempest-plugin,openstack/magnetodb,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack/openstack-nose,Core,0.0,2.941176470588235,0,1
+openstack/congress-tempest-plugin,openstack/openstack-nose,Non core,0.0,0.0,0,1
+openstack/congress-tempest-plugin,openstack-attic/netconn-api,Core,4.3478260869565215,1.3157894736842104,2,1
+openstack/congress-tempest-plugin,openstack-attic/netconn-api,Non core,0.0,0.0,2,1
+openstack/congress-tempest-plugin,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack-attic/melange,Core,2.7777777777777777,0.0,1,0
+openstack/congress-tempest-plugin,openstack-attic/melange,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack-attic/openstack-qa,Core,4.3478260869565215,0.0,1,0
+openstack/congress-tempest-plugin,openstack-attic/openstack-qa,Non core,0.0,0.0,1,0
+openstack/congress-tempest-plugin,openstack-attic/database-api,Core,3.225806451612903,2.3255813953488373,1,1
+openstack/congress-tempest-plugin,openstack-attic/database-api,Non core,0.0,0.0,1,1
+openstack/congress-tempest-plugin,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/congress-tempest-plugin,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

@@ -1,0 +1,1767 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/osprofiler,openstack/openstack-ansible-os_trove,Core,3.90625,2.4390243902439024,9,12
+openstack/osprofiler,openstack/openstack-ansible-os_trove,Non core,3.125,4.878048780487805,9,12
+openstack/osprofiler,openstack/openstack-ansible-os_manila,Core,3.061224489795918,2.2222222222222223,6,3
+openstack/osprofiler,openstack/openstack-ansible-os_manila,Non core,3.061224489795918,0.0,6,3
+openstack/osprofiler,openstack/ansible-hardening,Core,4.424778761061947,2.5316455696202533,8,11
+openstack/osprofiler,openstack/ansible-hardening,Non core,2.6548672566371683,4.430379746835443,8,11
+openstack/osprofiler,openstack/barbican-specs,Core,3.2520325203252036,2.6881720430107525,8,10
+openstack/osprofiler,openstack/barbican-specs,Non core,3.2520325203252036,2.6881720430107525,8,10
+openstack/osprofiler,openstack/python-heatclient,Core,7.659574468085106,4.918032786885246,25,38
+openstack/osprofiler,openstack/python-heatclient,Non core,2.9787234042553195,5.46448087431694,25,38
+openstack/osprofiler,openstack/oslo.versionedobjects,Core,12.666666666666668,9.900990099009901,26,40
+openstack/osprofiler,openstack/oslo.versionedobjects,Non core,4.666666666666667,9.900990099009901,26,40
+openstack/osprofiler,openstack/os-api-ref,Core,10.0,5.960264900662252,17,15
+openstack/osprofiler,openstack/os-api-ref,Non core,5.454545454545454,3.9735099337748347,17,15
+openstack/osprofiler,openstack/devstack-plugin-container,Core,4.166666666666666,1.550387596899225,4,5
+openstack/osprofiler,openstack/devstack-plugin-container,Non core,0.0,2.3255813953488373,4,5
+openstack/osprofiler,openstack/venus-dashboard,Core,0.0,0.847457627118644,0,2
+openstack/osprofiler,openstack/venus-dashboard,Non core,0.0,0.847457627118644,0,2
+openstack/osprofiler,openstack/manila-ui,Core,6.293706293706294,4.545454545454546,15,21
+openstack/osprofiler,openstack/manila-ui,Non core,4.195804195804196,6.0606060606060606,15,21
+openstack/osprofiler,openstack/devstack-plugin-nfs,Core,2.2222222222222223,3.875968992248062,2,7
+openstack/osprofiler,openstack/devstack-plugin-nfs,Non core,0.0,1.550387596899225,2,7
+openstack/osprofiler,openstack/taskflow,Core,9.316770186335404,6.866952789699571,24,42
+openstack/osprofiler,openstack/taskflow,Non core,5.590062111801243,11.158798283261802,24,42
+openstack/osprofiler,openstack/python-cyborgclient,Core,4.807692307692308,4.081632653061225,7,9
+openstack/osprofiler,openstack/python-cyborgclient,Non core,1.9230769230769231,2.0408163265306123,7,9
+openstack/osprofiler,openstack/zun,Core,4.390243902439024,4.014598540145985,16,28
+openstack/osprofiler,openstack/zun,Non core,3.414634146341464,6.204379562043796,16,28
+openstack/osprofiler,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/charm-openstack-loadbalancer,Non core,1.1363636363636365,0.847457627118644,1,1
+openstack/osprofiler,openstack/ansible-role-python_venv_build,Core,2.857142857142857,1.3605442176870748,6,6
+openstack/osprofiler,openstack/ansible-role-python_venv_build,Non core,2.857142857142857,2.7210884353741496,6,6
+openstack/osprofiler,openstack/mistral-dashboard,Core,6.923076923076923,4.0,13,17
+openstack/osprofiler,openstack/mistral-dashboard,Non core,3.076923076923077,5.714285714285714,13,17
+openstack/osprofiler,openstack/mistral-lib,Core,6.25,2.6143790849673203,11,13
+openstack/osprofiler,openstack/mistral-lib,Non core,3.571428571428571,5.88235294117647,11,13
+openstack/osprofiler,openstack/monasca-events-api,Core,5.1020408163265305,2.2058823529411766,7,9
+openstack/osprofiler,openstack/monasca-events-api,Non core,2.0408163265306123,4.411764705882353,7,9
+openstack/osprofiler,openstack/python-zaqarclient,Core,7.051282051282051,4.9504950495049505,18,26
+openstack/osprofiler,openstack/python-zaqarclient,Non core,4.487179487179487,7.920792079207921,18,26
+openstack/osprofiler,openstack/monasca-api,Core,5.5,2.867383512544803,13,24
+openstack/osprofiler,openstack/monasca-api,Non core,1.0,5.734767025089606,13,24
+openstack/osprofiler,openstack/monasca-persister,Core,7.246376811594203,3.5000000000000004,15,21
+openstack/osprofiler,openstack/monasca-persister,Non core,3.6231884057971016,7.000000000000001,15,21
+openstack/osprofiler,openstack/monasca-notification,Core,7.092198581560284,3.061224489795918,15,15
+openstack/osprofiler,openstack/monasca-notification,Non core,3.546099290780142,4.591836734693878,15,15
+openstack/osprofiler,openstack/python-saharaclient,Core,7.643312101910828,4.739336492890995,19,24
+openstack/osprofiler,openstack/python-saharaclient,Non core,4.45859872611465,6.6350710900473935,19,24
+openstack/osprofiler,openstack/charm-magpie,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/charm-magpie,Non core,1.0526315789473684,0.819672131147541,1,1
+openstack/osprofiler,openstack/openstack-ansible-os_placement,Core,2.0202020202020203,2.272727272727273,5,7
+openstack/osprofiler,openstack/openstack-ansible-os_placement,Non core,3.0303030303030303,3.0303030303030303,5,7
+openstack/osprofiler,openstack/openstackdocstheme,Core,9.090909090909092,6.030150753768844,19,19
+openstack/osprofiler,openstack/openstackdocstheme,Non core,5.303030303030303,3.5175879396984926,19,19
+openstack/osprofiler,openstack/sahara,Core,5.230769230769231,3.1963470319634704,27,36
+openstack/osprofiler,openstack/sahara,Non core,3.076923076923077,5.0228310502283104,27,36
+openstack/osprofiler,openstack/ironic-ui,Core,8.0,3.428571428571429,17,16
+openstack/osprofiler,openstack/ironic-ui,Non core,5.6000000000000005,5.714285714285714,17,16
+openstack/osprofiler,openstack/oslo.serialization,Core,12.8,8.875739644970414,25,38
+openstack/osprofiler,openstack/oslo.serialization,Non core,7.199999999999999,13.609467455621301,25,38
+openstack/osprofiler,openstack/oslo.context,Core,14.035087719298245,7.262569832402235,26,31
+openstack/osprofiler,openstack/oslo.context,Non core,8.771929824561402,10.05586592178771,26,31
+openstack/osprofiler,openstack/oslo.limit,Core,5.825242718446602,7.4074074074074066,14,22
+openstack/osprofiler,openstack/oslo.limit,Non core,7.766990291262135,8.88888888888889,14,22
+openstack/osprofiler,openstack/oslo.middleware,Core,9.219858156028367,8.717948717948717,24,38
+openstack/osprofiler,openstack/oslo.middleware,Non core,7.801418439716312,10.76923076923077,24,38
+openstack/osprofiler,openstack/oslo.reports,Core,10.091743119266056,9.803921568627452,18,37
+openstack/osprofiler,openstack/oslo.reports,Non core,6.422018348623854,14.37908496732026,18,37
+openstack/osprofiler,openstack/futurist,Core,12.5,8.333333333333332,23,28
+openstack/osprofiler,openstack/futurist,Non core,9.615384615384617,11.11111111111111,23,28
+openstack/osprofiler,openstack/oslo.i18n,Core,13.559322033898304,8.670520231213873,26,38
+openstack/osprofiler,openstack/oslo.i18n,Non core,8.47457627118644,13.294797687861271,26,38
+openstack/osprofiler,openstack/sushy-oem-idrac,Core,0.0,0.7575757575757576,0,2
+openstack/osprofiler,openstack/sushy-oem-idrac,Non core,0.0,0.7575757575757576,0,2
+openstack/osprofiler,openstack/python-dracclient,Core,3.4782608695652173,2.4390243902439024,7,14
+openstack/osprofiler,openstack/python-dracclient,Non core,2.608695652173913,6.097560975609756,7,14
+openstack/osprofiler,openstack/openstack-ansible-os_adjutant,Core,0.0,0.8333333333333334,0,1
+openstack/osprofiler,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,1
+openstack/osprofiler,openstack/openstack-ansible-os_masakari,Core,2.7522935779816518,2.631578947368421,7,9
+openstack/osprofiler,openstack/openstack-ansible-os_masakari,Non core,3.669724770642202,3.289473684210526,7,9
+openstack/osprofiler,openstack/ansible-role-systemd_mount,Core,3.061224489795918,1.5384615384615385,5,6
+openstack/osprofiler,openstack/ansible-role-systemd_mount,Non core,2.0408163265306123,3.076923076923077,5,6
+openstack/osprofiler,openstack/python-senlinclient,Core,9.333333333333334,4.25531914893617,25,28
+openstack/osprofiler,openstack/python-senlinclient,Non core,7.333333333333333,10.638297872340425,25,28
+openstack/osprofiler,openstack/senlin-dashboard,Core,7.199999999999999,5.649717514124294,15,24
+openstack/osprofiler,openstack/senlin-dashboard,Non core,4.8,7.909604519774012,15,24
+openstack/osprofiler,openstack/networking-generic-switch,Core,3.597122302158273,3.3707865168539324,8,11
+openstack/osprofiler,openstack/networking-generic-switch,Non core,2.158273381294964,2.8089887640449436,8,11
+openstack/osprofiler,openstack/sahara-image-elements,Core,8.823529411764707,2.185792349726776,14,12
+openstack/osprofiler,openstack/sahara-image-elements,Non core,1.4705882352941175,4.371584699453552,14,12
+openstack/osprofiler,openstack/ansible-role-thales-hsm,Core,0.0,0.8130081300813009,1,3
+openstack/osprofiler,openstack/ansible-role-thales-hsm,Non core,1.1494252873563218,1.6260162601626018,1,3
+openstack/osprofiler,openstack/ansible-role-atos-hsm,Core,0.0,0.8264462809917356,1,3
+openstack/osprofiler,openstack/ansible-role-atos-hsm,Non core,1.1627906976744187,1.6528925619834711,1,3
+openstack/osprofiler,openstack/adjutant-ui,Core,5.555555555555555,5.0,5,9
+openstack/osprofiler,openstack/adjutant-ui,Non core,0.0,2.5,5,9
+openstack/osprofiler,openstack/sahara-extra,Core,6.956521739130435,4.516129032258064,10,12
+openstack/osprofiler,openstack/sahara-extra,Non core,1.7391304347826086,3.225806451612903,10,12
+openstack/osprofiler,openstack/blazar-nova,Core,7.6923076923076925,5.333333333333334,12,18
+openstack/osprofiler,openstack/blazar-nova,Non core,3.8461538461538463,6.666666666666667,12,18
+openstack/osprofiler,openstack/oslo.service,Core,12.162162162162163,7.981220657276995,28,40
+openstack/osprofiler,openstack/oslo.service,Non core,6.756756756756757,10.7981220657277,28,40
+openstack/osprofiler,openstack/blazar-dashboard,Core,5.0,6.25,8,19
+openstack/osprofiler,openstack/blazar-dashboard,Non core,3.0,6.944444444444445,8,19
+openstack/osprofiler,openstack/paunch,Core,5.737704918032787,3.4482758620689653,10,17
+openstack/osprofiler,openstack/paunch,Non core,2.459016393442623,4.926108374384237,10,17
+openstack/osprofiler,openstack/service-types-authority,Core,6.0606060606060606,5.454545454545454,6,12
+openstack/osprofiler,openstack/service-types-authority,Non core,0.0,1.8181818181818181,6,12
+openstack/osprofiler,openstack/python-ironic-inspector-client,Core,5.691056910569105,3.4482758620689653,9,20
+openstack/osprofiler,openstack/python-ironic-inspector-client,Non core,1.6260162601626018,8.045977011494253,9,20
+openstack/osprofiler,openstack/openstack-ansible-memcached_server,Core,5.833333333333333,1.2422360248447204,11,10
+openstack/osprofiler,openstack/openstack-ansible-memcached_server,Non core,3.3333333333333335,4.968944099378882,11,10
+openstack/osprofiler,openstack/os-testr,Core,6.666666666666667,6.432748538011696,13,24
+openstack/osprofiler,openstack/os-testr,Non core,4.166666666666666,7.602339181286549,13,24
+openstack/osprofiler,openstack/openstack-ansible-ceph_client,Core,5.64516129032258,1.1627906976744187,12,11
+openstack/osprofiler,openstack/openstack-ansible-ceph_client,Non core,4.032258064516129,5.232558139534884,12,11
+openstack/osprofiler,openstack/openstack-ansible-os_magnum,Core,5.426356589147287,1.6666666666666667,11,11
+openstack/osprofiler,openstack/openstack-ansible-os_magnum,Non core,3.10077519379845,4.444444444444445,11,11
+openstack/osprofiler,openstack/openstack-ansible-os_blazar,Core,2.7777777777777777,2.73972602739726,6,8
+openstack/osprofiler,openstack/openstack-ansible-os_blazar,Non core,2.7777777777777777,2.73972602739726,6,8
+openstack/osprofiler,openstack/openstack-ansible-os_designate,Core,4.444444444444445,2.1621621621621623,10,13
+openstack/osprofiler,openstack/openstack-ansible-os_designate,Non core,2.9629629629629632,4.864864864864865,10,13
+openstack/osprofiler,openstack/openstack-ansible-os_gnocchi,Core,5.303030303030303,1.7647058823529411,11,12
+openstack/osprofiler,openstack/openstack-ansible-os_gnocchi,Non core,3.0303030303030303,5.294117647058823,11,12
+openstack/osprofiler,openstack/openstack-ansible-os_senlin,Core,0.0,0.8264462809917356,0,1
+openstack/osprofiler,openstack/openstack-ansible-os_senlin,Non core,0.0,0.0,0,1
+openstack/osprofiler,openstack/ptgbot,Core,6.451612903225806,3.787878787878788,6,7
+openstack/osprofiler,openstack/ptgbot,Non core,0.0,1.5151515151515151,6,7
+openstack/osprofiler,openstack/openstack-ansible-os_zun,Core,2.803738317757009,2.112676056338028,6,8
+openstack/osprofiler,openstack/openstack-ansible-os_zun,Non core,2.803738317757009,3.5211267605633805,6,8
+openstack/osprofiler,openstack/openstack-ansible-repo_server,Core,4.545454545454546,1.6853932584269662,9,10
+openstack/osprofiler,openstack/openstack-ansible-repo_server,Non core,2.272727272727273,3.932584269662921,9,10
+openstack/osprofiler,openstack/python-watcherclient,Core,5.88235294117647,4.0,15,18
+openstack/osprofiler,openstack/python-watcherclient,Non core,3.9215686274509802,6.2857142857142865,15,18
+openstack/osprofiler,openstack/heat-agents,Core,4.310344827586207,4.395604395604396,6,16
+openstack/osprofiler,openstack/heat-agents,Non core,0.8620689655172413,4.395604395604396,6,16
+openstack/osprofiler,openstack/oslo.rootwrap,Core,10.687022900763358,9.424083769633508,26,38
+openstack/osprofiler,openstack/oslo.rootwrap,Non core,9.16030534351145,10.471204188481675,26,38
+openstack/osprofiler,openstack/automaton,Core,9.0,8.527131782945736,16,26
+openstack/osprofiler,openstack/automaton,Non core,7.000000000000001,11.627906976744185,16,26
+openstack/osprofiler,openstack/debtcollector,Core,12.5,10.483870967741936,24,30
+openstack/osprofiler,openstack/debtcollector,Non core,10.576923076923077,13.709677419354838,24,30
+openstack/osprofiler,openstack/vitrage-dashboard,Core,5.88235294117647,3.592814371257485,15,13
+openstack/osprofiler,openstack/vitrage-dashboard,Non core,5.147058823529411,4.191616766467066,15,13
+openstack/osprofiler,openstack/oslotest,Core,11.570247933884298,8.484848484848486,24,35
+openstack/osprofiler,openstack/oslotest,Non core,8.264462809917356,12.727272727272727,24,35
+openstack/osprofiler,openstack/kayobe-config,Core,2.1739130434782608,0.847457627118644,3,1
+openstack/osprofiler,openstack/kayobe-config,Non core,1.0869565217391304,0.0,3,1
+openstack/osprofiler,openstack/compute-hyperv,Core,6.666666666666667,4.444444444444445,13,17
+openstack/osprofiler,openstack/compute-hyperv,Non core,5.714285714285714,8.148148148148149,13,17
+openstack/osprofiler,openstack/python-cloudkittyclient,Core,6.153846153846154,4.320987654320987,16,20
+openstack/osprofiler,openstack/python-cloudkittyclient,Non core,6.153846153846154,8.024691358024691,16,20
+openstack/osprofiler,openstack/charm-interface-keystone,Core,3.1914893617021276,0.8130081300813009,5,5
+openstack/osprofiler,openstack/charm-interface-keystone,Non core,2.127659574468085,3.2520325203252036,5,5
+openstack/osprofiler,openstack/cloudkitty-dashboard,Core,6.666666666666667,3.5502958579881656,11,19
+openstack/osprofiler,openstack/cloudkitty-dashboard,Non core,2.5,7.6923076923076925,11,19
+openstack/osprofiler,openstack/networking-hyperv,Core,6.451612903225806,2.0408163265306123,13,16
+openstack/osprofiler,openstack/networking-hyperv,Non core,4.032258064516129,8.843537414965986,13,16
+openstack/osprofiler,openstack/i18n,Core,6.837606837606838,4.938271604938271,10,20
+openstack/osprofiler,openstack/i18n,Non core,1.7094017094017095,7.4074074074074066,10,20
+openstack/osprofiler,openstack/sahara-tests,Core,4.310344827586207,3.6585365853658534,7,14
+openstack/osprofiler,openstack/sahara-tests,Non core,1.7241379310344827,4.878048780487805,7,14
+openstack/osprofiler,openstack/python-zunclient,Core,6.666666666666667,4.081632653061225,18,19
+openstack/osprofiler,openstack/python-zunclient,Non core,5.333333333333334,5.612244897959184,18,19
+openstack/osprofiler,openstack/sahara-plugin-cdh,Core,4.3478260869565215,3.225806451612903,5,9
+openstack/osprofiler,openstack/sahara-plugin-cdh,Non core,1.0869565217391304,4.032258064516129,5,9
+openstack/osprofiler,openstack/monasca-ui,Core,8.333333333333332,3.225806451612903,17,25
+openstack/osprofiler,openstack/monasca-ui,Non core,3.4722222222222223,8.294930875576037,17,25
+openstack/osprofiler,openstack/python-adjutantclient,Core,5.4945054945054945,2.564102564102564,5,7
+openstack/osprofiler,openstack/python-adjutantclient,Non core,0.0,3.418803418803419,5,7
+openstack/osprofiler,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/ansible-role-lunasa-hsm,Core,1.1764705882352942,0.8849557522123894,1,3
+openstack/osprofiler,openstack/ansible-role-lunasa-hsm,Non core,0.0,1.7699115044247788,1,3
+openstack/osprofiler,openstack/monasca-thresh,Core,4.716981132075472,0.6622516556291391,6,6
+openstack/osprofiler,openstack/monasca-thresh,Non core,0.9433962264150944,3.3112582781456954,6,6
+openstack/osprofiler,openstack/heat-specs,Core,4.081632653061225,3.985507246376811,8,19
+openstack/osprofiler,openstack/heat-specs,Non core,1.3605442176870748,2.898550724637681,8,19
+openstack/osprofiler,openstack/watcher-dashboard,Core,5.737704918032787,3.7037037037037033,12,16
+openstack/osprofiler,openstack/watcher-dashboard,Non core,4.098360655737705,6.172839506172839,12,16
+openstack/osprofiler,openstack/sahara-plugin-ambari,Core,4.395604395604396,2.5,5,6
+openstack/osprofiler,openstack/sahara-plugin-ambari,Non core,1.098901098901099,2.5,5,6
+openstack/osprofiler,openstack/sahara-plugin-mapr,Core,4.444444444444445,3.3057851239669422,5,10
+openstack/osprofiler,openstack/sahara-plugin-mapr,Non core,1.1111111111111112,4.958677685950414,5,10
+openstack/osprofiler,openstack/sahara-plugin-spark,Core,4.49438202247191,2.586206896551724,5,5
+openstack/osprofiler,openstack/sahara-plugin-spark,Non core,1.1235955056179776,1.7241379310344827,5,5
+openstack/osprofiler,openstack/sahara-plugin-storm,Core,4.49438202247191,2.564102564102564,5,5
+openstack/osprofiler,openstack/sahara-plugin-storm,Non core,1.1235955056179776,1.7094017094017095,5,5
+openstack/osprofiler,openstack/sahara-plugin-vanilla,Core,4.49438202247191,2.564102564102564,5,7
+openstack/osprofiler,openstack/sahara-plugin-vanilla,Non core,1.1235955056179776,3.418803418803419,5,7
+openstack/osprofiler,openstack/sahara-specs,Core,3.937007874015748,1.7045454545454544,8,8
+openstack/osprofiler,openstack/sahara-specs,Non core,2.3622047244094486,2.840909090909091,8,8
+openstack/osprofiler,openstack/venus-tempest-plugin,Core,0.0,0.8620689655172413,0,1
+openstack/osprofiler,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/osprofiler,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/ceilometermiddleware,Core,6.140350877192982,4.242424242424243,10,20
+openstack/osprofiler,openstack/ceilometermiddleware,Non core,2.631578947368421,7.878787878787878,10,20
+openstack/osprofiler,openstack/trove-tempest-plugin,Core,3.225806451612903,2.2556390977443606,5,8
+openstack/osprofiler,openstack/trove-tempest-plugin,Non core,2.1505376344086025,3.7593984962406015,5,8
+openstack/osprofiler,openstack/arch-design,Core,2.247191011235955,2.631578947368421,3,3
+openstack/osprofiler,openstack/arch-design,Non core,1.1235955056179776,0.0,3,3
+openstack/osprofiler,openstack/monasca-common,Core,7.586206896551724,3.5175879396984926,14,20
+openstack/osprofiler,openstack/monasca-common,Non core,2.0689655172413794,6.532663316582915,14,20
+openstack/osprofiler,openstack/monasca-statsd,Core,9.00900900900901,2.5974025974025974,13,14
+openstack/osprofiler,openstack/monasca-statsd,Non core,2.7027027027027026,6.493506493506493,13,14
+openstack/osprofiler,openstack/python-monascaclient,Core,6.535947712418301,4.9504950495049505,20,27
+openstack/osprofiler,openstack/python-monascaclient,Non core,6.535947712418301,8.415841584158416,20,27
+openstack/osprofiler,openstack/renderspec,Core,9.782608695652174,4.761904761904762,16,13
+openstack/osprofiler,openstack/renderspec,Non core,7.608695652173914,5.555555555555555,16,13
+openstack/osprofiler,openstack/os-service-types,Core,5.154639175257731,6.106870229007633,9,15
+openstack/osprofiler,openstack/os-service-types,Non core,4.123711340206185,5.343511450381679,9,15
+openstack/osprofiler,openstack/masakari-dashboard,Core,4.761904761904762,4.10958904109589,6,13
+openstack/osprofiler,openstack/masakari-dashboard,Non core,0.9523809523809524,4.794520547945205,6,13
+openstack/osprofiler,openstack/freezer-dr,Core,4.9504950495049505,4.477611940298507,8,15
+openstack/osprofiler,openstack/freezer-dr,Non core,2.9702970297029703,6.7164179104477615,8,15
+openstack/osprofiler,openstack/tempest-stress,Core,3.0927835051546393,3.361344537815126,7,9
+openstack/osprofiler,openstack/tempest-stress,Non core,4.123711340206185,4.201680672268908,7,9
+openstack/osprofiler,openstack/charm-neutron-api-genericswitch,Core,2.3529411764705883,1.7543859649122806,3,2
+openstack/osprofiler,openstack/charm-neutron-api-genericswitch,Non core,1.1764705882352942,0.0,3,2
+openstack/osprofiler,openstack/charm-neutron-dynamic-routing,Core,3.1578947368421053,1.6,5,4
+openstack/osprofiler,openstack/charm-neutron-dynamic-routing,Non core,2.1052631578947367,1.6,5,4
+openstack/osprofiler,openstack/charm-interface-ceph-client,Core,2.2222222222222223,1.680672268907563,2,3
+openstack/osprofiler,openstack/charm-interface-ceph-client,Non core,0.0,0.8403361344537815,2,3
+openstack/osprofiler,openstack/charm-percona-cluster,Core,2.564102564102564,1.3071895424836601,7,8
+openstack/osprofiler,openstack/charm-percona-cluster,Non core,3.418803418803419,3.9215686274509802,7,8
+openstack/osprofiler,openstack/charm-deployment-guide,Core,1.7857142857142856,0.7092198581560284,4,3
+openstack/osprofiler,openstack/charm-deployment-guide,Non core,1.7857142857142856,1.4184397163120568,4,3
+openstack/osprofiler,openstack/rbd-iscsi-client,Core,0.0,0.8547008547008548,0,1
+openstack/osprofiler,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,1
+openstack/osprofiler,openstack/oslo.metrics,Core,1.1363636363636365,3.4782608695652173,4,11
+openstack/osprofiler,openstack/oslo.metrics,Non core,3.4090909090909087,6.086956521739131,4,11
+openstack/osprofiler,openstack/oslo.vmware,Core,10.79136690647482,7.441860465116279,25,39
+openstack/osprofiler,openstack/oslo.vmware,Non core,7.194244604316546,10.69767441860465,25,39
+openstack/osprofiler,openstack/oslo.upgradecheck,Core,7.6923076923076925,7.317073170731707,11,16
+openstack/osprofiler,openstack/oslo.upgradecheck,Non core,4.395604395604396,5.691056910569105,11,16
+openstack/osprofiler,openstack/python-masakariclient,Core,6.0344827586206895,2.666666666666667,10,13
+openstack/osprofiler,openstack/python-masakariclient,Non core,2.586206896551724,6.0,10,13
+openstack/osprofiler,openstack/python-vitrageclient,Core,4.878048780487805,1.4184397163120568,15,9
+openstack/osprofiler,openstack/python-vitrageclient,Non core,7.317073170731707,4.964539007092199,15,9
+openstack/osprofiler,openstack/python-blazarclient,Core,6.6115702479338845,6.097560975609756,16,24
+openstack/osprofiler,openstack/python-blazarclient,Non core,6.6115702479338845,8.536585365853659,16,24
+openstack/osprofiler,openstack/zaqar-tempest-plugin,Core,5.434782608695652,2.3255813953488373,5,7
+openstack/osprofiler,openstack/zaqar-tempest-plugin,Non core,0.0,3.10077519379845,5,7
+openstack/osprofiler,openstack/tripleo-common-tempest-plugin,Core,3.1578947368421053,1.4814814814814816,6,9
+openstack/osprofiler,openstack/tripleo-common-tempest-plugin,Non core,3.1578947368421053,5.185185185185185,6,9
+openstack/osprofiler,openstack/mistral-tempest-plugin,Core,2.9702970297029703,1.4598540145985401,7,9
+openstack/osprofiler,openstack/mistral-tempest-plugin,Non core,3.9603960396039604,5.109489051094891,7,9
+openstack/osprofiler,openstack/barbican-ui,Core,1.1904761904761905,1.6666666666666667,1,3
+openstack/osprofiler,openstack/barbican-ui,Non core,0.0,0.8333333333333334,1,3
+openstack/osprofiler,openstack/liberasurecode,Core,1.0752688172043012,0.7936507936507936,3,5
+openstack/osprofiler,openstack/liberasurecode,Non core,2.1505376344086025,3.1746031746031744,3,5
+openstack/osprofiler,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/os-client-config,Core,10.714285714285714,5.128205128205128,23,22
+openstack/osprofiler,openstack/os-client-config,Non core,5.714285714285714,6.153846153846154,23,22
+openstack/osprofiler,openstack/monasca-specs,Core,2.1505376344086025,2.2058823529411766,3,5
+openstack/osprofiler,openstack/monasca-specs,Non core,1.0752688172043012,1.4705882352941175,3,5
+openstack/osprofiler,openstack/os-performance-tools,Core,4.2105263157894735,3.2,8,7
+openstack/osprofiler,openstack/os-performance-tools,Non core,4.2105263157894735,2.4,8,7
+openstack/osprofiler,openstack/trove-specs,Core,5.084745762711865,2.717391304347826,6,11
+openstack/osprofiler,openstack/trove-specs,Non core,0.0,3.260869565217391,6,11
+openstack/osprofiler,openstack/manila-image-elements,Core,5.9405940594059405,2.054794520547945,10,11
+openstack/osprofiler,openstack/manila-image-elements,Non core,3.9603960396039604,5.47945205479452,10,11
+openstack/osprofiler,openstack/blazar-specs,Core,2.197802197802198,3.937007874015748,2,5
+openstack/osprofiler,openstack/blazar-specs,Non core,0.0,0.0,2,5
+openstack/osprofiler,openstack/molteniron,Core,4.395604395604396,1.5037593984962405,5,4
+openstack/osprofiler,openstack/molteniron,Non core,1.098901098901099,1.5037593984962405,5,4
+openstack/osprofiler,openstack/solum-specs,Core,6.382978723404255,0.0,6,2
+openstack/osprofiler,openstack/solum-specs,Non core,0.0,1.5151515151515151,6,2
+openstack/osprofiler,openstack/patrole,Core,3.6809815950920246,3.3816425120772946,11,16
+openstack/osprofiler,openstack/patrole,Non core,3.067484662576687,4.3478260869565215,11,16
+openstack/osprofiler,openstack/performance-docs,Core,3.4782608695652173,4.697986577181208,9,20
+openstack/osprofiler,openstack/performance-docs,Non core,4.3478260869565215,8.724832214765101,9,20
+openstack/osprofiler,openstack/sphinx-feature-classification,Core,7.608695652173914,6.976744186046512,12,17
+openstack/osprofiler,openstack/sphinx-feature-classification,Non core,5.434782608695652,6.2015503875969,12,17
+openstack/osprofiler,openstack/etcd3gw,Core,1.098901098901099,5.172413793103448,1,6
+openstack/osprofiler,openstack/etcd3gw,Non core,0.0,0.0,1,6
+openstack/osprofiler,openstack/watcher-specs,Core,4.0,2.185792349726776,7,11
+openstack/osprofiler,openstack/watcher-specs,Non core,1.6,3.825136612021858,7,11
+openstack/osprofiler,openstack/yaql,Core,7.339449541284404,3.3112582781456954,11,16
+openstack/osprofiler,openstack/yaql,Non core,2.7522935779816518,7.28476821192053,11,16
+openstack/osprofiler,openstack/puppet-openstack-guide,Core,4.761904761904762,1.3888888888888888,6,7
+openstack/osprofiler,openstack/puppet-openstack-guide,Non core,0.9523809523809524,3.4722222222222223,6,7
+openstack/osprofiler,openstack/puppet-panko,Core,4.310344827586207,1.4492753623188406,7,6
+openstack/osprofiler,openstack/puppet-panko,Non core,1.7241379310344827,2.898550724637681,7,6
+openstack/osprofiler,openstack/heat-cfnclient,Core,6.122448979591836,4.545454545454546,8,12
+openstack/osprofiler,openstack/heat-cfnclient,Non core,2.0408163265306123,4.545454545454546,8,12
+openstack/osprofiler,openstack/heat-cfntools,Core,7.627118644067797,3.7267080745341614,15,19
+openstack/osprofiler,openstack/heat-cfntools,Non core,5.084745762711865,8.074534161490684,15,19
+openstack/osprofiler,openstack/heat-templates,Core,4.49438202247191,2.93040293040293,11,17
+openstack/osprofiler,openstack/heat-templates,Non core,1.6853932584269662,3.296703296703297,11,17
+openstack/osprofiler,openstack/governance-sigs,Core,8.333333333333332,5.670103092783505,10,19
+openstack/osprofiler,openstack/governance-sigs,Non core,0.9259259259259258,4.123711340206185,10,19
+openstack/osprofiler,openstack/openstack-zuul-roles,Core,3.5294117647058822,0.8333333333333334,3,2
+openstack/osprofiler,openstack/openstack-zuul-roles,Non core,0.0,0.8333333333333334,3,2
+openstack/osprofiler,openstack/nova-powervm,Core,4.511278195488721,2.0408163265306123,8,14
+openstack/osprofiler,openstack/nova-powervm,Non core,1.5037593984962405,5.1020408163265305,8,14
+openstack/osprofiler,openstack/openstack-helm-addons,Core,0.0,0.4629629629629629,3,8
+openstack/osprofiler,openstack/openstack-helm-addons,Non core,2.5423728813559325,3.2407407407407405,3,8
+openstack/osprofiler,openstack/python-pankoclient,Core,7.291666666666667,5.303030303030303,13,19
+openstack/osprofiler,openstack/python-pankoclient,Non core,6.25,9.090909090909092,13,19
+openstack/osprofiler,openstack/qa-specs,Core,4.918032786885246,2.3696682464454977,10,11
+openstack/osprofiler,openstack/qa-specs,Non core,3.278688524590164,2.843601895734597,10,11
+openstack/osprofiler,openstack/zaqar-specs,Core,7.4074074074074066,3.1055900621118013,12,15
+openstack/osprofiler,openstack/zaqar-specs,Non core,3.7037037037037033,6.211180124223603,12,15
+openstack/osprofiler,openstack/swift-bench,Core,1.0204081632653061,0.7092198581560284,4,7
+openstack/osprofiler,openstack/swift-bench,Non core,3.061224489795918,4.25531914893617,4,7
+openstack/osprofiler,openstack/whereto,Core,5.376344086021505,5.737704918032787,8,11
+openstack/osprofiler,openstack/whereto,Non core,3.225806451612903,3.278688524590164,8,11
+openstack/osprofiler,openstack/murano-specs,Core,4.23728813559322,0.6060606060606061,8,8
+openstack/osprofiler,openstack/murano-specs,Non core,2.5423728813559325,4.242424242424243,8,8
+openstack/osprofiler,openstack/ansible-role-tripleo-modify-image,Core,3.669724770642202,1.8181818181818181,4,9
+openstack/osprofiler,openstack/ansible-role-tripleo-modify-image,Non core,0.0,3.6363636363636362,4,9
+openstack/osprofiler,openstack/requestsexceptions,Core,4.761904761904762,2.5,7,8
+openstack/osprofiler,openstack/requestsexceptions,Non core,3.571428571428571,4.166666666666666,7,8
+openstack/osprofiler,openstack/panko,Core,6.521739130434782,5.347593582887701,18,26
+openstack/osprofiler,openstack/panko,Non core,6.521739130434782,8.55614973262032,18,26
+openstack/osprofiler,openstack/api-sig,Core,6.504065040650407,2.097902097902098,12,20
+openstack/osprofiler,openstack/api-sig,Non core,3.2520325203252036,4.895104895104895,12,20
+openstack/osprofiler,openstack/openstack-chef-specs,Core,4.0,2.18978102189781,7,9
+openstack/osprofiler,openstack/openstack-chef-specs,Non core,3.0,4.37956204379562,7,9
+openstack/osprofiler,openstack/freezer-specs,Core,6.185567010309279,2.272727272727273,8,6
+openstack/osprofiler,openstack/freezer-specs,Non core,2.0618556701030926,2.272727272727273,8,6
+openstack/osprofiler,openstack/oslo.tools,Core,7.547169811320755,9.01639344262295,10,18
+openstack/osprofiler,openstack/oslo.tools,Non core,1.8867924528301887,5.737704918032787,10,18
+openstack/osprofiler,openstack/microversion-parse,Core,2.272727272727273,5.084745762711865,5,8
+openstack/osprofiler,openstack/microversion-parse,Non core,3.4090909090909087,1.694915254237288,5,8
+openstack/osprofiler,openstack/openstackclient,Core,10.526315789473683,3.6764705882352944,13,10
+openstack/osprofiler,openstack/openstackclient,Non core,3.1578947368421053,3.6764705882352944,13,10
+openstack/osprofiler,openstack/ossa,Core,4.081632653061225,4.40251572327044,7,13
+openstack/osprofiler,openstack/ossa,Non core,3.061224489795918,3.7735849056603774,7,13
+openstack/osprofiler,openstack/reviewstats,Core,5.263157894736842,5.633802816901409,9,19
+openstack/osprofiler,openstack/reviewstats,Non core,0.6578947368421052,3.286384976525822,9,19
+openstack/osprofiler,openstack/oslo-cookiecutter,Core,8.421052631578947,7.936507936507936,11,17
+openstack/osprofiler,openstack/oslo-cookiecutter,Non core,3.1578947368421053,5.555555555555555,11,17
+openstack/osprofiler,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/security-analysis,Core,3.3707865168539324,2.307692307692308,3,5
+openstack/osprofiler,openstack/security-analysis,Non core,0.0,1.5384615384615385,3,5
+openstack/osprofiler,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/ansible-role-tripleo-keystone,Core,2.272727272727273,0.8695652173913043,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-keystone,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/openstack-ansible-apt_package_pinning,Core,6.306306306306306,1.36986301369863,9,8
+openstack/osprofiler,openstack/openstack-ansible-apt_package_pinning,Non core,1.8018018018018018,4.10958904109589,9,8
+openstack/osprofiler,openstack/ansible-role-qdrouterd,Core,2.1505376344086025,2.2222222222222223,3,6
+openstack/osprofiler,openstack/ansible-role-qdrouterd,Non core,1.0752688172043012,2.2222222222222223,3,6
+openstack/osprofiler,openstack/openstack-ansible-openstack_openrc,Core,4.958677685950414,0.6493506493506493,10,9
+openstack/osprofiler,openstack/openstack-ansible-openstack_openrc,Non core,3.3057851239669422,5.194805194805195,10,9
+openstack/osprofiler,openstack/openstack-ansible-nspawn_container_create,Core,3.0,2.2388059701492535,5,9
+openstack/osprofiler,openstack/openstack-ansible-nspawn_container_create,Non core,2.0,4.477611940298507,5,9
+openstack/osprofiler,openstack/devstack-tools,Core,5.319148936170213,1.639344262295082,7,6
+openstack/osprofiler,openstack/devstack-tools,Non core,2.127659574468085,3.278688524590164,7,6
+openstack/osprofiler,openstack/coverage2sql,Core,5.0,3.3057851239669422,8,10
+openstack/osprofiler,openstack/coverage2sql,Non core,3.0,4.958677685950414,8,10
+openstack/osprofiler,openstack/bashate,Core,6.557377049180328,3.821656050955414,11,9
+openstack/osprofiler,openstack/bashate,Non core,2.459016393442623,1.910828025477707,11,9
+openstack/osprofiler,openstack/hacking,Core,7.792207792207792,7.203389830508475,17,31
+openstack/osprofiler,openstack/hacking,Non core,3.2467532467532463,5.932203389830509,17,31
+openstack/osprofiler,openstack/xstatic-mdi,Core,2.272727272727273,0.0,2,4
+openstack/osprofiler,openstack/xstatic-mdi,Non core,0.0,3.361344537815126,2,4
+openstack/osprofiler,openstack/xstatic-roboto-fontface,Core,2.2988505747126435,0.8403361344537815,2,5
+openstack/osprofiler,openstack/xstatic-roboto-fontface,Non core,0.0,3.361344537815126,2,5
+openstack/osprofiler,openstack/openstack-chef,Core,2.941176470588235,1.5873015873015872,7,4
+openstack/osprofiler,openstack/openstack-chef,Non core,3.9215686274509802,1.5873015873015872,7,4
+openstack/osprofiler,openstack/cookbook-openstackclient,Core,0.0,0.0,0,5
+openstack/osprofiler,openstack/cookbook-openstackclient,Non core,0.0,4.273504273504273,0,5
+openstack/osprofiler,openstack/xstatic-angular,Core,2.1739130434782608,1.5873015873015872,3,6
+openstack/osprofiler,openstack/xstatic-angular,Non core,1.0869565217391304,3.1746031746031744,3,6
+openstack/osprofiler,openstack/charm-interface-hacluster,Core,2.0408163265306123,0.8130081300813009,4,4
+openstack/osprofiler,openstack/charm-interface-hacluster,Non core,2.0408163265306123,2.4390243902439024,4,4
+openstack/osprofiler,openstack/puppet-openstack-specs,Core,5.9405940594059405,0.6172839506172839,8,5
+openstack/osprofiler,openstack/puppet-openstack-specs,Non core,1.9801980198019802,2.4691358024691357,8,5
+openstack/osprofiler,openstack/puppet-monasca,Core,3.6363636363636362,1.0810810810810811,5,6
+openstack/osprofiler,openstack/puppet-monasca,Non core,0.9090909090909091,2.1621621621621623,5,6
+openstack/osprofiler,openstack/eslint-config-openstack,Core,3.125,3.3557046979865772,4,9
+openstack/osprofiler,openstack/eslint-config-openstack,Non core,1.0416666666666665,2.684563758389262,4,9
+openstack/osprofiler,openstack/karma-subunit-reporter,Core,3.5294117647058822,1.7543859649122806,3,3
+openstack/osprofiler,openstack/karma-subunit-reporter,Non core,0.0,0.8771929824561403,3,3
+openstack/osprofiler,openstack/openstack-helm-docs,Core,1.1235955056179776,2.307692307692308,2,6
+openstack/osprofiler,openstack/openstack-helm-docs,Non core,1.1235955056179776,2.307692307692308,2,6
+openstack/osprofiler,openstack/openstack-ansible-specs,Core,3.7593984962406015,1.8604651162790697,6,7
+openstack/osprofiler,openstack/openstack-ansible-specs,Non core,0.7518796992481203,1.3953488372093024,6,7
+openstack/osprofiler,openstack/tempest-lib,Core,4.166666666666666,3.225806451612903,7,16
+openstack/osprofiler,openstack/tempest-lib,Non core,1.6666666666666667,5.376344086021505,7,16
+openstack/osprofiler,openstack/tripleo-ha-utils,Core,2.247191011235955,0.0,3,3
+openstack/osprofiler,openstack/tripleo-ha-utils,Non core,1.1235955056179776,2.2556390977443606,3,3
+openstack/osprofiler,openstack/devstack-vagrant,Core,2.083333333333333,3.1746031746031744,2,9
+openstack/osprofiler,openstack/devstack-vagrant,Non core,0.0,3.968253968253968,2,9
+openstack/osprofiler,openstack/goal-tools,Core,3.4482758620689653,3.3057851239669422,4,7
+openstack/osprofiler,openstack/goal-tools,Non core,1.1494252873563218,2.479338842975207,4,7
+openstack/osprofiler,openstack/cookiecutter,Core,8.771929824561402,8.80503144654088,13,21
+openstack/osprofiler,openstack/cookiecutter,Non core,2.631578947368421,4.40251572327044,13,21
+openstack/osprofiler,openstack/dib-utils,Core,3.1914893617021276,1.3986013986013985,5,6
+openstack/osprofiler,openstack/dib-utils,Non core,2.127659574468085,2.797202797202797,5,6
+openstack/osprofiler,openstack/constellations,Core,2.3255813953488373,4.166666666666666,3,6
+openstack/osprofiler,openstack/constellations,Non core,1.1627906976744187,0.8333333333333334,3,6
+openstack/osprofiler,openstack/cookbook-openstack-integration-test,Core,3.061224489795918,1.4598540145985401,4,7
+openstack/osprofiler,openstack/cookbook-openstack-integration-test,Non core,1.0204081632653061,3.64963503649635,4,7
+openstack/osprofiler,openstack/cookbook-openstack-dashboard,Core,3.225806451612903,1.1560693641618496,5,7
+openstack/osprofiler,openstack/cookbook-openstack-dashboard,Non core,0.8064516129032258,2.8901734104046244,5,7
+openstack/osprofiler,openstack/cookbook-openstack-telemetry,Core,3.2,1.2903225806451613,5,6
+openstack/osprofiler,openstack/cookbook-openstack-telemetry,Non core,0.8,2.5806451612903225,5,6
+openstack/osprofiler,openstack/cookbook-openstack-orchestration,Core,3.4482758620689653,1.875,4,6
+openstack/osprofiler,openstack/cookbook-openstack-orchestration,Non core,0.0,1.875,4,6
+openstack/osprofiler,openstack/cookbook-openstack-bare-metal,Core,2.1739130434782608,1.574803149606299,2,5
+openstack/osprofiler,openstack/cookbook-openstack-bare-metal,Non core,0.0,2.3622047244094486,2,5
+openstack/osprofiler,openstack/cookbook-openstack-dns,Core,0.0,0.0,0,5
+openstack/osprofiler,openstack/cookbook-openstack-dns,Non core,0.0,4.273504273504273,0,5
+openstack/osprofiler,openstack/cookbook-openstack-compute,Core,2.7586206896551726,1.015228426395939,4,7
+openstack/osprofiler,openstack/cookbook-openstack-compute,Non core,0.0,2.5380710659898478,4,7
+openstack/osprofiler,openstack/cookbook-openstack-network,Core,2.7210884353741496,1.0471204188481675,4,8
+openstack/osprofiler,openstack/cookbook-openstack-network,Non core,0.0,3.1413612565445024,4,8
+openstack/osprofiler,openstack/cookbook-openstack-block-storage,Core,3.597122302158273,1.7341040462427744,6,7
+openstack/osprofiler,openstack/cookbook-openstack-block-storage,Non core,0.7194244604316548,2.312138728323699,6,7
+openstack/osprofiler,openstack/cookbook-openstack-image,Core,3.0303030303030303,1.1560693641618496,4,6
+openstack/osprofiler,openstack/cookbook-openstack-image,Non core,0.0,2.312138728323699,4,6
+openstack/osprofiler,openstack/cookbook-openstack-identity,Core,3.787878787878788,1.1235955056179776,6,7
+openstack/osprofiler,openstack/cookbook-openstack-identity,Non core,0.7575757575757576,2.8089887640449436,6,7
+openstack/osprofiler,openstack/cookbook-openstack-ops-database,Core,3.4782608695652173,1.2987012987012987,4,5
+openstack/osprofiler,openstack/cookbook-openstack-ops-database,Non core,0.0,1.948051948051948,4,5
+openstack/osprofiler,openstack/cookbook-openstack-ops-messaging,Core,3.7037037037037033,0.6802721088435374,4,5
+openstack/osprofiler,openstack/cookbook-openstack-ops-messaging,Non core,0.0,2.7210884353741496,4,5
+openstack/osprofiler,openstack/cookbook-openstack-common,Core,2.8368794326241136,1.0309278350515463,5,8
+openstack/osprofiler,openstack/cookbook-openstack-common,Non core,0.7092198581560284,3.0927835051546393,5,8
+openstack/osprofiler,openstack/self-healing-sig,Core,5.617977528089887,2.272727272727273,5,4
+openstack/osprofiler,openstack/self-healing-sig,Non core,0.0,0.7575757575757576,5,4
+openstack/osprofiler,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/security-specs,Core,4.25531914893617,2.9629629629629632,5,6
+openstack/osprofiler,openstack/security-specs,Non core,1.0638297872340425,1.4814814814814816,5,6
+openstack/osprofiler,openstack/openstack-ansible-os_panko,Core,2.941176470588235,3.571428571428571,6,10
+openstack/osprofiler,openstack/openstack-ansible-os_panko,Non core,2.941176470588235,3.571428571428571,6,10
+openstack/osprofiler,openstack/openstack-ansible-nspawn_hosts,Core,3.0,2.2222222222222223,6,10
+openstack/osprofiler,openstack/openstack-ansible-nspawn_hosts,Non core,3.0,5.185185185185185,6,10
+openstack/osprofiler,openstack/charm-layer-openstack-principle,Core,2.3255813953488373,0.0,3,0
+openstack/osprofiler,openstack/charm-layer-openstack-principle,Non core,1.1627906976744187,0.0,3,0
+openstack/osprofiler,openstack/charm-watcher-dashboard,Core,2.3529411764705883,0.8333333333333334,2,1
+openstack/osprofiler,openstack/charm-watcher-dashboard,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/charm-watcher,Core,2.2988505747126435,0.78125,2,2
+openstack/osprofiler,openstack/charm-watcher,Non core,0.0,0.78125,2,2
+openstack/osprofiler,openstack/openstack-ansible-galera_client,Core,5.511811023622047,1.257861635220126,11,9
+openstack/osprofiler,openstack/openstack-ansible-galera_client,Non core,3.149606299212598,4.40251572327044,11,9
+openstack/osprofiler,openstack/cloudkitty-specs,Core,3.1578947368421053,0.7352941176470588,5,4
+openstack/osprofiler,openstack/cloudkitty-specs,Non core,2.1052631578947367,2.2058823529411766,5,4
+openstack/osprofiler,openstack/osops,Core,2.3255813953488373,2.586206896551724,3,4
+openstack/osprofiler,openstack/osops,Non core,1.1627906976744187,0.8620689655172413,3,4
+openstack/osprofiler,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/charm-ironic,Core,2.3255813953488373,0.8849557522123894,3,1
+openstack/osprofiler,openstack/charm-ironic,Non core,1.1627906976744187,0.0,3,1
+openstack/osprofiler,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/multi-arch-sig,Core,2.380952380952381,0.8547008547008548,2,1
+openstack/osprofiler,openstack/multi-arch-sig,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/charm-nova-compute-proxy,Core,1.098901098901099,0.0,4,2
+openstack/osprofiler,openstack/charm-nova-compute-proxy,Non core,3.296703296703297,1.6528925619834711,4,2
+openstack/osprofiler,openstack/charm-odl-controller,Core,1.0638297872340425,0.0,2,2
+openstack/osprofiler,openstack/charm-odl-controller,Non core,1.0638297872340425,1.680672268907563,2,2
+openstack/osprofiler,openstack/charm-nova-lxd,Core,2.0408163265306123,0.7692307692307693,6,5
+openstack/osprofiler,openstack/charm-nova-lxd,Non core,4.081632653061225,3.076923076923077,6,5
+openstack/osprofiler,openstack/charm-interface-nova-cell,Core,0.0,0.8928571428571428,0,1
+openstack/osprofiler,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/osprofiler,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/xstatic-lodash,Core,0.0,0.8928571428571428,0,1
+openstack/osprofiler,openstack/xstatic-lodash,Non core,0.0,0.0,0,1
+openstack/osprofiler,openstack/xstatic-moment,Core,0.0,0.8928571428571428,0,1
+openstack/osprofiler,openstack/xstatic-moment,Non core,0.0,0.0,0,1
+openstack/osprofiler,openstack/charm-interface-barbican-secrets,Core,1.1363636363636365,0.8620689655172413,2,2
+openstack/osprofiler,openstack/charm-interface-barbican-secrets,Non core,1.1363636363636365,0.8620689655172413,2,2
+openstack/osprofiler,openstack/charm-interface-mysql-innodb-cluster,Core,1.1904761904761905,0.0,1,0
+openstack/osprofiler,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/osprofiler,openstack/charm-interface-ceph-rbd-mirror,Core,1.1494252873563218,0.8547008547008548,2,2
+openstack/osprofiler,openstack/charm-interface-ceph-rbd-mirror,Non core,1.1494252873563218,0.8547008547008548,2,2
+openstack/osprofiler,openstack/charm-interface-placement,Core,1.1904761904761905,0.0,2,0
+openstack/osprofiler,openstack/charm-interface-placement,Non core,1.1904761904761905,0.0,2,0
+openstack/osprofiler,openstack/charm-interface-mysql-shared,Core,3.3707865168539324,0.0,3,1
+openstack/osprofiler,openstack/charm-interface-mysql-shared,Non core,0.0,0.847457627118644,3,1
+openstack/osprofiler,openstack/charm-interface-dashboard-plugin,Core,1.1363636363636365,0.8620689655172413,2,2
+openstack/osprofiler,openstack/charm-interface-dashboard-plugin,Non core,1.1363636363636365,0.8620689655172413,2,2
+openstack/osprofiler,openstack/charm-interface-neutron-load-balancer,Core,1.1363636363636365,0.8620689655172413,2,2
+openstack/osprofiler,openstack/charm-interface-neutron-load-balancer,Non core,1.1363636363636365,0.8620689655172413,2,2
+openstack/osprofiler,openstack/charm-interface-neutron-plugin-api-subordinate,Core,3.3707865168539324,1.694915254237288,4,2
+openstack/osprofiler,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,1.1235955056179776,0.0,4,2
+openstack/osprofiler,openstack/charm-interface-neutron-plugin,Core,3.4482758620689653,0.8620689655172413,3,2
+openstack/osprofiler,openstack/charm-interface-neutron-plugin,Non core,0.0,0.8620689655172413,3,2
+openstack/osprofiler,openstack/xstatic-json2yaml,Core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/xstatic-jquery.tablesorter,Core,2.380952380952381,1.7699115044247788,2,3
+openstack/osprofiler,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.8849557522123894,2,3
+openstack/osprofiler,openstack/xstatic-magic-search,Core,2.272727272727273,0.819672131147541,3,4
+openstack/osprofiler,openstack/xstatic-magic-search,Non core,1.1363636363636365,2.459016393442623,3,4
+openstack/osprofiler,openstack/xstatic-jsencrypt,Core,2.3255813953488373,0.0,3,3
+openstack/osprofiler,openstack/xstatic-jsencrypt,Non core,1.1627906976744187,2.4390243902439024,3,3
+openstack/osprofiler,openstack/xstatic-js-yaml,Core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/xstatic-spin,Core,2.380952380952381,1.7699115044247788,2,3
+openstack/osprofiler,openstack/xstatic-spin,Non core,0.0,0.8849557522123894,2,3
+openstack/osprofiler,openstack/xstatic-rickshaw,Core,3.488372093023256,0.8403361344537815,4,4
+openstack/osprofiler,openstack/xstatic-rickshaw,Non core,1.1627906976744187,2.5210084033613445,4,4
+openstack/osprofiler,openstack/charm-panko,Core,1.1494252873563218,1.680672268907563,2,4
+openstack/osprofiler,openstack/charm-panko,Non core,1.1494252873563218,1.680672268907563,2,4
+openstack/osprofiler,openstack/charm-interface-service-control,Core,1.1235955056179776,0.847457627118644,2,2
+openstack/osprofiler,openstack/charm-interface-service-control,Non core,1.1235955056179776,0.847457627118644,2,2
+openstack/osprofiler,openstack/openstack-ansible-os_almanach,Core,3.9603960396039604,1.4705882352941175,8,8
+openstack/osprofiler,openstack/openstack-ansible-os_almanach,Non core,3.9603960396039604,4.411764705882353,8,8
+openstack/osprofiler,openstack/openstack-ansible-pip_install,Core,4.878048780487805,1.744186046511628,9,10
+openstack/osprofiler,openstack/openstack-ansible-pip_install,Non core,2.4390243902439024,4.069767441860465,9,10
+openstack/osprofiler,openstack/python-karborclient,Core,6.504065040650407,3.0864197530864197,13,13
+openstack/osprofiler,openstack/python-karborclient,Non core,4.0650406504065035,4.938271604938271,13,13
+openstack/osprofiler,openstack/charm-interface-keystone-admin,Core,3.5294117647058822,0.0,3,2
+openstack/osprofiler,openstack/charm-interface-keystone-admin,Non core,0.0,1.7543859649122806,3,2
+openstack/osprofiler,openstack/charm-interface-nova-compute,Core,2.247191011235955,0.8403361344537815,3,3
+openstack/osprofiler,openstack/charm-interface-nova-compute,Non core,1.1235955056179776,1.680672268907563,3,3
+openstack/osprofiler,openstack/charm-interface-manila-plugin,Core,2.3255813953488373,0.8620689655172413,3,2
+openstack/osprofiler,openstack/charm-interface-manila-plugin,Non core,1.1627906976744187,0.8620689655172413,3,2
+openstack/osprofiler,openstack/murano-apps,Core,3.875968992248062,1.7241379310344827,7,8
+openstack/osprofiler,openstack/murano-apps,Non core,1.550387596899225,2.8735632183908044,7,8
+openstack/osprofiler,openstack/puppet-senlin,Core,3.1914893617021276,1.5873015873015872,5,3
+openstack/osprofiler,openstack/puppet-senlin,Non core,2.127659574468085,0.7936507936507936,5,3
+openstack/osprofiler,openstack/cookbook-openstack-application-catalog,Core,1.1494252873563218,0.0,2,2
+openstack/osprofiler,openstack/cookbook-openstack-application-catalog,Non core,1.1494252873563218,1.7094017094017095,2,2
+openstack/osprofiler,openstack/training-labs,Core,6.363636363636363,3.4965034965034967,11,13
+openstack/osprofiler,openstack/training-labs,Non core,3.6363636363636362,5.594405594405594,11,13
+openstack/osprofiler,openstack/karbor,Core,5.0,3.225806451612903,17,27
+openstack/osprofiler,openstack/karbor,Non core,4.444444444444445,7.661290322580645,17,27
+openstack/osprofiler,openstack/devstack-plugin-open-cas,Core,1.1764705882352942,3.418803418803419,1,4
+openstack/osprofiler,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,4
+openstack/osprofiler,openstack/openstack-ansible-os_congress,Core,2.912621359223301,2.7586206896551726,6,10
+openstack/osprofiler,openstack/openstack-ansible-os_congress,Non core,2.912621359223301,4.137931034482759,6,10
+openstack/osprofiler,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/charm-interface-keystone-notifications,Core,0.0,0.8928571428571428,0,1
+openstack/osprofiler,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/osprofiler,openstack/os-collect-config,Core,7.5,3.076923076923077,17,20
+openstack/osprofiler,openstack/os-collect-config,Non core,6.666666666666667,7.179487179487179,17,20
+openstack/osprofiler,openstack/os-apply-config,Core,8.547008547008547,3.1914893617021276,19,19
+openstack/osprofiler,openstack/os-apply-config,Non core,7.6923076923076925,6.914893617021277,19,19
+openstack/osprofiler,openstack/puppet-freezer,Core,3.9215686274509802,2.272727272727273,6,6
+openstack/osprofiler,openstack/puppet-freezer,Non core,1.9607843137254901,2.272727272727273,6,6
+openstack/osprofiler,openstack/vitrage-specs,Core,3.508771929824561,1.3333333333333335,7,12
+openstack/osprofiler,openstack/vitrage-specs,Non core,2.631578947368421,6.666666666666667,7,12
+openstack/osprofiler,openstack/specs-cookiecutter,Core,6.976744186046512,5.982905982905983,6,9
+openstack/osprofiler,openstack/specs-cookiecutter,Non core,0.0,1.7094017094017095,6,9
+openstack/osprofiler,openstack/rpm-packaging-tools,Core,6.896551724137931,3.125,8,9
+openstack/osprofiler,openstack/rpm-packaging-tools,Non core,2.2988505747126435,3.90625,8,9
+openstack/osprofiler,openstack/ansible-role-openstack-operations,Core,3.1578947368421053,0.7936507936507936,4,3
+openstack/osprofiler,openstack/ansible-role-openstack-operations,Non core,1.0526315789473684,1.5873015873015872,4,3
+openstack/osprofiler,openstack/os-refresh-config,Core,9.523809523809524,3.6363636363636362,17,21
+openstack/osprofiler,openstack/os-refresh-config,Non core,6.666666666666667,9.090909090909092,17,21
+openstack/osprofiler,openstack/mistral-specs,Core,4.761904761904762,1.3793103448275863,7,5
+openstack/osprofiler,openstack/mistral-specs,Non core,1.9047619047619049,2.0689655172413794,7,5
+openstack/osprofiler,openstack/scientific-wg,Core,2.3529411764705883,1.7543859649122806,2,3
+openstack/osprofiler,openstack/scientific-wg,Non core,0.0,0.8771929824561403,2,3
+openstack/osprofiler,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.8620689655172413,0,1
+openstack/osprofiler,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/osprofiler,openstack/manila-test-image,Core,2.3529411764705883,2.459016393442623,2,5
+openstack/osprofiler,openstack/manila-test-image,Non core,0.0,1.639344262295082,2,5
+openstack/osprofiler,openstack/governance-website,Core,2.272727272727273,4.878048780487805,5,9
+openstack/osprofiler,openstack/governance-website,Non core,3.4090909090909087,2.4390243902439024,5,9
+openstack/osprofiler,openstack/bugdaystats,Core,1.1494252873563218,1.639344262295082,1,5
+openstack/osprofiler,openstack/bugdaystats,Non core,0.0,2.459016393442623,1,5
+openstack/osprofiler,openstack/upstream-institute-virtual-environment,Core,1.1235955056179776,1.639344262295082,1,2
+openstack/osprofiler,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,1,2
+openstack/osprofiler,openstack/karbor-dashboard,Core,3.571428571428571,3.896103896103896,9,16
+openstack/osprofiler,openstack/karbor-dashboard,Non core,4.464285714285714,6.493506493506493,9,16
+openstack/osprofiler,openstack/django_openstack_auth,Core,6.122448979591836,2.681992337164751,14,15
+openstack/osprofiler,openstack/django_openstack_auth,Non core,3.4013605442176873,3.065134099616858,14,15
+openstack/osprofiler,openstack/monasca-transform,Core,6.140350877192982,1.9867549668874174,10,12
+openstack/osprofiler,openstack/monasca-transform,Non core,2.631578947368421,5.960264900662252,10,12
+openstack/osprofiler,openstack/monasca-ceilometer,Core,7.563025210084033,2.312138728323699,14,12
+openstack/osprofiler,openstack/monasca-ceilometer,Non core,4.201680672268908,4.624277456647398,14,12
+openstack/osprofiler,openstack/monasca-log-api,Core,8.73015873015873,3.763440860215054,13,19
+openstack/osprofiler,openstack/monasca-log-api,Non core,1.5873015873015872,6.451612903225806,13,19
+openstack/osprofiler,openstack/nose-html-output,Core,5.747126436781609,1.6666666666666667,5,6
+openstack/osprofiler,openstack/nose-html-output,Non core,0.0,3.3333333333333335,5,6
+openstack/osprofiler,openstack/kolla-cli,Core,0.9803921568627451,1.4285714285714286,3,9
+openstack/osprofiler,openstack/kolla-cli,Non core,1.9607843137254901,5.0,3,9
+openstack/osprofiler,openstack/neutron-lbaas-dashboard,Core,7.627118644067797,3.278688524590164,13,17
+openstack/osprofiler,openstack/neutron-lbaas-dashboard,Non core,3.389830508474576,6.0109289617486334,13,17
+openstack/osprofiler,openstack/searchlight,Core,4.891304347826087,4.072398190045249,17,26
+openstack/osprofiler,openstack/searchlight,Non core,4.3478260869565215,7.6923076923076925,17,26
+openstack/osprofiler,openstack/searchlight-ui,Core,6.896551724137931,3.3333333333333335,13,13
+openstack/osprofiler,openstack/searchlight-ui,Non core,4.310344827586207,5.333333333333334,13,13
+openstack/osprofiler,openstack/searchlight-specs,Core,4.081632653061225,1.4388489208633095,9,8
+openstack/osprofiler,openstack/searchlight-specs,Non core,5.1020408163265305,4.316546762589928,9,8
+openstack/osprofiler,openstack/python-searchlightclient,Core,7.142857142857142,3.3112582781456954,16,15
+openstack/osprofiler,openstack/python-searchlightclient,Non core,7.142857142857142,6.622516556291391,16,15
+openstack/osprofiler,openstack/charm-tempest,Core,3.0,1.5267175572519083,5,5
+openstack/osprofiler,openstack/charm-tempest,Non core,2.0,2.2900763358778624,5,5
+openstack/osprofiler,openstack/charm-barbican-softhsm,Core,3.0927835051546393,1.5873015873015872,5,5
+openstack/osprofiler,openstack/charm-barbican-softhsm,Non core,2.0618556701030926,2.380952380952381,5,5
+openstack/osprofiler,openstack/cookbook-openstack-client,Core,2.247191011235955,0.8130081300813009,2,3
+openstack/osprofiler,openstack/cookbook-openstack-client,Non core,0.0,1.6260162601626018,2,3
+openstack/osprofiler,openstack/instack-undercloud,Core,4.046242774566474,3.484320557491289,12,29
+openstack/osprofiler,openstack/instack-undercloud,Non core,2.8901734104046244,6.620209059233449,12,29
+openstack/osprofiler,openstack/publiccloud-sig,Core,2.2988505747126435,1.694915254237288,3,3
+openstack/osprofiler,openstack/publiccloud-sig,Non core,1.1494252873563218,0.847457627118644,3,3
+openstack/osprofiler,openstack/ideas,Core,2.3255813953488373,6.8181818181818175,2,9
+openstack/osprofiler,openstack/ideas,Non core,0.0,0.0,2,9
+openstack/osprofiler,openstack/uc-recognition,Core,1.1764705882352942,0.8403361344537815,1,2
+openstack/osprofiler,openstack/uc-recognition,Non core,0.0,0.8403361344537815,1,2
+openstack/osprofiler,openstack/ops-tags-team,Core,2.197802197802198,2.18978102189781,2,7
+openstack/osprofiler,openstack/ops-tags-team,Non core,0.0,2.9197080291970803,2,7
+openstack/osprofiler,openstack/enterprise-wg,Core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/enterprise-wg,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/governance-uc,Core,5.05050505050505,1.2658227848101267,6,8
+openstack/osprofiler,openstack/governance-uc,Non core,1.0101010101010102,3.79746835443038,6,8
+openstack/osprofiler,openstack/workload-ref-archs,Core,3.296703296703297,1.680672268907563,5,8
+openstack/osprofiler,openstack/workload-ref-archs,Non core,2.197802197802198,5.042016806722689,5,8
+openstack/osprofiler,openstack/arch-wg,Core,2.3529411764705883,2.4193548387096775,2,4
+openstack/osprofiler,openstack/arch-wg,Non core,0.0,0.8064516129032258,2,4
+openstack/osprofiler,openstack/project-navigator-data,Core,6.25,3.0303030303030303,6,5
+openstack/osprofiler,openstack/project-navigator-data,Non core,0.0,0.7575757575757576,6,5
+openstack/osprofiler,openstack/openstack-specs,Core,6.25,5.204460966542751,7,24
+openstack/osprofiler,openstack/openstack-specs,Non core,1.0416666666666665,3.717472118959108,7,24
+openstack/osprofiler,openstack/openstack-ansible-os_monasca,Core,4.464285714285714,2.6490066225165565,8,14
+openstack/osprofiler,openstack/openstack-ansible-os_monasca,Non core,2.6785714285714284,6.622516556291391,8,14
+openstack/osprofiler,openstack/openstack-ansible-os_monasca-agent,Core,2.912621359223301,1.4285714285714286,5,7
+openstack/osprofiler,openstack/openstack-ansible-os_monasca-agent,Non core,1.9417475728155338,3.571428571428571,5,7
+openstack/osprofiler,openstack/ironic-inspector-specs,Core,2.912621359223301,0.6493506493506493,5,4
+openstack/osprofiler,openstack/ironic-inspector-specs,Non core,1.9417475728155338,1.948051948051948,5,4
+openstack/osprofiler,openstack/sushy-cli,Core,3.4090909090909087,0.8264462809917356,4,1
+openstack/osprofiler,openstack/sushy-cli,Non core,1.1363636363636365,0.0,4,1
+openstack/osprofiler,openstack/puppet-glare,Core,4.716981132075472,1.4705882352941175,7,5
+openstack/osprofiler,openstack/puppet-glare,Non core,1.8867924528301887,2.2058823529411766,7,5
+openstack/osprofiler,openstack/xstatic-bootstrap-scss,Core,2.2988505747126435,1.6666666666666667,3,6
+openstack/osprofiler,openstack/xstatic-bootstrap-scss,Non core,1.1494252873563218,3.3333333333333335,3,6
+openstack/osprofiler,openstack/openstack-planet,Core,4.844290657439446,1.8957345971563981,17,8
+openstack/osprofiler,openstack/openstack-planet,Non core,1.0380622837370241,1.8957345971563981,17,8
+openstack/osprofiler,openstack/charm-interface-keystone-credentials,Core,3.3333333333333335,0.8547008547008548,3,3
+openstack/osprofiler,openstack/charm-interface-keystone-credentials,Non core,0.0,1.7094017094017095,3,3
+openstack/osprofiler,openstack/monasca-kibana-plugin,Core,3.296703296703297,1.5625,3,3
+openstack/osprofiler,openstack/monasca-kibana-plugin,Non core,0.0,0.78125,3,3
+openstack/osprofiler,openstack/charm-interface-keystone-domain-backend,Core,3.488372093023256,0.8695652173913043,4,1
+openstack/osprofiler,openstack/charm-interface-keystone-domain-backend,Non core,1.1627906976744187,0.0,4,1
+openstack/osprofiler,openstack/devstack-plugin-amqp1,Core,6.8181818181818175,7.5,7,12
+openstack/osprofiler,openstack/devstack-plugin-amqp1,Non core,1.1363636363636365,2.5,7,12
+openstack/osprofiler,openstack/devstack-plugin-kafka,Core,2.272727272727273,5.982905982905983,3,11
+openstack/osprofiler,openstack/devstack-plugin-kafka,Non core,1.1363636363636365,3.418803418803419,3,11
+openstack/osprofiler,openstack/tripleo-ipsec,Core,4.49438202247191,1.5873015873015872,6,5
+openstack/osprofiler,openstack/tripleo-ipsec,Non core,2.247191011235955,2.380952380952381,6,5
+openstack/osprofiler,openstack/monasca-grafana-datasource,Core,1.0752688172043012,0.0,1,1
+openstack/osprofiler,openstack/monasca-grafana-datasource,Non core,0.0,0.7462686567164178,1,1
+openstack/osprofiler,openstack/charm-interface-bind-rndc,Core,3.3707865168539324,0.8547008547008548,3,2
+openstack/osprofiler,openstack/charm-interface-bind-rndc,Non core,0.0,0.8547008547008548,3,2
+openstack/osprofiler,openstack/charm-interface-rabbitmq,Core,3.4090909090909087,0.8547008547008548,3,3
+openstack/osprofiler,openstack/charm-interface-rabbitmq,Non core,0.0,1.7094017094017095,3,3
+openstack/osprofiler,openstack/charm-interface-openstack-ha,Core,2.272727272727273,1.7094017094017095,2,3
+openstack/osprofiler,openstack/charm-interface-openstack-ha,Non core,0.0,0.8547008547008548,2,3
+openstack/osprofiler,openstack/charm-interface-gnocchi,Core,3.488372093023256,1.6260162601626018,3,3
+openstack/osprofiler,openstack/charm-interface-gnocchi,Non core,0.0,0.8130081300813009,3,3
+openstack/osprofiler,openstack/charm-interface-bgp,Core,3.4482758620689653,0.847457627118644,4,1
+openstack/osprofiler,openstack/charm-interface-bgp,Non core,1.1494252873563218,0.0,4,1
+openstack/osprofiler,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.8771929824561403,0,1
+openstack/osprofiler,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/osprofiler,openstack/charm-interface-designate,Core,1.1627906976744187,0.8695652173913043,1,1
+openstack/osprofiler,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/tempest-horizon,Core,6.25,3.2,8,8
+openstack/osprofiler,openstack/tempest-horizon,Non core,2.083333333333333,3.2,8,8
+openstack/osprofiler,openstack/logstash-filters,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/logstash-filters,Non core,0.0,0.8695652173913043,0,1
+openstack/osprofiler,openstack/xstatic-jquery-migrate,Core,2.3529411764705883,1.7543859649122806,2,3
+openstack/osprofiler,openstack/xstatic-jquery-migrate,Non core,0.0,0.8771929824561403,2,3
+openstack/osprofiler,openstack/qinling-dashboard,Core,4.597701149425287,5.042016806722689,4,8
+openstack/osprofiler,openstack/qinling-dashboard,Non core,0.0,1.680672268907563,4,8
+openstack/osprofiler,openstack/python-qinlingclient,Core,4.9504950495049505,4.838709677419355,13,13
+openstack/osprofiler,openstack/python-qinlingclient,Non core,7.920792079207921,5.64516129032258,13,13
+openstack/osprofiler,openstack/qinling,Core,5.128205128205128,2.142857142857143,11,8
+openstack/osprofiler,openstack/qinling,Non core,4.273504273504273,3.571428571428571,11,8
+openstack/osprofiler,openstack/monasca-analytics,Core,4.9504950495049505,2.7777777777777777,8,9
+openstack/osprofiler,openstack/monasca-analytics,Non core,2.9702970297029703,3.4722222222222223,8,9
+openstack/osprofiler,openstack/oslo-incubator,Core,5.089820359281437,3.536345776031434,21,31
+openstack/osprofiler,openstack/oslo-incubator,Non core,1.1976047904191618,2.5540275049115913,21,31
+openstack/osprofiler,openstack/puppet-congress,Core,4.761904761904762,0.7692307692307693,8,5
+openstack/osprofiler,openstack/puppet-congress,Non core,2.857142857142857,3.076923076923077,8,5
+openstack/osprofiler,openstack/openstack-ansible-os_monasca-ui,Core,3.225806451612903,1.574803149606299,3,3
+openstack/osprofiler,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,0.7874015748031495,3,3
+openstack/osprofiler,openstack/auto-scaling-sig,Core,3.488372093023256,1.6,3,2
+openstack/osprofiler,openstack/auto-scaling-sig,Non core,0.0,0.0,3,2
+openstack/osprofiler,openstack/os-loganalyze,Core,2.7522935779816518,2.5974025974025974,3,8
+openstack/osprofiler,openstack/os-loganalyze,Non core,0.0,2.5974025974025974,3,8
+openstack/osprofiler,openstack/devstack-plugin-pika,Core,2.3529411764705883,6.1946902654867255,3,9
+openstack/osprofiler,openstack/devstack-plugin-pika,Non core,1.1764705882352942,1.7699115044247788,3,9
+openstack/osprofiler,openstack/devstack-plugin-zmq,Core,5.747126436781609,7.017543859649122,6,11
+openstack/osprofiler,openstack/devstack-plugin-zmq,Non core,1.1494252873563218,2.631578947368421,6,11
+openstack/osprofiler,openstack/networking-l2gw,Core,5.755395683453238,2.8688524590163933,12,18
+openstack/osprofiler,openstack/networking-l2gw,Non core,2.877697841726619,4.508196721311475,12,18
+openstack/osprofiler,openstack/networking-l2gw-tempest-plugin,Core,2.2222222222222223,2.3255813953488373,5,5
+openstack/osprofiler,openstack/networking-l2gw-tempest-plugin,Non core,3.3333333333333335,1.550387596899225,5,5
+openstack/osprofiler,openstack/charm-interface-ceph-mds,Core,3.4090909090909087,0.0,3,1
+openstack/osprofiler,openstack/charm-interface-ceph-mds,Non core,0.0,0.8620689655172413,3,1
+openstack/osprofiler,openstack/xstatic-angular-ui-router,Core,2.380952380952381,3.5398230088495577,2,5
+openstack/osprofiler,openstack/xstatic-angular-ui-router,Non core,0.0,0.8849557522123894,2,5
+openstack/osprofiler,openstack/xstatic-vis,Core,2.3529411764705883,2.6548672566371683,2,3
+openstack/osprofiler,openstack/xstatic-vis,Non core,0.0,0.0,2,3
+openstack/osprofiler,openstack/cookbook-openstack-database,Core,2.2222222222222223,2.3255813953488373,2,5
+openstack/osprofiler,openstack/cookbook-openstack-database,Non core,0.0,1.550387596899225,2,5
+openstack/osprofiler,openstack/cookbook-openstack-data-processing,Core,2.2988505747126435,2.459016393442623,2,6
+openstack/osprofiler,openstack/cookbook-openstack-data-processing,Non core,0.0,2.459016393442623,2,6
+openstack/osprofiler,openstack/trove-integration,Core,2.7777777777777777,0.9803921568627451,5,8
+openstack/osprofiler,openstack/trove-integration,Non core,0.6944444444444444,2.941176470588235,5,8
+openstack/osprofiler,openstack/ansible-role-tripleo-sensu,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/python-ceilometerclient,Core,7.6923076923076925,4.411764705882353,16,23
+openstack/osprofiler,openstack/python-ceilometerclient,Non core,1.098901098901099,4.044117647058823,16,23
+openstack/osprofiler,openstack/keystoneauth-saml2,Core,4.395604395604396,1.4492753623188406,5,6
+openstack/osprofiler,openstack/keystoneauth-saml2,Non core,1.098901098901099,2.898550724637681,5,6
+openstack/osprofiler,openstack/murano-deployment,Core,4.424778761061947,0.7194244604316548,6,8
+openstack/osprofiler,openstack/murano-deployment,Non core,0.8849557522123894,5.0359712230215825,6,8
+openstack/osprofiler,openstack/python-keystoneclient-kerberos,Core,4.395604395604396,2.2222222222222223,5,7
+openstack/osprofiler,openstack/python-keystoneclient-kerberos,Non core,1.098901098901099,2.9629629629629632,5,7
+openstack/osprofiler,openstack/python-wsmanclient,Core,1.1627906976744187,0.8547008547008548,1,2
+openstack/osprofiler,openstack/python-wsmanclient,Non core,0.0,0.8547008547008548,1,2
+openstack/osprofiler,openstack/fuel-upgrade,Core,3.3707865168539324,0.7518796992481203,4,4
+openstack/osprofiler,openstack/fuel-upgrade,Non core,1.1235955056179776,2.2556390977443606,4,4
+openstack/osprofiler,openstack/cookbook-openstack-object-storage,Core,2.7777777777777777,2.027027027027027,3,5
+openstack/osprofiler,openstack/cookbook-openstack-object-storage,Non core,0.0,1.3513513513513513,3,5
+openstack/osprofiler,openstack/fairy-slipper,Core,2.247191011235955,2.459016393442623,2,5
+openstack/osprofiler,openstack/fairy-slipper,Non core,0.0,1.639344262295082,2,5
+openstack/osprofiler,openstack/django-openstack-auth-kerberos,Core,2.3529411764705883,0.8264462809917356,4,6
+openstack/osprofiler,openstack/django-openstack-auth-kerberos,Non core,2.3529411764705883,4.132231404958678,4,6
+openstack/osprofiler,openstack/horizon-cisco-ui,Core,3.260869565217391,1.694915254237288,4,6
+openstack/osprofiler,openstack/horizon-cisco-ui,Non core,1.0869565217391304,3.389830508474576,4,6
+openstack/osprofiler,openstack/zuul-packaging,Core,2.380952380952381,1.7094017094017095,2,4
+openstack/osprofiler,openstack/zuul-packaging,Non core,0.0,1.7094017094017095,2,4
+openstack/osprofiler,openstack/networking-generic-switch-tempest-plugin,Core,1.1904761904761905,0.9009009009009009,1,1
+openstack/osprofiler,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/tripleo-incubator,Core,3.4682080924855487,2.307692307692308,7,13
+openstack/osprofiler,openstack/tripleo-incubator,Non core,0.5780346820809248,2.6923076923076925,7,13
+openstack/osprofiler,openstack/ironic-webclient,Core,1.1235955056179776,0.7352941176470588,1,5
+openstack/osprofiler,openstack/ironic-webclient,Non core,0.0,2.941176470588235,1,5
+openstack/osprofiler,openstack/puppet-crane,Core,1.1904761904761905,1.7857142857142856,1,2
+openstack/osprofiler,openstack/puppet-crane,Non core,0.0,0.0,1,2
+openstack/osprofiler,openstack/release-tools,Core,8.333333333333332,4.819277108433735,9,17
+openstack/osprofiler,openstack/release-tools,Non core,0.0,5.421686746987952,9,17
+openstack/osprofiler,openstack/gnocchi,Core,4.861111111111112,4.0358744394618835,8,17
+openstack/osprofiler,openstack/gnocchi,Non core,0.6944444444444444,3.587443946188341,8,17
+openstack/osprofiler,openstack/networking-ofagent,Core,3.3333333333333335,2.307692307692308,4,6
+openstack/osprofiler,openstack/networking-ofagent,Non core,1.1111111111111112,2.307692307692308,4,6
+openstack/osprofiler,openstack/python-neutron-pd-driver,Core,1.1764705882352942,1.7857142857142856,1,3
+openstack/osprofiler,openstack/python-neutron-pd-driver,Non core,0.0,0.8928571428571428,1,3
+openstack/osprofiler,openstack/charm-ceph,Core,0.9900990099009901,1.5873015873015872,2,4
+openstack/osprofiler,openstack/charm-ceph,Non core,0.9900990099009901,1.5873015873015872,2,4
+openstack/osprofiler,openstack/openstack-ansible-os_freezer,Core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/openstack-ansible-pip_lock_down,Core,4.301075268817205,1.639344262295082,4,4
+openstack/osprofiler,openstack/openstack-ansible-pip_lock_down,Non core,0.0,1.639344262295082,4,4
+openstack/osprofiler,openstack/openstack-ansible-security,Core,5.172413793103448,2.312138728323699,6,7
+openstack/osprofiler,openstack/openstack-ansible-security,Non core,0.0,1.7341040462427744,6,7
+openstack/osprofiler,openstack/oslosphinx,Core,12.612612612612612,7.792207792207792,19,26
+openstack/osprofiler,openstack/oslosphinx,Non core,4.504504504504505,9.090909090909092,19,26
+openstack/osprofiler,openstack/python-gnocchiclient,Core,2.7027027027027026,2.941176470588235,3,7
+openstack/osprofiler,openstack/python-gnocchiclient,Non core,0.0,2.2058823529411766,3,7
+openstack/osprofiler,openstack/ansible-role-k8s-cinder,Core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/ansible-role-k8s-cookiecutter,Core,2.380952380952381,1.7699115044247788,2,2
+openstack/osprofiler,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,2
+openstack/osprofiler,openstack/ansible-role-k8s-glance,Core,3.571428571428571,1.7699115044247788,3,2
+openstack/osprofiler,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,3,2
+openstack/osprofiler,openstack/ansible-role-k8s-keystone,Core,3.571428571428571,0.8620689655172413,3,1
+openstack/osprofiler,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,3,1
+openstack/osprofiler,openstack/ansible-role-k8s-mariadb,Core,4.761904761904762,1.7391304347826086,4,2
+openstack/osprofiler,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,4,2
+openstack/osprofiler,openstack/ansible-role-k8s-rabbitmq,Core,1.1904761904761905,0.9009009009009009,1,1
+openstack/osprofiler,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/ansible-role-k8s-tripleo,Core,3.571428571428571,1.7543859649122806,3,2
+openstack/osprofiler,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,3,2
+openstack/osprofiler,openstack/ansible-role-tripleo-ui,Core,2.272727272727273,1.7391304347826086,2,3
+openstack/osprofiler,openstack/ansible-role-tripleo-ui,Non core,0.0,0.8695652173913043,2,3
+openstack/osprofiler,openstack/ansible-role-tripleo-aodh,Core,2.272727272727273,0.8620689655172413,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.8620689655172413,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-barbican,Core,2.272727272727273,0.8695652173913043,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-ceilometer,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-cinder,Core,2.272727272727273,0.8695652173913043,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-cookiecutter,Core,4.444444444444445,1.6666666666666667,4,5
+openstack/osprofiler,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,2.5,4,5
+openstack/osprofiler,openstack/tripleo-ui,Core,4.504504504504505,5.555555555555555,7,18
+openstack/osprofiler,openstack/tripleo-ui,Non core,1.8018018018018018,5.555555555555555,7,18
+openstack/osprofiler,openstack/ansible-role-tripleo-ovn,Core,2.272727272727273,0.8695652173913043,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-opendaylight,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-octavia,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-nova,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-nova,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/os-cloud-config,Core,5.511811023622047,2.083333333333333,8,12
+openstack/osprofiler,openstack/os-cloud-config,Non core,0.7874015748031495,4.166666666666666,8,12
+openstack/osprofiler,openstack/ansible-role-tripleo-zaqar,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-tempest,Core,2.272727272727273,0.8771929824561403,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.8771929824561403,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-sahara,Core,2.272727272727273,0.8695652173913043,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-swift,Core,2.272727272727273,0.8695652173913043,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-tacker,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,2.272727272727273,0.8695652173913043,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-rabbitmq,Core,2.272727272727273,0.8695652173913043,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-qdrouterd,Core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/ansible-role-tripleo-panko,Core,2.272727272727273,0.8695652173913043,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-heat,Core,2.272727272727273,0.8695652173913043,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-haproxy,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-gnocchi,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-glance,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-glance,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-designate,Core,2.272727272727273,0.8620689655172413,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/ansible-role-tripleo-neutron,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-mistral,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-memcached,Core,2.272727272727273,0.8695652173913043,2,3
+openstack/osprofiler,openstack/ansible-role-tripleo-memcached,Non core,0.0,1.7391304347826086,2,3
+openstack/osprofiler,openstack/ansible-role-tripleo-manila,Core,2.272727272727273,0.8620689655172413,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-manila,Non core,0.0,0.8620689655172413,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-ironic,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-keepalived,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-horizon,Core,2.272727272727273,0.8695652173913043,2,2
+openstack/osprofiler,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/pylockfile,Core,5.747126436781609,7.758620689655173,5,14
+openstack/osprofiler,openstack/pylockfile,Non core,0.0,4.310344827586207,5,14
+openstack/osprofiler,openstack/xstatic-moment-timezone,Core,1.1764705882352942,1.7857142857142856,1,2
+openstack/osprofiler,openstack/xstatic-moment-timezone,Non core,0.0,0.0,1,2
+openstack/osprofiler,openstack/xstatic-dagre-d3,Core,1.1764705882352942,1.7857142857142856,1,2
+openstack/osprofiler,openstack/xstatic-dagre-d3,Non core,0.0,0.0,1,2
+openstack/osprofiler,openstack/xstatic-dagre,Core,0.0,1.8018018018018018,0,2
+openstack/osprofiler,openstack/xstatic-dagre,Non core,0.0,0.0,0,2
+openstack/osprofiler,openstack/dragonflow,Core,4.66321243523316,4.044117647058823,15,30
+openstack/osprofiler,openstack/dragonflow,Non core,3.1088082901554404,6.985294117647059,15,30
+openstack/osprofiler,openstack/openstack,Core,2.3255813953488373,4.132231404958678,2,7
+openstack/osprofiler,openstack/openstack,Non core,0.0,1.6528925619834711,2,7
+openstack/osprofiler,openstack/charm-interface-pacemaker-remote,Core,1.1627906976744187,0.8620689655172413,2,3
+openstack/osprofiler,openstack/charm-interface-pacemaker-remote,Non core,1.1627906976744187,1.7241379310344827,2,3
+openstack/osprofiler,openstack/networking-onos,Core,1.0101010101010102,1.3157894736842104,1,8
+openstack/osprofiler,openstack/networking-onos,Non core,0.0,3.9473684210526314,1,8
+openstack/osprofiler,openstack/solum-infra-guestagent,Core,2.272727272727273,0.819672131147541,2,2
+openstack/osprofiler,openstack/solum-infra-guestagent,Non core,0.0,0.819672131147541,2,2
+openstack/osprofiler,openstack/openstack-ux,Core,1.1627906976744187,0.7936507936507936,1,3
+openstack/osprofiler,openstack/openstack-ux,Non core,0.0,1.5873015873015872,1,3
+openstack/osprofiler,openstack/mox3,Core,7.446808510638298,9.523809523809524,16,22
+openstack/osprofiler,openstack/mox3,Non core,9.574468085106384,7.936507936507936,16,22
+openstack/osprofiler,openstack/charm-layer-ceph,Core,1.1764705882352942,0.0,1,0
+openstack/osprofiler,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/osprofiler,openstack/charm-layer-ceph-base,Core,2.3255813953488373,0.0,2,1
+openstack/osprofiler,openstack/charm-layer-ceph-base,Non core,0.0,0.8695652173913043,2,1
+openstack/osprofiler,openstack/python-tricircleclient,Core,5.434782608695652,3.875968992248062,10,11
+openstack/osprofiler,openstack/python-tricircleclient,Non core,5.434782608695652,4.651162790697675,10,11
+openstack/osprofiler,openstack/tricircle,Core,5.369127516778524,3.125,15,25
+openstack/osprofiler,openstack/tricircle,Non core,4.697986577181208,8.035714285714286,15,25
+openstack/osprofiler,openstack/swift-specs,Core,4.901960784313726,1.7543859649122806,5,4
+openstack/osprofiler,openstack/swift-specs,Non core,0.0,0.5847953216374269,5,4
+openstack/osprofiler,openstack/congress,Core,6.976744186046512,2.73972602739726,21,29
+openstack/osprofiler,openstack/congress,Non core,2.7906976744186047,7.191780821917808,21,29
+openstack/osprofiler,openstack/congress-tempest-plugin,Core,3.061224489795918,1.5625,5,8
+openstack/osprofiler,openstack/congress-tempest-plugin,Non core,2.0408163265306123,4.6875,5,8
+openstack/osprofiler,openstack/python-congressclient,Core,5.88235294117647,3.3557046979865772,16,14
+openstack/osprofiler,openstack/python-congressclient,Non core,7.563025210084033,6.0402684563758395,16,14
+openstack/osprofiler,openstack/congress-specs,Core,5.405405405405405,0.6622516556291391,7,7
+openstack/osprofiler,openstack/congress-specs,Non core,0.9009009009009009,3.9735099337748347,7,7
+openstack/osprofiler,openstack/congress-dashboard,Core,4.9504950495049505,5.223880597014925,7,11
+openstack/osprofiler,openstack/congress-dashboard,Non core,1.9801980198019802,2.9850746268656714,7,11
+openstack/osprofiler,openstack/syntribos,Core,4.672897196261682,2.1739130434782608,7,8
+openstack/osprofiler,openstack/syntribos,Non core,1.8691588785046727,3.6231884057971016,7,8
+openstack/osprofiler,openstack/syntribos-payloads,Core,1.1904761904761905,0.8695652173913043,1,2
+openstack/osprofiler,openstack/syntribos-payloads,Non core,0.0,0.8695652173913043,1,2
+openstack/osprofiler,openstack/syntribos-openstack-templates,Core,1.1627906976744187,0.8547008547008548,1,2
+openstack/osprofiler,openstack/syntribos-openstack-templates,Non core,0.0,0.8547008547008548,1,2
+openstack/osprofiler,openstack/i18n-specs,Core,2.380952380952381,0.8620689655172413,2,2
+openstack/osprofiler,openstack/i18n-specs,Non core,0.0,0.8620689655172413,2,2
+openstack/osprofiler,openstack/tempest-plugin-cookiecutter,Core,2.3255813953488373,1.6666666666666667,2,3
+openstack/osprofiler,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.8333333333333334,2,3
+openstack/osprofiler,openstack/devstack-plugin-cookiecutter,Core,3.571428571428571,0.8771929824561403,3,2
+openstack/osprofiler,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.8771929824561403,3,2
+openstack/osprofiler,openstack/xstatic-graphlib,Core,0.0,1.7857142857142856,0,2
+openstack/osprofiler,openstack/xstatic-graphlib,Non core,0.0,0.0,0,2
+openstack/osprofiler,openstack/openstack-ansible-repo_build,Core,4.580152671755725,1.6574585635359116,11,13
+openstack/osprofiler,openstack/openstack-ansible-repo_build,Non core,3.816793893129771,5.524861878453039,11,13
+openstack/osprofiler,openstack/xstatic-bootstrap-datepicker,Core,3.4482758620689653,0.8130081300813009,4,4
+openstack/osprofiler,openstack/xstatic-bootstrap-datepicker,Non core,1.1494252873563218,2.4390243902439024,4,4
+openstack/osprofiler,openstack/xstatic-hogan,Core,2.380952380952381,1.7699115044247788,2,3
+openstack/osprofiler,openstack/xstatic-hogan,Non core,0.0,0.8849557522123894,2,3
+openstack/osprofiler,openstack/xstatic-jquery.quicksearch,Core,2.380952380952381,1.7699115044247788,2,3
+openstack/osprofiler,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.8849557522123894,2,3
+openstack/osprofiler,openstack/openstack-ansible-os_molteniron,Core,2.9702970297029703,1.5037593984962405,6,8
+openstack/osprofiler,openstack/openstack-ansible-os_molteniron,Non core,2.9702970297029703,4.511278195488721,6,8
+openstack/osprofiler,openstack/xstatic-angular-lrdragndrop,Core,2.2988505747126435,0.8333333333333334,3,4
+openstack/osprofiler,openstack/xstatic-angular-lrdragndrop,Non core,1.1494252873563218,2.5,3,4
+openstack/osprofiler,openstack/faafo,Core,4.444444444444445,1.6528925619834711,4,7
+openstack/osprofiler,openstack/faafo,Non core,0.0,4.132231404958678,4,7
+openstack/osprofiler,openstack/xstatic-angular-bootstrap,Core,2.2222222222222223,0.8,3,4
+openstack/osprofiler,openstack/xstatic-angular-bootstrap,Non core,1.1111111111111112,2.4,3,4
+openstack/osprofiler,openstack/networking-calico,Core,4.587155963302752,2.564102564102564,8,12
+openstack/osprofiler,openstack/networking-calico,Non core,2.7522935779816518,5.128205128205128,8,12
+openstack/osprofiler,openstack/xstatic-angular-gettext,Core,2.3255813953488373,0.8333333333333334,4,4
+openstack/osprofiler,openstack/xstatic-angular-gettext,Non core,2.3255813953488373,2.5,4,4
+openstack/osprofiler,openstack/shotgun,Core,0.9900990099009901,0.5555555555555556,2,4
+openstack/osprofiler,openstack/shotgun,Non core,0.9900990099009901,1.6666666666666667,2,4
+openstack/osprofiler,openstack/deb-python-aioeventlet,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-aioeventlet,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/fuel-devops,Core,3.571428571428571,0.8333333333333334,5,11
+openstack/osprofiler,openstack/fuel-devops,Non core,0.0,3.75,5,11
+openstack/osprofiler,openstack/fuel-plugin-murano,Core,2.127659574468085,0.7299270072992701,2,3
+openstack/osprofiler,openstack/fuel-plugin-murano,Non core,0.0,1.4598540145985401,2,3
+openstack/osprofiler,openstack/fuel-web,Core,2.8368794326241136,1.25,12,20
+openstack/osprofiler,openstack/fuel-web,Non core,1.4184397163120568,2.9166666666666665,12,20
+openstack/osprofiler,openstack/fuel-plugins,Core,4.0650406504065035,0.4830917874396135,6,4
+openstack/osprofiler,openstack/fuel-plugins,Non core,0.8130081300813009,1.4492753623188406,6,4
+openstack/osprofiler,openstack/fuel-virtualbox,Core,3.3333333333333335,0.7692307692307693,3,2
+openstack/osprofiler,openstack/fuel-virtualbox,Non core,0.0,0.7692307692307693,3,2
+openstack/osprofiler,openstack/fuel-ostf,Core,4.093567251461988,1.6181229773462782,10,13
+openstack/osprofiler,openstack/fuel-ostf,Non core,1.7543859649122806,2.5889967637540456,10,13
+openstack/osprofiler,openstack/fuel-qa,Core,2.5,0.8746355685131195,7,12
+openstack/osprofiler,openstack/fuel-qa,Non core,1.0,2.623906705539359,7,12
+openstack/osprofiler,openstack/fuel-specs,Core,3.35195530726257,1.5151515151515151,7,12
+openstack/osprofiler,openstack/fuel-specs,Non core,0.5586592178770949,1.5151515151515151,7,12
+openstack/osprofiler,openstack/fuel-nailgun-extension-cluster-upgrade,Core,2.1739130434782608,0.7692307692307693,2,2
+openstack/osprofiler,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.7692307692307693,2,2
+openstack/osprofiler,openstack/fuel-nailgun-agent,Core,2.5423728813559325,0.49261083743842365,3,4
+openstack/osprofiler,openstack/fuel-nailgun-agent,Non core,0.0,1.477832512315271,3,4
+openstack/osprofiler,openstack/fuel-mirror,Core,2.6548672566371683,0.49019607843137253,3,8
+openstack/osprofiler,openstack/fuel-mirror,Non core,0.0,3.431372549019608,3,8
+openstack/osprofiler,openstack/fuel-menu,Core,2.631578947368421,0.9216589861751152,4,7
+openstack/osprofiler,openstack/fuel-menu,Non core,0.8771929824561403,2.3041474654377883,4,7
+openstack/osprofiler,openstack/fuel-main,Core,2.7906976744186047,1.749271137026239,7,15
+openstack/osprofiler,openstack/fuel-main,Non core,0.46511627906976744,2.623906705539359,7,15
+openstack/osprofiler,openstack/fuel-ui,Core,2.459016393442623,0.5181347150259068,3,6
+openstack/osprofiler,openstack/fuel-ui,Non core,0.0,2.5906735751295336,3,6
+openstack/osprofiler,openstack/fuel-library,Core,3.308823529411765,1.5122873345935728,11,20
+openstack/osprofiler,openstack/fuel-library,Non core,0.7352941176470588,2.2684310018903595,11,20
+openstack/osprofiler,openstack/fuel-dev-tools,Core,5.434782608695652,0.7874015748031495,5,5
+openstack/osprofiler,openstack/fuel-dev-tools,Non core,0.0,3.149606299212598,5,5
+openstack/osprofiler,openstack/fuel-stats,Core,5.1020408163265305,0.6493506493506493,6,4
+openstack/osprofiler,openstack/fuel-stats,Non core,1.0204081632653061,1.948051948051948,6,4
+openstack/osprofiler,openstack/fuel-nailgun-extension-converted-serializers,Core,1.1764705882352942,0.8849557522123894,1,2
+openstack/osprofiler,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.8849557522123894,1,2
+openstack/osprofiler,openstack/fuel-nailgun-extension-iac,Core,2.3255813953488373,0.8695652173913043,2,2
+openstack/osprofiler,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.8695652173913043,2,2
+openstack/osprofiler,openstack/fuel-plugin-murano-tests,Core,1.0638297872340425,0.7299270072992701,1,3
+openstack/osprofiler,openstack/fuel-plugin-murano-tests,Non core,0.0,1.4598540145985401,1,3
+openstack/osprofiler,openstack/fuel-astute,Core,3.4722222222222223,0.7782101167315175,5,6
+openstack/osprofiler,openstack/fuel-astute,Non core,0.0,1.556420233463035,5,6
+openstack/osprofiler,openstack/fuel-docs,Core,0.5649717514124294,1.4634146341463417,2,15
+openstack/osprofiler,openstack/fuel-docs,Non core,0.5649717514124294,2.195121951219512,2,15
+openstack/osprofiler,openstack/fuel-agent,Core,4.827586206896552,0.8,8,9
+openstack/osprofiler,openstack/fuel-agent,Non core,0.6896551724137931,2.8000000000000003,8,9
+openstack/osprofiler,openstack/fuel-octane,Core,4.545454545454546,0.625,5,6
+openstack/osprofiler,openstack/fuel-octane,Non core,0.0,3.125,5,6
+openstack/osprofiler,openstack/tuning-box,Core,1.1363636363636365,0.7462686567164178,1,3
+openstack/osprofiler,openstack/tuning-box,Non core,0.0,1.4925373134328357,1,3
+openstack/osprofiler,openstack/python-fuelclient,Core,2.73972602739726,1.2295081967213115,7,13
+openstack/osprofiler,openstack/python-fuelclient,Non core,2.054794520547945,4.098360655737705,7,13
+openstack/osprofiler,openstack/neutron-interconnection,Core,1.1904761904761905,2.5210084033613445,2,3
+openstack/osprofiler,openstack/neutron-interconnection,Non core,1.1904761904761905,0.0,2,3
+openstack/osprofiler,openstack/openstack-chef-repo,Core,2.479338842975207,1.25,4,5
+openstack/osprofiler,openstack/openstack-chef-repo,Non core,0.8264462809917356,1.875,4,5
+openstack/osprofiler,openstack/os-acc,Core,0.0,1.574803149606299,0,2
+openstack/osprofiler,openstack/os-acc,Non core,0.0,0.0,0,2
+openstack/osprofiler,openstack/openstack-ansible-os_zaqar,Core,4.464285714285714,1.3245033112582782,8,8
+openstack/osprofiler,openstack/openstack-ansible-os_zaqar,Non core,2.6785714285714284,3.9735099337748347,8,8
+openstack/osprofiler,openstack/openstack-ansible-os_watcher,Core,2.7522935779816518,2.097902097902098,6,8
+openstack/osprofiler,openstack/openstack-ansible-os_watcher,Non core,2.7522935779816518,3.4965034965034967,6,8
+openstack/osprofiler,openstack/openstack-ansible-os_searchlight,Core,2.9702970297029703,0.7246376811594203,6,4
+openstack/osprofiler,openstack/openstack-ansible-os_searchlight,Non core,2.9702970297029703,2.1739130434782608,6,4
+openstack/osprofiler,openstack/xstatic-angular-vis,Core,1.1904761904761905,0.0,1,0
+openstack/osprofiler,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/osprofiler,openstack/xstatic-font-awesome,Core,2.2988505747126435,0.0,3,3
+openstack/osprofiler,openstack/xstatic-font-awesome,Non core,1.1494252873563218,2.479338842975207,3,3
+openstack/osprofiler,openstack/xstatic-jasmine,Core,2.2222222222222223,0.819672131147541,4,4
+openstack/osprofiler,openstack/xstatic-jasmine,Non core,2.2222222222222223,2.459016393442623,4,4
+openstack/osprofiler,openstack/xstatic-angular-notify,Core,1.1904761904761905,0.0,1,0
+openstack/osprofiler,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/osprofiler,openstack/xstatic-angular-material,Core,2.3529411764705883,0.8771929824561403,2,1
+openstack/osprofiler,openstack/xstatic-angular-material,Non core,0.0,0.0,2,1
+openstack/osprofiler,openstack/tempest-tripleo-ui,Core,1.1627906976744187,0.819672131147541,1,1
+openstack/osprofiler,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/docs-specs,Core,6.666666666666667,2.9702970297029703,11,14
+openstack/osprofiler,openstack/docs-specs,Non core,2.5,1.65016501650165,11,14
+openstack/osprofiler,openstack/release-schedule-generator,Core,2.3529411764705883,1.7543859649122806,2,3
+openstack/osprofiler,openstack/release-schedule-generator,Non core,0.0,0.8771929824561403,2,3
+openstack/osprofiler,openstack-infra/opendev-website,Core,1.1904761904761905,0.8620689655172413,1,1
+openstack/osprofiler,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/castellan-ui,Core,2.2988505747126435,2.380952380952381,2,5
+openstack/osprofiler,openstack/castellan-ui,Non core,0.0,1.5873015873015872,2,5
+openstack/osprofiler,openstack-attic/compute-api,Core,2.8846153846153846,1.3888888888888888,3,3
+openstack/osprofiler,openstack-attic/compute-api,Non core,0.0,0.6944444444444444,3,3
+openstack/osprofiler,openstack/charm-neutron-api-odl,Core,1.0869565217391304,0.0,2,2
+openstack/osprofiler,openstack/charm-neutron-api-odl,Non core,1.0869565217391304,1.6666666666666667,2,2
+openstack/osprofiler,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/charm-murano,Core,1.1764705882352942,0.0,1,1
+openstack/osprofiler,openstack/charm-murano,Non core,0.0,0.8849557522123894,1,1
+openstack/osprofiler,openstack/charm-openvswitch-odl,Core,1.0869565217391304,0.0,2,2
+openstack/osprofiler,openstack/charm-openvswitch-odl,Non core,1.0869565217391304,1.694915254237288,2,2
+openstack/osprofiler,openstack/charm-interface-odl-controller-api,Core,2.3529411764705883,0.0,2,1
+openstack/osprofiler,openstack/charm-interface-odl-controller-api,Non core,0.0,0.8849557522123894,2,1
+openstack/osprofiler,openstack/charm-glusterfs,Core,1.1764705882352942,0.0,1,1
+openstack/osprofiler,openstack/charm-glusterfs,Non core,0.0,0.847457627118644,1,1
+openstack/osprofiler,openstack/charm-trove,Core,1.1235955056179776,0.0,2,1
+openstack/osprofiler,openstack/charm-trove,Non core,1.1235955056179776,0.8547008547008548,2,1
+openstack/osprofiler,openstack/deb-python-positional,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-positional,Non core,1.1904761904761905,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-requests-unixsocket,Non core,1.1764705882352942,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-traceback2,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-traceback2,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-ryu,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-ryu,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-linecache2,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-linecache2,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-gabbi,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-gabbi,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-cotyledon,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-cotyledon,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-migrate,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-migrate,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/fuxi,Core,3.8095238095238098,1.3157894736842104,6,5
+openstack/osprofiler,openstack/fuxi,Non core,1.9047619047619049,1.9736842105263157,6,5
+openstack/osprofiler,openstack/xstatic-filesaver,Core,1.1904761904761905,0.0,1,0
+openstack/osprofiler,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/osprofiler,openstack/xstatic-angular-uuid,Core,1.1904761904761905,0.0,1,0
+openstack/osprofiler,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/osprofiler,openstack/bandit,Core,3.64963503649635,4.166666666666666,6,13
+openstack/osprofiler,openstack/bandit,Non core,0.7299270072992701,3.571428571428571,6,13
+openstack/osprofiler,openstack/xstatic-angular-smart-table,Core,1.1627906976744187,0.0,1,1
+openstack/osprofiler,openstack/xstatic-angular-smart-table,Non core,0.0,0.8547008547008548,1,1
+openstack/osprofiler,openstack/xstatic-bootswatch,Core,2.3529411764705883,0.0,3,4
+openstack/osprofiler,openstack/xstatic-bootswatch,Non core,1.1764705882352942,3.3333333333333335,3,4
+openstack/osprofiler,openstack/deb-msgpack-python,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-msgpack-python,Non core,1.1904761904761905,0.8849557522123894,1,1
+openstack/osprofiler,openstack/xstatic-d3,Core,2.3255813953488373,0.0,3,3
+openstack/osprofiler,openstack/xstatic-d3,Non core,1.1627906976744187,2.479338842975207,3,3
+openstack/osprofiler,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/deb-python-pymemcache,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pymemcache,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-novnc,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-novnc,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/instack,Core,3.061224489795918,2.9197080291970803,8,10
+openstack/osprofiler,openstack/instack,Non core,5.1020408163265305,4.37956204379562,8,10
+openstack/osprofiler,openstack/deb-python-pysaml2,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pysaml2,Non core,1.1904761904761905,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-trollius,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-trollius,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-autobahn,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-autobahn,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-pyldap,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pyldap,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/astara,Core,3.418803418803419,1.3245033112582782,4,9
+openstack/osprofiler,openstack/astara,Non core,0.0,4.635761589403973,4,9
+openstack/osprofiler,openstack/astara-appliance,Core,2.083333333333333,1.5384615384615385,2,5
+openstack/osprofiler,openstack/astara-appliance,Non core,0.0,2.307692307692308,2,5
+openstack/osprofiler,openstack/astara-horizon,Core,2.247191011235955,0.8130081300813009,2,5
+openstack/osprofiler,openstack/astara-horizon,Non core,0.0,3.2520325203252036,2,5
+openstack/osprofiler,openstack/astara-neutron,Core,2.1505376344086025,0.8064516129032258,2,5
+openstack/osprofiler,openstack/astara-neutron,Non core,0.0,3.225806451612903,2,5
+openstack/osprofiler,openstack/anchor,Core,0.9090909090909091,2.0689655172413794,1,9
+openstack/osprofiler,openstack/anchor,Non core,0.0,4.137931034482759,1,9
+openstack/osprofiler,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/fuxi-golang,Core,1.2048192771084338,1.7699115044247788,1,2
+openstack/osprofiler,openstack/fuxi-golang,Non core,0.0,0.0,1,2
+openstack/osprofiler,openstack/fuxi-kubernetes,Core,1.1904761904761905,1.7094017094017095,1,3
+openstack/osprofiler,openstack/fuxi-kubernetes,Non core,0.0,0.8547008547008548,1,3
+openstack/osprofiler,openstack-infra/puppet-odsreg,Core,2.2988505747126435,0.8264462809917356,2,4
+openstack/osprofiler,openstack-infra/puppet-odsreg,Non core,0.0,2.479338842975207,2,4
+openstack/osprofiler,openstack-infra/puppet-docker_registry,Core,1.2048192771084338,0.0,1,0
+openstack/osprofiler,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/osprofiler,openstack/releasestatus,Core,1.1764705882352942,0.8620689655172413,1,3
+openstack/osprofiler,openstack/releasestatus,Non core,0.0,1.7241379310344827,1,3
+openstack/osprofiler,openstack-infra/vinz-webclient,Core,1.2048192771084338,0.0,1,0
+openstack/osprofiler,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/osprofiler,openstack/activity-board,Core,1.0204081632653061,1.2987012987012987,1,5
+openstack/osprofiler,openstack/activity-board,Non core,0.0,1.948051948051948,1,5
+openstack/osprofiler,openstack-infra/beaker-localhost,Core,1.2048192771084338,0.8928571428571428,1,1
+openstack/osprofiler,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack-infra/beaker-nodepool,Core,1.2048192771084338,0.8928571428571428,1,1
+openstack/osprofiler,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/osprofiler,openstack/rst2bash,Core,2.3529411764705883,2.564102564102564,2,4
+openstack/osprofiler,openstack/rst2bash,Non core,0.0,0.8547008547008548,2,4
+openstack/osprofiler,openstack/kolla-kubernetes,Core,2.8368794326241136,2.28310502283105,8,12
+openstack/osprofiler,openstack/kolla-kubernetes,Non core,2.8368794326241136,3.1963470319634704,8,12
+openstack/osprofiler,openstack/cue-dashboard,Core,3.296703296703297,1.7094017094017095,3,5
+openstack/osprofiler,openstack/cue-dashboard,Non core,0.0,2.564102564102564,3,5
+openstack/osprofiler,openstack/python-cueclient,Core,3.260869565217391,1.7094017094017095,5,5
+openstack/osprofiler,openstack/python-cueclient,Non core,2.1739130434782608,2.564102564102564,5,5
+openstack/osprofiler,openstack/cue,Core,4.587155963302752,3.731343283582089,6,12
+openstack/osprofiler,openstack/cue,Non core,0.9174311926605505,5.223880597014925,6,12
+openstack/osprofiler,openstack/app-catalog,Core,4.316546762589928,2.380952380952381,6,8
+openstack/osprofiler,openstack/app-catalog,Non core,0.0,2.380952380952381,6,8
+openstack/osprofiler,openstack-attic/identity-api,Core,2.459016393442623,2.127659574468085,4,6
+openstack/osprofiler,openstack-attic/identity-api,Non core,0.819672131147541,1.0638297872340425,4,6
+openstack/osprofiler,openstack/deb-python-fixtures,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-fixtures,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/python-magnetodbclient,Core,1.1494252873563218,0.0,1,1
+openstack/osprofiler,openstack/python-magnetodbclient,Non core,0.0,0.8333333333333334,1,1
+openstack/osprofiler,openstack/app-catalog-ui,Core,3.3707865168539324,2.4390243902439024,3,5
+openstack/osprofiler,openstack/app-catalog-ui,Non core,0.0,1.6260162601626018,3,5
+openstack/osprofiler,openstack/salt-formula-kubernetes,Core,1.1363636363636365,0.0,1,2
+openstack/osprofiler,openstack/salt-formula-kubernetes,Non core,0.0,1.7241379310344827,1,2
+openstack/osprofiler,openstack/app-catalog-common,Core,0.0,1.8018018018018018,0,3
+openstack/osprofiler,openstack/app-catalog-common,Non core,0.0,0.9009009009009009,0,3
+openstack/osprofiler,openstack/python-appcatalogclient,Core,0.0,1.7543859649122806,0,3
+openstack/osprofiler,openstack/python-appcatalogclient,Non core,0.0,0.8771929824561403,0,3
+openstack/osprofiler,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/deb-nova,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-nova,Non core,1.1627906976744187,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-kazoo,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-kazoo,Non core,1.1904761904761905,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-congressclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-congressclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-congress,Non core,0.0,0.9009009009009009,0,1
+openstack/osprofiler,openstack/deb-python-os-net-config,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-net-config,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-ironic,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-ironic,Non core,1.1627906976744187,0.8695652173913043,1,1
+openstack/osprofiler,openstack/deb-swauth,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-swauth,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-os-api-ref,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-api-ref,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-designate,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-designate,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-swift,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-swift,Non core,1.1904761904761905,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-manila-ui,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-manila-ui,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-barbican,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-barbican,Non core,1.1627906976744187,0.8695652173913043,1,1
+openstack/osprofiler,openstack/deb-cinder,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-cinder,Non core,1.1494252873563218,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-magnum,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-magnum,Non core,1.1494252873563218,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-trove,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-trove,Non core,1.1764705882352942,0.8620689655172413,1,1
+openstack/osprofiler,openstack/deb-openstack-pkg-tools,Core,1.1494252873563218,0.8403361344537815,2,2
+openstack/osprofiler,openstack/deb-openstack-pkg-tools,Non core,1.1494252873563218,0.8403361344537815,2,2
+openstack/osprofiler,openstack/deb-python-swiftclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-swiftclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-alembic,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-alembic,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-cinderclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-cinderclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-bootstrap,Non core,1.1764705882352942,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-networking-nec,Non core,0.0,0.9009009009009009,0,1
+openstack/osprofiler,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-neutron-taas,Non core,0.0,0.9009009009009009,0,1
+openstack/osprofiler,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-networking-mlnx,Non core,0.0,0.8928571428571428,0,1
+openstack/osprofiler,openstack/deb-openstack-meta-packages,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-openstack-meta-packages,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-networking-odl,Non core,0.0,0.9009009009009009,0,1
+openstack/osprofiler,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-nodepool,Non core,0.0,0.9009009009009009,0,1
+openstack/osprofiler,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-networking-cisco,Non core,0.0,0.9009009009009009,0,1
+openstack/osprofiler,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-networking-midonet,Non core,0.0,0.9009009009009009,0,1
+openstack/osprofiler,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-networking-arista,Non core,0.0,0.8928571428571428,0,1
+openstack/osprofiler,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-networking-hyperv,Non core,0.0,0.9009009009009009,0,1
+openstack/osprofiler,openstack/deb-python-rtslib-fb,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-rtslib-fb,Non core,1.1764705882352942,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-murano,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-murano,Non core,1.1494252873563218,0.8620689655172413,1,1
+openstack/osprofiler,openstack/deb-python-semantic-version,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-semantic-version,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-ldappool,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-ldappool,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-zaqar-ui,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-zaqar-ui,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-zaqar,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-zaqar,Non core,1.1494252873563218,0.8620689655172413,1,1
+openstack/osprofiler,openstack/deb-watcher,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-watcher,Non core,1.1494252873563218,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-os-testr,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-testr,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-os-win,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-win,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-pycadf,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pycadf,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-pyghmi,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pyghmi,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-reno,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-reno,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-os-refresh-config,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-refresh-config,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-os-vif,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-vif,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-pyeclib,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pyeclib,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-quantumclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-quantumclient,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-requestsexceptions,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-requestsexceptions,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-pbr,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pbr,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-requests-mock,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-requests-mock,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-saharaclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-saharaclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-scciclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-scciclient,Non core,1.1764705882352942,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-seamicroclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-seamicroclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-auto-backports,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-auto-backports,Non core,1.1627906976744187,0.8695652173913043,1,1
+openstack/osprofiler,openstack/deb-python-senlinclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-senlinclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-taskflow,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-taskflow,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-testtools,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-testtools,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-tooz,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-tooz,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-shotgun,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-shotgun,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-tackerclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-tackerclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-tosca-parser,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-tosca-parser,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-troveclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-troveclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-tuskarclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-tuskarclient,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-watcherclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-watcherclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-cookies,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-fileupload,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-wsme,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-wsme,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-schema-form,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-bootswatch,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-gettext,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-angular-mock,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-bootstrap-scss,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-d3,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-d3,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-hogan,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-font-awesome,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jasmine,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery-migrate,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery.quicksearch,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery.tablesorter,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jsencrypt,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-magic-search,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-mdi,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-objectpath,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-qunit,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-rickshaw,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-spin,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-spin,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-python-xstatic-tv4,Non core,0.0,0.8928571428571428,0,1
+openstack/osprofiler,openstack/deb-python-yaql,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-yaql,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-zaqarclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-zaqarclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-rally,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-rally,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-sahara,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-sahara,Non core,1.1494252873563218,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-sahara-dashboard,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-sahara-dashboard,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-senlin,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-senlin,Non core,1.1494252873563218,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-senlin-dashboard,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-senlin-dashboard,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-stevedore,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-stevedore,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-swift-bench,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-swift-bench,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-swift-plugin-s3,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-swift-plugin-s3,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-trove-dashboard,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-trove-dashboard,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-tempest,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-tempest,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-osprofiler,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-osprofiler,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.vmware,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.vmware,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.utils,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.utils,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.rootwrap,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.service,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.service,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.privsep,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.privsep,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.versionedobjects,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslotest,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslotest,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.serialization,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.serialization,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.reports,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.reports,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.policy,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.policy,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.middleware,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.middleware,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.messaging,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.messaging,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.log,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.log,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-aodhclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-aodhclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-automaton,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-automaton,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-barbicanclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-barbicanclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-bashate,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-bashate,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-castellan,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-castellan,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-ceilometerclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-ceilometerclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-ceilometermiddleware,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-cliff,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-cliff,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-cursive,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-cursive,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-debtcollector,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-debtcollector,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-designateclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-designateclient,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-dib-utils,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-dib-utils,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-diskimage-builder,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-diskimage-builder,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-doc8,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-doc8,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-django-openstack-auth,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-fuelclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-fuelclient,Non core,1.1764705882352942,0.8620689655172413,1,1
+openstack/osprofiler,openstack/deb-python-dogpile.cache,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-dogpile.cache,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-futurist,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-futurist,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-glanceclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-glanceclient,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-glance-store,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-glance-store,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-hacking,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-hacking,Non core,1.1627906976744187,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-heatclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-heatclient,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-ironicclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-ironicclient,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-ironic-inspector-client,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-ironic-lib,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-ironic-lib,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-jsonpath-rw-ext,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-k8sclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-k8sclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-keystoneauth1,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-keystoneauth1,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-keystoneclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-keystoneclient,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-keystonemiddleware,Non core,1.1764705882352942,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-magnumclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-magnumclient,Non core,1.1764705882352942,0.8695652173913043,1,1
+openstack/osprofiler,openstack/deb-python-manilaclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-manilaclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-microversion-parse,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-microversion-parse,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-mistralclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-mistralclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-monascaclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-monascaclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-mox3,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-mox3,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-muranoclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-muranoclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-neutronclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-neutronclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-neutron-lib,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-neutron-lib,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-novaclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-novaclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-openstackclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-openstackclient,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-openstackdocstheme,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-openstacksdk,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-openstacksdk,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-os-apply-config,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-apply-config,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-os-brick,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-brick,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-osc-lib,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-osc-lib,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-os-client-config,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-client-config,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-os-collect-config,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-collect-config,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.cache,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.cache,Non core,1.1627906976744187,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-python-oslo.db,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.db,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.concurrency,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.config,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.config,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.i18n,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.i18n,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-oslo.context,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oslo.context,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-openstack-nose,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-openstack-nose,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-openstack-doc-tools,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-openstack-doc-tools,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-openstack-trove,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-openstack-trove,Non core,1.1627906976744187,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-oslosphinx,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-oslosphinx,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-aodh,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-aodh,Non core,1.1627906976744187,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-bandit,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-bandit,Non core,1.1627906976744187,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-ceilometer,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-ceilometer,Non core,1.1627906976744187,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-ceilometermiddleware,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-ceilometermiddleware,Non core,1.1904761904761905,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-designate-dashboard,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-designate-dashboard,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-git-review,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-git-review,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-glance,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-glance,Non core,1.1627906976744187,0.8620689655172413,1,1
+openstack/osprofiler,openstack/deb-glare,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-glare,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-heat,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-heat,Non core,1.1627906976744187,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-heat-cfntools,Non core,0.0,0.8928571428571428,0,1
+openstack/osprofiler,openstack/deb-horizon,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-horizon,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-ironic-inspector,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-ironic-inspector,Non core,1.1627906976744187,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-ironic-ui,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-ironic-ui,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-keystone,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-keystone,Non core,1.1494252873563218,0.8695652173913043,1,1
+openstack/osprofiler,openstack/deb-liberasurecode,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-liberasurecode,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-manila,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-manila,Non core,1.1627906976744187,0.8771929824561403,1,1
+openstack/osprofiler,openstack/deb-mistral,Core,0.0,0.0,2,1
+openstack/osprofiler,openstack/deb-mistral,Non core,2.272727272727273,0.8620689655172413,2,1
+openstack/osprofiler,openstack/deb-murano-agent,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-murano-agent,Non core,1.1627906976744187,0.8620689655172413,1,1
+openstack/osprofiler,openstack/deb-murano-dashboard,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-murano-dashboard,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-networking-l2gw,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-networking-l2gw,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-networking-ovn,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-networking-ovn,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-neutron,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-neutron,Non core,1.1627906976744187,0.8695652173913043,1,1
+openstack/osprofiler,openstack/deb-neutron-fwaas,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-neutron-fwaas,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-neutron-vpnaas,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-neutron-vpnaas,Non core,1.1764705882352942,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-neutron-lbaas,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-neutron-lbaas,Non core,1.1627906976744187,0.8620689655172413,1,1
+openstack/osprofiler,openstack/installguide-cookiecutter,Core,2.1739130434782608,0.819672131147541,2,3
+openstack/osprofiler,openstack/installguide-cookiecutter,Non core,0.0,1.639344262295082,2,3
+openstack/osprofiler,openstack/deb-gnocchi,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-gnocchi,Non core,1.1627906976744187,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-eventlet,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-eventlet,Non core,1.1764705882352942,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-pymysql,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pymysql,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/salt-formula-opencontrail,Core,2.0618556701030926,0.0,3,2
+openstack/osprofiler,openstack/salt-formula-opencontrail,Non core,1.0309278350515463,1.6528925619834711,3,2
+openstack/osprofiler,openstack/salt-formula-neutron,Core,2.083333333333333,0.8064516129032258,3,2
+openstack/osprofiler,openstack/salt-formula-neutron,Non core,1.0416666666666665,0.8064516129032258,3,2
+openstack/osprofiler,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/salt-formula-swift,Non core,0.0,0.8695652173913043,0,1
+openstack/osprofiler,openstack/salt-formula-nova,Core,1.9607843137254901,0.0,3,2
+openstack/osprofiler,openstack/salt-formula-nova,Non core,0.9803921568627451,1.6129032258064515,3,2
+openstack/osprofiler,openstack/salt-formula-keystone,Core,2.0202020202020203,0.0,3,1
+openstack/osprofiler,openstack/salt-formula-keystone,Non core,1.0101010101010102,0.8130081300813009,3,1
+openstack/osprofiler,openstack/salt-formula-horizon,Core,1.0526315789473684,0.0,2,1
+openstack/osprofiler,openstack/salt-formula-horizon,Non core,1.0526315789473684,0.8333333333333334,2,1
+openstack/osprofiler,openstack/salt-formula-heat,Core,1.9801980198019802,0.0,3,1
+openstack/osprofiler,openstack/salt-formula-heat,Non core,0.9900990099009901,0.8264462809917356,3,1
+openstack/osprofiler,openstack/salt-formula-glance,Core,2.0,0.0,3,3
+openstack/osprofiler,openstack/salt-formula-glance,Non core,1.0,2.479338842975207,3,3
+openstack/osprofiler,openstack/salt-formula-cinder,Core,2.0202020202020203,0.0,3,1
+openstack/osprofiler,openstack/salt-formula-cinder,Non core,1.0101010101010102,0.8333333333333334,3,1
+openstack/osprofiler,openstack/salt-formula-ceilometer,Core,1.0869565217391304,0.0,2,1
+openstack/osprofiler,openstack/salt-formula-ceilometer,Non core,1.0869565217391304,0.819672131147541,2,1
+openstack/osprofiler,openstack/deb-python-pygit2,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pygit2,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-libisal,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-libisal,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xvfbwrapper,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-testresources,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-testresources,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-django-compressor,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-django-compressor,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-sqlalchemy-utils,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-pykmip,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pykmip,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-coffin,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-coffin,Non core,1.1904761904761905,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-txaio,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-txaio,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-hplefthandclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-hplefthandclient,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-django-overextends,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-django-overextends,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-pytimeparse,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pytimeparse,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-nose-timer,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-nose-timer,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-retrying,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-retrying,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-django-discover-runner,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-django-discover-runner,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-lesscpy,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-lesscpy,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-happybase,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-happybase,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-extras,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-extras,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-functools32,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-functools32,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-pydot-ng,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pydot-ng,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-jsonschema,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-jsonschema,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-kafka,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-kafka,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-rcssmin,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-rcssmin,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-nose-parameterized,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-nose-parameterized,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-pika-pool,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pika-pool,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-rfc3986,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-rfc3986,Non core,1.1764705882352942,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-httpretty,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-httpretty,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-pint,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pint,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-django-pyscss,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-django-pyscss,Non core,1.2048192771084338,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-falcon,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-falcon,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-subunit,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-subunit,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-django-formtools,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-django-formtools,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-nose-exclude,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-nose-exclude,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-pydotplus,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pydotplus,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-pager,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pager,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-proliantutils,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-proliantutils,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-gnocchiclient,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-gnocchiclient,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-django-babel,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-django-babel,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-requests-kerberos,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-requests-kerberos,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-colander,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-colander,Non core,1.1904761904761905,0.8849557522123894,1,1
+openstack/osprofiler,openstack/deb-python-dcos,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-dcos,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-django-bootstrap-form,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-term.js,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-toml,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-toml,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-semver,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-semver,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-websocket-client,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-websocket-client,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-fasteners,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-fasteners,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-jingo,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-jingo,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-pecan,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pecan,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-frozendict,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-frozendict,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/osprofiler,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/osprofiler,openstack/deb-python-wrapt,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-wrapt,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-funcsigs,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-funcsigs,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-crank,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-crank,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-pyvmomi,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pyvmomi,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-wsgi-intercept,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-os-cloud-config,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-os-cloud-config,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-weakrefmethod,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-weakrefmethod,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-steadymark,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-steadymark,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-warlock,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-warlock,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-couleur,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-couleur,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-roboto-fontface,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-fonts-materialdesignicons-webfont,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-json-patch,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-json-patch,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-jsonrpclib,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-jsonrpclib,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-multi-key-dict,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-multi-key-dict,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-memcache,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-memcache,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-pulp,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pulp,Non core,1.1904761904761905,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-fonts-roboto-fontface,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-websockify,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-websockify,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-daemonize,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-daemonize,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-pyngus,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-pyngus,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-editor,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-editor,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-ddt,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-ddt,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-monotonic,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-monotonic,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-rjsmin,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-rjsmin,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-jsonpath-rw,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-django-appconf,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-django-appconf,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-oauth2client,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-oauth2client,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-json-pointer,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-json-pointer,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack-attic/akanda,Core,1.1494252873563218,0.0,1,3
+openstack/osprofiler,openstack-attic/akanda,Non core,0.0,2.5210084033613445,1,3
+openstack/osprofiler,openstack/deb-python-xstatic,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-smart-table,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-xstatic-jquery-ui,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-requestbuilder,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-requestbuilder,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-nosehtmloutput,Non core,1.2048192771084338,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-csscompressor,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-csscompressor,Non core,1.1904761904761905,0.9009009009009009,1,1
+openstack/osprofiler,openstack/deb-python-croniter,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-croniter,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/deb-python-concurrent.futures,Core,0.0,0.0,1,1
+openstack/osprofiler,openstack/deb-python-concurrent.futures,Non core,1.1904761904761905,0.8928571428571428,1,1
+openstack/osprofiler,openstack/openstack-salt,Core,1.1494252873563218,0.0,1,2
+openstack/osprofiler,openstack/openstack-salt,Non core,0.0,1.7391304347826086,1,2
+openstack/osprofiler,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/osprofiler,openstack/deb-spice-html5,Non core,0.0,0.9009009009009009,0,1
+openstack/osprofiler,openstack/salt-formula-midonet,Core,1.2048192771084338,0.0,1,1
+openstack/osprofiler,openstack/salt-formula-midonet,Non core,0.0,0.9009009009009009,1,1
+openstack/osprofiler,openstack/magnetodb-specs,Core,3.260869565217391,0.0,3,3
+openstack/osprofiler,openstack/magnetodb-specs,Non core,0.0,2.380952380952381,3,3
+openstack/osprofiler,openstack-attic/akanda-appliance-builder,Core,1.1494252873563218,0.0,1,2
+openstack/osprofiler,openstack-attic/akanda-appliance-builder,Non core,0.0,1.7391304347826086,1,2
+openstack/osprofiler,openstack-attic/oslo.version,Core,6.976744186046512,4.918032786885246,6,8
+openstack/osprofiler,openstack-attic/oslo.version,Non core,0.0,1.639344262295082,6,8
+openstack/osprofiler,openstack-attic/image-api,Core,3.296703296703297,0.78125,3,2
+openstack/osprofiler,openstack-attic/image-api,Non core,0.0,0.78125,3,2
+openstack/osprofiler,openstack-attic/object-api,Core,2.9702970297029703,0.7246376811594203,3,2
+openstack/osprofiler,openstack-attic/object-api,Non core,0.0,0.7246376811594203,3,2
+openstack/osprofiler,openstack-attic/volume-api,Core,2.083333333333333,0.7692307692307693,2,2
+openstack/osprofiler,openstack-attic/volume-api,Non core,0.0,0.7692307692307693,2,2
+openstack/osprofiler,openstack/magnetodb,Core,1.9417475728155338,0.6944444444444444,3,4
+openstack/osprofiler,openstack/magnetodb,Non core,0.9708737864077669,2.083333333333333,3,4
+openstack/osprofiler,openstack/openstack-nose,Core,1.1111111111111112,0.8547008547008548,1,2
+openstack/osprofiler,openstack/openstack-nose,Non core,0.0,0.8547008547008548,1,2
+openstack/osprofiler,openstack-attic/netconn-api,Core,4.716981132075472,1.2738853503184715,5,4
+openstack/osprofiler,openstack-attic/netconn-api,Non core,0.0,1.2738853503184715,5,4
+openstack/osprofiler,openstack-attic/python-melangeclient,Core,1.1235955056179776,0.0,1,1
+openstack/osprofiler,openstack-attic/python-melangeclient,Non core,0.0,0.8771929824561403,1,1
+openstack/osprofiler,openstack-attic/melange,Core,2.0408163265306123,0.0,2,1
+openstack/osprofiler,openstack-attic/melange,Non core,0.0,0.8064516129032258,2,1
+openstack/osprofiler,openstack-attic/openstack-qa,Core,1.1627906976744187,0.0,1,1
+openstack/osprofiler,openstack-attic/openstack-qa,Non core,0.0,0.8771929824561403,1,1
+openstack/osprofiler,openstack-attic/database-api,Core,3.260869565217391,0.7936507936507936,3,2
+openstack/osprofiler,openstack-attic/database-api,Non core,0.0,0.7936507936507936,3,2
+openstack/osprofiler,openstack-attic/openstack-security-notes,Core,0.0,1.1363636363636365,0,5
+openstack/osprofiler,openstack-attic/openstack-security-notes,Non core,0.0,1.7045454545454544,0,5

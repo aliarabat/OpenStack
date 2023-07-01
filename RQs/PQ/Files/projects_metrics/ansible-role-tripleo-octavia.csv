@@ -1,0 +1,977 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-nova,Core,37.5,62.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-nova,Non core,37.5,12.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/os-cloud-config,Core,3.508771929824561,3.061224489795918,2,3
+openstack/ansible-role-tripleo-octavia,openstack/os-cloud-config,Non core,0.0,0.0,2,3
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-zaqar,Core,37.5,62.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-zaqar,Non core,37.5,12.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-tempest,Core,37.5,62.5,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-tempest,Non core,37.5,0.0,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-sahara,Core,37.5,62.5,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-sahara,Non core,37.5,0.0,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-swift,Core,37.5,62.5,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-swift,Non core,37.5,0.0,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-tacker,Core,37.5,55.55555555555556,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-tacker,Non core,37.5,0.0,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,37.5,62.5,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,37.5,0.0,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-rabbitmq,Core,37.5,62.5,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-rabbitmq,Non core,37.5,0.0,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-qdrouterd,Core,28.57142857142857,42.857142857142854,2,3
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,2,3
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-panko,Core,37.5,62.5,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-panko,Non core,37.5,0.0,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-heat,Core,33.33333333333333,62.5,5,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-heat,Non core,22.22222222222222,0.0,5,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-haproxy,Core,37.5,62.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-haproxy,Non core,37.5,12.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-gnocchi,Core,37.5,62.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-gnocchi,Non core,37.5,12.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-glance,Core,37.5,62.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-glance,Non core,37.5,12.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-designate,Core,37.5,55.55555555555556,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-designate,Non core,37.5,0.0,6,5
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-neutron,Core,37.5,62.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-neutron,Non core,37.5,12.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-mistral,Core,37.5,62.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-mistral,Non core,37.5,12.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-memcached,Core,37.5,55.55555555555556,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-memcached,Non core,37.5,11.11111111111111,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-manila,Core,37.5,55.55555555555556,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-manila,Non core,37.5,11.11111111111111,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-ironic,Core,37.5,62.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-ironic,Non core,37.5,12.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-keepalived,Core,37.5,62.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-keepalived,Non core,37.5,12.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-horizon,Core,37.5,62.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/ansible-role-tripleo-horizon,Non core,37.5,12.5,6,6
+openstack/ansible-role-tripleo-octavia,openstack/pylockfile,Core,14.285714285714285,3.8461538461538463,2,1
+openstack/ansible-role-tripleo-octavia,openstack/pylockfile,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/dragonflow,Core,2.34375,0.5076142131979695,4,2
+openstack/ansible-role-tripleo-octavia,openstack/dragonflow,Non core,0.78125,0.5076142131979695,4,2
+openstack/ansible-role-tripleo-octavia,openstack/openstack,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-interface-pacemaker-remote,Core,9.090909090909092,7.142857142857142,1,2
+openstack/ansible-role-tripleo-octavia,openstack/charm-interface-pacemaker-remote,Non core,0.0,7.142857142857142,1,2
+openstack/ansible-role-tripleo-octavia,openstack/networking-onos,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/networking-onos,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/solum-infra-guestagent,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/solum-infra-guestagent,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ux,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ux,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/mox3,Core,6.451612903225806,2.272727272727273,3,1
+openstack/ansible-role-tripleo-octavia,openstack/mox3,Non core,3.225806451612903,0.0,3,1
+openstack/ansible-role-tripleo-octavia,openstack/charm-layer-ceph,Core,11.11111111111111,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-layer-ceph-base,Core,20.0,0.0,2,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-layer-ceph-base,Non core,0.0,0.0,2,0
+openstack/ansible-role-tripleo-octavia,openstack/python-tricircleclient,Core,8.695652173913043,2.857142857142857,3,2
+openstack/ansible-role-tripleo-octavia,openstack/python-tricircleclient,Non core,4.3478260869565215,2.857142857142857,3,2
+openstack/ansible-role-tripleo-octavia,openstack/tricircle,Core,2.3255813953488373,0.6944444444444444,2,2
+openstack/ansible-role-tripleo-octavia,openstack/tricircle,Non core,0.0,0.6944444444444444,2,2
+openstack/ansible-role-tripleo-octavia,openstack/swift-specs,Core,3.3333333333333335,1.4084507042253522,1,1
+openstack/ansible-role-tripleo-octavia,openstack/swift-specs,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/congress,Core,1.9230769230769231,0.9302325581395349,4,3
+openstack/ansible-role-tripleo-octavia,openstack/congress,Non core,0.641025641025641,0.46511627906976744,4,3
+openstack/ansible-role-tripleo-octavia,openstack/congress-tempest-plugin,Core,4.166666666666666,3.225806451612903,3,2
+openstack/ansible-role-tripleo-octavia,openstack/congress-tempest-plugin,Non core,8.333333333333332,3.225806451612903,3,2
+openstack/ansible-role-tripleo-octavia,openstack/python-congressclient,Core,3.571428571428571,1.7241379310344827,3,2
+openstack/ansible-role-tripleo-octavia,openstack/python-congressclient,Non core,1.7857142857142856,1.7241379310344827,3,2
+openstack/ansible-role-tripleo-octavia,openstack/congress-specs,Core,7.6923076923076925,0.0,3,0
+openstack/ansible-role-tripleo-octavia,openstack/congress-specs,Non core,0.0,0.0,3,0
+openstack/ansible-role-tripleo-octavia,openstack/congress-dashboard,Core,6.896551724137931,2.4390243902439024,3,1
+openstack/ansible-role-tripleo-octavia,openstack/congress-dashboard,Non core,3.4482758620689653,0.0,3,1
+openstack/ansible-role-tripleo-octavia,openstack/syntribos,Core,2.7027027027027026,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/syntribos,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/syntribos-payloads,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/syntribos-payloads,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/syntribos-openstack-templates,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/syntribos-openstack-templates,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/i18n-specs,Core,11.11111111111111,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/i18n-specs,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/tempest-plugin-cookiecutter,Core,9.090909090909092,5.263157894736842,1,1
+openstack/ansible-role-tripleo-octavia,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/devstack-plugin-cookiecutter,Core,10.0,8.333333333333332,1,1
+openstack/ansible-role-tripleo-octavia,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-graphlib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-graphlib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-repo_build,Core,3.1746031746031744,1.1235955056179776,3,2
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-repo_build,Non core,1.5873015873015872,1.1235955056179776,3,2
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-bootstrap-datepicker,Core,7.142857142857142,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-hogan,Core,11.11111111111111,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-hogan,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-jquery.quicksearch,Core,11.11111111111111,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-os_molteniron,Core,6.896551724137931,2.7777777777777777,2,2
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-os_molteniron,Non core,0.0,2.7777777777777777,2,2
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-lrdragndrop,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/faafo,Core,5.88235294117647,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/faafo,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-bootstrap,Core,6.25,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/networking-calico,Core,2.5,1.5625,1,1
+openstack/ansible-role-tripleo-octavia,openstack/networking-calico,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-gettext,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-gettext,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/shotgun,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/shotgun,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-devops,Core,1.4705882352941175,0.684931506849315,1,2
+openstack/ansible-role-tripleo-octavia,openstack/fuel-devops,Non core,0.0,0.684931506849315,1,2
+openstack/ansible-role-tripleo-octavia,openstack/fuel-plugin-murano,Core,0.0,2.7777777777777777,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-plugin-murano,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-web,Core,0.4608294930875576,0.25252525252525254,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-web,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-plugins,Core,1.9230769230769231,0.9345794392523363,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-plugins,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-virtualbox,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-virtualbox,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-ostf,Core,0.9615384615384616,0.45871559633027525,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-ostf,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-qa,Core,0.0,0.398406374501992,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-qa,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-specs,Core,0.9174311926605505,0.3289473684210526,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-specs,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-nailgun-extension-cluster-upgrade,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-nailgun-agent,Core,0.0,0.9708737864077669,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-nailgun-agent,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-mirror,Core,2.564102564102564,0.9259259259259258,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-mirror,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-menu,Core,2.4390243902439024,1.680672268907563,1,2
+openstack/ansible-role-tripleo-octavia,openstack/fuel-menu,Non core,0.0,0.0,1,2
+openstack/ansible-role-tripleo-octavia,openstack/fuel-main,Core,0.0,0.39370078740157477,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-main,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-ui,Core,0.0,1.0526315789473684,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-ui,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-library,Core,0.48543689320388345,0.45045045045045046,1,2
+openstack/ansible-role-tripleo-octavia,openstack/fuel-library,Non core,0.0,0.0,1,2
+openstack/ansible-role-tripleo-octavia,openstack/fuel-dev-tools,Core,10.526315789473683,0.0,2,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-dev-tools,Non core,0.0,0.0,2,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-stats,Core,3.7037037037037033,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-stats,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-nailgun-extension-converted-serializers,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-nailgun-extension-iac,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-plugin-murano-tests,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-astute,Core,0.0,0.628930817610063,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-astute,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-docs,Core,0.0,0.3115264797507788,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-docs,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-agent,Core,1.3157894736842104,0.6451612903225806,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-agent,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/fuel-octane,Core,2.631578947368421,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/fuel-octane,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/tuning-box,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/tuning-box,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/python-fuelclient,Core,0.0,0.6535947712418301,0,1
+openstack/ansible-role-tripleo-octavia,openstack/python-fuelclient,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/neutron-interconnection,Core,0.0,5.555555555555555,0,1
+openstack/ansible-role-tripleo-octavia,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/openstack-chef-repo,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-chef-repo,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/os-acc,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/os-acc,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-os_zaqar,Core,4.878048780487805,1.8181818181818181,3,1
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-os_zaqar,Non core,2.4390243902439024,0.0,3,1
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-os_watcher,Core,2.7027027027027026,2.127659574468085,2,1
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-os_watcher,Non core,2.7027027027027026,0.0,2,1
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-os_searchlight,Core,7.142857142857142,2.631578947368421,3,1
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-os_searchlight,Non core,3.571428571428571,0.0,3,1
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-vis,Core,12.5,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-font-awesome,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-font-awesome,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-jasmine,Core,5.88235294117647,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-jasmine,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-notify,Core,12.5,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-material,Core,10.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/tempest-tripleo-ui,Core,10.0,11.11111111111111,1,2
+openstack/ansible-role-tripleo-octavia,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,2
+openstack/ansible-role-tripleo-octavia,openstack/docs-specs,Core,1.9230769230769231,0.4694835680751174,3,1
+openstack/ansible-role-tripleo-octavia,openstack/docs-specs,Non core,3.8461538461538463,0.0,3,1
+openstack/ansible-role-tripleo-octavia,openstack/release-schedule-generator,Core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/release-schedule-generator,Non core,10.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/opendev-website,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/opendev-website,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/castellan-ui,Core,8.333333333333332,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/castellan-ui,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/compute-api,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/compute-api,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-neutron-api-odl,Core,5.88235294117647,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-neutron-api-odl,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-murano,Core,11.11111111111111,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-murano,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-openvswitch-odl,Core,5.88235294117647,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-openvswitch-odl,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-interface-odl-controller-api,Core,10.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-interface-odl-controller-api,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-glusterfs,Core,11.11111111111111,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-glusterfs,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-trove,Core,7.142857142857142,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/charm-trove,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuxi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuxi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-filesaver,Core,12.5,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-uuid,Core,12.5,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/bandit,Core,1.5151515151515151,1.2987012987012987,1,1
+openstack/ansible-role-tripleo-octavia,openstack/bandit,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-smart-table,Core,10.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-bootswatch,Core,9.090909090909092,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-bootswatch,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-d3,Core,8.333333333333332,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/xstatic-d3,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/instack,Core,3.4482758620689653,4.761904761904762,1,2
+openstack/ansible-role-tripleo-octavia,openstack/instack,Non core,0.0,0.0,1,2
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/astara,Core,2.272727272727273,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/astara,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/astara-appliance,Core,0.0,3.225806451612903,0,1
+openstack/ansible-role-tripleo-octavia,openstack/astara-appliance,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/astara-horizon,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/astara-horizon,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/astara-neutron,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/astara-neutron,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/anchor,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/anchor,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuxi-golang,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuxi-golang,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuxi-kubernetes,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/fuxi-kubernetes,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/puppet-odsreg,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/puppet-odsreg,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/puppet-docker_registry,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/releasestatus,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/releasestatus,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/vinz-webclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/activity-board,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/activity-board,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/beaker-localhost,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/beaker-nodepool,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/rst2bash,Core,10.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/rst2bash,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/kolla-kubernetes,Core,1.3888888888888888,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/kolla-kubernetes,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/cue-dashboard,Core,5.88235294117647,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/cue-dashboard,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/python-cueclient,Core,5.0,5.555555555555555,1,1
+openstack/ansible-role-tripleo-octavia,openstack/python-cueclient,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-octavia,openstack/cue,Core,2.631578947368421,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/cue,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/app-catalog,Core,1.4705882352941175,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/app-catalog,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/identity-api,Core,0.0,1.1111111111111112,0,1
+openstack/ansible-role-tripleo-octavia,openstack-attic/identity-api,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/app-catalog-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/app-catalog-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-kubernetes,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/app-catalog-common,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/app-catalog-common,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/python-appcatalogclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/python-appcatalogclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-openstack-pkg-tools,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-mistral,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-mistral,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/installguide-cookiecutter,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/installguide-cookiecutter,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-opencontrail,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-neutron,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-neutron,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-nova,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-nova,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-keystone,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-keystone,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-horizon,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-horizon,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-heat,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-heat,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-glance,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-glance,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-cinder,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-cinder,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-ceilometer,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-salt,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-salt,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-midonet,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/salt-formula-midonet,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/magnetodb-specs,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/magnetodb-specs,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/oslo.version,Core,6.666666666666667,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/oslo.version,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/image-api,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/image-api,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/object-api,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/object-api,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/volume-api,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/volume-api,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/magnetodb,Core,3.4482758620689653,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/magnetodb,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-nose,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack/openstack-nose,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/netconn-api,Core,0.0,1.7543859649122806,0,1
+openstack/ansible-role-tripleo-octavia,openstack-attic/netconn-api,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-octavia,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/database-api,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/database-api,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-octavia,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

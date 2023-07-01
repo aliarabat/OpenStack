@@ -1,0 +1,249 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/deb-heat-cfntools,openstack/deb-horizon,Core,20.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-horizon,Non core,0.0,75.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-ironic-inspector,Core,25.0,0.0,2,3
+openstack/deb-heat-cfntools,openstack/deb-ironic-inspector,Non core,25.0,75.0,2,3
+openstack/deb-heat-cfntools,openstack/deb-ironic-ui,Core,25.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-ironic-ui,Non core,0.0,75.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-keystone,Core,16.666666666666664,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-keystone,Non core,0.0,50.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-liberasurecode,Core,33.33333333333333,0.0,1,2
+openstack/deb-heat-cfntools,openstack/deb-liberasurecode,Non core,0.0,50.0,1,2
+openstack/deb-heat-cfntools,openstack/deb-manila,Core,20.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-manila,Non core,0.0,60.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-mistral,Core,12.5,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-mistral,Non core,0.0,42.857142857142854,1,3
+openstack/deb-heat-cfntools,openstack/deb-murano-agent,Core,20.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-murano-agent,Non core,0.0,42.857142857142854,1,3
+openstack/deb-heat-cfntools,openstack/deb-murano-dashboard,Core,25.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-murano-dashboard,Non core,0.0,75.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-networking-l2gw,Core,25.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-networking-l2gw,Non core,0.0,75.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-networking-ovn,Core,25.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-networking-ovn,Non core,0.0,75.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-neutron,Core,20.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-neutron,Non core,0.0,50.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-neutron-fwaas,Core,25.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-neutron-fwaas,Non core,0.0,75.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-neutron-vpnaas,Core,25.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-neutron-vpnaas,Non core,0.0,75.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-neutron-lbaas,Core,20.0,0.0,1,3
+openstack/deb-heat-cfntools,openstack/deb-neutron-lbaas,Non core,0.0,42.857142857142854,1,3
+openstack/deb-heat-cfntools,openstack/installguide-cookiecutter,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/installguide-cookiecutter,Non core,0.0,5.88235294117647,0,1
+openstack/deb-heat-cfntools,openstack/deb-gnocchi,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-gnocchi,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-eventlet,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-eventlet,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pymysql,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pymysql,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-opencontrail,Non core,0.0,6.666666666666667,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-neutron,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-neutron,Non core,0.0,5.555555555555555,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-swift,Non core,0.0,12.5,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-nova,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-nova,Non core,0.0,5.555555555555555,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-keystone,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-keystone,Non core,0.0,6.25,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-horizon,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-horizon,Non core,0.0,7.6923076923076925,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-heat,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-heat,Non core,0.0,7.142857142857142,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-glance,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-glance,Non core,0.0,6.25,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-cinder,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-cinder,Non core,0.0,7.6923076923076925,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-ceilometer,Non core,0.0,6.666666666666667,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pygit2,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-libisal,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xvfbwrapper,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-testresources,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-testresources,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-django-compressor,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-django-compressor,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-sqlalchemy-utils,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pykmip,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pykmip,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic-jquery,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-coffin,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-coffin,Non core,0.0,40.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-txaio,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-txaio,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-hplefthandclient,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-django-overextends,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pytimeparse,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-nose-timer,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-nose-timer,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-retrying,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-retrying,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-django-discover-runner,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-lesscpy,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-happybase,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-extras,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-functools32,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-functools32,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pydot-ng,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-jsonschema,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-jsonschema,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-kafka,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-kafka,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-rcssmin,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-nose-parameterized,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pika-pool,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pika-pool,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-rfc3986,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-rfc3986,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-httpretty,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pint,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-django-pyscss,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-falcon,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-falcon,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-subunit,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-subunit,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-django-formtools,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-nose-exclude,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pydotplus,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pydotplus,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pager,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-proliantutils,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-proliantutils,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-gnocchiclient,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-django-babel,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-django-babel,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-requests-kerberos,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-colander,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-colander,Non core,0.0,40.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-dcos,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-django-bootstrap-form,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic-term.js,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-toml,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-semver,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-semver,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-websocket-client,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-fasteners,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-fasteners,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-jingo,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pecan,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pecan,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-frozendict,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/deb-heat-cfntools,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/deb-heat-cfntools,openstack/deb-python-wrapt,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-wrapt,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-funcsigs,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-funcsigs,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-crank,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-crank,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pyvmomi,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-wsgi-intercept,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-os-cloud-config,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-weakrefmethod,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-steadymark,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-warlock,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-warlock,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-couleur,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-couleur,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-json-patch,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-json-patch,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-jsonrpclib,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-multi-key-dict,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-memcache,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-memcache,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pulp,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-fonts-roboto-fontface,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-websockify,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-websockify,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-daemonize,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-pyngus,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-pyngus,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-editor,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-editor,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-ddt,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-ddt,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-monotonic,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-monotonic,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-rjsmin,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-rjsmin,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-jsonpath-rw,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-django-appconf,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-django-appconf,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-oauth2client,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-oauth2client,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-json-pointer,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-json-pointer,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic-smart-table,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-requestbuilder,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-nosehtmloutput,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-csscompressor,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/deb-python-croniter,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-croniter,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-python-concurrent.futures,Non core,0.0,50.0,0,2
+openstack/deb-heat-cfntools,openstack/openstack-salt,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/openstack-salt,Non core,0.0,11.11111111111111,0,1
+openstack/deb-heat-cfntools,openstack/deb-spice-html5,Core,0.0,0.0,0,2
+openstack/deb-heat-cfntools,openstack/deb-spice-html5,Non core,0.0,66.66666666666666,0,2
+openstack/deb-heat-cfntools,openstack/salt-formula-midonet,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/salt-formula-midonet,Non core,0.0,25.0,0,1
+openstack/deb-heat-cfntools,openstack/magnetodb-specs,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/magnetodb-specs,Non core,0.0,4.761904761904762,0,1
+openstack/deb-heat-cfntools,openstack/magnetodb,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/magnetodb,Non core,0.0,2.5,0,1
+openstack/deb-heat-cfntools,openstack/openstack-nose,Core,0.0,0.0,0,1
+openstack/deb-heat-cfntools,openstack/openstack-nose,Non core,0.0,9.090909090909092,0,1

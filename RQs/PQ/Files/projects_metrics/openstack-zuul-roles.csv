@@ -1,0 +1,1471 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/openstack-zuul-roles,openstack/nova-powervm,Core,1.6129032258064515,0.0,1,1
+openstack/openstack-zuul-roles,openstack/nova-powervm,Non core,0.0,0.9009009009009009,1,1
+openstack/openstack-zuul-roles,openstack/openstack-helm-addons,Core,0.0,0.8064516129032258,0,2
+openstack/openstack-zuul-roles,openstack/openstack-helm-addons,Non core,0.0,0.8064516129032258,0,2
+openstack/openstack-zuul-roles,openstack/python-pankoclient,Core,3.3333333333333335,1.9607843137254901,1,2
+openstack/openstack-zuul-roles,openstack/python-pankoclient,Non core,0.0,1.9607843137254901,1,2
+openstack/openstack-zuul-roles,openstack/qa-specs,Core,3.8461538461538463,1.6528925619834711,2,3
+openstack/openstack-zuul-roles,openstack/qa-specs,Non core,0.0,0.8264462809917356,2,3
+openstack/openstack-zuul-roles,openstack/zaqar-specs,Core,5.0,2.666666666666667,2,3
+openstack/openstack-zuul-roles,openstack/zaqar-specs,Non core,0.0,1.3333333333333335,2,3
+openstack/openstack-zuul-roles,openstack/swift-bench,Core,0.0,4.25531914893617,0,3
+openstack/openstack-zuul-roles,openstack/swift-bench,Non core,0.0,2.127659574468085,0,3
+openstack/openstack-zuul-roles,openstack/whereto,Core,9.523809523809524,3.0303030303030303,2,2
+openstack/openstack-zuul-roles,openstack/whereto,Non core,0.0,3.0303030303030303,2,2
+openstack/openstack-zuul-roles,openstack/murano-specs,Core,2.127659574468085,0.0,1,1
+openstack/openstack-zuul-roles,openstack/murano-specs,Non core,0.0,1.3513513513513513,1,1
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-modify-image,Core,2.941176470588235,0.0,1,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-modify-image,Non core,0.0,0.0,1,0
+openstack/openstack-zuul-roles,openstack/requestsexceptions,Core,30.0,20.833333333333336,3,6
+openstack/openstack-zuul-roles,openstack/requestsexceptions,Non core,0.0,4.166666666666666,3,6
+openstack/openstack-zuul-roles,openstack/panko,Core,4.0,1.7857142857142856,3,3
+openstack/openstack-zuul-roles,openstack/panko,Non core,0.0,0.8928571428571428,3,3
+openstack/openstack-zuul-roles,openstack/api-sig,Core,3.6363636363636362,0.975609756097561,2,3
+openstack/openstack-zuul-roles,openstack/api-sig,Non core,0.0,0.4878048780487805,2,3
+openstack/openstack-zuul-roles,openstack/openstack-chef-specs,Core,3.571428571428571,2.1739130434782608,1,2
+openstack/openstack-zuul-roles,openstack/openstack-chef-specs,Non core,0.0,2.1739130434782608,1,2
+openstack/openstack-zuul-roles,openstack/freezer-specs,Core,3.8461538461538463,2.631578947368421,1,2
+openstack/openstack-zuul-roles,openstack/freezer-specs,Non core,0.0,2.631578947368421,1,2
+openstack/openstack-zuul-roles,openstack/oslo.tools,Core,5.555555555555555,0.0,2,1
+openstack/openstack-zuul-roles,openstack/oslo.tools,Non core,0.0,2.4390243902439024,2,1
+openstack/openstack-zuul-roles,openstack/microversion-parse,Core,7.142857142857142,3.8461538461538463,1,2
+openstack/openstack-zuul-roles,openstack/microversion-parse,Non core,0.0,3.8461538461538463,1,2
+openstack/openstack-zuul-roles,openstack/openstackclient,Core,11.11111111111111,6.8181818181818175,3,4
+openstack/openstack-zuul-roles,openstack/openstackclient,Non core,0.0,2.272727272727273,3,4
+openstack/openstack-zuul-roles,openstack/ossa,Core,3.8461538461538463,2.8169014084507045,1,3
+openstack/openstack-zuul-roles,openstack/ossa,Non core,0.0,1.4084507042253522,1,3
+openstack/openstack-zuul-roles,openstack/reviewstats,Core,5.063291139240507,3.90625,4,6
+openstack/openstack-zuul-roles,openstack/reviewstats,Non core,0.0,0.78125,4,6
+openstack/openstack-zuul-roles,openstack/oslo-cookiecutter,Core,3.7037037037037033,2.3255813953488373,1,2
+openstack/openstack-zuul-roles,openstack/oslo-cookiecutter,Non core,0.0,2.3255813953488373,1,2
+openstack/openstack-zuul-roles,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/security-analysis,Core,7.6923076923076925,2.857142857142857,1,2
+openstack/openstack-zuul-roles,openstack/security-analysis,Non core,0.0,2.857142857142857,1,2
+openstack/openstack-zuul-roles,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-keystone,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-keystone,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/openstack-ansible-apt_package_pinning,Core,7.6923076923076925,3.7735849056603774,3,3
+openstack/openstack-zuul-roles,openstack/openstack-ansible-apt_package_pinning,Non core,0.0,1.8867924528301887,3,3
+openstack/openstack-zuul-roles,openstack/ansible-role-qdrouterd,Core,5.88235294117647,2.380952380952381,1,1
+openstack/openstack-zuul-roles,openstack/ansible-role-qdrouterd,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-openstack_openrc,Core,3.9215686274509802,1.5873015873015872,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-openstack_openrc,Non core,0.0,1.5873015873015872,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-nspawn_container_create,Core,3.8461538461538463,2.272727272727273,1,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-nspawn_container_create,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/devstack-tools,Core,9.523809523809524,0.0,2,1
+openstack/openstack-zuul-roles,openstack/devstack-tools,Non core,0.0,3.4482758620689653,2,1
+openstack/openstack-zuul-roles,openstack/coverage2sql,Core,3.4482758620689653,0.0,1,1
+openstack/openstack-zuul-roles,openstack/coverage2sql,Non core,0.0,3.125,1,1
+openstack/openstack-zuul-roles,openstack/bashate,Core,7.8431372549019605,9.836065573770492,4,7
+openstack/openstack-zuul-roles,openstack/bashate,Non core,0.0,1.639344262295082,4,7
+openstack/openstack-zuul-roles,openstack/hacking,Core,3.3333333333333335,3.067484662576687,3,6
+openstack/openstack-zuul-roles,openstack/hacking,Non core,0.0,0.6134969325153374,3,6
+openstack/openstack-zuul-roles,openstack/xstatic-mdi,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-mdi,Non core,0.0,4.166666666666666,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-roboto-fontface,Non core,0.0,4.0,0,1
+openstack/openstack-zuul-roles,openstack/openstack-chef,Core,6.896551724137931,10.714285714285714,2,4
+openstack/openstack-zuul-roles,openstack/openstack-chef,Non core,0.0,3.571428571428571,2,4
+openstack/openstack-zuul-roles,openstack/cookbook-openstackclient,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/cookbook-openstackclient,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-angular,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-angular,Non core,0.0,3.0303030303030303,0,1
+openstack/openstack-zuul-roles,openstack/charm-interface-hacluster,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-interface-hacluster,Non core,0.0,3.571428571428571,0,1
+openstack/openstack-zuul-roles,openstack/puppet-openstack-specs,Core,3.3333333333333335,0.0,1,1
+openstack/openstack-zuul-roles,openstack/puppet-openstack-specs,Non core,0.0,1.4705882352941175,1,1
+openstack/openstack-zuul-roles,openstack/puppet-monasca,Core,5.714285714285714,1.098901098901099,2,2
+openstack/openstack-zuul-roles,openstack/puppet-monasca,Non core,0.0,1.098901098901099,2,2
+openstack/openstack-zuul-roles,openstack/eslint-config-openstack,Core,4.761904761904762,1.7241379310344827,1,2
+openstack/openstack-zuul-roles,openstack/eslint-config-openstack,Non core,0.0,1.7241379310344827,1,2
+openstack/openstack-zuul-roles,openstack/karma-subunit-reporter,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/karma-subunit-reporter,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack/openstack-helm-docs,Core,8.333333333333332,2.7027027027027026,1,1
+openstack/openstack-zuul-roles,openstack/openstack-helm-docs,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-specs,Core,1.6666666666666667,1.6528925619834711,1,3
+openstack/openstack-zuul-roles,openstack/openstack-ansible-specs,Non core,0.0,0.8264462809917356,1,3
+openstack/openstack-zuul-roles,openstack/tempest-lib,Core,2.083333333333333,0.0,1,1
+openstack/openstack-zuul-roles,openstack/tempest-lib,Non core,0.0,0.9708737864077669,1,1
+openstack/openstack-zuul-roles,openstack/tripleo-ha-utils,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/tripleo-ha-utils,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/devstack-vagrant,Core,5.263157894736842,2.857142857142857,1,2
+openstack/openstack-zuul-roles,openstack/devstack-vagrant,Non core,0.0,2.857142857142857,1,2
+openstack/openstack-zuul-roles,openstack/goal-tools,Core,8.333333333333332,3.4482758620689653,1,1
+openstack/openstack-zuul-roles,openstack/goal-tools,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/cookiecutter,Core,6.521739130434782,6.578947368421052,3,6
+openstack/openstack-zuul-roles,openstack/cookiecutter,Non core,0.0,1.3157894736842104,3,6
+openstack/openstack-zuul-roles,openstack/dib-utils,Core,5.0,6.382978723404255,1,4
+openstack/openstack-zuul-roles,openstack/dib-utils,Non core,0.0,2.127659574468085,1,4
+openstack/openstack-zuul-roles,openstack/constellations,Core,10.0,7.6923076923076925,1,2
+openstack/openstack-zuul-roles,openstack/constellations,Non core,0.0,0.0,1,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-integration-test,Core,4.3478260869565215,4.651162790697675,1,3
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-integration-test,Non core,0.0,2.3255813953488373,1,3
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-dashboard,Core,2.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-dashboard,Non core,0.0,1.2345679012345678,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-telemetry,Core,1.9607843137254901,0.0,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-telemetry,Non core,0.0,1.6129032258064515,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-orchestration,Core,2.4390243902439024,1.5151515151515151,1,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-orchestration,Non core,0.0,1.5151515151515151,1,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-bare-metal,Core,0.0,3.125,0,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-bare-metal,Non core,0.0,3.125,0,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-dns,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-dns,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-compute,Core,1.4285714285714286,0.9615384615384616,1,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-compute,Non core,0.0,0.9615384615384616,1,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-network,Core,1.3888888888888888,0.0,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-network,Non core,0.0,1.0,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-block-storage,Core,3.076923076923077,0.0,2,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-block-storage,Non core,0.0,1.2345679012345678,2,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-image,Core,1.7543859649122806,1.2658227848101267,1,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-image,Non core,0.0,1.2658227848101267,1,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-identity,Core,3.4482758620689653,0.0,2,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-identity,Non core,0.0,1.1627906976744187,2,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-ops-database,Core,2.5,0.0,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-ops-database,Non core,0.0,1.6666666666666667,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-ops-messaging,Core,3.0303030303030303,0.0,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-ops-messaging,Non core,0.0,1.8867924528301887,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-common,Core,3.0303030303030303,0.9803921568627451,2,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-common,Non core,0.0,0.9803921568627451,2,2
+openstack/openstack-zuul-roles,openstack/self-healing-sig,Core,6.666666666666667,2.7027027027027026,1,1
+openstack/openstack-zuul-roles,openstack/self-healing-sig,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/security-specs,Core,5.0,2.4390243902439024,1,2
+openstack/openstack-zuul-roles,openstack/security-specs,Non core,0.0,2.4390243902439024,1,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_panko,Core,3.4482758620689653,1.9607843137254901,1,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_panko,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-nspawn_hosts,Core,3.7037037037037033,2.1739130434782608,1,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-nspawn_hosts,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-layer-openstack-principle,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-watcher-dashboard,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-watcher-dashboard,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-watcher,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-watcher,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/openstack-ansible-galera_client,Core,5.263157894736842,2.9850746268656714,3,3
+openstack/openstack-zuul-roles,openstack/openstack-ansible-galera_client,Non core,0.0,1.4925373134328357,3,3
+openstack/openstack-zuul-roles,openstack/cloudkitty-specs,Core,4.761904761904762,0.0,1,1
+openstack/openstack-zuul-roles,openstack/cloudkitty-specs,Non core,0.0,2.4390243902439024,1,1
+openstack/openstack-zuul-roles,openstack/osops,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/osops,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-ironic,Core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/charm-ironic,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/multi-arch-sig,Core,14.285714285714285,0.0,1,0
+openstack/openstack-zuul-roles,openstack/multi-arch-sig,Non core,0.0,0.0,1,0
+openstack/openstack-zuul-roles,openstack/charm-nova-compute-proxy,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-nova-compute-proxy,Non core,0.0,4.166666666666666,0,1
+openstack/openstack-zuul-roles,openstack/charm-odl-controller,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-odl-controller,Non core,0.0,4.545454545454546,0,1
+openstack/openstack-zuul-roles,openstack/charm-nova-lxd,Core,4.0,2.857142857142857,1,2
+openstack/openstack-zuul-roles,openstack/charm-nova-lxd,Non core,0.0,2.857142857142857,1,2
+openstack/openstack-zuul-roles,openstack/charm-interface-nova-cell,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-barbican-secrets,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-barbican-secrets,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-ceph-rbd-mirror,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-placement,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-placement,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-mysql-shared,Core,7.6923076923076925,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-mysql-shared,Non core,0.0,5.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-dashboard-plugin,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-dashboard-plugin,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-neutron-load-balancer,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-neutron-load-balancer,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-neutron-plugin-api-subordinate,Core,0.0,4.761904761904762,0,1
+openstack/openstack-zuul-roles,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-interface-neutron-plugin,Core,9.090909090909092,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-neutron-plugin,Non core,0.0,5.263157894736842,1,1
+openstack/openstack-zuul-roles,openstack/xstatic-json2yaml,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-json2yaml,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-jquery.tablesorter,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-magic-search,Non core,0.0,3.7037037037037033,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-jsencrypt,Non core,0.0,3.7037037037037033,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-js-yaml,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-js-yaml,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-spin,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-spin,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-rickshaw,Non core,0.0,4.166666666666666,0,1
+openstack/openstack-zuul-roles,openstack/charm-panko,Core,0.0,4.166666666666666,0,1
+openstack/openstack-zuul-roles,openstack/charm-panko,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-interface-service-control,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-service-control,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_almanach,Core,6.896551724137931,4.651162790697675,2,3
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_almanach,Non core,0.0,2.3255813953488373,2,3
+openstack/openstack-zuul-roles,openstack/openstack-ansible-pip_install,Core,5.88235294117647,3.75,3,4
+openstack/openstack-zuul-roles,openstack/openstack-ansible-pip_install,Non core,0.0,1.25,3,4
+openstack/openstack-zuul-roles,openstack/python-karborclient,Core,1.7543859649122806,2.7027027027027026,1,3
+openstack/openstack-zuul-roles,openstack/python-karborclient,Non core,0.0,1.3513513513513513,1,3
+openstack/openstack-zuul-roles,openstack/charm-interface-keystone-admin,Core,11.11111111111111,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-keystone-admin,Non core,0.0,5.88235294117647,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-nova-compute,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-nova-compute,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-manila-plugin,Core,10.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-manila-plugin,Non core,0.0,5.263157894736842,1,1
+openstack/openstack-zuul-roles,openstack/murano-apps,Core,3.571428571428571,1.2195121951219512,2,2
+openstack/openstack-zuul-roles,openstack/murano-apps,Non core,0.0,1.2195121951219512,2,2
+openstack/openstack-zuul-roles,openstack/puppet-senlin,Core,5.0,0.0,1,0
+openstack/openstack-zuul-roles,openstack/puppet-senlin,Non core,0.0,0.0,1,0
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-application-catalog,Core,10.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-application-catalog,Non core,0.0,5.0,1,1
+openstack/openstack-zuul-roles,openstack/training-labs,Core,2.380952380952381,1.7857142857142856,1,2
+openstack/openstack-zuul-roles,openstack/training-labs,Non core,0.0,1.7857142857142856,1,2
+openstack/openstack-zuul-roles,openstack/karbor,Core,1.7094017094017095,1.1494252873563218,2,3
+openstack/openstack-zuul-roles,openstack/karbor,Non core,0.0,0.5747126436781609,2,3
+openstack/openstack-zuul-roles,openstack/devstack-plugin-open-cas,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_congress,Core,3.3333333333333335,1.7857142857142856,1,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_congress,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-keystone-notifications,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/os-collect-config,Core,7.2727272727272725,1.7543859649122806,4,3
+openstack/openstack-zuul-roles,openstack/os-collect-config,Non core,0.0,0.8771929824561403,4,3
+openstack/openstack-zuul-roles,openstack/os-apply-config,Core,9.433962264150944,2.857142857142857,5,4
+openstack/openstack-zuul-roles,openstack/os-apply-config,Non core,0.0,0.9523809523809524,5,4
+openstack/openstack-zuul-roles,openstack/puppet-freezer,Core,7.142857142857142,0.0,2,1
+openstack/openstack-zuul-roles,openstack/puppet-freezer,Non core,0.0,2.564102564102564,2,1
+openstack/openstack-zuul-roles,openstack/vitrage-specs,Core,2.380952380952381,0.0,1,1
+openstack/openstack-zuul-roles,openstack/vitrage-specs,Non core,0.0,1.5873015873015872,1,1
+openstack/openstack-zuul-roles,openstack/specs-cookiecutter,Core,7.6923076923076925,8.0,1,3
+openstack/openstack-zuul-roles,openstack/specs-cookiecutter,Non core,0.0,4.0,1,3
+openstack/openstack-zuul-roles,openstack/rpm-packaging-tools,Core,0.0,2.7027027027027026,0,2
+openstack/openstack-zuul-roles,openstack/rpm-packaging-tools,Non core,0.0,2.7027027027027026,0,2
+openstack/openstack-zuul-roles,openstack/ansible-role-openstack-operations,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-openstack-operations,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/os-refresh-config,Core,10.0,2.3529411764705883,4,3
+openstack/openstack-zuul-roles,openstack/os-refresh-config,Non core,0.0,1.1764705882352942,4,3
+openstack/openstack-zuul-roles,openstack/mistral-specs,Core,3.0303030303030303,0.0,1,1
+openstack/openstack-zuul-roles,openstack/mistral-specs,Non core,0.0,1.9607843137254901,1,1
+openstack/openstack-zuul-roles,openstack/scientific-wg,Core,0.0,5.88235294117647,0,2
+openstack/openstack-zuul-roles,openstack/scientific-wg,Non core,0.0,5.88235294117647,0,2
+openstack/openstack-zuul-roles,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/manila-test-image,Core,12.5,3.7037037037037033,1,2
+openstack/openstack-zuul-roles,openstack/manila-test-image,Non core,0.0,3.7037037037037033,1,2
+openstack/openstack-zuul-roles,openstack/governance-website,Core,7.142857142857142,0.0,1,1
+openstack/openstack-zuul-roles,openstack/governance-website,Non core,0.0,3.0303030303030303,1,1
+openstack/openstack-zuul-roles,openstack/bugdaystats,Core,0.0,3.7037037037037033,0,2
+openstack/openstack-zuul-roles,openstack/bugdaystats,Non core,0.0,3.7037037037037033,0,2
+openstack/openstack-zuul-roles,openstack/upstream-institute-virtual-environment,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/karbor-dashboard,Core,2.380952380952381,2.898550724637681,1,3
+openstack/openstack-zuul-roles,openstack/karbor-dashboard,Non core,0.0,1.4492753623188406,1,3
+openstack/openstack-zuul-roles,openstack/django_openstack_auth,Core,3.75,1.1428571428571428,3,3
+openstack/openstack-zuul-roles,openstack/django_openstack_auth,Non core,0.0,0.5714285714285714,3,3
+openstack/openstack-zuul-roles,openstack/monasca-transform,Core,4.545454545454546,1.5873015873015872,2,2
+openstack/openstack-zuul-roles,openstack/monasca-transform,Non core,0.0,1.5873015873015872,2,2
+openstack/openstack-zuul-roles,openstack/monasca-ceilometer,Core,1.8518518518518516,1.1764705882352942,1,2
+openstack/openstack-zuul-roles,openstack/monasca-ceilometer,Non core,0.0,1.1764705882352942,1,2
+openstack/openstack-zuul-roles,openstack/monasca-log-api,Core,3.389830508474576,0.9523809523809524,2,2
+openstack/openstack-zuul-roles,openstack/monasca-log-api,Non core,0.0,0.9523809523809524,2,2
+openstack/openstack-zuul-roles,openstack/nose-html-output,Core,27.27272727272727,17.391304347826086,3,5
+openstack/openstack-zuul-roles,openstack/nose-html-output,Non core,0.0,4.3478260869565215,3,5
+openstack/openstack-zuul-roles,openstack/kolla-cli,Core,0.0,2.0,0,1
+openstack/openstack-zuul-roles,openstack/kolla-cli,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/neutron-lbaas-dashboard,Core,3.9215686274509802,1.0,2,2
+openstack/openstack-zuul-roles,openstack/neutron-lbaas-dashboard,Non core,0.0,1.0,2,2
+openstack/openstack-zuul-roles,openstack/searchlight,Core,0.819672131147541,0.6802721088435374,1,2
+openstack/openstack-zuul-roles,openstack/searchlight,Non core,0.0,0.6802721088435374,1,2
+openstack/openstack-zuul-roles,openstack/searchlight-ui,Core,4.081632653061225,1.5873015873015872,2,2
+openstack/openstack-zuul-roles,openstack/searchlight-ui,Non core,0.0,1.5873015873015872,2,2
+openstack/openstack-zuul-roles,openstack/searchlight-specs,Core,3.571428571428571,0.0,1,1
+openstack/openstack-zuul-roles,openstack/searchlight-specs,Non core,0.0,2.083333333333333,1,1
+openstack/openstack-zuul-roles,openstack/python-searchlightclient,Core,2.0408163265306123,0.0,1,1
+openstack/openstack-zuul-roles,openstack/python-searchlightclient,Non core,0.0,1.4925373134328357,1,1
+openstack/openstack-zuul-roles,openstack/charm-tempest,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-tempest,Non core,0.0,2.7027027027027026,0,1
+openstack/openstack-zuul-roles,openstack/charm-barbican-softhsm,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-barbican-softhsm,Non core,0.0,3.125,0,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-client,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-client,Non core,0.0,3.7037037037037033,0,1
+openstack/openstack-zuul-roles,openstack/instack-undercloud,Core,2.8846153846153846,1.4018691588785046,3,4
+openstack/openstack-zuul-roles,openstack/instack-undercloud,Non core,0.0,0.46728971962616817,3,4
+openstack/openstack-zuul-roles,openstack/publiccloud-sig,Core,9.090909090909092,4.761904761904762,1,2
+openstack/openstack-zuul-roles,openstack/publiccloud-sig,Non core,0.0,4.761904761904762,1,2
+openstack/openstack-zuul-roles,openstack/ideas,Core,11.11111111111111,4.878048780487805,1,2
+openstack/openstack-zuul-roles,openstack/ideas,Non core,0.0,0.0,1,2
+openstack/openstack-zuul-roles,openstack/uc-recognition,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/uc-recognition,Non core,0.0,4.545454545454546,0,1
+openstack/openstack-zuul-roles,openstack/ops-tags-team,Core,0.0,2.272727272727273,0,2
+openstack/openstack-zuul-roles,openstack/ops-tags-team,Non core,0.0,2.272727272727273,0,2
+openstack/openstack-zuul-roles,openstack/enterprise-wg,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/enterprise-wg,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/governance-uc,Core,3.8461538461538463,1.5151515151515151,1,2
+openstack/openstack-zuul-roles,openstack/governance-uc,Non core,0.0,1.5151515151515151,1,2
+openstack/openstack-zuul-roles,openstack/workload-ref-archs,Core,5.88235294117647,3.7037037037037033,1,2
+openstack/openstack-zuul-roles,openstack/workload-ref-archs,Non core,0.0,3.7037037037037033,1,2
+openstack/openstack-zuul-roles,openstack/arch-wg,Core,12.5,0.0,1,1
+openstack/openstack-zuul-roles,openstack/arch-wg,Non core,0.0,3.4482758620689653,1,1
+openstack/openstack-zuul-roles,openstack/project-navigator-data,Core,9.090909090909092,2.7027027027027026,2,2
+openstack/openstack-zuul-roles,openstack/project-navigator-data,Non core,0.0,2.7027027027027026,2,2
+openstack/openstack-zuul-roles,openstack/openstack-specs,Core,13.636363636363635,2.1164021164021163,3,6
+openstack/openstack-zuul-roles,openstack/openstack-specs,Non core,0.0,1.0582010582010581,3,6
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_monasca,Core,5.0,1.5384615384615385,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_monasca,Non core,0.0,1.5384615384615385,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_monasca-agent,Core,7.142857142857142,2.127659574468085,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_monasca-agent,Non core,0.0,2.127659574468085,2,2
+openstack/openstack-zuul-roles,openstack/ironic-inspector-specs,Core,3.4482758620689653,0.0,1,1
+openstack/openstack-zuul-roles,openstack/ironic-inspector-specs,Non core,0.0,1.694915254237288,1,1
+openstack/openstack-zuul-roles,openstack/sushy-cli,Core,7.6923076923076925,0.0,1,0
+openstack/openstack-zuul-roles,openstack/sushy-cli,Non core,0.0,0.0,1,0
+openstack/openstack-zuul-roles,openstack/puppet-glare,Core,6.0606060606060606,2.4390243902439024,2,2
+openstack/openstack-zuul-roles,openstack/puppet-glare,Non core,0.0,2.4390243902439024,2,2
+openstack/openstack-zuul-roles,openstack/xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-bootstrap-scss,Non core,0.0,3.7037037037037033,0,1
+openstack/openstack-zuul-roles,openstack/openstack-planet,Core,1.7857142857142856,6.1946902654867255,4,8
+openstack/openstack-zuul-roles,openstack/openstack-planet,Non core,0.0,0.8849557522123894,4,8
+openstack/openstack-zuul-roles,openstack/charm-interface-keystone-credentials,Core,7.142857142857142,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-keystone-credentials,Non core,0.0,4.761904761904762,1,1
+openstack/openstack-zuul-roles,openstack/monasca-kibana-plugin,Core,6.666666666666667,3.225806451612903,1,2
+openstack/openstack-zuul-roles,openstack/monasca-kibana-plugin,Non core,0.0,3.225806451612903,1,2
+openstack/openstack-zuul-roles,openstack/charm-interface-keystone-domain-backend,Core,9.090909090909092,0.0,1,0
+openstack/openstack-zuul-roles,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,1,0
+openstack/openstack-zuul-roles,openstack/devstack-plugin-amqp1,Core,6.25,0.0,1,1
+openstack/openstack-zuul-roles,openstack/devstack-plugin-amqp1,Non core,0.0,3.0303030303030303,1,1
+openstack/openstack-zuul-roles,openstack/devstack-plugin-kafka,Core,0.0,3.571428571428571,0,2
+openstack/openstack-zuul-roles,openstack/devstack-plugin-kafka,Non core,0.0,3.571428571428571,0,2
+openstack/openstack-zuul-roles,openstack/tripleo-ipsec,Core,6.25,0.0,1,0
+openstack/openstack-zuul-roles,openstack/tripleo-ipsec,Non core,0.0,0.0,1,0
+openstack/openstack-zuul-roles,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/monasca-grafana-datasource,Non core,0.0,2.7777777777777777,0,1
+openstack/openstack-zuul-roles,openstack/charm-interface-bind-rndc,Core,7.6923076923076925,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-bind-rndc,Non core,0.0,5.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-rabbitmq,Core,8.333333333333332,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-rabbitmq,Non core,0.0,4.761904761904762,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-openstack-ha,Core,0.0,5.0,0,2
+openstack/openstack-zuul-roles,openstack/charm-interface-openstack-ha,Non core,0.0,5.0,0,2
+openstack/openstack-zuul-roles,openstack/charm-interface-gnocchi,Core,10.0,3.7037037037037033,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-gnocchi,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-bgp,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-bgp,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-designate,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-designate,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/tempest-horizon,Core,8.333333333333332,0.0,2,1
+openstack/openstack-zuul-roles,openstack/tempest-horizon,Non core,0.0,2.941176470588235,2,1
+openstack/openstack-zuul-roles,openstack/logstash-filters,Core,0.0,21.428571428571427,0,4
+openstack/openstack-zuul-roles,openstack/logstash-filters,Non core,0.0,7.142857142857142,0,4
+openstack/openstack-zuul-roles,openstack/xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-jquery-migrate,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack/qinling-dashboard,Core,8.333333333333332,3.571428571428571,1,1
+openstack/openstack-zuul-roles,openstack/qinling-dashboard,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/python-qinlingclient,Core,2.857142857142857,2.7027027027027026,1,2
+openstack/openstack-zuul-roles,openstack/python-qinlingclient,Non core,0.0,2.7027027027027026,1,2
+openstack/openstack-zuul-roles,openstack/qinling,Core,4.166666666666666,2.083333333333333,2,2
+openstack/openstack-zuul-roles,openstack/qinling,Non core,0.0,2.083333333333333,2,2
+openstack/openstack-zuul-roles,openstack/monasca-analytics,Core,3.3333333333333335,3.8461538461538463,1,3
+openstack/openstack-zuul-roles,openstack/monasca-analytics,Non core,0.0,1.9230769230769231,1,3
+openstack/openstack-zuul-roles,openstack/oslo-incubator,Core,1.094890510948905,1.146788990825688,3,6
+openstack/openstack-zuul-roles,openstack/oslo-incubator,Non core,0.0,0.22935779816513763,3,6
+openstack/openstack-zuul-roles,openstack/puppet-congress,Core,6.0606060606060606,5.88235294117647,2,3
+openstack/openstack-zuul-roles,openstack/puppet-congress,Non core,0.0,2.941176470588235,2,3
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_monasca-ui,Core,5.88235294117647,3.3333333333333335,1,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,3.3333333333333335,1,2
+openstack/openstack-zuul-roles,openstack/auto-scaling-sig,Core,10.0,0.0,1,0
+openstack/openstack-zuul-roles,openstack/auto-scaling-sig,Non core,0.0,0.0,1,0
+openstack/openstack-zuul-roles,openstack/os-loganalyze,Core,6.25,14.545454545454545,2,9
+openstack/openstack-zuul-roles,openstack/os-loganalyze,Non core,0.0,1.8181818181818181,2,9
+openstack/openstack-zuul-roles,openstack/devstack-plugin-pika,Core,0.0,4.545454545454546,0,2
+openstack/openstack-zuul-roles,openstack/devstack-plugin-pika,Non core,0.0,4.545454545454546,0,2
+openstack/openstack-zuul-roles,openstack/devstack-plugin-zmq,Core,7.142857142857142,4.0,1,2
+openstack/openstack-zuul-roles,openstack/devstack-plugin-zmq,Non core,0.0,4.0,1,2
+openstack/openstack-zuul-roles,openstack/networking-l2gw,Core,4.285714285714286,0.6172839506172839,3,2
+openstack/openstack-zuul-roles,openstack/networking-l2gw,Non core,0.0,0.6172839506172839,3,2
+openstack/openstack-zuul-roles,openstack/networking-l2gw-tempest-plugin,Core,13.333333333333334,2.857142857142857,2,1
+openstack/openstack-zuul-roles,openstack/networking-l2gw-tempest-plugin,Non core,0.0,0.0,2,1
+openstack/openstack-zuul-roles,openstack/charm-interface-ceph-mds,Core,8.333333333333332,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-ceph-mds,Non core,0.0,5.555555555555555,1,1
+openstack/openstack-zuul-roles,openstack/xstatic-angular-ui-router,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-angular-ui-router,Non core,0.0,5.263157894736842,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-vis,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-vis,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-database,Core,0.0,2.941176470588235,0,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-database,Non core,0.0,2.941176470588235,0,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-data-processing,Core,0.0,3.571428571428571,0,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-data-processing,Non core,0.0,3.571428571428571,0,2
+openstack/openstack-zuul-roles,openstack/trove-integration,Core,1.4285714285714286,0.8928571428571428,1,2
+openstack/openstack-zuul-roles,openstack/trove-integration,Non core,0.0,0.8928571428571428,1,2
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-sensu,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/python-ceilometerclient,Core,2.564102564102564,1.5544041450777202,3,4
+openstack/openstack-zuul-roles,openstack/python-ceilometerclient,Non core,0.0,0.5181347150259068,3,4
+openstack/openstack-zuul-roles,openstack/keystoneauth-saml2,Core,5.88235294117647,4.651162790697675,1,3
+openstack/openstack-zuul-roles,openstack/keystoneauth-saml2,Non core,0.0,2.3255813953488373,1,3
+openstack/openstack-zuul-roles,openstack/murano-deployment,Core,2.5,0.0,1,1
+openstack/openstack-zuul-roles,openstack/murano-deployment,Non core,0.0,2.083333333333333,1,1
+openstack/openstack-zuul-roles,openstack/python-keystoneclient-kerberos,Core,5.88235294117647,2.380952380952381,1,2
+openstack/openstack-zuul-roles,openstack/python-keystoneclient-kerberos,Non core,0.0,2.380952380952381,1,2
+openstack/openstack-zuul-roles,openstack/python-wsmanclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/python-wsmanclient,Non core,0.0,5.0,0,1
+openstack/openstack-zuul-roles,openstack/fuel-upgrade,Core,7.142857142857142,0.0,1,1
+openstack/openstack-zuul-roles,openstack/fuel-upgrade,Non core,0.0,2.631578947368421,1,1
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-object-storage,Core,0.0,1.8867924528301887,0,2
+openstack/openstack-zuul-roles,openstack/cookbook-openstack-object-storage,Non core,0.0,1.8867924528301887,0,2
+openstack/openstack-zuul-roles,openstack/fairy-slipper,Core,8.333333333333332,3.7037037037037033,1,2
+openstack/openstack-zuul-roles,openstack/fairy-slipper,Non core,0.0,3.7037037037037033,1,2
+openstack/openstack-zuul-roles,openstack/django-openstack-auth-kerberos,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/django-openstack-auth-kerberos,Non core,0.0,3.571428571428571,0,1
+openstack/openstack-zuul-roles,openstack/horizon-cisco-ui,Core,5.88235294117647,4.166666666666666,1,2
+openstack/openstack-zuul-roles,openstack/horizon-cisco-ui,Non core,0.0,4.166666666666666,1,2
+openstack/openstack-zuul-roles,openstack/zuul-packaging,Core,33.33333333333333,15.789473684210526,2,4
+openstack/openstack-zuul-roles,openstack/zuul-packaging,Non core,0.0,5.263157894736842,2,4
+openstack/openstack-zuul-roles,openstack/networking-generic-switch-tempest-plugin,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/tripleo-incubator,Core,3.0303030303030303,4.191616766467066,3,8
+openstack/openstack-zuul-roles,openstack/tripleo-incubator,Non core,0.0,0.5988023952095809,3,8
+openstack/openstack-zuul-roles,openstack/ironic-webclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/ironic-webclient,Non core,0.0,2.380952380952381,0,1
+openstack/openstack-zuul-roles,openstack/puppet-crane,Core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/puppet-crane,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/release-tools,Core,5.405405405405405,7.6923076923076925,2,7
+openstack/openstack-zuul-roles,openstack/release-tools,Non core,0.0,1.282051282051282,2,7
+openstack/openstack-zuul-roles,openstack/gnocchi,Core,0.0,0.7142857142857143,0,2
+openstack/openstack-zuul-roles,openstack/gnocchi,Non core,0.0,0.7142857142857143,0,2
+openstack/openstack-zuul-roles,openstack/networking-ofagent,Core,6.666666666666667,2.7777777777777777,1,2
+openstack/openstack-zuul-roles,openstack/networking-ofagent,Non core,0.0,2.7777777777777777,1,2
+openstack/openstack-zuul-roles,openstack/python-neutron-pd-driver,Core,0.0,6.666666666666667,0,2
+openstack/openstack-zuul-roles,openstack/python-neutron-pd-driver,Non core,0.0,6.666666666666667,0,2
+openstack/openstack-zuul-roles,openstack/charm-ceph,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-ceph,Non core,0.0,3.225806451612903,0,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_freezer,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/openstack-ansible-pip_lock_down,Core,11.76470588235294,3.8461538461538463,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-pip_lock_down,Non core,0.0,3.8461538461538463,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-security,Core,4.761904761904762,1.25,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-security,Non core,0.0,1.25,2,2
+openstack/openstack-zuul-roles,openstack/oslosphinx,Core,4.0,2.5316455696202533,2,3
+openstack/openstack-zuul-roles,openstack/oslosphinx,Non core,0.0,1.2658227848101267,2,3
+openstack/openstack-zuul-roles,openstack/python-gnocchiclient,Core,2.857142857142857,2.3255813953488373,1,2
+openstack/openstack-zuul-roles,openstack/python-gnocchiclient,Non core,0.0,2.3255813953488373,1,2
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-cinder,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-cookiecutter,Core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-glance,Core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-keystone,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-mariadb,Core,11.11111111111111,5.555555555555555,1,1
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-rabbitmq,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-tripleo,Core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-ui,Core,0.0,5.263157894736842,0,1
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-aodh,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-barbican,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-ceilometer,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-cinder,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-cookiecutter,Core,6.666666666666667,3.8461538461538463,1,1
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/tripleo-ui,Core,2.564102564102564,1.25,1,2
+openstack/openstack-zuul-roles,openstack/tripleo-ui,Non core,0.0,1.25,1,2
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-ovn,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-opendaylight,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-octavia,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-nova,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-nova,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/os-cloud-config,Core,5.555555555555555,1.9417475728155338,3,3
+openstack/openstack-zuul-roles,openstack/os-cloud-config,Non core,0.0,0.9708737864077669,3,3
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-zaqar,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-tempest,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-sahara,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-swift,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-tacker,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-rabbitmq,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-qdrouterd,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-panko,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-heat,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-haproxy,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-gnocchi,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-glance,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-glance,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-designate,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-neutron,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-mistral,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-memcached,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-memcached,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-manila,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-manila,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-ironic,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-keepalived,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-horizon,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/pylockfile,Core,0.0,3.3333333333333335,0,2
+openstack/openstack-zuul-roles,openstack/pylockfile,Non core,0.0,3.3333333333333335,0,2
+openstack/openstack-zuul-roles,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/dragonflow,Core,2.3622047244094486,0.9950248756218906,3,3
+openstack/openstack-zuul-roles,openstack/dragonflow,Non core,0.0,0.4975124378109453,3,3
+openstack/openstack-zuul-roles,openstack/openstack,Core,25.0,11.538461538461538,2,4
+openstack/openstack-zuul-roles,openstack/openstack,Non core,0.0,3.8461538461538463,2,4
+openstack/openstack-zuul-roles,openstack/charm-interface-pacemaker-remote,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-interface-pacemaker-remote,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/networking-onos,Core,4.761904761904762,1.6666666666666667,1,2
+openstack/openstack-zuul-roles,openstack/networking-onos,Non core,0.0,1.6666666666666667,1,2
+openstack/openstack-zuul-roles,openstack/solum-infra-guestagent,Core,9.090909090909092,4.166666666666666,1,2
+openstack/openstack-zuul-roles,openstack/solum-infra-guestagent,Non core,0.0,4.166666666666666,1,2
+openstack/openstack-zuul-roles,openstack/openstack-ux,Core,12.5,3.4482758620689653,1,2
+openstack/openstack-zuul-roles,openstack/openstack-ux,Non core,0.0,3.4482758620689653,1,2
+openstack/openstack-zuul-roles,openstack/mox3,Core,3.225806451612903,2.083333333333333,1,2
+openstack/openstack-zuul-roles,openstack/mox3,Non core,0.0,2.083333333333333,1,2
+openstack/openstack-zuul-roles,openstack/charm-layer-ceph,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-layer-ceph,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-layer-ceph-base,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-layer-ceph-base,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/python-tricircleclient,Core,4.3478260869565215,2.5,1,2
+openstack/openstack-zuul-roles,openstack/python-tricircleclient,Non core,0.0,2.5,1,2
+openstack/openstack-zuul-roles,openstack/tricircle,Core,1.1764705882352942,1.3513513513513513,1,3
+openstack/openstack-zuul-roles,openstack/tricircle,Non core,0.0,0.6756756756756757,1,3
+openstack/openstack-zuul-roles,openstack/swift-specs,Core,7.4074074074074066,1.3333333333333335,2,2
+openstack/openstack-zuul-roles,openstack/swift-specs,Non core,0.0,1.3333333333333335,2,2
+openstack/openstack-zuul-roles,openstack/congress,Core,1.935483870967742,0.4524886877828055,3,2
+openstack/openstack-zuul-roles,openstack/congress,Non core,0.0,0.4524886877828055,3,2
+openstack/openstack-zuul-roles,openstack/congress-tempest-plugin,Core,8.695652173913043,2.7027027027027026,2,1
+openstack/openstack-zuul-roles,openstack/congress-tempest-plugin,Non core,0.0,0.0,2,1
+openstack/openstack-zuul-roles,openstack/python-congressclient,Core,3.6363636363636362,1.5873015873015872,2,2
+openstack/openstack-zuul-roles,openstack/python-congressclient,Non core,0.0,1.5873015873015872,2,2
+openstack/openstack-zuul-roles,openstack/congress-specs,Core,2.564102564102564,1.7241379310344827,1,2
+openstack/openstack-zuul-roles,openstack/congress-specs,Non core,0.0,1.7241379310344827,1,2
+openstack/openstack-zuul-roles,openstack/congress-dashboard,Core,3.4482758620689653,2.2222222222222223,1,2
+openstack/openstack-zuul-roles,openstack/congress-dashboard,Non core,0.0,2.2222222222222223,1,2
+openstack/openstack-zuul-roles,openstack/syntribos,Core,5.88235294117647,2.1739130434782608,2,2
+openstack/openstack-zuul-roles,openstack/syntribos,Non core,0.0,2.1739130434782608,2,2
+openstack/openstack-zuul-roles,openstack/syntribos-payloads,Core,16.666666666666664,0.0,1,1
+openstack/openstack-zuul-roles,openstack/syntribos-payloads,Non core,0.0,5.555555555555555,1,1
+openstack/openstack-zuul-roles,openstack/syntribos-openstack-templates,Core,12.5,0.0,1,1
+openstack/openstack-zuul-roles,openstack/syntribos-openstack-templates,Non core,0.0,5.0,1,1
+openstack/openstack-zuul-roles,openstack/i18n-specs,Core,14.285714285714285,5.555555555555555,1,2
+openstack/openstack-zuul-roles,openstack/i18n-specs,Non core,0.0,5.555555555555555,1,2
+openstack/openstack-zuul-roles,openstack/tempest-plugin-cookiecutter,Core,11.11111111111111,4.3478260869565215,1,2
+openstack/openstack-zuul-roles,openstack/tempest-plugin-cookiecutter,Non core,0.0,4.3478260869565215,1,2
+openstack/openstack-zuul-roles,openstack/devstack-plugin-cookiecutter,Core,12.5,6.25,1,2
+openstack/openstack-zuul-roles,openstack/devstack-plugin-cookiecutter,Non core,0.0,6.25,1,2
+openstack/openstack-zuul-roles,openstack/xstatic-graphlib,Core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-repo_build,Core,3.225806451612903,2.1505376344086025,2,3
+openstack/openstack-zuul-roles,openstack/openstack-ansible-repo_build,Non core,0.0,1.0752688172043012,2,3
+openstack/openstack-zuul-roles,openstack/xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-bootstrap-datepicker,Non core,0.0,3.571428571428571,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-hogan,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-hogan,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-jquery.quicksearch,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_molteniron,Core,7.4074074074074066,2.4390243902439024,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_molteniron,Non core,0.0,2.4390243902439024,2,2
+openstack/openstack-zuul-roles,openstack/xstatic-angular-lrdragndrop,Core,0.0,4.166666666666666,0,2
+openstack/openstack-zuul-roles,openstack/xstatic-angular-lrdragndrop,Non core,0.0,4.166666666666666,0,2
+openstack/openstack-zuul-roles,openstack/faafo,Core,6.666666666666667,3.571428571428571,1,2
+openstack/openstack-zuul-roles,openstack/faafo,Non core,0.0,3.571428571428571,1,2
+openstack/openstack-zuul-roles,openstack/xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-angular-bootstrap,Non core,0.0,3.3333333333333335,0,1
+openstack/openstack-zuul-roles,openstack/networking-calico,Core,8.333333333333332,1.4705882352941175,3,2
+openstack/openstack-zuul-roles,openstack/networking-calico,Non core,0.0,1.4705882352941175,3,2
+openstack/openstack-zuul-roles,openstack/xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-angular-gettext,Non core,0.0,4.0,0,1
+openstack/openstack-zuul-roles,openstack/shotgun,Core,4.166666666666666,1.1904761904761905,1,2
+openstack/openstack-zuul-roles,openstack/shotgun,Non core,0.0,1.1904761904761905,1,2
+openstack/openstack-zuul-roles,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-aioeventlet,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/fuel-devops,Core,1.5151515151515151,0.6622516556291391,1,2
+openstack/openstack-zuul-roles,openstack/fuel-devops,Non core,0.0,0.6622516556291391,1,2
+openstack/openstack-zuul-roles,openstack/fuel-plugin-murano,Core,5.88235294117647,2.5,1,2
+openstack/openstack-zuul-roles,openstack/fuel-plugin-murano,Non core,0.0,2.5,1,2
+openstack/openstack-zuul-roles,openstack/fuel-web,Core,0.9345794392523363,0.5012531328320802,2,3
+openstack/openstack-zuul-roles,openstack/fuel-web,Non core,0.0,0.2506265664160401,2,3
+openstack/openstack-zuul-roles,openstack/fuel-plugins,Core,2.0,0.9009009009009009,1,2
+openstack/openstack-zuul-roles,openstack/fuel-plugins,Non core,0.0,0.9009009009009009,1,2
+openstack/openstack-zuul-roles,openstack/fuel-virtualbox,Core,7.142857142857142,3.125,1,2
+openstack/openstack-zuul-roles,openstack/fuel-virtualbox,Non core,0.0,3.125,1,2
+openstack/openstack-zuul-roles,openstack/fuel-ostf,Core,0.9803921568627451,0.45045045045045046,1,2
+openstack/openstack-zuul-roles,openstack/fuel-ostf,Non core,0.0,0.45045045045045046,1,2
+openstack/openstack-zuul-roles,openstack/fuel-qa,Core,0.78125,0.7874015748031495,1,3
+openstack/openstack-zuul-roles,openstack/fuel-qa,Non core,0.0,0.39370078740157477,1,3
+openstack/openstack-zuul-roles,openstack/fuel-specs,Core,0.9345794392523363,0.6514657980456027,1,3
+openstack/openstack-zuul-roles,openstack/fuel-specs,Non core,0.0,0.32573289902280134,1,3
+openstack/openstack-zuul-roles,openstack/fuel-nailgun-extension-cluster-upgrade,Core,6.666666666666667,3.125,1,2
+openstack/openstack-zuul-roles,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,3.125,1,2
+openstack/openstack-zuul-roles,openstack/fuel-nailgun-agent,Core,2.380952380952381,0.9345794392523363,1,2
+openstack/openstack-zuul-roles,openstack/fuel-nailgun-agent,Non core,0.0,0.9345794392523363,1,2
+openstack/openstack-zuul-roles,openstack/fuel-mirror,Core,2.7027027027027026,0.8928571428571428,1,2
+openstack/openstack-zuul-roles,openstack/fuel-mirror,Non core,0.0,0.8928571428571428,1,2
+openstack/openstack-zuul-roles,openstack/fuel-menu,Core,2.564102564102564,0.8064516129032258,1,2
+openstack/openstack-zuul-roles,openstack/fuel-menu,Non core,0.0,0.8064516129032258,1,2
+openstack/openstack-zuul-roles,openstack/fuel-main,Core,0.6993006993006993,0.3875968992248062,1,2
+openstack/openstack-zuul-roles,openstack/fuel-main,Non core,0.0,0.3875968992248062,1,2
+openstack/openstack-zuul-roles,openstack/fuel-ui,Core,2.1739130434782608,1.0101010101010102,1,2
+openstack/openstack-zuul-roles,openstack/fuel-ui,Non core,0.0,1.0101010101010102,1,2
+openstack/openstack-zuul-roles,openstack/fuel-library,Core,0.49019607843137253,0.22271714922048996,1,2
+openstack/openstack-zuul-roles,openstack/fuel-library,Non core,0.0,0.22271714922048996,1,2
+openstack/openstack-zuul-roles,openstack/fuel-dev-tools,Core,11.76470588235294,3.125,2,2
+openstack/openstack-zuul-roles,openstack/fuel-dev-tools,Non core,0.0,3.125,2,2
+openstack/openstack-zuul-roles,openstack/fuel-stats,Core,4.0,1.7241379310344827,1,2
+openstack/openstack-zuul-roles,openstack/fuel-stats,Non core,0.0,1.7241379310344827,1,2
+openstack/openstack-zuul-roles,openstack/fuel-nailgun-extension-converted-serializers,Core,14.285714285714285,6.666666666666667,1,2
+openstack/openstack-zuul-roles,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,6.666666666666667,1,2
+openstack/openstack-zuul-roles,openstack/fuel-nailgun-extension-iac,Core,11.11111111111111,5.88235294117647,1,2
+openstack/openstack-zuul-roles,openstack/fuel-nailgun-extension-iac,Non core,0.0,5.88235294117647,1,2
+openstack/openstack-zuul-roles,openstack/fuel-plugin-murano-tests,Core,6.25,2.5,1,2
+openstack/openstack-zuul-roles,openstack/fuel-plugin-murano-tests,Non core,0.0,2.5,1,2
+openstack/openstack-zuul-roles,openstack/fuel-astute,Core,1.4285714285714286,0.6134969325153374,1,2
+openstack/openstack-zuul-roles,openstack/fuel-astute,Non core,0.0,0.6134969325153374,1,2
+openstack/openstack-zuul-roles,openstack/fuel-docs,Core,1.0,0.3076923076923077,1,2
+openstack/openstack-zuul-roles,openstack/fuel-docs,Non core,0.0,0.3076923076923077,1,2
+openstack/openstack-zuul-roles,openstack/fuel-agent,Core,1.3513513513513513,1.2658227848101267,1,3
+openstack/openstack-zuul-roles,openstack/fuel-agent,Non core,0.0,0.6329113924050633,1,3
+openstack/openstack-zuul-roles,openstack/fuel-octane,Core,5.714285714285714,1.5151515151515151,2,2
+openstack/openstack-zuul-roles,openstack/fuel-octane,Non core,0.0,1.5151515151515151,2,2
+openstack/openstack-zuul-roles,openstack/tuning-box,Core,10.0,2.7027027027027026,1,2
+openstack/openstack-zuul-roles,openstack/tuning-box,Non core,0.0,2.7027027027027026,1,2
+openstack/openstack-zuul-roles,openstack/python-fuelclient,Core,1.3513513513513513,0.6369426751592357,1,2
+openstack/openstack-zuul-roles,openstack/python-fuelclient,Non core,0.0,0.6369426751592357,1,2
+openstack/openstack-zuul-roles,openstack/neutron-interconnection,Core,0.0,4.3478260869565215,0,1
+openstack/openstack-zuul-roles,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/openstack-chef-repo,Core,2.1739130434782608,4.761904761904762,1,4
+openstack/openstack-zuul-roles,openstack/openstack-chef-repo,Non core,0.0,1.5873015873015872,1,4
+openstack/openstack-zuul-roles,openstack/os-acc,Core,0.0,3.3333333333333335,0,1
+openstack/openstack-zuul-roles,openstack/os-acc,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_zaqar,Core,5.0,1.694915254237288,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_zaqar,Non core,0.0,1.694915254237288,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_watcher,Core,5.714285714285714,1.9607843137254901,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_watcher,Non core,0.0,1.9607843137254901,2,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_searchlight,Core,7.4074074074074066,0.0,2,1
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_searchlight,Non core,0.0,2.3255813953488373,2,1
+openstack/openstack-zuul-roles,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-font-awesome,Non core,0.0,4.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-jasmine,Non core,0.0,3.7037037037037033,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/tempest-tripleo-ui,Core,0.0,4.166666666666666,0,1
+openstack/openstack-zuul-roles,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/docs-specs,Core,3.9215686274509802,0.9302325581395349,2,4
+openstack/openstack-zuul-roles,openstack/docs-specs,Non core,0.0,0.9302325581395349,2,4
+openstack/openstack-zuul-roles,openstack/release-schedule-generator,Core,0.0,12.5,0,3
+openstack/openstack-zuul-roles,openstack/release-schedule-generator,Non core,0.0,6.25,0,3
+openstack/openstack-zuul-roles,openstack-infra/opendev-website,Core,16.666666666666664,26.666666666666668,1,4
+openstack/openstack-zuul-roles,openstack-infra/opendev-website,Non core,0.0,0.0,1,4
+openstack/openstack-zuul-roles,openstack/castellan-ui,Core,10.0,10.344827586206897,1,4
+openstack/openstack-zuul-roles,openstack/castellan-ui,Non core,0.0,3.4482758620689653,1,4
+openstack/openstack-zuul-roles,openstack-attic/compute-api,Core,7.4074074074074066,4.3478260869565215,2,3
+openstack/openstack-zuul-roles,openstack-attic/compute-api,Non core,0.0,2.1739130434782608,2,3
+openstack/openstack-zuul-roles,openstack/charm-neutron-api-odl,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-neutron-api-odl,Non core,0.0,4.3478260869565215,0,1
+openstack/openstack-zuul-roles,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/charm-murano,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-murano,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/charm-openvswitch-odl,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-openvswitch-odl,Non core,0.0,4.761904761904762,0,1
+openstack/openstack-zuul-roles,openstack/charm-interface-odl-controller-api,Core,12.5,0.0,1,1
+openstack/openstack-zuul-roles,openstack/charm-interface-odl-controller-api,Non core,0.0,6.666666666666667,1,1
+openstack/openstack-zuul-roles,openstack/charm-glusterfs,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-glusterfs,Non core,0.0,5.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-trove,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/charm-trove,Non core,0.0,5.263157894736842,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-positional,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-requests-unixsocket,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-traceback2,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-ryu,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-linecache2,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-gabbi,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-cotyledon,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-migrate,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/fuxi,Core,3.125,1.7543859649122806,1,2
+openstack/openstack-zuul-roles,openstack/fuxi,Non core,0.0,1.7543859649122806,1,2
+openstack/openstack-zuul-roles,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/bandit,Core,4.838709677419355,3.79746835443038,3,4
+openstack/openstack-zuul-roles,openstack/bandit,Non core,0.0,1.2658227848101267,3,4
+openstack/openstack-zuul-roles,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-angular-smart-table,Non core,0.0,5.263157894736842,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-bootswatch,Non core,0.0,4.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-msgpack-python,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-d3,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/xstatic-d3,Non core,0.0,4.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pymemcache,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-novnc,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/instack,Core,3.7037037037037033,4.3478260869565215,1,3
+openstack/openstack-zuul-roles,openstack/instack,Non core,0.0,2.1739130434782608,1,3
+openstack/openstack-zuul-roles,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pysaml2,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-trollius,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-autobahn,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pyldap,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/astara,Core,2.380952380952381,1.6666666666666667,1,2
+openstack/openstack-zuul-roles,openstack/astara,Non core,0.0,1.6666666666666667,1,2
+openstack/openstack-zuul-roles,openstack/astara-appliance,Core,5.263157894736842,0.0,1,1
+openstack/openstack-zuul-roles,openstack/astara-appliance,Non core,0.0,2.7777777777777777,1,1
+openstack/openstack-zuul-roles,openstack/astara-horizon,Core,8.333333333333332,0.0,1,1
+openstack/openstack-zuul-roles,openstack/astara-horizon,Non core,0.0,3.4482758620689653,1,1
+openstack/openstack-zuul-roles,openstack/astara-neutron,Core,6.25,0.0,1,1
+openstack/openstack-zuul-roles,openstack/astara-neutron,Non core,0.0,3.3333333333333335,1,1
+openstack/openstack-zuul-roles,openstack/anchor,Core,0.0,1.8518518518518516,0,2
+openstack/openstack-zuul-roles,openstack/anchor,Non core,0.0,1.8518518518518516,0,2
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/fuxi-golang,Core,20.0,6.25,1,1
+openstack/openstack-zuul-roles,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/fuxi-kubernetes,Core,16.666666666666664,5.0,1,2
+openstack/openstack-zuul-roles,openstack/fuxi-kubernetes,Non core,0.0,5.0,1,2
+openstack/openstack-zuul-roles,openstack-infra/puppet-odsreg,Core,22.22222222222222,30.0,2,7
+openstack/openstack-zuul-roles,openstack-infra/puppet-odsreg,Non core,0.0,5.0,2,7
+openstack/openstack-zuul-roles,openstack-infra/puppet-docker_registry,Core,20.0,7.6923076923076925,1,1
+openstack/openstack-zuul-roles,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/releasestatus,Core,14.285714285714285,5.263157894736842,1,2
+openstack/openstack-zuul-roles,openstack/releasestatus,Non core,0.0,5.263157894736842,1,2
+openstack/openstack-zuul-roles,openstack-infra/vinz-webclient,Core,20.0,7.6923076923076925,1,1
+openstack/openstack-zuul-roles,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/activity-board,Core,10.526315789473683,7.142857142857142,2,5
+openstack/openstack-zuul-roles,openstack/activity-board,Non core,0.0,1.7857142857142856,2,5
+openstack/openstack-zuul-roles,openstack-infra/beaker-localhost,Core,20.0,25.0,1,3
+openstack/openstack-zuul-roles,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,3
+openstack/openstack-zuul-roles,openstack-infra/beaker-nodepool,Core,20.0,25.0,1,3
+openstack/openstack-zuul-roles,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,3
+openstack/openstack-zuul-roles,openstack/rst2bash,Core,12.5,4.761904761904762,1,2
+openstack/openstack-zuul-roles,openstack/rst2bash,Non core,0.0,4.761904761904762,1,2
+openstack/openstack-zuul-roles,openstack/kolla-kubernetes,Core,2.898550724637681,0.7633587786259541,2,2
+openstack/openstack-zuul-roles,openstack/kolla-kubernetes,Non core,0.0,0.7633587786259541,2,2
+openstack/openstack-zuul-roles,openstack/cue-dashboard,Core,14.285714285714285,4.545454545454546,2,2
+openstack/openstack-zuul-roles,openstack/cue-dashboard,Non core,0.0,4.545454545454546,2,2
+openstack/openstack-zuul-roles,openstack/python-cueclient,Core,11.76470588235294,4.545454545454546,2,2
+openstack/openstack-zuul-roles,openstack/python-cueclient,Non core,0.0,4.545454545454546,2,2
+openstack/openstack-zuul-roles,openstack/cue,Core,2.7777777777777777,2.1739130434782608,1,2
+openstack/openstack-zuul-roles,openstack/cue,Non core,0.0,2.1739130434782608,1,2
+openstack/openstack-zuul-roles,openstack/app-catalog,Core,3.076923076923077,1.3157894736842104,2,2
+openstack/openstack-zuul-roles,openstack/app-catalog,Non core,0.0,1.3157894736842104,2,2
+openstack/openstack-zuul-roles,openstack-attic/identity-api,Core,4.3478260869565215,2.1505376344086025,2,3
+openstack/openstack-zuul-roles,openstack-attic/identity-api,Non core,0.0,1.0752688172043012,2,3
+openstack/openstack-zuul-roles,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-fixtures,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/python-magnetodbclient,Core,11.11111111111111,4.761904761904762,1,2
+openstack/openstack-zuul-roles,openstack/python-magnetodbclient,Non core,0.0,4.761904761904762,1,2
+openstack/openstack-zuul-roles,openstack/app-catalog-ui,Core,7.6923076923076925,3.571428571428571,1,2
+openstack/openstack-zuul-roles,openstack/app-catalog-ui,Non core,0.0,3.571428571428571,1,2
+openstack/openstack-zuul-roles,openstack/salt-formula-kubernetes,Core,10.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-kubernetes,Non core,0.0,5.263157894736842,1,1
+openstack/openstack-zuul-roles,openstack/app-catalog-common,Core,0.0,7.142857142857142,0,2
+openstack/openstack-zuul-roles,openstack/app-catalog-common,Non core,0.0,7.142857142857142,0,2
+openstack/openstack-zuul-roles,openstack/python-appcatalogclient,Core,0.0,5.88235294117647,0,2
+openstack/openstack-zuul-roles,openstack/python-appcatalogclient,Non core,0.0,5.88235294117647,0,2
+openstack/openstack-zuul-roles,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-nova,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-kazoo,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-congressclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-congress,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-net-config,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-ironic,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-swauth,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-api-ref,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-designate,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-swift,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-manila-ui,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-barbican,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-cinder,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-magnum,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-trove,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack/deb-openstack-pkg-tools,Core,22.22222222222222,10.0,2,3
+openstack/openstack-zuul-roles,openstack/deb-openstack-pkg-tools,Non core,0.0,5.0,2,3
+openstack/openstack-zuul-roles,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-swiftclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-alembic,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-cinderclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-nec,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-neutron-taas,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-mlnx,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-openstack-meta-packages,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-odl,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-nodepool,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-cisco,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-midonet,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-arista,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-hyperv,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-rtslib-fb,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-murano,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-semantic-version,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ldappool,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-zaqar-ui,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-zaqar,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-watcher,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-testr,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-win,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pycadf,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pyghmi,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-reno,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-refresh-config,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-vif,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pyeclib,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-quantumclient,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-requestsexceptions,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pbr,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-requests-mock,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-saharaclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-scciclient,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-seamicroclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-auto-backports,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-senlinclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-taskflow,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-testtools,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-tooz,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-shotgun,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-tackerclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-tosca-parser,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-troveclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-tuskarclient,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-watcherclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-wsme,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-bootswatch,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-angular-mock,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-d3,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-hogan,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-font-awesome,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jasmine,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-magic-search,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-mdi,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-objectpath,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-qunit,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-rickshaw,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-spin,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-tv4,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-yaql,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-zaqarclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-rally,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-sahara,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-sahara-dashboard,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-senlin,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-senlin-dashboard,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-stevedore,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-swift-bench,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-swift-plugin-s3,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-trove-dashboard,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-tempest,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-osprofiler,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.vmware,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.utils,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.rootwrap,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.service,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.privsep,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.versionedobjects,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslotest,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.serialization,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.reports,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.policy,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.middleware,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.messaging,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.log,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-aodhclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-automaton,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-barbicanclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-bashate,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-castellan,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ceilometerclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ceilometermiddleware,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-cliff,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-cursive,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-debtcollector,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-designateclient,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-dib-utils,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-diskimage-builder,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-doc8,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-openstack-auth,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-fuelclient,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-dogpile.cache,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-futurist,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-glanceclient,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-glance-store,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-hacking,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-heatclient,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ironicclient,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ironic-inspector-client,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ironic-lib,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-k8sclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-keystoneauth1,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-keystoneclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-keystonemiddleware,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-magnumclient,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-manilaclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-microversion-parse,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-mistralclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-monascaclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-mox3,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-muranoclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-neutronclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-neutron-lib,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-novaclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-openstackclient,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-openstackdocstheme,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-openstacksdk,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-apply-config,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-brick,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-osc-lib,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-client-config,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-collect-config,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.cache,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.db,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.concurrency,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.config,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.i18n,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oslo.context,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-openstack-nose,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-openstack-doc-tools,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-openstack-trove,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-oslosphinx,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-aodh,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-bandit,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-ceilometer,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-ceilometermiddleware,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-designate-dashboard,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-git-review,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-glance,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-glare,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-heat,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-heat-cfntools,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-horizon,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-ironic-inspector,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-ironic-ui,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-keystone,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-liberasurecode,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-manila,Non core,0.0,6.25,0,1
+openstack/openstack-zuul-roles,openstack/deb-mistral,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-mistral,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-murano-agent,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-murano-dashboard,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-l2gw,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-networking-ovn,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-neutron,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-neutron-fwaas,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-neutron-vpnaas,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-neutron-lbaas,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack/installguide-cookiecutter,Core,6.666666666666667,4.0,1,2
+openstack/openstack-zuul-roles,openstack/installguide-cookiecutter,Non core,0.0,4.0,1,2
+openstack/openstack-zuul-roles,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-gnocchi,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-eventlet,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pymysql,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/salt-formula-opencontrail,Core,10.0,0.0,2,1
+openstack/openstack-zuul-roles,openstack/salt-formula-opencontrail,Non core,0.0,4.166666666666666,2,1
+openstack/openstack-zuul-roles,openstack/salt-formula-neutron,Core,5.0,3.8461538461538463,1,2
+openstack/openstack-zuul-roles,openstack/salt-formula-neutron,Non core,0.0,3.8461538461538463,1,2
+openstack/openstack-zuul-roles,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/salt-formula-swift,Non core,0.0,5.88235294117647,0,1
+openstack/openstack-zuul-roles,openstack/salt-formula-nova,Core,3.8461538461538463,0.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-nova,Non core,0.0,3.7037037037037033,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-keystone,Core,4.3478260869565215,0.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-keystone,Non core,0.0,4.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-horizon,Core,5.555555555555555,0.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-horizon,Non core,0.0,4.545454545454546,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-heat,Core,4.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-heat,Non core,0.0,4.3478260869565215,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-glance,Core,4.166666666666666,0.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-glance,Non core,0.0,4.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-cinder,Core,4.3478260869565215,0.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-cinder,Non core,0.0,4.545454545454546,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-ceilometer,Core,6.666666666666667,0.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-ceilometer,Non core,0.0,4.166666666666666,1,1
+openstack/openstack-zuul-roles,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pygit2,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-libisal,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xvfbwrapper,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-testresources,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-compressor,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-sqlalchemy-utils,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pykmip,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-coffin,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-txaio,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-hplefthandclient,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-overextends,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pytimeparse,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-nose-timer,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-retrying,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-discover-runner,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-lesscpy,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-happybase,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-extras,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-functools32,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pydot-ng,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-jsonschema,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-kafka,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-rcssmin,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-nose-parameterized,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pika-pool,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-rfc3986,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-httpretty,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pint,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-pyscss,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-falcon,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-subunit,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-formtools,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-nose-exclude,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pydotplus,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pager,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-proliantutils,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-gnocchiclient,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-babel,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-requests-kerberos,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-colander,Non core,0.0,6.666666666666667,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-dcos,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-bootstrap-form,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-term.js,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-toml,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-semver,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-websocket-client,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-fasteners,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-jingo,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pecan,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-frozendict,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/openstack-zuul-roles,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-wrapt,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-funcsigs,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-crank,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pyvmomi,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-wsgi-intercept,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-os-cloud-config,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-weakrefmethod,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-steadymark,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-warlock,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-couleur,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-json-patch,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-jsonrpclib,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-multi-key-dict,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-memcache,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pulp,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-fonts-roboto-fontface,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-websockify,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-daemonize,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-pyngus,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-editor,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-ddt,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-monotonic,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-rjsmin,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-jsonpath-rw,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-django-appconf,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-oauth2client,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-json-pointer,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack-attic/akanda,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack-attic/akanda,Non core,0.0,4.3478260869565215,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-smart-table,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-requestbuilder,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-nosehtmloutput,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-csscompressor,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-croniter,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-python-concurrent.futures,Non core,0.0,7.142857142857142,0,1
+openstack/openstack-zuul-roles,openstack/openstack-salt,Core,11.11111111111111,0.0,1,1
+openstack/openstack-zuul-roles,openstack/openstack-salt,Non core,0.0,5.555555555555555,1,1
+openstack/openstack-zuul-roles,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack/deb-spice-html5,Non core,0.0,7.6923076923076925,0,1
+openstack/openstack-zuul-roles,openstack/salt-formula-midonet,Core,20.0,0.0,1,1
+openstack/openstack-zuul-roles,openstack/salt-formula-midonet,Non core,0.0,7.6923076923076925,1,1
+openstack/openstack-zuul-roles,openstack/magnetodb-specs,Core,13.333333333333334,3.4482758620689653,2,2
+openstack/openstack-zuul-roles,openstack/magnetodb-specs,Non core,0.0,3.4482758620689653,2,2
+openstack/openstack-zuul-roles,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack-attic/akanda-appliance-builder,Non core,0.0,5.555555555555555,0,1
+openstack/openstack-zuul-roles,openstack-attic/oslo.version,Core,16.666666666666664,6.896551724137931,2,3
+openstack/openstack-zuul-roles,openstack-attic/oslo.version,Non core,0.0,3.4482758620689653,2,3
+openstack/openstack-zuul-roles,openstack-attic/image-api,Core,14.285714285714285,10.714285714285714,2,4
+openstack/openstack-zuul-roles,openstack-attic/image-api,Non core,0.0,3.571428571428571,2,4
+openstack/openstack-zuul-roles,openstack-attic/object-api,Core,8.333333333333332,5.128205128205128,2,3
+openstack/openstack-zuul-roles,openstack-attic/object-api,Non core,0.0,2.564102564102564,2,3
+openstack/openstack-zuul-roles,openstack-attic/volume-api,Core,5.263157894736842,6.451612903225806,1,3
+openstack/openstack-zuul-roles,openstack-attic/volume-api,Non core,0.0,3.225806451612903,1,3
+openstack/openstack-zuul-roles,openstack/magnetodb,Core,3.7037037037037033,0.0,1,1
+openstack/openstack-zuul-roles,openstack/magnetodb,Non core,0.0,2.0408163265306123,1,1
+openstack/openstack-zuul-roles,openstack/openstack-nose,Core,8.333333333333332,11.11111111111111,1,3
+openstack/openstack-zuul-roles,openstack/openstack-nose,Non core,0.0,5.555555555555555,1,3
+openstack/openstack-zuul-roles,openstack-attic/netconn-api,Core,6.451612903225806,3.3333333333333335,2,3
+openstack/openstack-zuul-roles,openstack-attic/netconn-api,Non core,0.0,1.6666666666666667,2,3
+openstack/openstack-zuul-roles,openstack-attic/python-melangeclient,Core,9.090909090909092,0.0,1,1
+openstack/openstack-zuul-roles,openstack-attic/python-melangeclient,Non core,0.0,6.25,1,1
+openstack/openstack-zuul-roles,openstack-attic/melange,Core,10.0,8.333333333333332,2,3
+openstack/openstack-zuul-roles,openstack-attic/melange,Non core,0.0,4.166666666666666,2,3
+openstack/openstack-zuul-roles,openstack-attic/openstack-qa,Core,12.5,6.666666666666667,1,2
+openstack/openstack-zuul-roles,openstack-attic/openstack-qa,Non core,0.0,6.666666666666667,1,2
+openstack/openstack-zuul-roles,openstack-attic/database-api,Core,13.333333333333334,7.4074074074074066,2,3
+openstack/openstack-zuul-roles,openstack-attic/database-api,Non core,0.0,3.7037037037037033,2,3
+openstack/openstack-zuul-roles,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/openstack-zuul-roles,openstack-attic/openstack-security-notes,Non core,0.0,1.2195121951219512,0,1

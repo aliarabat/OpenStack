@@ -1,8 +1,11 @@
 import json
 import requests
-from datetime import datetime
 import os
+import sys
+sys.path.append('../utils')
 import helpers as hpr
+
+# from utils import helpers as hpr
 import shutil
 
 
@@ -49,7 +52,7 @@ def get_openstack_data(dir):
 
 if __name__ == "__main__":
 
-    print("Script openstack-data-cleaning.py started...")
+    print("Script openstack-data-collection.py started...")
 
     start_date, start_header = hpr.generate_date("This script started at")
 
@@ -69,4 +72,4 @@ if __name__ == "__main__":
 
     hpr.diff_dates(start_date, end_date)
 
-    print("Script openstack-data-cleaning.py ended\n")
+    print("Script openstack-data-collection.py ended\n")

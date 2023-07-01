@@ -1,5 +1,7 @@
 import pandas as pd
 import ast
+import sys
+sys.path.append('../utils')
 import helpers as hpr
 from commons import combine_openstack_data
 
@@ -12,7 +14,7 @@ def number_to_repo(data, df):
     for i in range(len(data)):
         row = data[i]
         new_row = df_subset.loc[
-            df_subset["number"].isin(row), ["project"]].drop_duplicates(subset="project").values.reshape(-1).tolist()
+            df_subset["number"].isin(row), "project"].values.tolist()
         result.append(new_row)
     return result
 
@@ -58,7 +60,7 @@ if __name__ == "__main__":
 
     df = combine_openstack_data()
 
-    result_number_co_changes = pd.read_csv("%sExperiments/all_paths.csv" % DIR)
+    result_number_co_changes = pd.read_csv("%sFiles/Number/all_paths.csv" % DIR)
 
     result_number_co_changes = result_number_co_changes["Path"].apply(ast.literal_eval).values.tolist()
 
@@ -68,9 +70,9 @@ if __name__ == "__main__":
 
     single_component_changes_number = df.loc[~df["number"].isin(all_paths_flattend), "number"].map(lambda x: [x]).tolist()
 
-    extended_paths_number = result_number_co_changes + single_component_changes_number
+    extended_paths_number = result_number_co_changes
 
-    merged_number_paths = merge_numbers(extended_paths_number)
+    merged_number_paths = merge_numbers(extended_paths_number) + single_component_changes_number
 
     pd.DataFrame({ "Path": merged_number_paths }).to_csv("%sFiles/Number/extended_paths.csv" % DIR, index=False)
 

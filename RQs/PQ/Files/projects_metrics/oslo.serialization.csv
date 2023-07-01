@@ -1,0 +1,1707 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/oslo.serialization,openstack/oslo.context,Core,23.52941176470588,17.93103448275862,39,52
+openstack/oslo.serialization,openstack/oslo.context,Non core,22.35294117647059,17.93103448275862,39,52
+openstack/oslo.serialization,openstack/oslo.limit,Core,7.228915662650602,13.043478260869565,18,29
+openstack/oslo.serialization,openstack/oslo.limit,Non core,14.457831325301203,12.173913043478262,18,29
+openstack/oslo.serialization,openstack/oslo.middleware,Core,16.964285714285715,13.77245508982036,37,53
+openstack/oslo.serialization,openstack/oslo.middleware,Non core,16.071428571428573,17.964071856287426,37,53
+openstack/oslo.serialization,openstack/oslo.reports,Core,17.28395061728395,19.35483870967742,30,53
+openstack/oslo.serialization,openstack/oslo.reports,Non core,19.753086419753085,23.387096774193548,30,53
+openstack/oslo.serialization,openstack/futurist,Core,17.045454545454543,15.0,23,39
+openstack/oslo.serialization,openstack/futurist,Non core,9.090909090909092,17.5,23,39
+openstack/oslo.serialization,openstack/oslo.i18n,Core,22.988505747126435,20.714285714285715,41,58
+openstack/oslo.serialization,openstack/oslo.i18n,Non core,24.137931034482758,20.714285714285715,41,58
+openstack/oslo.serialization,openstack/sushy-oem-idrac,Core,0.0,1.694915254237288,0,3
+openstack/oslo.serialization,openstack/sushy-oem-idrac,Non core,0.0,0.847457627118644,0,3
+openstack/oslo.serialization,openstack/python-dracclient,Core,4.040404040404041,3.3112582781456954,7,14
+openstack/oslo.serialization,openstack/python-dracclient,Non core,3.0303030303030303,5.960264900662252,7,14
+openstack/oslo.serialization,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/openstack-ansible-os_masakari,Core,3.296703296703297,3.731343283582089,9,14
+openstack/oslo.serialization,openstack/openstack-ansible-os_masakari,Non core,6.593406593406594,6.7164179104477615,9,14
+openstack/oslo.serialization,openstack/ansible-role-systemd_mount,Core,3.571428571428571,1.6666666666666667,3,3
+openstack/oslo.serialization,openstack/ansible-role-systemd_mount,Non core,0.0,0.8333333333333334,3,3
+openstack/oslo.serialization,openstack/python-senlinclient,Core,8.823529411764707,5.027932960893855,23,24
+openstack/oslo.serialization,openstack/python-senlinclient,Non core,8.088235294117647,8.379888268156424,23,24
+openstack/oslo.serialization,openstack/senlin-dashboard,Core,8.411214953271028,8.125,17,28
+openstack/oslo.serialization,openstack/senlin-dashboard,Non core,7.476635514018691,9.375,17,28
+openstack/oslo.serialization,openstack/networking-generic-switch,Core,4.0650406504065035,6.289308176100629,8,17
+openstack/oslo.serialization,openstack/networking-generic-switch,Non core,2.4390243902439024,4.40251572327044,8,17
+openstack/oslo.serialization,openstack/sahara-image-elements,Core,9.917355371900827,2.3255813953488373,13,10
+openstack/oslo.serialization,openstack/sahara-image-elements,Non core,0.8264462809917356,3.488372093023256,13,10
+openstack/oslo.serialization,openstack/ansible-role-thales-hsm,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/ansible-role-thales-hsm,Non core,1.4084507042253522,1.8018018018018018,1,2
+openstack/oslo.serialization,openstack/ansible-role-atos-hsm,Core,0.0,0.9259259259259258,2,3
+openstack/oslo.serialization,openstack/ansible-role-atos-hsm,Non core,2.898550724637681,1.8518518518518516,2,3
+openstack/oslo.serialization,openstack/adjutant-ui,Core,6.8493150684931505,6.60377358490566,6,10
+openstack/oslo.serialization,openstack/adjutant-ui,Non core,1.36986301369863,2.8301886792452833,6,10
+openstack/oslo.serialization,openstack/sahara-extra,Core,9.090909090909092,4.929577464788732,10,12
+openstack/oslo.serialization,openstack/sahara-extra,Non core,1.0101010101010102,3.5211267605633805,10,12
+openstack/oslo.serialization,openstack/blazar-nova,Core,9.090909090909092,7.2992700729927,12,18
+openstack/oslo.serialization,openstack/blazar-nova,Non core,4.545454545454546,5.839416058394161,12,18
+openstack/oslo.serialization,openstack/oslo.service,Core,15.966386554621847,12.972972972972974,41,55
+openstack/oslo.serialization,openstack/oslo.service,Non core,18.487394957983195,16.756756756756758,41,55
+openstack/oslo.serialization,openstack/blazar-dashboard,Core,6.097560975609756,7.751937984496124,10,21
+openstack/oslo.serialization,openstack/blazar-dashboard,Non core,6.097560975609756,8.527131782945736,10,21
+openstack/oslo.serialization,openstack/paunch,Core,3.6036036036036037,6.382978723404255,5,19
+openstack/oslo.serialization,openstack/paunch,Non core,0.9009009009009009,3.723404255319149,5,19
+openstack/oslo.serialization,openstack/service-types-authority,Core,4.705882352941177,10.95890410958904,4,18
+openstack/oslo.serialization,openstack/service-types-authority,Non core,0.0,1.36986301369863,4,18
+openstack/oslo.serialization,openstack/python-ironic-inspector-client,Core,5.714285714285714,5.0,11,21
+openstack/oslo.serialization,openstack/python-ironic-inspector-client,Non core,4.761904761904762,8.125,11,21
+openstack/oslo.serialization,openstack/openstack-ansible-memcached_server,Core,5.769230769230769,0.6896551724137931,11,13
+openstack/oslo.serialization,openstack/openstack-ansible-memcached_server,Non core,4.807692307692308,8.275862068965518,11,13
+openstack/oslo.serialization,openstack/os-testr,Core,11.458333333333332,9.032258064516128,21,27
+openstack/oslo.serialization,openstack/os-testr,Non core,10.416666666666668,8.38709677419355,21,27
+openstack/oslo.serialization,openstack/openstack-ansible-ceph_client,Core,5.555555555555555,1.89873417721519,12,12
+openstack/oslo.serialization,openstack/openstack-ansible-ceph_client,Non core,5.555555555555555,5.69620253164557,12,12
+openstack/oslo.serialization,openstack/openstack-ansible-os_magnum,Core,5.405405405405405,3.067484662576687,13,15
+openstack/oslo.serialization,openstack/openstack-ansible-os_magnum,Non core,6.306306306306306,6.134969325153374,13,15
+openstack/oslo.serialization,openstack/openstack-ansible-os_blazar,Core,3.3333333333333335,3.10077519379845,8,12
+openstack/oslo.serialization,openstack/openstack-ansible-os_blazar,Non core,5.555555555555555,6.2015503875969,8,12
+openstack/oslo.serialization,openstack/openstack-ansible-os_designate,Core,5.172413793103448,3.5502958579881656,13,16
+openstack/oslo.serialization,openstack/openstack-ansible-os_designate,Non core,6.0344827586206895,5.9171597633136095,13,16
+openstack/oslo.serialization,openstack/openstack-ansible-os_gnocchi,Core,5.263157894736842,3.2679738562091507,13,16
+openstack/oslo.serialization,openstack/openstack-ansible-os_gnocchi,Non core,6.140350877192982,7.18954248366013,13,16
+openstack/oslo.serialization,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/openstack-ansible-os_senlin,Non core,0.0,0.9259259259259258,0,1
+openstack/oslo.serialization,openstack/ptgbot,Core,5.063291139240507,5.982905982905983,4,9
+openstack/oslo.serialization,openstack/ptgbot,Non core,0.0,1.7094017094017095,4,9
+openstack/oslo.serialization,openstack/openstack-ansible-os_zun,Core,4.49438202247191,3.125,8,9
+openstack/oslo.serialization,openstack/openstack-ansible-os_zun,Non core,4.49438202247191,3.90625,8,9
+openstack/oslo.serialization,openstack/openstack-ansible-repo_server,Core,4.3478260869565215,2.4539877300613497,10,12
+openstack/oslo.serialization,openstack/openstack-ansible-repo_server,Non core,4.3478260869565215,4.9079754601226995,10,12
+openstack/oslo.serialization,openstack/python-watcherclient,Core,7.518796992481203,5.625,19,20
+openstack/oslo.serialization,openstack/python-watcherclient,Non core,6.7669172932330826,6.875000000000001,19,20
+openstack/oslo.serialization,openstack/heat-agents,Core,6.122448979591836,6.024096385542169,8,19
+openstack/oslo.serialization,openstack/heat-agents,Non core,2.0408163265306123,5.421686746987952,8,19
+openstack/oslo.serialization,openstack/oslo.rootwrap,Core,19.41747572815534,16.149068322981368,38,55
+openstack/oslo.serialization,openstack/oslo.rootwrap,Non core,17.475728155339805,18.012422360248447,38,55
+openstack/oslo.serialization,openstack/automaton,Core,12.5,12.037037037037036,20,34
+openstack/oslo.serialization,openstack/automaton,Non core,12.5,19.444444444444446,20,34
+openstack/oslo.serialization,openstack/debtcollector,Core,16.091954022988507,15.238095238095239,25,36
+openstack/oslo.serialization,openstack/debtcollector,Non core,12.643678160919542,19.047619047619047,25,36
+openstack/oslo.serialization,openstack/vitrage-dashboard,Core,5.833333333333333,4.545454545454546,15,13
+openstack/oslo.serialization,openstack/vitrage-dashboard,Non core,6.666666666666667,3.896103896103896,15,13
+openstack/oslo.serialization,openstack/oslotest,Core,23.333333333333332,18.248175182481752,39,50
+openstack/oslo.serialization,openstack/oslotest,Non core,20.0,18.248175182481752,39,50
+openstack/oslo.serialization,openstack/kayobe-config,Core,2.5974025974025974,0.9523809523809524,2,1
+openstack/oslo.serialization,openstack/kayobe-config,Non core,0.0,0.0,2,1
+openstack/oslo.serialization,openstack/compute-hyperv,Core,7.6923076923076925,4.761904761904762,11,13
+openstack/oslo.serialization,openstack/compute-hyperv,Non core,4.395604395604396,5.555555555555555,11,13
+openstack/oslo.serialization,openstack/python-cloudkittyclient,Core,8.035714285714286,5.47945205479452,18,23
+openstack/oslo.serialization,openstack/python-cloudkittyclient,Non core,8.035714285714286,10.273972602739725,18,23
+openstack/oslo.serialization,openstack/charm-interface-keystone,Core,3.896103896103896,0.9090909090909091,6,5
+openstack/oslo.serialization,openstack/charm-interface-keystone,Non core,3.896103896103896,3.6363636363636362,6,5
+openstack/oslo.serialization,openstack/cloudkitty-dashboard,Core,7.920792079207921,4.605263157894736,14,23
+openstack/oslo.serialization,openstack/cloudkitty-dashboard,Non core,5.9405940594059405,10.526315789473683,14,23
+openstack/oslo.serialization,openstack/networking-hyperv,Core,8.256880733944955,5.343511450381679,12,19
+openstack/oslo.serialization,openstack/networking-hyperv,Non core,2.7522935779816518,9.16030534351145,12,19
+openstack/oslo.serialization,openstack/i18n,Core,6.796116504854369,5.844155844155844,8,15
+openstack/oslo.serialization,openstack/i18n,Non core,0.9708737864077669,3.896103896103896,8,15
+openstack/oslo.serialization,openstack/sahara-tests,Core,6.0606060606060606,4.516129032258064,8,10
+openstack/oslo.serialization,openstack/sahara-tests,Non core,2.0202020202020203,1.935483870967742,8,10
+openstack/oslo.serialization,openstack/python-zunclient,Core,6.976744186046512,5.4945054945054945,23,20
+openstack/oslo.serialization,openstack/python-zunclient,Non core,10.852713178294573,5.4945054945054945,23,20
+openstack/oslo.serialization,openstack/sahara-plugin-cdh,Core,5.333333333333334,4.587155963302752,6,11
+openstack/oslo.serialization,openstack/sahara-plugin-cdh,Non core,2.666666666666667,5.5045871559633035,6,11
+openstack/oslo.serialization,openstack/monasca-ui,Core,10.15625,3.3653846153846154,17,21
+openstack/oslo.serialization,openstack/monasca-ui,Non core,3.125,6.730769230769231,17,21
+openstack/oslo.serialization,openstack/python-adjutantclient,Core,6.666666666666667,3.8095238095238098,5,6
+openstack/oslo.serialization,openstack/python-adjutantclient,Non core,0.0,1.9047619047619049,5,6
+openstack/oslo.serialization,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/ansible-role-lunasa-hsm,Core,1.4492753623188406,1.0,1,3
+openstack/oslo.serialization,openstack/ansible-role-lunasa-hsm,Non core,0.0,2.0,1,3
+openstack/oslo.serialization,openstack/monasca-thresh,Core,4.395604395604396,0.7246376811594203,5,6
+openstack/oslo.serialization,openstack/monasca-thresh,Non core,1.098901098901099,3.6231884057971016,5,6
+openstack/oslo.serialization,openstack/heat-specs,Core,6.153846153846154,4.961832061068702,9,20
+openstack/oslo.serialization,openstack/heat-specs,Non core,0.7692307692307693,2.6717557251908395,9,20
+openstack/oslo.serialization,openstack/watcher-dashboard,Core,7.766990291262135,4.761904761904762,15,18
+openstack/oslo.serialization,openstack/watcher-dashboard,Non core,6.796116504854369,7.482993197278912,15,18
+openstack/oslo.serialization,openstack/sahara-plugin-ambari,Core,5.405405405405405,2.8301886792452833,6,7
+openstack/oslo.serialization,openstack/sahara-plugin-ambari,Non core,2.7027027027027026,3.7735849056603774,6,7
+openstack/oslo.serialization,openstack/sahara-plugin-mapr,Core,5.47945205479452,3.669724770642202,6,9
+openstack/oslo.serialization,openstack/sahara-plugin-mapr,Non core,2.73972602739726,4.587155963302752,6,9
+openstack/oslo.serialization,openstack/sahara-plugin-spark,Core,5.555555555555555,2.941176470588235,6,6
+openstack/oslo.serialization,openstack/sahara-plugin-spark,Non core,2.7777777777777777,2.941176470588235,6,6
+openstack/oslo.serialization,openstack/sahara-plugin-storm,Core,5.555555555555555,2.912621359223301,6,6
+openstack/oslo.serialization,openstack/sahara-plugin-storm,Non core,2.7777777777777777,2.912621359223301,6,6
+openstack/oslo.serialization,openstack/sahara-plugin-vanilla,Core,5.555555555555555,2.857142857142857,6,6
+openstack/oslo.serialization,openstack/sahara-plugin-vanilla,Non core,2.7777777777777777,2.857142857142857,6,6
+openstack/oslo.serialization,openstack/sahara-specs,Core,6.25,1.8181818181818181,7,6
+openstack/oslo.serialization,openstack/sahara-specs,Non core,0.0,1.8181818181818181,7,6
+openstack/oslo.serialization,openstack/venus-tempest-plugin,Core,0.0,0.9708737864077669,0,1
+openstack/oslo.serialization,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/venus-specs,Core,1.4084507042253522,0.0,1,0
+openstack/oslo.serialization,openstack/venus-specs,Non core,0.0,0.0,1,0
+openstack/oslo.serialization,openstack/ceilometermiddleware,Core,10.638297872340425,6.622516556291391,14,21
+openstack/oslo.serialization,openstack/ceilometermiddleware,Non core,4.25531914893617,7.28476821192053,14,21
+openstack/oslo.serialization,openstack/trove-tempest-plugin,Core,3.896103896103896,3.3057851239669422,5,7
+openstack/oslo.serialization,openstack/trove-tempest-plugin,Non core,2.5974025974025974,2.479338842975207,5,7
+openstack/oslo.serialization,openstack/arch-design,Core,4.225352112676056,3.0,5,4
+openstack/oslo.serialization,openstack/arch-design,Non core,2.8169014084507045,1.0,5,4
+openstack/oslo.serialization,openstack/monasca-common,Core,7.751937984496124,2.631578947368421,14,16
+openstack/oslo.serialization,openstack/monasca-common,Non core,3.10077519379845,5.7894736842105265,14,16
+openstack/oslo.serialization,openstack/monasca-statsd,Core,10.75268817204301,3.6764705882352944,15,19
+openstack/oslo.serialization,openstack/monasca-statsd,Non core,5.376344086021505,10.294117647058822,15,19
+openstack/oslo.serialization,openstack/python-monascaclient,Core,10.687022900763358,5.291005291005291,26,27
+openstack/oslo.serialization,openstack/python-monascaclient,Non core,9.16030534351145,8.994708994708994,26,27
+openstack/oslo.serialization,openstack/renderspec,Core,11.688311688311687,5.217391304347826,15,11
+openstack/oslo.serialization,openstack/renderspec,Non core,7.792207792207792,4.3478260869565215,15,11
+openstack/oslo.serialization,openstack/os-service-types,Core,6.329113924050633,8.620689655172415,11,17
+openstack/oslo.serialization,openstack/os-service-types,Non core,7.59493670886076,6.0344827586206895,11,17
+openstack/oslo.serialization,openstack/masakari-dashboard,Core,5.813953488372093,5.303030303030303,9,14
+openstack/oslo.serialization,openstack/masakari-dashboard,Non core,4.651162790697675,5.303030303030303,9,14
+openstack/oslo.serialization,openstack/freezer-dr,Core,5.952380952380952,4.918032786885246,9,14
+openstack/oslo.serialization,openstack/freezer-dr,Non core,4.761904761904762,6.557377049180328,9,14
+openstack/oslo.serialization,openstack/tempest-stress,Core,5.063291139240507,4.672897196261682,9,8
+openstack/oslo.serialization,openstack/tempest-stress,Non core,6.329113924050633,2.803738317757009,9,8
+openstack/oslo.serialization,openstack/charm-neutron-api-genericswitch,Core,2.898550724637681,1.9801980198019802,3,2
+openstack/oslo.serialization,openstack/charm-neutron-api-genericswitch,Non core,1.4492753623188406,0.0,3,2
+openstack/oslo.serialization,openstack/charm-neutron-dynamic-routing,Core,3.79746835443038,1.8018018018018018,5,5
+openstack/oslo.serialization,openstack/charm-neutron-dynamic-routing,Non core,2.5316455696202533,2.7027027027027026,5,5
+openstack/oslo.serialization,openstack/charm-interface-ceph-client,Core,2.73972602739726,1.8867924528301887,3,3
+openstack/oslo.serialization,openstack/charm-interface-ceph-client,Non core,1.36986301369863,0.9433962264150944,3,3
+openstack/oslo.serialization,openstack/charm-percona-cluster,Core,3.0,1.4084507042253522,8,6
+openstack/oslo.serialization,openstack/charm-percona-cluster,Non core,5.0,2.8169014084507045,8,6
+openstack/oslo.serialization,openstack/charm-deployment-guide,Core,2.083333333333333,0.78125,4,3
+openstack/oslo.serialization,openstack/charm-deployment-guide,Non core,2.083333333333333,1.5625,4,3
+openstack/oslo.serialization,openstack/rbd-iscsi-client,Core,0.0,2.941176470588235,0,3
+openstack/oslo.serialization,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,3
+openstack/oslo.serialization,openstack/oslo.metrics,Core,2.7777777777777777,3.8461538461538463,4,9
+openstack/oslo.serialization,openstack/oslo.metrics,Non core,2.7777777777777777,4.807692307692308,4,9
+openstack/oslo.serialization,openstack/oslo.vmware,Core,16.071428571428573,13.829787234042554,36,53
+openstack/oslo.serialization,openstack/oslo.vmware,Non core,16.071428571428573,14.361702127659576,36,53
+openstack/oslo.serialization,openstack/oslo.upgradecheck,Core,11.11111111111111,10.377358490566039,14,20
+openstack/oslo.serialization,openstack/oslo.upgradecheck,Non core,8.333333333333332,8.49056603773585,14,20
+openstack/oslo.serialization,openstack/python-masakariclient,Core,8.421052631578947,5.263157894736842,15,17
+openstack/oslo.serialization,openstack/python-masakariclient,Non core,7.368421052631578,7.518796992481203,15,17
+openstack/oslo.serialization,openstack/python-vitrageclient,Core,5.714285714285714,1.550387596899225,17,8
+openstack/oslo.serialization,openstack/python-vitrageclient,Non core,10.476190476190476,4.651162790697675,17,8
+openstack/oslo.serialization,openstack/python-blazarclient,Core,9.523809523809524,11.03448275862069,16,30
+openstack/oslo.serialization,openstack/python-blazarclient,Non core,5.714285714285714,9.655172413793103,16,30
+openstack/oslo.serialization,openstack/zaqar-tempest-plugin,Core,5.194805194805195,3.389830508474576,4,5
+openstack/oslo.serialization,openstack/zaqar-tempest-plugin,Non core,0.0,0.847457627118644,4,5
+openstack/oslo.serialization,openstack/tripleo-common-tempest-plugin,Core,3.8461538461538463,2.479338842975207,7,10
+openstack/oslo.serialization,openstack/tripleo-common-tempest-plugin,Non core,5.128205128205128,5.785123966942149,7,10
+openstack/oslo.serialization,openstack/mistral-tempest-plugin,Core,3.488372093023256,2.4390243902439024,6,10
+openstack/oslo.serialization,openstack/mistral-tempest-plugin,Non core,3.488372093023256,5.691056910569105,6,10
+openstack/oslo.serialization,openstack/barbican-ui,Core,1.4705882352941175,1.8691588785046727,1,3
+openstack/oslo.serialization,openstack/barbican-ui,Non core,0.0,0.9345794392523363,1,3
+openstack/oslo.serialization,openstack/liberasurecode,Core,1.282051282051282,0.8695652173913043,2,3
+openstack/oslo.serialization,openstack/liberasurecode,Non core,1.282051282051282,1.7391304347826086,2,3
+openstack/oslo.serialization,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/os-client-config,Core,12.0,9.6045197740113,22,27
+openstack/oslo.serialization,openstack/os-client-config,Non core,5.6000000000000005,5.649717514124294,22,27
+openstack/oslo.serialization,openstack/monasca-specs,Core,2.564102564102564,0.8,2,3
+openstack/oslo.serialization,openstack/monasca-specs,Non core,0.0,1.6,2,3
+openstack/oslo.serialization,openstack/os-performance-tools,Core,6.329113924050633,4.464285714285714,8,7
+openstack/oslo.serialization,openstack/os-performance-tools,Non core,3.79746835443038,1.7857142857142856,8,7
+openstack/oslo.serialization,openstack/trove-specs,Core,5.88235294117647,2.9069767441860463,6,10
+openstack/oslo.serialization,openstack/trove-specs,Non core,0.0,2.9069767441860463,6,10
+openstack/oslo.serialization,openstack/manila-image-elements,Core,6.896551724137931,1.4925373134328357,8,10
+openstack/oslo.serialization,openstack/manila-image-elements,Non core,2.2988505747126435,5.970149253731343,8,10
+openstack/oslo.serialization,openstack/blazar-specs,Core,4.054054054054054,4.385964912280701,3,5
+openstack/oslo.serialization,openstack/blazar-specs,Non core,0.0,0.0,3,5
+openstack/oslo.serialization,openstack/molteniron,Core,6.756756756756757,4.273504273504273,6,7
+openstack/oslo.serialization,openstack/molteniron,Non core,1.3513513513513513,1.7094017094017095,6,7
+openstack/oslo.serialization,openstack/solum-specs,Core,7.6923076923076925,0.847457627118644,6,3
+openstack/oslo.serialization,openstack/solum-specs,Non core,0.0,1.694915254237288,6,3
+openstack/oslo.serialization,openstack/patrole,Core,4.054054054054054,4.639175257731959,10,16
+openstack/oslo.serialization,openstack/patrole,Non core,2.7027027027027026,3.608247422680412,10,16
+openstack/oslo.serialization,openstack/performance-docs,Core,1.9417475728155338,2.054794520547945,5,10
+openstack/oslo.serialization,openstack/performance-docs,Non core,2.912621359223301,4.794520547945205,5,10
+openstack/oslo.serialization,openstack/sphinx-feature-classification,Core,9.090909090909092,11.818181818181818,11,23
+openstack/oslo.serialization,openstack/sphinx-feature-classification,Non core,5.194805194805195,9.090909090909092,11,23
+openstack/oslo.serialization,openstack/etcd3gw,Core,1.3333333333333335,5.825242718446602,1,6
+openstack/oslo.serialization,openstack/etcd3gw,Non core,0.0,0.0,1,6
+openstack/oslo.serialization,openstack/watcher-specs,Core,3.7037037037037033,2.976190476190476,8,13
+openstack/oslo.serialization,openstack/watcher-specs,Non core,3.7037037037037033,4.761904761904762,8,13
+openstack/oslo.serialization,openstack/yaql,Core,10.989010989010989,3.571428571428571,13,14
+openstack/oslo.serialization,openstack/yaql,Non core,3.296703296703297,6.428571428571428,13,14
+openstack/oslo.serialization,openstack/puppet-openstack-guide,Core,5.681818181818182,2.3255813953488373,7,9
+openstack/oslo.serialization,openstack/puppet-openstack-guide,Non core,2.272727272727273,4.651162790697675,7,9
+openstack/oslo.serialization,openstack/puppet-panko,Core,4.081632653061225,3.3057851239669422,9,10
+openstack/oslo.serialization,openstack/puppet-panko,Non core,5.1020408163265305,4.958677685950414,9,10
+openstack/oslo.serialization,openstack/heat-cfnclient,Core,7.317073170731707,5.88235294117647,8,12
+openstack/oslo.serialization,openstack/heat-cfnclient,Non core,2.4390243902439024,4.201680672268908,8,12
+openstack/oslo.serialization,openstack/heat-cfntools,Core,8.737864077669903,3.9215686274509802,14,14
+openstack/oslo.serialization,openstack/heat-cfntools,Non core,4.854368932038835,5.228758169934641,14,14
+openstack/oslo.serialization,openstack/heat-templates,Core,4.294478527607362,3.076923076923077,10,17
+openstack/oslo.serialization,openstack/heat-templates,Non core,1.8404907975460123,3.4615384615384617,10,17
+openstack/oslo.serialization,openstack/governance-sigs,Core,10.0,8.522727272727272,12,24
+openstack/oslo.serialization,openstack/governance-sigs,Non core,3.3333333333333335,5.113636363636364,12,24
+openstack/oslo.serialization,openstack/openstack-zuul-roles,Core,2.857142857142857,2.857142857142857,2,4
+openstack/oslo.serialization,openstack/openstack-zuul-roles,Non core,0.0,0.9523809523809524,2,4
+openstack/oslo.serialization,openstack/nova-powervm,Core,6.0344827586206895,4.41988950276243,9,16
+openstack/oslo.serialization,openstack/nova-powervm,Non core,1.7241379310344827,4.41988950276243,9,16
+openstack/oslo.serialization,openstack/openstack-helm-addons,Core,0.0,0.9852216748768473,3,8
+openstack/oslo.serialization,openstack/openstack-helm-addons,Non core,2.941176470588235,2.955665024630542,3,8
+openstack/oslo.serialization,openstack/python-pankoclient,Core,8.641975308641975,6.6115702479338845,12,17
+openstack/oslo.serialization,openstack/python-pankoclient,Non core,6.172839506172839,7.43801652892562,12,17
+openstack/oslo.serialization,openstack/qa-specs,Core,5.5045871559633035,5.208333333333334,7,17
+openstack/oslo.serialization,openstack/qa-specs,Non core,0.9174311926605505,3.6458333333333335,7,17
+openstack/oslo.serialization,openstack/zaqar-specs,Core,8.51063829787234,4.0,10,13
+openstack/oslo.serialization,openstack/zaqar-specs,Non core,2.127659574468085,4.666666666666667,10,13
+openstack/oslo.serialization,openstack/swift-bench,Core,1.2195121951219512,2.380952380952381,4,9
+openstack/oslo.serialization,openstack/swift-bench,Non core,3.6585365853658534,4.761904761904762,4,9
+openstack/oslo.serialization,openstack/whereto,Core,6.8493150684931505,7.6190476190476195,12,15
+openstack/oslo.serialization,openstack/whereto,Non core,9.58904109589041,6.666666666666667,12,15
+openstack/oslo.serialization,openstack/murano-specs,Core,4.807692307692308,1.2903225806451613,6,5
+openstack/oslo.serialization,openstack/murano-specs,Non core,0.9615384615384616,1.935483870967742,6,5
+openstack/oslo.serialization,openstack/ansible-role-tripleo-modify-image,Core,3.225806451612903,3.3112582781456954,4,10
+openstack/oslo.serialization,openstack/ansible-role-tripleo-modify-image,Non core,1.0752688172043012,3.3112582781456954,4,10
+openstack/oslo.serialization,openstack/requestsexceptions,Core,5.714285714285714,5.660377358490567,5,9
+openstack/oslo.serialization,openstack/requestsexceptions,Non core,1.4285714285714286,2.8301886792452833,5,9
+openstack/oslo.serialization,openstack/panko,Core,8.064516129032258,4.444444444444445,16,20
+openstack/oslo.serialization,openstack/panko,Non core,4.838709677419355,6.666666666666667,16,20
+openstack/oslo.serialization,openstack/api-sig,Core,7.339449541284404,5.660377358490567,10,28
+openstack/oslo.serialization,openstack/api-sig,Non core,1.834862385321101,4.905660377358491,10,28
+openstack/oslo.serialization,openstack/openstack-chef-specs,Core,4.651162790697675,3.1746031746031744,5,7
+openstack/oslo.serialization,openstack/openstack-chef-specs,Non core,1.1627906976744187,2.380952380952381,5,7
+openstack/oslo.serialization,openstack/freezer-specs,Core,7.4074074074074066,2.5210084033613445,8,6
+openstack/oslo.serialization,openstack/freezer-specs,Non core,2.4691358024691357,2.5210084033613445,8,6
+openstack/oslo.serialization,openstack/oslo.tools,Core,10.465116279069768,12.5,14,23
+openstack/oslo.serialization,openstack/oslo.tools,Non core,5.813953488372093,9.615384615384617,14,23
+openstack/oslo.serialization,openstack/microversion-parse,Core,2.73972602739726,6.730769230769231,4,9
+openstack/oslo.serialization,openstack/microversion-parse,Non core,2.73972602739726,1.9230769230769231,4,9
+openstack/oslo.serialization,openstack/openstackclient,Core,9.876543209876543,6.666666666666667,11,13
+openstack/oslo.serialization,openstack/openstackclient,Non core,3.7037037037037033,4.166666666666666,11,13
+openstack/oslo.serialization,openstack/ossa,Core,4.761904761904762,9.929078014184398,5,18
+openstack/oslo.serialization,openstack/ossa,Non core,1.1904761904761905,2.8368794326241136,5,18
+openstack/oslo.serialization,openstack/reviewstats,Core,9.230769230769232,14.054054054054054,15,34
+openstack/oslo.serialization,openstack/reviewstats,Non core,2.307692307692308,4.324324324324325,15,34
+openstack/oslo.serialization,openstack/oslo-cookiecutter,Core,11.538461538461538,13.761467889908257,12,21
+openstack/oslo.serialization,openstack/oslo-cookiecutter,Non core,3.8461538461538463,5.5045871559633035,12,21
+openstack/oslo.serialization,openstack/openstack-helm-deployments,Core,0.0,0.8264462809917356,0,1
+openstack/oslo.serialization,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/security-analysis,Core,4.10958904109589,5.217391304347826,3,7
+openstack/oslo.serialization,openstack/security-analysis,Non core,0.0,0.8695652173913043,3,7
+openstack/oslo.serialization,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/ansible-role-tripleo-keystone,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-keystone,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/openstack-ansible-apt_package_pinning,Core,6.451612903225806,1.5037593984962405,11,8
+openstack/oslo.serialization,openstack/openstack-ansible-apt_package_pinning,Non core,5.376344086021505,4.511278195488721,11,8
+openstack/oslo.serialization,openstack/ansible-role-qdrouterd,Core,2.5974025974025974,2.4193548387096775,3,4
+openstack/oslo.serialization,openstack/ansible-role-qdrouterd,Non core,1.2987012987012987,0.8064516129032258,3,4
+openstack/oslo.serialization,openstack/openstack-ansible-openstack_openrc,Core,4.807692307692308,2.127659574468085,11,9
+openstack/oslo.serialization,openstack/openstack-ansible-openstack_openrc,Non core,5.769230769230769,4.25531914893617,11,9
+openstack/oslo.serialization,openstack/openstack-ansible-nspawn_container_create,Core,3.571428571428571,4.166666666666666,5,10
+openstack/oslo.serialization,openstack/openstack-ansible-nspawn_container_create,Non core,2.380952380952381,4.166666666666666,5,10
+openstack/oslo.serialization,openstack/devstack-tools,Core,6.41025641025641,3.7037037037037033,7,7
+openstack/oslo.serialization,openstack/devstack-tools,Non core,2.564102564102564,2.7777777777777777,7,7
+openstack/oslo.serialization,openstack/coverage2sql,Core,7.142857142857142,6.5420560747663545,8,11
+openstack/oslo.serialization,openstack/coverage2sql,Non core,2.380952380952381,3.7383177570093453,8,11
+openstack/oslo.serialization,openstack/bashate,Core,10.891089108910892,10.294117647058822,16,17
+openstack/oslo.serialization,openstack/bashate,Non core,4.9504950495049505,2.2058823529411766,16,17
+openstack/oslo.serialization,openstack/hacking,Core,14.173228346456693,16.585365853658537,28,49
+openstack/oslo.serialization,openstack/hacking,Non core,7.874015748031496,7.317073170731707,28,49
+openstack/oslo.serialization,openstack/xstatic-mdi,Core,4.225352112676056,0.9433962264150944,3,4
+openstack/oslo.serialization,openstack/xstatic-mdi,Non core,0.0,2.8301886792452833,3,4
+openstack/oslo.serialization,openstack/xstatic-roboto-fontface,Core,4.285714285714286,0.9345794392523363,3,4
+openstack/oslo.serialization,openstack/xstatic-roboto-fontface,Non core,0.0,2.803738317757009,3,4
+openstack/oslo.serialization,openstack/openstack-chef,Core,2.247191011235955,1.7699115044247788,4,4
+openstack/oslo.serialization,openstack/openstack-chef,Non core,2.247191011235955,1.7699115044247788,4,4
+openstack/oslo.serialization,openstack/cookbook-openstackclient,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/cookbook-openstackclient,Non core,1.3513513513513513,1.8691588785046727,1,2
+openstack/oslo.serialization,openstack/xstatic-angular,Core,2.5974025974025974,1.7543859649122806,2,5
+openstack/oslo.serialization,openstack/xstatic-angular,Non core,0.0,2.631578947368421,2,5
+openstack/oslo.serialization,openstack/charm-interface-hacluster,Core,2.4691358024691357,0.9090909090909091,5,4
+openstack/oslo.serialization,openstack/charm-interface-hacluster,Non core,3.7037037037037033,2.727272727272727,5,4
+openstack/oslo.serialization,openstack/puppet-openstack-specs,Core,7.142857142857142,2.0408163265306123,9,7
+openstack/oslo.serialization,openstack/puppet-openstack-specs,Non core,3.571428571428571,2.7210884353741496,9,7
+openstack/oslo.serialization,openstack/puppet-monasca,Core,3.225806451612903,1.7751479289940828,6,9
+openstack/oslo.serialization,openstack/puppet-monasca,Non core,3.225806451612903,3.5502958579881656,6,9
+openstack/oslo.serialization,openstack/eslint-config-openstack,Core,5.063291139240507,3.64963503649635,5,8
+openstack/oslo.serialization,openstack/eslint-config-openstack,Non core,1.2658227848101267,2.18978102189781,5,8
+openstack/oslo.serialization,openstack/karma-subunit-reporter,Core,5.88235294117647,2.0,4,4
+openstack/oslo.serialization,openstack/karma-subunit-reporter,Non core,0.0,2.0,4,4
+openstack/oslo.serialization,openstack/openstack-helm-docs,Core,1.36986301369863,4.385964912280701,2,9
+openstack/oslo.serialization,openstack/openstack-helm-docs,Non core,1.36986301369863,3.508771929824561,2,9
+openstack/oslo.serialization,openstack/openstack-ansible-specs,Core,4.424778761061947,3.015075376884422,10,10
+openstack/oslo.serialization,openstack/openstack-ansible-specs,Non core,4.424778761061947,2.0100502512562812,10,10
+openstack/oslo.serialization,openstack/tempest-lib,Core,6.730769230769231,3.977272727272727,7,13
+openstack/oslo.serialization,openstack/tempest-lib,Non core,0.0,3.4090909090909087,7,13
+openstack/oslo.serialization,openstack/tripleo-ha-utils,Core,1.3513513513513513,0.0,2,3
+openstack/oslo.serialization,openstack/tripleo-ha-utils,Non core,1.3513513513513513,2.5,2,3
+openstack/oslo.serialization,openstack/devstack-vagrant,Core,3.79746835443038,2.586206896551724,3,6
+openstack/oslo.serialization,openstack/devstack-vagrant,Non core,0.0,2.586206896551724,3,6
+openstack/oslo.serialization,openstack/goal-tools,Core,4.166666666666666,6.730769230769231,3,11
+openstack/oslo.serialization,openstack/goal-tools,Non core,0.0,3.8461538461538463,3,11
+openstack/oslo.serialization,openstack/cookiecutter,Core,13.684210526315791,16.911764705882355,16,31
+openstack/oslo.serialization,openstack/cookiecutter,Non core,3.1578947368421053,5.88235294117647,16,31
+openstack/oslo.serialization,openstack/dib-utils,Core,5.128205128205128,5.6000000000000005,5,11
+openstack/oslo.serialization,openstack/dib-utils,Non core,1.282051282051282,3.2,5,11
+openstack/oslo.serialization,openstack/constellations,Core,2.857142857142857,6.796116504854369,3,10
+openstack/oslo.serialization,openstack/constellations,Non core,1.4285714285714286,2.912621359223301,3,10
+openstack/oslo.serialization,openstack/cookbook-openstack-integration-test,Core,2.4096385542168677,1.6129032258064515,3,7
+openstack/oslo.serialization,openstack/cookbook-openstack-integration-test,Non core,1.2048192771084338,4.032258064516129,3,7
+openstack/oslo.serialization,openstack/cookbook-openstack-dashboard,Core,2.7522935779816518,1.257861635220126,4,8
+openstack/oslo.serialization,openstack/cookbook-openstack-dashboard,Non core,0.9174311926605505,3.7735849056603774,4,8
+openstack/oslo.serialization,openstack/cookbook-openstack-telemetry,Core,2.7522935779816518,1.4084507042253522,5,6
+openstack/oslo.serialization,openstack/cookbook-openstack-telemetry,Non core,1.834862385321101,2.8169014084507045,5,6
+openstack/oslo.serialization,openstack/cookbook-openstack-orchestration,Core,3.0,2.054794520547945,4,7
+openstack/oslo.serialization,openstack/cookbook-openstack-orchestration,Non core,1.0,2.73972602739726,4,7
+openstack/oslo.serialization,openstack/cookbook-openstack-bare-metal,Core,2.666666666666667,2.6785714285714284,3,7
+openstack/oslo.serialization,openstack/cookbook-openstack-bare-metal,Non core,1.3333333333333335,3.571428571428571,3,7
+openstack/oslo.serialization,openstack/cookbook-openstack-dns,Core,0.0,0.9615384615384616,1,5
+openstack/oslo.serialization,openstack/cookbook-openstack-dns,Non core,1.3888888888888888,3.8461538461538463,1,5
+openstack/oslo.serialization,openstack/cookbook-openstack-compute,Core,2.3255813953488373,2.197802197802198,4,9
+openstack/oslo.serialization,openstack/cookbook-openstack-compute,Non core,0.7751937984496124,2.7472527472527473,4,9
+openstack/oslo.serialization,openstack/cookbook-openstack-network,Core,2.2900763358778624,1.6853932584269662,4,8
+openstack/oslo.serialization,openstack/cookbook-openstack-network,Non core,0.7633587786259541,2.8089887640449436,4,8
+openstack/oslo.serialization,openstack/cookbook-openstack-block-storage,Core,3.2520325203252036,1.2422360248447204,6,6
+openstack/oslo.serialization,openstack/cookbook-openstack-block-storage,Non core,1.6260162601626018,2.484472049689441,6,6
+openstack/oslo.serialization,openstack/cookbook-openstack-image,Core,2.586206896551724,1.8867924528301887,4,7
+openstack/oslo.serialization,openstack/cookbook-openstack-image,Non core,0.8620689655172413,2.515723270440252,4,7
+openstack/oslo.serialization,openstack/cookbook-openstack-identity,Core,3.4482758620689653,1.2121212121212122,6,7
+openstack/oslo.serialization,openstack/cookbook-openstack-identity,Non core,1.7241379310344827,3.0303030303030303,6,7
+openstack/oslo.serialization,openstack/cookbook-openstack-ops-database,Core,3.0303030303030303,0.7142857142857143,4,6
+openstack/oslo.serialization,openstack/cookbook-openstack-ops-database,Non core,1.0101010101010102,3.571428571428571,4,6
+openstack/oslo.serialization,openstack/cookbook-openstack-ops-messaging,Core,3.260869565217391,0.7462686567164178,4,5
+openstack/oslo.serialization,openstack/cookbook-openstack-ops-messaging,Non core,1.0869565217391304,2.9850746268656714,4,5
+openstack/oslo.serialization,openstack/cookbook-openstack-common,Core,2.4,0.5524861878453038,5,8
+openstack/oslo.serialization,openstack/cookbook-openstack-common,Non core,1.6,3.867403314917127,5,8
+openstack/oslo.serialization,openstack/self-healing-sig,Core,4.0,1.6528925619834711,3,2
+openstack/oslo.serialization,openstack/self-healing-sig,Non core,0.0,0.0,3,2
+openstack/oslo.serialization,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,1,0
+openstack/oslo.serialization,openstack/charm-ops-interface-tls-certificates,Non core,1.4285714285714286,0.0,1,0
+openstack/oslo.serialization,openstack/security-specs,Core,5.128205128205128,5.0,5,8
+openstack/oslo.serialization,openstack/security-specs,Non core,1.282051282051282,1.6666666666666667,5,8
+openstack/oslo.serialization,openstack/openstack-ansible-os_panko,Core,3.571428571428571,4.838709677419355,8,13
+openstack/oslo.serialization,openstack/openstack-ansible-os_panko,Non core,5.952380952380952,5.64516129032258,8,13
+openstack/oslo.serialization,openstack/openstack-ansible-nspawn_hosts,Core,3.614457831325301,2.459016393442623,7,10
+openstack/oslo.serialization,openstack/openstack-ansible-nspawn_hosts,Non core,4.819277108433735,5.737704918032787,7,10
+openstack/oslo.serialization,openstack/charm-layer-openstack-principle,Core,2.857142857142857,0.0,3,0
+openstack/oslo.serialization,openstack/charm-layer-openstack-principle,Non core,1.4285714285714286,0.0,3,0
+openstack/oslo.serialization,openstack/charm-watcher-dashboard,Core,2.898550724637681,0.9345794392523363,2,1
+openstack/oslo.serialization,openstack/charm-watcher-dashboard,Non core,0.0,0.0,2,1
+openstack/oslo.serialization,openstack/charm-watcher,Core,2.8169014084507045,0.8695652173913043,2,2
+openstack/oslo.serialization,openstack/charm-watcher,Non core,0.0,0.8695652173913043,2,2
+openstack/oslo.serialization,openstack/openstack-ansible-galera_client,Core,6.481481481481481,2.8169014084507045,14,13
+openstack/oslo.serialization,openstack/openstack-ansible-galera_client,Non core,6.481481481481481,6.338028169014084,14,13
+openstack/oslo.serialization,openstack/cloudkitty-specs,Core,3.75,1.6260162601626018,4,4
+openstack/oslo.serialization,openstack/cloudkitty-specs,Non core,1.25,1.6260162601626018,4,4
+openstack/oslo.serialization,openstack/osops,Core,2.8169014084507045,2.912621359223301,2,4
+openstack/oslo.serialization,openstack/osops,Non core,0.0,0.9708737864077669,2,4
+openstack/oslo.serialization,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/charm-ironic,Core,2.857142857142857,1.0,3,1
+openstack/oslo.serialization,openstack/charm-ironic,Non core,1.4285714285714286,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/multi-arch-sig,Core,2.941176470588235,1.9417475728155338,2,2
+openstack/oslo.serialization,openstack/multi-arch-sig,Non core,0.0,0.0,2,2
+openstack/oslo.serialization,openstack/charm-nova-compute-proxy,Core,1.3513513513513513,0.0,5,2
+openstack/oslo.serialization,openstack/charm-nova-compute-proxy,Non core,5.405405405405405,1.8518518518518516,5,2
+openstack/oslo.serialization,openstack/charm-odl-controller,Core,1.2987012987012987,0.0,3,2
+openstack/oslo.serialization,openstack/charm-odl-controller,Non core,2.5974025974025974,1.8867924528301887,3,2
+openstack/oslo.serialization,openstack/charm-nova-lxd,Core,2.4691358024691357,0.847457627118644,7,4
+openstack/oslo.serialization,openstack/charm-nova-lxd,Non core,6.172839506172839,2.5423728813559325,7,4
+openstack/oslo.serialization,openstack/charm-interface-nova-cell,Core,0.0,1.0101010101010102,0,1
+openstack/oslo.serialization,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/charm-interface-magpie,Core,0.0,0.0,1,0
+openstack/oslo.serialization,openstack/charm-interface-magpie,Non core,1.4705882352941175,0.0,1,0
+openstack/oslo.serialization,openstack/xstatic-lodash,Core,0.0,1.0101010101010102,0,1
+openstack/oslo.serialization,openstack/xstatic-lodash,Non core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/xstatic-moment,Core,0.0,1.0101010101010102,0,1
+openstack/oslo.serialization,openstack/xstatic-moment,Non core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/charm-interface-barbican-secrets,Core,1.3888888888888888,0.9803921568627451,2,3
+openstack/oslo.serialization,openstack/charm-interface-barbican-secrets,Non core,1.3888888888888888,1.9607843137254901,2,3
+openstack/oslo.serialization,openstack/charm-interface-mysql-innodb-cluster,Core,1.4705882352941175,0.0,1,0
+openstack/oslo.serialization,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/oslo.serialization,openstack/charm-interface-ceph-rbd-mirror,Core,1.4084507042253522,0.9708737864077669,2,3
+openstack/oslo.serialization,openstack/charm-interface-ceph-rbd-mirror,Non core,1.4084507042253522,1.9417475728155338,2,3
+openstack/oslo.serialization,openstack/charm-interface-placement,Core,1.4705882352941175,0.0,2,0
+openstack/oslo.serialization,openstack/charm-interface-placement,Non core,1.4705882352941175,0.0,2,0
+openstack/oslo.serialization,openstack/charm-interface-mysql-shared,Core,4.166666666666666,0.0,4,1
+openstack/oslo.serialization,openstack/charm-interface-mysql-shared,Non core,1.3888888888888888,0.9523809523809524,4,1
+openstack/oslo.serialization,openstack/charm-interface-dashboard-plugin,Core,1.3888888888888888,0.9803921568627451,2,3
+openstack/oslo.serialization,openstack/charm-interface-dashboard-plugin,Non core,1.3888888888888888,1.9607843137254901,2,3
+openstack/oslo.serialization,openstack/charm-interface-neutron-load-balancer,Core,1.3888888888888888,0.9803921568627451,2,3
+openstack/oslo.serialization,openstack/charm-interface-neutron-load-balancer,Non core,1.3888888888888888,1.9607843137254901,2,3
+openstack/oslo.serialization,openstack/charm-interface-neutron-plugin-api-subordinate,Core,4.10958904109589,1.9047619047619049,4,2
+openstack/oslo.serialization,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,1.36986301369863,0.0,4,2
+openstack/oslo.serialization,openstack/charm-interface-neutron-plugin,Core,4.225352112676056,0.9708737864077669,3,2
+openstack/oslo.serialization,openstack/charm-interface-neutron-plugin,Non core,0.0,0.9708737864077669,3,2
+openstack/oslo.serialization,openstack/xstatic-json2yaml,Core,1.4705882352941175,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/xstatic-jquery.tablesorter,Core,4.477611940298507,2.0,3,3
+openstack/oslo.serialization,openstack/xstatic-jquery.tablesorter,Non core,0.0,1.0,3,3
+openstack/oslo.serialization,openstack/xstatic-magic-search,Core,2.73972602739726,0.9174311926605505,2,4
+openstack/oslo.serialization,openstack/xstatic-magic-search,Non core,0.0,2.7522935779816518,2,4
+openstack/oslo.serialization,openstack/xstatic-jsencrypt,Core,2.8169014084507045,0.9259259259259258,2,5
+openstack/oslo.serialization,openstack/xstatic-jsencrypt,Non core,0.0,3.7037037037037033,2,5
+openstack/oslo.serialization,openstack/xstatic-js-yaml,Core,1.4492753623188406,1.0,1,1
+openstack/oslo.serialization,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/xstatic-spin,Core,4.477611940298507,2.0,3,3
+openstack/oslo.serialization,openstack/xstatic-spin,Non core,0.0,1.0,3,3
+openstack/oslo.serialization,openstack/xstatic-rickshaw,Core,4.225352112676056,0.9433962264150944,3,4
+openstack/oslo.serialization,openstack/xstatic-rickshaw,Non core,0.0,2.8301886792452833,3,4
+openstack/oslo.serialization,openstack/charm-panko,Core,1.4285714285714286,1.8867924528301887,3,4
+openstack/oslo.serialization,openstack/charm-panko,Non core,2.857142857142857,1.8867924528301887,3,4
+openstack/oslo.serialization,openstack/charm-interface-service-control,Core,1.36986301369863,0.9708737864077669,2,4
+openstack/oslo.serialization,openstack/charm-interface-service-control,Non core,1.36986301369863,2.912621359223301,2,4
+openstack/oslo.serialization,openstack/openstack-ansible-os_almanach,Core,3.5294117647058822,1.6129032258064515,8,7
+openstack/oslo.serialization,openstack/openstack-ansible-os_almanach,Non core,5.88235294117647,4.032258064516129,8,7
+openstack/oslo.serialization,openstack/openstack-ansible-pip_install,Core,4.716981132075472,2.564102564102564,10,13
+openstack/oslo.serialization,openstack/openstack-ansible-pip_install,Non core,4.716981132075472,5.769230769230769,10,13
+openstack/oslo.serialization,openstack/python-karborclient,Core,8.653846153846153,6.164383561643835,16,16
+openstack/oslo.serialization,openstack/python-karborclient,Non core,6.730769230769231,4.794520547945205,16,16
+openstack/oslo.serialization,openstack/charm-interface-keystone-admin,Core,4.3478260869565215,0.0,3,2
+openstack/oslo.serialization,openstack/charm-interface-keystone-admin,Non core,0.0,1.9801980198019802,3,2
+openstack/oslo.serialization,openstack/charm-interface-nova-compute,Core,2.73972602739726,0.9708737864077669,3,6
+openstack/oslo.serialization,openstack/charm-interface-nova-compute,Non core,1.36986301369863,4.854368932038835,3,6
+openstack/oslo.serialization,openstack/charm-interface-manila-plugin,Core,2.8169014084507045,0.9708737864077669,2,2
+openstack/oslo.serialization,openstack/charm-interface-manila-plugin,Non core,0.0,0.9708737864077669,2,2
+openstack/oslo.serialization,openstack/murano-apps,Core,4.3478260869565215,1.8292682926829267,5,5
+openstack/oslo.serialization,openstack/murano-apps,Non core,0.0,1.2195121951219512,5,5
+openstack/oslo.serialization,openstack/puppet-senlin,Core,3.9473684210526314,1.8018018018018018,7,5
+openstack/oslo.serialization,openstack/puppet-senlin,Non core,5.263157894736842,2.7027027027027026,7,5
+openstack/oslo.serialization,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,2,3
+openstack/oslo.serialization,openstack/cookbook-openstack-application-catalog,Non core,2.8169014084507045,2.912621359223301,2,3
+openstack/oslo.serialization,openstack/training-labs,Core,7.6923076923076925,4.6875,14,15
+openstack/oslo.serialization,openstack/training-labs,Non core,7.6923076923076925,7.03125,14,15
+openstack/oslo.serialization,openstack/karbor,Core,5.421686746987952,3.79746835443038,15,25
+openstack/oslo.serialization,openstack/karbor,Non core,3.614457831325301,6.751054852320674,15,25
+openstack/oslo.serialization,openstack/devstack-plugin-open-cas,Core,2.941176470588235,2.857142857142857,2,3
+openstack/oslo.serialization,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,2,3
+openstack/oslo.serialization,openstack/openstack-ansible-os_congress,Core,3.488372093023256,3.076923076923077,7,12
+openstack/oslo.serialization,openstack/openstack-ansible-os_congress,Non core,4.651162790697675,6.153846153846154,7,12
+openstack/oslo.serialization,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,1,0
+openstack/oslo.serialization,openstack/charm-ops-interface-ceph-client,Non core,1.4705882352941175,0.0,1,0
+openstack/oslo.serialization,openstack/charm-interface-keystone-notifications,Core,0.0,1.0101010101010102,0,1
+openstack/oslo.serialization,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/os-collect-config,Core,9.615384615384617,6.077348066298343,17,21
+openstack/oslo.serialization,openstack/os-collect-config,Non core,6.730769230769231,5.524861878453039,17,21
+openstack/oslo.serialization,openstack/os-apply-config,Core,11.881188118811881,7.100591715976331,19,25
+openstack/oslo.serialization,openstack/os-apply-config,Non core,6.9306930693069315,7.6923076923076925,19,25
+openstack/oslo.serialization,openstack/puppet-freezer,Core,3.571428571428571,2.586206896551724,8,9
+openstack/oslo.serialization,openstack/puppet-freezer,Non core,5.952380952380952,5.172413793103448,8,9
+openstack/oslo.serialization,openstack/vitrage-specs,Core,4.166666666666666,0.7142857142857143,9,9
+openstack/oslo.serialization,openstack/vitrage-specs,Non core,5.208333333333334,5.714285714285714,9,9
+openstack/oslo.serialization,openstack/specs-cookiecutter,Core,7.042253521126761,7.766990291262135,5,10
+openstack/oslo.serialization,openstack/specs-cookiecutter,Non core,0.0,1.9417475728155338,5,10
+openstack/oslo.serialization,openstack/rpm-packaging-tools,Core,8.333333333333332,4.385964912280701,7,10
+openstack/oslo.serialization,openstack/rpm-packaging-tools,Non core,1.3888888888888888,4.385964912280701,7,10
+openstack/oslo.serialization,openstack/ansible-role-openstack-operations,Core,3.8461538461538463,0.8695652173913043,5,1
+openstack/oslo.serialization,openstack/ansible-role-openstack-operations,Non core,2.564102564102564,0.0,5,1
+openstack/oslo.serialization,openstack/os-refresh-config,Core,13.636363636363635,6.622516556291391,18,22
+openstack/oslo.serialization,openstack/os-refresh-config,Non core,6.8181818181818175,7.9470198675496695,18,22
+openstack/oslo.serialization,openstack/mistral-specs,Core,5.555555555555555,1.5267175572519083,6,6
+openstack/oslo.serialization,openstack/mistral-specs,Non core,1.1111111111111112,3.0534351145038165,6,6
+openstack/oslo.serialization,openstack/scientific-wg,Core,2.898550724637681,1.9801980198019802,2,3
+openstack/oslo.serialization,openstack/scientific-wg,Non core,0.0,0.9900990099009901,2,3
+openstack/oslo.serialization,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.9708737864077669,0,1
+openstack/oslo.serialization,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/manila-test-image,Core,1.4285714285714286,1.834862385321101,1,5
+openstack/oslo.serialization,openstack/manila-test-image,Non core,0.0,2.7522935779816518,1,5
+openstack/oslo.serialization,openstack/governance-website,Core,2.73972602739726,5.405405405405405,4,8
+openstack/oslo.serialization,openstack/governance-website,Non core,2.73972602739726,1.8018018018018018,4,8
+openstack/oslo.serialization,openstack/bugdaystats,Core,2.857142857142857,2.7522935779816518,2,5
+openstack/oslo.serialization,openstack/bugdaystats,Non core,0.0,1.834862385321101,2,5
+openstack/oslo.serialization,openstack/upstream-institute-virtual-environment,Core,1.36986301369863,2.7777777777777777,1,3
+openstack/oslo.serialization,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,1,3
+openstack/oslo.serialization,openstack/karbor-dashboard,Core,5.434782608695652,6.521739130434782,13,19
+openstack/oslo.serialization,openstack/karbor-dashboard,Non core,8.695652173913043,7.246376811594203,13,19
+openstack/oslo.serialization,openstack/django_openstack_auth,Core,9.30232558139535,6.2761506276150625,16,24
+openstack/oslo.serialization,openstack/django_openstack_auth,Non core,3.10077519379845,3.765690376569038,16,24
+openstack/oslo.serialization,openstack/monasca-transform,Core,8.51063829787234,3.6231884057971016,14,12
+openstack/oslo.serialization,openstack/monasca-transform,Non core,6.382978723404255,5.072463768115942,14,12
+openstack/oslo.serialization,openstack/monasca-ceilometer,Core,10.1010101010101,3.125,18,12
+openstack/oslo.serialization,openstack/monasca-ceilometer,Non core,8.080808080808081,4.375,18,12
+openstack/oslo.serialization,openstack/monasca-log-api,Core,10.2803738317757,4.022988505747127,16,18
+openstack/oslo.serialization,openstack/monasca-log-api,Non core,4.672897196261682,6.321839080459771,16,18
+openstack/oslo.serialization,openstack/nose-html-output,Core,5.555555555555555,3.7735849056603774,4,7
+openstack/oslo.serialization,openstack/nose-html-output,Non core,0.0,2.8301886792452833,4,7
+openstack/oslo.serialization,openstack/kolla-cli,Core,2.4691358024691357,3.225806451612903,8,12
+openstack/oslo.serialization,openstack/kolla-cli,Non core,7.4074074074074066,6.451612903225806,8,12
+openstack/oslo.serialization,openstack/neutron-lbaas-dashboard,Core,7.8431372549019605,6.666666666666667,13,22
+openstack/oslo.serialization,openstack/neutron-lbaas-dashboard,Non core,4.901960784313726,6.666666666666667,13,22
+openstack/oslo.serialization,openstack/searchlight,Core,5.521472392638037,5.825242718446602,22,28
+openstack/oslo.serialization,openstack/searchlight,Non core,7.975460122699387,7.766990291262135,22,28
+openstack/oslo.serialization,openstack/searchlight-ui,Core,8.0,3.597122302158273,13,11
+openstack/oslo.serialization,openstack/searchlight-ui,Non core,5.0,4.316546762589928,13,11
+openstack/oslo.serialization,openstack/searchlight-specs,Core,4.761904761904762,1.5625,7,6
+openstack/oslo.serialization,openstack/searchlight-specs,Non core,3.571428571428571,3.125,7,6
+openstack/oslo.serialization,openstack/python-searchlightclient,Core,10.526315789473683,4.37956204379562,17,16
+openstack/oslo.serialization,openstack/python-searchlightclient,Non core,7.368421052631578,7.2992700729927,17,16
+openstack/oslo.serialization,openstack/charm-tempest,Core,4.878048780487805,1.7094017094017095,7,6
+openstack/oslo.serialization,openstack/charm-tempest,Non core,3.6585365853658534,3.418803418803419,7,6
+openstack/oslo.serialization,openstack/charm-barbican-softhsm,Core,3.7037037037037033,1.7857142857142856,5,6
+openstack/oslo.serialization,openstack/charm-barbican-softhsm,Non core,2.4691358024691357,3.571428571428571,5,6
+openstack/oslo.serialization,openstack/cookbook-openstack-client,Core,2.7777777777777777,0.9174311926605505,3,4
+openstack/oslo.serialization,openstack/cookbook-openstack-client,Non core,1.3888888888888888,2.7522935779816518,3,4
+openstack/oslo.serialization,openstack/instack-undercloud,Core,4.45859872611465,4.693140794223827,12,26
+openstack/oslo.serialization,openstack/instack-undercloud,Non core,3.1847133757961785,4.693140794223827,12,26
+openstack/oslo.serialization,openstack/publiccloud-sig,Core,2.8169014084507045,1.9047619047619049,3,3
+openstack/oslo.serialization,openstack/publiccloud-sig,Non core,1.4084507042253522,0.9523809523809524,3,3
+openstack/oslo.serialization,openstack/ideas,Core,2.857142857142857,5.785123966942149,2,7
+openstack/oslo.serialization,openstack/ideas,Non core,0.0,0.0,2,7
+openstack/oslo.serialization,openstack/uc-recognition,Core,1.4492753623188406,1.9047619047619049,1,3
+openstack/oslo.serialization,openstack/uc-recognition,Non core,0.0,0.9523809523809524,1,3
+openstack/oslo.serialization,openstack/ops-tags-team,Core,2.666666666666667,4.098360655737705,2,9
+openstack/oslo.serialization,openstack/ops-tags-team,Non core,0.0,3.278688524590164,2,9
+openstack/oslo.serialization,openstack/enterprise-wg,Core,1.4925373134328357,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/enterprise-wg,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/governance-uc,Core,7.228915662650602,3.4722222222222223,6,9
+openstack/oslo.serialization,openstack/governance-uc,Non core,0.0,2.7777777777777777,6,9
+openstack/oslo.serialization,openstack/workload-ref-archs,Core,3.9473684210526314,2.803738317757009,4,7
+openstack/oslo.serialization,openstack/workload-ref-archs,Non core,1.3157894736842104,3.7383177570093453,4,7
+openstack/oslo.serialization,openstack/arch-wg,Core,1.4285714285714286,2.7027027027027026,1,4
+openstack/oslo.serialization,openstack/arch-wg,Non core,0.0,0.9009009009009009,1,4
+openstack/oslo.serialization,openstack/project-navigator-data,Core,8.860759493670885,6.0344827586206895,7,8
+openstack/oslo.serialization,openstack/project-navigator-data,Non core,0.0,0.8620689655172413,7,8
+openstack/oslo.serialization,openstack/openstack-specs,Core,11.538461538461538,9.387755102040817,9,35
+openstack/oslo.serialization,openstack/openstack-specs,Non core,0.0,4.8979591836734695,9,35
+openstack/oslo.serialization,openstack/openstack-ansible-os_monasca,Core,4.2105263157894735,2.857142857142857,9,12
+openstack/oslo.serialization,openstack/openstack-ansible-os_monasca,Non core,5.263157894736842,5.714285714285714,9,12
+openstack/oslo.serialization,openstack/openstack-ansible-os_monasca-agent,Core,2.2988505747126435,2.4193548387096775,5,10
+openstack/oslo.serialization,openstack/openstack-ansible-os_monasca-agent,Non core,3.4482758620689653,5.64516129032258,5,10
+openstack/oslo.serialization,openstack/ironic-inspector-specs,Core,3.4090909090909087,3.6764705882352944,4,9
+openstack/oslo.serialization,openstack/ironic-inspector-specs,Non core,1.1363636363636365,2.941176470588235,4,9
+openstack/oslo.serialization,openstack/sushy-cli,Core,4.166666666666666,1.8691588785046727,4,2
+openstack/oslo.serialization,openstack/sushy-cli,Non core,1.3888888888888888,0.0,4,2
+openstack/oslo.serialization,openstack/puppet-glare,Core,4.49438202247191,2.479338842975207,8,7
+openstack/oslo.serialization,openstack/puppet-glare,Non core,4.49438202247191,3.3057851239669422,8,7
+openstack/oslo.serialization,openstack/xstatic-bootstrap-scss,Core,2.7777777777777777,1.8518518518518516,2,5
+openstack/oslo.serialization,openstack/xstatic-bootstrap-scss,Non core,0.0,2.7777777777777777,2,5
+openstack/oslo.serialization,openstack/openstack-planet,Core,5.204460966542751,7.4866310160427805,21,19
+openstack/oslo.serialization,openstack/openstack-planet,Non core,2.6022304832713754,2.6737967914438503,21,19
+openstack/oslo.serialization,openstack/charm-interface-keystone-credentials,Core,4.10958904109589,0.9615384615384616,4,3
+openstack/oslo.serialization,openstack/charm-interface-keystone-credentials,Non core,1.36986301369863,1.9230769230769231,4,3
+openstack/oslo.serialization,openstack/monasca-kibana-plugin,Core,2.631578947368421,2.631578947368421,2,4
+openstack/oslo.serialization,openstack/monasca-kibana-plugin,Non core,0.0,0.8771929824561403,2,4
+openstack/oslo.serialization,openstack/charm-interface-keystone-domain-backend,Core,4.225352112676056,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,1
+openstack/oslo.serialization,openstack/devstack-plugin-amqp1,Core,6.944444444444445,9.523809523809524,7,14
+openstack/oslo.serialization,openstack/devstack-plugin-amqp1,Non core,2.7777777777777777,3.8095238095238098,7,14
+openstack/oslo.serialization,openstack/devstack-plugin-kafka,Core,4.285714285714286,6.666666666666667,5,10
+openstack/oslo.serialization,openstack/devstack-plugin-kafka,Non core,2.857142857142857,2.857142857142857,5,10
+openstack/oslo.serialization,openstack/tripleo-ipsec,Core,4.10958904109589,1.8018018018018018,6,7
+openstack/oslo.serialization,openstack/tripleo-ipsec,Non core,4.10958904109589,4.504504504504505,6,7
+openstack/oslo.serialization,openstack/monasca-grafana-datasource,Core,1.2987012987012987,0.8403361344537815,1,3
+openstack/oslo.serialization,openstack/monasca-grafana-datasource,Non core,0.0,1.680672268907563,1,3
+openstack/oslo.serialization,openstack/charm-interface-bind-rndc,Core,4.166666666666666,0.9615384615384616,4,2
+openstack/oslo.serialization,openstack/charm-interface-bind-rndc,Non core,1.3888888888888888,0.9615384615384616,4,2
+openstack/oslo.serialization,openstack/charm-interface-rabbitmq,Core,4.225352112676056,0.9615384615384616,4,3
+openstack/oslo.serialization,openstack/charm-interface-rabbitmq,Non core,1.4084507042253522,1.9230769230769231,4,3
+openstack/oslo.serialization,openstack/charm-interface-openstack-ha,Core,2.8169014084507045,1.9230769230769231,3,3
+openstack/oslo.serialization,openstack/charm-interface-openstack-ha,Non core,1.4084507042253522,0.9615384615384616,3,3
+openstack/oslo.serialization,openstack/charm-interface-gnocchi,Core,4.285714285714286,1.8181818181818181,3,3
+openstack/oslo.serialization,openstack/charm-interface-gnocchi,Non core,0.0,0.9090909090909091,3,3
+openstack/oslo.serialization,openstack/charm-interface-bgp,Core,4.225352112676056,0.9615384615384616,4,2
+openstack/oslo.serialization,openstack/charm-interface-bgp,Non core,1.4084507042253522,0.9615384615384616,4,2
+openstack/oslo.serialization,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.9900990099009901,0,1
+openstack/oslo.serialization,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/charm-interface-designate,Core,1.4492753623188406,0.9803921568627451,2,1
+openstack/oslo.serialization,openstack/charm-interface-designate,Non core,1.4492753623188406,0.0,2,1
+openstack/oslo.serialization,openstack/tempest-horizon,Core,6.172839506172839,3.4782608695652173,7,5
+openstack/oslo.serialization,openstack/tempest-horizon,Non core,2.4691358024691357,0.8695652173913043,7,5
+openstack/oslo.serialization,openstack/logstash-filters,Core,0.0,2.0,0,3
+openstack/oslo.serialization,openstack/logstash-filters,Non core,0.0,1.0,0,3
+openstack/oslo.serialization,openstack/xstatic-jquery-migrate,Core,4.411764705882353,1.9801980198019802,3,3
+openstack/oslo.serialization,openstack/xstatic-jquery-migrate,Non core,0.0,0.9900990099009901,3,3
+openstack/oslo.serialization,openstack/qinling-dashboard,Core,5.714285714285714,5.769230769230769,5,10
+openstack/oslo.serialization,openstack/qinling-dashboard,Non core,1.4285714285714286,3.8461538461538463,5,10
+openstack/oslo.serialization,openstack/python-qinlingclient,Core,6.024096385542169,6.481481481481481,15,16
+openstack/oslo.serialization,openstack/python-qinlingclient,Non core,12.048192771084338,8.333333333333332,15,16
+openstack/oslo.serialization,openstack/qinling,Core,4.901960784313726,4.0,10,10
+openstack/oslo.serialization,openstack/qinling,Non core,4.901960784313726,4.0,10,10
+openstack/oslo.serialization,openstack/monasca-analytics,Core,5.88235294117647,3.8461538461538463,8,10
+openstack/oslo.serialization,openstack/monasca-analytics,Non core,3.5294117647058822,3.8461538461538463,8,10
+openstack/oslo.serialization,openstack/oslo-incubator,Core,6.8181818181818175,6.25,31,47
+openstack/oslo.serialization,openstack/oslo-incubator,Non core,3.2467532467532463,3.5416666666666665,31,47
+openstack/oslo.serialization,openstack/puppet-congress,Core,4.597701149425287,1.7241379310344827,10,6
+openstack/oslo.serialization,openstack/puppet-congress,Non core,6.896551724137931,3.4482758620689653,10,6
+openstack/oslo.serialization,openstack/openstack-ansible-os_monasca-ui,Core,3.9473684210526314,1.7543859649122806,4,3
+openstack/oslo.serialization,openstack/openstack-ansible-os_monasca-ui,Non core,1.3157894736842104,0.8771929824561403,4,3
+openstack/oslo.serialization,openstack/auto-scaling-sig,Core,2.8169014084507045,1.7857142857142856,2,2
+openstack/oslo.serialization,openstack/auto-scaling-sig,Non core,0.0,0.0,2,2
+openstack/oslo.serialization,openstack/os-loganalyze,Core,4.444444444444445,7.462686567164178,6,15
+openstack/oslo.serialization,openstack/os-loganalyze,Non core,2.2222222222222223,3.731343283582089,6,15
+openstack/oslo.serialization,openstack/devstack-plugin-pika,Core,2.941176470588235,8.16326530612245,4,11
+openstack/oslo.serialization,openstack/devstack-plugin-pika,Non core,2.941176470588235,3.061224489795918,4,11
+openstack/oslo.serialization,openstack/devstack-plugin-zmq,Core,7.142857142857142,9.090909090909092,7,13
+openstack/oslo.serialization,openstack/devstack-plugin-zmq,Non core,2.857142857142857,4.040404040404041,7,13
+openstack/oslo.serialization,openstack/networking-l2gw,Core,6.557377049180328,5.263157894736842,13,21
+openstack/oslo.serialization,openstack/networking-l2gw,Non core,4.098360655737705,3.9473684210526314,13,21
+openstack/oslo.serialization,openstack/networking-l2gw-tempest-plugin,Core,1.2987012987012987,4.385964912280701,2,7
+openstack/oslo.serialization,openstack/networking-l2gw-tempest-plugin,Non core,1.2987012987012987,1.7543859649122806,2,7
+openstack/oslo.serialization,openstack/charm-interface-ceph-mds,Core,4.225352112676056,0.0,4,1
+openstack/oslo.serialization,openstack/charm-interface-ceph-mds,Non core,1.4084507042253522,0.9708737864077669,4,1
+openstack/oslo.serialization,openstack/xstatic-angular-ui-router,Core,2.941176470588235,2.9702970297029703,2,4
+openstack/oslo.serialization,openstack/xstatic-angular-ui-router,Non core,0.0,0.9900990099009901,2,4
+openstack/oslo.serialization,openstack/xstatic-vis,Core,2.898550724637681,3.0,2,3
+openstack/oslo.serialization,openstack/xstatic-vis,Non core,0.0,0.0,2,3
+openstack/oslo.serialization,openstack/cookbook-openstack-database,Core,4.10958904109589,2.608695652173913,3,6
+openstack/oslo.serialization,openstack/cookbook-openstack-database,Non core,0.0,2.608695652173913,3,6
+openstack/oslo.serialization,openstack/cookbook-openstack-data-processing,Core,2.8169014084507045,2.7522935779816518,2,6
+openstack/oslo.serialization,openstack/cookbook-openstack-data-processing,Non core,0.0,2.7522935779816518,2,6
+openstack/oslo.serialization,openstack/trove-integration,Core,3.937007874015748,3.1746031746031744,6,10
+openstack/oslo.serialization,openstack/trove-integration,Non core,0.7874015748031495,2.1164021164021163,6,10
+openstack/oslo.serialization,openstack/ansible-role-tripleo-sensu,Core,2.8169014084507045,0.9708737864077669,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-sensu,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/python-ceilometerclient,Core,8.484848484848486,6.640625,17,26
+openstack/oslo.serialization,openstack/python-ceilometerclient,Non core,1.8181818181818181,3.515625,17,26
+openstack/oslo.serialization,openstack/keystoneauth-saml2,Core,9.722222222222223,5.0,8,11
+openstack/oslo.serialization,openstack/keystoneauth-saml2,Non core,1.3888888888888888,4.166666666666666,8,11
+openstack/oslo.serialization,openstack/murano-deployment,Core,5.154639175257731,0.7692307692307693,6,4
+openstack/oslo.serialization,openstack/murano-deployment,Non core,1.0309278350515463,2.307692307692308,6,4
+openstack/oslo.serialization,openstack/python-keystoneclient-kerberos,Core,8.21917808219178,5.932203389830509,7,11
+openstack/oslo.serialization,openstack/python-keystoneclient-kerberos,Non core,1.36986301369863,3.389830508474576,7,11
+openstack/oslo.serialization,openstack/python-wsmanclient,Core,1.4285714285714286,2.941176470588235,1,4
+openstack/oslo.serialization,openstack/python-wsmanclient,Non core,0.0,0.9803921568627451,1,4
+openstack/oslo.serialization,openstack/fuel-upgrade,Core,4.054054054054054,1.680672268907563,3,5
+openstack/oslo.serialization,openstack/fuel-upgrade,Non core,0.0,2.5210084033613445,3,5
+openstack/oslo.serialization,openstack/cookbook-openstack-object-storage,Core,3.260869565217391,2.2222222222222223,3,5
+openstack/oslo.serialization,openstack/cookbook-openstack-object-storage,Non core,0.0,1.4814814814814816,3,5
+openstack/oslo.serialization,openstack/fairy-slipper,Core,2.73972602739726,3.7037037037037033,2,6
+openstack/oslo.serialization,openstack/fairy-slipper,Non core,0.0,1.8518518518518516,2,6
+openstack/oslo.serialization,openstack/django-openstack-auth-kerberos,Core,4.285714285714286,1.8518518518518516,3,6
+openstack/oslo.serialization,openstack/django-openstack-auth-kerberos,Non core,0.0,3.7037037037037033,3,6
+openstack/oslo.serialization,openstack/horizon-cisco-ui,Core,5.263157894736842,2.857142857142857,4,6
+openstack/oslo.serialization,openstack/horizon-cisco-ui,Non core,0.0,2.857142857142857,4,6
+openstack/oslo.serialization,openstack/zuul-packaging,Core,2.941176470588235,3.9215686274509802,2,6
+openstack/oslo.serialization,openstack/zuul-packaging,Non core,0.0,1.9607843137254901,2,6
+openstack/oslo.serialization,openstack/networking-generic-switch-tempest-plugin,Core,1.4705882352941175,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/tripleo-incubator,Core,5.128205128205128,4.508196721311475,8,16
+openstack/oslo.serialization,openstack/tripleo-incubator,Non core,0.0,2.0491803278688523,8,16
+openstack/oslo.serialization,openstack/ironic-webclient,Core,1.36986301369863,0.819672131147541,1,6
+openstack/oslo.serialization,openstack/ironic-webclient,Non core,0.0,4.098360655737705,1,6
+openstack/oslo.serialization,openstack/puppet-crane,Core,1.4705882352941175,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/puppet-crane,Non core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/release-tools,Core,12.5,11.03448275862069,13,25
+openstack/oslo.serialization,openstack/release-tools,Non core,2.272727272727273,6.206896551724138,13,25
+openstack/oslo.serialization,openstack/gnocchi,Core,7.258064516129033,4.30622009569378,12,18
+openstack/oslo.serialization,openstack/gnocchi,Non core,2.4193548387096775,4.30622009569378,12,18
+openstack/oslo.serialization,openstack/networking-ofagent,Core,5.405405405405405,3.4782608695652173,4,8
+openstack/oslo.serialization,openstack/networking-ofagent,Non core,0.0,3.4782608695652173,4,8
+openstack/oslo.serialization,openstack/python-neutron-pd-driver,Core,1.4492753623188406,3.061224489795918,1,4
+openstack/oslo.serialization,openstack/python-neutron-pd-driver,Non core,0.0,1.0204081632653061,1,4
+openstack/oslo.serialization,openstack/charm-ceph,Core,1.1904761904761905,0.8928571428571428,3,5
+openstack/oslo.serialization,openstack/charm-ceph,Non core,2.380952380952381,3.571428571428571,3,5
+openstack/oslo.serialization,openstack/openstack-ansible-os_freezer,Core,1.4705882352941175,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/openstack-ansible-pip_lock_down,Core,5.194805194805195,1.834862385321101,4,4
+openstack/oslo.serialization,openstack/openstack-ansible-pip_lock_down,Non core,0.0,1.834862385321101,4,4
+openstack/oslo.serialization,openstack/openstack-ansible-security,Core,9.375,2.484472049689441,10,6
+openstack/oslo.serialization,openstack/openstack-ansible-security,Non core,1.0416666666666665,1.2422360248447204,10,6
+openstack/oslo.serialization,openstack/oslosphinx,Core,20.0,15.267175572519085,24,36
+openstack/oslo.serialization,openstack/oslosphinx,Non core,6.666666666666667,12.213740458015266,24,36
+openstack/oslo.serialization,openstack/python-gnocchiclient,Core,7.777777777777778,3.278688524590164,8,8
+openstack/oslo.serialization,openstack/python-gnocchiclient,Non core,1.1111111111111112,3.278688524590164,8,8
+openstack/oslo.serialization,openstack/ansible-role-k8s-cinder,Core,1.4492753623188406,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/ansible-role-k8s-cookiecutter,Core,2.941176470588235,3.0303030303030303,2,3
+openstack/oslo.serialization,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,3
+openstack/oslo.serialization,openstack/ansible-role-k8s-glance,Core,4.411764705882353,3.0303030303030303,3,3
+openstack/oslo.serialization,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,3,3
+openstack/oslo.serialization,openstack/ansible-role-k8s-keystone,Core,4.411764705882353,1.9607843137254901,3,2
+openstack/oslo.serialization,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,3,2
+openstack/oslo.serialization,openstack/ansible-role-k8s-mariadb,Core,4.3478260869565215,2.9702970297029703,3,3
+openstack/oslo.serialization,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,3,3
+openstack/oslo.serialization,openstack/ansible-role-k8s-rabbitmq,Core,1.4705882352941175,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/ansible-role-k8s-tripleo,Core,4.411764705882353,3.0,3,3
+openstack/oslo.serialization,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,3,3
+openstack/oslo.serialization,openstack/ansible-role-tripleo-ui,Core,2.8169014084507045,1.9417475728155338,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-ui,Non core,1.4084507042253522,0.0,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-aodh,Core,2.8169014084507045,0.9803921568627451,3,3
+openstack/oslo.serialization,openstack/ansible-role-tripleo-aodh,Non core,1.4084507042253522,1.9607843137254901,3,3
+openstack/oslo.serialization,openstack/ansible-role-tripleo-barbican,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-barbican,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-ceilometer,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-ceilometer,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-cinder,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-cinder,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-cookiecutter,Core,5.47945205479452,1.8518518518518516,5,4
+openstack/oslo.serialization,openstack/ansible-role-tripleo-cookiecutter,Non core,1.36986301369863,1.8518518518518516,5,4
+openstack/oslo.serialization,openstack/tripleo-ui,Core,5.263157894736842,5.263157894736842,7,15
+openstack/oslo.serialization,openstack/tripleo-ui,Non core,2.1052631578947367,4.605263157894736,7,15
+openstack/oslo.serialization,openstack/ansible-role-tripleo-ovn,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-ovn,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-opendaylight,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-opendaylight,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-octavia,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-octavia,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-nova,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-nova,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/os-cloud-config,Core,9.174311926605505,5.142857142857142,10,16
+openstack/oslo.serialization,openstack/os-cloud-config,Non core,0.0,4.0,10,16
+openstack/oslo.serialization,openstack/ansible-role-tripleo-zaqar,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-zaqar,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-tempest,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-tempest,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-sahara,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-sahara,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-swift,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-swift,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-tacker,Core,2.8169014084507045,0.9708737864077669,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-tacker,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-rabbitmq,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-rabbitmq,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-qdrouterd,Core,1.4705882352941175,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-panko,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-panko,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-heat,Core,2.8169014084507045,0.9803921568627451,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-heat,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-haproxy,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-haproxy,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-gnocchi,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-gnocchi,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-glance,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-glance,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-designate,Core,2.8169014084507045,0.9708737864077669,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-designate,Non core,1.4084507042253522,0.0,3,1
+openstack/oslo.serialization,openstack/ansible-role-tripleo-neutron,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-neutron,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-mistral,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-mistral,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-memcached,Core,2.8169014084507045,0.9708737864077669,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-memcached,Non core,1.4084507042253522,0.9708737864077669,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-manila,Core,2.8169014084507045,0.9708737864077669,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-manila,Non core,1.4084507042253522,0.9708737864077669,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-ironic,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-ironic,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-keepalived,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-keepalived,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-horizon,Core,2.8169014084507045,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/ansible-role-tripleo-horizon,Non core,1.4084507042253522,0.9803921568627451,3,2
+openstack/oslo.serialization,openstack/pylockfile,Core,8.695652173913043,12.121212121212121,7,18
+openstack/oslo.serialization,openstack/pylockfile,Non core,1.4492753623188406,6.0606060606060606,7,18
+openstack/oslo.serialization,openstack/xstatic-moment-timezone,Core,1.4492753623188406,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/xstatic-moment-timezone,Non core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/xstatic-dagre-d3,Core,1.4492753623188406,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/xstatic-dagre-d3,Non core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/xstatic-dagre,Core,0.0,2.0408163265306123,0,2
+openstack/oslo.serialization,openstack/xstatic-dagre,Non core,0.0,0.0,0,2
+openstack/oslo.serialization,openstack/dragonflow,Core,5.142857142857142,4.615384615384616,17,29
+openstack/oslo.serialization,openstack/dragonflow,Non core,4.571428571428571,6.538461538461539,17,29
+openstack/oslo.serialization,openstack/openstack,Core,2.857142857142857,9.615384615384617,2,11
+openstack/oslo.serialization,openstack/openstack,Non core,0.0,0.9615384615384616,2,11
+openstack/oslo.serialization,openstack/charm-interface-pacemaker-remote,Core,1.4285714285714286,0.9708737864077669,2,3
+openstack/oslo.serialization,openstack/charm-interface-pacemaker-remote,Non core,1.4285714285714286,1.9417475728155338,2,3
+openstack/oslo.serialization,openstack/networking-onos,Core,1.2048192771084338,2.1739130434782608,1,9
+openstack/oslo.serialization,openstack/networking-onos,Non core,0.0,4.3478260869565215,1,9
+openstack/oslo.serialization,openstack/solum-infra-guestagent,Core,4.225352112676056,0.9174311926605505,3,2
+openstack/oslo.serialization,openstack/solum-infra-guestagent,Non core,0.0,0.9174311926605505,3,2
+openstack/oslo.serialization,openstack/openstack-ux,Core,1.4285714285714286,0.8771929824561403,1,2
+openstack/oslo.serialization,openstack/openstack-ux,Non core,0.0,0.8771929824561403,1,2
+openstack/oslo.serialization,openstack/mox3,Core,11.538461538461538,16.037735849056602,16,29
+openstack/oslo.serialization,openstack/mox3,Non core,8.974358974358974,11.320754716981133,16,29
+openstack/oslo.serialization,openstack/charm-layer-ceph,Core,1.4492753623188406,0.0,1,0
+openstack/oslo.serialization,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/oslo.serialization,openstack/charm-layer-ceph-base,Core,2.857142857142857,0.0,2,1
+openstack/oslo.serialization,openstack/charm-layer-ceph-base,Non core,0.0,0.9803921568627451,2,1
+openstack/oslo.serialization,openstack/python-tricircleclient,Core,5.128205128205128,4.23728813559322,8,9
+openstack/oslo.serialization,openstack/python-tricircleclient,Non core,5.128205128205128,3.389830508474576,8,9
+openstack/oslo.serialization,openstack/tricircle,Core,5.9259259259259265,4.128440366972478,13,18
+openstack/oslo.serialization,openstack/tricircle,Non core,3.7037037037037033,4.128440366972478,13,18
+openstack/oslo.serialization,openstack/swift-specs,Core,7.0588235294117645,2.547770700636943,6,5
+openstack/oslo.serialization,openstack/swift-specs,Non core,0.0,0.6369426751592357,6,5
+openstack/oslo.serialization,openstack/congress,Core,6.153846153846154,5.474452554744526,25,34
+openstack/oslo.serialization,openstack/congress,Non core,6.666666666666667,6.934306569343065,25,34
+openstack/oslo.serialization,openstack/congress-tempest-plugin,Core,2.4096385542168677,2.586206896551724,4,7
+openstack/oslo.serialization,openstack/congress-tempest-plugin,Non core,2.4096385542168677,3.4482758620689653,4,7
+openstack/oslo.serialization,openstack/python-congressclient,Core,8.737864077669903,5.9259259259259265,16,15
+openstack/oslo.serialization,openstack/python-congressclient,Non core,6.796116504854369,5.185185185185185,16,15
+openstack/oslo.serialization,openstack/congress-specs,Core,6.382978723404255,1.4705882352941175,8,9
+openstack/oslo.serialization,openstack/congress-specs,Non core,2.127659574468085,5.147058823529411,8,9
+openstack/oslo.serialization,openstack/congress-dashboard,Core,5.952380952380952,6.956521739130435,8,17
+openstack/oslo.serialization,openstack/congress-dashboard,Non core,3.571428571428571,7.82608695652174,8,17
+openstack/oslo.serialization,openstack/syntribos,Core,7.865168539325842,2.3622047244094486,9,6
+openstack/oslo.serialization,openstack/syntribos,Non core,2.247191011235955,2.3622047244094486,9,6
+openstack/oslo.serialization,openstack/syntribos-payloads,Core,1.4705882352941175,0.9803921568627451,1,2
+openstack/oslo.serialization,openstack/syntribos-payloads,Non core,0.0,0.9803921568627451,1,2
+openstack/oslo.serialization,openstack/syntribos-openstack-templates,Core,1.4285714285714286,0.9615384615384616,1,2
+openstack/oslo.serialization,openstack/syntribos-openstack-templates,Non core,0.0,0.9615384615384616,1,2
+openstack/oslo.serialization,openstack/i18n-specs,Core,2.941176470588235,1.9607843137254901,2,3
+openstack/oslo.serialization,openstack/i18n-specs,Non core,0.0,0.9803921568627451,2,3
+openstack/oslo.serialization,openstack/tempest-plugin-cookiecutter,Core,2.857142857142857,2.8301886792452833,2,4
+openstack/oslo.serialization,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.9433962264150944,2,4
+openstack/oslo.serialization,openstack/devstack-plugin-cookiecutter,Core,2.898550724637681,2.0,2,3
+openstack/oslo.serialization,openstack/devstack-plugin-cookiecutter,Non core,0.0,1.0,2,3
+openstack/oslo.serialization,openstack/xstatic-graphlib,Core,0.0,1.0,0,1
+openstack/oslo.serialization,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/openstack-ansible-repo_build,Core,4.3478260869565215,2.3952095808383236,11,14
+openstack/oslo.serialization,openstack/openstack-ansible-repo_build,Non core,5.217391304347826,5.9880239520958085,11,14
+openstack/oslo.serialization,openstack/xstatic-bootstrap-datepicker,Core,4.166666666666666,0.9174311926605505,3,5
+openstack/oslo.serialization,openstack/xstatic-bootstrap-datepicker,Non core,0.0,3.669724770642202,3,5
+openstack/oslo.serialization,openstack/xstatic-hogan,Core,4.477611940298507,2.0,3,3
+openstack/oslo.serialization,openstack/xstatic-hogan,Non core,0.0,1.0,3,3
+openstack/oslo.serialization,openstack/xstatic-jquery.quicksearch,Core,4.477611940298507,2.0,3,3
+openstack/oslo.serialization,openstack/xstatic-jquery.quicksearch,Non core,0.0,1.0,3,3
+openstack/oslo.serialization,openstack/openstack-ansible-os_molteniron,Core,2.3529411764705883,1.680672268907563,6,9
+openstack/oslo.serialization,openstack/openstack-ansible-os_molteniron,Non core,4.705882352941177,5.88235294117647,6,9
+openstack/oslo.serialization,openstack/xstatic-angular-lrdragndrop,Core,2.8169014084507045,1.9047619047619049,3,6
+openstack/oslo.serialization,openstack/xstatic-angular-lrdragndrop,Non core,1.4084507042253522,3.8095238095238098,3,6
+openstack/oslo.serialization,openstack/faafo,Core,6.8493150684931505,1.8181818181818181,5,5
+openstack/oslo.serialization,openstack/faafo,Non core,0.0,2.727272727272727,5,5
+openstack/oslo.serialization,openstack/xstatic-angular-bootstrap,Core,4.054054054054054,2.727272727272727,3,6
+openstack/oslo.serialization,openstack/xstatic-angular-bootstrap,Non core,0.0,2.727272727272727,3,6
+openstack/oslo.serialization,openstack/networking-calico,Core,4.2105263157894735,2.054794520547945,6,9
+openstack/oslo.serialization,openstack/networking-calico,Non core,2.1052631578947367,4.10958904109589,6,9
+openstack/oslo.serialization,openstack/xstatic-angular-gettext,Core,2.7777777777777777,1.8867924528301887,2,5
+openstack/oslo.serialization,openstack/xstatic-angular-gettext,Non core,0.0,2.8301886792452833,2,5
+openstack/oslo.serialization,openstack/shotgun,Core,1.1627906976744187,1.1976047904191618,1,4
+openstack/oslo.serialization,openstack/shotgun,Non core,0.0,1.1976047904191618,1,4
+openstack/oslo.serialization,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-aioeventlet,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/fuel-devops,Core,4.032258064516129,0.43478260869565216,5,8
+openstack/oslo.serialization,openstack/fuel-devops,Non core,0.0,3.0434782608695654,5,8
+openstack/oslo.serialization,openstack/fuel-plugin-murano,Core,2.5974025974025974,0.8064516129032258,3,3
+openstack/oslo.serialization,openstack/fuel-plugin-murano,Non core,1.2987012987012987,1.6129032258064515,3,3
+openstack/oslo.serialization,openstack/fuel-web,Core,2.6119402985074625,1.2711864406779663,10,15
+openstack/oslo.serialization,openstack/fuel-web,Non core,1.1194029850746268,1.9067796610169492,10,15
+openstack/oslo.serialization,openstack/fuel-plugins,Core,3.669724770642202,0.5154639175257731,4,4
+openstack/oslo.serialization,openstack/fuel-plugins,Non core,0.0,1.5463917525773196,4,4
+openstack/oslo.serialization,openstack/fuel-virtualbox,Core,4.054054054054054,0.8547008547008548,3,2
+openstack/oslo.serialization,openstack/fuel-virtualbox,Non core,0.0,0.8547008547008548,3,2
+openstack/oslo.serialization,openstack/fuel-ostf,Core,5.095541401273886,0.9966777408637874,8,8
+openstack/oslo.serialization,openstack/fuel-ostf,Non core,0.0,1.6611295681063125,8,8
+openstack/oslo.serialization,openstack/fuel-qa,Core,2.13903743315508,0.9036144578313252,4,10
+openstack/oslo.serialization,openstack/fuel-qa,Non core,0.0,2.108433734939759,4,10
+openstack/oslo.serialization,openstack/fuel-specs,Core,3.0303030303030303,1.03359173126615,5,8
+openstack/oslo.serialization,openstack/fuel-specs,Non core,0.0,1.03359173126615,5,8
+openstack/oslo.serialization,openstack/fuel-nailgun-extension-cluster-upgrade,Core,2.666666666666667,1.7241379310344827,3,3
+openstack/oslo.serialization,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,1.3333333333333335,0.8620689655172413,3,3
+openstack/oslo.serialization,openstack/fuel-nailgun-agent,Core,2.941176470588235,0.5291005291005291,3,5
+openstack/oslo.serialization,openstack/fuel-nailgun-agent,Non core,0.0,2.1164021164021163,3,5
+openstack/oslo.serialization,openstack/fuel-mirror,Core,3.0927835051546393,0.5181347150259068,3,6
+openstack/oslo.serialization,openstack/fuel-mirror,Non core,0.0,2.5906735751295336,3,6
+openstack/oslo.serialization,openstack/fuel-menu,Core,3.0303030303030303,0.975609756097561,3,6
+openstack/oslo.serialization,openstack/fuel-menu,Non core,0.0,1.951219512195122,3,6
+openstack/oslo.serialization,openstack/fuel-main,Core,2.5,1.2012012012012012,6,12
+openstack/oslo.serialization,openstack/fuel-main,Non core,0.5,2.4024024024024024,6,12
+openstack/oslo.serialization,openstack/fuel-ui,Core,2.8301886792452833,0.5494505494505495,3,4
+openstack/oslo.serialization,openstack/fuel-ui,Non core,0.0,1.6483516483516485,3,4
+openstack/oslo.serialization,openstack/fuel-library,Core,3.10077519379845,1.348747591522158,9,17
+openstack/oslo.serialization,openstack/fuel-library,Non core,0.3875968992248062,1.9267822736030826,9,17
+openstack/oslo.serialization,openstack/fuel-dev-tools,Core,6.578947368421052,0.8771929824561403,5,5
+openstack/oslo.serialization,openstack/fuel-dev-tools,Non core,0.0,3.508771929824561,5,5
+openstack/oslo.serialization,openstack/fuel-stats,Core,6.097560975609756,1.4285714285714286,6,5
+openstack/oslo.serialization,openstack/fuel-stats,Non core,1.2195121951219512,2.142857142857143,6,5
+openstack/oslo.serialization,openstack/fuel-nailgun-extension-converted-serializers,Core,1.4492753623188406,1.0,1,2
+openstack/oslo.serialization,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,1.0,1,2
+openstack/oslo.serialization,openstack/fuel-nailgun-extension-iac,Core,2.857142857142857,0.9803921568627451,2,2
+openstack/oslo.serialization,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.9803921568627451,2,2
+openstack/oslo.serialization,openstack/fuel-plugin-murano-tests,Core,1.282051282051282,0.8064516129032258,1,3
+openstack/oslo.serialization,openstack/fuel-plugin-murano-tests,Non core,0.0,1.6129032258064515,1,3
+openstack/oslo.serialization,openstack/fuel-astute,Core,3.125,0.823045267489712,5,7
+openstack/oslo.serialization,openstack/fuel-astute,Non core,0.78125,2.05761316872428,5,7
+openstack/oslo.serialization,openstack/fuel-docs,Core,0.6211180124223602,1.2468827930174564,2,11
+openstack/oslo.serialization,openstack/fuel-docs,Non core,0.6211180124223602,1.4962593516209477,2,11
+openstack/oslo.serialization,openstack/fuel-agent,Core,5.46875,0.8403361344537815,9,8
+openstack/oslo.serialization,openstack/fuel-agent,Non core,1.5625,2.5210084033613445,9,8
+openstack/oslo.serialization,openstack/fuel-octane,Core,5.376344086021505,1.36986301369863,6,7
+openstack/oslo.serialization,openstack/fuel-octane,Non core,1.0752688172043012,3.4246575342465753,6,7
+openstack/oslo.serialization,openstack/tuning-box,Core,1.4084507042253522,1.6666666666666667,2,4
+openstack/oslo.serialization,openstack/tuning-box,Non core,1.4084507042253522,1.6666666666666667,2,4
+openstack/oslo.serialization,openstack/python-fuelclient,Core,3.0303030303030303,1.282051282051282,5,10
+openstack/oslo.serialization,openstack/python-fuelclient,Non core,0.7575757575757576,2.9914529914529915,5,10
+openstack/oslo.serialization,openstack/neutron-interconnection,Core,0.0,3.8095238095238098,1,4
+openstack/oslo.serialization,openstack/neutron-interconnection,Non core,1.4492753623188406,0.0,1,4
+openstack/oslo.serialization,openstack/openstack-chef-repo,Core,1.8691588785046727,2.0408163265306123,2,5
+openstack/oslo.serialization,openstack/openstack-chef-repo,Non core,0.0,1.3605442176870748,2,5
+openstack/oslo.serialization,openstack/os-acc,Core,0.0,2.6548672566371683,0,3
+openstack/oslo.serialization,openstack/os-acc,Non core,0.0,0.0,0,3
+openstack/oslo.serialization,openstack/openstack-ansible-os_zaqar,Core,4.25531914893617,1.4705882352941175,10,10
+openstack/oslo.serialization,openstack/openstack-ansible-os_zaqar,Non core,6.382978723404255,5.88235294117647,10,10
+openstack/oslo.serialization,openstack/openstack-ansible-os_watcher,Core,2.197802197802198,2.380952380952381,8,12
+openstack/oslo.serialization,openstack/openstack-ansible-os_watcher,Non core,6.593406593406594,7.142857142857142,8,12
+openstack/oslo.serialization,openstack/openstack-ansible-os_searchlight,Core,2.380952380952381,0.819672131147541,7,7
+openstack/oslo.serialization,openstack/openstack-ansible-os_searchlight,Non core,5.952380952380952,4.918032786885246,7,7
+openstack/oslo.serialization,openstack/xstatic-angular-vis,Core,1.4705882352941175,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/xstatic-font-awesome,Core,2.7777777777777777,0.9345794392523363,2,4
+openstack/oslo.serialization,openstack/xstatic-font-awesome,Non core,0.0,2.803738317757009,2,4
+openstack/oslo.serialization,openstack/xstatic-jasmine,Core,4.0,0.9174311926605505,3,4
+openstack/oslo.serialization,openstack/xstatic-jasmine,Non core,0.0,2.7522935779816518,3,4
+openstack/oslo.serialization,openstack/xstatic-angular-notify,Core,1.4705882352941175,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/xstatic-angular-material,Core,2.898550724637681,0.9900990099009901,2,1
+openstack/oslo.serialization,openstack/xstatic-angular-material,Non core,0.0,0.0,2,1
+openstack/oslo.serialization,openstack/tempest-tripleo-ui,Core,1.4285714285714286,0.9174311926605505,1,1
+openstack/oslo.serialization,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/docs-specs,Core,7.6190476190476195,6.4981949458483745,10,27
+openstack/oslo.serialization,openstack/docs-specs,Non core,1.9047619047619049,3.2490974729241873,10,27
+openstack/oslo.serialization,openstack/release-schedule-generator,Core,2.898550724637681,3.0,2,4
+openstack/oslo.serialization,openstack/release-schedule-generator,Non core,0.0,1.0,2,4
+openstack/oslo.serialization,openstack-infra/opendev-website,Core,1.4705882352941175,2.9702970297029703,1,3
+openstack/oslo.serialization,openstack-infra/opendev-website,Non core,0.0,0.0,1,3
+openstack/oslo.serialization,openstack/castellan-ui,Core,2.8169014084507045,2.6548672566371683,2,5
+openstack/oslo.serialization,openstack/castellan-ui,Non core,0.0,1.7699115044247788,2,5
+openstack/oslo.serialization,openstack-attic/compute-api,Core,2.247191011235955,3.90625,2,6
+openstack/oslo.serialization,openstack-attic/compute-api,Non core,0.0,0.78125,2,6
+openstack/oslo.serialization,openstack/charm-neutron-api-odl,Core,1.3333333333333335,0.0,3,2
+openstack/oslo.serialization,openstack/charm-neutron-api-odl,Non core,2.666666666666667,1.8691588785046727,3,2
+openstack/oslo.serialization,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/charm-murano,Core,1.4492753623188406,0.0,1,1
+openstack/oslo.serialization,openstack/charm-murano,Non core,0.0,1.0,1,1
+openstack/oslo.serialization,openstack/charm-openvswitch-odl,Core,1.3157894736842104,0.0,2,2
+openstack/oslo.serialization,openstack/charm-openvswitch-odl,Non core,1.3157894736842104,1.9047619047619049,2,2
+openstack/oslo.serialization,openstack/charm-interface-odl-controller-api,Core,2.898550724637681,0.0,2,1
+openstack/oslo.serialization,openstack/charm-interface-odl-controller-api,Non core,0.0,1.0,2,1
+openstack/oslo.serialization,openstack/charm-glusterfs,Core,1.4492753623188406,0.0,1,1
+openstack/oslo.serialization,openstack/charm-glusterfs,Non core,0.0,0.9523809523809524,1,1
+openstack/oslo.serialization,openstack/charm-trove,Core,1.3888888888888888,0.0,3,1
+openstack/oslo.serialization,openstack/charm-trove,Non core,2.7777777777777777,0.9615384615384616,3,1
+openstack/oslo.serialization,openstack/deb-python-positional,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-positional,Non core,1.4705882352941175,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-requests-unixsocket,Non core,1.4492753623188406,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-traceback2,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-traceback2,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-ryu,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-ryu,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-linecache2,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-linecache2,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-gabbi,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-gabbi,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-cotyledon,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-cotyledon,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-migrate,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-migrate,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/fuxi,Core,3.296703296703297,1.4492753623188406,4,6
+openstack/oslo.serialization,openstack/fuxi,Non core,1.098901098901099,2.898550724637681,4,6
+openstack/oslo.serialization,openstack/xstatic-filesaver,Core,1.4705882352941175,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/xstatic-filesaver,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/xstatic-angular-uuid,Core,1.4705882352941175,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/bandit,Core,5.084745762711865,7.333333333333333,9,18
+openstack/oslo.serialization,openstack/bandit,Non core,2.5423728813559325,4.666666666666667,9,18
+openstack/oslo.serialization,openstack/xstatic-angular-smart-table,Core,2.898550724637681,0.9708737864077669,2,2
+openstack/oslo.serialization,openstack/xstatic-angular-smart-table,Non core,0.0,0.9708737864077669,2,2
+openstack/oslo.serialization,openstack/xstatic-bootswatch,Core,2.857142857142857,0.9345794392523363,2,4
+openstack/oslo.serialization,openstack/xstatic-bootswatch,Non core,0.0,2.803738317757009,2,4
+openstack/oslo.serialization,openstack/deb-msgpack-python,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-msgpack-python,Non core,1.4705882352941175,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/xstatic-d3,Core,2.8169014084507045,0.9433962264150944,2,5
+openstack/oslo.serialization,openstack/xstatic-d3,Non core,0.0,3.7735849056603774,2,5
+openstack/oslo.serialization,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/deb-python-pymemcache,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-pymemcache,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-novnc,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-novnc,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/instack,Core,4.761904761904762,4.838709677419355,6,10
+openstack/oslo.serialization,openstack/instack,Non core,2.380952380952381,3.225806451612903,6,10
+openstack/oslo.serialization,openstack/deb-python-pysaml2,Core,0.0,0.0,1,3
+openstack/oslo.serialization,openstack/deb-python-pysaml2,Non core,1.4705882352941175,3.0303030303030303,1,3
+openstack/oslo.serialization,openstack/deb-python-trollius,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-trollius,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-autobahn,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-autobahn,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-pyldap,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-pyldap,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/astara,Core,3.9603960396039604,1.4184397163120568,4,6
+openstack/oslo.serialization,openstack/astara,Non core,0.0,2.8368794326241136,4,6
+openstack/oslo.serialization,openstack/astara-appliance,Core,2.5,1.7241379310344827,2,6
+openstack/oslo.serialization,openstack/astara-appliance,Non core,0.0,3.4482758620689653,2,6
+openstack/oslo.serialization,openstack/astara-horizon,Core,2.73972602739726,0.9090909090909091,2,5
+openstack/oslo.serialization,openstack/astara-horizon,Non core,0.0,3.6363636363636362,2,5
+openstack/oslo.serialization,openstack/astara-neutron,Core,2.5974025974025974,0.8928571428571428,2,4
+openstack/oslo.serialization,openstack/astara-neutron,Non core,0.0,2.6785714285714284,2,4
+openstack/oslo.serialization,openstack/anchor,Core,3.296703296703297,3.0303030303030303,4,9
+openstack/oslo.serialization,openstack/anchor,Non core,1.098901098901099,3.787878787878788,4,9
+openstack/oslo.serialization,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/fuxi-golang,Core,1.4925373134328357,0.9900990099009901,1,1
+openstack/oslo.serialization,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/fuxi-kubernetes,Core,1.4705882352941175,0.9523809523809524,1,2
+openstack/oslo.serialization,openstack/fuxi-kubernetes,Non core,0.0,0.9523809523809524,1,2
+openstack/oslo.serialization,openstack-infra/puppet-odsreg,Core,1.3888888888888888,3.8095238095238098,1,7
+openstack/oslo.serialization,openstack-infra/puppet-odsreg,Non core,0.0,2.857142857142857,1,7
+openstack/oslo.serialization,openstack-infra/puppet-docker_registry,Core,1.4925373134328357,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/releasestatus,Core,2.941176470588235,2.941176470588235,2,4
+openstack/oslo.serialization,openstack/releasestatus,Non core,0.0,0.9803921568627451,2,4
+openstack/oslo.serialization,openstack-infra/vinz-webclient,Core,1.4925373134328357,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,1
+openstack/oslo.serialization,openstack/activity-board,Core,3.75,5.109489051094891,3,9
+openstack/oslo.serialization,openstack/activity-board,Non core,0.0,1.4598540145985401,3,9
+openstack/oslo.serialization,openstack-infra/beaker-localhost,Core,1.4925373134328357,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack-infra/beaker-nodepool,Core,1.4925373134328357,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/rst2bash,Core,2.898550724637681,2.912621359223301,2,5
+openstack/oslo.serialization,openstack/rst2bash,Non core,0.0,1.9417475728155338,2,5
+openstack/oslo.serialization,openstack/kolla-kubernetes,Core,3.2,2.912621359223301,8,12
+openstack/oslo.serialization,openstack/kolla-kubernetes,Non core,3.2,2.912621359223301,8,12
+openstack/oslo.serialization,openstack/cue-dashboard,Core,4.0,0.9615384615384616,3,5
+openstack/oslo.serialization,openstack/cue-dashboard,Non core,0.0,3.8461538461538463,3,5
+openstack/oslo.serialization,openstack/python-cueclient,Core,3.8461538461538463,1.9230769230769231,3,5
+openstack/oslo.serialization,openstack/python-cueclient,Non core,0.0,2.8846153846153846,3,5
+openstack/oslo.serialization,openstack/cue,Core,4.25531914893617,2.4,5,8
+openstack/oslo.serialization,openstack/cue,Non core,1.0638297872340425,4.0,5,8
+openstack/oslo.serialization,openstack/app-catalog,Core,4.132231404958678,1.257861635220126,8,4
+openstack/oslo.serialization,openstack/app-catalog,Non core,2.479338842975207,1.257861635220126,8,4
+openstack/oslo.serialization,openstack-attic/identity-api,Core,4.854368932038835,5.294117647058823,7,11
+openstack/oslo.serialization,openstack-attic/identity-api,Non core,1.9417475728155338,1.1764705882352942,7,11
+openstack/oslo.serialization,openstack/deb-python-fixtures,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-fixtures,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/python-magnetodbclient,Core,0.0,0.9523809523809524,0,3
+openstack/oslo.serialization,openstack/python-magnetodbclient,Non core,0.0,1.9047619047619049,0,3
+openstack/oslo.serialization,openstack/app-catalog-ui,Core,4.10958904109589,0.8928571428571428,3,3
+openstack/oslo.serialization,openstack/app-catalog-ui,Non core,0.0,1.7857142857142856,3,3
+openstack/oslo.serialization,openstack/salt-formula-kubernetes,Core,1.3888888888888888,0.0,1,1
+openstack/oslo.serialization,openstack/salt-formula-kubernetes,Non core,0.0,0.9615384615384616,1,1
+openstack/oslo.serialization,openstack/app-catalog-common,Core,0.0,1.0101010101010102,0,2
+openstack/oslo.serialization,openstack/app-catalog-common,Non core,0.0,1.0101010101010102,0,2
+openstack/oslo.serialization,openstack/python-appcatalogclient,Core,0.0,1.9801980198019802,1,3
+openstack/oslo.serialization,openstack/python-appcatalogclient,Non core,1.4285714285714286,0.9900990099009901,1,3
+openstack/oslo.serialization,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/deb-nova,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-nova,Non core,1.4492753623188406,2.0,2,2
+openstack/oslo.serialization,openstack/deb-kazoo,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-kazoo,Non core,1.4705882352941175,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-python-congressclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-congressclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-congress,Core,1.4925373134328357,0.0,1,1
+openstack/oslo.serialization,openstack/deb-congress,Non core,0.0,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/deb-python-os-net-config,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-python-os-net-config,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-ironic,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-ironic,Non core,1.4492753623188406,1.9801980198019802,2,2
+openstack/oslo.serialization,openstack/deb-swauth,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-swauth,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-python-os-api-ref,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-os-api-ref,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-designate,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-designate,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-swift,Core,1.4705882352941175,0.0,1,2
+openstack/oslo.serialization,openstack/deb-swift,Non core,0.0,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-manila-ui,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-manila-ui,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-barbican,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-barbican,Non core,1.4492753623188406,1.9801980198019802,2,2
+openstack/oslo.serialization,openstack/deb-cinder,Core,1.4285714285714286,0.0,2,2
+openstack/oslo.serialization,openstack/deb-cinder,Non core,1.4285714285714286,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-magnum,Core,1.4285714285714286,0.0,2,2
+openstack/oslo.serialization,openstack/deb-magnum,Non core,1.4285714285714286,2.0,2,2
+openstack/oslo.serialization,openstack/deb-trove,Core,1.4492753623188406,0.0,1,2
+openstack/oslo.serialization,openstack/deb-trove,Non core,0.0,1.9607843137254901,1,2
+openstack/oslo.serialization,openstack/deb-openstack-pkg-tools,Core,1.4084507042253522,0.9523809523809524,2,3
+openstack/oslo.serialization,openstack/deb-openstack-pkg-tools,Non core,1.4084507042253522,1.9047619047619049,2,3
+openstack/oslo.serialization,openstack/deb-python-swiftclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-swiftclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-alembic,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-alembic,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-cinderclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-cinderclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-bootstrap,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-bootstrap,Non core,1.4705882352941175,2.0408163265306123,2,2
+openstack/oslo.serialization,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/deb-networking-nec,Core,1.4925373134328357,0.0,1,1
+openstack/oslo.serialization,openstack/deb-networking-nec,Non core,0.0,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/deb-neutron-taas,Core,1.4925373134328357,0.0,1,1
+openstack/oslo.serialization,openstack/deb-neutron-taas,Non core,0.0,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/deb-networking-mlnx,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-networking-mlnx,Non core,1.4705882352941175,2.0408163265306123,2,2
+openstack/oslo.serialization,openstack/deb-openstack-meta-packages,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-openstack-meta-packages,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-networking-odl,Core,1.4925373134328357,0.0,1,1
+openstack/oslo.serialization,openstack/deb-networking-odl,Non core,0.0,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/deb-nodepool,Core,1.4925373134328357,0.0,1,1
+openstack/oslo.serialization,openstack/deb-nodepool,Non core,0.0,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/deb-networking-cisco,Core,1.4925373134328357,0.0,1,1
+openstack/oslo.serialization,openstack/deb-networking-cisco,Non core,0.0,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/deb-networking-midonet,Core,1.4925373134328357,0.0,1,1
+openstack/oslo.serialization,openstack/deb-networking-midonet,Non core,0.0,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/deb-networking-arista,Core,1.4925373134328357,0.0,2,2
+openstack/oslo.serialization,openstack/deb-networking-arista,Non core,1.4925373134328357,2.0408163265306123,2,2
+openstack/oslo.serialization,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/deb-networking-hyperv,Core,1.4925373134328357,0.0,1,1
+openstack/oslo.serialization,openstack/deb-networking-hyperv,Non core,0.0,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/deb-python-rtslib-fb,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-rtslib-fb,Non core,1.4492753623188406,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-murano,Core,1.4492753623188406,0.0,3,2
+openstack/oslo.serialization,openstack/deb-murano,Non core,2.898550724637681,1.9607843137254901,3,2
+openstack/oslo.serialization,openstack/deb-python-semantic-version,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-semantic-version,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-ldappool,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-ldappool,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-zaqar-ui,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-zaqar-ui,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-zaqar,Core,1.4285714285714286,0.0,2,2
+openstack/oslo.serialization,openstack/deb-zaqar,Non core,1.4285714285714286,1.9607843137254901,2,2
+openstack/oslo.serialization,openstack/deb-watcher,Core,1.4285714285714286,0.0,2,2
+openstack/oslo.serialization,openstack/deb-watcher,Non core,1.4285714285714286,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-os-testr,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-os-testr,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-os-win,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-os-win,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-pycadf,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-pycadf,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-pyghmi,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-pyghmi,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-reno,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-reno,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-os-refresh-config,Core,1.4492753623188406,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-os-refresh-config,Non core,0.0,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-python-os-vif,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-os-vif,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-pyeclib,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-python-pyeclib,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-python-quantumclient,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-python-quantumclient,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-python-requestsexceptions,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-requestsexceptions,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-pbr,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-pbr,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-requests-mock,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-requests-mock,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-saharaclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-saharaclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-scciclient,Core,1.4492753623188406,0.0,1,1
+openstack/oslo.serialization,openstack/deb-python-scciclient,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-python-seamicroclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-seamicroclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-auto-backports,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-auto-backports,Non core,1.4492753623188406,1.9801980198019802,2,2
+openstack/oslo.serialization,openstack/deb-python-senlinclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-senlinclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-taskflow,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-taskflow,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-testtools,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-testtools,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-tooz,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-tooz,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-shotgun,Core,1.4492753623188406,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-shotgun,Non core,0.0,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-python-tackerclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-tackerclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-tosca-parser,Core,1.4492753623188406,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-tosca-parser,Non core,0.0,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-python-troveclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-troveclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-tuskarclient,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-python-tuskarclient,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-python-watcherclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-watcherclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-cookies,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-cookies,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-fileupload,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-fileupload,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-lrdragndrop,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-wsme,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-wsme,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-schema-form,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-schema-form,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-bootstrap-datepicker,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-bootswatch,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-bootswatch,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-gettext,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-gettext,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-mock,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-angular-mock,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-bootstrap-scss,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-bootstrap-scss,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-d3,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-d3,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-hogan,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-hogan,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-font-awesome,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-font-awesome,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jasmine,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jasmine,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery-migrate,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery-migrate,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery.quicksearch,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery.quicksearch,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery.tablesorter,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery.tablesorter,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jsencrypt,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jsencrypt,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-magic-search,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-magic-search,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-mdi,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-mdi,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-objectpath,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-objectpath,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-qunit,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-qunit,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-rickshaw,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-python-xstatic-rickshaw,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-python-xstatic-spin,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-spin,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-tv4,Core,1.4925373134328357,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-tv4,Non core,1.4925373134328357,2.0408163265306123,2,2
+openstack/oslo.serialization,openstack/deb-python-yaql,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-yaql,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-zaqarclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-zaqarclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-rally,Core,1.4492753623188406,0.0,1,2
+openstack/oslo.serialization,openstack/deb-rally,Non core,0.0,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-sahara,Core,1.4285714285714286,0.0,2,2
+openstack/oslo.serialization,openstack/deb-sahara,Non core,1.4285714285714286,2.0,2,2
+openstack/oslo.serialization,openstack/deb-sahara-dashboard,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-sahara-dashboard,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-senlin,Core,1.4285714285714286,0.0,2,2
+openstack/oslo.serialization,openstack/deb-senlin,Non core,1.4285714285714286,2.0,2,2
+openstack/oslo.serialization,openstack/deb-senlin-dashboard,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-senlin-dashboard,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-stevedore,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-stevedore,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-swift-bench,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-swift-bench,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-swift-plugin-s3,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-swift-plugin-s3,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-trove-dashboard,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-trove-dashboard,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-tempest,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-tempest,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-osprofiler,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-osprofiler,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.vmware,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.vmware,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.utils,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.utils,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.rootwrap,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.rootwrap,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.service,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.service,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.privsep,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.privsep,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.versionedobjects,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.versionedobjects,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslotest,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslotest,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.serialization,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.serialization,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.reports,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.reports,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.policy,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.policy,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.middleware,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.middleware,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.messaging,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.messaging,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.log,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.log,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-aodhclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-aodhclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-automaton,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-automaton,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-barbicanclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-barbicanclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-bashate,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-python-bashate,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-python-castellan,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-castellan,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-ceilometerclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-ceilometerclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-ceilometermiddleware,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-ceilometermiddleware,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-cliff,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-cliff,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-cursive,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-cursive,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-debtcollector,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-debtcollector,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-designateclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-designateclient,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-dib-utils,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-python-dib-utils,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-python-diskimage-builder,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-diskimage-builder,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-doc8,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-doc8,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-django-openstack-auth,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-django-openstack-auth,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-fuelclient,Core,1.4492753623188406,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-fuelclient,Non core,0.0,1.9607843137254901,1,2
+openstack/oslo.serialization,openstack/deb-python-dogpile.cache,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-dogpile.cache,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-futurist,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-futurist,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-glanceclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-glanceclient,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-glance-store,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-glance-store,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-hacking,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-hacking,Non core,1.4492753623188406,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-heatclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-heatclient,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-ironicclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-ironicclient,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-ironic-inspector-client,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-ironic-inspector-client,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-ironic-lib,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-ironic-lib,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-jsonpath-rw-ext,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-jsonpath-rw-ext,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-k8sclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-k8sclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-keystoneauth1,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-keystoneauth1,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-keystoneclient,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-keystoneclient,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-keystonemiddleware,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-keystonemiddleware,Non core,1.4705882352941175,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-magnumclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-magnumclient,Non core,1.4705882352941175,1.9801980198019802,2,2
+openstack/oslo.serialization,openstack/deb-python-manilaclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-manilaclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-microversion-parse,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-microversion-parse,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-mistralclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-mistralclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-monascaclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-monascaclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-mox3,Core,1.4492753623188406,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-mox3,Non core,0.0,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-python-muranoclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-muranoclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-neutronclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-neutronclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-neutron-lib,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-neutron-lib,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-novaclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-novaclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-openstackclient,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-openstackclient,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-openstackdocstheme,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-openstackdocstheme,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-openstacksdk,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-openstacksdk,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-os-apply-config,Core,1.4492753623188406,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-os-apply-config,Non core,0.0,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-python-os-brick,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-os-brick,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-osc-lib,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-osc-lib,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-os-client-config,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-os-client-config,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-os-collect-config,Core,1.4492753623188406,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-os-collect-config,Non core,0.0,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-python-oslo.cache,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.cache,Non core,1.4492753623188406,2.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.db,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.db,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.concurrency,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.concurrency,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.config,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.config,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.i18n,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.i18n,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.context,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-python-oslo.context,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-openstack-nose,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-openstack-nose,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-openstack-doc-tools,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-openstack-doc-tools,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-openstack-trove,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-openstack-trove,Non core,1.4492753623188406,2.0,2,2
+openstack/oslo.serialization,openstack/deb-oslosphinx,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-oslosphinx,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-aodh,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-aodh,Non core,1.4492753623188406,2.0,2,2
+openstack/oslo.serialization,openstack/deb-bandit,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-bandit,Non core,1.4492753623188406,2.0,2,2
+openstack/oslo.serialization,openstack/deb-ceilometer,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-ceilometer,Non core,1.4492753623188406,2.0,2,2
+openstack/oslo.serialization,openstack/deb-ceilometermiddleware,Core,1.4705882352941175,0.0,1,2
+openstack/oslo.serialization,openstack/deb-ceilometermiddleware,Non core,0.0,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-designate-dashboard,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-designate-dashboard,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-git-review,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-git-review,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-glance,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-glance,Non core,1.4492753623188406,1.9607843137254901,2,2
+openstack/oslo.serialization,openstack/deb-glare,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-glare,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-heat,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-heat,Non core,1.4492753623188406,2.0,2,2
+openstack/oslo.serialization,openstack/deb-heat-cfntools,Core,1.4705882352941175,0.0,1,2
+openstack/oslo.serialization,openstack/deb-heat-cfntools,Non core,0.0,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-horizon,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-horizon,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-ironic-inspector,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-ironic-inspector,Non core,1.4492753623188406,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-ironic-ui,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-ironic-ui,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-keystone,Core,1.4285714285714286,0.0,2,2
+openstack/oslo.serialization,openstack/deb-keystone,Non core,1.4285714285714286,1.9801980198019802,2,2
+openstack/oslo.serialization,openstack/deb-liberasurecode,Core,1.4705882352941175,0.0,1,1
+openstack/oslo.serialization,openstack/deb-liberasurecode,Non core,0.0,1.0101010101010102,1,1
+openstack/oslo.serialization,openstack/deb-manila,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-manila,Non core,1.4492753623188406,2.0,2,2
+openstack/oslo.serialization,openstack/deb-mistral,Core,1.4285714285714286,0.0,4,2
+openstack/oslo.serialization,openstack/deb-mistral,Non core,4.285714285714286,1.9607843137254901,4,2
+openstack/oslo.serialization,openstack/deb-murano-agent,Core,1.4705882352941175,0.0,3,2
+openstack/oslo.serialization,openstack/deb-murano-agent,Non core,2.941176470588235,1.9607843137254901,3,2
+openstack/oslo.serialization,openstack/deb-murano-dashboard,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-murano-dashboard,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-networking-l2gw,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-networking-l2gw,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-networking-ovn,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-networking-ovn,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-neutron,Core,1.4492753623188406,0.0,2,2
+openstack/oslo.serialization,openstack/deb-neutron,Non core,1.4492753623188406,1.9801980198019802,2,2
+openstack/oslo.serialization,openstack/deb-neutron-fwaas,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-neutron-fwaas,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-neutron-vpnaas,Core,1.4705882352941175,0.0,2,2
+openstack/oslo.serialization,openstack/deb-neutron-vpnaas,Non core,1.4705882352941175,2.0202020202020203,2,2
+openstack/oslo.serialization,openstack/deb-neutron-lbaas,Core,1.4705882352941175,0.0,3,2
+openstack/oslo.serialization,openstack/deb-neutron-lbaas,Non core,2.941176470588235,1.9607843137254901,3,2
+openstack/oslo.serialization,openstack/installguide-cookiecutter,Core,4.0,1.8691588785046727,3,5
+openstack/oslo.serialization,openstack/installguide-cookiecutter,Non core,0.0,2.803738317757009,3,5
+openstack/oslo.serialization,openstack/deb-gnocchi,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-gnocchi,Non core,1.4285714285714286,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-eventlet,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-eventlet,Non core,1.4492753623188406,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-pymysql,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-pymysql,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/salt-formula-opencontrail,Core,1.2048192771084338,0.0,1,1
+openstack/oslo.serialization,openstack/salt-formula-opencontrail,Non core,0.0,0.9174311926605505,1,1
+openstack/oslo.serialization,openstack/salt-formula-neutron,Core,1.2195121951219512,0.9009009009009009,1,2
+openstack/oslo.serialization,openstack/salt-formula-neutron,Non core,0.0,0.9009009009009009,1,2
+openstack/oslo.serialization,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/salt-formula-swift,Non core,0.0,0.9803921568627451,0,1
+openstack/oslo.serialization,openstack/salt-formula-nova,Core,1.1363636363636365,0.0,1,1
+openstack/oslo.serialization,openstack/salt-formula-nova,Non core,0.0,0.8928571428571428,1,1
+openstack/oslo.serialization,openstack/salt-formula-keystone,Core,1.1764705882352942,0.0,1,1
+openstack/oslo.serialization,openstack/salt-formula-keystone,Non core,0.0,0.9090909090909091,1,1
+openstack/oslo.serialization,openstack/salt-formula-horizon,Core,1.25,0.0,1,1
+openstack/oslo.serialization,openstack/salt-formula-horizon,Non core,0.0,0.9345794392523363,1,1
+openstack/oslo.serialization,openstack/salt-formula-heat,Core,1.1494252873563218,0.0,1,1
+openstack/oslo.serialization,openstack/salt-formula-heat,Non core,0.0,0.9259259259259258,1,1
+openstack/oslo.serialization,openstack/salt-formula-glance,Core,1.1627906976744187,0.0,1,2
+openstack/oslo.serialization,openstack/salt-formula-glance,Non core,0.0,1.834862385321101,1,2
+openstack/oslo.serialization,openstack/salt-formula-cinder,Core,1.1764705882352942,0.0,1,1
+openstack/oslo.serialization,openstack/salt-formula-cinder,Non core,0.0,0.9345794392523363,1,1
+openstack/oslo.serialization,openstack/salt-formula-ceilometer,Core,1.2987012987012987,0.0,1,1
+openstack/oslo.serialization,openstack/salt-formula-ceilometer,Non core,0.0,0.9174311926605505,1,1
+openstack/oslo.serialization,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-pygit2,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-libisal,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-xvfbwrapper,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-testresources,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-testresources,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-django-compressor,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-django-compressor,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-sqlalchemy-utils,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-pykmip,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-pykmip,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-coffin,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-coffin,Non core,1.4705882352941175,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-python-txaio,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-txaio,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-hplefthandclient,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-django-overextends,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-pytimeparse,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-pytimeparse,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-nose-timer,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-nose-timer,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-retrying,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-retrying,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-django-discover-runner,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-lesscpy,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-happybase,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-extras,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-functools32,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-functools32,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-pydot-ng,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-jsonschema,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-jsonschema,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-kafka,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-kafka,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-rcssmin,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-nose-parameterized,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-nose-parameterized,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-pika-pool,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-pika-pool,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-rfc3986,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-rfc3986,Non core,1.4492753623188406,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-httpretty,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-pint,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,2
+openstack/oslo.serialization,openstack/deb-python-django-pyscss,Non core,0.0,2.0408163265306123,0,2
+openstack/oslo.serialization,openstack/deb-python-falcon,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-falcon,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-subunit,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-subunit,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-django-formtools,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-nose-exclude,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-pydotplus,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-pydotplus,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-pager,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-proliantutils,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-proliantutils,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-gnocchiclient,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-gnocchiclient,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-django-babel,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-django-babel,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-requests-kerberos,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-requests-kerberos,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-colander,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-colander,Non core,1.4705882352941175,2.0202020202020203,1,2
+openstack/oslo.serialization,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-dcos,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-django-bootstrap-form,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-term.js,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-toml,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-semver,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-semver,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-websocket-client,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-fasteners,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-fasteners,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-jingo,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-pecan,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-pecan,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-frozendict,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/oslo.serialization,openstack/deb-python-wrapt,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-wrapt,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-funcsigs,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-funcsigs,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-crank,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-crank,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-pyvmomi,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-wsgi-intercept,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,2
+openstack/oslo.serialization,openstack/deb-python-os-cloud-config,Non core,0.0,2.0408163265306123,0,2
+openstack/oslo.serialization,openstack/deb-python-weakrefmethod,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-weakrefmethod,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-steadymark,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-warlock,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-warlock,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-couleur,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-couleur,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-roboto-fontface,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-json-patch,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-json-patch,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-jsonrpclib,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-multi-key-dict,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-memcache,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-memcache,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-pulp,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-fonts-roboto-fontface,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-websockify,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-websockify,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-daemonize,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-pyngus,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-pyngus,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-editor,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-editor,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-ddt,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-ddt,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-monotonic,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-monotonic,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-rjsmin,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-rjsmin,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-jsonpath-rw,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-django-appconf,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-django-appconf,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-oauth2client,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-oauth2client,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-json-pointer,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-json-pointer,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack-attic/akanda,Core,1.4084507042253522,0.0,1,3
+openstack/oslo.serialization,openstack-attic/akanda,Non core,0.0,2.8301886792452833,1,3
+openstack/oslo.serialization,openstack/deb-python-xstatic,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-xstatic,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-smart-table,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-xstatic-jquery-ui,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-requestbuilder,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-nosehtmloutput,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack/deb-python-csscompressor,Non core,0.0,1.0204081632653061,0,1
+openstack/oslo.serialization,openstack/deb-python-croniter,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-croniter,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/deb-python-concurrent.futures,Core,0.0,0.0,1,2
+openstack/oslo.serialization,openstack/deb-python-concurrent.futures,Non core,1.4705882352941175,2.0408163265306123,1,2
+openstack/oslo.serialization,openstack/openstack-salt,Core,1.4084507042253522,0.0,1,2
+openstack/oslo.serialization,openstack/openstack-salt,Non core,0.0,1.9607843137254901,1,2
+openstack/oslo.serialization,openstack/deb-spice-html5,Core,0.0,0.0,0,2
+openstack/oslo.serialization,openstack/deb-spice-html5,Non core,0.0,2.0618556701030926,0,2
+openstack/oslo.serialization,openstack/salt-formula-midonet,Core,1.4925373134328357,0.0,1,1
+openstack/oslo.serialization,openstack/salt-formula-midonet,Non core,0.0,1.0204081632653061,1,1
+openstack/oslo.serialization,openstack/magnetodb-specs,Core,2.5974025974025974,0.9009009009009009,2,5
+openstack/oslo.serialization,openstack/magnetodb-specs,Non core,0.0,3.6036036036036037,2,5
+openstack/oslo.serialization,openstack-attic/akanda-appliance-builder,Core,1.4084507042253522,0.0,1,2
+openstack/oslo.serialization,openstack-attic/akanda-appliance-builder,Non core,0.0,1.9607843137254901,1,2
+openstack/oslo.serialization,openstack-attic/oslo.version,Core,8.571428571428571,8.49056603773585,6,11
+openstack/oslo.serialization,openstack-attic/oslo.version,Non core,0.0,1.8867924528301887,6,11
+openstack/oslo.serialization,openstack-attic/image-api,Core,2.631578947368421,1.7543859649122806,2,3
+openstack/oslo.serialization,openstack-attic/image-api,Non core,0.0,0.8771929824561403,2,3
+openstack/oslo.serialization,openstack-attic/object-api,Core,2.3255813953488373,2.4390243902439024,2,4
+openstack/oslo.serialization,openstack-attic/object-api,Non core,0.0,0.8130081300813009,2,4
+openstack/oslo.serialization,openstack-attic/volume-api,Core,2.5,1.7391304347826086,2,4
+openstack/oslo.serialization,openstack-attic/volume-api,Non core,0.0,1.7391304347826086,2,4
+openstack/oslo.serialization,openstack/magnetodb,Core,2.272727272727273,4.724409448818897,2,8
+openstack/oslo.serialization,openstack/magnetodb,Non core,0.0,1.574803149606299,2,8
+openstack/oslo.serialization,openstack/openstack-nose,Core,1.3513513513513513,0.9615384615384616,1,2
+openstack/oslo.serialization,openstack/openstack-nose,Non core,0.0,0.9615384615384616,1,2
+openstack/oslo.serialization,openstack-attic/netconn-api,Core,4.444444444444445,2.797202797202797,5,5
+openstack/oslo.serialization,openstack-attic/netconn-api,Non core,1.1111111111111112,0.6993006993006993,5,5
+openstack/oslo.serialization,openstack-attic/python-melangeclient,Core,1.36986301369863,0.0,1,1
+openstack/oslo.serialization,openstack-attic/python-melangeclient,Non core,0.0,0.9900990099009901,1,1
+openstack/oslo.serialization,openstack-attic/melange,Core,1.2195121951219512,0.0,2,1
+openstack/oslo.serialization,openstack-attic/melange,Non core,1.2195121951219512,0.9009009009009009,2,1
+openstack/oslo.serialization,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/oslo.serialization,openstack-attic/openstack-qa,Non core,0.0,0.9900990099009901,0,1
+openstack/oslo.serialization,openstack-attic/database-api,Core,3.9473684210526314,0.8849557522123894,3,2
+openstack/oslo.serialization,openstack-attic/database-api,Non core,0.0,0.8849557522123894,3,2
+openstack/oslo.serialization,openstack-attic/openstack-security-notes,Core,0.0,3.75,0,8
+openstack/oslo.serialization,openstack-attic/openstack-security-notes,Non core,0.0,1.25,0,8

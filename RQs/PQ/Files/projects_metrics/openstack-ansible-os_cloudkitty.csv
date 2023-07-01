@@ -1,0 +1,1779 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_cinder,Core,17.272727272727273,21.052631578947366,35,45
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_cinder,Non core,14.545454545454545,12.781954887218044,35,45
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-health,Core,4.597701149425287,3.007518796992481,7,9
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-health,Non core,3.4482758620689653,3.7593984962406015,7,9
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_swift,Core,22.105263157894736,23.636363636363637,37,41
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_swift,Non core,16.842105263157894,13.636363636363635,37,41
+openstack/openstack-ansible-os_cloudkitty,openstack/masakari-specs,Core,4.477611940298507,3.296703296703297,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/masakari-specs,Non core,1.4925373134328357,1.098901098901099,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/telemetry-specs,Core,2.7777777777777777,1.2121212121212122,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/telemetry-specs,Non core,0.0,1.8181818181818181,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/osprofiler,Core,4.918032786885246,2.564102564102564,10,8
+openstack/openstack-ansible-os_cloudkitty,openstack/osprofiler,Non core,3.278688524590164,2.564102564102564,10,8
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_trove,Core,26.47058823529412,31.25,35,40
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_trove,Non core,25.0,18.75,35,40
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_manila,Core,16.363636363636363,34.48275862068966,15,24
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_manila,Non core,10.909090909090908,6.896551724137931,15,24
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-hardening,Core,22.727272727272727,30.0,21,33
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-hardening,Non core,9.090909090909092,11.25,21,33
+openstack/openstack-ansible-os_cloudkitty,openstack/barbican-specs,Core,3.260869565217391,2.2058823529411766,5,4
+openstack/openstack-ansible-os_cloudkitty,openstack/barbican-specs,Non core,2.1739130434782608,0.7352941176470588,5,4
+openstack/openstack-ansible-os_cloudkitty,openstack/python-heatclient,Core,3.286384976525822,2.4390243902439024,13,20
+openstack/openstack-ansible-os_cloudkitty,openstack/python-heatclient,Non core,2.8169014084507045,3.6585365853658534,13,20
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.versionedobjects,Core,5.46875,2.8735632183908044,14,12
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.versionedobjects,Non core,5.46875,4.022988505747127,14,12
+openstack/openstack-ansible-os_cloudkitty,openstack/os-api-ref,Core,6.172839506172839,5.0,12,10
+openstack/openstack-ansible-os_cloudkitty,openstack/os-api-ref,Non core,8.641975308641975,5.0,12,10
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-container,Core,6.451612903225806,1.3333333333333335,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-container,Non core,0.0,2.666666666666667,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/venus-dashboard,Core,0.0,1.5873015873015872,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/venus-dashboard,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/manila-ui,Core,4.3478260869565215,3.9735099337748347,9,12
+openstack/openstack-ansible-os_cloudkitty,openstack/manila-ui,Non core,3.4782608695652173,3.9735099337748347,9,12
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-nfs,Core,3.571428571428571,3.9473684210526314,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-nfs,Non core,0.0,1.3157894736842104,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/taskflow,Core,3.4722222222222223,2.3923444976076556,7,10
+openstack/openstack-ansible-os_cloudkitty,openstack/taskflow,Non core,1.3888888888888888,2.3923444976076556,7,10
+openstack/openstack-ansible-os_cloudkitty,openstack/python-cyborgclient,Core,4.285714285714286,5.434782608695652,7,8
+openstack/openstack-ansible-os_cloudkitty,openstack/python-cyborgclient,Non core,5.714285714285714,3.260869565217391,7,8
+openstack/openstack-ansible-os_cloudkitty,openstack/zun,Core,4.093567251461988,2.586206896551724,16,14
+openstack/openstack-ansible-os_cloudkitty,openstack/zun,Non core,5.263157894736842,3.4482758620689653,16,14
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-openstack-loadbalancer,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-python_venv_build,Core,18.0327868852459,25.333333333333336,16,22
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-python_venv_build,Non core,8.19672131147541,4.0,16,22
+openstack/openstack-ansible-os_cloudkitty,openstack/mistral-dashboard,Core,4.854368932038835,2.4,6,11
+openstack/openstack-ansible-os_cloudkitty,openstack/mistral-dashboard,Non core,0.9708737864077669,6.4,6,11
+openstack/openstack-ansible-os_cloudkitty,openstack/mistral-lib,Core,6.329113924050633,4.0,10,10
+openstack/openstack-ansible-os_cloudkitty,openstack/mistral-lib,Non core,6.329113924050633,6.0,10,10
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-events-api,Core,8.19672131147541,3.75,10,9
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-events-api,Non core,8.19672131147541,7.5,10,9
+openstack/openstack-ansible-os_cloudkitty,openstack/python-zaqarclient,Core,5.426356589147287,3.1055900621118013,11,11
+openstack/openstack-ansible-os_cloudkitty,openstack/python-zaqarclient,Non core,3.10077519379845,3.7267080745341614,11,11
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-api,Core,5.454545454545454,2.575107296137339,14,14
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-api,Non core,3.0303030303030303,3.4334763948497855,14,14
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-persister,Core,7.476635514018691,3.9215686274509802,12,12
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-persister,Non core,3.7383177570093453,3.9215686274509802,12,12
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-notification,Core,7.207207207207207,3.4246575342465753,11,9
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-notification,Non core,2.7027027027027026,2.73972602739726,11,9
+openstack/openstack-ansible-os_cloudkitty,openstack/python-saharaclient,Core,3.6764705882352944,2.312138728323699,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/python-saharaclient,Non core,0.7352941176470588,1.1560693641618496,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-magpie,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-magpie,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_placement,Core,16.666666666666664,24.615384615384617,16,18
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_placement,Non core,12.962962962962962,3.076923076923077,16,18
+openstack/openstack-ansible-os_cloudkitty,openstack/openstackdocstheme,Core,7.476635514018691,6.7114093959731544,10,13
+openstack/openstack-ansible-os_cloudkitty,openstack/openstackdocstheme,Non core,1.8691588785046727,2.013422818791946,10,13
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara,Core,4.377104377104377,2.75,21,18
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara,Non core,2.6936026936026933,1.7500000000000002,21,18
+openstack/openstack-ansible-os_cloudkitty,openstack/ironic-ui,Core,8.51063829787234,3.968253968253968,14,9
+openstack/openstack-ansible-os_cloudkitty,openstack/ironic-ui,Non core,6.382978723404255,3.1746031746031744,14,9
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.serialization,Core,4.901960784313726,3.64963503649635,14,14
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.serialization,Non core,8.823529411764707,6.569343065693431,14,14
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.context,Core,4.25531914893617,2.797202797202797,12,11
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.context,Non core,8.51063829787234,4.895104895104895,12,11
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.limit,Core,2.73972602739726,4.301075268817205,10,8
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.limit,Non core,10.95890410958904,4.301075268817205,10,8
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.middleware,Core,2.4390243902439024,3.7037037037037033,8,15
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.middleware,Non core,4.0650406504065035,5.555555555555555,8,15
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.reports,Core,6.25,3.2520325203252036,13,11
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.reports,Non core,10.0,5.691056910569105,13,11
+openstack/openstack-ansible-os_cloudkitty,openstack/futurist,Core,4.597701149425287,1.8018018018018018,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/futurist,Non core,2.2988505747126435,2.7027027027027026,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.i18n,Core,4.081632653061225,4.225352112676056,12,13
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.i18n,Non core,8.16326530612245,4.929577464788732,12,13
+openstack/openstack-ansible-os_cloudkitty,openstack/sushy-oem-idrac,Core,0.0,1.2987012987012987,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/python-dracclient,Core,2.4096385542168677,1.7543859649122806,5,8
+openstack/openstack-ansible-os_cloudkitty,openstack/python-dracclient,Non core,3.614457831325301,5.263157894736842,5,8
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_adjutant,Core,8.0,16.071428571428573,6,9
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_adjutant,Non core,4.0,0.0,6,9
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_masakari,Core,25.0,27.397260273972602,26,32
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_masakari,Non core,21.428571428571427,16.43835616438356,26,32
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-systemd_mount,Core,20.37037037037037,29.508196721311474,15,19
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-systemd_mount,Non core,7.4074074074074066,1.639344262295082,15,19
+openstack/openstack-ansible-os_cloudkitty,openstack/python-senlinclient,Core,6.349206349206349,4.10958904109589,15,14
+openstack/openstack-ansible-os_cloudkitty,openstack/python-senlinclient,Non core,5.555555555555555,5.47945205479452,15,14
+openstack/openstack-ansible-os_cloudkitty,openstack/senlin-dashboard,Core,4.2105263157894735,3.7593984962406015,11,12
+openstack/openstack-ansible-os_cloudkitty,openstack/senlin-dashboard,Non core,7.368421052631578,5.263157894736842,11,12
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-generic-switch,Core,4.716981132075472,5.691056910569105,7,10
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-generic-switch,Non core,1.8867924528301887,2.4390243902439024,7,10
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-image-elements,Core,5.5045871559633035,0.0,7,1
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-image-elements,Non core,0.9174311926605505,0.7246376811594203,7,1
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-thales-hsm,Core,1.8867924528301887,9.375,1,6
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-thales-hsm,Non core,0.0,0.0,1,6
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-atos-hsm,Core,0.0,4.615384615384616,0,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-atos-hsm,Non core,0.0,0.0,0,3
+openstack/openstack-ansible-os_cloudkitty,openstack/adjutant-ui,Core,3.508771929824561,4.411764705882353,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/adjutant-ui,Non core,3.508771929824561,2.941176470588235,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-extra,Core,4.651162790697675,1.8691588785046727,5,4
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-extra,Non core,1.1627906976744187,1.8691588785046727,5,4
+openstack/openstack-ansible-os_cloudkitty,openstack/blazar-nova,Core,5.194805194805195,4.901960784313726,5,10
+openstack/openstack-ansible-os_cloudkitty,openstack/blazar-nova,Non core,1.2987012987012987,4.901960784313726,5,10
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.service,Core,4.651162790697675,2.7027027027027026,13,12
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.service,Non core,5.426356589147287,3.783783783783784,13,12
+openstack/openstack-ansible-os_cloudkitty,openstack/blazar-dashboard,Core,4.545454545454546,5.376344086021505,8,14
+openstack/openstack-ansible-os_cloudkitty,openstack/blazar-dashboard,Non core,7.575757575757576,9.67741935483871,8,14
+openstack/openstack-ansible-os_cloudkitty,openstack/paunch,Core,3.1914893617021276,3.870967741935484,4,9
+openstack/openstack-ansible-os_cloudkitty,openstack/paunch,Non core,1.0638297872340425,1.935483870967742,4,9
+openstack/openstack-ansible-os_cloudkitty,openstack/service-types-authority,Core,4.477611940298507,3.4482758620689653,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/service-types-authority,Non core,1.4925373134328357,0.8620689655172413,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/python-ironic-inspector-client,Core,9.090909090909092,3.968253968253968,10,12
+openstack/openstack-ansible-os_cloudkitty,openstack/python-ironic-inspector-client,Non core,2.272727272727273,5.555555555555555,10,12
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-memcached_server,Core,27.27272727272727,28.57142857142857,31,38
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-memcached_server,Non core,19.696969696969695,20.77922077922078,31,38
+openstack/openstack-ansible-os_cloudkitty,openstack/os-testr,Core,3.4090909090909087,2.307692307692308,11,9
+openstack/openstack-ansible-os_cloudkitty,openstack/os-testr,Non core,9.090909090909092,4.615384615384616,11,9
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-ceph_client,Core,25.352112676056336,28.40909090909091,31,39
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-ceph_client,Non core,18.30985915492958,15.909090909090908,31,39
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_magnum,Core,27.77777777777778,28.26086956521739,34,43
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_magnum,Non core,19.444444444444446,18.478260869565215,34,43
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_blazar,Core,23.636363636363637,31.818181818181817,25,32
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_blazar,Non core,21.818181818181817,16.666666666666664,25,32
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_designate,Core,26.666666666666668,29.166666666666668,36,46
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_designate,Non core,21.333333333333336,18.75,36,46
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_gnocchi,Core,25.0,28.57142857142857,37,42
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_gnocchi,Non core,26.38888888888889,21.428571428571427,37,42
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_senlin,Core,8.0,14.285714285714285,4,10
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_senlin,Non core,0.0,3.571428571428571,4,10
+openstack/openstack-ansible-os_cloudkitty,openstack/ptgbot,Core,6.557377049180328,5.128205128205128,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/ptgbot,Non core,0.0,1.282051282051282,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_zun,Core,23.214285714285715,32.30769230769231,23,29
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_zun,Non core,17.857142857142858,12.307692307692308,23,29
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-repo_server,Core,21.052631578947366,26.595744680851062,31,38
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-repo_server,Non core,19.736842105263158,13.829787234042554,31,38
+openstack/openstack-ansible-os_cloudkitty,openstack/python-watcherclient,Core,6.722689075630252,5.737704918032787,15,15
+openstack/openstack-ansible-os_cloudkitty,openstack/python-watcherclient,Non core,5.88235294117647,6.557377049180328,15,15
+openstack/openstack-ansible-os_cloudkitty,openstack/heat-agents,Core,5.063291139240507,2.2556390977443606,9,9
+openstack/openstack-ansible-os_cloudkitty,openstack/heat-agents,Non core,6.329113924050633,4.511278195488721,9,9
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.rootwrap,Core,3.508771929824561,3.0864197530864197,9,11
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.rootwrap,Non core,4.385964912280701,3.7037037037037033,9,11
+openstack/openstack-ansible-os_cloudkitty,openstack/automaton,Core,5.263157894736842,3.225806451612903,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/automaton,Non core,2.631578947368421,3.225806451612903,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/debtcollector,Core,4.651162790697675,3.260869565217391,8,6
+openstack/openstack-ansible-os_cloudkitty,openstack/debtcollector,Non core,4.651162790697675,3.260869565217391,8,6
+openstack/openstack-ansible-os_cloudkitty,openstack/vitrage-dashboard,Core,4.807692307692308,2.608695652173913,13,9
+openstack/openstack-ansible-os_cloudkitty,openstack/vitrage-dashboard,Non core,7.6923076923076925,5.217391304347826,13,9
+openstack/openstack-ansible-os_cloudkitty,openstack/oslotest,Core,4.9504950495049505,3.787878787878788,10,12
+openstack/openstack-ansible-os_cloudkitty,openstack/oslotest,Non core,4.9504950495049505,5.303030303030303,10,12
+openstack/openstack-ansible-os_cloudkitty,openstack/kayobe-config,Core,3.4482758620689653,1.6129032258064515,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/kayobe-config,Non core,1.7241379310344827,0.0,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/compute-hyperv,Core,5.128205128205128,4.49438202247191,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/compute-hyperv,Non core,2.564102564102564,3.3707865168539324,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/python-cloudkittyclient,Core,5.0,4.424778761061947,12,13
+openstack/openstack-ansible-os_cloudkitty,openstack/python-cloudkittyclient,Non core,7.000000000000001,7.079646017699115,12,13
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone,Core,3.278688524590164,1.4492753623188406,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone,Non core,3.278688524590164,2.898550724637681,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/cloudkitty-dashboard,Core,7.0588235294117645,5.084745762711865,12,14
+openstack/openstack-ansible-os_cloudkitty,openstack/cloudkitty-dashboard,Non core,7.0588235294117645,6.779661016949152,12,14
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-hyperv,Core,7.526881720430108,6.185567010309279,10,10
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-hyperv,Non core,3.225806451612903,4.123711340206185,10,10
+openstack/openstack-ansible-os_cloudkitty,openstack/i18n,Core,7.0588235294117645,4.23728813559322,8,8
+openstack/openstack-ansible-os_cloudkitty,openstack/i18n,Non core,2.3529411764705883,2.5423728813559325,8,8
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-tests,Core,9.090909090909092,3.418803418803419,12,5
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-tests,Non core,6.493506493506493,0.8547008547008548,12,5
+openstack/openstack-ansible-os_cloudkitty,openstack/python-zunclient,Core,5.0,3.3783783783783785,14,11
+openstack/openstack-ansible-os_cloudkitty,openstack/python-zunclient,Non core,6.666666666666667,4.054054054054054,14,11
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-cdh,Core,3.3333333333333335,7.246376811594203,3,8
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-cdh,Non core,1.6666666666666667,4.3478260869565215,3,8
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-ui,Core,6.0344827586206895,2.3255813953488373,11,14
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-ui,Non core,3.4482758620689653,5.813953488372093,11,14
+openstack/openstack-ansible-os_cloudkitty,openstack/python-adjutantclient,Core,5.172413793103448,4.6875,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/python-adjutantclient,Non core,1.7241379310344827,1.5625,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-lunasa-hsm,Core,1.9607843137254901,3.4482758620689653,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-thresh,Core,4.10958904109589,0.0,5,3
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-thresh,Non core,2.73972602739726,3.061224489795918,5,3
+openstack/openstack-ansible-os_cloudkitty,openstack/heat-specs,Core,3.418803418803419,1.2875536480686696,4,6
+openstack/openstack-ansible-os_cloudkitty,openstack/heat-specs,Non core,0.0,1.2875536480686696,4,6
+openstack/openstack-ansible-os_cloudkitty,openstack/watcher-dashboard,Core,6.976744186046512,2.6785714285714284,14,10
+openstack/openstack-ansible-os_cloudkitty,openstack/watcher-dashboard,Non core,9.30232558139535,6.25,14,10
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-ambari,Core,3.389830508474576,3.0303030303030303,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-ambari,Non core,1.694915254237288,3.0303030303030303,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-mapr,Core,3.4482758620689653,4.285714285714286,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-mapr,Non core,1.7241379310344827,2.857142857142857,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-spark,Core,3.508771929824561,3.225806451612903,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-spark,Non core,1.7543859649122806,1.6129032258064515,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-storm,Core,3.508771929824561,3.225806451612903,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-storm,Non core,1.7543859649122806,3.225806451612903,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-vanilla,Core,3.508771929824561,3.076923076923077,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-plugin-vanilla,Non core,1.7543859649122806,1.5384615384615385,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-specs,Core,4.2105263157894735,2.4193548387096775,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/sahara-specs,Non core,2.1052631578947367,0.8064516129032258,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/venus-tempest-plugin,Core,0.0,1.6666666666666667,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/ceilometermiddleware,Core,6.024096385542169,2.4390243902439024,7,6
+openstack/openstack-ansible-os_cloudkitty,openstack/ceilometermiddleware,Non core,2.4096385542168677,2.4390243902439024,7,6
+openstack/openstack-ansible-os_cloudkitty,openstack/trove-tempest-plugin,Core,8.771929824561402,6.41025641025641,7,7
+openstack/openstack-ansible-os_cloudkitty,openstack/trove-tempest-plugin,Non core,3.508771929824561,2.564102564102564,7,7
+openstack/openstack-ansible-os_cloudkitty,openstack/arch-design,Core,3.7037037037037033,3.4482758620689653,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/arch-design,Non core,3.7037037037037033,1.7241379310344827,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-common,Core,7.079646017699115,3.289473684210526,12,11
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-common,Non core,3.5398230088495577,3.9473684210526314,12,11
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-statsd,Core,10.126582278481013,2.941176470588235,11,10
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-statsd,Non core,3.79746835443038,6.862745098039216,11,10
+openstack/openstack-ansible-os_cloudkitty,openstack/python-monascaclient,Core,5.511811023622047,3.7267080745341614,12,12
+openstack/openstack-ansible-os_cloudkitty,openstack/python-monascaclient,Non core,3.937007874015748,3.7267080745341614,12,12
+openstack/openstack-ansible-os_cloudkitty,openstack/renderspec,Core,7.6923076923076925,5.194805194805195,9,6
+openstack/openstack-ansible-os_cloudkitty,openstack/renderspec,Non core,6.153846153846154,2.5974025974025974,9,6
+openstack/openstack-ansible-os_cloudkitty,openstack/os-service-types,Core,3.076923076923077,2.4096385542168677,7,7
+openstack/openstack-ansible-os_cloudkitty,openstack/os-service-types,Non core,7.6923076923076925,6.024096385542169,7,7
+openstack/openstack-ansible-os_cloudkitty,openstack/masakari-dashboard,Core,2.7777777777777777,3.1578947368421053,5,8
+openstack/openstack-ansible-os_cloudkitty,openstack/masakari-dashboard,Non core,4.166666666666666,5.263157894736842,5,8
+openstack/openstack-ansible-os_cloudkitty,openstack/freezer-dr,Core,7.352941176470589,4.705882352941177,7,8
+openstack/openstack-ansible-os_cloudkitty,openstack/freezer-dr,Non core,2.941176470588235,4.705882352941177,7,8
+openstack/openstack-ansible-os_cloudkitty,openstack/tempest-stress,Core,4.761904761904762,6.153846153846154,7,7
+openstack/openstack-ansible-os_cloudkitty,openstack/tempest-stress,Non core,6.349206349206349,4.615384615384616,7,7
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-neutron-api-genericswitch,Core,3.8461538461538463,3.4482758620689653,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-neutron-api-genericswitch,Non core,0.0,0.0,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-neutron-dynamic-routing,Core,3.125,2.857142857142857,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-neutron-dynamic-routing,Non core,0.0,1.4285714285714286,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-ceph-client,Core,1.7543859649122806,3.1746031746031744,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-ceph-client,Non core,0.0,1.5873015873015872,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-percona-cluster,Core,3.571428571428571,3.0,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-percona-cluster,Non core,3.571428571428571,2.0,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-deployment-guide,Core,2.5,1.1764705882352942,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-deployment-guide,Non core,0.0,2.3529411764705883,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.metrics,Core,0.0,1.4492753623188406,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.metrics,Non core,1.7543859649122806,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.vmware,Core,4.273504273504273,2.13903743315508,13,11
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.vmware,Non core,6.837606837606838,3.7433155080213902,13,11
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.upgradecheck,Core,4.761904761904762,3.9473684210526314,5,7
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.upgradecheck,Non core,3.1746031746031744,5.263157894736842,5,7
+openstack/openstack-ansible-os_cloudkitty,openstack/python-masakariclient,Core,3.571428571428571,5.319148936170213,8,13
+openstack/openstack-ansible-os_cloudkitty,openstack/python-masakariclient,Non core,5.952380952380952,8.51063829787234,8,13
+openstack/openstack-ansible-os_cloudkitty,openstack/python-vitrageclient,Core,5.4945054945054945,2.272727272727273,13,6
+openstack/openstack-ansible-os_cloudkitty,openstack/python-vitrageclient,Non core,8.791208791208792,4.545454545454546,13,6
+openstack/openstack-ansible-os_cloudkitty,openstack/python-blazarclient,Core,3.1578947368421053,3.3057851239669422,8,11
+openstack/openstack-ansible-os_cloudkitty,openstack/python-blazarclient,Non core,5.263157894736842,5.785123966942149,8,11
+openstack/openstack-ansible-os_cloudkitty,openstack/zaqar-tempest-plugin,Core,5.084745762711865,3.9473684210526314,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/zaqar-tempest-plugin,Non core,1.694915254237288,1.3157894736842104,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/tripleo-common-tempest-plugin,Core,6.779661016949152,5.128205128205128,8,10
+openstack/openstack-ansible-os_cloudkitty,openstack/tripleo-common-tempest-plugin,Non core,6.779661016949152,7.6923076923076925,8,10
+openstack/openstack-ansible-os_cloudkitty,openstack/mistral-tempest-plugin,Core,4.545454545454546,2.380952380952381,8,6
+openstack/openstack-ansible-os_cloudkitty,openstack/mistral-tempest-plugin,Non core,7.575757575757576,4.761904761904762,8,6
+openstack/openstack-ansible-os_cloudkitty,openstack/barbican-ui,Core,2.0,3.076923076923077,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/barbican-ui,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/liberasurecode,Core,1.639344262295082,2.7777777777777777,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/liberasurecode,Non core,0.0,1.3888888888888888,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/os-client-config,Core,5.982905982905983,5.369127516778524,12,12
+openstack/openstack-ansible-os_cloudkitty,openstack/os-client-config,Non core,4.273504273504273,2.684563758389262,12,12
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-specs,Core,3.4482758620689653,1.2345679012345678,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-specs,Non core,3.4482758620689653,3.7037037037037033,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/os-performance-tools,Core,4.761904761904762,5.797101449275362,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/os-performance-tools,Non core,4.761904761904762,4.3478260869565215,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/trove-specs,Core,4.651162790697675,1.4814814814814816,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/trove-specs,Non core,0.0,1.4814814814814816,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/manila-image-elements,Core,5.633802816901409,5.4945054945054945,6,10
+openstack/openstack-ansible-os_cloudkitty,openstack/manila-image-elements,Non core,2.8169014084507045,5.4945054945054945,6,10
+openstack/openstack-ansible-os_cloudkitty,openstack/blazar-specs,Core,3.508771929824561,2.7027027027027026,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/blazar-specs,Non core,0.0,0.0,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/molteniron,Core,7.017543859649122,5.263157894736842,5,5
+openstack/openstack-ansible-os_cloudkitty,openstack/molteniron,Non core,1.7543859649122806,1.3157894736842104,5,5
+openstack/openstack-ansible-os_cloudkitty,openstack/solum-specs,Core,8.19672131147541,0.0,5,1
+openstack/openstack-ansible-os_cloudkitty,openstack/solum-specs,Non core,0.0,1.2987012987012987,5,1
+openstack/openstack-ansible-os_cloudkitty,openstack/patrole,Core,3.8461538461538463,4.516129032258064,10,12
+openstack/openstack-ansible-os_cloudkitty,openstack/patrole,Non core,3.8461538461538463,3.225806451612903,10,12
+openstack/openstack-ansible-os_cloudkitty,openstack/performance-docs,Core,3.571428571428571,3.7735849056603774,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/performance-docs,Non core,3.571428571428571,2.8301886792452833,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/sphinx-feature-classification,Core,3.076923076923077,3.571428571428571,5,6
+openstack/openstack-ansible-os_cloudkitty,openstack/sphinx-feature-classification,Non core,4.615384615384616,3.571428571428571,5,6
+openstack/openstack-ansible-os_cloudkitty,openstack/etcd3gw,Core,0.0,3.125,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/etcd3gw,Non core,0.0,0.0,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/watcher-specs,Core,4.395604395604396,2.3255813953488373,7,9
+openstack/openstack-ansible-os_cloudkitty,openstack/watcher-specs,Non core,3.296703296703297,4.651162790697675,7,9
+openstack/openstack-ansible-os_cloudkitty,openstack/yaql,Core,5.0,3.8834951456310676,6,8
+openstack/openstack-ansible-os_cloudkitty,openstack/yaql,Non core,2.5,3.8834951456310676,6,8
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-openstack-guide,Core,10.606060606060606,5.88235294117647,11,10
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-openstack-guide,Non core,6.0606060606060606,5.88235294117647,11,10
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-panko,Core,7.59493670886076,5.063291139240507,10,9
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-panko,Non core,5.063291139240507,6.329113924050633,10,9
+openstack/openstack-ansible-os_cloudkitty,openstack/heat-cfnclient,Core,5.970149253731343,2.3529411764705883,5,3
+openstack/openstack-ansible-os_cloudkitty,openstack/heat-cfnclient,Non core,1.4925373134328357,1.1764705882352942,5,3
+openstack/openstack-ansible-os_cloudkitty,openstack/heat-cfntools,Core,4.444444444444445,2.564102564102564,9,7
+openstack/openstack-ansible-os_cloudkitty,openstack/heat-cfntools,Non core,5.555555555555555,3.418803418803419,9,7
+openstack/openstack-ansible-os_cloudkitty,openstack/heat-templates,Core,4.861111111111112,1.3274336283185841,11,8
+openstack/openstack-ansible-os_cloudkitty,openstack/heat-templates,Non core,2.7777777777777777,2.2123893805309733,11,8
+openstack/openstack-ansible-os_cloudkitty,openstack/governance-sigs,Core,8.0,8.571428571428571,9,17
+openstack/openstack-ansible-os_cloudkitty,openstack/governance-sigs,Non core,4.0,3.571428571428571,9,17
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-zuul-roles,Core,3.8461538461538463,3.1746031746031744,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-zuul-roles,Non core,0.0,1.5873015873015872,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/nova-powervm,Core,5.0,3.4482758620689653,7,9
+openstack/openstack-ansible-os_cloudkitty,openstack/nova-powervm,Non core,2.0,2.7586206896551726,7,9
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-helm-addons,Core,1.2048192771084338,1.875,4,8
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-helm-addons,Non core,3.614457831325301,3.125,4,8
+openstack/openstack-ansible-os_cloudkitty,openstack/python-pankoclient,Core,4.285714285714286,5.88235294117647,5,10
+openstack/openstack-ansible-os_cloudkitty,openstack/python-pankoclient,Non core,2.857142857142857,5.88235294117647,5,10
+openstack/openstack-ansible-os_cloudkitty,openstack/qa-specs,Core,4.3478260869565215,1.875,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/qa-specs,Non core,2.1739130434782608,1.875,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/zaqar-specs,Core,6.329113924050633,1.7391304347826086,7,5
+openstack/openstack-ansible-os_cloudkitty,openstack/zaqar-specs,Non core,2.5316455696202533,2.608695652173913,7,5
+openstack/openstack-ansible-os_cloudkitty,openstack/swift-bench,Core,0.0,1.1494252873563218,2,5
+openstack/openstack-ansible-os_cloudkitty,openstack/swift-bench,Non core,3.0303030303030303,4.597701149425287,2,5
+openstack/openstack-ansible-os_cloudkitty,openstack/whereto,Core,3.4482758620689653,5.88235294117647,9,9
+openstack/openstack-ansible-os_cloudkitty,openstack/whereto,Non core,12.068965517241379,7.352941176470589,9,9
+openstack/openstack-ansible-os_cloudkitty,openstack/murano-specs,Core,4.597701149425287,0.8695652173913043,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/murano-specs,Non core,1.1494252873563218,0.8695652173913043,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-modify-image,Core,4.054054054054054,4.545454545454546,5,8
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-modify-image,Non core,2.7027027027027026,2.727272727272727,5,8
+openstack/openstack-ansible-os_cloudkitty,openstack/requestsexceptions,Core,5.555555555555555,1.4285714285714286,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/requestsexceptions,Non core,0.0,1.4285714285714286,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/panko,Core,7.339449541284404,3.4013605442176873,13,10
+openstack/openstack-ansible-os_cloudkitty,openstack/panko,Non core,4.587155963302752,3.4013605442176873,13,10
+openstack/openstack-ansible-os_cloudkitty,openstack/api-sig,Core,3.0927835051546393,0.819672131147541,4,6
+openstack/openstack-ansible-os_cloudkitty,openstack/api-sig,Non core,1.0309278350515463,1.639344262295082,4,6
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-chef-specs,Core,4.285714285714286,3.488372093023256,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-chef-specs,Non core,0.0,1.1627906976744187,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/freezer-specs,Core,7.8125,5.263157894736842,7,6
+openstack/openstack-ansible-os_cloudkitty,openstack/freezer-specs,Non core,3.125,2.631578947368421,7,6
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.tools,Core,5.405405405405405,2.5316455696202533,8,5
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo.tools,Non core,5.405405405405405,3.79746835443038,8,5
+openstack/openstack-ansible-os_cloudkitty,openstack/microversion-parse,Core,1.7543859649122806,2.9850746268656714,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/microversion-parse,Non core,1.7543859649122806,1.4925373134328357,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/openstackclient,Core,5.797101449275362,4.819277108433735,5,7
+openstack/openstack-ansible-os_cloudkitty,openstack/openstackclient,Non core,1.4492753623188406,3.614457831325301,5,7
+openstack/openstack-ansible-os_cloudkitty,openstack/ossa,Core,2.898550724637681,4.62962962962963,2,8
+openstack/openstack-ansible-os_cloudkitty,openstack/ossa,Non core,0.0,2.7777777777777777,2,8
+openstack/openstack-ansible-os_cloudkitty,openstack/reviewstats,Core,4.132231404958678,2.9585798816568047,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/reviewstats,Non core,0.8264462809917356,1.183431952662722,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo-cookiecutter,Core,4.411764705882353,2.4096385542168677,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo-cookiecutter,Non core,1.4705882352941175,2.4096385542168677,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/security-analysis,Core,3.6363636363636362,2.631578947368421,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/security-analysis,Non core,1.8181818181818181,1.3157894736842104,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-keystone,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-keystone,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-apt_package_pinning,Core,26.666666666666668,33.84615384615385,26,33
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-apt_package_pinning,Non core,16.666666666666664,16.923076923076923,26,33
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-qdrouterd,Core,13.725490196078432,32.78688524590164,11,24
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-qdrouterd,Non core,7.8431372549019605,6.557377049180328,11,24
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-openstack_openrc,Core,21.428571428571427,28.947368421052634,27,31
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-openstack_openrc,Non core,17.142857142857142,11.842105263157894,27,31
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-nspawn_container_create,Core,21.153846153846153,26.984126984126984,19,24
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-nspawn_container_create,Non core,15.384615384615385,11.11111111111111,19,24
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-tools,Core,4.838709677419355,6.153846153846154,5,7
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-tools,Non core,3.225806451612903,4.615384615384616,5,7
+openstack/openstack-ansible-os_cloudkitty,openstack/coverage2sql,Core,5.88235294117647,4.285714285714286,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/coverage2sql,Non core,2.941176470588235,2.857142857142857,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/bashate,Core,5.319148936170213,5.88235294117647,5,8
+openstack/openstack-ansible-os_cloudkitty,openstack/bashate,Non core,0.0,1.9607843137254901,5,8
+openstack/openstack-ansible-os_cloudkitty,openstack/hacking,Core,4.615384615384616,2.9702970297029703,7,9
+openstack/openstack-ansible-os_cloudkitty,openstack/hacking,Non core,0.7692307692307693,1.4851485148514851,7,9
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-mdi,Core,1.8181818181818181,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-mdi,Non core,0.0,1.5151515151515151,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-roboto-fontface,Core,1.8518518518518516,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-roboto-fontface,Non core,0.0,1.4925373134328357,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-chef,Core,5.714285714285714,2.857142857142857,5,4
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-chef,Non core,1.4285714285714286,2.857142857142857,5,4
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstackclient,Core,1.8181818181818181,0.0,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstackclient,Non core,1.8181818181818181,1.5384615384615385,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular,Non core,0.0,1.3333333333333335,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-hacluster,Core,3.0303030303030303,1.4705882352941175,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-hacluster,Non core,0.0,2.941176470588235,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-openstack-specs,Core,9.090909090909092,1.8867924528301887,9,5
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-openstack-specs,Non core,4.545454545454546,2.8301886792452833,9,5
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-monasca,Core,5.47945205479452,1.5873015873015872,8,9
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-monasca,Non core,5.47945205479452,5.555555555555555,8,9
+openstack/openstack-ansible-os_cloudkitty,openstack/eslint-config-openstack,Core,6.557377049180328,3.061224489795918,5,4
+openstack/openstack-ansible-os_cloudkitty,openstack/eslint-config-openstack,Non core,1.639344262295082,1.0204081632653061,5,4
+openstack/openstack-ansible-os_cloudkitty,openstack/karma-subunit-reporter,Core,3.8461538461538463,3.4482758620689653,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/karma-subunit-reporter,Non core,0.0,1.7241379310344827,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-helm-docs,Core,1.8518518518518516,8.450704225352112,3,9
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-helm-docs,Non core,3.7037037037037033,4.225352112676056,3,9
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-specs,Core,12.643678160919542,15.671641791044777,18,32
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-specs,Non core,8.045977011494253,8.208955223880597,18,32
+openstack/openstack-ansible-os_cloudkitty,openstack/tempest-lib,Core,1.0869565217391304,0.6944444444444444,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/tempest-lib,Non core,0.0,0.6944444444444444,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/tripleo-ha-utils,Core,0.0,0.0,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/tripleo-ha-utils,Non core,1.7543859649122806,2.564102564102564,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-vagrant,Core,3.225806451612903,2.631578947368421,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-vagrant,Non core,0.0,1.3157894736842104,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/goal-tools,Core,5.555555555555555,6.0606060606060606,3,6
+openstack/openstack-ansible-os_cloudkitty,openstack/goal-tools,Non core,0.0,3.0303030303030303,3,6
+openstack/openstack-ansible-os_cloudkitty,openstack/cookiecutter,Core,2.2222222222222223,6.0344827586206895,3,8
+openstack/openstack-ansible-os_cloudkitty,openstack/cookiecutter,Non core,1.1111111111111112,0.8620689655172413,3,8
+openstack/openstack-ansible-os_cloudkitty,openstack/dib-utils,Core,6.557377049180328,4.651162790697675,4,7
+openstack/openstack-ansible-os_cloudkitty,openstack/dib-utils,Non core,0.0,3.488372093023256,4,7
+openstack/openstack-ansible-os_cloudkitty,openstack/constellations,Core,3.9215686274509802,3.076923076923077,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/constellations,Non core,3.9215686274509802,4.615384615384616,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-integration-test,Core,4.6875,1.2048192771084338,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-integration-test,Non core,1.5625,4.819277108433735,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-dashboard,Core,4.444444444444445,1.7094017094017095,5,7
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-dashboard,Non core,1.1111111111111112,4.273504273504273,5,7
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-telemetry,Core,4.444444444444445,2.0,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-telemetry,Non core,2.2222222222222223,3.0,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-orchestration,Core,6.25,3.8834951456310676,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-orchestration,Non core,1.25,2.912621359223301,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-bare-metal,Core,1.7241379310344827,1.3888888888888888,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-bare-metal,Non core,1.7241379310344827,4.166666666666666,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-dns,Core,0.0,1.5873015873015872,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-dns,Non core,1.8518518518518516,3.1746031746031744,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-compute,Core,3.6363636363636362,1.4084507042253522,5,6
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-compute,Non core,0.9090909090909091,2.8169014084507045,5,6
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-network,Core,4.504504504504505,1.4598540145985401,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-network,Non core,0.9009009009009009,2.9197080291970803,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-block-storage,Core,4.807692307692308,1.680672268907563,7,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-block-storage,Non core,1.9230769230769231,2.5210084033613445,7,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-image,Core,4.123711340206185,1.694915254237288,5,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-image,Non core,1.0309278350515463,2.5423728813559325,5,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-identity,Core,6.25,1.6129032258064515,8,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-identity,Non core,2.083333333333333,2.4193548387096775,8,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-ops-database,Core,6.329113924050633,1.0204081632653061,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-ops-database,Non core,1.2658227848101267,4.081632653061225,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-ops-messaging,Core,6.944444444444445,1.0869565217391304,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-ops-messaging,Non core,1.3888888888888888,3.260869565217391,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-common,Core,5.769230769230769,2.9197080291970803,8,9
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-common,Non core,1.9230769230769231,3.64963503649635,8,9
+openstack/openstack-ansible-os_cloudkitty,openstack/self-healing-sig,Core,3.508771929824561,3.896103896103896,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/self-healing-sig,Non core,1.7543859649122806,0.0,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/security-specs,Core,4.918032786885246,2.4691358024691357,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/security-specs,Non core,1.639344262295082,2.4691358024691357,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_panko,Core,21.568627450980394,38.333333333333336,23,34
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_panko,Non core,23.52941176470588,18.333333333333332,23,34
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-nspawn_hosts,Core,21.153846153846153,26.5625,20,25
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-nspawn_hosts,Non core,17.307692307692307,12.5,20,25
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-layer-openstack-principle,Core,3.7735849056603774,0.0,2,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,2,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-watcher-dashboard,Core,1.9230769230769231,1.5625,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-watcher-dashboard,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-watcher,Core,1.8518518518518516,1.36986301369863,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-watcher,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-galera_client,Core,21.62162162162162,29.333333333333332,30,37
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-galera_client,Non core,18.91891891891892,20.0,30,37
+openstack/openstack-ansible-os_cloudkitty,openstack/cloudkitty-specs,Core,4.918032786885246,1.2195121951219512,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/cloudkitty-specs,Non core,3.278688524590164,1.2195121951219512,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/osops,Core,1.8518518518518516,1.5873015873015872,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/osops,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-ironic,Core,5.88235294117647,3.571428571428571,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-ironic,Non core,1.9607843137254901,0.0,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/multi-arch-sig,Core,1.9607843137254901,5.084745762711865,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/multi-arch-sig,Non core,0.0,0.0,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-nova-compute-proxy,Core,3.4482758620689653,1.5384615384615385,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-nova-compute-proxy,Non core,1.7241379310344827,1.5384615384615385,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-odl-controller,Core,3.389830508474576,1.5873015873015872,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-odl-controller,Non core,1.694915254237288,1.5873015873015872,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-nova-lxd,Core,6.153846153846154,2.631578947368421,5,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-nova-lxd,Non core,1.5384615384615385,1.3157894736842104,5,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-nova-cell,Core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-barbican-secrets,Core,1.8181818181818181,1.6666666666666667,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-barbican-secrets,Non core,0.0,1.6666666666666667,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-ceph-rbd-mirror,Core,1.8518518518518516,1.639344262295082,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,1.639344262295082,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-placement,Core,1.9607843137254901,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-placement,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-mysql-shared,Core,5.454545454545454,0.0,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-mysql-shared,Non core,0.0,1.6129032258064515,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-dashboard-plugin,Core,1.8181818181818181,1.6666666666666667,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-dashboard-plugin,Non core,0.0,1.6666666666666667,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-neutron-load-balancer,Core,1.8181818181818181,1.6666666666666667,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-neutron-load-balancer,Non core,0.0,1.6666666666666667,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-neutron-plugin-api-subordinate,Core,5.454545454545454,3.225806451612903,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,1.8181818181818181,0.0,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-neutron-plugin,Core,3.7037037037037033,1.6666666666666667,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-neutron-plugin,Non core,0.0,1.6666666666666667,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-json2yaml,Core,2.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-jquery.tablesorter,Core,1.9607843137254901,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-jquery.tablesorter,Non core,0.0,1.694915254237288,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-magic-search,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-magic-search,Non core,0.0,1.4492753623188406,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-jsencrypt,Core,1.8518518518518516,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-jsencrypt,Non core,0.0,1.4492753623188406,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-js-yaml,Core,1.9607843137254901,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-spin,Core,1.9607843137254901,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-spin,Non core,0.0,1.694915254237288,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-rickshaw,Core,1.8181818181818181,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-rickshaw,Non core,0.0,1.5151515151515151,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-panko,Core,1.8518518518518516,3.125,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-panko,Non core,0.0,1.5625,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-service-control,Core,1.8181818181818181,1.639344262295082,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-service-control,Non core,1.8181818181818181,3.278688524590164,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_almanach,Core,26.923076923076923,22.727272727272727,23,22
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_almanach,Non core,17.307692307692307,10.606060606060606,23,22
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-pip_install,Core,21.428571428571427,23.655913978494624,28,33
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-pip_install,Non core,18.571428571428573,11.827956989247312,28,33
+openstack/openstack-ansible-os_cloudkitty,openstack/python-karborclient,Core,5.376344086021505,5.555555555555555,9,11
+openstack/openstack-ansible-os_cloudkitty,openstack/python-karborclient,Non core,4.301075268817205,4.62962962962963,9,11
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone-admin,Core,5.88235294117647,0.0,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone-admin,Non core,0.0,1.694915254237288,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-nova-compute,Core,3.6363636363636362,1.639344262295082,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-nova-compute,Non core,1.8181818181818181,6.557377049180328,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-manila-plugin,Core,3.7735849056603774,1.6666666666666667,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-manila-plugin,Non core,0.0,1.6666666666666667,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/murano-apps,Core,5.208333333333334,2.459016393442623,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/murano-apps,Non core,1.0416666666666665,0.819672131147541,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-senlin,Core,5.084745762711865,3.0303030303030303,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-senlin,Non core,5.084745762711865,7.575757575757576,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-application-catalog,Core,1.9230769230769231,0.0,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-application-catalog,Non core,3.8461538461538463,5.0,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/training-labs,Core,9.333333333333334,5.617977528089887,12,11
+openstack/openstack-ansible-os_cloudkitty,openstack/training-labs,Non core,6.666666666666667,6.741573033707865,12,11
+openstack/openstack-ansible-os_cloudkitty,openstack/karbor,Core,5.263157894736842,3.9800995024875623,11,18
+openstack/openstack-ansible-os_cloudkitty,openstack/karbor,Non core,1.9736842105263157,4.975124378109453,11,18
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-open-cas,Core,1.9607843137254901,1.5625,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_congress,Core,20.37037037037037,28.985507246376812,21,30
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_congress,Non core,18.51851851851852,14.492753623188406,21,30
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone-notifications,Core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/os-collect-config,Core,6.451612903225806,3.289473684210526,10,7
+openstack/openstack-ansible-os_cloudkitty,openstack/os-collect-config,Non core,4.301075268817205,1.3157894736842104,10,7
+openstack/openstack-ansible-os_cloudkitty,openstack/os-apply-config,Core,6.521739130434782,5.0359712230215825,10,12
+openstack/openstack-ansible-os_cloudkitty,openstack/os-apply-config,Non core,4.3478260869565215,3.597122302158273,10,12
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-freezer,Core,7.8125,5.633802816901409,10,11
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-freezer,Non core,7.8125,9.859154929577464,10,11
+openstack/openstack-ansible-os_cloudkitty,openstack/vitrage-specs,Core,5.063291139240507,0.0,8,5
+openstack/openstack-ansible-os_cloudkitty,openstack/vitrage-specs,Non core,5.063291139240507,4.9504950495049505,8,5
+openstack/openstack-ansible-os_cloudkitty,openstack/specs-cookiecutter,Core,5.454545454545454,4.545454545454546,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/specs-cookiecutter,Non core,0.0,1.5151515151515151,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/rpm-packaging-tools,Core,5.263157894736842,5.263157894736842,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/rpm-packaging-tools,Non core,1.7543859649122806,1.3157894736842104,4,5
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-openstack-operations,Core,3.278688524590164,2.8169014084507045,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-openstack-operations,Non core,3.278688524590164,0.0,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/os-refresh-config,Core,6.25,3.278688524590164,8,8
+openstack/openstack-ansible-os_cloudkitty,openstack/os-refresh-config,Non core,3.75,3.278688524590164,8,8
+openstack/openstack-ansible-os_cloudkitty,openstack/mistral-specs,Core,5.555555555555555,1.1111111111111112,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/mistral-specs,Non core,2.7777777777777777,3.3333333333333335,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/scientific-wg,Core,3.9215686274509802,3.4482758620689653,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/scientific-wg,Non core,0.0,1.7241379310344827,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone-fid-service-provider,Core,1.9230769230769231,1.6666666666666667,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/manila-test-image,Core,3.9215686274509802,2.9850746268656714,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/manila-test-image,Non core,0.0,2.9850746268656714,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/governance-website,Core,3.6363636363636362,7.142857142857142,4,6
+openstack/openstack-ansible-os_cloudkitty,openstack/governance-website,Non core,3.6363636363636362,1.4285714285714286,4,6
+openstack/openstack-ansible-os_cloudkitty,openstack/bugdaystats,Core,0.0,1.4492753623188406,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/bugdaystats,Non core,0.0,1.4492753623188406,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/upstream-institute-virtual-environment,Core,0.0,6.25,0,4
+openstack/openstack-ansible-os_cloudkitty,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,4
+openstack/openstack-ansible-os_cloudkitty,openstack/karbor-dashboard,Core,5.263157894736842,4.854368932038835,11,11
+openstack/openstack-ansible-os_cloudkitty,openstack/karbor-dashboard,Non core,9.210526315789473,5.825242718446602,11,11
+openstack/openstack-ansible-os_cloudkitty,openstack/django_openstack_auth,Core,4.958677685950414,0.9216589861751152,6,3
+openstack/openstack-ansible-os_cloudkitty,openstack/django_openstack_auth,Non core,0.0,0.4608294930875576,6,3
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-transform,Core,7.59493670886076,3.0303030303030303,11,8
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-transform,Non core,6.329113924050633,5.05050505050505,11,8
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-ceilometer,Core,7.954545454545454,3.3057851239669422,11,8
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-ceilometer,Non core,4.545454545454546,3.3057851239669422,11,8
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-log-api,Core,8.51063829787234,3.64963503649635,11,12
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-log-api,Non core,3.1914893617021276,5.109489051094891,11,12
+openstack/openstack-ansible-os_cloudkitty,openstack/nose-html-output,Core,3.571428571428571,2.9850746268656714,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/nose-html-output,Non core,0.0,1.4925373134328357,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/kolla-cli,Core,1.5384615384615385,2.3255813953488373,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/kolla-cli,Non core,7.6923076923076925,5.813953488372093,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/neutron-lbaas-dashboard,Core,4.545454545454546,3.007518796992481,9,11
+openstack/openstack-ansible-os_cloudkitty,openstack/neutron-lbaas-dashboard,Non core,5.681818181818182,5.263157894736842,9,11
+openstack/openstack-ansible-os_cloudkitty,openstack/searchlight,Core,3.225806451612903,2.2598870056497176,12,14
+openstack/openstack-ansible-os_cloudkitty,openstack/searchlight,Non core,4.516129032258064,5.649717514124294,12,14
+openstack/openstack-ansible-os_cloudkitty,openstack/searchlight-ui,Core,5.88235294117647,3.0,10,7
+openstack/openstack-ansible-os_cloudkitty,openstack/searchlight-ui,Non core,5.88235294117647,4.0,10,7
+openstack/openstack-ansible-os_cloudkitty,openstack/searchlight-specs,Core,6.0606060606060606,2.2988505747126435,7,4
+openstack/openstack-ansible-os_cloudkitty,openstack/searchlight-specs,Non core,4.545454545454546,2.2988505747126435,7,4
+openstack/openstack-ansible-os_cloudkitty,openstack/python-searchlightclient,Core,6.024096385542169,1.9607843137254901,11,8
+openstack/openstack-ansible-os_cloudkitty,openstack/python-searchlightclient,Non core,7.228915662650602,5.88235294117647,11,8
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-tempest,Core,2.898550724637681,2.631578947368421,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-tempest,Non core,0.0,2.631578947368421,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-barbican-softhsm,Core,3.0303030303030303,2.8169014084507045,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-barbican-softhsm,Non core,0.0,2.8169014084507045,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-client,Core,1.8181818181818181,0.0,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-client,Non core,1.8181818181818181,2.941176470588235,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/instack-undercloud,Core,3.5211267605633805,1.6,9,10
+openstack/openstack-ansible-os_cloudkitty,openstack/instack-undercloud,Non core,2.8169014084507045,2.4,9,10
+openstack/openstack-ansible-os_cloudkitty,openstack/publiccloud-sig,Core,3.7735849056603774,3.225806451612903,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/publiccloud-sig,Non core,1.8867924528301887,1.6129032258064515,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ideas,Core,8.0,7.59493670886076,4,6
+openstack/openstack-ansible-os_cloudkitty,openstack/ideas,Non core,0.0,0.0,4,6
+openstack/openstack-ansible-os_cloudkitty,openstack/uc-recognition,Core,1.9607843137254901,1.5873015873015872,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/uc-recognition,Non core,0.0,1.5873015873015872,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ops-tags-team,Core,1.7241379310344827,2.3529411764705883,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ops-tags-team,Non core,0.0,1.1764705882352942,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/enterprise-wg,Core,2.0408163265306123,1.8181818181818181,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/enterprise-wg,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/governance-uc,Core,4.477611940298507,7.07070707070707,4,11
+openstack/openstack-ansible-os_cloudkitty,openstack/governance-uc,Non core,1.4925373134328357,4.040404040404041,4,11
+openstack/openstack-ansible-os_cloudkitty,openstack/workload-ref-archs,Core,5.263157894736842,6.153846153846154,5,6
+openstack/openstack-ansible-os_cloudkitty,openstack/workload-ref-archs,Non core,3.508771929824561,3.076923076923077,5,6
+openstack/openstack-ansible-os_cloudkitty,openstack/arch-wg,Core,1.9230769230769231,1.4285714285714286,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/arch-wg,Non core,0.0,1.4285714285714286,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/project-navigator-data,Core,4.615384615384616,6.666666666666667,3,6
+openstack/openstack-ansible-os_cloudkitty,openstack/project-navigator-data,Non core,0.0,1.3333333333333335,3,6
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-specs,Core,4.545454545454546,2.1739130434782608,3,7
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-specs,Non core,0.0,0.8695652173913043,3,7
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_monasca,Core,31.57894736842105,29.72972972972973,29,35
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_monasca,Non core,19.298245614035086,17.56756756756757,29,35
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_monasca-agent,Core,22.641509433962266,24.615384615384617,21,26
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_monasca-agent,Non core,16.9811320754717,15.384615384615385,21,26
+openstack/openstack-ansible-os_cloudkitty,openstack/ironic-inspector-specs,Core,4.545454545454546,1.0101010101010102,8,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ironic-inspector-specs,Non core,7.575757575757576,2.0202020202020203,8,3
+openstack/openstack-ansible-os_cloudkitty,openstack/sushy-cli,Core,1.7857142857142856,0.0,2,0
+openstack/openstack-ansible-os_cloudkitty,openstack/sushy-cli,Non core,1.7857142857142856,0.0,2,0
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-glare,Core,8.571428571428571,6.666666666666667,9,10
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-glare,Non core,4.285714285714286,6.666666666666667,9,10
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-bootstrap-scss,Core,1.8181818181818181,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-bootstrap-scss,Non core,0.0,1.4492753623188406,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-planet,Core,3.041825095057034,2.547770700636943,9,6
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-planet,Non core,0.38022813688212925,1.2738853503184715,9,6
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone-credentials,Core,5.454545454545454,1.6129032258064515,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone-credentials,Non core,1.8181818181818181,1.6129032258064515,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-kibana-plugin,Core,5.263157894736842,1.3888888888888888,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-kibana-plugin,Non core,0.0,2.7777777777777777,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone-domain-backend,Core,5.660377358490567,1.694915254237288,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-amqp1,Core,9.090909090909092,4.166666666666666,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-amqp1,Non core,1.8181818181818181,1.3888888888888888,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-kafka,Core,3.7037037037037033,2.898550724637681,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-kafka,Non core,1.8518518518518516,1.4492753623188406,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/tripleo-ipsec,Core,3.4482758620689653,2.857142857142857,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/tripleo-ipsec,Non core,1.7241379310344827,4.285714285714286,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-grafana-datasource,Core,1.7241379310344827,0.0,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-grafana-datasource,Non core,1.7241379310344827,2.5974025974025974,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-bind-rndc,Core,5.555555555555555,1.639344262295082,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-bind-rndc,Non core,1.8518518518518516,1.639344262295082,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-rabbitmq,Core,5.555555555555555,1.6129032258064515,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-rabbitmq,Non core,0.0,1.6129032258064515,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-openstack-ha,Core,3.7037037037037033,3.278688524590164,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-openstack-ha,Non core,0.0,1.639344262295082,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-gnocchi,Core,5.769230769230769,2.941176470588235,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-gnocchi,Non core,0.0,0.0,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-bgp,Core,3.6363636363636362,1.639344262295082,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-bgp,Non core,0.0,1.639344262295082,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-websso-fid-service-provider,Core,1.9607843137254901,1.7241379310344827,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-designate,Core,1.9230769230769231,1.694915254237288,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/tempest-horizon,Core,7.8125,2.7777777777777777,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/tempest-horizon,Non core,1.5625,4.166666666666666,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/logstash-filters,Core,0.0,1.7241379310344827,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/logstash-filters,Non core,0.0,1.7241379310344827,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-jquery-migrate,Core,1.9230769230769231,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-jquery-migrate,Non core,0.0,1.6666666666666667,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/qinling-dashboard,Core,3.7037037037037033,4.615384615384616,3,6
+openstack/openstack-ansible-os_cloudkitty,openstack/qinling-dashboard,Non core,1.8518518518518516,4.615384615384616,3,6
+openstack/openstack-ansible-os_cloudkitty,openstack/python-qinlingclient,Core,4.3478260869565215,4.166666666666666,11,9
+openstack/openstack-ansible-os_cloudkitty,openstack/python-qinlingclient,Non core,11.594202898550725,8.333333333333332,11,9
+openstack/openstack-ansible-os_cloudkitty,openstack/qinling,Core,6.097560975609756,4.819277108433735,12,9
+openstack/openstack-ansible-os_cloudkitty,openstack/qinling,Non core,8.536585365853659,6.024096385542169,12,9
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-analytics,Core,10.606060606060606,4.395604395604396,9,6
+openstack/openstack-ansible-os_cloudkitty,openstack/monasca-analytics,Non core,3.0303030303030303,2.197802197802198,9,6
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo-incubator,Core,1.9047619047619049,1.0482180293501049,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/oslo-incubator,Non core,0.0,0.41928721174004197,6,7
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-congress,Core,8.695652173913043,2.73972602739726,10,6
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-congress,Non core,5.797101449275362,5.47945205479452,10,6
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_monasca-ui,Core,9.615384615384617,15.0,10,14
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_monasca-ui,Non core,9.615384615384617,8.333333333333332,10,14
+openstack/openstack-ansible-os_cloudkitty,openstack/auto-scaling-sig,Core,1.8518518518518516,1.4285714285714286,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/auto-scaling-sig,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/os-loganalyze,Core,2.631578947368421,2.941176470588235,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/os-loganalyze,Non core,0.0,0.9803921568627451,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-pika,Core,1.8867924528301887,4.838709677419355,1,4
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-pika,Non core,0.0,1.6129032258064515,1,4
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-zmq,Core,7.2727272727272725,4.615384615384616,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-zmq,Non core,0.0,1.5384615384615385,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-l2gw,Core,4.587155963302752,2.525252525252525,8,8
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-l2gw,Non core,2.7522935779816518,1.5151515151515151,8,8
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-l2gw-tempest-plugin,Core,5.263157894736842,4.0,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-l2gw-tempest-plugin,Non core,1.7543859649122806,0.0,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-ceph-mds,Core,5.555555555555555,0.0,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-ceph-mds,Non core,0.0,1.6666666666666667,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-ui-router,Core,1.9607843137254901,1.6666666666666667,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-ui-router,Non core,0.0,1.6666666666666667,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-vis,Core,3.9215686274509802,1.694915254237288,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-vis,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-database,Core,1.7543859649122806,2.666666666666667,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-database,Non core,0.0,1.3333333333333335,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-data-processing,Core,1.8518518518518516,2.898550724637681,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-data-processing,Non core,0.0,1.4492753623188406,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/trove-integration,Core,2.6785714285714284,2.6490066225165565,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/trove-integration,Non core,0.0,0.6622516556291391,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-sensu,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-sensu,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/python-ceilometerclient,Core,3.79746835443038,1.276595744680851,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/python-ceilometerclient,Non core,0.0,0.425531914893617,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/keystoneauth-saml2,Core,3.3333333333333335,2.3529411764705883,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/keystoneauth-saml2,Non core,0.0,1.1764705882352942,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/murano-deployment,Core,4.938271604938271,1.1235955056179776,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/murano-deployment,Non core,0.0,1.1235955056179776,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/python-keystoneclient-kerberos,Core,3.3333333333333335,2.4096385542168677,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/python-keystoneclient-kerberos,Non core,0.0,1.2048192771084338,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/python-wsmanclient,Core,1.9230769230769231,1.639344262295082,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/python-wsmanclient,Non core,0.0,1.639344262295082,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-upgrade,Core,3.508771929824561,1.2658227848101267,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-upgrade,Non core,0.0,1.2658227848101267,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-object-storage,Core,4.054054054054054,3.225806451612903,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/cookbook-openstack-object-storage,Non core,0.0,1.0752688172043012,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/fairy-slipper,Core,3.6363636363636362,2.941176470588235,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/fairy-slipper,Non core,0.0,1.4705882352941175,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/django-openstack-auth-kerberos,Core,3.7735849056603774,1.4492753623188406,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/django-openstack-auth-kerberos,Non core,0.0,1.4492753623188406,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/horizon-cisco-ui,Core,6.896551724137931,3.076923076923077,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/horizon-cisco-ui,Non core,0.0,1.5384615384615385,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/zuul-packaging,Core,4.0,4.918032786885246,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/zuul-packaging,Non core,0.0,1.639344262295082,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-generic-switch-tempest-plugin,Core,2.0,1.8181818181818181,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/tripleo-incubator,Core,2.097902097902098,0.9389671361502347,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/tripleo-incubator,Non core,0.0,0.9389671361502347,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/ironic-webclient,Core,1.8181818181818181,1.2195121951219512,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ironic-webclient,Non core,0.0,2.4390243902439024,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-crane,Core,2.0,3.6363636363636362,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/puppet-crane,Non core,0.0,1.8181818181818181,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/release-tools,Core,5.063291139240507,5.0,4,7
+openstack/openstack-ansible-os_cloudkitty,openstack/release-tools,Non core,0.0,0.8333333333333334,4,7
+openstack/openstack-ansible-os_cloudkitty,openstack/gnocchi,Core,4.464285714285714,1.1235955056179776,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/gnocchi,Non core,0.8928571428571428,2.247191011235955,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-ofagent,Core,1.694915254237288,2.5974025974025974,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-ofagent,Non core,0.0,1.2987012987012987,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/python-neutron-pd-driver,Core,1.9607843137254901,3.571428571428571,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/python-neutron-pd-driver,Non core,0.0,1.7857142857142856,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-ceph,Core,1.4705882352941175,1.4084507042253522,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-ceph,Non core,0.0,2.8169014084507045,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_freezer,Core,4.081632653061225,5.555555555555555,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-pip_lock_down,Core,14.814814814814813,13.559322033898304,9,11
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-pip_lock_down,Non core,1.8518518518518516,5.084745762711865,9,11
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-security,Core,14.666666666666666,14.705882352941178,13,22
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-security,Non core,2.666666666666667,6.862745098039216,13,22
+openstack/openstack-ansible-os_cloudkitty,openstack/oslosphinx,Core,4.545454545454546,5.3097345132743365,8,11
+openstack/openstack-ansible-os_cloudkitty,openstack/oslosphinx,Non core,4.545454545454546,4.424778761061947,8,11
+openstack/openstack-ansible-os_cloudkitty,openstack/python-gnocchiclient,Core,1.2658227848101267,2.380952380952381,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/python-gnocchiclient,Non core,0.0,1.1904761904761905,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-cinder,Core,1.9607843137254901,1.7543859649122806,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-cookiecutter,Core,4.0,3.508771929824561,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-glance,Core,6.0,3.508771929824561,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-keystone,Core,6.0,1.6666666666666667,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,3,1
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-mariadb,Core,8.0,3.389830508474576,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-rabbitmq,Core,2.0,1.8181818181818181,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-tripleo,Core,6.0,3.4482758620689653,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-ui,Core,3.8461538461538463,5.084745762711865,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-ui,Non core,3.8461538461538463,0.0,4,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-aodh,Core,5.88235294117647,3.389830508474576,5,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-aodh,Non core,3.9215686274509802,1.694915254237288,5,3
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-barbican,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-barbican,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-ceilometer,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-ceilometer,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-cinder,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-cinder,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-cookiecutter,Core,7.4074074074074066,4.615384615384616,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-cookiecutter,Non core,3.7037037037037033,1.5384615384615385,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/tripleo-ui,Core,5.128205128205128,4.310344827586207,6,8
+openstack/openstack-ansible-os_cloudkitty,openstack/tripleo-ui,Non core,2.564102564102564,2.586206896551724,6,8
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-ovn,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-ovn,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-opendaylight,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-opendaylight,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-octavia,Core,7.8431372549019605,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-octavia,Non core,1.9607843137254901,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-nova,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-nova,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/os-cloud-config,Core,4.123711340206185,1.3888888888888888,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/os-cloud-config,Non core,0.0,1.3888888888888888,4,4
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-zaqar,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-zaqar,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-tempest,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-tempest,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-sahara,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-sahara,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-swift,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-swift,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-tacker,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-tacker,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-rabbitmq,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-rabbitmq,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-qdrouterd,Core,4.081632653061225,3.6363636363636362,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-panko,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-panko,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-heat,Core,5.88235294117647,3.4482758620689653,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-heat,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-haproxy,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-haproxy,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-gnocchi,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-gnocchi,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-glance,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-glance,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-designate,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-designate,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-neutron,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-neutron,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-mistral,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-mistral,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-memcached,Core,5.88235294117647,3.3333333333333335,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-memcached,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-manila,Core,5.88235294117647,3.3333333333333335,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-manila,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-ironic,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-ironic,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-keepalived,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-keepalived,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-horizon,Core,5.88235294117647,3.389830508474576,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/ansible-role-tripleo-horizon,Non core,3.9215686274509802,0.0,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/pylockfile,Core,3.571428571428571,2.8169014084507045,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/pylockfile,Non core,0.0,1.4084507042253522,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/dragonflow,Core,5.063291139240507,3.9301310043668125,16,17
+openstack/openstack-ansible-os_cloudkitty,openstack/dragonflow,Non core,5.063291139240507,3.4934497816593884,16,17
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack,Core,1.8867924528301887,5.970149253731343,1,5
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack,Non core,0.0,1.4925373134328357,1,5
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-pacemaker-remote,Core,1.8867924528301887,1.639344262295082,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-pacemaker-remote,Non core,0.0,1.639344262295082,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-onos,Core,3.125,3.0303030303030303,2,5
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-onos,Non core,0.0,2.0202020202020203,2,5
+openstack/openstack-ansible-os_cloudkitty,openstack/solum-infra-guestagent,Core,1.8181818181818181,1.5151515151515151,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/solum-infra-guestagent,Non core,0.0,1.5151515151515151,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ux,Core,1.9230769230769231,1.4084507042253522,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ux,Non core,0.0,1.4084507042253522,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/mox3,Core,7.462686567164178,5.88235294117647,9,7
+openstack/openstack-ansible-os_cloudkitty,openstack/mox3,Non core,5.970149253731343,2.3529411764705883,9,7
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-layer-ceph,Core,1.9607843137254901,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-layer-ceph-base,Core,3.8461538461538463,0.0,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-layer-ceph-base,Non core,0.0,1.694915254237288,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/python-tricircleclient,Core,6.451612903225806,6.41025641025641,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/python-tricircleclient,Non core,3.225806451612903,1.282051282051282,6,6
+openstack/openstack-ansible-os_cloudkitty,openstack/tricircle,Core,6.837606837606838,3.8461538461538463,13,11
+openstack/openstack-ansible-os_cloudkitty,openstack/tricircle,Non core,4.273504273504273,2.197802197802198,13,11
+openstack/openstack-ansible-os_cloudkitty,openstack/swift-specs,Core,4.285714285714286,1.7241379310344827,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/swift-specs,Non core,0.0,0.8620689655172413,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/congress,Core,4.864864864864865,1.5873015873015872,17,13
+openstack/openstack-ansible-os_cloudkitty,openstack/congress,Non core,4.324324324324325,3.571428571428571,17,13
+openstack/openstack-ansible-os_cloudkitty,openstack/congress-tempest-plugin,Core,6.557377049180328,6.944444444444445,8,8
+openstack/openstack-ansible-os_cloudkitty,openstack/congress-tempest-plugin,Non core,6.557377049180328,4.166666666666666,8,8
+openstack/openstack-ansible-os_cloudkitty,openstack/python-congressclient,Core,5.4945054945054945,5.208333333333334,10,11
+openstack/openstack-ansible-os_cloudkitty,openstack/python-congressclient,Non core,5.4945054945054945,6.25,10,11
+openstack/openstack-ansible-os_cloudkitty,openstack/congress-specs,Core,7.6923076923076925,1.0309278350515463,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/congress-specs,Non core,0.0,4.123711340206185,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/congress-dashboard,Core,4.615384615384616,5.263157894736842,9,13
+openstack/openstack-ansible-os_cloudkitty,openstack/congress-dashboard,Non core,9.230769230769232,11.842105263157894,9,13
+openstack/openstack-ansible-os_cloudkitty,openstack/syntribos,Core,6.944444444444445,1.1363636363636365,8,2
+openstack/openstack-ansible-os_cloudkitty,openstack/syntribos,Non core,4.166666666666666,1.1363636363636365,8,2
+openstack/openstack-ansible-os_cloudkitty,openstack/syntribos-payloads,Core,2.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/syntribos-payloads,Non core,0.0,1.6666666666666667,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/syntribos-openstack-templates,Core,1.9230769230769231,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/syntribos-openstack-templates,Non core,0.0,1.6129032258064515,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/i18n-specs,Core,4.0,1.6666666666666667,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/i18n-specs,Non core,0.0,1.6666666666666667,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/tempest-plugin-cookiecutter,Core,3.9215686274509802,4.761904761904762,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/tempest-plugin-cookiecutter,Non core,1.9607843137254901,1.5873015873015872,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-cookiecutter,Core,3.9215686274509802,1.7241379310344827,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/devstack-plugin-cookiecutter,Non core,0.0,1.7241379310344827,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-graphlib,Core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-repo_build,Core,20.51282051282051,20.388349514563107,30,35
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-repo_build,Non core,17.94871794871795,13.592233009708737,30,35
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-bootstrap-datepicker,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-bootstrap-datepicker,Non core,0.0,1.4285714285714286,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-hogan,Core,1.9607843137254901,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-hogan,Non core,0.0,1.694915254237288,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-jquery.quicksearch,Core,1.9607843137254901,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-jquery.quicksearch,Non core,0.0,1.694915254237288,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_molteniron,Core,20.754716981132077,24.193548387096776,20,23
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_molteniron,Non core,16.9811320754717,12.903225806451612,20,23
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-lrdragndrop,Core,1.8181818181818181,3.076923076923077,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-lrdragndrop,Non core,0.0,1.5384615384615385,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/faafo,Core,7.142857142857142,1.4285714285714286,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/faafo,Non core,0.0,1.4285714285714286,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-bootstrap,Core,1.7241379310344827,1.4084507042253522,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-bootstrap,Non core,0.0,1.4084507042253522,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-calico,Core,9.45945945945946,4.761904761904762,9,7
+openstack/openstack-ansible-os_cloudkitty,openstack/networking-calico,Non core,2.7027027027027026,1.9047619047619049,9,7
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-gettext,Core,1.8181818181818181,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-gettext,Non core,0.0,1.4925373134328357,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/shotgun,Core,1.4705882352941175,0.7936507936507936,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/shotgun,Non core,0.0,0.7936507936507936,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-aioeventlet,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-devops,Core,3.7735849056603774,0.5181347150259068,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-devops,Non core,0.9433962264150944,0.5181347150259068,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-plugin-murano,Core,3.3333333333333335,1.2195121951219512,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-plugin-murano,Non core,0.0,1.2195121951219512,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-web,Core,1.574803149606299,0.45558086560364464,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-web,Non core,0.7874015748031495,0.683371298405467,6,5
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-plugins,Core,4.395604395604396,0.6535947712418301,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-plugins,Non core,0.0,0.6535947712418301,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-virtualbox,Core,3.508771929824561,1.3513513513513513,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-virtualbox,Non core,0.0,1.3513513513513513,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-ostf,Core,3.5211267605633805,0.3787878787878788,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-ostf,Non core,0.0,0.3787878787878788,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-qa,Core,1.7647058823529411,0.6802721088435374,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-qa,Non core,0.0,1.0204081632653061,3,5
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-specs,Core,2.013422818791946,0.5730659025787965,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-specs,Non core,0.0,0.28653295128939826,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-nailgun-extension-cluster-upgrade,Core,3.508771929824561,1.3513513513513513,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,1.7543859649122806,1.3513513513513513,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-nailgun-agent,Core,1.1627906976744187,0.6711409395973155,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-nailgun-agent,Non core,0.0,0.6711409395973155,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-mirror,Core,2.5,0.6493506493506493,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-mirror,Non core,0.0,0.6493506493506493,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-menu,Core,3.7037037037037033,1.2121212121212122,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-menu,Non core,0.0,0.6060606060606061,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-main,Core,1.0752688172043012,0.6711409395973155,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-main,Non core,0.0,0.6711409395973155,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-ui,Core,2.247191011235955,0.7142857142857143,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-ui,Non core,0.0,1.4285714285714286,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-library,Core,2.0491803278688523,0.8247422680412372,5,8
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-library,Non core,0.0,0.8247422680412372,5,8
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-dev-tools,Core,5.0,1.3513513513513513,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-dev-tools,Non core,0.0,1.3513513513513513,3,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-stats,Core,6.0606060606060606,1.0,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-stats,Non core,0.0,1.0,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-nailgun-extension-converted-serializers,Core,1.9607843137254901,1.7543859649122806,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,1.7543859649122806,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-nailgun-extension-iac,Core,3.8461538461538463,1.694915254237288,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-nailgun-extension-iac,Non core,0.0,1.694915254237288,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-plugin-murano-tests,Core,3.389830508474576,1.2195121951219512,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-plugin-murano-tests,Non core,0.0,1.2195121951219512,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-astute,Core,1.7699115044247788,0.4878048780487805,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-astute,Non core,0.0,0.4878048780487805,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-docs,Core,0.6993006993006993,0.547945205479452,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-docs,Non core,0.6993006993006993,0.547945205479452,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-agent,Core,4.385964912280701,0.4975124378109453,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-agent,Non core,0.0,0.4975124378109453,5,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-octane,Core,5.333333333333334,0.9433962264150944,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/fuel-octane,Non core,2.666666666666667,2.8301886792452833,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/tuning-box,Core,3.8461538461538463,2.564102564102564,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/tuning-box,Non core,1.9230769230769231,1.282051282051282,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/python-fuelclient,Core,1.7094017094017095,0.5050505050505051,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/python-fuelclient,Non core,0.0,1.0101010101010102,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/neutron-interconnection,Core,0.0,3.125,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/neutron-interconnection,Non core,0.0,0.0,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-chef-repo,Core,2.272727272727273,1.8867924528301887,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-chef-repo,Non core,1.1363636363636365,0.9433962264150944,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/os-acc,Core,0.0,1.3888888888888888,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/os-acc,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_zaqar,Core,25.862068965517242,26.08695652173913,28,34
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_zaqar,Non core,22.413793103448278,23.18840579710145,28,34
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_watcher,Core,26.923076923076923,27.692307692307693,29,30
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_watcher,Non core,28.846153846153843,18.461538461538463,29,30
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_searchlight,Core,22.0,22.58064516129032,23,24
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_searchlight,Non core,24.0,16.129032258064516,23,24
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-vis,Core,2.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-font-awesome,Core,1.8181818181818181,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-font-awesome,Non core,0.0,1.4925373134328357,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-jasmine,Core,1.694915254237288,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-jasmine,Non core,0.0,1.4492753623188406,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-notify,Core,2.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-material,Core,1.9230769230769231,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/tempest-tripleo-ui,Core,1.9230769230769231,1.5151515151515151,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/docs-specs,Core,3.260869565217391,2.4193548387096775,5,13
+openstack/openstack-ansible-os_cloudkitty,openstack/docs-specs,Non core,2.1739130434782608,2.82258064516129,5,13
+openstack/openstack-ansible-os_cloudkitty,openstack/release-schedule-generator,Core,1.9230769230769231,3.4482758620689653,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/release-schedule-generator,Non core,0.0,1.7241379310344827,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/opendev-website,Core,2.0,1.6666666666666667,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/castellan-ui,Core,5.769230769230769,2.7777777777777777,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack/castellan-ui,Non core,0.0,1.3888888888888888,3,3
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/compute-api,Core,2.8169014084507045,2.272727272727273,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/compute-api,Non core,0.0,1.1363636363636365,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-neutron-api-odl,Core,3.4482758620689653,1.5625,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-neutron-api-odl,Non core,0.0,1.5625,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-murano,Core,1.9607843137254901,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-murano,Non core,0.0,1.7543859649122806,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-openvswitch-odl,Core,1.694915254237288,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-openvswitch-odl,Non core,0.0,1.5873015873015872,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-odl-controller-api,Core,3.9215686274509802,0.0,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-interface-odl-controller-api,Non core,0.0,1.7543859649122806,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-glusterfs,Core,1.9607843137254901,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-glusterfs,Non core,0.0,1.6129032258064515,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-trove,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/charm-trove,Non core,0.0,1.639344262295082,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-positional,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-requests-unixsocket,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-traceback2,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ryu,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-linecache2,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-gabbi,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-cotyledon,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-migrate,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/fuxi,Core,2.666666666666667,1.0204081632653061,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/fuxi,Non core,0.0,2.0408163265306123,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-filesaver,Core,2.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-uuid,Core,2.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_cloudkitty,openstack/bandit,Core,5.88235294117647,2.5210084033613445,7,6
+openstack/openstack-ansible-os_cloudkitty,openstack/bandit,Non core,0.9803921568627451,2.5210084033613445,7,6
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-smart-table,Core,1.9230769230769231,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-angular-smart-table,Non core,0.0,1.639344262295082,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-bootswatch,Core,1.8867924528301887,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-bootswatch,Non core,0.0,1.4925373134328357,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-msgpack-python,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-d3,Core,1.8518518518518516,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/xstatic-d3,Non core,0.0,1.4925373134328357,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pymemcache,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-novnc,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/instack,Core,7.575757575757576,2.2988505747126435,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/instack,Non core,1.5151515151515151,2.2988505747126435,6,4
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pysaml2,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pysaml2,Non core,0.0,3.508771929824561,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-trollius,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-autobahn,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pyldap,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/astara,Core,2.3529411764705883,0.9803921568627451,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/astara,Non core,0.0,0.9803921568627451,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/astara-appliance,Core,1.5873015873015872,1.3157894736842104,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/astara-appliance,Non core,0.0,2.631578947368421,1,3
+openstack/openstack-ansible-os_cloudkitty,openstack/astara-horizon,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/astara-horizon,Non core,0.0,1.4084507042253522,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/astara-neutron,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/astara-neutron,Non core,0.0,1.3888888888888888,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/anchor,Core,1.3333333333333335,1.0526315789473684,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/anchor,Non core,1.3333333333333335,2.1052631578947367,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/fuxi-golang,Core,2.0408163265306123,1.7241379310344827,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/fuxi-kubernetes,Core,2.0,1.6129032258064515,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/fuxi-kubernetes,Non core,0.0,1.6129032258064515,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/puppet-odsreg,Core,3.7735849056603774,4.615384615384616,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/puppet-odsreg,Non core,0.0,1.5384615384615385,2,4
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/puppet-docker_registry,Core,2.0408163265306123,1.8181818181818181,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/releasestatus,Core,1.9607843137254901,1.639344262295082,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/releasestatus,Non core,0.0,1.639344262295082,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/vinz-webclient,Core,2.0408163265306123,1.8181818181818181,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/activity-board,Core,1.5625,0.9900990099009901,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/activity-board,Non core,0.0,0.9900990099009901,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/beaker-localhost,Core,2.0408163265306123,3.6363636363636362,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/beaker-nodepool,Core,2.0408163265306123,3.6363636363636362,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/rst2bash,Core,3.9215686274509802,1.6129032258064515,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/rst2bash,Non core,0.0,3.225806451612903,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/kolla-kubernetes,Core,3.8095238095238098,0.5882352941176471,10,5
+openstack/openstack-ansible-os_cloudkitty,openstack/kolla-kubernetes,Non core,5.714285714285714,2.3529411764705883,10,5
+openstack/openstack-ansible-os_cloudkitty,openstack/cue-dashboard,Core,3.4482758620689653,1.5625,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/cue-dashboard,Non core,0.0,1.5625,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/python-cueclient,Core,3.278688524590164,3.1746031746031744,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/python-cueclient,Non core,0.0,1.5873015873015872,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/cue,Core,2.5316455696202533,1.1363636363636365,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/cue,Non core,0.0,1.1363636363636365,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/app-catalog,Core,2.803738317757009,0.847457627118644,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack/app-catalog,Non core,0.9345794392523363,0.847457627118644,4,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/identity-api,Core,2.2222222222222223,1.4814814814814816,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/identity-api,Non core,0.0,0.7407407407407408,2,3
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-fixtures,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/python-magnetodbclient,Core,1.8867924528301887,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/python-magnetodbclient,Non core,0.0,1.5625,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/app-catalog-ui,Core,3.571428571428571,1.4285714285714286,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/app-catalog-ui,Non core,0.0,1.4285714285714286,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-kubernetes,Core,1.8518518518518516,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-kubernetes,Non core,0.0,1.639344262295082,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/app-catalog-common,Core,0.0,1.7857142857142856,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/app-catalog-common,Non core,0.0,1.7857142857142856,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/python-appcatalogclient,Core,0.0,1.694915254237288,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/python-appcatalogclient,Non core,0.0,1.694915254237288,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-nova,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-kazoo,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-congressclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-congress,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-net-config,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ironic,Non core,0.0,1.694915254237288,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-swauth,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-api-ref,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-designate,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-swift,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-manila-ui,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-barbican,Non core,0.0,1.694915254237288,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-cinder,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-magnum,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-trove,Non core,0.0,1.6666666666666667,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-openstack-pkg-tools,Core,0.0,3.225806451612903,0,3
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-openstack-pkg-tools,Non core,0.0,1.6129032258064515,0,3
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-swiftclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-alembic,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-cinderclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-nec,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-neutron-taas,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-mlnx,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-openstack-meta-packages,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-odl,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-nodepool,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-cisco,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-midonet,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-arista,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-hyperv,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-rtslib-fb,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-murano,Core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-murano,Non core,1.8867924528301887,1.6666666666666667,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-semantic-version,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ldappool,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-zaqar-ui,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-zaqar,Non core,0.0,1.6666666666666667,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-watcher,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-testr,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-win,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pycadf,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pyghmi,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-reno,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-refresh-config,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-vif,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pyeclib,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-quantumclient,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-requestsexceptions,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pbr,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-requests-mock,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-saharaclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-scciclient,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-seamicroclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-auto-backports,Non core,0.0,1.694915254237288,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-senlinclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-taskflow,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-testtools,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-tooz,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-shotgun,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-tackerclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-tosca-parser,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-troveclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-tuskarclient,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-watcherclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-wsme,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-bootswatch,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-angular-mock,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-d3,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-hogan,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-font-awesome,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jasmine,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-magic-search,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-mdi,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-objectpath,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-qunit,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-rickshaw,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-spin,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-tv4,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-yaql,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-zaqarclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-rally,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-sahara,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-sahara-dashboard,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-senlin,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-senlin-dashboard,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-stevedore,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-swift-bench,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-swift-plugin-s3,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-trove-dashboard,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-tempest,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-osprofiler,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.vmware,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.utils,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.rootwrap,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.service,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.privsep,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.versionedobjects,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslotest,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.serialization,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.reports,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.policy,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.middleware,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.messaging,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.log,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-aodhclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-automaton,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-barbicanclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-bashate,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-castellan,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ceilometerclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ceilometermiddleware,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-cliff,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-cursive,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-debtcollector,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-designateclient,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-dib-utils,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-diskimage-builder,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-doc8,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-openstack-auth,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-fuelclient,Non core,0.0,1.6666666666666667,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-dogpile.cache,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-futurist,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-glanceclient,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-glance-store,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-hacking,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-heatclient,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ironicclient,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ironic-inspector-client,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ironic-lib,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-k8sclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-keystoneauth1,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-keystoneclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-keystonemiddleware,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-magnumclient,Non core,0.0,1.694915254237288,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-manilaclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-microversion-parse,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-mistralclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-monascaclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-mox3,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-muranoclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-neutronclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-neutron-lib,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-novaclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-openstackclient,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-openstackdocstheme,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-openstacksdk,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-apply-config,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-brick,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-osc-lib,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-client-config,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-collect-config,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.cache,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.db,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.concurrency,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.config,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.i18n,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oslo.context,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-openstack-nose,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-openstack-doc-tools,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-openstack-trove,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-oslosphinx,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-aodh,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-bandit,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ceilometer,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ceilometermiddleware,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-designate-dashboard,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-git-review,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-glance,Non core,0.0,1.6666666666666667,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-glare,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-heat,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-heat-cfntools,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-horizon,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ironic-inspector,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-ironic-ui,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-keystone,Non core,0.0,1.694915254237288,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-liberasurecode,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-manila,Non core,0.0,1.7241379310344827,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-mistral,Core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-mistral,Non core,1.8181818181818181,1.6666666666666667,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-murano-agent,Core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-murano-agent,Non core,1.9230769230769231,1.6666666666666667,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-murano-dashboard,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-l2gw,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-networking-ovn,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-neutron,Non core,0.0,1.694915254237288,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-neutron-fwaas,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-neutron-vpnaas,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-neutron-lbaas,Core,0.0,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-neutron-lbaas,Non core,1.9230769230769231,1.6666666666666667,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/installguide-cookiecutter,Core,5.263157894736842,3.076923076923077,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/installguide-cookiecutter,Non core,0.0,3.076923076923077,3,4
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-gnocchi,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-eventlet,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pymysql,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-opencontrail,Core,1.5384615384615385,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-opencontrail,Non core,0.0,1.5151515151515151,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-neutron,Core,1.5625,1.4705882352941175,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-neutron,Non core,0.0,1.4705882352941175,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-swift,Non core,0.0,1.694915254237288,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-nova,Core,1.4285714285714286,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-nova,Non core,0.0,1.4492753623188406,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-keystone,Core,1.4925373134328357,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-keystone,Non core,0.0,1.4925373134328357,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-horizon,Core,1.6129032258064515,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-horizon,Non core,0.0,1.5625,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-heat,Core,1.4492753623188406,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-heat,Non core,0.0,1.5384615384615385,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-glance,Core,1.4705882352941175,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-glance,Non core,0.0,1.4925373134328357,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-cinder,Core,1.4925373134328357,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-cinder,Non core,0.0,1.5625,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-ceilometer,Core,1.694915254237288,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-ceilometer,Non core,0.0,1.5151515151515151,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pygit2,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-libisal,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xvfbwrapper,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-testresources,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-compressor,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-sqlalchemy-utils,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pykmip,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-coffin,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-txaio,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-hplefthandclient,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-overextends,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pytimeparse,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-nose-timer,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-retrying,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-discover-runner,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-lesscpy,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-happybase,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-extras,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-functools32,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pydot-ng,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-jsonschema,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-kafka,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-rcssmin,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-nose-parameterized,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pika-pool,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-rfc3986,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-httpretty,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pint,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-pyscss,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-falcon,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-subunit,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-formtools,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-nose-exclude,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pydotplus,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pager,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-proliantutils,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-gnocchiclient,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-babel,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-requests-kerberos,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-colander,Non core,0.0,1.7543859649122806,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-dcos,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-bootstrap-form,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-term.js,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-toml,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-semver,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-websocket-client,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-fasteners,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-jingo,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pecan,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-frozendict,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-wrapt,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-funcsigs,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-crank,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pyvmomi,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-wsgi-intercept,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-os-cloud-config,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-weakrefmethod,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-steadymark,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-warlock,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-couleur,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-json-patch,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-jsonrpclib,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-multi-key-dict,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-memcache,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pulp,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-fonts-roboto-fontface,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-websockify,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-daemonize,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-pyngus,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-editor,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-ddt,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-monotonic,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-rjsmin,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-jsonpath-rw,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-django-appconf,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-oauth2client,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-json-pointer,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/akanda,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/akanda,Non core,0.0,1.5384615384615385,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-smart-table,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-requestbuilder,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-nosehtmloutput,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-csscompressor,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-croniter,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-python-concurrent.futures,Non core,0.0,1.7857142857142856,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-salt,Core,1.8867924528301887,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-salt,Non core,0.0,1.6666666666666667,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/deb-spice-html5,Non core,0.0,1.8181818181818181,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-midonet,Core,2.0408163265306123,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/salt-formula-midonet,Non core,0.0,1.8181818181818181,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack/magnetodb-specs,Core,3.389830508474576,0.0,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/magnetodb-specs,Non core,0.0,1.3888888888888888,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/akanda-appliance-builder,Non core,0.0,1.6666666666666667,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/oslo.version,Core,3.571428571428571,1.3888888888888888,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/oslo.version,Non core,0.0,1.3888888888888888,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/image-api,Core,3.4482758620689653,1.3888888888888888,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/image-api,Non core,0.0,1.3888888888888888,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/object-api,Core,2.941176470588235,1.2195121951219512,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/object-api,Non core,0.0,1.2195121951219512,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/volume-api,Core,1.5873015873015872,1.3513513513513513,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/volume-api,Non core,0.0,1.3513513513513513,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack/magnetodb,Core,2.857142857142857,0.0,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/magnetodb,Non core,0.0,1.098901098901099,2,1
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-nose,Core,0.0,1.639344262295082,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack/openstack-nose,Non core,0.0,1.639344262295082,0,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/netconn-api,Core,2.666666666666667,0.9708737864077669,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/netconn-api,Non core,0.0,0.9708737864077669,2,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/python-melangeclient,Core,1.8181818181818181,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/python-melangeclient,Non core,0.0,1.7241379310344827,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/melange,Core,1.5384615384615385,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/melange,Non core,0.0,1.4705882352941175,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/openstack-qa,Core,1.9230769230769231,0.0,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/openstack-qa,Non core,0.0,1.7241379310344827,1,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/database-api,Core,1.6666666666666667,1.4285714285714286,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/database-api,Non core,0.0,1.4285714285714286,1,2
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_cloudkitty,openstack-attic/openstack-security-notes,Non core,0.0,0.8064516129032258,0,1

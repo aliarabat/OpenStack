@@ -1,0 +1,315 @@
+repo,developers,devs_count
+tempest-core,"[1921, 5803, 23186, 8556, 6167, 22873, 5689, 5196, 20190]",9
+neutron-core,"[841, 1131, 27654, 8655, 8313, 4694, 13995, 5948, 16688, 11975, 6854, 9531, 13861]",13
+devstack-core,"[1921, 5803, 4146, 4393, 13252, 8556, 7118, 1, 6167, 5196, 30491]",11
+nova-core,"[5754, 9708, 4393, 14070, 8556, 782, 10135, 15334, 7166, 4690, 11604]",11
+swift-core,"[7847, 6968, 1179, 330, 4608, 7233, 597, 9625, 15343]",9
+tripleo-ansible-core,[7353],1
+sushy-core,[15519],1
+puppet-tripleo-core,"[14985, 3153, 9816]",3
+cinder-core,"[5314, 4523, 9535, 1736, 7198, 27615, 11904, 20813, 5997]",9
+ironic-core,"[11292, 10239, 15519, 10342, 11655, 24828, 14826, 23851, 11076, 4571]",10
+openstacksdk-core,"[10273, 10420, 27900, 28022, 4146, 970, 10239, 2472, 13252, 14070, 22623, 16643, 8099, 1, 5263, 16708, 11628, 1004, 2, 4162, 8246, 986, 14119, 30759, 11975, 15334, 15343]",27
+tacker-core,"[31857, 16511, 26222, 26588, 13380, 17255, 19644, 25701, 18955, 2874]",10
+manila-core,"[29632, 30002, 16643, 7102, 9003, 6413, 30407]",7
+tripleo-upgrade-core,"[6816, 11090]",2
+openstack-helm-infra-core,"[21420, 23928]",2
+os-vif-core,"[25733, 12171, 7730, 11604]",4
+releases-core,"[1955, 17068, 16708]",3
+tripleo-ci-core,"[360, 1926, 6773]",3
+openstack-helm-core,"[8863, 8898, 21420, 22477, 1004, 7769, 23928, 18250, 24780, 29974, 30777, 33519, 28372, 30449]",14
+ironic-inspector-core,"[10239, 15519, 24828]",3
+glance-core,"[9303, 5314, 8122, 4393, 5202, 11904]",6
+kolla-ansible-core,"[19779, 167, 30523, 17669, 13252, 24072, 14826, 27339, 22629, 30491, 26285]",11
+barbican-core,"[9914, 7414, 7973, 14250]",4
+manila-tempest-plugin-core,"[16643, 19262, 30025]",3
+networking-ovn-core,"[23804, 8655, 6773, 10237, 5756, 6854]",6
+designate-core,"[13252, 22623, 8099, 11628, 19298]",5
+ironic-specs-core,[24828],1
+tap-as-a-service-core,"[11578, 19350, 8313, 19388, 6854, 11674]",6
+designate-tempest-plugin-core,[8099],1
+horizon-core,"[841, 1736, 8648, 6914, 29313]",5
+openstack-ansible-os_octavia-core,"[2799, 10850, 11628]",3
+openstack-tempest-skiplist-core,"[8367, 22873, 29775, 12393]",4
+requirements-core,"[6593, 2472, 14288, 11904, 12898]",5
+puppet-ironic-core,[10239],1
+puppet-keystone-core,[8297],1
+networking-bgpvpn-core,"[8313, 2888, 12021, 55]",4
+ovn-octavia-provider-core,"[1131, 34451, 23567, 11975]",4
+python-openstackclient-core,"[841, 970, 2472, 6873, 2]",5
+neutron-lib-core,[5367],1
+nova-specs-core,"[5754, 4393, 782, 6873, 7166, 11604]",6
+trove-core,"[31737, 6732, 26285]",3
+ceilometer-core,"[6732, 4264, 14107]",3
+puppet-openstack-integration-core,[16312],1
+heat-core,"[30073, 9542, 8833, 12404, 4571, 9816, 4257]",7
+openstack-ansible-core,"[15993, 31542, 32666, 7414, 28619, 25600, 29865, 28008, 16011, 25023, 7353, 17799, 13095, 1004]",14
+magnum-core,"[28022, 6484, 8064, 22629, 1004, 20498, 11536]",7
+project-config-core,"[6547, 1004]",2
+cloudkitty-core,"[25277, 15197, 28356]",3
+tripleo-quickstart-core,"[8652, 10022, 9976]",3
+ansible-collections-openstack-core,"[32962, 7353, 2, 34208, 10969]",5
+placement-core,"[5754, 9708, 11564, 4393, 14070, 15334, 7166, 25625]",8
+puppet-ceph-core,"[8797, 11479]",2
+taskflow-core,"[6648, 11024, 9648, 1297, 11628, 10584, 9608]",7
+zaqar-core,"[6484, 6159, 8846, 6427, 12321, 7385, 6413, 21387, 15054, 14203]",10
+kolla-core,"[23084, 19779, 167, 30523, 17669, 13252, 24072, 14826, 27339, 22629, 30491, 26285]",12
+kuryr-kubernetes-core,"[14352, 23567, 11600, 13692]",4
+bifrost-core,"[5805, 15519, 11655, 6133]",4
+loci-core,"[17068, 2243, 23928, 14119]",4
+devstack-plugin-ceph-core,"[866, 25402, 9236, 1107, 8056, 6984]",6
+openstack-zuul-jobs-core,"[6547, 1004]",2
+python-novaclient-core,"[9545, 679, 7634]",3
+solum-core,"[668, 4715, 1375, 8443, 6662, 9537, 9095, 8334, 9548, 7230, 2506, 14107]",12
+murano-core,"[8127, 18418, 23186, 15168, 7535, 7225, 7226, 13962, 14107]",9
+octavia-core,"[10273, 7249, 6469, 10850, 29244, 2245, 11628, 34429]",8
+keystone-core,"[7973, 14250, 16465, 5046]",4
+openstack-helm-images-core,[23928],1
+puppet-pacemaker-core,"[14985, 20778, 3153, 20172, 1004, 8297, 9816]",7
+glance-tempest-plugin-core,[9303],1
+mistral-core,"[15895, 21970, 11583, 35600, 19134, 29124, 8731]",7
+ci-log-processing-core,"[8367, 6889, 8449, 9311, 20676]",5
+openstack-ansible-os_ceilometer-core,"[20587, 1004]",2
+openstack-ansible-os_aodh-core,"[20587, 1004]",2
+rpm-packaging-core,"[1955, 8482, 6593, 10384, 28522, 13294, 2062, 7102]",8
+blazar-core,"[29100, 8878, 15197, 13192, 25625]",5
+neutron-dynamic-routing-core,"[13252, 4187, 16137, 14605]",4
+kayobe-core,"[23084, 17669, 782, 14826, 22629, 15197, 28048]",7
+ansible-role-zookeeper-core,[4162],1
+python-manilaclient-core,"[16643, 31213]",2
+neutron-specs-core,"[4694, 11975]",2
+tooz-core,"[1297, 1669, 2813, 16137, 7450, 6537]",6
+openstack-ansible-os_neutron-core,"[16011, 21883]",2
+keystoneauth-core,"[2, 2903]",2
+grenade-core,"[4393, 8556, 6873]",3
+networking-midonet-core,"[26127, 19307, 156, 6854]",4
+diskimage-builder-core,"[2889, 21741, 3068, 6469, 6449, 6488, 7118, 11655, 12459, 4571, 9369, 10035]",12
+masakari-core,"[32304, 30491, 8716, 1011, 30623]",5
+ansible-role-container-registry-core,[3153],1
+senlin-core,"[27224, 22623, 7404, 25674, 8246, 23401, 15857, 22998, 11034, 23517, 25395, 9323, 6348]",13
+openstack-ansible-os_ironic-core,"[2799, 6816, 14288, 8125]",4
+openstack-ansible-os_sahara-core,"[16310, 10459]",2
+puppet-glance-core,[21129],1
+cinder-tempest-plugin-core,[10459],1
+venus-core,"[26458, 31412, 30562, 27565, 30455, 24061]",6
+neutron-vpnaas-core,"[841, 15905, 12860, 4694, 1004, 6854]",6
+vitrage-core,"[19122, 24635, 19194, 19233, 19134, 32577, 19184, 19159, 1736, 19209, 26339, 19210, 21414, 23133, 18783]",15
+networking-bagpipe-core,"[8313, 12021]",2
+api-site-core,[10607],1
+aodh-core,"[6732, 14107]",2
+ec2-api-core,"[9312, 10234, 10224]",3
+security-doc-core,"[11397, 21420, 5263, 17893, 10670, 9098, 12325, 7063, 11861]",9
+magnum-ui-core,[16352],1
+ceilometer-powervm-core,"[13637, 14070, 16069, 10608, 28063]",5
+neutron-fwaas-dashboard-core,[7787],1
+pycadf-core,"[6460, 7725, 4, 2472, 1669, 7514, 6482, 6537]",8
+election-core,"[14482, 12898]",2
+openstack-ansible-os_tacker-core,"[17068, 21883]",2
+whitebox-tempest-plugin-core,"[27478, 8864, 31033, 31239, 11604]",5
+cliff-core,"[970, 2472]",2
+devstack-gate-core,"[8556, 2750]",2
+reno-core,"[6547, 5638, 2472, 15334, 4190]",5
+project-team-guide-core,"[10607, 11564, 2472, 8556, 17068, 5263, 16708, 30491, 11904, 308]",10
+ui-cookiecutter-core,"[19380, 16352]",2
+networking-odl-core,"[107, 333, 8313, 17120, 26507, 7921, 11240]",7
+shade-core,"[6488, 3099, 1106, 986, 11975]",5
+js-openstack-lib-core,"[6287, 30491]",2
+rally-core,"[10475, 9545, 19011, 6172, 11748, 22960, 1736, 6835, 4428, 5948, 12395, 7369, 20498, 7428, 21528]",15
+cinder-specs-core,"[11904, 13425]",2
+reviewday-core,"[360, 6609]",2
+networking-powervm-core,"[16551, 13637, 14070, 10608, 28063, 14581]",6
+freezer-core,"[21069, 11151, 14340, 14509, 16768, 13940, 27068, 22405, 21387, 22484, 14101]",11
+zaqar-ui-core,"[16352, 9576]",2
+zun-ui-core,[16352],1
+puppet-manila-core,[21129],1
+puppet-cinder-core,[21129],1
+tenks-core,"[17669, 14826, 28048]",3
+python-keystoneclient-core,"[8482, 27621]",2
+ovsdbapp-core,"[11952, 8655, 20229, 1561, 5756]",5
+castellan-core,[9796],1
+kuryr-core,"[14352, 14885, 27032, 11600, 11536]",5
+adjutant-core,[14394],1
+ldappool-core,"[8482, 5046]",2
+kuryr-libnetwork-core,"[14352, 11536]",2
+cyborg-core,"[26458, 23950, 27458, 30759, 21672, 31412, 25738, 24872, 13629, 28748, 22899, 14131, 17813, 25847]",14
+rally-openstack-core,[9545],1
+os-win-core,"[12604, 3185, 8213, 8543]",4
+ansible-role-redhat-subscription-core,"[14985, 3153, 27253]",3
+oswin-tempest-plugin-core,"[3185, 8213, 8543]",3
+large-scale-core,"[11583, 2033, 13252, 308]",4
+neutron-fwaas-core,"[10850, 105, 8313, 13995, 6995, 30380, 13702]",7
+metalsmith-core,"[10239, 24245]",2
+networking-sfc-core,"[21883, 12021, 18955]",3
+stevedore-core,"[9757, 2472]",2
+storlets-core,"[8330, 11317, 9205, 17156, 4608, 9816, 15463]",7
+heat-translator-core,"[31857, 16511, 6460, 33455, 26588, 10856, 31821, 7514, 6456, 7193, 9591, 9498, 27880, 12455, 15346]",15
+tosca-parser-core,"[16511, 6460, 10856, 32102, 7514, 19724, 6456, 9591, 17255, 9498, 25701, 15346]",12
+stackviz-core,"[8556, 22873, 5689, 5196, 17001]",5
+pbr-core,"[15334, 4190]",2
+ha-guide-core,"[128, 3153, 9040, 8560]",4
+watcher-core,"[19055, 18971, 24872, 19457, 28748, 21692, 24501]",7
+openstack-ansible-os_cloudkitty-core,[18014],1
+openstack-health-core,"[5623, 7069, 5689, 5196, 11682, 17001]",6
+openstack-ansible-os_swift-core,"[2799, 7233]",2
+osprofiler-core,"[6172, 3012, 5950, 1297, 23630, 9171]",6
+openstack-ansible-os_trove-core,[22981],1
+os-api-ref-core,"[5754, 8099, 782]",3
+devstack-plugin-container-core,"[14352, 9820, 11600, 14119, 11536]",5
+manila-ui-core,[16643],1
+devstack-plugin-nfs-core,"[4523, 9003]",2
+zun-core,"[25695, 21428, 22076, 22406, 10206, 21785, 16277, 16352, 8264, 23365, 11536, 23055, 23829]",13
+sahara-core,"[23078, 10459, 30077, 8932, 33353]",5
+ironic-ui-core,[11655],1
+futurist-core,[10239],1
+sushy-oem-idrac-core,"[27909, 10250, 17558, 26340, 23851, 23847]",6
+python-dracclient-core,"[27909, 10250, 10644, 10239, 17558, 6773, 23847]",7
+senlin-dashboard-core,"[8246, 16352, 6610, 6763]",4
+networking-generic-switch-core,"[14826, 9542, 12232, 14525, 12356]",5
+ansible-role-thales-hsm-core,[1004],1
+ansible-role-atos-hsm-core,[1004],1
+service-types-authority-core,"[964, 11564, 14070, 2, 2750]",5
+os-testr-core,"[4146, 8556, 22873, 5689, 5196, 2750, 4190]",7
+openstack-ansible-os_designate-core,"[8099, 6816]",2
+openstack-ansible-os_gnocchi-core,"[20587, 1004]",2
+ptgbot-core,"[2394, 308]",2
+automaton-core,[6618],1
+debtcollector-core,"[2472, 1297]",2
+vitrage-dashboard-core,"[19122, 19140, 24635, 19233, 19134, 9031, 19184, 19159, 1736, 19142]",10
+compute-hyperv-core,"[12604, 3185, 8213, 8543]",4
+networking-hyperv-core,"[12604, 3185, 8213, 8543]",4
+i18n-core,"[841, 17765, 14482, 17566, 6882]",5
+watcher-dashboard-core,"[19055, 18971, 24872, 28748, 21692]",5
+os-service-types-core,"[11564, 8482, 2472, 14070, 2]",5
+tempest-stress-core,[8556],1
+liberasurecode-core,"[330, 8433, 4608, 597, 9625, 17363, 7485]",7
+os-client-config-core,"[2889, 3099, 970, 1726, 2]",5
+os-performance-tools-core,"[6488, 8556, 5196]",3
+molteniron-core,"[5660, 18242, 11929]",3
+patrole-core,"[23186, 8556, 6167, 16274, 17896, 23185, 8911, 30742]",8
+performance-docs-core,"[3012, 5950, 15232]",3
+sphinx-feature-classification-core,[14070],1
+etcd3gw-core,"[6928, 5638, 30491]",3
+watcher-specs-core,"[19055, 18971, 24872, 19457, 28748, 21692, 24501]",7
+yaql-core,"[8127, 7225, 29085, 14107]",4
+openstack-zuul-roles-core,[6547],1
+nova-powervm-core,"[16551, 14806, 13637, 14070, 10608, 28063, 14581]",7
+openstack-helm-addons-core,"[21420, 23928]",2
+qa-specs-core,"[8556, 5689, 5196]",3
+zaqar-specs-core,"[6484, 6159, 8846, 15054]",4
+whereto-core,[2472],1
+ansible-role-tripleo-modify-image-core,"[3153, 4571]",2
+panko-core,"[6732, 14107]",2
+api-sig-core,"[11564, 10239, 1063, 10670]",4
+microversion-parse-core,"[11564, 10239, 1063, 14070, 10670]",5
+reviewstats-core,"[6472, 1561, 2750, 11904, 4190]",5
+openstack-helm-deployments-core,"[28618, 21420]",2
+coverage2sql-core,"[8556, 22873, 5689]",3
+bashate-core,"[8556, 7118, 5371]",3
+hacking-core,"[6928, 2472, 8556, 31239, 30491, 24162]",6
+openstack-chef-core,"[19193, 13252, 11915, 21961, 14790]",5
+puppet-monasca-core,"[8126, 9500, 11155]",3
+eslint-config-openstack-core,"[8556, 5689]",2
+karma-subunit-reporter-core,"[8556, 9717, 17001]",3
+openstack-helm-docs-core,[23928],1
+tripleo-ha-utils-core,[20936],1
+goal-tools-core,"[2472, 5046, 6873, 11904]",4
+cookiecutter-core,"[5196, 2]",2
+dib-utils-core,[6928],1
+constellations-core,"[2472, 782]",2
+self-healing-sig-core,"[2394, 18591]",2
+security-specs-core,"[11397, 11029, 7063]",3
+openstack-ansible-os_panko-core,"[20587, 1004]",2
+osops-core,"[2394, 15993, 28606, 681, 9076, 17556, 1004, 15007, 11904]",9
+multi-arch-sig-core,"[7118, 23078, 22076, 8125, 12404]",5
+openstack-ansible-os_almanach-core,"[17784, 20902, 18063]",3
+murano-apps-core,"[13149, 15168, 6577]",3
+training-labs-core,"[20770, 7007, 11109]",3
+karbor-core,"[13070, 2023, 20883, 17151, 21224, 19346]",6
+devstack-plugin-open-cas-core,[28948],1
+openstack-ansible-os_congress-core,"[17068, 21883]",2
+ansible-role-openstack-operations-core,[3153],1
+scientific-wg-core,"[7546, 21671, 10910]",3
+bugdaystats-core,[11904],1
+upstream-institute-virtual-environment-core,"[14482, 9562, 10298]",3
+monasca-transform-core,"[11580, 9276, 7565, 10311, 2419, 16222]",6
+nose-html-output-core,[841],1
+kolla-cli-core,"[16520, 7488, 24147, 17386]",4
+neutron-lbaas-dashboard-core,"[841, 10980, 11628]",3
+searchlight-core,"[5314, 29228, 27068]",3
+searchlight-ui-core,"[14124, 10063, 7665, 27068]",4
+searchlight-specs-core,[7665],1
+publiccloud-sig-core,"[16984, 10134, 23924, 13629]",4
+uc-recognition-core,"[15993, 704, 7272, 17556, 17505, 12651, 612, 14091]",8
+ops-tags-team-core,"[15993, 704, 4625, 17556, 12651, 9382, 7232, 136, 612, 14091, 12110]",11
+workload-ref-archs-core,"[12651, 14091]",2
+arch-wg-core,"[6488, 970, 308]",3
+openstack-ansible-os_monasca-core,[22981],1
+openstack-ansible-os_monasca-agent-core,[2799],1
+openstack-planet-core,"[964, 1, 10348, 2, 287, 308]",6
+logstash-filters-core,[6039],1
+qinling-dashboard-core,"[25936, 6732]",2
+qinling-core,"[21781, 6732]",2
+monasca-analytics-core,"[21739, 12193, 2419, 16222]",4
+openstack-ansible-os_monasca-ui-core,[2799],1
+auto-scaling-sig-core,"[2394, 27224, 12404, 4257, 16222]",5
+os-loganalyze-core,[2750],1
+networking-l2gw-core,"[7018, 13770, 8313, 21626, 6558, 6854]",6
+python-wsmanclient-core,"[10239, 7419, 18893, 13362]",4
+fuel-upgrade-core,"[8749, 10391]",2
+fairy-slipper-core,"[5754, 964, 2448, 7260, 782, 15293, 6167, 1991]",8
+ironic-webclient-core,"[16628, 9717]",2
+release-tools-core,"[5638, 2472, 22816, 11904, 308]",5
+gnocchi-core,"[11564, 2284, 1669, 6537]",4
+networking-ofagent-core,"[9200, 6854, 8344]",3
+python-neutron-pd-driver-core,[6637],1
+openstack-ansible-security-core,[538],1
+tripleo-ui-core,"[9317, 20970, 4978]",3
+dragonflow-core,"[6598, 23766, 23235, 20229, 17880]",5
+networking-onos-core,"[11343, 16788, 25575, 9168, 14605]",5
+openstack-ux-core,"[6547, 17736, 5623, 11778, 6650, 12367, 9162, 14124, 20060, 13781, 12651, 7665]",12
+mox3-core,"[2472, 2]",2
+python-tricircleclient-core,"[11819, 1004, 8726]",3
+tricircle-core,"[11819, 1004, 19060, 8726, 12076, 27215, 5367, 28071, 17448]",9
+congress-core,"[25553, 11278, 18591, 8878, 13995, 8215]",6
+syntribos-core,"[15515, 18729, 17709, 15259, 8603, 18462, 21297]",7
+openstack-ansible-os_molteniron-core,[2799],1
+faafo-core,"[6547, 167, 612]",3
+networking-calico-core,"[27983, 13734, 19461]",3
+shotgun-core,"[8392, 3009]",2
+fuel-plugin-murano-core,"[6547, 7745, 7732, 15168, 14372, 13962]",6
+fuel-web-core,"[8392, 10959, 18205, 19158, 8786]",5
+fuel-plugins-core,"[8749, 10391, 19158]",3
+fuel-virtualbox-core,"[10391, 14200, 12817, 13274, 3009]",5
+fuel-ostf-core,"[8907, 8882]",2
+fuel-qa-core,"[19119, 10136, 11081, 11969, 8882, 15984]",6
+fuel-specs-core,"[8392, 14985, 6926, 18205, 10391, 8766, 8777, 8735, 3009, 8786]",10
+fuel-nailgun-agent-core,"[3009, 8776]",2
+fuel-mirror-core,"[14348, 18205, 9582, 8749, 10391, 12817, 10474, 3009]",8
+fuel-menu-core,"[8392, 10443, 10391, 3009]",4
+fuel-main-core,"[10391, 12817, 3009]",3
+fuel-ui-core,"[8766, 8735]",2
+fuel-library-core,"[9387, 14985, 6926, 7745, 14200, 7195, 11090, 11827, 8786]",9
+fuel-stats-core,"[8392, 10959, 6547, 8735]",4
+fuel-astute-core,"[3009, 8776]",2
+fuel-octane-core,"[6547, 1531, 6677, 1464, 19157, 708]",6
+tuning-box-core,"[10959, 6547, 6677, 708]",4
+python-fuelclient-core,"[8392, 6623, 18446]",3
+neutron-interconnection-core,"[4694, 12021, 19990]",3
+openstack-ansible-os_zaqar-core,"[6484, 6732]",2
+openstack-ansible-os_watcher-core,"[12394, 20038, 18971]",3
+openstack-ansible-os_searchlight-core,"[2799, 10881]",2
+release-schedule-generator-core,[11356],1
+castellan-ui-core,"[9914, 7012, 11561, 8623]",4
+fuxi-core,[11538],1
+bandit-core,"[8119, 11029, 17893, 1528, 11716, 11861]",6
+anchor-core,"[11397, 7063, 1528, 11716]",4
+fuxi-golang-core,[14352],1
+fuxi-kubernetes-core,[11538],1
+releasestatus-core,[308],1
+activity-board-core,"[8000, 8710, 287]",3
+kolla-kubernetes-core,"[7488, 21996, 9237, 23928, 24043, 10419, 19384, 17591, 11105]",9
+cue-core,"[10584, 1925]",2
+app-catalog-core,"[9788, 9237, 15168, 612, 5545]",5
+openstack-salt-core,"[20195, 18092, 20194, 7431, 6794]",5
+magnetodb-core,"[8863, 11006, 8601, 8491, 8188]",5
+openstack-nose-core,[385],1

@@ -1,0 +1,1901 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/oslo.db,openstack/tripleo-repos,Core,3.4482758620689653,1.7064846416382253,10,16
+openstack/oslo.db,openstack/tripleo-repos,Non core,2.2988505747126435,3.754266211604096,10,16
+openstack/oslo.db,openstack/openstack-ansible-os_mistral,Core,1.2903225806451613,0.7604562737642585,5,7
+openstack/oslo.db,openstack/openstack-ansible-os_mistral,Non core,1.935483870967742,1.9011406844106464,5,7
+openstack/oslo.db,openstack/oswin-tempest-plugin,Core,1.282051282051282,1.214574898785425,5,8
+openstack/oslo.db,openstack/oswin-tempest-plugin,Non core,1.9230769230769231,2.0242914979757085,5,8
+openstack/oslo.db,openstack/pymod2pkg,Core,5.847953216374268,3.103448275862069,15,20
+openstack/oslo.db,openstack/pymod2pkg,Non core,2.923976608187134,3.793103448275862,15,20
+openstack/oslo.db,openstack/large-scale,Core,0.0,0.4032258064516129,0,1
+openstack/oslo.db,openstack/large-scale,Non core,0.0,0.0,0,1
+openstack/oslo.db,openstack/neutron-fwaas,Core,6.4638783269961975,6.339468302658487,33,74
+openstack/oslo.db,openstack/neutron-fwaas,Non core,6.083650190114068,8.793456032719837,33,74
+openstack/oslo.db,openstack/python-tackerclient,Core,6.25,2.359882005899705,24,34
+openstack/oslo.db,openstack/python-tackerclient,Non core,4.464285714285714,7.669616519174041,24,34
+openstack/oslo.db,openstack/charm-cinder-nimblestorage,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-cinder-nimblestorage,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/metalsmith,Core,3.2679738562091507,3.4090909090909087,12,16
+openstack/oslo.db,openstack/metalsmith,Non core,4.57516339869281,2.6515151515151514,12,16
+openstack/oslo.db,openstack/openstack-ansible-os_murano,Core,0.6756756756756757,0.39215686274509803,1,1
+openstack/oslo.db,openstack/openstack-ansible-os_murano,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/kuryr-tempest-plugin,Core,2.4390243902439024,1.8050541516245486,5,13
+openstack/oslo.db,openstack/kuryr-tempest-plugin,Non core,0.6097560975609756,2.888086642599278,5,13
+openstack/oslo.db,openstack/networking-sfc,Core,3.1818181818181817,4.854368932038835,16,48
+openstack/oslo.db,openstack/networking-sfc,Non core,4.090909090909091,6.796116504854369,16,48
+openstack/oslo.db,openstack/charm-cinder-three-par,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/charm-cinder-three-par,Non core,0.0,0.40650406504065045,0,1
+openstack/oslo.db,openstack/cyborg-tempest-plugin,Core,1.2269938650306749,1.1194029850746268,5,8
+openstack/oslo.db,openstack/cyborg-tempest-plugin,Non core,1.8404907975460123,1.8656716417910446,5,8
+openstack/oslo.db,openstack/charm-ceph-iscsi,Core,0.0,0.0,0,2
+openstack/oslo.db,openstack/charm-ceph-iscsi,Non core,0.0,0.7843137254901961,0,2
+openstack/oslo.db,openstack/charm-cinder-solidfire,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-cinder-solidfire,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/puppet-qdr,Core,3.1055900621118013,0.38167938931297707,8,8
+openstack/oslo.db,openstack/puppet-qdr,Non core,1.8633540372670807,2.6717557251908395,8,8
+openstack/oslo.db,openstack/vitrage-tempest-plugin,Core,2.4242424242424243,0.3787878787878788,11,8
+openstack/oslo.db,openstack/vitrage-tempest-plugin,Non core,4.242424242424243,2.6515151515151514,11,8
+openstack/oslo.db,openstack/tripleo-specs,Core,5.93607305936073,5.060728744939271,15,44
+openstack/oslo.db,openstack/tripleo-specs,Non core,0.91324200913242,3.8461538461538463,15,44
+openstack/oslo.db,openstack/charm-neutron-api-plugin-arista,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/charm-neutron-api-plugin-arista,Non core,0.0,0.3952569169960474,0,1
+openstack/oslo.db,openstack/charm-ceph-fs,Core,1.8518518518518516,0.7692307692307693,3,6
+openstack/oslo.db,openstack/charm-ceph-fs,Non core,0.0,1.5384615384615385,3,6
+openstack/oslo.db,openstack/stevedore,Core,9.195402298850574,10.909090909090908,21,60
+openstack/oslo.db,openstack/stevedore,Non core,2.8735632183908044,10.909090909090908,21,60
+openstack/oslo.db,openstack/charm-ceph-proxy,Core,1.2195121951219512,0.7407407407407408,2,6
+openstack/oslo.db,openstack/charm-ceph-proxy,Non core,0.0,1.4814814814814816,2,6
+openstack/oslo.db,openstack/charm-cloudkitty,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-cloudkitty,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-ops-openstack,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-ops-openstack,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/zun-tempest-plugin,Core,2.5316455696202533,1.5151515151515151,6,10
+openstack/oslo.db,openstack/zun-tempest-plugin,Non core,1.2658227848101267,2.272727272727273,6,10
+openstack/oslo.db,openstack/storlets,Core,4.891304347826087,2.3972602739726026,15,17
+openstack/oslo.db,openstack/storlets,Non core,3.260869565217391,3.4246575342465753,15,17
+openstack/oslo.db,openstack/training-guides,Core,4.716981132075472,4.081632653061225,13,28
+openstack/oslo.db,openstack/training-guides,Non core,1.4150943396226416,4.081632653061225,13,28
+openstack/oslo.db,openstack/openstack-ansible-plugins,Core,3.061224489795918,1.2779552715654952,13,18
+openstack/oslo.db,openstack/openstack-ansible-plugins,Non core,3.571428571428571,4.472843450479233,13,18
+openstack/oslo.db,openstack/python-muranoclient,Core,4.583333333333333,2.2284122562674096,23,28
+openstack/oslo.db,openstack/python-muranoclient,Non core,5.0,5.571030640668524,23,28
+openstack/oslo.db,openstack/solum-dashboard,Core,6.707317073170732,2.1505376344086025,17,16
+openstack/oslo.db,openstack/solum-dashboard,Non core,3.6585365853658534,3.584229390681003,17,16
+openstack/oslo.db,openstack/python-solumclient,Core,6.521739130434782,4.577464788732395,18,29
+openstack/oslo.db,openstack/python-solumclient,Non core,3.260869565217391,5.633802816901409,18,29
+openstack/oslo.db,openstack/solum-tempest-plugin,Core,1.342281879194631,1.214574898785425,4,7
+openstack/oslo.db,openstack/solum-tempest-plugin,Non core,1.342281879194631,1.6194331983805668,4,7
+openstack/oslo.db,openstack/murano-tempest-plugin,Core,1.9867549668874174,0.7905138339920948,6,5
+openstack/oslo.db,openstack/murano-tempest-plugin,Non core,1.9867549668874174,1.185770750988142,6,5
+openstack/oslo.db,openstack/heat-translator,Core,5.288461538461538,3.6363636363636362,23,25
+openstack/oslo.db,openstack/heat-translator,Non core,5.769230769230769,3.939393939393939,23,25
+openstack/oslo.db,openstack/tosca-parser,Core,3.6458333333333335,2.0202020202020203,13,25
+openstack/oslo.db,openstack/tosca-parser,Non core,3.125,6.397306397306397,13,25
+openstack/oslo.db,openstack/tacker-horizon,Core,4.972375690607735,1.9672131147540985,11,31
+openstack/oslo.db,openstack/tacker-horizon,Non core,1.1049723756906076,8.19672131147541,11,31
+openstack/oslo.db,openstack/ironic-python-agent-builder,Core,2.312138728323699,2.413793103448276,6,18
+openstack/oslo.db,openstack/ironic-python-agent-builder,Non core,1.1560693641618496,3.793103448275862,6,18
+openstack/oslo.db,openstack/ansible-role-systemd_networkd,Core,1.8867924528301887,0.7490636704119851,5,6
+openstack/oslo.db,openstack/ansible-role-systemd_networkd,Non core,1.257861635220126,1.4981273408239701,5,6
+openstack/oslo.db,openstack/ansible-role-systemd_service,Core,1.8518518518518516,0.3731343283582089,4,4
+openstack/oslo.db,openstack/ansible-role-systemd_service,Non core,0.6172839506172839,1.1194029850746268,4,4
+openstack/oslo.db,openstack/openstack-ansible-os_keystone,Core,3.1818181818181817,2.346041055718475,15,25
+openstack/oslo.db,openstack/openstack-ansible-os_keystone,Non core,3.6363636363636362,4.9853372434017595,15,25
+openstack/oslo.db,openstack/ansible-role-chrony,Core,1.9867549668874174,1.1627906976744187,4,5
+openstack/oslo.db,openstack/ansible-role-chrony,Non core,0.6622516556291391,0.7751937984496124,4,5
+openstack/oslo.db,openstack/cloudkitty-tempest-plugin,Core,2.547770700636943,0.7722007722007722,6,13
+openstack/oslo.db,openstack/cloudkitty-tempest-plugin,Non core,1.2738853503184715,4.247104247104247,6,13
+openstack/oslo.db,openstack/oslo.config,Core,13.043478260869565,9.90783410138249,60,114
+openstack/oslo.db,openstack/oslo.config,Non core,10.67193675889328,16.359447004608295,60,114
+openstack/oslo.db,openstack/senlin-tempest-plugin,Core,4.545454545454546,3.4482758620689653,10,18
+openstack/oslo.db,openstack/senlin-tempest-plugin,Non core,1.948051948051948,3.4482758620689653,10,18
+openstack/oslo.db,openstack/heat-tempest-plugin,Core,3.7735849056603774,2.909090909090909,7,11
+openstack/oslo.db,openstack/heat-tempest-plugin,Non core,0.628930817610063,1.090909090909091,7,11
+openstack/oslo.db,openstack/freezer-tempest-plugin,Core,1.2738853503184715,1.153846153846154,6,11
+openstack/oslo.db,openstack/freezer-tempest-plugin,Non core,2.547770700636943,3.076923076923077,6,11
+openstack/oslo.db,openstack/monasca-tempest-plugin,Core,3.7037037037037033,1.098901098901099,9,8
+openstack/oslo.db,openstack/monasca-tempest-plugin,Non core,1.8518518518518516,1.8315018315018317,9,8
+openstack/oslo.db,openstack/stackviz,Core,4.320987654320987,4.580152671755725,11,20
+openstack/oslo.db,openstack/stackviz,Non core,2.4691358024691357,3.0534351145038165,11,20
+openstack/oslo.db,openstack/kayobe-config-dev,Core,2.027027027027027,0.7843137254901961,4,4
+openstack/oslo.db,openstack/kayobe-config-dev,Non core,0.6756756756756757,0.7843137254901961,4,4
+openstack/oslo.db,openstack/pbr,Core,11.79245283018868,12.138728323699421,35,77
+openstack/oslo.db,openstack/pbr,Non core,4.716981132075472,10.115606936416185,35,77
+openstack/oslo.db,openstack/oslo.cache,Core,10.285714285714285,9.26517571884984,37,73
+openstack/oslo.db,openstack/oslo.cache,Non core,10.857142857142858,14.057507987220447,37,73
+openstack/oslo.db,openstack/charm-ceph-rbd-mirror,Core,0.6369426751592357,0.3875968992248062,1,4
+openstack/oslo.db,openstack/charm-ceph-rbd-mirror,Non core,0.0,1.1627906976744187,1,4
+openstack/oslo.db,openstack/ansible-config_template,Core,1.8404907975460123,0.6968641114982579,9,7
+openstack/oslo.db,openstack/ansible-config_template,Non core,3.6809815950920246,1.7421602787456445,9,7
+openstack/oslo.db,openstack/designate-dashboard,Core,5.319148936170213,4.45859872611465,16,36
+openstack/oslo.db,openstack/designate-dashboard,Non core,3.1914893617021276,7.006369426751593,16,36
+openstack/oslo.db,openstack/charm-interface-cinder-backend,Core,0.684931506849315,0.4016064257028112,1,1
+openstack/oslo.db,openstack/charm-interface-cinder-backend,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/cyborg-specs,Core,1.25,2.5089605734767026,5,18
+openstack/oslo.db,openstack/cyborg-specs,Non core,1.875,3.942652329749104,5,18
+openstack/oslo.db,openstack/python-mistralclient,Core,7.048458149779736,3.0136986301369864,27,40
+openstack/oslo.db,openstack/python-mistralclient,Non core,4.845814977973569,7.9452054794520555,27,40
+openstack/oslo.db,openstack/ha-guide,Core,3.8461538461538463,3.7151702786377707,16,28
+openstack/oslo.db,openstack/ha-guide,Non core,4.945054945054945,4.953560371517028,16,28
+openstack/oslo.db,openstack/watcher,Core,4.4520547945205475,4.225352112676056,25,48
+openstack/oslo.db,openstack/watcher,Non core,4.10958904109589,7.042253521126761,25,48
+openstack/oslo.db,openstack/openstack-ansible-os_cloudkitty,Core,2.840909090909091,1.76678445229682,14,14
+openstack/oslo.db,openstack/openstack-ansible-os_cloudkitty,Non core,5.113636363636364,3.180212014134275,14,14
+openstack/oslo.db,openstack/openstack-ansible-os_cinder,Core,3.167420814479638,2.359882005899705,16,28
+openstack/oslo.db,openstack/openstack-ansible-os_cinder,Non core,4.072398190045249,5.899705014749262,16,28
+openstack/oslo.db,openstack/openstack-health,Core,3.389830508474576,3.934426229508197,9,26
+openstack/oslo.db,openstack/openstack-health,Non core,1.694915254237288,4.590163934426229,9,26
+openstack/oslo.db,openstack/openstack-ansible-os_swift,Core,3.8095238095238098,2.2082018927444795,14,23
+openstack/oslo.db,openstack/openstack-ansible-os_swift,Non core,2.857142857142857,5.047318611987381,14,23
+openstack/oslo.db,openstack/masakari-specs,Core,2.5316455696202533,2.2058823529411766,5,12
+openstack/oslo.db,openstack/masakari-specs,Non core,0.6329113924050633,2.2058823529411766,5,12
+openstack/oslo.db,openstack/telemetry-specs,Core,5.181347150259067,4.477611940298507,10,24
+openstack/oslo.db,openstack/telemetry-specs,Non core,0.0,2.6865671641791042,10,24
+openstack/oslo.db,openstack/osprofiler,Core,9.844559585492227,7.666666666666666,31,53
+openstack/oslo.db,openstack/osprofiler,Non core,6.217616580310881,10.0,31,53
+openstack/oslo.db,openstack/openstack-ansible-os_trove,Core,2.7624309392265194,1.7123287671232876,14,17
+openstack/oslo.db,openstack/openstack-ansible-os_trove,Non core,4.972375690607735,4.10958904109589,14,17
+openstack/oslo.db,openstack/openstack-ansible-os_manila,Core,1.2658227848101267,1.1278195488721803,4,5
+openstack/oslo.db,openstack/openstack-ansible-os_manila,Non core,1.2658227848101267,0.7518796992481203,4,5
+openstack/oslo.db,openstack/ansible-hardening,Core,3.5294117647058822,1.7361111111111112,9,14
+openstack/oslo.db,openstack/ansible-hardening,Non core,1.7647058823529411,3.125,9,14
+openstack/oslo.db,openstack/barbican-specs,Core,3.932584269662921,2.2222222222222223,11,14
+openstack/oslo.db,openstack/barbican-specs,Non core,2.247191011235955,2.2222222222222223,11,14
+openstack/oslo.db,openstack/python-heatclient,Core,8.60215053763441,5.9447983014862,39,66
+openstack/oslo.db,openstack/python-heatclient,Non core,5.376344086021505,8.067940552016985,39,66
+openstack/oslo.db,openstack/oslo.versionedobjects,Core,11.917098445595855,11.513157894736842,41,71
+openstack/oslo.db,openstack/oslo.versionedobjects,Non core,9.32642487046632,11.842105263157894,41,71
+openstack/oslo.db,openstack/os-api-ref,Core,8.484848484848486,4.693140794223827,20,22
+openstack/oslo.db,openstack/os-api-ref,Non core,3.6363636363636362,3.2490974729241873,20,22
+openstack/oslo.db,openstack/devstack-plugin-container,Core,1.935483870967742,0.38022813688212925,3,4
+openstack/oslo.db,openstack/devstack-plugin-container,Non core,0.0,1.1406844106463878,3,4
+openstack/oslo.db,openstack/venus-dashboard,Core,0.0,0.4,0,3
+openstack/oslo.db,openstack/venus-dashboard,Non core,0.0,0.8,0,3
+openstack/oslo.db,openstack/manila-ui,Core,3.5000000000000004,1.812688821752266,16,21
+openstack/oslo.db,openstack/manila-ui,Non core,4.5,4.531722054380665,16,21
+openstack/oslo.db,openstack/devstack-plugin-nfs,Core,2.73972602739726,3.11284046692607,4,12
+openstack/oslo.db,openstack/devstack-plugin-nfs,Non core,0.0,1.556420233463035,4,12
+openstack/oslo.db,openstack/taskflow,Core,10.0,9.35672514619883,33,66
+openstack/oslo.db,openstack/taskflow,Non core,5.714285714285714,9.941520467836257,33,66
+openstack/oslo.db,openstack/python-cyborgclient,Core,3.75,3.2846715328467155,9,15
+openstack/oslo.db,openstack/python-cyborgclient,Non core,1.875,2.18978102189781,9,15
+openstack/oslo.db,openstack/zun,Core,3.088803088803089,4.591836734693878,20,43
+openstack/oslo.db,openstack/zun,Non core,4.633204633204633,6.377551020408164,20,43
+openstack/oslo.db,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/charm-openstack-loadbalancer,Non core,0.0,0.398406374501992,0,1
+openstack/oslo.db,openstack/ansible-role-python_venv_build,Core,1.8181818181818181,0.7142857142857143,4,6
+openstack/oslo.db,openstack/ansible-role-python_venv_build,Non core,0.6060606060606061,1.4285714285714286,4,6
+openstack/oslo.db,openstack/mistral-dashboard,Core,5.376344086021505,1.9736842105263157,15,21
+openstack/oslo.db,openstack/mistral-dashboard,Non core,2.6881720430107525,4.934210526315789,15,21
+openstack/oslo.db,openstack/mistral-lib,Core,3.571428571428571,2.5,13,19
+openstack/oslo.db,openstack/mistral-lib,Non core,4.166666666666666,4.285714285714286,13,19
+openstack/oslo.db,openstack/monasca-events-api,Core,3.2467532467532463,0.7434944237918215,9,9
+openstack/oslo.db,openstack/monasca-events-api,Non core,2.5974025974025974,2.6022304832713754,9,9
+openstack/oslo.db,openstack/python-zaqarclient,Core,7.109004739336493,6.832298136645963,21,39
+openstack/oslo.db,openstack/python-zaqarclient,Non core,2.843601895734597,5.279503105590062,21,39
+openstack/oslo.db,openstack/monasca-api,Core,4.819277108433735,2.2058823529411766,22,28
+openstack/oslo.db,openstack/monasca-api,Non core,4.016064257028113,4.6568627450980395,22,28
+openstack/oslo.db,openstack/monasca-persister,Core,5.128205128205128,2.43161094224924,16,25
+openstack/oslo.db,openstack/monasca-persister,Non core,3.076923076923077,5.167173252279635,16,25
+openstack/oslo.db,openstack/monasca-notification,Core,5.025125628140704,2.476780185758514,15,21
+openstack/oslo.db,openstack/monasca-notification,Non core,2.512562814070352,4.024767801857585,15,21
+openstack/oslo.db,openstack/python-saharaclient,Core,6.5420560747663545,4.491017964071856,20,34
+openstack/oslo.db,openstack/python-saharaclient,Non core,2.803738317757009,5.688622754491018,20,34
+openstack/oslo.db,openstack/charm-magpie,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/charm-magpie,Non core,0.0,0.39215686274509803,0,1
+openstack/oslo.db,openstack/openstack-ansible-os_placement,Core,1.9230769230769231,1.1320754716981132,6,7
+openstack/oslo.db,openstack/openstack-ansible-os_placement,Non core,1.9230769230769231,1.509433962264151,6,7
+openstack/oslo.db,openstack/openstackdocstheme,Core,7.368421052631578,8.253968253968253,19,36
+openstack/oslo.db,openstack/openstackdocstheme,Non core,2.631578947368421,3.1746031746031744,19,36
+openstack/oslo.db,openstack/sahara,Core,5.585106382978723,5.607476635514018,34,72
+openstack/oslo.db,openstack/sahara,Non core,3.4574468085106385,7.850467289719626,34,72
+openstack/oslo.db,openstack/ironic-ui,Core,5.46448087431694,2.631578947368421,17,20
+openstack/oslo.db,openstack/ironic-ui,Non core,3.825136612021858,3.9473684210526314,17,20
+openstack/oslo.db,openstack/oslo.serialization,Core,13.855421686746988,11.313868613138686,42,66
+openstack/oslo.db,openstack/oslo.serialization,Non core,11.44578313253012,12.773722627737227,42,66
+openstack/oslo.db,openstack/oslo.context,Core,12.5,9.507042253521126,38,59
+openstack/oslo.db,openstack/oslo.context,Non core,11.25,11.267605633802818,38,59
+openstack/oslo.db,openstack/oslo.limit,Core,3.821656050955414,6.2015503875969,18,32
+openstack/oslo.db,openstack/oslo.limit,Non core,7.643312101910828,6.2015503875969,18,32
+openstack/oslo.db,openstack/oslo.middleware,Core,11.235955056179774,10.238907849829351,45,73
+openstack/oslo.db,openstack/oslo.middleware,Non core,14.04494382022472,14.675767918088736,45,73
+openstack/oslo.db,openstack/oslo.reports,Core,8.280254777070063,8.582089552238806,28,55
+openstack/oslo.db,openstack/oslo.reports,Non core,9.554140127388536,11.940298507462686,28,55
+openstack/oslo.db,openstack/futurist,Core,10.0,7.2796934865900385,25,44
+openstack/oslo.db,openstack/futurist,Non core,5.625,9.578544061302683,25,44
+openstack/oslo.db,openstack/oslo.i18n,Core,11.44578313253012,10.79136690647482,36,66
+openstack/oslo.db,openstack/oslo.i18n,Non core,10.240963855421686,12.949640287769784,36,66
+openstack/oslo.db,openstack/sushy-oem-idrac,Core,0.6711409395973155,1.5267175572519083,1,5
+openstack/oslo.db,openstack/sushy-oem-idrac,Non core,0.0,0.38167938931297707,1,5
+openstack/oslo.db,openstack/python-dracclient,Core,2.976190476190476,2.04778156996587,12,18
+openstack/oslo.db,openstack/python-dracclient,Non core,4.166666666666666,4.09556313993174,12,18
+openstack/oslo.db,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,1,0
+openstack/oslo.db,openstack/openstack-ansible-os_adjutant,Non core,0.6802721088435374,0.0,1,0
+openstack/oslo.db,openstack/openstack-ansible-os_masakari,Core,1.8404907975460123,1.7985611510791366,11,16
+openstack/oslo.db,openstack/openstack-ansible-os_masakari,Non core,4.9079754601226995,3.9568345323741005,11,16
+openstack/oslo.db,openstack/ansible-role-systemd_mount,Core,1.910828025477707,0.7604562737642585,4,6
+openstack/oslo.db,openstack/ansible-role-systemd_mount,Non core,0.6369426751592357,1.520912547528517,4,6
+openstack/oslo.db,openstack/python-senlinclient,Core,7.8431372549019605,4.193548387096775,29,39
+openstack/oslo.db,openstack/python-senlinclient,Non core,6.372549019607843,8.38709677419355,29,39
+openstack/oslo.db,openstack/senlin-dashboard,Core,6.179775280898876,5.704697986577181,20,36
+openstack/oslo.db,openstack/senlin-dashboard,Non core,5.056179775280898,6.375838926174497,20,36
+openstack/oslo.db,openstack/networking-generic-switch,Core,4.712041884816754,3.3333333333333335,14,22
+openstack/oslo.db,openstack/networking-generic-switch,Non core,2.6178010471204187,4.0,14,22
+openstack/oslo.db,openstack/sahara-image-elements,Core,6.217616580310881,1.2698412698412698,15,13
+openstack/oslo.db,openstack/sahara-image-elements,Non core,1.5544041450777202,2.857142857142857,15,13
+openstack/oslo.db,openstack/ansible-role-thales-hsm,Core,0.0,0.0,1,3
+openstack/oslo.db,openstack/ansible-role-thales-hsm,Non core,0.6896551724137931,1.171875,1,3
+openstack/oslo.db,openstack/ansible-role-atos-hsm,Core,0.0,0.7905138339920948,1,4
+openstack/oslo.db,openstack/ansible-role-atos-hsm,Non core,0.6944444444444444,0.7905138339920948,1,4
+openstack/oslo.db,openstack/adjutant-ui,Core,3.4013605442176873,1.9762845849802373,6,9
+openstack/oslo.db,openstack/adjutant-ui,Non core,0.6802721088435374,1.5810276679841897,6,9
+openstack/oslo.db,openstack/sahara-extra,Core,5.263157894736842,3.584229390681003,12,21
+openstack/oslo.db,openstack/sahara-extra,Non core,1.7543859649122806,3.942652329749104,12,21
+openstack/oslo.db,openstack/blazar-nova,Core,6.962025316455696,5.072463768115942,16,25
+openstack/oslo.db,openstack/blazar-nova,Non core,3.1645569620253164,3.985507246376811,16,25
+openstack/oslo.db,openstack/oslo.service,Core,12.23404255319149,10.897435897435898,46,74
+openstack/oslo.db,openstack/oslo.service,Non core,12.23404255319149,12.82051282051282,46,74
+openstack/oslo.db,openstack/blazar-dashboard,Core,4.45859872611465,4.074074074074074,9,26
+openstack/oslo.db,openstack/blazar-dashboard,Non core,1.2738853503184715,5.555555555555555,9,26
+openstack/oslo.db,openstack/paunch,Core,3.278688524590164,4.3076923076923075,7,28
+openstack/oslo.db,openstack/paunch,Non core,0.546448087431694,4.3076923076923075,7,28
+openstack/oslo.db,openstack/service-types-authority,Core,3.1645569620253164,7.3426573426573425,5,24
+openstack/oslo.db,openstack/service-types-authority,Non core,0.0,1.048951048951049,5,24
+openstack/oslo.db,openstack/python-ironic-inspector-client,Core,4.4692737430167595,3.0303030303030303,11,30
+openstack/oslo.db,openstack/python-ironic-inspector-client,Non core,1.675977653631285,7.07070707070707,11,30
+openstack/oslo.db,openstack/openstack-ansible-memcached_server,Core,3.428571428571429,0.34602076124567477,14,15
+openstack/oslo.db,openstack/openstack-ansible-memcached_server,Non core,4.571428571428571,4.844290657439446,14,15
+openstack/oslo.db,openstack/os-testr,Core,5.813953488372093,5.423728813559322,19,33
+openstack/oslo.db,openstack/os-testr,Non core,5.232558139534884,5.762711864406779,19,33
+openstack/oslo.db,openstack/openstack-ansible-ceph_client,Core,3.314917127071823,1.0033444816053512,13,17
+openstack/oslo.db,openstack/openstack-ansible-ceph_client,Non core,3.867403314917127,4.682274247491638,13,17
+openstack/oslo.db,openstack/openstack-ansible-os_magnum,Core,3.2432432432432434,1.6233766233766231,13,16
+openstack/oslo.db,openstack/openstack-ansible-os_magnum,Non core,3.783783783783784,3.571428571428571,13,16
+openstack/oslo.db,openstack/openstack-ansible-os_blazar,Core,1.8633540372670807,1.4545454545454546,11,12
+openstack/oslo.db,openstack/openstack-ansible-os_blazar,Non core,4.968944099378882,2.909090909090909,11,12
+openstack/oslo.db,openstack/openstack-ansible-os_designate,Core,3.1746031746031744,1.935483870967742,14,21
+openstack/oslo.db,openstack/openstack-ansible-os_designate,Non core,4.232804232804233,4.838709677419355,14,21
+openstack/oslo.db,openstack/openstack-ansible-os_gnocchi,Core,3.2432432432432434,1.694915254237288,16,20
+openstack/oslo.db,openstack/openstack-ansible-os_gnocchi,Non core,5.405405405405405,5.084745762711865,16,20
+openstack/oslo.db,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/openstack-ansible-os_senlin,Non core,0.0,0.39370078740157477,0,1
+openstack/oslo.db,openstack/ptgbot,Core,3.9735099337748347,3.8461538461538463,6,12
+openstack/oslo.db,openstack/ptgbot,Non core,0.0,0.7692307692307693,6,12
+openstack/oslo.db,openstack/openstack-ansible-os_zun,Core,2.5,1.4760147601476015,11,12
+openstack/oslo.db,openstack/openstack-ansible-os_zun,Non core,4.375,2.952029520295203,11,12
+openstack/oslo.db,openstack/openstack-ansible-repo_server,Core,3.2085561497326207,1.3157894736842104,12,17
+openstack/oslo.db,openstack/openstack-ansible-repo_server,Non core,3.2085561497326207,4.276315789473684,12,17
+openstack/oslo.db,openstack/python-watcherclient,Core,4.926108374384237,2.666666666666667,23,26
+openstack/oslo.db,openstack/python-watcherclient,Non core,6.403940886699508,6.0,23,26
+openstack/oslo.db,openstack/heat-agents,Core,4.166666666666666,3.908794788273615,12,24
+openstack/oslo.db,openstack/heat-agents,Non core,2.976190476190476,3.908794788273615,12,24
+openstack/oslo.db,openstack/oslo.rootwrap,Core,11.560693641618498,11.11111111111111,42,74
+openstack/oslo.db,openstack/oslo.rootwrap,Non core,12.716763005780345,14.583333333333334,42,74
+openstack/oslo.db,openstack/automaton,Core,5.769230769230769,5.533596837944664,18,35
+openstack/oslo.db,openstack/automaton,Non core,5.769230769230769,8.300395256916996,18,35
+openstack/oslo.db,openstack/debtcollector,Core,10.062893081761008,7.228915662650602,27,38
+openstack/oslo.db,openstack/debtcollector,Non core,6.918238993710692,8.032128514056225,27,38
+openstack/oslo.db,openstack/vitrage-dashboard,Core,3.571428571428571,1.6835016835016834,13,16
+openstack/oslo.db,openstack/vitrage-dashboard,Non core,3.061224489795918,3.7037037037037033,13,16
+openstack/oslo.db,openstack/oslotest,Core,11.65644171779141,9.293680297397769,40,64
+openstack/oslo.db,openstack/oslotest,Non core,12.883435582822086,14.49814126394052,40,64
+openstack/oslo.db,openstack/kayobe-config,Core,2.027027027027027,0.8,5,2
+openstack/oslo.db,openstack/kayobe-config,Non core,1.3513513513513513,0.0,5,2
+openstack/oslo.db,openstack/compute-hyperv,Core,4.819277108433735,2.2304832713754648,10,16
+openstack/oslo.db,openstack/compute-hyperv,Non core,1.2048192771084338,3.717472118959108,10,16
+openstack/oslo.db,openstack/python-cloudkittyclient,Core,4.918032786885246,3.169014084507042,21,31
+openstack/oslo.db,openstack/python-cloudkittyclient,Non core,6.557377049180328,7.746478873239436,21,31
+openstack/oslo.db,openstack/charm-interface-keystone,Core,1.9736842105263157,0.390625,5,5
+openstack/oslo.db,openstack/charm-interface-keystone,Non core,1.3157894736842104,1.5625,5,5
+openstack/oslo.db,openstack/cloudkitty-dashboard,Core,5.113636363636364,2.3728813559322033,13,26
+openstack/oslo.db,openstack/cloudkitty-dashboard,Non core,2.272727272727273,6.440677966101695,13,26
+openstack/oslo.db,openstack/networking-hyperv,Core,5.056179775280898,2.5925925925925926,17,26
+openstack/oslo.db,openstack/networking-hyperv,Non core,4.49438202247191,7.037037037037037,17,26
+openstack/oslo.db,openstack/i18n,Core,5.172413793103448,3.040540540540541,11,19
+openstack/oslo.db,openstack/i18n,Non core,1.1494252873563218,3.3783783783783785,11,19
+openstack/oslo.db,openstack/sahara-tests,Core,3.488372093023256,2.356902356902357,9,14
+openstack/oslo.db,openstack/sahara-tests,Non core,1.744186046511628,2.356902356902357,9,14
+openstack/oslo.db,openstack/python-zunclient,Core,4.878048780487805,2.4615384615384617,21,23
+openstack/oslo.db,openstack/python-zunclient,Non core,5.365853658536586,4.615384615384616,21,23
+openstack/oslo.db,openstack/sahara-plugin-cdh,Core,2.666666666666667,1.9920318725099602,5,15
+openstack/oslo.db,openstack/sahara-plugin-cdh,Non core,0.6666666666666667,3.9840637450199203,5,15
+openstack/oslo.db,openstack/monasca-ui,Core,5.9405940594059405,1.69971671388102,17,22
+openstack/oslo.db,openstack/monasca-ui,Non core,2.4752475247524752,4.53257790368272,17,22
+openstack/oslo.db,openstack/python-adjutantclient,Core,3.3557046979865772,1.6064257028112447,5,8
+openstack/oslo.db,openstack/python-adjutantclient,Non core,0.0,1.6064257028112447,5,8
+openstack/oslo.db,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/ansible-role-lunasa-hsm,Core,0.6993006993006993,0.40650406504065045,1,3
+openstack/oslo.db,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.8130081300813009,1,3
+openstack/oslo.db,openstack/monasca-thresh,Core,3.7267080745341614,0.34965034965034963,9,4
+openstack/oslo.db,openstack/monasca-thresh,Non core,1.8633540372670807,1.048951048951049,9,4
+openstack/oslo.db,openstack/heat-specs,Core,5.5,4.030226700251889,13,31
+openstack/oslo.db,openstack/heat-specs,Non core,1.0,3.7783375314861463,13,31
+openstack/oslo.db,openstack/watcher-dashboard,Core,4.545454545454546,1.7241379310344827,16,21
+openstack/oslo.db,openstack/watcher-dashboard,Non core,4.545454545454546,5.517241379310345,16,21
+openstack/oslo.db,openstack/sahara-plugin-ambari,Core,2.684563758389262,1.2048192771084338,5,10
+openstack/oslo.db,openstack/sahara-plugin-ambari,Non core,0.6711409395973155,2.8112449799196786,5,10
+openstack/oslo.db,openstack/sahara-plugin-mapr,Core,2.7027027027027026,1.593625498007968,5,13
+openstack/oslo.db,openstack/sahara-plugin-mapr,Non core,0.6756756756756757,3.5856573705179287,5,13
+openstack/oslo.db,openstack/sahara-plugin-spark,Core,2.7210884353741496,1.2096774193548387,5,6
+openstack/oslo.db,openstack/sahara-plugin-spark,Non core,0.6802721088435374,1.2096774193548387,5,6
+openstack/oslo.db,openstack/sahara-plugin-storm,Core,2.7210884353741496,1.2096774193548387,5,7
+openstack/oslo.db,openstack/sahara-plugin-storm,Non core,0.6802721088435374,1.6129032258064515,5,7
+openstack/oslo.db,openstack/sahara-plugin-vanilla,Core,2.7210884353741496,1.2048192771084338,5,8
+openstack/oslo.db,openstack/sahara-plugin-vanilla,Non core,0.6802721088435374,2.0080321285140563,5,8
+openstack/oslo.db,openstack/sahara-specs,Core,2.6737967914438503,1.3071895424836601,6,11
+openstack/oslo.db,openstack/sahara-specs,Non core,0.53475935828877,2.287581699346405,6,11
+openstack/oslo.db,openstack/venus-tempest-plugin,Core,0.0,0.4016064257028112,1,1
+openstack/oslo.db,openstack/venus-tempest-plugin,Non core,0.6756756756756757,0.0,1,1
+openstack/oslo.db,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/ceilometermiddleware,Core,5.952380952380952,5.263157894736842,14,33
+openstack/oslo.db,openstack/ceilometermiddleware,Non core,2.380952380952381,6.315789473684211,14,33
+openstack/oslo.db,openstack/trove-tempest-plugin,Core,1.9736842105263157,1.509433962264151,4,9
+openstack/oslo.db,openstack/trove-tempest-plugin,Non core,0.6578947368421052,1.8867924528301887,4,9
+openstack/oslo.db,openstack/arch-design,Core,1.36986301369863,1.2195121951219512,4,4
+openstack/oslo.db,openstack/arch-design,Non core,1.36986301369863,0.40650406504065045,4,4
+openstack/oslo.db,openstack/monasca-common,Core,4.433497536945813,1.8181818181818181,14,22
+openstack/oslo.db,openstack/monasca-common,Non core,2.4630541871921183,4.848484848484849,14,22
+openstack/oslo.db,openstack/monasca-statsd,Core,5.952380952380952,1.7605633802816902,14,17
+openstack/oslo.db,openstack/monasca-statsd,Non core,2.380952380952381,4.225352112676056,14,17
+openstack/oslo.db,openstack/python-monascaclient,Core,6.25,3.313253012048193,23,30
+openstack/oslo.db,openstack/python-monascaclient,Non core,4.807692307692308,5.72289156626506,23,30
+openstack/oslo.db,openstack/renderspec,Core,5.88235294117647,3.501945525291829,13,15
+openstack/oslo.db,openstack/renderspec,Non core,2.6143790849673203,2.3346303501945527,13,15
+openstack/oslo.db,openstack/os-service-types,Core,3.225806451612903,4.280155642023346,9,22
+openstack/oslo.db,openstack/os-service-types,Non core,2.5806451612903225,4.280155642023346,9,22
+openstack/oslo.db,openstack/masakari-dashboard,Core,3.7735849056603774,2.564102564102564,10,19
+openstack/oslo.db,openstack/masakari-dashboard,Non core,2.515723270440252,4.395604395604396,10,19
+openstack/oslo.db,openstack/freezer-dr,Core,2.515723270440252,1.8726591760299627,8,15
+openstack/oslo.db,openstack/freezer-dr,Non core,2.515723270440252,3.7453183520599254,8,15
+openstack/oslo.db,openstack/tempest-stress,Core,1.9230769230769231,2.0,6,11
+openstack/oslo.db,openstack/tempest-stress,Non core,1.9230769230769231,2.4,6,11
+openstack/oslo.db,openstack/charm-neutron-api-genericswitch,Core,1.3888888888888888,0.8097165991902834,2,2
+openstack/oslo.db,openstack/charm-neutron-api-genericswitch,Non core,0.0,0.0,2,2
+openstack/oslo.db,openstack/charm-neutron-dynamic-routing,Core,1.935483870967742,0.7782101167315175,3,5
+openstack/oslo.db,openstack/charm-neutron-dynamic-routing,Non core,0.0,1.1673151750972763,3,5
+openstack/oslo.db,openstack/charm-interface-ceph-client,Core,1.3513513513513513,0.7936507936507936,2,3
+openstack/oslo.db,openstack/charm-interface-ceph-client,Non core,0.0,0.3968253968253968,2,3
+openstack/oslo.db,openstack/charm-percona-cluster,Core,1.1299435028248588,0.6993006993006993,5,8
+openstack/oslo.db,openstack/charm-percona-cluster,Non core,1.694915254237288,2.097902097902098,5,8
+openstack/oslo.db,openstack/charm-deployment-guide,Core,1.1627906976744187,0.36496350364963503,2,3
+openstack/oslo.db,openstack/charm-deployment-guide,Non core,0.0,0.7299270072992701,2,3
+openstack/oslo.db,openstack/rbd-iscsi-client,Core,0.0,0.4,0,1
+openstack/oslo.db,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,1
+openstack/oslo.db,openstack/oslo.metrics,Core,0.6756756756756757,2.0242914979757085,2,12
+openstack/oslo.db,openstack/oslo.metrics,Non core,0.6756756756756757,2.834008097165992,2,12
+openstack/oslo.db,openstack/oslo.vmware,Core,9.782608695652174,10.289389067524116,38,76
+openstack/oslo.db,openstack/oslo.vmware,Non core,10.869565217391305,14.14790996784566,38,76
+openstack/oslo.db,openstack/oslo.upgradecheck,Core,6.081081081081082,4.8,12,22
+openstack/oslo.db,openstack/oslo.upgradecheck,Non core,2.027027027027027,4.0,12,22
+openstack/oslo.db,openstack/python-masakariclient,Core,3.5294117647058822,3.3210332103321036,14,25
+openstack/oslo.db,openstack/python-masakariclient,Non core,4.705882352941177,5.904059040590406,14,25
+openstack/oslo.db,openstack/python-vitrageclient,Core,3.314917127071823,0.7352941176470588,15,11
+openstack/oslo.db,openstack/python-vitrageclient,Non core,4.972375690607735,3.308823529411765,15,11
+openstack/oslo.db,openstack/python-blazarclient,Core,5.58659217877095,5.633802816901409,16,37
+openstack/oslo.db,openstack/python-blazarclient,Non core,3.35195530726257,7.394366197183098,16,37
+openstack/oslo.db,openstack/zaqar-tempest-plugin,Core,3.3333333333333335,2.7027027027027026,5,10
+openstack/oslo.db,openstack/zaqar-tempest-plugin,Non core,0.0,1.1583011583011582,5,10
+openstack/oslo.db,openstack/tripleo-common-tempest-plugin,Core,1.9607843137254901,1.1363636363636365,6,13
+openstack/oslo.db,openstack/tripleo-common-tempest-plugin,Non core,1.9607843137254901,3.787878787878788,6,13
+openstack/oslo.db,openstack/mistral-tempest-plugin,Core,1.8867924528301887,0.7434944237918215,7,10
+openstack/oslo.db,openstack/mistral-tempest-plugin,Non core,2.515723270440252,2.973977695167286,7,10
+openstack/oslo.db,openstack/barbican-ui,Core,0.7042253521126761,0.7905138339920948,1,3
+openstack/oslo.db,openstack/barbican-ui,Non core,0.0,0.3952569169960474,1,3
+openstack/oslo.db,openstack/liberasurecode,Core,0.6535947712418301,0.38461538461538464,1,4
+openstack/oslo.db,openstack/liberasurecode,Non core,0.0,1.153846153846154,1,4
+openstack/oslo.db,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/os-client-config,Core,10.880829015544041,6.666666666666667,28,35
+openstack/oslo.db,openstack/os-client-config,Non core,3.6269430051813467,4.444444444444445,28,35
+openstack/oslo.db,openstack/monasca-specs,Core,1.3333333333333335,1.1152416356877324,4,5
+openstack/oslo.db,openstack/monasca-specs,Non core,1.3333333333333335,0.7434944237918215,4,5
+openstack/oslo.db,openstack/os-performance-tools,Core,2.6143790849673203,3.1620553359683794,8,12
+openstack/oslo.db,openstack/os-performance-tools,Non core,2.6143790849673203,1.5810276679841897,8,12
+openstack/oslo.db,openstack/trove-specs,Core,3.428571428571429,1.5974440894568689,7,15
+openstack/oslo.db,openstack/trove-specs,Non core,0.5714285714285714,3.1948881789137378,7,15
+openstack/oslo.db,openstack/manila-image-elements,Core,3.125,0.7142857142857143,9,10
+openstack/oslo.db,openstack/manila-image-elements,Non core,2.5,2.857142857142857,9,10
+openstack/oslo.db,openstack/blazar-specs,Core,2.027027027027027,1.532567049808429,3,4
+openstack/oslo.db,openstack/blazar-specs,Non core,0.0,0.0,3,4
+openstack/oslo.db,openstack/molteniron,Core,3.3557046979865772,2.7027027027027026,5,11
+openstack/oslo.db,openstack/molteniron,Non core,0.0,1.5444015444015444,5,11
+openstack/oslo.db,openstack/solum-specs,Core,3.9473684210526314,0.3787878787878788,6,3
+openstack/oslo.db,openstack/solum-specs,Non core,0.0,0.7575757575757576,6,3
+openstack/oslo.db,openstack/patrole,Core,2.7027027027027026,3.571428571428571,10,20
+openstack/oslo.db,openstack/patrole,Non core,1.8018018018018018,2.380952380952381,10,20
+openstack/oslo.db,openstack/performance-docs,Core,2.2598870056497176,3.546099290780142,5,20
+openstack/oslo.db,openstack/performance-docs,Non core,0.5649717514124294,3.546099290780142,5,20
+openstack/oslo.db,openstack/sphinx-feature-classification,Core,4.57516339869281,4.280155642023346,9,22
+openstack/oslo.db,openstack/sphinx-feature-classification,Non core,1.3071895424836601,4.280155642023346,9,22
+openstack/oslo.db,openstack/etcd3gw,Core,0.6756756756756757,2.8455284552845526,2,9
+openstack/oslo.db,openstack/etcd3gw,Non core,0.6756756756756757,0.8130081300813009,2,9
+openstack/oslo.db,openstack/watcher-specs,Core,1.6483516483516485,1.929260450160772,8,16
+openstack/oslo.db,openstack/watcher-specs,Non core,2.7472527472527473,3.215434083601286,8,16
+openstack/oslo.db,openstack/yaql,Core,6.0606060606060606,1.7605633802816902,13,16
+openstack/oslo.db,openstack/yaql,Non core,1.8181818181818181,3.873239436619718,13,16
+openstack/oslo.db,openstack/puppet-openstack-guide,Core,2.5,1.465201465201465,9,11
+openstack/oslo.db,openstack/puppet-openstack-guide,Non core,3.125,2.564102564102564,9,11
+openstack/oslo.db,openstack/puppet-panko,Core,3.508771929824561,1.509433962264151,10,12
+openstack/oslo.db,openstack/puppet-panko,Non core,2.3391812865497075,3.018867924528302,10,12
+openstack/oslo.db,openstack/heat-cfnclient,Core,3.821656050955414,3.0534351145038165,7,15
+openstack/oslo.db,openstack/heat-cfnclient,Non core,0.6369426751592357,2.6717557251908395,7,15
+openstack/oslo.db,openstack/heat-cfntools,Core,5.747126436781609,3.0927835051546393,17,22
+openstack/oslo.db,openstack/heat-cfntools,Non core,4.022988505747127,4.4673539518900345,17,22
+openstack/oslo.db,openstack/heat-templates,Core,4.721030042918455,3.2911392405063293,14,28
+openstack/oslo.db,openstack/heat-templates,Non core,1.2875536480686696,3.79746835443038,14,28
+openstack/oslo.db,openstack/governance-sigs,Core,6.748466257668712,6.349206349206349,13,31
+openstack/oslo.db,openstack/governance-sigs,Non core,1.2269938650306749,3.492063492063492,13,31
+openstack/oslo.db,openstack/openstack-zuul-roles,Core,2.097902097902098,1.1952191235059761,3,4
+openstack/oslo.db,openstack/openstack-zuul-roles,Non core,0.0,0.398406374501992,3,4
+openstack/oslo.db,openstack/nova-powervm,Core,3.684210526315789,2.1671826625387,9,20
+openstack/oslo.db,openstack/nova-powervm,Non core,1.0526315789473684,4.024767801857585,9,20
+openstack/oslo.db,openstack/openstack-helm-addons,Core,0.0,0.2881844380403458,3,10
+openstack/oslo.db,openstack/openstack-helm-addons,Non core,1.7045454545454544,2.5936599423631126,3,10
+openstack/oslo.db,openstack/python-pankoclient,Core,4.516129032258064,4.21455938697318,12,23
+openstack/oslo.db,openstack/python-pankoclient,Non core,3.225806451612903,4.597701149425287,12,23
+openstack/oslo.db,openstack/qa-specs,Core,4.444444444444445,4.545454545454546,10,25
+openstack/oslo.db,openstack/qa-specs,Non core,1.1111111111111112,3.0303030303030303,10,25
+openstack/oslo.db,openstack/zaqar-specs,Core,5.389221556886228,3.484320557491289,11,22
+openstack/oslo.db,openstack/zaqar-specs,Non core,1.1976047904191618,4.181184668989547,11,22
+openstack/oslo.db,openstack/swift-bench,Core,0.6451612903225806,1.098901098901099,5,8
+openstack/oslo.db,openstack/swift-bench,Non core,2.5806451612903225,1.8315018315018317,5,8
+openstack/oslo.db,openstack/whereto,Core,4.054054054054054,3.5856573705179287,11,15
+openstack/oslo.db,openstack/whereto,Non core,3.3783783783783785,2.3904382470119523,11,15
+openstack/oslo.db,openstack/murano-specs,Core,2.824858757062147,0.6734006734006733,7,9
+openstack/oslo.db,openstack/murano-specs,Non core,1.1299435028248588,2.356902356902357,7,9
+openstack/oslo.db,openstack/ansible-role-tripleo-modify-image,Core,1.8072289156626504,2.0338983050847457,5,12
+openstack/oslo.db,openstack/ansible-role-tripleo-modify-image,Non core,1.2048192771084338,2.0338983050847457,5,12
+openstack/oslo.db,openstack/requestsexceptions,Core,3.4965034965034967,2.3904382470119523,6,10
+openstack/oslo.db,openstack/requestsexceptions,Non core,0.6993006993006993,1.593625498007968,6,10
+openstack/oslo.db,openstack/panko,Core,6.217616580310881,4.487179487179487,21,34
+openstack/oslo.db,openstack/panko,Non core,4.66321243523316,6.41025641025641,21,34
+openstack/oslo.db,openstack/api-sig,Core,5.027932960893855,6.476683937823833,14,53
+openstack/oslo.db,openstack/api-sig,Non core,2.793296089385475,7.253886010362693,14,53
+openstack/oslo.db,openstack/openstack-chef-specs,Core,2.484472049689441,1.858736059479554,4,10
+openstack/oslo.db,openstack/openstack-chef-specs,Non core,0.0,1.858736059479554,4,10
+openstack/oslo.db,openstack/freezer-specs,Core,2.5316455696202533,1.1278195488721803,5,5
+openstack/oslo.db,openstack/freezer-specs,Non core,0.6329113924050633,0.7518796992481203,5,5
+openstack/oslo.db,openstack/oslo.tools,Core,5.660377358490567,5.668016194331984,15,26
+openstack/oslo.db,openstack/oslo.tools,Non core,3.7735849056603774,4.8582995951417,15,26
+openstack/oslo.db,openstack/microversion-parse,Core,1.36986301369863,3.2128514056224895,5,10
+openstack/oslo.db,openstack/microversion-parse,Non core,2.054794520547945,0.8032128514056224,5,10
+openstack/oslo.db,openstack/openstackclient,Core,6.493506493506493,3.435114503816794,12,17
+openstack/oslo.db,openstack/openstackclient,Non core,1.2987012987012987,3.0534351145038165,12,17
+openstack/oslo.db,openstack/ossa,Core,2.515723270440252,6.028368794326241,4,23
+openstack/oslo.db,openstack/ossa,Non core,0.0,2.127659574468085,4,23
+openstack/oslo.db,openstack/reviewstats,Core,9.595959595959595,9.968847352024921,21,44
+openstack/oslo.db,openstack/reviewstats,Non core,1.0101010101010102,3.7383177570093453,21,44
+openstack/oslo.db,openstack/oslo-cookiecutter,Core,7.38255033557047,6.882591093117409,15,29
+openstack/oslo.db,openstack/oslo-cookiecutter,Non core,2.684563758389262,4.8582995951417,15,29
+openstack/oslo.db,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/security-analysis,Core,2.0408163265306123,2.6923076923076925,3,8
+openstack/oslo.db,openstack/security-analysis,Non core,0.0,0.38461538461538464,3,8
+openstack/oslo.db,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/ansible-role-tripleo-keystone,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-keystone,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/openstack-ansible-apt_package_pinning,Core,3.571428571428571,0.7246376811594203,10,11
+openstack/oslo.db,openstack/openstack-ansible-apt_package_pinning,Non core,2.380952380952381,3.260869565217391,10,11
+openstack/oslo.db,openstack/ansible-role-qdrouterd,Core,1.3245033112582782,1.1194029850746268,3,6
+openstack/oslo.db,openstack/ansible-role-qdrouterd,Non core,0.6622516556291391,1.1194029850746268,3,6
+openstack/oslo.db,openstack/openstack-ansible-openstack_openrc,Core,3.389830508474576,1.0638297872340425,12,14
+openstack/oslo.db,openstack/openstack-ansible-openstack_openrc,Non core,3.389830508474576,3.900709219858156,12,14
+openstack/oslo.db,openstack/openstack-ansible-nspawn_container_create,Core,1.910828025477707,1.9011406844106464,6,13
+openstack/oslo.db,openstack/openstack-ansible-nspawn_container_create,Non core,1.910828025477707,3.041825095057034,6,13
+openstack/oslo.db,openstack/devstack-tools,Core,3.2679738562091507,2.8000000000000003,6,11
+openstack/oslo.db,openstack/devstack-tools,Non core,0.6535947712418301,1.6,6,11
+openstack/oslo.db,openstack/coverage2sql,Core,3.1645569620253164,2.4,8,14
+openstack/oslo.db,openstack/coverage2sql,Non core,1.89873417721519,3.2,8,14
+openstack/oslo.db,openstack/bashate,Core,6.214689265536723,5.776173285198556,14,22
+openstack/oslo.db,openstack/bashate,Non core,1.694915254237288,2.166064981949458,14,22
+openstack/oslo.db,openstack/hacking,Core,10.294117647058822,10.746268656716417,25,65
+openstack/oslo.db,openstack/hacking,Non core,1.9607843137254901,8.656716417910449,25,65
+openstack/oslo.db,openstack/xstatic-mdi,Core,2.0689655172413794,0.0,3,3
+openstack/oslo.db,openstack/xstatic-mdi,Non core,0.0,1.185770750988142,3,3
+openstack/oslo.db,openstack/xstatic-roboto-fontface,Core,2.083333333333333,0.0,3,3
+openstack/oslo.db,openstack/xstatic-roboto-fontface,Non core,0.0,1.1811023622047243,3,3
+openstack/oslo.db,openstack/openstack-chef,Core,1.8292682926829267,1.574803149606299,3,9
+openstack/oslo.db,openstack/openstack-chef,Non core,0.0,1.968503937007874,3,9
+openstack/oslo.db,openstack/cookbook-openstackclient,Core,0.0,0.398406374501992,1,4
+openstack/oslo.db,openstack/cookbook-openstackclient,Non core,0.6756756756756757,1.1952191235059761,1,4
+openstack/oslo.db,openstack/xstatic-angular,Core,1.3245033112582782,0.0,2,3
+openstack/oslo.db,openstack/xstatic-angular,Non core,0.0,1.1450381679389312,2,3
+openstack/oslo.db,openstack/charm-interface-hacluster,Core,1.2738853503184715,0.39215686274509803,3,5
+openstack/oslo.db,openstack/charm-interface-hacluster,Non core,0.6369426751592357,1.5686274509803921,3,5
+openstack/oslo.db,openstack/puppet-openstack-specs,Core,3.1645569620253164,1.3793103448275863,9,10
+openstack/oslo.db,openstack/puppet-openstack-specs,Non core,2.5316455696202533,2.0689655172413794,9,10
+openstack/oslo.db,openstack/puppet-monasca,Core,2.4390243902439024,1.2779552715654952,9,11
+openstack/oslo.db,openstack/puppet-monasca,Non core,3.048780487804878,2.2364217252396164,9,11
+openstack/oslo.db,openstack/eslint-config-openstack,Core,1.9607843137254901,1.773049645390071,5,9
+openstack/oslo.db,openstack/eslint-config-openstack,Non core,1.3071895424836601,1.4184397163120568,5,9
+openstack/oslo.db,openstack/karma-subunit-reporter,Core,2.097902097902098,1.2244897959183674,3,5
+openstack/oslo.db,openstack/karma-subunit-reporter,Non core,0.0,0.8163265306122449,3,5
+openstack/oslo.db,openstack/openstack-helm-docs,Core,0.6802721088435374,1.5267175572519083,2,7
+openstack/oslo.db,openstack/openstack-helm-docs,Non core,0.6802721088435374,1.1450381679389312,2,7
+openstack/oslo.db,openstack/openstack-ansible-specs,Core,2.6737967914438503,1.7595307917888565,10,14
+openstack/oslo.db,openstack/openstack-ansible-specs,Non core,2.6737967914438503,2.346041055718475,10,14
+openstack/oslo.db,openstack/tempest-lib,Core,5.747126436781609,3.205128205128205,11,23
+openstack/oslo.db,openstack/tempest-lib,Non core,0.5747126436781609,4.166666666666666,11,23
+openstack/oslo.db,openstack/tripleo-ha-utils,Core,2.054794520547945,0.7604562737642585,4,6
+openstack/oslo.db,openstack/tripleo-ha-utils,Non core,0.684931506849315,1.520912547528517,4,6
+openstack/oslo.db,openstack/devstack-vagrant,Core,2.631578947368421,2.3346303501945527,4,11
+openstack/oslo.db,openstack/devstack-vagrant,Non core,0.0,1.9455252918287937,4,11
+openstack/oslo.db,openstack/goal-tools,Core,2.0689655172413794,3.2388663967611335,4,14
+openstack/oslo.db,openstack/goal-tools,Non core,0.6896551724137931,2.42914979757085,4,14
+openstack/oslo.db,openstack/cookiecutter,Core,8.982035928143713,8.727272727272728,18,38
+openstack/oslo.db,openstack/cookiecutter,Non core,1.7964071856287425,5.090909090909091,18,38
+openstack/oslo.db,openstack/dib-utils,Core,3.289473684210526,2.6022304832713754,5,13
+openstack/oslo.db,openstack/dib-utils,Non core,0.0,2.2304832713754648,5,13
+openstack/oslo.db,openstack/constellations,Core,1.3888888888888888,2.834008097165992,3,12
+openstack/oslo.db,openstack/constellations,Non core,0.6944444444444444,2.0242914979757085,3,12
+openstack/oslo.db,openstack/cookbook-openstack-integration-test,Core,1.9230769230769231,1.1235955056179776,4,10
+openstack/oslo.db,openstack/cookbook-openstack-integration-test,Non core,0.641025641025641,2.6217228464419478,4,10
+openstack/oslo.db,openstack/cookbook-openstack-dashboard,Core,2.197802197802198,1.3333333333333335,5,13
+openstack/oslo.db,openstack/cookbook-openstack-dashboard,Non core,0.5494505494505495,3.0,5,13
+openstack/oslo.db,openstack/cookbook-openstack-telemetry,Core,2.197802197802198,1.4084507042253522,6,10
+openstack/oslo.db,openstack/cookbook-openstack-telemetry,Non core,1.098901098901099,2.112676056338028,6,10
+openstack/oslo.db,openstack/cookbook-openstack-orchestration,Core,2.3255813953488373,2.0905923344947737,6,12
+openstack/oslo.db,openstack/cookbook-openstack-orchestration,Non core,1.1627906976744187,2.0905923344947737,6,12
+openstack/oslo.db,openstack/cookbook-openstack-bare-metal,Core,1.342281879194631,1.1673151750972763,3,8
+openstack/oslo.db,openstack/cookbook-openstack-bare-metal,Non core,0.6711409395973155,1.9455252918287937,3,8
+openstack/oslo.db,openstack/cookbook-openstack-dns,Core,0.0,0.8097165991902834,1,8
+openstack/oslo.db,openstack/cookbook-openstack-dns,Non core,0.684931506849315,2.42914979757085,1,8
+openstack/oslo.db,openstack/cookbook-openstack-compute,Core,1.9801980198019802,2.1806853582554515,5,16
+openstack/oslo.db,openstack/cookbook-openstack-compute,Non core,0.49504950495049505,2.803738317757009,5,16
+openstack/oslo.db,openstack/cookbook-openstack-network,Core,1.9704433497536946,1.5723270440251573,6,14
+openstack/oslo.db,openstack/cookbook-openstack-network,Non core,0.9852216748768473,2.8301886792452833,6,14
+openstack/oslo.db,openstack/cookbook-openstack-block-storage,Core,2.5510204081632653,1.6611295681063125,7,12
+openstack/oslo.db,openstack/cookbook-openstack-block-storage,Non core,1.0204081632653061,2.3255813953488373,7,12
+openstack/oslo.db,openstack/cookbook-openstack-image,Core,2.1164021164021163,1.6722408026755853,5,13
+openstack/oslo.db,openstack/cookbook-openstack-image,Non core,0.5291005291005291,2.6755852842809364,5,13
+openstack/oslo.db,openstack/cookbook-openstack-identity,Core,2.6595744680851063,1.3071895424836601,8,12
+openstack/oslo.db,openstack/cookbook-openstack-identity,Non core,1.5957446808510638,2.6143790849673203,8,12
+openstack/oslo.db,openstack/cookbook-openstack-ops-database,Core,2.3255813953488373,1.4134275618374559,5,9
+openstack/oslo.db,openstack/cookbook-openstack-ops-database,Non core,0.5813953488372093,1.76678445229682,5,9
+openstack/oslo.db,openstack/cookbook-openstack-ops-messaging,Core,2.4242424242424243,0.7220216606498195,5,8
+openstack/oslo.db,openstack/cookbook-openstack-ops-messaging,Non core,0.6060606060606061,2.166064981949458,5,8
+openstack/oslo.db,openstack/cookbook-openstack-common,Core,2.0202020202020203,1.5527950310559007,6,13
+openstack/oslo.db,openstack/cookbook-openstack-common,Non core,1.0101010101010102,2.484472049689441,6,13
+openstack/oslo.db,openstack/self-healing-sig,Core,2.013422818791946,1.1320754716981132,3,4
+openstack/oslo.db,openstack/self-healing-sig,Non core,0.0,0.37735849056603776,3,4
+openstack/oslo.db,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/security-specs,Core,3.3333333333333335,2.272727272727273,7,10
+openstack/oslo.db,openstack/security-specs,Non core,1.3333333333333335,1.5151515151515151,7,10
+openstack/oslo.db,openstack/openstack-ansible-os_panko,Core,1.910828025477707,2.2304832713754648,9,14
+openstack/oslo.db,openstack/openstack-ansible-os_panko,Non core,3.821656050955414,2.973977695167286,9,14
+openstack/oslo.db,openstack/openstack-ansible-nspawn_hosts,Core,1.9230769230769231,1.1278195488721803,8,12
+openstack/oslo.db,openstack/openstack-ansible-nspawn_hosts,Non core,3.205128205128205,3.3834586466165413,8,12
+openstack/oslo.db,openstack/charm-layer-openstack-principle,Core,1.3793103448275863,0.0,2,0
+openstack/oslo.db,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,2,0
+openstack/oslo.db,openstack/charm-watcher-dashboard,Core,1.3986013986013985,0.3952569169960474,2,1
+openstack/oslo.db,openstack/charm-watcher-dashboard,Non core,0.0,0.0,2,1
+openstack/oslo.db,openstack/charm-watcher,Core,1.3793103448275863,0.38314176245210724,2,2
+openstack/oslo.db,openstack/charm-watcher,Non core,0.0,0.38314176245210724,2,2
+openstack/oslo.db,openstack/openstack-ansible-galera_client,Core,3.8461538461538463,1.0452961672473868,14,14
+openstack/oslo.db,openstack/openstack-ansible-galera_client,Non core,3.8461538461538463,3.8327526132404177,14,14
+openstack/oslo.db,openstack/cloudkitty-specs,Core,2.5974025974025974,0.7518796992481203,4,7
+openstack/oslo.db,openstack/cloudkitty-specs,Non core,0.0,1.8796992481203008,4,7
+openstack/oslo.db,openstack/osops,Core,1.3793103448275863,0.8,2,3
+openstack/oslo.db,openstack/osops,Non core,0.0,0.4,2,3
+openstack/oslo.db,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-ironic,Core,1.3888888888888888,0.40650406504065045,3,1
+openstack/oslo.db,openstack/charm-ironic,Non core,0.6944444444444444,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/multi-arch-sig,Core,0.6993006993006993,0.8032128514056224,1,2
+openstack/oslo.db,openstack/multi-arch-sig,Non core,0.0,0.0,1,2
+openstack/oslo.db,openstack/charm-nova-compute-proxy,Core,0.6711409395973155,0.0,4,2
+openstack/oslo.db,openstack/charm-nova-compute-proxy,Non core,2.013422818791946,0.7874015748031495,4,2
+openstack/oslo.db,openstack/charm-odl-controller,Core,0.6578947368421052,0.0,2,2
+openstack/oslo.db,openstack/charm-odl-controller,Non core,0.6578947368421052,0.7936507936507936,2,2
+openstack/oslo.db,openstack/charm-nova-lxd,Core,1.2658227848101267,0.3787878787878788,4,4
+openstack/oslo.db,openstack/charm-nova-lxd,Non core,1.2658227848101267,1.1363636363636365,4,4
+openstack/oslo.db,openstack/charm-interface-nova-cell,Core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/oslo.db,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-interface-barbican-secrets,Core,0.6802721088435374,0.4032258064516129,1,3
+openstack/oslo.db,openstack/charm-interface-barbican-secrets,Non core,0.0,0.8064516129032258,1,3
+openstack/oslo.db,openstack/charm-interface-mysql-innodb-cluster,Core,0.7042253521126761,0.0,1,0
+openstack/oslo.db,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/oslo.db,openstack/charm-interface-ceph-rbd-mirror,Core,0.684931506849315,0.4016064257028112,1,3
+openstack/oslo.db,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,0.8032128514056224,1,3
+openstack/oslo.db,openstack/charm-interface-placement,Core,0.6993006993006993,0.0,1,0
+openstack/oslo.db,openstack/charm-interface-placement,Non core,0.0,0.0,1,0
+openstack/oslo.db,openstack/charm-interface-mysql-shared,Core,2.054794520547945,0.0,4,1
+openstack/oslo.db,openstack/charm-interface-mysql-shared,Non core,0.684931506849315,0.398406374501992,4,1
+openstack/oslo.db,openstack/charm-interface-dashboard-plugin,Core,0.6802721088435374,0.4032258064516129,1,3
+openstack/oslo.db,openstack/charm-interface-dashboard-plugin,Non core,0.0,0.8064516129032258,1,3
+openstack/oslo.db,openstack/charm-interface-neutron-load-balancer,Core,0.6802721088435374,0.4032258064516129,1,3
+openstack/oslo.db,openstack/charm-interface-neutron-load-balancer,Non core,0.0,0.8064516129032258,1,3
+openstack/oslo.db,openstack/charm-interface-neutron-plugin-api-subordinate,Core,2.0408163265306123,0.796812749003984,4,2
+openstack/oslo.db,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,0.6802721088435374,0.0,4,2
+openstack/oslo.db,openstack/charm-interface-neutron-plugin,Core,2.0689655172413794,0.4016064257028112,3,2
+openstack/oslo.db,openstack/charm-interface-neutron-plugin,Non core,0.0,0.4016064257028112,3,2
+openstack/oslo.db,openstack/xstatic-json2yaml,Core,0.7042253521126761,0.0,1,0
+openstack/oslo.db,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/oslo.db,openstack/xstatic-jquery.tablesorter,Core,2.127659574468085,0.0,3,1
+openstack/oslo.db,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.4032258064516129,3,1
+openstack/oslo.db,openstack/xstatic-magic-search,Core,1.3605442176870748,0.0,2,3
+openstack/oslo.db,openstack/xstatic-magic-search,Non core,0.0,1.171875,2,3
+openstack/oslo.db,openstack/xstatic-jsencrypt,Core,1.3793103448275863,0.0,2,3
+openstack/oslo.db,openstack/xstatic-jsencrypt,Non core,0.0,1.171875,2,3
+openstack/oslo.db,openstack/xstatic-js-yaml,Core,1.4084507042253522,0.0,2,0
+openstack/oslo.db,openstack/xstatic-js-yaml,Non core,0.0,0.0,2,0
+openstack/oslo.db,openstack/xstatic-spin,Core,2.127659574468085,0.0,3,1
+openstack/oslo.db,openstack/xstatic-spin,Non core,0.0,0.4032258064516129,3,1
+openstack/oslo.db,openstack/xstatic-rickshaw,Core,2.0689655172413794,0.0,3,3
+openstack/oslo.db,openstack/xstatic-rickshaw,Non core,0.0,1.185770750988142,3,3
+openstack/oslo.db,openstack/charm-panko,Core,0.684931506849315,0.796812749003984,1,5
+openstack/oslo.db,openstack/charm-panko,Non core,0.0,1.1952191235059761,1,5
+openstack/oslo.db,openstack/charm-interface-service-control,Core,0.6802721088435374,0.4,2,3
+openstack/oslo.db,openstack/charm-interface-service-control,Non core,0.6802721088435374,0.8,2,3
+openstack/oslo.db,openstack/openstack-ansible-os_almanach,Core,2.547770700636943,0.7490636704119851,10,10
+openstack/oslo.db,openstack/openstack-ansible-os_almanach,Non core,3.821656050955414,2.9962546816479403,10,10
+openstack/oslo.db,openstack/openstack-ansible-pip_install,Core,2.793296089385475,1.3333333333333335,11,15
+openstack/oslo.db,openstack/openstack-ansible-pip_install,Non core,3.35195530726257,3.6666666666666665,11,15
+openstack/oslo.db,openstack/python-karborclient,Core,4.41988950276243,2.422145328719723,13,19
+openstack/oslo.db,openstack/python-karborclient,Non core,2.7624309392265194,4.1522491349480966,13,19
+openstack/oslo.db,openstack/charm-interface-keystone-admin,Core,2.097902097902098,0.0,3,2
+openstack/oslo.db,openstack/charm-interface-keystone-admin,Non core,0.0,0.8097165991902834,3,2
+openstack/oslo.db,openstack/charm-interface-nova-compute,Core,1.3605442176870748,0.4,3,5
+openstack/oslo.db,openstack/charm-interface-nova-compute,Non core,0.6802721088435374,1.6,3,5
+openstack/oslo.db,openstack/charm-interface-manila-plugin,Core,1.3793103448275863,0.4016064257028112,2,2
+openstack/oslo.db,openstack/charm-interface-manila-plugin,Non core,0.0,0.4016064257028112,2,2
+openstack/oslo.db,openstack/murano-apps,Core,2.6595744680851063,1.3071895424836601,6,9
+openstack/oslo.db,openstack/murano-apps,Non core,0.5319148936170213,1.6339869281045754,6,9
+openstack/oslo.db,openstack/puppet-senlin,Core,2.0,1.171875,7,6
+openstack/oslo.db,openstack/puppet-senlin,Non core,2.666666666666667,1.171875,7,6
+openstack/oslo.db,openstack/cookbook-openstack-application-catalog,Core,0.6944444444444444,0.0,3,3
+openstack/oslo.db,openstack/cookbook-openstack-application-catalog,Non core,1.3888888888888888,1.2048192771084338,3,3
+openstack/oslo.db,openstack/training-labs,Core,3.614457831325301,2.5925925925925926,13,19
+openstack/oslo.db,openstack/training-labs,Non core,4.216867469879518,4.444444444444445,13,19
+openstack/oslo.db,openstack/karbor,Core,3.3472803347280333,3.2085561497326207,16,34
+openstack/oslo.db,openstack/karbor,Non core,3.3472803347280333,5.88235294117647,16,34
+openstack/oslo.db,openstack/devstack-plugin-open-cas,Core,0.6993006993006993,1.1952191235059761,1,3
+openstack/oslo.db,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,3
+openstack/oslo.db,openstack/openstack-ansible-os_congress,Core,1.89873417721519,1.4598540145985401,9,14
+openstack/oslo.db,openstack/openstack-ansible-os_congress,Non core,3.79746835443038,3.64963503649635,9,14
+openstack/oslo.db,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-interface-keystone-notifications,Core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/oslo.db,openstack/os-collect-config,Core,7.386363636363637,4.444444444444445,19,33
+openstack/oslo.db,openstack/os-collect-config,Non core,3.4090909090909087,6.031746031746032,19,33
+openstack/oslo.db,openstack/os-apply-config,Core,7.428571428571429,4.605263157894736,19,36
+openstack/oslo.db,openstack/os-apply-config,Non core,3.428571428571429,7.236842105263158,19,36
+openstack/oslo.db,openstack/puppet-freezer,Core,2.564102564102564,1.5384615384615385,10,11
+openstack/oslo.db,openstack/puppet-freezer,Non core,3.8461538461538463,2.6923076923076925,10,11
+openstack/oslo.db,openstack/vitrage-specs,Core,2.380952380952381,0.3508771929824561,11,10
+openstack/oslo.db,openstack/vitrage-specs,Non core,4.166666666666666,3.1578947368421053,11,10
+openstack/oslo.db,openstack/specs-cookiecutter,Core,4.166666666666666,4.048582995951417,6,12
+openstack/oslo.db,openstack/specs-cookiecutter,Non core,0.0,0.8097165991902834,6,12
+openstack/oslo.db,openstack/rpm-packaging-tools,Core,4.861111111111112,2.7237354085603114,9,13
+openstack/oslo.db,openstack/rpm-packaging-tools,Non core,1.3888888888888888,2.3346303501945527,9,13
+openstack/oslo.db,openstack/ansible-role-openstack-operations,Core,1.9607843137254901,0.7722007722007722,4,3
+openstack/oslo.db,openstack/ansible-role-openstack-operations,Non core,0.6535947712418301,0.3861003861003861,4,3
+openstack/oslo.db,openstack/os-refresh-config,Core,6.707317073170732,3.8596491228070176,16,34
+openstack/oslo.db,openstack/os-refresh-config,Non core,3.048780487804878,8.070175438596491,16,34
+openstack/oslo.db,openstack/mistral-specs,Core,2.4539877300613497,0.36101083032490977,7,6
+openstack/oslo.db,openstack/mistral-specs,Non core,1.8404907975460123,1.8050541516245486,7,6
+openstack/oslo.db,openstack/scientific-wg,Core,1.3986013986013985,0.8097165991902834,2,3
+openstack/oslo.db,openstack/scientific-wg,Non core,0.0,0.4048582995951417,2,3
+openstack/oslo.db,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.4016064257028112,0,1
+openstack/oslo.db,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/oslo.db,openstack/manila-test-image,Core,0.6944444444444444,0.7843137254901961,1,5
+openstack/oslo.db,openstack/manila-test-image,Non core,0.0,1.1764705882352942,1,5
+openstack/oslo.db,openstack/governance-website,Core,1.3605442176870748,3.557312252964427,4,12
+openstack/oslo.db,openstack/governance-website,Non core,1.3605442176870748,1.185770750988142,4,12
+openstack/oslo.db,openstack/bugdaystats,Core,1.3888888888888888,1.574803149606299,2,6
+openstack/oslo.db,openstack/bugdaystats,Non core,0.0,0.7874015748031495,2,6
+openstack/oslo.db,openstack/upstream-institute-virtual-environment,Core,0.6802721088435374,1.5810276679841897,1,4
+openstack/oslo.db,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,1,4
+openstack/oslo.db,openstack/karbor-dashboard,Core,2.941176470588235,2.127659574468085,9,21
+openstack/oslo.db,openstack/karbor-dashboard,Non core,2.3529411764705883,5.319148936170213,9,21
+openstack/oslo.db,openstack/django_openstack_auth,Core,5.970149253731343,3.6553524804177546,18,26
+openstack/oslo.db,openstack/django_openstack_auth,Non core,2.9850746268656714,3.1331592689295036,18,26
+openstack/oslo.db,openstack/monasca-transform,Core,4.166666666666666,1.4184397163120568,14,14
+openstack/oslo.db,openstack/monasca-transform,Non core,4.166666666666666,3.546099290780142,14,14
+openstack/oslo.db,openstack/monasca-ceilometer,Core,4.519774011299435,1.65016501650165,14,15
+openstack/oslo.db,openstack/monasca-ceilometer,Non core,3.389830508474576,3.3003300330033,14,15
+openstack/oslo.db,openstack/monasca-log-api,Core,6.111111111111111,2.5316455696202533,17,22
+openstack/oslo.db,openstack/monasca-log-api,Non core,3.3333333333333335,4.430379746835443,17,22
+openstack/oslo.db,openstack/nose-html-output,Core,3.4482758620689653,1.9920318725099602,5,8
+openstack/oslo.db,openstack/nose-html-output,Non core,0.0,1.1952191235059761,5,8
+openstack/oslo.db,openstack/kolla-cli,Core,1.2987012987012987,1.8867924528301887,9,17
+openstack/oslo.db,openstack/kolla-cli,Non core,4.545454545454546,4.528301886792453,9,17
+openstack/oslo.db,openstack/neutron-lbaas-dashboard,Core,5.142857142857142,3.6303630363036308,14,30
+openstack/oslo.db,openstack/neutron-lbaas-dashboard,Non core,2.857142857142857,6.270627062706271,14,30
+openstack/oslo.db,openstack/searchlight,Core,3.8135593220338984,5.3731343283582085,23,45
+openstack/oslo.db,openstack/searchlight,Non core,5.932203389830509,8.059701492537313,23,45
+openstack/oslo.db,openstack/searchlight-ui,Core,4.0,1.7793594306049825,12,15
+openstack/oslo.db,openstack/searchlight-ui,Non core,2.857142857142857,3.558718861209965,12,15
+openstack/oslo.db,openstack/searchlight-specs,Core,2.515723270440252,0.7434944237918215,6,11
+openstack/oslo.db,openstack/searchlight-specs,Non core,1.257861635220126,3.3457249070631967,6,11
+openstack/oslo.db,openstack/python-searchlightclient,Core,5.357142857142857,2.5089605734767026,18,20
+openstack/oslo.db,openstack/python-searchlightclient,Non core,5.357142857142857,4.659498207885305,18,20
+openstack/oslo.db,openstack/charm-tempest,Core,1.8867924528301887,0.7604562737642585,4,6
+openstack/oslo.db,openstack/charm-tempest,Non core,0.628930817610063,1.520912547528517,4,6
+openstack/oslo.db,openstack/charm-barbican-softhsm,Core,1.910828025477707,0.7751937984496124,3,6
+openstack/oslo.db,openstack/charm-barbican-softhsm,Non core,0.0,1.550387596899225,3,6
+openstack/oslo.db,openstack/cookbook-openstack-client,Core,1.36986301369863,0.39215686274509803,3,4
+openstack/oslo.db,openstack/cookbook-openstack-client,Non core,0.684931506849315,1.1764705882352942,3,4
+openstack/oslo.db,openstack/instack-undercloud,Core,5.286343612334802,4.146341463414634,16,39
+openstack/oslo.db,openstack/instack-undercloud,Non core,1.762114537444934,5.365853658536586,16,39
+openstack/oslo.db,openstack/publiccloud-sig,Core,1.36986301369863,0.796812749003984,2,3
+openstack/oslo.db,openstack/publiccloud-sig,Non core,0.0,0.398406374501992,2,3
+openstack/oslo.db,openstack/ideas,Core,2.097902097902098,3.018867924528302,3,9
+openstack/oslo.db,openstack/ideas,Non core,0.0,0.37735849056603776,3,9
+openstack/oslo.db,openstack/uc-recognition,Core,0.6993006993006993,0.796812749003984,1,3
+openstack/oslo.db,openstack/uc-recognition,Non core,0.0,0.398406374501992,1,3
+openstack/oslo.db,openstack/ops-tags-team,Core,1.342281879194631,2.6415094339622645,2,12
+openstack/oslo.db,openstack/ops-tags-team,Non core,0.0,1.8867924528301887,2,12
+openstack/oslo.db,openstack/enterprise-wg,Core,0.7092198581560284,0.823045267489712,1,2
+openstack/oslo.db,openstack/enterprise-wg,Non core,0.0,0.0,1,2
+openstack/oslo.db,openstack/governance-uc,Core,3.1645569620253164,2.097902097902098,5,13
+openstack/oslo.db,openstack/governance-uc,Non core,0.0,2.4475524475524475,5,13
+openstack/oslo.db,openstack/workload-ref-archs,Core,2.013422818791946,2.0,5,10
+openstack/oslo.db,openstack/workload-ref-archs,Non core,1.342281879194631,2.0,5,10
+openstack/oslo.db,openstack/arch-wg,Core,0.6944444444444444,1.9762845849802373,1,8
+openstack/oslo.db,openstack/arch-wg,Non core,0.0,1.185770750988142,1,8
+openstack/oslo.db,openstack/project-navigator-data,Core,4.57516339869281,3.875968992248062,7,12
+openstack/oslo.db,openstack/project-navigator-data,Non core,0.0,0.7751937984496124,7,12
+openstack/oslo.db,openstack/openstack-specs,Core,6.622516556291391,10.526315789473683,10,65
+openstack/oslo.db,openstack/openstack-specs,Non core,0.0,7.479224376731302,10,65
+openstack/oslo.db,openstack/openstack-ansible-os_monasca,Core,2.976190476190476,1.7793594306049825,10,17
+openstack/oslo.db,openstack/openstack-ansible-os_monasca,Non core,2.976190476190476,4.270462633451958,10,17
+openstack/oslo.db,openstack/openstack-ansible-os_monasca-agent,Core,1.89873417721519,1.1152416356877324,8,11
+openstack/oslo.db,openstack/openstack-ansible-os_monasca-agent,Non core,3.1645569620253164,2.973977695167286,8,11
+openstack/oslo.db,openstack/ironic-inspector-specs,Core,3.1847133757961785,1.7793594306049825,9,10
+openstack/oslo.db,openstack/ironic-inspector-specs,Non core,2.547770700636943,1.7793594306049825,9,10
+openstack/oslo.db,openstack/sushy-cli,Core,2.0689655172413794,0.7905138339920948,5,2
+openstack/oslo.db,openstack/sushy-cli,Non core,1.3793103448275863,0.0,5,2
+openstack/oslo.db,openstack/puppet-glare,Core,3.067484662576687,1.5151515151515151,8,10
+openstack/oslo.db,openstack/puppet-glare,Non core,1.8404907975460123,2.272727272727273,8,10
+openstack/oslo.db,openstack/xstatic-bootstrap-scss,Core,1.36986301369863,0.0,2,3
+openstack/oslo.db,openstack/xstatic-bootstrap-scss,Non core,0.0,1.171875,2,3
+openstack/oslo.db,openstack/openstack-planet,Core,6.231454005934718,4.242424242424243,27,22
+openstack/oslo.db,openstack/openstack-planet,Non core,1.7804154302670623,2.4242424242424243,27,22
+openstack/oslo.db,openstack/charm-interface-keystone-credentials,Core,2.0408163265306123,0.4,4,3
+openstack/oslo.db,openstack/charm-interface-keystone-credentials,Non core,0.6802721088435374,0.8,4,3
+openstack/oslo.db,openstack/monasca-kibana-plugin,Core,2.013422818791946,1.153846153846154,3,4
+openstack/oslo.db,openstack/monasca-kibana-plugin,Non core,0.0,0.38461538461538464,3,4
+openstack/oslo.db,openstack/charm-interface-keystone-domain-backend,Core,2.0689655172413794,0.4032258064516129,3,1
+openstack/oslo.db,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,1
+openstack/oslo.db,openstack/devstack-plugin-amqp1,Core,4.827586206896552,4.016064257028113,8,16
+openstack/oslo.db,openstack/devstack-plugin-amqp1,Non core,0.6896551724137931,2.4096385542168677,8,16
+openstack/oslo.db,openstack/devstack-plugin-kafka,Core,2.0689655172413794,2.8000000000000003,4,11
+openstack/oslo.db,openstack/devstack-plugin-kafka,Non core,0.6896551724137931,1.6,4,11
+openstack/oslo.db,openstack/tripleo-ipsec,Core,2.7210884353741496,1.5686274509803921,6,9
+openstack/oslo.db,openstack/tripleo-ipsec,Non core,1.3605442176870748,1.9607843137254901,6,9
+openstack/oslo.db,openstack/monasca-grafana-datasource,Core,0.6666666666666667,0.37735849056603776,2,3
+openstack/oslo.db,openstack/monasca-grafana-datasource,Non core,0.6666666666666667,0.7547169811320755,2,3
+openstack/oslo.db,openstack/charm-interface-bind-rndc,Core,2.054794520547945,0.4016064257028112,4,3
+openstack/oslo.db,openstack/charm-interface-bind-rndc,Non core,0.684931506849315,0.8032128514056224,4,3
+openstack/oslo.db,openstack/charm-interface-rabbitmq,Core,2.054794520547945,0.4,3,3
+openstack/oslo.db,openstack/charm-interface-rabbitmq,Non core,0.0,0.8,3,3
+openstack/oslo.db,openstack/charm-interface-openstack-ha,Core,1.36986301369863,0.8,2,3
+openstack/oslo.db,openstack/charm-interface-openstack-ha,Non core,0.0,0.4,2,3
+openstack/oslo.db,openstack/charm-interface-gnocchi,Core,2.097902097902098,0.78125,4,3
+openstack/oslo.db,openstack/charm-interface-gnocchi,Non core,0.6993006993006993,0.390625,4,3
+openstack/oslo.db,openstack/charm-interface-bgp,Core,2.054794520547945,0.4,3,2
+openstack/oslo.db,openstack/charm-interface-bgp,Non core,0.0,0.4,3,2
+openstack/oslo.db,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.4048582995951417,0,1
+openstack/oslo.db,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/oslo.db,openstack/charm-interface-designate,Core,0.6944444444444444,0.4032258064516129,1,1
+openstack/oslo.db,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/tempest-horizon,Core,3.8461538461538463,0.7662835249042145,6,5
+openstack/oslo.db,openstack/tempest-horizon,Non core,0.0,1.1494252873563218,6,5
+openstack/oslo.db,openstack/logstash-filters,Core,0.0,0.8130081300813009,0,3
+openstack/oslo.db,openstack/logstash-filters,Non core,0.0,0.40650406504065045,0,3
+openstack/oslo.db,openstack/xstatic-jquery-migrate,Core,2.112676056338028,0.0,3,1
+openstack/oslo.db,openstack/xstatic-jquery-migrate,Non core,0.0,0.4016064257028112,3,1
+openstack/oslo.db,openstack/qinling-dashboard,Core,2.7777777777777777,1.6,5,10
+openstack/oslo.db,openstack/qinling-dashboard,Non core,0.6944444444444444,2.4,5,10
+openstack/oslo.db,openstack/python-qinlingclient,Core,3.1446540880503147,2.380952380952381,13,18
+openstack/oslo.db,openstack/python-qinlingclient,Non core,5.031446540880504,4.761904761904762,13,18
+openstack/oslo.db,openstack/qinling,Core,3.5294117647058822,1.8656716417910446,16,13
+openstack/oslo.db,openstack/qinling,Non core,5.88235294117647,2.9850746268656714,16,13
+openstack/oslo.db,openstack/monasca-analytics,Core,2.4691358024691357,1.8181818181818181,5,11
+openstack/oslo.db,openstack/monasca-analytics,Non core,0.6172839506172839,2.181818181818182,5,11
+openstack/oslo.db,openstack/oslo-incubator,Core,8.743169398907105,8.24561403508772,47,103
+openstack/oslo.db,openstack/oslo-incubator,Non core,4.098360655737705,9.824561403508772,47,103
+openstack/oslo.db,openstack/puppet-congress,Core,3.125,0.7692307692307693,11,8
+openstack/oslo.db,openstack/puppet-congress,Non core,3.75,2.307692307692308,11,8
+openstack/oslo.db,openstack/openstack-ansible-os_monasca-ui,Core,2.027027027027027,0.7751937984496124,6,5
+openstack/oslo.db,openstack/openstack-ansible-os_monasca-ui,Non core,2.027027027027027,1.1627906976744187,6,5
+openstack/oslo.db,openstack/auto-scaling-sig,Core,0.684931506849315,0.7751937984496124,1,2
+openstack/oslo.db,openstack/auto-scaling-sig,Non core,0.0,0.0,1,2
+openstack/oslo.db,openstack/os-loganalyze,Core,5.660377358490567,5.109489051094891,11,21
+openstack/oslo.db,openstack/os-loganalyze,Non core,1.257861635220126,2.5547445255474455,11,21
+openstack/oslo.db,openstack/devstack-plugin-pika,Core,1.3986013986013985,2.857142857142857,3,10
+openstack/oslo.db,openstack/devstack-plugin-pika,Non core,0.6993006993006993,1.2244897959183674,3,10
+openstack/oslo.db,openstack/devstack-plugin-zmq,Core,3.4722222222222223,3.6734693877551026,7,13
+openstack/oslo.db,openstack/devstack-plugin-zmq,Non core,1.3888888888888888,1.6326530612244898,7,13
+openstack/oslo.db,openstack/networking-l2gw,Core,4.102564102564102,3.8461538461538463,14,31
+openstack/oslo.db,openstack/networking-l2gw,Non core,3.076923076923077,4.670329670329671,14,31
+openstack/oslo.db,openstack/networking-l2gw-tempest-plugin,Core,1.3333333333333335,1.1583011583011582,3,8
+openstack/oslo.db,openstack/networking-l2gw-tempest-plugin,Non core,0.6666666666666667,1.9305019305019304,3,8
+openstack/oslo.db,openstack/charm-interface-ceph-mds,Core,2.054794520547945,0.0,3,1
+openstack/oslo.db,openstack/charm-interface-ceph-mds,Non core,0.0,0.4016064257028112,3,1
+openstack/oslo.db,openstack/xstatic-angular-ui-router,Core,1.4084507042253522,0.4016064257028112,2,2
+openstack/oslo.db,openstack/xstatic-angular-ui-router,Non core,0.0,0.4016064257028112,2,2
+openstack/oslo.db,openstack/xstatic-vis,Core,1.3986013986013985,0.4032258064516129,2,1
+openstack/oslo.db,openstack/xstatic-vis,Non core,0.0,0.0,2,1
+openstack/oslo.db,openstack/cookbook-openstack-database,Core,2.0408163265306123,1.5384615384615385,3,7
+openstack/oslo.db,openstack/cookbook-openstack-database,Non core,0.0,1.153846153846154,3,7
+openstack/oslo.db,openstack/cookbook-openstack-data-processing,Core,1.3793103448275863,1.574803149606299,2,7
+openstack/oslo.db,openstack/cookbook-openstack-data-processing,Non core,0.0,1.1811023622047243,2,7
+openstack/oslo.db,openstack/trove-integration,Core,2.4875621890547266,2.4242424242424243,6,15
+openstack/oslo.db,openstack/trove-integration,Non core,0.4975124378109453,2.1212121212121215,6,15
+openstack/oslo.db,openstack/ansible-role-tripleo-sensu,Core,1.3793103448275863,0.4016064257028112,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-sensu,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/python-ceilometerclient,Core,7.6923076923076925,7.349081364829396,22,47
+openstack/oslo.db,openstack/python-ceilometerclient,Non core,1.7094017094017095,4.986876640419948,22,47
+openstack/oslo.db,openstack/keystoneauth-saml2,Core,4.10958904109589,2.6415094339622645,8,12
+openstack/oslo.db,openstack/keystoneauth-saml2,Non core,1.36986301369863,1.8867924528301887,8,12
+openstack/oslo.db,openstack/murano-deployment,Core,2.3255813953488373,0.36496350364963503,5,6
+openstack/oslo.db,openstack/murano-deployment,Non core,0.5813953488372093,1.824817518248175,5,6
+openstack/oslo.db,openstack/python-keystoneclient-kerberos,Core,3.3783783783783785,2.6717557251908395,6,13
+openstack/oslo.db,openstack/python-keystoneclient-kerberos,Non core,0.6756756756756757,2.2900763358778624,6,13
+openstack/oslo.db,openstack/python-wsmanclient,Core,1.3986013986013985,0.8064516129032258,2,4
+openstack/oslo.db,openstack/python-wsmanclient,Non core,0.0,0.8064516129032258,2,4
+openstack/oslo.db,openstack/fuel-upgrade,Core,2.0408163265306123,0.7547169811320755,4,5
+openstack/oslo.db,openstack/fuel-upgrade,Non core,0.6802721088435374,1.1320754716981132,4,5
+openstack/oslo.db,openstack/cookbook-openstack-object-storage,Core,1.8072289156626504,1.4388489208633095,3,8
+openstack/oslo.db,openstack/cookbook-openstack-object-storage,Non core,0.0,1.4388489208633095,3,8
+openstack/oslo.db,openstack/fairy-slipper,Core,1.36986301369863,2.380952380952381,3,8
+openstack/oslo.db,openstack/fairy-slipper,Non core,0.684931506849315,0.7936507936507936,3,8
+openstack/oslo.db,openstack/django-openstack-auth-kerberos,Core,2.083333333333333,0.39215686274509803,3,5
+openstack/oslo.db,openstack/django-openstack-auth-kerberos,Non core,0.0,1.5686274509803921,3,5
+openstack/oslo.db,openstack/horizon-cisco-ui,Core,2.684563758389262,0.7936507936507936,5,5
+openstack/oslo.db,openstack/horizon-cisco-ui,Non core,0.6711409395973155,1.1904761904761905,5,5
+openstack/oslo.db,openstack/zuul-packaging,Core,1.4084507042253522,1.6129032258064515,2,6
+openstack/oslo.db,openstack/zuul-packaging,Non core,0.0,0.8064516129032258,2,6
+openstack/oslo.db,openstack/networking-generic-switch-tempest-plugin,Core,1.4184397163120568,0.4098360655737705,2,1
+openstack/oslo.db,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,2,1
+openstack/oslo.db,openstack/tripleo-incubator,Core,4.444444444444445,4.8,13,31
+openstack/oslo.db,openstack/tripleo-incubator,Non core,1.3333333333333335,3.4666666666666663,13,31
+openstack/oslo.db,openstack/ironic-webclient,Core,0.6802721088435374,1.1278195488721803,1,8
+openstack/oslo.db,openstack/ironic-webclient,Non core,0.0,1.8796992481203008,1,8
+openstack/oslo.db,openstack/puppet-crane,Core,0.7042253521126761,0.819672131147541,1,3
+openstack/oslo.db,openstack/puppet-crane,Non core,0.0,0.4098360655737705,1,3
+openstack/oslo.db,openstack/release-tools,Core,8.860759493670885,7.446808510638298,17,34
+openstack/oslo.db,openstack/release-tools,Non core,1.89873417721519,4.609929078014184,17,34
+openstack/oslo.db,openstack/gnocchi,Core,4.040404040404041,4.651162790697675,12,29
+openstack/oslo.db,openstack/gnocchi,Non core,2.0202020202020203,3.77906976744186,12,29
+openstack/oslo.db,openstack/networking-ofagent,Core,2.7027027027027026,2.788844621513944,4,18
+openstack/oslo.db,openstack/networking-ofagent,Non core,0.0,4.382470119521913,4,18
+openstack/oslo.db,openstack/python-neutron-pd-driver,Core,1.4084507042253522,0.819672131147541,2,4
+openstack/oslo.db,openstack/python-neutron-pd-driver,Non core,0.0,0.819672131147541,2,4
+openstack/oslo.db,openstack/charm-ceph,Core,0.6329113924050633,0.38461538461538464,3,3
+openstack/oslo.db,openstack/charm-ceph,Non core,1.2658227848101267,0.7692307692307693,3,3
+openstack/oslo.db,openstack/openstack-ansible-os_freezer,Core,0.7042253521126761,0.40816326530612246,1,1
+openstack/oslo.db,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/openstack-ansible-pip_lock_down,Core,2.6490066225165565,0.7843137254901961,4,4
+openstack/oslo.db,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.7843137254901961,4,4
+openstack/oslo.db,openstack/openstack-ansible-security,Core,4.678362573099415,1.6556291390728477,9,11
+openstack/oslo.db,openstack/openstack-ansible-security,Non core,0.5847953216374269,1.9867549668874174,9,11
+openstack/oslo.db,openstack/oslosphinx,Core,11.65644171779141,9.66542750929368,25,44
+openstack/oslo.db,openstack/oslosphinx,Non core,3.6809815950920246,6.691449814126393,25,44
+openstack/oslo.db,openstack/python-gnocchiclient,Core,4.294478527607362,2.2556390977443606,9,10
+openstack/oslo.db,openstack/python-gnocchiclient,Non core,1.2269938650306749,1.5037593984962405,9,10
+openstack/oslo.db,openstack/ansible-role-k8s-cinder,Core,0.6993006993006993,0.8163265306122449,1,2
+openstack/oslo.db,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,2
+openstack/oslo.db,openstack/ansible-role-k8s-cookiecutter,Core,1.4084507042253522,1.2244897959183674,2,3
+openstack/oslo.db,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,3
+openstack/oslo.db,openstack/ansible-role-k8s-glance,Core,2.112676056338028,1.2244897959183674,3,3
+openstack/oslo.db,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,3,3
+openstack/oslo.db,openstack/ansible-role-k8s-keystone,Core,2.112676056338028,0.8064516129032258,3,2
+openstack/oslo.db,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,3,2
+openstack/oslo.db,openstack/ansible-role-k8s-mariadb,Core,2.8169014084507045,1.214574898785425,4,3
+openstack/oslo.db,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,4,3
+openstack/oslo.db,openstack/ansible-role-k8s-rabbitmq,Core,0.7042253521126761,0.4098360655737705,1,1
+openstack/oslo.db,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/ansible-role-k8s-tripleo,Core,2.112676056338028,1.2195121951219512,3,3
+openstack/oslo.db,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,3,3
+openstack/oslo.db,openstack/ansible-role-tripleo-ui,Core,1.3793103448275863,0.8032128514056224,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-ui,Non core,0.6896551724137931,0.0,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-aodh,Core,1.3793103448275863,0.4032258064516129,3,3
+openstack/oslo.db,openstack/ansible-role-tripleo-aodh,Non core,0.6896551724137931,0.8064516129032258,3,3
+openstack/oslo.db,openstack/ansible-role-tripleo-barbican,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-barbican,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-ceilometer,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-ceilometer,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-cinder,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-cinder,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-cookiecutter,Core,2.7210884353741496,0.7905138339920948,5,5
+openstack/oslo.db,openstack/ansible-role-tripleo-cookiecutter,Non core,0.6802721088435374,1.185770750988142,5,5
+openstack/oslo.db,openstack/tripleo-ui,Core,2.941176470588235,3.4013605442176873,6,19
+openstack/oslo.db,openstack/tripleo-ui,Non core,0.5882352941176471,3.061224489795918,6,19
+openstack/oslo.db,openstack/ansible-role-tripleo-ovn,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-ovn,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-opendaylight,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-opendaylight,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-octavia,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-octavia,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-nova,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-nova,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/os-cloud-config,Core,7.865168539325842,5.211726384364821,15,30
+openstack/oslo.db,openstack/os-cloud-config,Non core,0.5617977528089888,4.5602605863192185,15,30
+openstack/oslo.db,openstack/ansible-role-tripleo-zaqar,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-zaqar,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-tempest,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-tempest,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-sahara,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-sahara,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-swift,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-swift,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-tacker,Core,1.3793103448275863,0.4016064257028112,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-tacker,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-rabbitmq,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-rabbitmq,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-qdrouterd,Core,0.7042253521126761,0.40816326530612246,1,1
+openstack/oslo.db,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/ansible-role-tripleo-panko,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-panko,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-heat,Core,1.3793103448275863,0.4032258064516129,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-heat,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-haproxy,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-haproxy,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-gnocchi,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-gnocchi,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-glance,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-glance,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-designate,Core,1.3793103448275863,0.4016064257028112,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-designate,Non core,0.6896551724137931,0.0,3,1
+openstack/oslo.db,openstack/ansible-role-tripleo-neutron,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-neutron,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-mistral,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-mistral,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-memcached,Core,1.3793103448275863,0.4016064257028112,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-memcached,Non core,0.6896551724137931,0.4016064257028112,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-manila,Core,1.3793103448275863,0.4016064257028112,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-manila,Non core,0.6896551724137931,0.4016064257028112,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-ironic,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-ironic,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-keepalived,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-keepalived,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-horizon,Core,1.3793103448275863,0.4032258064516129,3,2
+openstack/oslo.db,openstack/ansible-role-tripleo-horizon,Non core,0.6896551724137931,0.4032258064516129,3,2
+openstack/oslo.db,openstack/pylockfile,Core,4.225352112676056,4.8979591836734695,8,18
+openstack/oslo.db,openstack/pylockfile,Non core,1.4084507042253522,2.4489795918367347,8,18
+openstack/oslo.db,openstack/xstatic-moment-timezone,Core,0.6993006993006993,0.40650406504065045,1,1
+openstack/oslo.db,openstack/xstatic-moment-timezone,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/xstatic-dagre-d3,Core,0.6993006993006993,0.40650406504065045,1,1
+openstack/oslo.db,openstack/xstatic-dagre-d3,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/dragonflow,Core,3.6885245901639343,3.816793893129771,22,42
+openstack/oslo.db,openstack/dragonflow,Non core,5.327868852459016,6.870229007633588,22,42
+openstack/oslo.db,openstack/openstack,Core,2.097902097902098,4.8582995951417,3,14
+openstack/oslo.db,openstack/openstack,Non core,0.0,0.8097165991902834,3,14
+openstack/oslo.db,openstack/charm-interface-pacemaker-remote,Core,0.6896551724137931,0.4032258064516129,1,4
+openstack/oslo.db,openstack/charm-interface-pacemaker-remote,Non core,0.0,1.2096774193548387,1,4
+openstack/oslo.db,openstack/networking-onos,Core,0.641025641025641,1.0600706713780919,2,10
+openstack/oslo.db,openstack/networking-onos,Non core,0.641025641025641,2.4734982332155475,2,10
+openstack/oslo.db,openstack/solum-infra-guestagent,Core,2.083333333333333,0.39215686274509803,4,2
+openstack/oslo.db,openstack/solum-infra-guestagent,Non core,0.6944444444444444,0.39215686274509803,4,2
+openstack/oslo.db,openstack/openstack-ux,Core,0.6944444444444444,0.38461538461538464,1,2
+openstack/oslo.db,openstack/openstack-ux,Non core,0.0,0.38461538461538464,1,2
+openstack/oslo.db,openstack/mox3,Core,6.666666666666667,5.905511811023622,18,27
+openstack/oslo.db,openstack/mox3,Non core,5.333333333333334,4.724409448818897,18,27
+openstack/oslo.db,openstack/charm-layer-ceph,Core,0.6993006993006993,0.0,1,0
+openstack/oslo.db,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/oslo.db,openstack/charm-layer-ceph-base,Core,1.3888888888888888,0.0,2,1
+openstack/oslo.db,openstack/charm-layer-ceph-base,Non core,0.0,0.4032258064516129,2,1
+openstack/oslo.db,openstack/python-tricircleclient,Core,2.6143790849673203,2.3166023166023164,7,14
+openstack/oslo.db,openstack/python-tricircleclient,Non core,1.9607843137254901,3.088803088803089,7,14
+openstack/oslo.db,openstack/tricircle,Core,3.864734299516908,4.310344827586207,15,34
+openstack/oslo.db,openstack/tricircle,Non core,3.3816425120772946,5.459770114942529,15,34
+openstack/oslo.db,openstack/swift-specs,Core,3.7735849056603774,1.6611295681063125,6,7
+openstack/oslo.db,openstack/swift-specs,Non core,0.0,0.6644518272425249,6,7
+openstack/oslo.db,openstack/congress,Core,5.639097744360902,3.6674816625916873,28,45
+openstack/oslo.db,openstack/congress,Non core,4.887218045112782,7.334963325183375,28,45
+openstack/oslo.db,openstack/congress-tempest-plugin,Core,1.9230769230769231,1.556420233463035,5,12
+openstack/oslo.db,openstack/congress-tempest-plugin,Non core,1.282051282051282,3.11284046692607,5,12
+openstack/oslo.db,openstack/python-congressclient,Core,4.49438202247191,2.898550724637681,15,20
+openstack/oslo.db,openstack/python-congressclient,Non core,3.932584269662921,4.3478260869565215,15,20
+openstack/oslo.db,openstack/congress-specs,Core,2.9585798816568047,1.4492753623188406,7,15
+openstack/oslo.db,openstack/congress-specs,Non core,1.183431952662722,3.985507246376811,7,15
+openstack/oslo.db,openstack/congress-dashboard,Core,3.1847133757961785,3.065134099616858,9,17
+openstack/oslo.db,openstack/congress-dashboard,Non core,2.547770700636943,3.4482758620689653,9,17
+openstack/oslo.db,openstack/syntribos,Core,3.7037037037037033,1.1111111111111112,10,9
+openstack/oslo.db,openstack/syntribos,Non core,2.4691358024691357,2.2222222222222223,10,9
+openstack/oslo.db,openstack/syntribos-payloads,Core,0.7042253521126761,0.0,1,1
+openstack/oslo.db,openstack/syntribos-payloads,Non core,0.0,0.4016064257028112,1,1
+openstack/oslo.db,openstack/syntribos-openstack-templates,Core,0.6944444444444444,0.0,1,1
+openstack/oslo.db,openstack/syntribos-openstack-templates,Non core,0.0,0.398406374501992,1,1
+openstack/oslo.db,openstack/i18n-specs,Core,1.4084507042253522,0.4032258064516129,2,3
+openstack/oslo.db,openstack/i18n-specs,Non core,0.0,0.8064516129032258,2,3
+openstack/oslo.db,openstack/tempest-plugin-cookiecutter,Core,1.3888888888888888,1.593625498007968,2,5
+openstack/oslo.db,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.398406374501992,2,5
+openstack/oslo.db,openstack/devstack-plugin-cookiecutter,Core,2.112676056338028,0.8130081300813009,3,3
+openstack/oslo.db,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.40650406504065045,3,3
+openstack/oslo.db,openstack/xstatic-graphlib,Core,0.0,0.40650406504065045,0,1
+openstack/oslo.db,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/oslo.db,openstack/openstack-ansible-repo_build,Core,2.6737967914438503,1.3029315960912053,13,20
+openstack/oslo.db,openstack/openstack-ansible-repo_build,Non core,4.27807486631016,5.211726384364821,13,20
+openstack/oslo.db,openstack/xstatic-bootstrap-datepicker,Core,2.054794520547945,0.0,3,3
+openstack/oslo.db,openstack/xstatic-bootstrap-datepicker,Non core,0.0,1.1673151750972763,3,3
+openstack/oslo.db,openstack/xstatic-hogan,Core,2.127659574468085,0.0,3,1
+openstack/oslo.db,openstack/xstatic-hogan,Non core,0.0,0.4032258064516129,3,1
+openstack/oslo.db,openstack/xstatic-jquery.quicksearch,Core,2.127659574468085,0.0,3,1
+openstack/oslo.db,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.4032258064516129,3,1
+openstack/oslo.db,openstack/openstack-ansible-os_molteniron,Core,1.9230769230769231,0.7662835249042145,9,13
+openstack/oslo.db,openstack/openstack-ansible-os_molteniron,Non core,3.8461538461538463,4.21455938697318,9,13
+openstack/oslo.db,openstack/xstatic-angular-lrdragndrop,Core,1.36986301369863,0.3952569169960474,2,4
+openstack/oslo.db,openstack/xstatic-angular-lrdragndrop,Non core,0.0,1.185770750988142,2,4
+openstack/oslo.db,openstack/faafo,Core,3.4013605442176873,0.78125,5,5
+openstack/oslo.db,openstack/faafo,Non core,0.0,1.171875,5,5
+openstack/oslo.db,openstack/xstatic-angular-bootstrap,Core,2.027027027027027,0.7782101167315175,3,5
+openstack/oslo.db,openstack/xstatic-angular-bootstrap,Non core,0.0,1.1673151750972763,3,5
+openstack/oslo.db,openstack/networking-calico,Core,3.6585365853658534,1.4134275618374559,11,18
+openstack/oslo.db,openstack/networking-calico,Non core,3.048780487804878,4.946996466431095,11,18
+openstack/oslo.db,openstack/xstatic-angular-gettext,Core,1.36986301369863,0.0,2,3
+openstack/oslo.db,openstack/xstatic-angular-gettext,Non core,0.0,1.1811023622047243,2,3
+openstack/oslo.db,openstack/shotgun,Core,0.628930817610063,0.9615384615384616,2,5
+openstack/oslo.db,openstack/shotgun,Non core,0.628930817610063,0.641025641025641,2,5
+openstack/oslo.db,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-aioeventlet,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/fuel-devops,Core,2.0100502512562812,0.8108108108108109,4,14
+openstack/oslo.db,openstack/fuel-devops,Non core,0.0,2.9729729729729732,4,14
+openstack/oslo.db,openstack/fuel-plugin-murano,Core,1.3157894736842104,0.3703703703703704,2,3
+openstack/oslo.db,openstack/fuel-plugin-murano,Non core,0.0,0.7407407407407408,2,3
+openstack/oslo.db,openstack/fuel-web,Core,2.3529411764705883,1.4754098360655739,12,23
+openstack/oslo.db,openstack/fuel-web,Non core,1.1764705882352942,2.2950819672131146,12,23
+openstack/oslo.db,openstack/fuel-plugins,Core,2.197802197802198,0.8902077151335311,5,7
+openstack/oslo.db,openstack/fuel-plugins,Non core,0.5494505494505495,1.1869436201780417,5,7
+openstack/oslo.db,openstack/fuel-virtualbox,Core,2.027027027027027,0.7633587786259541,3,3
+openstack/oslo.db,openstack/fuel-virtualbox,Non core,0.0,0.38167938931297707,3,3
+openstack/oslo.db,openstack/fuel-ostf,Core,3.524229074889868,1.8475750577367205,12,22
+openstack/oslo.db,openstack/fuel-ostf,Non core,1.762114537444934,3.233256351039261,12,22
+openstack/oslo.db,openstack/fuel-qa,Core,1.5384615384615385,1.0570824524312896,5,15
+openstack/oslo.db,openstack/fuel-qa,Non core,0.38461538461538464,2.1141649048625792,5,15
+openstack/oslo.db,openstack/fuel-specs,Core,2.5316455696202533,2.1153846153846154,7,21
+openstack/oslo.db,openstack/fuel-specs,Non core,0.42194092827004215,1.9230769230769231,7,21
+openstack/oslo.db,openstack/fuel-nailgun-extension-cluster-upgrade,Core,1.3333333333333335,0.38022813688212925,2,2
+openstack/oslo.db,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.38022813688212925,2,2
+openstack/oslo.db,openstack/fuel-nailgun-agent,Core,1.7045454545454544,0.5970149253731344,3,5
+openstack/oslo.db,openstack/fuel-nailgun-agent,Non core,0.0,0.8955223880597015,3,5
+openstack/oslo.db,openstack/fuel-mirror,Core,1.7647058823529411,0.8928571428571428,4,9
+openstack/oslo.db,openstack/fuel-mirror,Non core,0.5882352941176471,1.7857142857142856,4,9
+openstack/oslo.db,openstack/fuel-menu,Core,1.7543859649122806,1.1494252873563218,5,9
+openstack/oslo.db,openstack/fuel-menu,Non core,1.1695906432748537,1.4367816091954022,5,9
+openstack/oslo.db,openstack/fuel-main,Core,2.5830258302583027,1.6985138004246285,9,20
+openstack/oslo.db,openstack/fuel-main,Non core,0.7380073800738007,2.547770700636943,9,20
+openstack/oslo.db,openstack/fuel-ui,Core,1.6666666666666667,0.6116207951070336,3,5
+openstack/oslo.db,openstack/fuel-ui,Non core,0.0,0.9174311926605505,3,5
+openstack/oslo.db,openstack/fuel-library,Core,2.1212121212121215,2.5,11,42
+openstack/oslo.db,openstack/fuel-library,Non core,1.2121212121212122,4.0625,11,42
+openstack/oslo.db,openstack/fuel-dev-tools,Core,3.3557046979865772,0.7751937984496124,6,7
+openstack/oslo.db,openstack/fuel-dev-tools,Non core,0.6711409395973155,1.937984496124031,6,7
+openstack/oslo.db,openstack/fuel-stats,Core,2.5316455696202533,1.4084507042253522,4,7
+openstack/oslo.db,openstack/fuel-stats,Non core,0.0,1.056338028169014,4,7
+openstack/oslo.db,openstack/fuel-nailgun-extension-converted-serializers,Core,0.6993006993006993,0.40650406504065045,1,2
+openstack/oslo.db,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.40650406504065045,1,2
+openstack/oslo.db,openstack/fuel-nailgun-extension-iac,Core,0.6896551724137931,0.4032258064516129,1,2
+openstack/oslo.db,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.4032258064516129,1,2
+openstack/oslo.db,openstack/fuel-plugin-murano-tests,Core,0.6578947368421052,0.3703703703703704,1,3
+openstack/oslo.db,openstack/fuel-plugin-murano-tests,Non core,0.0,0.7407407407407408,1,3
+openstack/oslo.db,openstack/fuel-astute,Core,2.4752475247524752,1.0362694300518136,5,10
+openstack/oslo.db,openstack/fuel-astute,Non core,0.0,1.5544041450777202,5,10
+openstack/oslo.db,openstack/fuel-docs,Core,0.425531914893617,2.091254752851711,2,32
+openstack/oslo.db,openstack/fuel-docs,Non core,0.425531914893617,3.9923954372623576,2,32
+openstack/oslo.db,openstack/fuel-agent,Core,2.941176470588235,1.3192612137203166,7,13
+openstack/oslo.db,openstack/fuel-agent,Non core,0.49019607843137253,2.1108179419525066,7,13
+openstack/oslo.db,openstack/fuel-octane,Core,2.9940119760479043,0.6920415224913495,6,10
+openstack/oslo.db,openstack/fuel-octane,Non core,0.5988023952095809,2.768166089965398,6,10
+openstack/oslo.db,openstack/tuning-box,Core,0.684931506849315,0.3731343283582089,1,2
+openstack/oslo.db,openstack/tuning-box,Non core,0.0,0.3731343283582089,1,2
+openstack/oslo.db,openstack/python-fuelclient,Core,1.4634146341463417,1.3227513227513228,6,12
+openstack/oslo.db,openstack/python-fuelclient,Non core,1.4634146341463417,1.8518518518518516,6,12
+openstack/oslo.db,openstack/neutron-interconnection,Core,0.0,2.0,0,5
+openstack/oslo.db,openstack/neutron-interconnection,Non core,0.0,0.0,0,5
+openstack/oslo.db,openstack/openstack-chef-repo,Core,1.675977653631285,2.083333333333333,4,10
+openstack/oslo.db,openstack/openstack-chef-repo,Non core,0.5586592178770949,1.3888888888888888,4,10
+openstack/oslo.db,openstack/os-acc,Core,0.0,1.1627906976744187,0,4
+openstack/oslo.db,openstack/os-acc,Non core,0.0,0.3875968992248062,0,4
+openstack/oslo.db,openstack/openstack-ansible-os_zaqar,Core,2.380952380952381,0.7194244604316548,10,14
+openstack/oslo.db,openstack/openstack-ansible-os_zaqar,Non core,3.571428571428571,4.316546762589928,10,14
+openstack/oslo.db,openstack/openstack-ansible-os_watcher,Core,1.8404907975460123,1.1152416356877324,10,15
+openstack/oslo.db,openstack/openstack-ansible-os_watcher,Non core,4.294478527607362,4.4609665427509295,10,15
+openstack/oslo.db,openstack/openstack-ansible-os_searchlight,Core,1.935483870967742,0.37453183520599254,10,8
+openstack/oslo.db,openstack/openstack-ansible-os_searchlight,Non core,4.516129032258064,2.6217228464419478,10,8
+openstack/oslo.db,openstack/xstatic-angular-vis,Core,0.7042253521126761,0.0,1,0
+openstack/oslo.db,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/oslo.db,openstack/xstatic-font-awesome,Core,1.36986301369863,0.0,2,3
+openstack/oslo.db,openstack/xstatic-font-awesome,Non core,0.0,1.1811023622047243,2,3
+openstack/oslo.db,openstack/xstatic-jasmine,Core,2.013422818791946,0.0,3,3
+openstack/oslo.db,openstack/xstatic-jasmine,Non core,0.0,1.171875,3,3
+openstack/oslo.db,openstack/xstatic-angular-notify,Core,0.7042253521126761,0.0,1,0
+openstack/oslo.db,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/oslo.db,openstack/xstatic-angular-material,Core,1.3986013986013985,0.0,2,0
+openstack/oslo.db,openstack/xstatic-angular-material,Non core,0.0,0.0,2,0
+openstack/oslo.db,openstack/tempest-tripleo-ui,Core,0.6944444444444444,0.39215686274509803,1,1
+openstack/oslo.db,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/docs-specs,Core,4.49438202247191,6.341463414634147,11,40
+openstack/oslo.db,openstack/docs-specs,Non core,1.6853932584269662,3.414634146341464,11,40
+openstack/oslo.db,openstack/release-schedule-generator,Core,1.3986013986013985,2.0491803278688523,2,6
+openstack/oslo.db,openstack/release-schedule-generator,Non core,0.0,0.4098360655737705,2,6
+openstack/oslo.db,openstack-infra/opendev-website,Core,0.7042253521126761,2.0408163265306123,1,5
+openstack/oslo.db,openstack-infra/opendev-website,Non core,0.0,0.0,1,5
+openstack/oslo.db,openstack/castellan-ui,Core,1.3793103448275863,1.9455252918287937,2,7
+openstack/oslo.db,openstack/castellan-ui,Non core,0.0,0.7782101167315175,2,7
+openstack/oslo.db,openstack-attic/compute-api,Core,2.484472049689441,2.6022304832713754,4,11
+openstack/oslo.db,openstack-attic/compute-api,Non core,0.0,1.486988847583643,4,11
+openstack/oslo.db,openstack/charm-neutron-api-odl,Core,0.6666666666666667,0.0,2,2
+openstack/oslo.db,openstack/charm-neutron-api-odl,Non core,0.6666666666666667,0.7905138339920948,2,2
+openstack/oslo.db,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/charm-murano,Core,0.6993006993006993,0.0,1,1
+openstack/oslo.db,openstack/charm-murano,Non core,0.0,0.40650406504065045,1,1
+openstack/oslo.db,openstack/charm-openvswitch-odl,Core,0.6622516556291391,0.0,1,2
+openstack/oslo.db,openstack/charm-openvswitch-odl,Non core,0.0,0.796812749003984,1,2
+openstack/oslo.db,openstack/charm-interface-odl-controller-api,Core,1.3986013986013985,0.0,2,1
+openstack/oslo.db,openstack/charm-interface-odl-controller-api,Non core,0.0,0.40650406504065045,2,1
+openstack/oslo.db,openstack/charm-glusterfs,Core,0.6993006993006993,0.0,1,1
+openstack/oslo.db,openstack/charm-glusterfs,Non core,0.0,0.398406374501992,1,1
+openstack/oslo.db,openstack/charm-trove,Core,0.6802721088435374,0.0,2,1
+openstack/oslo.db,openstack/charm-trove,Non core,0.6802721088435374,0.4,2,1
+openstack/oslo.db,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-positional,Non core,0.0,0.40650406504065045,0,1
+openstack/oslo.db,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-requests-unixsocket,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-traceback2,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-ryu,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-linecache2,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-gabbi,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-cotyledon,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-migrate,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-migrate,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/fuxi,Core,1.2269938650306749,1.0638297872340425,6,8
+openstack/oslo.db,openstack/fuxi,Non core,2.4539877300613497,1.773049645390071,6,8
+openstack/oslo.db,openstack/xstatic-filesaver,Core,0.7042253521126761,0.0,1,0
+openstack/oslo.db,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/oslo.db,openstack/xstatic-angular-uuid,Core,0.7042253521126761,0.0,1,0
+openstack/oslo.db,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/oslo.db,openstack/bandit,Core,3.684210526315789,3.741496598639456,11,20
+openstack/oslo.db,openstack/bandit,Non core,2.1052631578947367,3.061224489795918,11,20
+openstack/oslo.db,openstack/xstatic-angular-smart-table,Core,1.3986013986013985,0.0,2,1
+openstack/oslo.db,openstack/xstatic-angular-smart-table,Non core,0.0,0.4,2,1
+openstack/oslo.db,openstack/xstatic-bootswatch,Core,1.3888888888888888,0.0,2,3
+openstack/oslo.db,openstack/xstatic-bootswatch,Non core,0.0,1.1811023622047243,2,3
+openstack/oslo.db,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-msgpack-python,Non core,0.0,0.40650406504065045,0,1
+openstack/oslo.db,openstack/xstatic-d3,Core,1.3793103448275863,0.0,2,3
+openstack/oslo.db,openstack/xstatic-d3,Non core,0.0,1.1811023622047243,2,3
+openstack/oslo.db,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pymemcache,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-novnc,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/instack,Core,3.1645569620253164,1.858736059479554,6,11
+openstack/oslo.db,openstack/instack,Non core,0.6329113924050633,2.2304832713754648,6,11
+openstack/oslo.db,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pysaml2,Non core,0.0,0.4048582995951417,0,1
+openstack/oslo.db,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-trollius,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-autobahn,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pyldap,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/astara,Core,2.312138728323699,1.0600706713780919,6,10
+openstack/oslo.db,openstack/astara,Non core,1.1560693641618496,2.4734982332155475,6,10
+openstack/oslo.db,openstack/astara-appliance,Core,1.2987012987012987,1.1627906976744187,2,10
+openstack/oslo.db,openstack/astara-appliance,Non core,0.0,2.7131782945736433,2,10
+openstack/oslo.db,openstack/astara-horizon,Core,1.3605442176870748,0.390625,2,5
+openstack/oslo.db,openstack/astara-horizon,Non core,0.0,1.5625,2,5
+openstack/oslo.db,openstack/astara-neutron,Core,1.3245033112582782,0.39215686274509803,2,7
+openstack/oslo.db,openstack/astara-neutron,Non core,0.0,2.3529411764705883,2,7
+openstack/oslo.db,openstack/anchor,Core,1.8292682926829267,1.4598540145985401,5,13
+openstack/oslo.db,openstack/anchor,Non core,1.2195121951219512,3.2846715328467155,5,13
+openstack/oslo.db,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/fuxi-golang,Core,0.7092198581560284,0.4048582995951417,1,1
+openstack/oslo.db,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/fuxi-kubernetes,Core,0.7042253521126761,0.398406374501992,1,2
+openstack/oslo.db,openstack/fuxi-kubernetes,Non core,0.0,0.398406374501992,1,2
+openstack/oslo.db,openstack-infra/puppet-odsreg,Core,1.3793103448275863,1.593625498007968,2,7
+openstack/oslo.db,openstack-infra/puppet-odsreg,Non core,0.0,1.1952191235059761,2,7
+openstack/oslo.db,openstack-infra/puppet-docker_registry,Core,0.7092198581560284,0.4098360655737705,1,1
+openstack/oslo.db,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/releasestatus,Core,1.4084507042253522,1.2096774193548387,2,4
+openstack/oslo.db,openstack/releasestatus,Non core,0.0,0.4032258064516129,2,4
+openstack/oslo.db,openstack-infra/vinz-webclient,Core,0.7092198581560284,0.4098360655737705,1,1
+openstack/oslo.db,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,1
+openstack/oslo.db,openstack/activity-board,Core,2.6143790849673203,4.761904761904762,4,19
+openstack/oslo.db,openstack/activity-board,Non core,0.0,2.197802197802198,4,19
+openstack/oslo.db,openstack-infra/beaker-localhost,Core,0.7092198581560284,0.819672131147541,1,2
+openstack/oslo.db,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,2
+openstack/oslo.db,openstack-infra/beaker-nodepool,Core,0.7092198581560284,0.819672131147541,1,2
+openstack/oslo.db,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,2
+openstack/oslo.db,openstack/rst2bash,Core,1.3986013986013985,1.2048192771084338,2,5
+openstack/oslo.db,openstack/rst2bash,Non core,0.0,0.8032128514056224,2,5
+openstack/oslo.db,openstack/kolla-kubernetes,Core,2.030456852791878,1.7241379310344827,10,16
+openstack/oslo.db,openstack/kolla-kubernetes,Non core,3.0456852791878175,2.8735632183908044,10,16
+openstack/oslo.db,openstack/cue-dashboard,Core,2.027027027027027,0.4,4,5
+openstack/oslo.db,openstack/cue-dashboard,Non core,0.6756756756756757,1.6,4,5
+openstack/oslo.db,openstack/python-cueclient,Core,1.9736842105263157,0.8,3,5
+openstack/oslo.db,openstack/python-cueclient,Non core,0.0,1.2,3,5
+openstack/oslo.db,openstack/cue,Core,2.3952095808383236,1.8726591760299627,6,12
+openstack/oslo.db,openstack/cue,Non core,1.1976047904191618,2.6217228464419478,6,12
+openstack/oslo.db,openstack/app-catalog,Core,2.5380710659898478,0.9966777408637874,6,8
+openstack/oslo.db,openstack/app-catalog,Non core,0.5076142131979695,1.6611295681063125,6,8
+openstack/oslo.db,openstack-attic/identity-api,Core,2.8089887640449436,3.536977491961415,6,16
+openstack/oslo.db,openstack-attic/identity-api,Non core,0.5617977528089888,1.607717041800643,6,16
+openstack/oslo.db,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-fixtures,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/python-magnetodbclient,Core,0.6896551724137931,0.0,1,2
+openstack/oslo.db,openstack/python-magnetodbclient,Non core,0.0,0.7936507936507936,1,2
+openstack/oslo.db,openstack/app-catalog-ui,Core,2.0408163265306123,0.3875968992248062,3,3
+openstack/oslo.db,openstack/app-catalog-ui,Non core,0.0,0.7751937984496124,3,3
+openstack/oslo.db,openstack/salt-formula-kubernetes,Core,0.684931506849315,0.0,1,2
+openstack/oslo.db,openstack/salt-formula-kubernetes,Non core,0.0,0.8032128514056224,1,2
+openstack/oslo.db,openstack/app-catalog-common,Core,0.0,0.40816326530612246,0,2
+openstack/oslo.db,openstack/app-catalog-common,Non core,0.0,0.40816326530612246,0,2
+openstack/oslo.db,openstack/python-appcatalogclient,Core,0.0,0.8097165991902834,0,3
+openstack/oslo.db,openstack/python-appcatalogclient,Non core,0.0,0.4048582995951417,0,3
+openstack/oslo.db,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/deb-nova,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-nova,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-kazoo,Non core,0.0,0.40650406504065045,0,1
+openstack/oslo.db,openstack/deb-python-congressclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-congressclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-congress,Core,0.7092198581560284,0.0,1,2
+openstack/oslo.db,openstack/deb-congress,Non core,0.0,0.823045267489712,1,2
+openstack/oslo.db,openstack/deb-python-os-net-config,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-python-os-net-config,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-ironic,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-ironic,Non core,0.0,0.8097165991902834,1,2
+openstack/oslo.db,openstack/deb-swauth,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-swauth,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-os-api-ref,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-os-api-ref,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-designate,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-designate,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-swift,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-swift,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-manila-ui,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-manila-ui,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-barbican,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-barbican,Non core,0.0,0.8097165991902834,1,2
+openstack/oslo.db,openstack/deb-cinder,Core,0.6896551724137931,0.0,1,2
+openstack/oslo.db,openstack/deb-cinder,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-magnum,Core,0.6896551724137931,0.0,1,2
+openstack/oslo.db,openstack/deb-magnum,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-trove,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-trove,Non core,0.0,0.8064516129032258,1,2
+openstack/oslo.db,openstack/deb-openstack-pkg-tools,Core,0.6896551724137931,0.398406374501992,2,3
+openstack/oslo.db,openstack/deb-openstack-pkg-tools,Non core,0.6896551724137931,0.796812749003984,2,3
+openstack/oslo.db,openstack/deb-python-swiftclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-swiftclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-alembic,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-alembic,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-cinderclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-cinderclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-bootstrap,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/deb-networking-nec,Core,0.7092198581560284,0.0,1,2
+openstack/oslo.db,openstack/deb-networking-nec,Non core,0.0,0.823045267489712,1,2
+openstack/oslo.db,openstack/deb-neutron-taas,Core,0.7092198581560284,0.0,1,2
+openstack/oslo.db,openstack/deb-neutron-taas,Non core,0.0,0.823045267489712,1,2
+openstack/oslo.db,openstack/deb-networking-mlnx,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-networking-mlnx,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-openstack-meta-packages,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-networking-odl,Core,0.7092198581560284,0.0,1,2
+openstack/oslo.db,openstack/deb-networking-odl,Non core,0.0,0.823045267489712,1,2
+openstack/oslo.db,openstack/deb-nodepool,Core,0.7092198581560284,0.0,1,2
+openstack/oslo.db,openstack/deb-nodepool,Non core,0.0,0.823045267489712,1,2
+openstack/oslo.db,openstack/deb-networking-cisco,Core,0.7092198581560284,0.0,1,2
+openstack/oslo.db,openstack/deb-networking-cisco,Non core,0.0,0.823045267489712,1,2
+openstack/oslo.db,openstack/deb-networking-midonet,Core,0.7092198581560284,0.0,1,2
+openstack/oslo.db,openstack/deb-networking-midonet,Non core,0.0,0.823045267489712,1,2
+openstack/oslo.db,openstack/deb-networking-arista,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-networking-arista,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/deb-networking-hyperv,Core,0.7092198581560284,0.0,1,2
+openstack/oslo.db,openstack/deb-networking-hyperv,Non core,0.0,0.823045267489712,1,2
+openstack/oslo.db,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-rtslib-fb,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-murano,Core,0.6896551724137931,0.0,1,2
+openstack/oslo.db,openstack/deb-murano,Non core,0.0,0.8064516129032258,1,2
+openstack/oslo.db,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-semantic-version,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-ldappool,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-ldappool,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-zaqar-ui,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-zaqar-ui,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-zaqar,Core,0.6896551724137931,0.0,1,2
+openstack/oslo.db,openstack/deb-zaqar,Non core,0.0,0.8064516129032258,1,2
+openstack/oslo.db,openstack/deb-watcher,Core,0.6896551724137931,0.0,1,2
+openstack/oslo.db,openstack/deb-watcher,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-os-testr,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-os-testr,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-os-win,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-os-win,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-pycadf,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-pycadf,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-pyghmi,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-pyghmi,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-reno,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-reno,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-os-refresh-config,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-os-refresh-config,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-os-vif,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-os-vif,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-pyeclib,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-python-pyeclib,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-quantumclient,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-python-quantumclient,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-requestsexceptions,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-requestsexceptions,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-pbr,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-pbr,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-requests-mock,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-requests-mock,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-saharaclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-saharaclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-scciclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-scciclient,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-seamicroclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-seamicroclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-auto-backports,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-auto-backports,Non core,0.0,0.8097165991902834,1,2
+openstack/oslo.db,openstack/deb-python-senlinclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-senlinclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-taskflow,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-taskflow,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-testtools,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-testtools,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-tooz,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-tooz,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-shotgun,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-shotgun,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-tackerclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-tackerclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-tosca-parser,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-tosca-parser,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-troveclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-troveclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-tuskarclient,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-python-tuskarclient,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-watcherclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-watcherclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-cookies,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-fileupload,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-wsme,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-wsme,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-schema-form,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-bootswatch,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-gettext,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-mock,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-bootstrap-scss,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-d3,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-d3,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-hogan,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-hogan,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-font-awesome,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jasmine,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jquery-migrate,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jsencrypt,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-magic-search,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-mdi,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-mdi,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-objectpath,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-qunit,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-qunit,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-rickshaw,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-spin,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-spin,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-tv4,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-python-xstatic-tv4,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-yaql,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-yaql,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-zaqarclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-zaqarclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-rally,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-rally,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-sahara,Core,0.6896551724137931,0.0,1,2
+openstack/oslo.db,openstack/deb-sahara,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-sahara-dashboard,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-sahara-dashboard,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-senlin,Core,0.6896551724137931,0.0,1,2
+openstack/oslo.db,openstack/deb-senlin,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-senlin-dashboard,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-senlin-dashboard,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-stevedore,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-stevedore,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-swift-bench,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-swift-bench,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-swift-plugin-s3,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-swift-plugin-s3,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-trove-dashboard,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-trove-dashboard,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-tempest,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-tempest,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-osprofiler,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-osprofiler,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.vmware,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.vmware,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.utils,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.utils,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.rootwrap,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.service,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.service,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.privsep,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.privsep,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.versionedobjects,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslotest,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslotest,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.serialization,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.serialization,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.reports,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.reports,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.policy,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.policy,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.middleware,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.middleware,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.messaging,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.messaging,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.log,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.log,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-aodhclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-aodhclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-automaton,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-automaton,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-barbicanclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-barbicanclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-bashate,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-python-bashate,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-castellan,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-castellan,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-ceilometerclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-ceilometerclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-ceilometermiddleware,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-cliff,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-cliff,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-cursive,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-cursive,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-debtcollector,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-debtcollector,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-designateclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-designateclient,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-dib-utils,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-python-dib-utils,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-python-diskimage-builder,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-diskimage-builder,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-doc8,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-doc8,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-django-openstack-auth,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-django-openstack-auth,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-fuelclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-fuelclient,Non core,0.0,0.8064516129032258,1,2
+openstack/oslo.db,openstack/deb-python-dogpile.cache,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-dogpile.cache,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-futurist,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-futurist,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-glanceclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-glanceclient,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-glance-store,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-glance-store,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-hacking,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-hacking,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-heatclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-heatclient,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-ironicclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-ironicclient,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-ironic-inspector-client,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-ironic-lib,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-ironic-lib,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-jsonpath-rw-ext,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-k8sclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-k8sclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-keystoneauth1,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-keystoneauth1,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-keystoneclient,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-keystoneclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-keystonemiddleware,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-keystonemiddleware,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-magnumclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-magnumclient,Non core,0.0,0.8097165991902834,1,2
+openstack/oslo.db,openstack/deb-python-manilaclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-manilaclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-microversion-parse,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-microversion-parse,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-mistralclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-mistralclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-monascaclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-monascaclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-mox3,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-mox3,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-muranoclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-muranoclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-neutronclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-neutronclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-neutron-lib,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-neutron-lib,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-novaclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-novaclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-openstackclient,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-openstackclient,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-openstackdocstheme,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-openstackdocstheme,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-openstacksdk,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-openstacksdk,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-os-apply-config,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-os-apply-config,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-os-brick,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-os-brick,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-osc-lib,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-osc-lib,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-os-client-config,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-os-client-config,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-os-collect-config,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-os-collect-config,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.cache,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.cache,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-python-oslo.db,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.db,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.concurrency,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.concurrency,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.config,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.config,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.i18n,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.i18n,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-python-oslo.context,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-python-oslo.context,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-openstack-nose,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-openstack-nose,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-openstack-doc-tools,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-openstack-doc-tools,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-openstack-trove,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-openstack-trove,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-oslosphinx,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-oslosphinx,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-aodh,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-aodh,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-bandit,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-bandit,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-ceilometer,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-ceilometer,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-ceilometermiddleware,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-ceilometermiddleware,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-designate-dashboard,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-designate-dashboard,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-git-review,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-git-review,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-glance,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-glance,Non core,0.0,0.8064516129032258,1,2
+openstack/oslo.db,openstack/deb-glare,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-glare,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-heat,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-heat,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-heat-cfntools,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-heat-cfntools,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-horizon,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-horizon,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-ironic-inspector,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-ironic-inspector,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-ironic-ui,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-ironic-ui,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-keystone,Core,0.6896551724137931,0.0,1,2
+openstack/oslo.db,openstack/deb-keystone,Non core,0.0,0.8097165991902834,1,2
+openstack/oslo.db,openstack/deb-liberasurecode,Core,0.7042253521126761,0.0,1,2
+openstack/oslo.db,openstack/deb-liberasurecode,Non core,0.0,0.819672131147541,1,2
+openstack/oslo.db,openstack/deb-manila,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-manila,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack/deb-mistral,Core,0.6802721088435374,0.0,1,2
+openstack/oslo.db,openstack/deb-mistral,Non core,0.0,0.8064516129032258,1,2
+openstack/oslo.db,openstack/deb-murano-agent,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-murano-agent,Non core,0.0,0.8064516129032258,1,2
+openstack/oslo.db,openstack/deb-murano-dashboard,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-murano-dashboard,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-networking-l2gw,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-networking-l2gw,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-networking-ovn,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-networking-ovn,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-neutron,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-neutron,Non core,0.0,0.8097165991902834,1,2
+openstack/oslo.db,openstack/deb-neutron-fwaas,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-neutron-fwaas,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-neutron-vpnaas,Core,0.6993006993006993,0.0,1,2
+openstack/oslo.db,openstack/deb-neutron-vpnaas,Non core,0.0,0.8163265306122449,1,2
+openstack/oslo.db,openstack/deb-neutron-lbaas,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack/deb-neutron-lbaas,Non core,0.0,0.8064516129032258,1,2
+openstack/oslo.db,openstack/installguide-cookiecutter,Core,2.013422818791946,0.7905138339920948,3,5
+openstack/oslo.db,openstack/installguide-cookiecutter,Non core,0.0,1.185770750988142,3,5
+openstack/oslo.db,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-gnocchi,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-eventlet,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pymysql,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/salt-formula-opencontrail,Core,0.6369426751592357,0.0,1,2
+openstack/oslo.db,openstack/salt-formula-opencontrail,Non core,0.0,0.7874015748031495,1,2
+openstack/oslo.db,openstack/salt-formula-neutron,Core,0.641025641025641,0.38910505836575876,1,2
+openstack/oslo.db,openstack/salt-formula-neutron,Non core,0.0,0.38910505836575876,1,2
+openstack/oslo.db,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/salt-formula-swift,Non core,0.0,0.4032258064516129,0,1
+openstack/oslo.db,openstack/salt-formula-nova,Core,0.6172839506172839,0.0,1,2
+openstack/oslo.db,openstack/salt-formula-nova,Non core,0.0,0.7782101167315175,1,2
+openstack/oslo.db,openstack/salt-formula-keystone,Core,0.628930817610063,0.0,1,1
+openstack/oslo.db,openstack/salt-formula-keystone,Non core,0.0,0.390625,1,1
+openstack/oslo.db,openstack/salt-formula-horizon,Core,0.6493506493506493,0.0,1,1
+openstack/oslo.db,openstack/salt-formula-horizon,Non core,0.0,0.3952569169960474,1,1
+openstack/oslo.db,openstack/salt-formula-heat,Core,0.6211180124223602,0.0,1,1
+openstack/oslo.db,openstack/salt-formula-heat,Non core,0.0,0.39370078740157477,1,1
+openstack/oslo.db,openstack/salt-formula-glance,Core,0.625,0.0,1,3
+openstack/oslo.db,openstack/salt-formula-glance,Non core,0.0,1.1811023622047243,1,3
+openstack/oslo.db,openstack/salt-formula-cinder,Core,0.628930817610063,0.0,1,1
+openstack/oslo.db,openstack/salt-formula-cinder,Non core,0.0,0.3952569169960474,1,1
+openstack/oslo.db,openstack/salt-formula-ceilometer,Core,0.6622516556291391,0.0,1,1
+openstack/oslo.db,openstack/salt-formula-ceilometer,Non core,0.0,0.39215686274509803,1,1
+openstack/oslo.db,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pygit2,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-libisal,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-xvfbwrapper,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-testresources,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-django-compressor,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pykmip,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-xstatic-jquery,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-coffin,Non core,0.0,0.40650406504065045,0,1
+openstack/oslo.db,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-txaio,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-hplefthandclient,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-django-overextends,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pytimeparse,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-nose-timer,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-retrying,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-django-discover-runner,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-lesscpy,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-happybase,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-extras,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-functools32,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pydot-ng,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-jsonschema,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-kafka,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-rcssmin,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-nose-parameterized,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pika-pool,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-rfc3986,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-httpretty,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pint,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-django-pyscss,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-falcon,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-subunit,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-django-formtools,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-nose-exclude,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pydotplus,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pager,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-proliantutils,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-gnocchiclient,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-django-babel,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-requests-kerberos,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-colander,Non core,0.0,0.40650406504065045,0,1
+openstack/oslo.db,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-dcos,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-xstatic-term.js,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-toml,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-semver,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-websocket-client,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-fasteners,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-jingo,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pecan,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-frozendict,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/oslo.db,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/oslo.db,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-wrapt,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-funcsigs,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-crank,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pyvmomi,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-wsgi-intercept,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-os-cloud-config,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-weakrefmethod,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-steadymark,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-warlock,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-couleur,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-json-patch,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-jsonrpclib,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-multi-key-dict,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-memcache,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pulp,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-websockify,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-daemonize,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-pyngus,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-editor,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-ddt,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-monotonic,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-rjsmin,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-jsonpath-rw,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-django-appconf,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-oauth2client,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-json-pointer,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack-attic/akanda,Core,0.6944444444444444,0.0,2,4
+openstack/oslo.db,openstack-attic/akanda,Non core,0.6944444444444444,1.593625498007968,2,4
+openstack/oslo.db,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-xstatic,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-requestbuilder,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-nosehtmloutput,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-csscompressor,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-croniter,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-python-concurrent.futures,Non core,0.0,0.40816326530612246,0,1
+openstack/oslo.db,openstack/openstack-salt,Core,0.6896551724137931,0.0,1,2
+openstack/oslo.db,openstack/openstack-salt,Non core,0.0,0.8064516129032258,1,2
+openstack/oslo.db,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/oslo.db,openstack/deb-spice-html5,Non core,0.0,0.4098360655737705,0,1
+openstack/oslo.db,openstack/salt-formula-midonet,Core,0.7092198581560284,0.0,1,1
+openstack/oslo.db,openstack/salt-formula-midonet,Non core,0.0,0.4098360655737705,1,1
+openstack/oslo.db,openstack/magnetodb-specs,Core,2.0,0.0,3,5
+openstack/oslo.db,openstack/magnetodb-specs,Non core,0.0,1.9455252918287937,3,5
+openstack/oslo.db,openstack-attic/akanda-appliance-builder,Core,0.6896551724137931,0.0,1,3
+openstack/oslo.db,openstack-attic/akanda-appliance-builder,Non core,0.0,1.214574898785425,1,3
+openstack/oslo.db,openstack-attic/oslo.version,Core,4.166666666666666,4.878048780487805,6,17
+openstack/oslo.db,openstack-attic/oslo.version,Non core,0.0,2.0325203252032518,6,17
+openstack/oslo.db,openstack-attic/image-api,Core,2.013422818791946,1.556420233463035,3,6
+openstack/oslo.db,openstack-attic/image-api,Non core,0.0,0.7782101167315175,3,6
+openstack/oslo.db,openstack-attic/object-api,Core,1.8867924528301887,1.4981273408239701,3,6
+openstack/oslo.db,openstack-attic/object-api,Non core,0.0,0.7490636704119851,3,6
+openstack/oslo.db,openstack-attic/volume-api,Core,1.2987012987012987,1.937984496124031,2,7
+openstack/oslo.db,openstack-attic/volume-api,Non core,0.0,0.7751937984496124,2,7
+openstack/oslo.db,openstack/magnetodb,Core,2.515723270440252,1.8450184501845017,5,10
+openstack/oslo.db,openstack/magnetodb,Non core,0.628930817610063,1.8450184501845017,5,10
+openstack/oslo.db,openstack/openstack-nose,Core,0.6756756756756757,1.2096774193548387,1,4
+openstack/oslo.db,openstack/openstack-nose,Non core,0.0,0.4032258064516129,1,4
+openstack/oslo.db,openstack-attic/netconn-api,Core,3.6809815950920246,1.773049645390071,6,12
+openstack/oslo.db,openstack-attic/netconn-api,Non core,0.0,2.4822695035460995,6,12
+openstack/oslo.db,openstack-attic/python-melangeclient,Core,0.6802721088435374,0.0,1,1
+openstack/oslo.db,openstack-attic/python-melangeclient,Non core,0.0,0.4048582995951417,1,1
+openstack/oslo.db,openstack-attic/melange,Core,1.282051282051282,0.39215686274509803,2,3
+openstack/oslo.db,openstack-attic/melange,Non core,0.0,0.7843137254901961,2,3
+openstack/oslo.db,openstack-attic/openstack-qa,Core,0.6944444444444444,0.0,1,2
+openstack/oslo.db,openstack-attic/openstack-qa,Non core,0.0,0.8130081300813009,1,2
+openstack/oslo.db,openstack-attic/database-api,Core,2.0,1.171875,3,5
+openstack/oslo.db,openstack-attic/database-api,Non core,0.0,0.78125,3,5
+openstack/oslo.db,openstack-attic/openstack-security-notes,Core,0.6756756756756757,2.302631578947368,1,10
+openstack/oslo.db,openstack-attic/openstack-security-notes,Non core,0.0,0.9868421052631579,1,10

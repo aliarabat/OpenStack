@@ -1,0 +1,1765 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_manila,Core,16.666666666666664,25.352112676056336,15,23
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_manila,Non core,8.333333333333332,7.042253521126761,15,23
+openstack/openstack-ansible-os_trove,openstack/ansible-hardening,Core,24.285714285714285,25.274725274725274,22,34
+openstack/openstack-ansible-os_trove,openstack/ansible-hardening,Non core,7.142857142857142,12.087912087912088,22,34
+openstack/openstack-ansible-os_trove,openstack/barbican-specs,Core,3.061224489795918,1.3513513513513513,4,4
+openstack/openstack-ansible-os_trove,openstack/barbican-specs,Non core,1.0204081632653061,1.3513513513513513,4,4
+openstack/openstack-ansible-os_trove,openstack/python-heatclient,Core,3.1963470319634704,2.359882005899705,12,21
+openstack/openstack-ansible-os_trove,openstack/python-heatclient,Non core,2.28310502283105,3.8348082595870205,12,21
+openstack/openstack-ansible-os_trove,openstack/oslo.versionedobjects,Core,6.015037593984962,3.296703296703297,14,16
+openstack/openstack-ansible-os_trove,openstack/oslo.versionedobjects,Non core,4.511278195488721,5.4945054945054945,14,16
+openstack/openstack-ansible-os_trove,openstack/os-api-ref,Core,6.896551724137931,3.571428571428571,11,10
+openstack/openstack-ansible-os_trove,openstack/os-api-ref,Non core,5.747126436781609,5.357142857142857,11,10
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-container,Core,5.970149253731343,0.0,4,2
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-container,Non core,0.0,2.272727272727273,4,2
+openstack/openstack-ansible-os_trove,openstack/venus-dashboard,Core,1.7241379310344827,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/venus-dashboard,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/manila-ui,Core,4.166666666666666,3.1446540880503147,9,16
+openstack/openstack-ansible-os_trove,openstack/manila-ui,Non core,3.3333333333333335,6.918238993710692,9,16
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-nfs,Core,3.278688524590164,3.4090909090909087,2,4
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-nfs,Non core,0.0,1.1363636363636365,2,4
+openstack/openstack-ansible-os_trove,openstack/taskflow,Core,4.054054054054054,2.7649769585253456,8,14
+openstack/openstack-ansible-os_trove,openstack/taskflow,Non core,1.3513513513513513,3.686635944700461,8,14
+openstack/openstack-ansible-os_trove,openstack/python-cyborgclient,Core,3.9473684210526314,3.8461538461538463,6,8
+openstack/openstack-ansible-os_trove,openstack/python-cyborgclient,Non core,3.9473684210526314,3.8461538461538463,6,8
+openstack/openstack-ansible-os_trove,openstack/zun,Core,3.954802259887006,2.0746887966804977,15,17
+openstack/openstack-ansible-os_trove,openstack/zun,Non core,4.519774011299435,4.979253112033195,15,17
+openstack/openstack-ansible-os_trove,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-openstack-loadbalancer,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/ansible-role-python_venv_build,Core,18.461538461538463,21.686746987951807,17,26
+openstack/openstack-ansible-os_trove,openstack/ansible-role-python_venv_build,Non core,7.6923076923076925,9.63855421686747,17,26
+openstack/openstack-ansible-os_trove,openstack/mistral-dashboard,Core,4.62962962962963,0.7299270072992701,6,11
+openstack/openstack-ansible-os_trove,openstack/mistral-dashboard,Non core,0.9259259259259258,7.2992700729927,6,11
+openstack/openstack-ansible-os_trove,openstack/mistral-lib,Core,5.88235294117647,3.669724770642202,9,13
+openstack/openstack-ansible-os_trove,openstack/mistral-lib,Non core,4.705882352941177,8.256880733944955,9,13
+openstack/openstack-ansible-os_trove,openstack/monasca-events-api,Core,7.462686567164178,3.296703296703297,9,10
+openstack/openstack-ansible-os_trove,openstack/monasca-events-api,Non core,5.970149253731343,7.6923076923076925,9,10
+openstack/openstack-ansible-os_trove,openstack/python-zaqarclient,Core,5.185185185185185,2.941176470588235,10,14
+openstack/openstack-ansible-os_trove,openstack/python-zaqarclient,Non core,2.2222222222222223,5.294117647058823,10,14
+openstack/openstack-ansible-os_trove,openstack/monasca-api,Core,4.069767441860465,2.904564315352697,12,18
+openstack/openstack-ansible-os_trove,openstack/monasca-api,Non core,2.9069767441860463,4.564315352697095,12,18
+openstack/openstack-ansible-os_trove,openstack/monasca-persister,Core,6.140350877192982,4.3478260869565215,10,16
+openstack/openstack-ansible-os_trove,openstack/monasca-persister,Non core,2.631578947368421,5.590062111801243,10,16
+openstack/openstack-ansible-os_trove,openstack/monasca-notification,Core,6.896551724137931,3.8461538461538463,11,11
+openstack/openstack-ansible-os_trove,openstack/monasca-notification,Non core,2.586206896551724,3.205128205128205,11,11
+openstack/openstack-ansible-os_trove,openstack/python-saharaclient,Core,3.546099290780142,2.7624309392265194,6,10
+openstack/openstack-ansible-os_trove,openstack/python-saharaclient,Non core,0.7092198581560284,2.7624309392265194,6,10
+openstack/openstack-ansible-os_trove,openstack/charm-magpie,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-magpie,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_placement,Core,15.254237288135593,21.91780821917808,16,22
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_placement,Non core,11.864406779661017,8.21917808219178,16,22
+openstack/openstack-ansible-os_trove,openstack/openstackdocstheme,Core,5.263157894736842,6.25,8,14
+openstack/openstack-ansible-os_trove,openstack/openstackdocstheme,Non core,1.7543859649122806,2.5,8,14
+openstack/openstack-ansible-os_trove,openstack/sahara,Core,3.257328990228013,2.7027027027027026,16,23
+openstack/openstack-ansible-os_trove,openstack/sahara,Non core,1.9543973941368076,2.9484029484029484,16,23
+openstack/openstack-ansible-os_trove,openstack/ironic-ui,Core,6.9306930693069315,3.6764705882352944,12,11
+openstack/openstack-ansible-os_trove,openstack/ironic-ui,Non core,4.9504950495049505,4.411764705882353,12,11
+openstack/openstack-ansible-os_trove,openstack/oslo.serialization,Core,3.6363636363636362,3.4013605442176873,11,16
+openstack/openstack-ansible-os_trove,openstack/oslo.serialization,Non core,6.363636363636363,7.482993197278912,11,16
+openstack/openstack-ansible-os_trove,openstack/oslo.context,Core,4.0,2.5974025974025974,11,12
+openstack/openstack-ansible-os_trove,openstack/oslo.context,Non core,7.000000000000001,5.194805194805195,11,12
+openstack/openstack-ansible-os_trove,openstack/oslo.limit,Core,2.564102564102564,3.8834951456310676,10,10
+openstack/openstack-ansible-os_trove,openstack/oslo.limit,Non core,10.256410256410255,5.825242718446602,10,10
+openstack/openstack-ansible-os_trove,openstack/oslo.middleware,Core,3.149606299212598,2.857142857142857,9,14
+openstack/openstack-ansible-os_trove,openstack/oslo.middleware,Non core,3.937007874015748,5.142857142857142,9,14
+openstack/openstack-ansible-os_trove,openstack/oslo.reports,Core,4.651162790697675,3.816793893129771,12,15
+openstack/openstack-ansible-os_trove,openstack/oslo.reports,Non core,9.30232558139535,7.633587786259542,12,15
+openstack/openstack-ansible-os_trove,openstack/futurist,Core,5.434782608695652,2.5423728813559325,6,10
+openstack/openstack-ansible-os_trove,openstack/futurist,Non core,1.0869565217391304,5.932203389830509,6,10
+openstack/openstack-ansible-os_trove,openstack/oslo.i18n,Core,3.8095238095238098,3.289473684210526,10,15
+openstack/openstack-ansible-os_trove,openstack/oslo.i18n,Non core,5.714285714285714,6.578947368421052,10,15
+openstack/openstack-ansible-os_trove,openstack/sushy-oem-idrac,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/python-dracclient,Core,2.272727272727273,1.6260162601626018,5,11
+openstack/openstack-ansible-os_trove,openstack/python-dracclient,Non core,3.4090909090909087,7.317073170731707,5,11
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_adjutant,Core,7.142857142857142,11.76470588235294,5,9
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_adjutant,Non core,1.7857142857142856,1.4705882352941175,5,9
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_masakari,Core,19.047619047619047,25.0,24,37
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_masakari,Non core,19.047619047619047,21.25,24,37
+openstack/openstack-ansible-os_trove,openstack/ansible-role-systemd_mount,Core,18.333333333333332,25.71428571428571,14,22
+openstack/openstack-ansible-os_trove,openstack/ansible-role-systemd_mount,Non core,5.0,5.714285714285714,14,22
+openstack/openstack-ansible-os_trove,openstack/python-senlinclient,Core,6.106870229007633,3.2679738562091507,15,19
+openstack/openstack-ansible-os_trove,openstack/python-senlinclient,Non core,5.343511450381679,9.15032679738562,15,19
+openstack/openstack-ansible-os_trove,openstack/senlin-dashboard,Core,4.0,2.8169014084507045,11,15
+openstack/openstack-ansible-os_trove,openstack/senlin-dashboard,Non core,7.000000000000001,7.746478873239436,11,15
+openstack/openstack-ansible-os_trove,openstack/networking-generic-switch,Core,4.504504504504505,3.731343283582089,7,11
+openstack/openstack-ansible-os_trove,openstack/networking-generic-switch,Non core,1.8018018018018018,4.477611940298507,7,11
+openstack/openstack-ansible-os_trove,openstack/sahara-image-elements,Core,5.3097345132743365,0.6802721088435374,8,4
+openstack/openstack-ansible-os_trove,openstack/sahara-image-elements,Non core,1.7699115044247788,2.0408163265306123,8,4
+openstack/openstack-ansible-os_trove,openstack/ansible-role-thales-hsm,Core,1.7241379310344827,7.894736842105263,1,6
+openstack/openstack-ansible-os_trove,openstack/ansible-role-thales-hsm,Non core,0.0,0.0,1,6
+openstack/openstack-ansible-os_trove,openstack/ansible-role-atos-hsm,Core,0.0,5.263157894736842,0,4
+openstack/openstack-ansible-os_trove,openstack/ansible-role-atos-hsm,Non core,0.0,0.0,0,4
+openstack/openstack-ansible-os_trove,openstack/adjutant-ui,Core,3.1746031746031744,3.75,3,5
+openstack/openstack-ansible-os_trove,openstack/adjutant-ui,Non core,1.5873015873015872,2.5,3,5
+openstack/openstack-ansible-os_trove,openstack/sahara-extra,Core,4.395604395604396,2.586206896551724,5,7
+openstack/openstack-ansible-os_trove,openstack/sahara-extra,Non core,1.098901098901099,3.4482758620689653,5,7
+openstack/openstack-ansible-os_trove,openstack/blazar-nova,Core,4.878048780487805,4.504504504504505,5,13
+openstack/openstack-ansible-os_trove,openstack/blazar-nova,Non core,1.2195121951219512,7.207207207207207,5,13
+openstack/openstack-ansible-os_trove,openstack/oslo.service,Core,3.7037037037037033,3.1088082901554404,12,16
+openstack/openstack-ansible-os_trove,openstack/oslo.service,Non core,5.185185185185185,5.181347150259067,12,16
+openstack/openstack-ansible-os_trove,openstack/blazar-dashboard,Core,4.225352112676056,2.8846153846153846,8,15
+openstack/openstack-ansible-os_trove,openstack/blazar-dashboard,Non core,7.042253521126761,11.538461538461538,8,15
+openstack/openstack-ansible-os_trove,openstack/paunch,Core,4.081632653061225,3.048780487804878,5,12
+openstack/openstack-ansible-os_trove,openstack/paunch,Non core,1.0204081632653061,4.2682926829268295,5,12
+openstack/openstack-ansible-os_trove,openstack/service-types-authority,Core,4.166666666666666,3.125,4,5
+openstack/openstack-ansible-os_trove,openstack/service-types-authority,Non core,1.3888888888888888,0.78125,4,5
+openstack/openstack-ansible-os_trove,openstack/python-ironic-inspector-client,Core,8.60215053763441,3.7037037037037033,10,15
+openstack/openstack-ansible-os_trove,openstack/python-ironic-inspector-client,Non core,2.1505376344086025,7.4074074074074066,10,15
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-memcached_server,Core,25.0,24.137931034482758,30,40
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-memcached_server,Non core,16.666666666666664,21.839080459770116,30,40
+openstack/openstack-ansible-os_trove,openstack/os-testr,Core,3.1914893617021276,2.18978102189781,10,14
+openstack/openstack-ansible-os_trove,openstack/os-testr,Non core,7.446808510638298,8.02919708029197,10,14
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-ceph_client,Core,22.07792207792208,26.595744680851062,30,45
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-ceph_client,Non core,16.883116883116884,21.27659574468085,30,45
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_magnum,Core,26.666666666666668,25.0,36,47
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_magnum,Non core,21.333333333333336,22.0,36,47
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_blazar,Core,19.047619047619047,21.518987341772153,22,31
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_blazar,Non core,15.873015873015872,17.72151898734177,22,31
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_designate,Core,25.64102564102564,24.761904761904763,38,49
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_designate,Non core,23.076923076923077,21.904761904761905,38,49
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_gnocchi,Core,24.358974358974358,27.173913043478258,36,46
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_gnocchi,Non core,21.794871794871796,22.82608695652174,36,46
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_senlin,Core,5.357142857142857,10.44776119402985,3,11
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_senlin,Non core,0.0,5.970149253731343,3,11
+openstack/openstack-ansible-os_trove,openstack/ptgbot,Core,6.0606060606060606,4.49438202247191,4,6
+openstack/openstack-ansible-os_trove,openstack/ptgbot,Non core,0.0,2.247191011235955,4,6
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_zun,Core,20.967741935483872,25.333333333333336,22,31
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_zun,Non core,14.516129032258066,16.0,22,31
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-repo_server,Core,25.64102564102564,25.252525252525253,34,45
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-repo_server,Non core,17.94871794871795,20.2020202020202,34,45
+openstack/openstack-ansible-os_trove,openstack/python-watcherclient,Core,6.4,3.787878787878788,14,17
+openstack/openstack-ansible-os_trove,openstack/python-watcherclient,Non core,4.8,9.090909090909092,14,17
+openstack/openstack-ansible-os_trove,openstack/heat-agents,Core,4.651162790697675,2.097902097902098,7,11
+openstack/openstack-ansible-os_trove,openstack/heat-agents,Non core,3.488372093023256,5.594405594405594,7,11
+openstack/openstack-ansible-os_trove,openstack/oslo.rootwrap,Core,3.361344537815126,2.9069767441860463,9,13
+openstack/openstack-ansible-os_trove,openstack/oslo.rootwrap,Non core,4.201680672268908,4.651162790697675,9,13
+openstack/openstack-ansible-os_trove,openstack/automaton,Core,3.6585365853658534,2.912621359223301,5,8
+openstack/openstack-ansible-os_trove,openstack/automaton,Non core,2.4390243902439024,4.854368932038835,5,8
+openstack/openstack-ansible-os_trove,openstack/debtcollector,Core,4.3478260869565215,2.9702970297029703,7,9
+openstack/openstack-ansible-os_trove,openstack/debtcollector,Non core,3.260869565217391,5.9405940594059405,7,9
+openstack/openstack-ansible-os_trove,openstack/vitrage-dashboard,Core,5.5045871559633035,1.574803149606299,13,9
+openstack/openstack-ansible-os_trove,openstack/vitrage-dashboard,Non core,6.422018348623854,5.511811023622047,13,9
+openstack/openstack-ansible-os_trove,openstack/oslotest,Core,4.716981132075472,3.5211267605633805,10,14
+openstack/openstack-ansible-os_trove,openstack/oslotest,Non core,4.716981132075472,6.338028169014084,10,14
+openstack/openstack-ansible-os_trove,openstack/kayobe-config,Core,3.125,1.3513513513513513,2,1
+openstack/openstack-ansible-os_trove,openstack/kayobe-config,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/compute-hyperv,Core,4.819277108433735,3.061224489795918,6,10
+openstack/openstack-ansible-os_trove,openstack/compute-hyperv,Non core,2.4096385542168677,7.142857142857142,6,10
+openstack/openstack-ansible-os_trove,openstack/python-cloudkittyclient,Core,4.761904761904762,3.278688524590164,12,16
+openstack/openstack-ansible-os_trove,openstack/python-cloudkittyclient,Non core,6.666666666666667,9.836065573770492,12,16
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone,Core,2.9850746268656714,0.0,3,4
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone,Non core,1.4925373134328357,5.0,3,4
+openstack/openstack-ansible-os_trove,openstack/cloudkitty-dashboard,Core,5.319148936170213,4.8,8,19
+openstack/openstack-ansible-os_trove,openstack/cloudkitty-dashboard,Non core,3.1914893617021276,10.4,8,19
+openstack/openstack-ansible-os_trove,openstack/networking-hyperv,Core,7.07070707070707,3.7383177570093453,9,12
+openstack/openstack-ansible-os_trove,openstack/networking-hyperv,Non core,2.0202020202020203,7.476635514018691,9,12
+openstack/openstack-ansible-os_trove,openstack/i18n,Core,5.4945054945054945,3.125,7,10
+openstack/openstack-ansible-os_trove,openstack/i18n,Non core,2.197802197802198,4.6875,7,10
+openstack/openstack-ansible-os_trove,openstack/sahara-tests,Core,7.228915662650602,3.1746031746031744,11,8
+openstack/openstack-ansible-os_trove,openstack/sahara-tests,Non core,6.024096385542169,3.1746031746031744,11,8
+openstack/openstack-ansible-os_trove,openstack/python-zunclient,Core,4.761904761904762,1.8633540372670807,13,10
+openstack/openstack-ansible-os_trove,openstack/python-zunclient,Non core,5.555555555555555,4.3478260869565215,13,10
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-cdh,Core,3.076923076923077,4.938271604938271,3,8
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-cdh,Non core,1.5384615384615385,4.938271604938271,3,8
+openstack/openstack-ansible-os_trove,openstack/monasca-ui,Core,5.737704918032787,3.35195530726257,10,19
+openstack/openstack-ansible-os_trove,openstack/monasca-ui,Non core,2.459016393442623,7.262569832402235,10,19
+openstack/openstack-ansible-os_trove,openstack/python-adjutantclient,Core,6.349206349206349,2.631578947368421,4,4
+openstack/openstack-ansible-os_trove,openstack/python-adjutantclient,Non core,0.0,2.631578947368421,4,4
+openstack/openstack-ansible-os_trove,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/ansible-role-lunasa-hsm,Core,1.7857142857142856,2.857142857142857,1,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/monasca-thresh,Core,3.8461538461538463,0.9174311926605505,5,4
+openstack/openstack-ansible-os_trove,openstack/monasca-thresh,Non core,2.564102564102564,2.7522935779816518,5,4
+openstack/openstack-ansible-os_trove,openstack/heat-specs,Core,2.4390243902439024,0.819672131147541,3,7
+openstack/openstack-ansible-os_trove,openstack/heat-specs,Non core,0.0,2.0491803278688523,3,7
+openstack/openstack-ansible-os_trove,openstack/watcher-dashboard,Core,6.451612903225806,2.5210084033613445,12,15
+openstack/openstack-ansible-os_trove,openstack/watcher-dashboard,Non core,6.451612903225806,10.084033613445378,12,15
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-ambari,Core,3.125,2.5974025974025974,3,5
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-ambari,Non core,1.5625,3.896103896103896,3,5
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-mapr,Core,3.1746031746031744,3.75,3,7
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-mapr,Non core,1.5873015873015872,5.0,3,7
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-spark,Core,3.225806451612903,2.7027027027027026,3,3
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-spark,Non core,1.6129032258064515,1.3513513513513513,3,3
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-storm,Core,3.225806451612903,2.7027027027027026,3,4
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-storm,Non core,1.6129032258064515,2.7027027027027026,3,4
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-vanilla,Core,3.225806451612903,2.631578947368421,3,4
+openstack/openstack-ansible-os_trove,openstack/sahara-plugin-vanilla,Non core,1.6129032258064515,2.631578947368421,3,4
+openstack/openstack-ansible-os_trove,openstack/sahara-specs,Core,2.9702970297029703,1.4705882352941175,5,4
+openstack/openstack-ansible-os_trove,openstack/sahara-specs,Non core,1.9801980198019802,1.4705882352941175,5,4
+openstack/openstack-ansible-os_trove,openstack/venus-tempest-plugin,Core,1.639344262295082,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/venus-tempest-plugin,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/venus-specs,Core,1.7241379310344827,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/venus-specs,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/ceilometermiddleware,Core,6.896551724137931,1.5267175572519083,8,10
+openstack/openstack-ansible-os_trove,openstack/ceilometermiddleware,Non core,2.2988505747126435,6.106870229007633,8,10
+openstack/openstack-ansible-os_trove,openstack/trove-tempest-plugin,Core,6.349206349206349,4.597701149425287,6,10
+openstack/openstack-ansible-os_trove,openstack/trove-tempest-plugin,Non core,3.1746031746031744,6.896551724137931,6,10
+openstack/openstack-ansible-os_trove,openstack/arch-design,Core,3.389830508474576,4.3478260869565215,4,4
+openstack/openstack-ansible-os_trove,openstack/arch-design,Non core,3.389830508474576,1.4492753623188406,4,4
+openstack/openstack-ansible-os_trove,openstack/monasca-common,Core,5.833333333333333,2.484472049689441,10,14
+openstack/openstack-ansible-os_trove,openstack/monasca-common,Non core,2.5,6.211180124223603,10,14
+openstack/openstack-ansible-os_trove,openstack/monasca-statsd,Core,9.411764705882353,3.571428571428571,10,12
+openstack/openstack-ansible-os_trove,openstack/monasca-statsd,Non core,2.3529411764705883,7.142857142857142,10,12
+openstack/openstack-ansible-os_trove,openstack/python-monascaclient,Core,5.303030303030303,4.093567251461988,12,14
+openstack/openstack-ansible-os_trove,openstack/python-monascaclient,Non core,3.787878787878788,4.093567251461988,12,14
+openstack/openstack-ansible-os_trove,openstack/renderspec,Core,5.555555555555555,4.651162790697675,7,9
+openstack/openstack-ansible-os_trove,openstack/renderspec,Non core,4.166666666666666,5.813953488372093,7,9
+openstack/openstack-ansible-os_trove,openstack/os-service-types,Core,2.8169014084507045,4.444444444444445,6,12
+openstack/openstack-ansible-os_trove,openstack/os-service-types,Non core,5.633802816901409,8.88888888888889,6,12
+openstack/openstack-ansible-os_trove,openstack/masakari-dashboard,Core,2.5974025974025974,2.8846153846153846,5,11
+openstack/openstack-ansible-os_trove,openstack/masakari-dashboard,Non core,3.896103896103896,7.6923076923076925,5,11
+openstack/openstack-ansible-os_trove,openstack/freezer-dr,Core,6.756756756756757,3.1578947368421053,6,10
+openstack/openstack-ansible-os_trove,openstack/freezer-dr,Non core,1.3513513513513513,7.368421052631578,6,10
+openstack/openstack-ansible-os_trove,openstack/tempest-stress,Core,4.411764705882353,4.0,7,9
+openstack/openstack-ansible-os_trove,openstack/tempest-stress,Non core,5.88235294117647,8.0,7,9
+openstack/openstack-ansible-os_trove,openstack/charm-neutron-api-genericswitch,Core,3.508771929824561,1.4084507042253522,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-neutron-api-genericswitch,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-neutron-dynamic-routing,Core,2.898550724637681,1.2195121951219512,2,3
+openstack/openstack-ansible-os_trove,openstack/charm-neutron-dynamic-routing,Non core,0.0,2.4390243902439024,2,3
+openstack/openstack-ansible-os_trove,openstack/charm-interface-ceph-client,Core,1.6129032258064515,1.3157894736842104,1,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-ceph-client,Non core,0.0,1.3157894736842104,1,2
+openstack/openstack-ansible-os_trove,openstack/charm-percona-cluster,Core,2.197802197802198,1.8018018018018018,4,6
+openstack/openstack-ansible-os_trove,openstack/charm-percona-cluster,Non core,2.197802197802198,3.6036036036036037,4,6
+openstack/openstack-ansible-os_trove,openstack/charm-deployment-guide,Core,2.3529411764705883,1.0309278350515463,2,3
+openstack/openstack-ansible-os_trove,openstack/charm-deployment-guide,Non core,0.0,2.0618556701030926,2,3
+openstack/openstack-ansible-os_trove,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/oslo.metrics,Core,0.0,2.5,1,2
+openstack/openstack-ansible-os_trove,openstack/oslo.metrics,Non core,1.6129032258064515,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/oslo.vmware,Core,4.0650406504065035,2.051282051282051,12,15
+openstack/openstack-ansible-os_trove,openstack/oslo.vmware,Non core,5.691056910569105,5.641025641025641,12,15
+openstack/openstack-ansible-os_trove,openstack/oslo.upgradecheck,Core,4.411764705882353,3.4482758620689653,5,8
+openstack/openstack-ansible-os_trove,openstack/oslo.upgradecheck,Non core,2.941176470588235,5.747126436781609,5,8
+openstack/openstack-ansible-os_trove,openstack/python-masakariclient,Core,3.3333333333333335,3.8095238095238098,7,14
+openstack/openstack-ansible-os_trove,openstack/python-masakariclient,Non core,4.444444444444445,9.523809523809524,7,14
+openstack/openstack-ansible-os_trove,openstack/python-vitrageclient,Core,6.25,1.0204081632653061,13,8
+openstack/openstack-ansible-os_trove,openstack/python-vitrageclient,Non core,7.291666666666667,7.142857142857142,13,8
+openstack/openstack-ansible-os_trove,openstack/python-blazarclient,Core,3.0,3.10077519379845,8,15
+openstack/openstack-ansible-os_trove,openstack/python-blazarclient,Non core,5.0,8.527131782945736,8,15
+openstack/openstack-ansible-os_trove,openstack/zaqar-tempest-plugin,Core,3.076923076923077,2.272727272727273,3,4
+openstack/openstack-ansible-os_trove,openstack/zaqar-tempest-plugin,Non core,1.5384615384615385,2.272727272727273,3,4
+openstack/openstack-ansible-os_trove,openstack/tripleo-common-tempest-plugin,Core,4.545454545454546,3.3707865168539324,6,11
+openstack/openstack-ansible-os_trove,openstack/tripleo-common-tempest-plugin,Non core,4.545454545454546,8.98876404494382,6,11
+openstack/openstack-ansible-os_trove,openstack/mistral-tempest-plugin,Core,2.73972602739726,1.0526315789473684,6,7
+openstack/openstack-ansible-os_trove,openstack/mistral-tempest-plugin,Non core,5.47945205479452,6.315789473684211,6,7
+openstack/openstack-ansible-os_trove,openstack/barbican-ui,Core,1.8181818181818181,2.5974025974025974,1,2
+openstack/openstack-ansible-os_trove,openstack/barbican-ui,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/liberasurecode,Core,3.076923076923077,2.380952380952381,2,3
+openstack/openstack-ansible-os_trove,openstack/liberasurecode,Non core,0.0,1.1904761904761905,2,3
+openstack/openstack-ansible-os_trove,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/os-client-config,Core,5.64516129032258,5.7324840764331215,10,16
+openstack/openstack-ansible-os_trove,openstack/os-client-config,Non core,2.4193548387096775,4.45859872611465,10,16
+openstack/openstack-ansible-os_trove,openstack/monasca-specs,Core,3.125,1.0638297872340425,3,3
+openstack/openstack-ansible-os_trove,openstack/monasca-specs,Non core,1.5625,2.127659574468085,3,3
+openstack/openstack-ansible-os_trove,openstack/os-performance-tools,Core,4.411764705882353,3.7037037037037033,6,7
+openstack/openstack-ansible-os_trove,openstack/os-performance-tools,Non core,4.411764705882353,4.938271604938271,6,7
+openstack/openstack-ansible-os_trove,openstack/trove-specs,Core,4.395604395604396,1.3888888888888888,4,7
+openstack/openstack-ansible-os_trove,openstack/trove-specs,Non core,0.0,3.4722222222222223,4,7
+openstack/openstack-ansible-os_trove,openstack/manila-image-elements,Core,5.263157894736842,3.9215686274509802,6,11
+openstack/openstack-ansible-os_trove,openstack/manila-image-elements,Non core,2.631578947368421,6.862745098039216,6,11
+openstack/openstack-ansible-os_trove,openstack/blazar-specs,Core,3.225806451612903,2.3255813953488373,2,2
+openstack/openstack-ansible-os_trove,openstack/blazar-specs,Non core,0.0,0.0,2,2
+openstack/openstack-ansible-os_trove,openstack/molteniron,Core,6.349206349206349,2.2222222222222223,4,3
+openstack/openstack-ansible-os_trove,openstack/molteniron,Non core,0.0,1.1111111111111112,4,3
+openstack/openstack-ansible-os_trove,openstack/solum-specs,Core,5.970149253731343,0.0,4,2
+openstack/openstack-ansible-os_trove,openstack/solum-specs,Non core,0.0,2.272727272727273,4,2
+openstack/openstack-ansible-os_trove,openstack/patrole,Core,3.7037037037037033,3.592814371257485,10,12
+openstack/openstack-ansible-os_trove,openstack/patrole,Non core,3.7037037037037033,3.592814371257485,10,12
+openstack/openstack-ansible-os_trove,openstack/performance-docs,Core,3.3333333333333335,3.508771929824561,5,11
+openstack/openstack-ansible-os_trove,openstack/performance-docs,Non core,2.2222222222222223,6.140350877192982,5,11
+openstack/openstack-ansible-os_trove,openstack/sphinx-feature-classification,Core,2.8169014084507045,3.1578947368421053,4,7
+openstack/openstack-ansible-os_trove,openstack/sphinx-feature-classification,Non core,2.8169014084507045,4.2105263157894735,4,7
+openstack/openstack-ansible-os_trove,openstack/etcd3gw,Core,0.0,2.631578947368421,0,2
+openstack/openstack-ansible-os_trove,openstack/etcd3gw,Non core,0.0,0.0,0,2
+openstack/openstack-ansible-os_trove,openstack/watcher-specs,Core,3.061224489795918,0.7042253521126761,5,8
+openstack/openstack-ansible-os_trove,openstack/watcher-specs,Non core,2.0408163265306123,4.929577464788732,5,8
+openstack/openstack-ansible-os_trove,openstack/yaql,Core,3.488372093023256,1.7699115044247788,5,10
+openstack/openstack-ansible-os_trove,openstack/yaql,Non core,2.3255813953488373,7.079646017699115,5,10
+openstack/openstack-ansible-os_trove,openstack/puppet-openstack-guide,Core,8.333333333333332,4.166666666666666,10,11
+openstack/openstack-ansible-os_trove,openstack/puppet-openstack-guide,Non core,5.555555555555555,7.291666666666667,10,11
+openstack/openstack-ansible-os_trove,openstack/puppet-panko,Core,7.142857142857142,3.3333333333333335,10,10
+openstack/openstack-ansible-os_trove,openstack/puppet-panko,Non core,4.761904761904762,7.777777777777778,10,10
+openstack/openstack-ansible-os_trove,openstack/heat-cfnclient,Core,7.042253521126761,2.1052631578947367,6,5
+openstack/openstack-ansible-os_trove,openstack/heat-cfnclient,Non core,1.4084507042253522,3.1578947368421053,6,5
+openstack/openstack-ansible-os_trove,openstack/heat-cfntools,Core,4.166666666666666,3.225806451612903,8,12
+openstack/openstack-ansible-os_trove,openstack/heat-cfntools,Non core,4.166666666666666,6.451612903225806,8,12
+openstack/openstack-ansible-os_trove,openstack/heat-templates,Core,4.635761589403973,1.7094017094017095,9,12
+openstack/openstack-ansible-os_trove,openstack/heat-templates,Non core,1.3245033112582782,3.418803418803419,9,12
+openstack/openstack-ansible-os_trove,openstack/governance-sigs,Core,7.4074074074074066,8.0,8,19
+openstack/openstack-ansible-os_trove,openstack/governance-sigs,Non core,2.4691358024691357,4.666666666666667,8,19
+openstack/openstack-ansible-os_trove,openstack/openstack-zuul-roles,Core,5.357142857142857,2.666666666666667,3,3
+openstack/openstack-ansible-os_trove,openstack/openstack-zuul-roles,Non core,0.0,1.3333333333333335,3,3
+openstack/openstack-ansible-os_trove,openstack/nova-powervm,Core,5.88235294117647,3.289473684210526,10,14
+openstack/openstack-ansible-os_trove,openstack/nova-powervm,Non core,3.9215686274509802,5.921052631578947,10,14
+openstack/openstack-ansible-os_trove,openstack/openstack-helm-addons,Core,1.1363636363636365,2.380952380952381,4,12
+openstack/openstack-ansible-os_trove,openstack/openstack-helm-addons,Non core,3.4090909090909087,4.761904761904762,4,12
+openstack/openstack-ansible-os_trove,openstack/python-pankoclient,Core,4.0,4.166666666666666,5,11
+openstack/openstack-ansible-os_trove,openstack/python-pankoclient,Non core,2.666666666666667,7.291666666666667,5,11
+openstack/openstack-ansible-os_trove,openstack/qa-specs,Core,4.123711340206185,1.1764705882352942,6,8
+openstack/openstack-ansible-os_trove,openstack/qa-specs,Non core,2.0618556701030926,3.5294117647058822,6,8
+openstack/openstack-ansible-os_trove,openstack/zaqar-specs,Core,5.952380952380952,1.6129032258064515,7,8
+openstack/openstack-ansible-os_trove,openstack/zaqar-specs,Non core,2.380952380952381,4.838709677419355,7,8
+openstack/openstack-ansible-os_trove,openstack/swift-bench,Core,0.0,1.0204081632653061,2,6
+openstack/openstack-ansible-os_trove,openstack/swift-bench,Non core,2.8169014084507045,5.1020408163265305,2,6
+openstack/openstack-ansible-os_trove,openstack/whereto,Core,3.125,5.0,8,9
+openstack/openstack-ansible-os_trove,openstack/whereto,Non core,9.375,6.25,8,9
+openstack/openstack-ansible-os_trove,openstack/murano-specs,Core,4.301075268817205,0.0,4,4
+openstack/openstack-ansible-os_trove,openstack/murano-specs,Non core,0.0,3.2,4,4
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-modify-image,Core,3.79746835443038,4.201680672268908,5,11
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-modify-image,Non core,2.5316455696202533,5.042016806722689,5,11
+openstack/openstack-ansible-os_trove,openstack/requestsexceptions,Core,5.084745762711865,1.25,3,4
+openstack/openstack-ansible-os_trove,openstack/requestsexceptions,Non core,0.0,3.75,3,4
+openstack/openstack-ansible-os_trove,openstack/panko,Core,6.086956521739131,3.2467532467532463,12,15
+openstack/openstack-ansible-os_trove,openstack/panko,Non core,4.3478260869565215,6.493506493506493,12,15
+openstack/openstack-ansible-os_trove,openstack/api-sig,Core,1.9417475728155338,0.7874015748031495,3,8
+openstack/openstack-ansible-os_trove,openstack/api-sig,Non core,0.9708737864077669,2.3622047244094486,3,8
+openstack/openstack-ansible-os_trove,openstack/openstack-chef-specs,Core,4.0,3.1578947368421053,3,7
+openstack/openstack-ansible-os_trove,openstack/openstack-chef-specs,Non core,0.0,4.2105263157894735,3,7
+openstack/openstack-ansible-os_trove,openstack/freezer-specs,Core,7.142857142857142,2.247191011235955,6,5
+openstack/openstack-ansible-os_trove,openstack/freezer-specs,Non core,1.4285714285714286,3.3707865168539324,6,5
+openstack/openstack-ansible-os_trove,openstack/oslo.tools,Core,5.0,2.2222222222222223,7,6
+openstack/openstack-ansible-os_trove,openstack/oslo.tools,Non core,3.75,4.444444444444445,7,6
+openstack/openstack-ansible-os_trove,openstack/microversion-parse,Core,1.6129032258064515,3.8461538461538463,2,4
+openstack/openstack-ansible-os_trove,openstack/microversion-parse,Non core,1.6129032258064515,1.282051282051282,2,4
+openstack/openstack-ansible-os_trove,openstack/openstackclient,Core,5.405405405405405,5.376344086021505,5,9
+openstack/openstack-ansible-os_trove,openstack/openstackclient,Non core,1.3513513513513513,4.301075268817205,5,9
+openstack/openstack-ansible-os_trove,openstack/ossa,Core,5.555555555555555,3.3333333333333335,4,8
+openstack/openstack-ansible-os_trove,openstack/ossa,Non core,0.0,3.3333333333333335,4,8
+openstack/openstack-ansible-os_trove,openstack/reviewstats,Core,3.125,3.35195530726257,4,9
+openstack/openstack-ansible-os_trove,openstack/reviewstats,Non core,0.0,1.675977653631285,4,9
+openstack/openstack-ansible-os_trove,openstack/oslo-cookiecutter,Core,4.10958904109589,3.296703296703297,4,8
+openstack/openstack-ansible-os_trove,openstack/oslo-cookiecutter,Non core,1.36986301369863,5.4945054945054945,4,8
+openstack/openstack-ansible-os_trove,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/security-analysis,Core,3.3333333333333335,3.488372093023256,3,5
+openstack/openstack-ansible-os_trove,openstack/security-analysis,Non core,1.6666666666666667,2.3255813953488373,3,5
+openstack/openstack-ansible-os_trove,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-keystone,Core,5.357142857142857,1.4084507042253522,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-keystone,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-apt_package_pinning,Core,24.615384615384617,27.631578947368425,26,34
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-apt_package_pinning,Non core,15.384615384615385,17.105263157894736,26,34
+openstack/openstack-ansible-os_trove,openstack/ansible-role-qdrouterd,Core,14.545454545454545,27.142857142857142,12,27
+openstack/openstack-ansible-os_trove,openstack/ansible-role-qdrouterd,Non core,7.2727272727272725,11.428571428571429,12,27
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-openstack_openrc,Core,23.943661971830984,26.82926829268293,31,37
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-openstack_openrc,Non core,19.718309859154928,18.29268292682927,31,37
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-nspawn_container_create,Core,18.96551724137931,22.22222222222222,18,27
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-nspawn_container_create,Non core,12.068965517241379,15.277777777777779,18,27
+openstack/openstack-ansible-os_trove,openstack/devstack-tools,Core,4.477611940298507,4.0,5,9
+openstack/openstack-ansible-os_trove,openstack/devstack-tools,Non core,2.9850746268656714,8.0,5,9
+openstack/openstack-ansible-os_trove,openstack/coverage2sql,Core,5.47945205479452,2.5,6,7
+openstack/openstack-ansible-os_trove,openstack/coverage2sql,Non core,2.73972602739726,6.25,6,7
+openstack/openstack-ansible-os_trove,openstack/bashate,Core,6.122448979591836,6.1946902654867255,6,9
+openstack/openstack-ansible-os_trove,openstack/bashate,Non core,0.0,1.7699115044247788,6,9
+openstack/openstack-ansible-os_trove,openstack/hacking,Core,4.411764705882353,3.3333333333333335,6,13
+openstack/openstack-ansible-os_trove,openstack/hacking,Non core,0.0,2.857142857142857,6,13
+openstack/openstack-ansible-os_trove,openstack/xstatic-mdi,Core,1.6666666666666667,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-mdi,Non core,0.0,2.5974025974025974,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-roboto-fontface,Core,1.694915254237288,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-roboto-fontface,Non core,0.0,2.564102564102564,1,2
+openstack/openstack-ansible-os_trove,openstack/openstack-chef,Core,3.896103896103896,2.5,3,6
+openstack/openstack-ansible-os_trove,openstack/openstack-chef,Non core,0.0,5.0,3,6
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstackclient,Core,0.0,0.0,1,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstackclient,Non core,1.639344262295082,5.405405405405405,1,4
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular,Core,1.5384615384615385,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular,Non core,0.0,2.3255813953488373,1,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-hacluster,Core,1.3888888888888888,0.0,1,3
+openstack/openstack-ansible-os_trove,openstack/charm-interface-hacluster,Non core,0.0,3.75,1,3
+openstack/openstack-ansible-os_trove,openstack/puppet-openstack-specs,Core,5.47945205479452,1.7094017094017095,7,6
+openstack/openstack-ansible-os_trove,openstack/puppet-openstack-specs,Non core,4.10958904109589,3.418803418803419,7,6
+openstack/openstack-ansible-os_trove,openstack/puppet-monasca,Core,5.128205128205128,1.4492753623188406,8,9
+openstack/openstack-ansible-os_trove,openstack/puppet-monasca,Non core,5.128205128205128,5.072463768115942,8,9
+openstack/openstack-ansible-os_trove,openstack/eslint-config-openstack,Core,6.0606060606060606,2.7522935779816518,5,5
+openstack/openstack-ansible-os_trove,openstack/eslint-config-openstack,Non core,1.5151515151515151,1.834862385321101,5,5
+openstack/openstack-ansible-os_trove,openstack/karma-subunit-reporter,Core,3.508771929824561,1.4084507042253522,2,2
+openstack/openstack-ansible-os_trove,openstack/karma-subunit-reporter,Non core,0.0,1.4084507042253522,2,2
+openstack/openstack-ansible-os_trove,openstack/openstack-helm-docs,Core,1.6666666666666667,6.024096385542169,2,9
+openstack/openstack-ansible-os_trove,openstack/openstack-helm-docs,Non core,1.6666666666666667,4.819277108433735,2,9
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-specs,Core,13.333333333333334,14.482758620689657,20,33
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-specs,Non core,8.88888888888889,8.275862068965518,20,33
+openstack/openstack-ansible-os_trove,openstack/tempest-lib,Core,1.0309278350515463,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/tempest-lib,Non core,0.0,1.282051282051282,1,2
+openstack/openstack-ansible-os_trove,openstack/tripleo-ha-utils,Core,0.0,0.0,1,3
+openstack/openstack-ansible-os_trove,openstack/tripleo-ha-utils,Non core,1.6129032258064515,3.3707865168539324,1,3
+openstack/openstack-ansible-os_trove,openstack/devstack-vagrant,Core,2.9850746268656714,1.1363636363636365,2,3
+openstack/openstack-ansible-os_trove,openstack/devstack-vagrant,Non core,0.0,2.272727272727273,2,3
+openstack/openstack-ansible-os_trove,openstack/goal-tools,Core,5.084745762711865,6.666666666666667,3,9
+openstack/openstack-ansible-os_trove,openstack/goal-tools,Non core,0.0,5.333333333333334,3,9
+openstack/openstack-ansible-os_trove,openstack/cookiecutter,Core,3.1914893617021276,5.511811023622047,4,9
+openstack/openstack-ansible-os_trove,openstack/cookiecutter,Non core,1.0638297872340425,1.574803149606299,4,9
+openstack/openstack-ansible-os_trove,openstack/dib-utils,Core,6.0606060606060606,4.123711340206185,4,8
+openstack/openstack-ansible-os_trove,openstack/dib-utils,Non core,0.0,4.123711340206185,4,8
+openstack/openstack-ansible-os_trove,openstack/constellations,Core,3.571428571428571,4.0,4,7
+openstack/openstack-ansible-os_trove,openstack/constellations,Non core,3.571428571428571,5.333333333333334,4,7
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-integration-test,Core,2.857142857142857,1.0638297872340425,3,6
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-integration-test,Non core,1.4285714285714286,5.319148936170213,3,6
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-dashboard,Core,4.25531914893617,0.78125,6,8
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-dashboard,Non core,2.127659574468085,5.46875,6,8
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-telemetry,Core,4.25531914893617,0.8849557522123894,7,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-telemetry,Non core,3.1914893617021276,2.6548672566371683,7,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-orchestration,Core,4.761904761904762,1.7094017094017095,7,5
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-orchestration,Non core,3.571428571428571,2.564102564102564,7,5
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-bare-metal,Core,1.5873015873015872,1.1904761904761905,2,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-bare-metal,Non core,1.5873015873015872,3.571428571428571,2,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-dns,Core,0.0,1.36986301369863,1,5
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-dns,Non core,1.694915254237288,5.47945205479452,1,5
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-compute,Core,3.508771929824561,1.3071895424836601,6,7
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-compute,Non core,1.7543859649122806,3.2679738562091507,6,7
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-network,Core,3.4482758620689653,0.6711409395973155,6,6
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-network,Non core,1.7241379310344827,3.3557046979865772,6,6
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-block-storage,Core,4.62962962962963,0.7575757575757576,8,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-block-storage,Non core,2.7777777777777777,2.272727272727273,8,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-image,Core,3.9603960396039604,0.7633587786259541,6,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-image,Non core,1.9801980198019802,2.2900763358778624,6,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-identity,Core,4.9504950495049505,0.7299270072992701,8,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-identity,Non core,2.9702970297029703,2.18978102189781,8,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-ops-database,Core,4.761904761904762,0.9090909090909091,6,5
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-ops-database,Non core,2.380952380952381,3.6363636363636362,6,5
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-ops-messaging,Core,5.194805194805195,0.9708737864077669,6,5
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-ops-messaging,Non core,2.5974025974025974,3.8834951456310676,6,5
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-common,Core,4.587155963302752,2.684563758389262,8,9
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-common,Non core,2.7522935779816518,3.3557046979865772,8,9
+openstack/openstack-ansible-os_trove,openstack/self-healing-sig,Core,3.225806451612903,2.2222222222222223,3,2
+openstack/openstack-ansible-os_trove,openstack/self-healing-sig,Non core,1.6129032258064515,0.0,3,2
+openstack/openstack-ansible-os_trove,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/security-specs,Core,4.545454545454546,2.1505376344086025,4,4
+openstack/openstack-ansible-os_trove,openstack/security-specs,Non core,1.5151515151515151,2.1505376344086025,4,4
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_panko,Core,18.96551724137931,28.169014084507044,21,35
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_panko,Non core,17.24137931034483,21.12676056338028,21,35
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-nspawn_hosts,Core,18.96551724137931,20.833333333333336,19,29
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-nspawn_hosts,Non core,13.793103448275861,19.444444444444446,19,29
+openstack/openstack-ansible-os_trove,openstack/charm-layer-openstack-principle,Core,3.4482758620689653,0.0,2,0
+openstack/openstack-ansible-os_trove,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,2,0
+openstack/openstack-ansible-os_trove,openstack/charm-watcher-dashboard,Core,1.7543859649122806,1.3157894736842104,1,1
+openstack/openstack-ansible-os_trove,openstack/charm-watcher-dashboard,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/charm-watcher,Core,1.694915254237288,1.1764705882352942,1,1
+openstack/openstack-ansible-os_trove,openstack/charm-watcher,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-galera_client,Core,23.376623376623375,24.137931034482758,32,37
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-galera_client,Non core,18.181818181818183,18.39080459770115,32,37
+openstack/openstack-ansible-os_trove,openstack/cloudkitty-specs,Core,4.477611940298507,1.0638297872340425,4,2
+openstack/openstack-ansible-os_trove,openstack/cloudkitty-specs,Non core,1.4925373134328357,1.0638297872340425,4,2
+openstack/openstack-ansible-os_trove,openstack/osops,Core,1.694915254237288,1.3333333333333335,1,1
+openstack/openstack-ansible-os_trove,openstack/osops,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-ironic,Core,5.357142857142857,2.941176470588235,4,2
+openstack/openstack-ansible-os_trove,openstack/charm-ironic,Non core,1.7857142857142856,0.0,4,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/multi-arch-sig,Core,1.7857142857142856,2.7777777777777777,1,2
+openstack/openstack-ansible-os_trove,openstack/multi-arch-sig,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/charm-nova-compute-proxy,Core,3.1746031746031744,1.2987012987012987,3,2
+openstack/openstack-ansible-os_trove,openstack/charm-nova-compute-proxy,Non core,1.5873015873015872,1.2987012987012987,3,2
+openstack/openstack-ansible-os_trove,openstack/charm-odl-controller,Core,3.125,1.3333333333333335,3,2
+openstack/openstack-ansible-os_trove,openstack/charm-odl-controller,Non core,1.5625,1.3333333333333335,3,2
+openstack/openstack-ansible-os_trove,openstack/charm-nova-lxd,Core,4.225352112676056,2.2988505747126435,4,4
+openstack/openstack-ansible-os_trove,openstack/charm-nova-lxd,Non core,1.4084507042253522,2.2988505747126435,4,4
+openstack/openstack-ansible-os_trove,openstack/charm-interface-nova-cell,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-barbican-secrets,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-barbican-secrets,Non core,0.0,2.7777777777777777,0,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-ceph-rbd-mirror,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,2.73972602739726,0,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-placement,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-placement,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-mysql-shared,Core,3.278688524590164,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-mysql-shared,Non core,0.0,1.3513513513513513,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-dashboard-plugin,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-dashboard-plugin,Non core,0.0,2.7777777777777777,0,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-neutron-load-balancer,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-neutron-load-balancer,Non core,0.0,2.7777777777777777,0,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-neutron-plugin-api-subordinate,Core,3.225806451612903,1.3333333333333335,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-neutron-plugin,Core,3.389830508474576,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-neutron-plugin,Non core,0.0,1.36986301369863,2,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-json2yaml,Core,1.8181818181818181,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-jquery.tablesorter,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-jquery.tablesorter,Non core,0.0,1.4084507042253522,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-magic-search,Core,1.639344262295082,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-magic-search,Non core,0.0,2.5,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-jsencrypt,Core,1.694915254237288,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-jsencrypt,Non core,0.0,2.5,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-js-yaml,Core,1.7857142857142856,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-spin,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-spin,Non core,0.0,1.4084507042253522,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-rickshaw,Core,1.6666666666666667,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-rickshaw,Non core,0.0,2.5974025974025974,1,2
+openstack/openstack-ansible-os_trove,openstack/charm-panko,Core,1.694915254237288,1.3157894736842104,1,3
+openstack/openstack-ansible-os_trove,openstack/charm-panko,Non core,0.0,2.631578947368421,1,3
+openstack/openstack-ansible-os_trove,openstack/charm-interface-service-control,Core,0.0,0.0,0,3
+openstack/openstack-ansible-os_trove,openstack/charm-interface-service-control,Non core,0.0,4.10958904109589,0,3
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_almanach,Core,24.561403508771928,20.27027027027027,23,26
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_almanach,Non core,15.789473684210526,14.864864864864865,23,26
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-pip_install,Core,21.052631578947366,20.792079207920793,27,37
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-pip_install,Non core,14.473684210526317,15.841584158415841,27,37
+openstack/openstack-ansible-os_trove,openstack/python-karborclient,Core,5.1020408163265305,4.23728813559322,9,13
+openstack/openstack-ansible-os_trove,openstack/python-karborclient,Non core,4.081632653061225,6.779661016949152,9,13
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone-admin,Core,5.357142857142857,0.0,3,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone-admin,Non core,0.0,1.4084507042253522,3,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-nova-compute,Core,1.6129032258064515,0.0,1,5
+openstack/openstack-ansible-os_trove,openstack/charm-interface-nova-compute,Non core,0.0,6.8493150684931505,1,5
+openstack/openstack-ansible-os_trove,openstack/charm-interface-manila-plugin,Core,3.4482758620689653,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-manila-plugin,Non core,0.0,1.36986301369863,2,1
+openstack/openstack-ansible-os_trove,openstack/murano-apps,Core,4.901960784313726,2.2556390977443606,5,5
+openstack/openstack-ansible-os_trove,openstack/murano-apps,Non core,0.0,1.5037593984962405,5,5
+openstack/openstack-ansible-os_trove,openstack/puppet-senlin,Core,4.6875,2.5974025974025974,6,8
+openstack/openstack-ansible-os_trove,openstack/puppet-senlin,Non core,4.6875,7.792207792207792,6,8
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-application-catalog,Core,1.7543859649122806,0.0,3,3
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-application-catalog,Non core,3.508771929824561,4.166666666666666,3,3
+openstack/openstack-ansible-os_trove,openstack/training-labs,Core,6.024096385542169,4.040404040404041,9,13
+openstack/openstack-ansible-os_trove,openstack/training-labs,Non core,4.819277108433735,9.090909090909092,9,13
+openstack/openstack-ansible-os_trove,openstack/karbor,Core,5.095541401273886,2.843601895734597,11,20
+openstack/openstack-ansible-os_trove,openstack/karbor,Non core,1.910828025477707,6.6350710900473935,11,20
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-open-cas,Core,1.7857142857142856,1.3157894736842104,1,1
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_congress,Core,18.0327868852459,23.376623376623375,19,34
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_congress,Non core,13.114754098360656,20.77922077922078,19,34
+openstack/openstack-ansible-os_trove,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone-notifications,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/os-collect-config,Core,5.0,3.125,8,11
+openstack/openstack-ansible-os_trove,openstack/os-collect-config,Non core,3.0,3.75,8,11
+openstack/openstack-ansible-os_trove,openstack/os-apply-config,Core,6.122448979591836,5.442176870748299,9,16
+openstack/openstack-ansible-os_trove,openstack/os-apply-config,Non core,3.061224489795918,5.442176870748299,9,16
+openstack/openstack-ansible-os_trove,openstack/puppet-freezer,Core,7.142857142857142,3.6585365853658534,9,12
+openstack/openstack-ansible-os_trove,openstack/puppet-freezer,Non core,5.714285714285714,10.975609756097562,9,12
+openstack/openstack-ansible-os_trove,openstack/vitrage-specs,Core,4.705882352941177,0.0,7,9
+openstack/openstack-ansible-os_trove,openstack/vitrage-specs,Non core,3.5294117647058822,8.256880733944955,7,9
+openstack/openstack-ansible-os_trove,openstack/specs-cookiecutter,Core,5.0,3.8461538461538463,3,4
+openstack/openstack-ansible-os_trove,openstack/specs-cookiecutter,Non core,0.0,1.282051282051282,3,4
+openstack/openstack-ansible-os_trove,openstack/rpm-packaging-tools,Core,4.838709677419355,5.88235294117647,4,8
+openstack/openstack-ansible-os_trove,openstack/rpm-packaging-tools,Non core,1.6129032258064515,3.5294117647058822,4,8
+openstack/openstack-ansible-os_trove,openstack/ansible-role-openstack-operations,Core,1.4925373134328357,2.4390243902439024,3,3
+openstack/openstack-ansible-os_trove,openstack/ansible-role-openstack-operations,Non core,2.9850746268656714,1.2195121951219512,3,3
+openstack/openstack-ansible-os_trove,openstack/os-refresh-config,Core,4.597701149425287,3.90625,6,14
+openstack/openstack-ansible-os_trove,openstack/os-refresh-config,Non core,2.2988505747126435,7.03125,6,14
+openstack/openstack-ansible-os_trove,openstack/mistral-specs,Core,5.128205128205128,0.0,5,4
+openstack/openstack-ansible-os_trove,openstack/mistral-specs,Non core,1.282051282051282,3.9215686274509802,5,4
+openstack/openstack-ansible-os_trove,openstack/scientific-wg,Core,3.571428571428571,1.4084507042253522,2,2
+openstack/openstack-ansible-os_trove,openstack/scientific-wg,Non core,0.0,1.4084507042253522,2,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/manila-test-image,Core,3.571428571428571,3.896103896103896,2,6
+openstack/openstack-ansible-os_trove,openstack/manila-test-image,Non core,0.0,3.896103896103896,2,6
+openstack/openstack-ansible-os_trove,openstack/governance-website,Core,3.278688524590164,6.25,3,8
+openstack/openstack-ansible-os_trove,openstack/governance-website,Non core,1.639344262295082,3.75,3,8
+openstack/openstack-ansible-os_trove,openstack/bugdaystats,Core,0.0,1.2345679012345678,0,2
+openstack/openstack-ansible-os_trove,openstack/bugdaystats,Non core,0.0,1.2345679012345678,0,2
+openstack/openstack-ansible-os_trove,openstack/upstream-institute-virtual-environment,Core,0.0,2.564102564102564,0,2
+openstack/openstack-ansible-os_trove,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,2
+openstack/openstack-ansible-os_trove,openstack/karbor-dashboard,Core,4.878048780487805,5.405405405405405,10,15
+openstack/openstack-ansible-os_trove,openstack/karbor-dashboard,Non core,7.317073170731707,8.108108108108109,10,15
+openstack/openstack-ansible-os_trove,openstack/django_openstack_auth,Core,4.761904761904762,0.881057268722467,6,5
+openstack/openstack-ansible-os_trove,openstack/django_openstack_auth,Non core,0.0,1.3215859030837005,6,5
+openstack/openstack-ansible-os_trove,openstack/monasca-transform,Core,8.433734939759036,3.7037037037037033,12,11
+openstack/openstack-ansible-os_trove,openstack/monasca-transform,Non core,6.024096385542169,6.481481481481481,12,11
+openstack/openstack-ansible-os_trove,openstack/monasca-ceilometer,Core,7.526881720430108,3.937007874015748,11,14
+openstack/openstack-ansible-os_trove,openstack/monasca-ceilometer,Non core,4.301075268817205,7.086614173228346,11,14
+openstack/openstack-ansible-os_trove,openstack/monasca-log-api,Core,6.9306930693069315,3.4246575342465753,9,15
+openstack/openstack-ansible-os_trove,openstack/monasca-log-api,Non core,1.9801980198019802,6.8493150684931505,9,15
+openstack/openstack-ansible-os_trove,openstack/nose-html-output,Core,3.278688524590164,1.2658227848101267,2,3
+openstack/openstack-ansible-os_trove,openstack/nose-html-output,Non core,0.0,2.5316455696202533,2,3
+openstack/openstack-ansible-os_trove,openstack/kolla-cli,Core,1.4084507042253522,3.1914893617021276,5,11
+openstack/openstack-ansible-os_trove,openstack/kolla-cli,Non core,5.633802816901409,8.51063829787234,5,11
+openstack/openstack-ansible-os_trove,openstack/neutron-lbaas-dashboard,Core,4.25531914893617,3.4965034965034967,8,13
+openstack/openstack-ansible-os_trove,openstack/neutron-lbaas-dashboard,Non core,4.25531914893617,5.594405594405594,8,13
+openstack/openstack-ansible-os_trove,openstack/searchlight,Core,3.75,1.6042780748663104,12,16
+openstack/openstack-ansible-os_trove,openstack/searchlight,Non core,3.75,6.951871657754011,12,16
+openstack/openstack-ansible-os_trove,openstack/searchlight-ui,Core,5.4945054945054945,1.8018018018018018,9,8
+openstack/openstack-ansible-os_trove,openstack/searchlight-ui,Non core,4.395604395604396,5.405405405405405,9,8
+openstack/openstack-ansible-os_trove,openstack/searchlight-specs,Core,7.142857142857142,0.0,8,3
+openstack/openstack-ansible-os_trove,openstack/searchlight-specs,Non core,4.285714285714286,3.0,8,3
+openstack/openstack-ansible-os_trove,openstack/python-searchlightclient,Core,6.8181818181818175,1.8018018018018018,11,11
+openstack/openstack-ansible-os_trove,openstack/python-searchlightclient,Non core,5.681818181818182,8.108108108108109,11,11
+openstack/openstack-ansible-os_trove,openstack/charm-tempest,Core,2.7027027027027026,1.1363636363636365,2,4
+openstack/openstack-ansible-os_trove,openstack/charm-tempest,Non core,0.0,3.4090909090909087,2,4
+openstack/openstack-ansible-os_trove,openstack/charm-barbican-softhsm,Core,2.8169014084507045,1.2048192771084338,2,4
+openstack/openstack-ansible-os_trove,openstack/charm-barbican-softhsm,Non core,0.0,3.614457831325301,2,4
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-client,Core,1.6666666666666667,0.0,2,2
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-client,Non core,1.6666666666666667,2.5,2,2
+openstack/openstack-ansible-os_trove,openstack/instack-undercloud,Core,4.10958904109589,1.953125,10,16
+openstack/openstack-ansible-os_trove,openstack/instack-undercloud,Non core,2.73972602739726,4.296875,10,16
+openstack/openstack-ansible-os_trove,openstack/publiccloud-sig,Core,3.389830508474576,2.73972602739726,2,4
+openstack/openstack-ansible-os_trove,openstack/publiccloud-sig,Non core,0.0,2.73972602739726,2,4
+openstack/openstack-ansible-os_trove,openstack/ideas,Core,7.2727272727272725,6.593406593406594,4,6
+openstack/openstack-ansible-os_trove,openstack/ideas,Non core,0.0,0.0,4,6
+openstack/openstack-ansible-os_trove,openstack/uc-recognition,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/uc-recognition,Non core,0.0,1.3157894736842104,1,1
+openstack/openstack-ansible-os_trove,openstack/ops-tags-team,Core,1.5873015873015872,2.083333333333333,1,4
+openstack/openstack-ansible-os_trove,openstack/ops-tags-team,Non core,0.0,2.083333333333333,1,4
+openstack/openstack-ansible-os_trove,openstack/enterprise-wg,Core,1.8518518518518516,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/enterprise-wg,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/governance-uc,Core,4.166666666666666,5.5045871559633035,4,13
+openstack/openstack-ansible-os_trove,openstack/governance-uc,Non core,1.3888888888888888,6.422018348623854,4,13
+openstack/openstack-ansible-os_trove,openstack/workload-ref-archs,Core,4.838709677419355,3.9473684210526314,5,7
+openstack/openstack-ansible-os_trove,openstack/workload-ref-archs,Non core,3.225806451612903,5.263157894736842,5,7
+openstack/openstack-ansible-os_trove,openstack/arch-wg,Core,1.7543859649122806,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/arch-wg,Non core,0.0,1.2048192771084338,1,1
+openstack/openstack-ansible-os_trove,openstack/project-navigator-data,Core,4.285714285714286,5.747126436781609,3,6
+openstack/openstack-ansible-os_trove,openstack/project-navigator-data,Non core,0.0,1.1494252873563218,3,6
+openstack/openstack-ansible-os_trove,openstack/openstack-specs,Core,4.225352112676056,2.4896265560165975,3,8
+openstack/openstack-ansible-os_trove,openstack/openstack-specs,Non core,0.0,0.8298755186721992,3,8
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_monasca,Core,29.03225806451613,22.093023255813954,29,35
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_monasca,Non core,17.741935483870968,18.6046511627907,29,35
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_monasca-agent,Core,18.0327868852459,19.736842105263158,18,27
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_monasca-agent,Non core,11.475409836065573,15.789473684210526,18,27
+openstack/openstack-ansible-os_trove,openstack/ironic-inspector-specs,Core,4.166666666666666,0.9090909090909091,7,4
+openstack/openstack-ansible-os_trove,openstack/ironic-inspector-specs,Non core,5.555555555555555,2.727272727272727,7,4
+openstack/openstack-ansible-os_trove,openstack/sushy-cli,Core,1.639344262295082,1.2987012987012987,2,1
+openstack/openstack-ansible-os_trove,openstack/sushy-cli,Non core,1.639344262295082,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/puppet-glare,Core,8.0,3.4482758620689653,9,10
+openstack/openstack-ansible-os_trove,openstack/puppet-glare,Non core,4.0,8.045977011494253,9,10
+openstack/openstack-ansible-os_trove,openstack/xstatic-bootstrap-scss,Core,1.6666666666666667,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-bootstrap-scss,Non core,0.0,2.5,1,2
+openstack/openstack-ansible-os_trove,openstack/openstack-planet,Core,2.9850746268656714,1.7647058823529411,9,5
+openstack/openstack-ansible-os_trove,openstack/openstack-planet,Non core,0.3731343283582089,1.1764705882352942,9,5
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone-credentials,Core,4.918032786885246,0.0,3,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone-credentials,Non core,0.0,1.3333333333333335,3,1
+openstack/openstack-ansible-os_trove,openstack/monasca-kibana-plugin,Core,4.838709677419355,2.380952380952381,3,3
+openstack/openstack-ansible-os_trove,openstack/monasca-kibana-plugin,Non core,0.0,1.1904761904761905,3,3
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone-domain-backend,Core,5.172413793103448,0.0,3,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,0
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-amqp1,Core,8.333333333333332,3.7037037037037033,6,7
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-amqp1,Non core,1.6666666666666667,4.938271604938271,6,7
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-kafka,Core,3.389830508474576,3.896103896103896,3,7
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-kafka,Non core,1.694915254237288,5.194805194805195,3,7
+openstack/openstack-ansible-os_trove,openstack/tripleo-ipsec,Core,3.1746031746031744,3.7037037037037033,3,6
+openstack/openstack-ansible-os_trove,openstack/tripleo-ipsec,Non core,1.5873015873015872,3.7037037037037033,3,6
+openstack/openstack-ansible-os_trove,openstack/monasca-grafana-datasource,Core,1.5873015873015872,1.1363636363636365,2,3
+openstack/openstack-ansible-os_trove,openstack/monasca-grafana-datasource,Non core,1.5873015873015872,2.272727272727273,2,3
+openstack/openstack-ansible-os_trove,openstack/charm-interface-bind-rndc,Core,5.0,0.0,3,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-bind-rndc,Non core,0.0,1.3513513513513513,3,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-rabbitmq,Core,5.084745762711865,0.0,3,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-rabbitmq,Non core,0.0,1.3333333333333335,3,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-openstack-ha,Core,3.389830508474576,1.3513513513513513,2,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-openstack-ha,Non core,0.0,1.3513513513513513,2,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-gnocchi,Core,5.263157894736842,1.2345679012345678,3,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-gnocchi,Non core,0.0,0.0,3,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-bgp,Core,3.3333333333333335,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-bgp,Non core,0.0,1.3513513513513513,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-designate,Core,1.7543859649122806,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/charm-interface-designate,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/tempest-horizon,Core,7.352941176470589,1.1904761904761905,7,5
+openstack/openstack-ansible-os_trove,openstack/tempest-horizon,Non core,2.941176470588235,4.761904761904762,7,5
+openstack/openstack-ansible-os_trove,openstack/logstash-filters,Core,0.0,1.4285714285714286,0,2
+openstack/openstack-ansible-os_trove,openstack/logstash-filters,Non core,0.0,1.4285714285714286,0,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-jquery-migrate,Core,1.7543859649122806,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-jquery-migrate,Non core,0.0,1.3888888888888888,1,1
+openstack/openstack-ansible-os_trove,openstack/qinling-dashboard,Core,3.389830508474576,3.896103896103896,3,6
+openstack/openstack-ansible-os_trove,openstack/qinling-dashboard,Non core,1.694915254237288,3.896103896103896,3,6
+openstack/openstack-ansible-os_trove,openstack/python-qinlingclient,Core,4.054054054054054,3.6585365853658534,11,11
+openstack/openstack-ansible-os_trove,openstack/python-qinlingclient,Non core,10.81081081081081,9.75609756097561,11,11
+openstack/openstack-ansible-os_trove,openstack/qinling,Core,5.681818181818182,3.1914893617021276,11,10
+openstack/openstack-ansible-os_trove,openstack/qinling,Non core,6.8181818181818175,7.446808510638298,11,10
+openstack/openstack-ansible-os_trove,openstack/monasca-analytics,Core,9.859154929577464,2.912621359223301,9,6
+openstack/openstack-ansible-os_trove,openstack/monasca-analytics,Non core,2.8169014084507045,2.912621359223301,9,6
+openstack/openstack-ansible-os_trove,openstack/oslo-incubator,Core,1.875,1.0224948875255624,6,7
+openstack/openstack-ansible-os_trove,openstack/oslo-incubator,Non core,0.0,0.408997955010225,6,7
+openstack/openstack-ansible-os_trove,openstack/puppet-congress,Core,8.108108108108109,2.380952380952381,10,7
+openstack/openstack-ansible-os_trove,openstack/puppet-congress,Non core,5.405405405405405,5.952380952380952,10,7
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_monasca-ui,Core,8.620689655172415,10.95890410958904,9,13
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_monasca-ui,Non core,6.896551724137931,6.8493150684931505,9,13
+openstack/openstack-ansible-os_trove,openstack/auto-scaling-sig,Core,1.694915254237288,1.2195121951219512,1,1
+openstack/openstack-ansible-os_trove,openstack/auto-scaling-sig,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/os-loganalyze,Core,2.4691358024691357,3.571428571428571,2,6
+openstack/openstack-ansible-os_trove,openstack/os-loganalyze,Non core,0.0,1.7857142857142856,2,6
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-pika,Core,1.7241379310344827,2.7027027027027026,1,4
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-pika,Non core,0.0,2.7027027027027026,1,4
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-zmq,Core,6.666666666666667,5.405405405405405,4,7
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-zmq,Non core,0.0,4.054054054054054,4,7
+openstack/openstack-ansible-os_trove,openstack/networking-l2gw,Core,4.385964912280701,1.4354066985645932,8,9
+openstack/openstack-ansible-os_trove,openstack/networking-l2gw,Non core,2.631578947368421,2.8708133971291865,8,9
+openstack/openstack-ansible-os_trove,openstack/networking-l2gw-tempest-plugin,Core,4.838709677419355,2.3255813953488373,4,4
+openstack/openstack-ansible-os_trove,openstack/networking-l2gw-tempest-plugin,Non core,1.6129032258064515,2.3255813953488373,4,4
+openstack/openstack-ansible-os_trove,openstack/charm-interface-ceph-mds,Core,5.084745762711865,0.0,3,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-ceph-mds,Non core,0.0,1.3888888888888888,3,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-ui-router,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-ui-router,Non core,0.0,1.36986301369863,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-vis,Core,3.571428571428571,0.0,2,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-vis,Non core,0.0,0.0,2,0
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-database,Core,1.6129032258064515,1.1363636363636365,1,2
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-database,Non core,0.0,1.1363636363636365,1,2
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-data-processing,Core,1.694915254237288,1.2345679012345678,1,3
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-data-processing,Non core,0.0,2.4691358024691357,1,3
+openstack/openstack-ansible-os_trove,openstack/trove-integration,Core,1.694915254237288,1.2345679012345678,2,6
+openstack/openstack-ansible-os_trove,openstack/trove-integration,Non core,0.0,2.4691358024691357,2,6
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-sensu,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-sensu,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/python-ceilometerclient,Core,2.4242424242424243,1.646090534979424,4,8
+openstack/openstack-ansible-os_trove,openstack/python-ceilometerclient,Non core,0.0,1.646090534979424,4,8
+openstack/openstack-ansible-os_trove,openstack/keystoneauth-saml2,Core,3.076923076923077,1.0309278350515463,2,3
+openstack/openstack-ansible-os_trove,openstack/keystoneauth-saml2,Non core,0.0,2.0618556701030926,2,3
+openstack/openstack-ansible-os_trove,openstack/murano-deployment,Core,3.4482758620689653,0.0,3,2
+openstack/openstack-ansible-os_trove,openstack/murano-deployment,Non core,0.0,1.9801980198019802,3,2
+openstack/openstack-ansible-os_trove,openstack/python-keystoneclient-kerberos,Core,3.076923076923077,1.0526315789473684,2,3
+openstack/openstack-ansible-os_trove,openstack/python-keystoneclient-kerberos,Non core,0.0,2.1052631578947367,2,3
+openstack/openstack-ansible-os_trove,openstack/python-wsmanclient,Core,1.7543859649122806,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/python-wsmanclient,Non core,0.0,1.3513513513513513,1,1
+openstack/openstack-ansible-os_trove,openstack/fuel-upgrade,Core,3.225806451612903,0.0,2,2
+openstack/openstack-ansible-os_trove,openstack/fuel-upgrade,Non core,0.0,2.197802197802198,2,2
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-object-storage,Core,3.8461538461538463,1.8867924528301887,4,3
+openstack/openstack-ansible-os_trove,openstack/cookbook-openstack-object-storage,Non core,1.282051282051282,0.9433962264150944,4,3
+openstack/openstack-ansible-os_trove,openstack/fairy-slipper,Core,3.3333333333333335,2.5316455696202533,2,4
+openstack/openstack-ansible-os_trove,openstack/fairy-slipper,Non core,0.0,2.5316455696202533,2,4
+openstack/openstack-ansible-os_trove,openstack/django-openstack-auth-kerberos,Core,3.4482758620689653,0.0,2,2
+openstack/openstack-ansible-os_trove,openstack/django-openstack-auth-kerberos,Non core,0.0,2.4691358024691357,2,2
+openstack/openstack-ansible-os_trove,openstack/horizon-cisco-ui,Core,6.349206349206349,1.2987012987012987,4,3
+openstack/openstack-ansible-os_trove,openstack/horizon-cisco-ui,Non core,0.0,2.5974025974025974,4,3
+openstack/openstack-ansible-os_trove,openstack/zuul-packaging,Core,5.555555555555555,2.7027027027027026,3,3
+openstack/openstack-ansible-os_trove,openstack/zuul-packaging,Non core,0.0,1.3513513513513513,3,3
+openstack/openstack-ansible-os_trove,openstack/networking-generic-switch-tempest-plugin,Core,1.8181818181818181,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/tripleo-incubator,Core,2.027027027027027,0.8888888888888888,3,4
+openstack/openstack-ansible-os_trove,openstack/tripleo-incubator,Non core,0.0,0.8888888888888888,3,4
+openstack/openstack-ansible-os_trove,openstack/ironic-webclient,Core,1.6666666666666667,0.0,1,3
+openstack/openstack-ansible-os_trove,openstack/ironic-webclient,Non core,0.0,3.1914893617021276,1,3
+openstack/openstack-ansible-os_trove,openstack/puppet-crane,Core,1.8181818181818181,1.4705882352941175,1,2
+openstack/openstack-ansible-os_trove,openstack/puppet-crane,Non core,0.0,1.4705882352941175,1,2
+openstack/openstack-ansible-os_trove,openstack/release-tools,Core,4.761904761904762,3.816793893129771,4,8
+openstack/openstack-ansible-os_trove,openstack/release-tools,Non core,0.0,2.2900763358778624,4,8
+openstack/openstack-ansible-os_trove,openstack/gnocchi,Core,3.389830508474576,1.06951871657754,5,9
+openstack/openstack-ansible-os_trove,openstack/gnocchi,Non core,0.847457627118644,3.7433155080213902,5,9
+openstack/openstack-ansible-os_trove,openstack/networking-ofagent,Core,1.5625,1.1235955056179776,1,3
+openstack/openstack-ansible-os_trove,openstack/networking-ofagent,Non core,0.0,2.247191011235955,1,3
+openstack/openstack-ansible-os_trove,openstack/python-neutron-pd-driver,Core,1.7857142857142856,1.4492753623188406,1,2
+openstack/openstack-ansible-os_trove,openstack/python-neutron-pd-driver,Non core,0.0,1.4492753623188406,1,2
+openstack/openstack-ansible-os_trove,openstack/charm-ceph,Core,1.36986301369863,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/charm-ceph,Non core,0.0,2.380952380952381,1,2
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_freezer,Core,3.7037037037037033,2.9850746268656714,2,2
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,2,2
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-pip_lock_down,Core,17.857142857142858,10.0,12,12
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-pip_lock_down,Non core,3.571428571428571,7.142857142857142,12,12
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-security,Core,15.18987341772152,12.173913043478262,14,21
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-security,Non core,2.5316455696202533,6.086956521739131,14,21
+openstack/openstack-ansible-os_trove,openstack/oslosphinx,Core,5.376344086021505,4.0,8,11
+openstack/openstack-ansible-os_trove,openstack/oslosphinx,Non core,3.225806451612903,4.8,8,11
+openstack/openstack-ansible-os_trove,openstack/python-gnocchiclient,Core,1.1904761904761905,1.0526315789473684,1,4
+openstack/openstack-ansible-os_trove,openstack/python-gnocchiclient,Non core,0.0,3.1578947368421053,1,4
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-cinder,Core,1.7857142857142856,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-cookiecutter,Core,3.6363636363636362,1.4285714285714286,2,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-glance,Core,5.454545454545454,1.4285714285714286,3,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,3,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-keystone,Core,5.454545454545454,0.0,3,0
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,3,0
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-mariadb,Core,7.2727272727272725,1.3888888888888888,4,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,4,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-rabbitmq,Core,1.8181818181818181,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-tripleo,Core,5.454545454545454,1.4084507042253522,3,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,3,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-ui,Core,3.508771929824561,2.8169014084507045,4,3
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-ui,Non core,3.508771929824561,1.4084507042253522,4,3
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-aodh,Core,5.357142857142857,1.4084507042253522,5,3
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-aodh,Non core,3.571428571428571,2.8169014084507045,5,3
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-barbican,Core,5.357142857142857,1.4084507042253522,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-barbican,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-ceilometer,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-ceilometer,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-cinder,Core,5.357142857142857,1.4084507042253522,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-cinder,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-cookiecutter,Core,6.779661016949152,2.5974025974025974,6,4
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-cookiecutter,Non core,3.389830508474576,2.5974025974025974,6,4
+openstack/openstack-ansible-os_trove,openstack/tripleo-ui,Core,4.819277108433735,4.032258064516129,6,12
+openstack/openstack-ansible-os_trove,openstack/tripleo-ui,Non core,2.4096385542168677,5.64516129032258,6,12
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-ovn,Core,5.357142857142857,1.4084507042253522,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-ovn,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-opendaylight,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-opendaylight,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-octavia,Core,5.263157894736842,1.4084507042253522,4,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-octavia,Non core,1.7543859649122806,1.4084507042253522,4,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-nova,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-nova,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/os-cloud-config,Core,3.9215686274509802,1.2903225806451613,4,5
+openstack/openstack-ansible-os_trove,openstack/os-cloud-config,Non core,0.0,1.935483870967742,4,5
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-zaqar,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-zaqar,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-tempest,Core,5.357142857142857,1.4285714285714286,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-tempest,Non core,3.571428571428571,1.4285714285714286,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-sahara,Core,5.357142857142857,1.4084507042253522,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-sahara,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-swift,Core,5.357142857142857,1.4084507042253522,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-swift,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-tacker,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-tacker,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,5.357142857142857,1.4084507042253522,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-rabbitmq,Core,5.357142857142857,1.4084507042253522,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-rabbitmq,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-qdrouterd,Core,3.7037037037037033,1.4705882352941175,2,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-panko,Core,5.357142857142857,1.4084507042253522,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-panko,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-heat,Core,5.357142857142857,1.4084507042253522,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-heat,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-haproxy,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-haproxy,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-gnocchi,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-gnocchi,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-glance,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-glance,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-designate,Core,5.357142857142857,1.3888888888888888,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-designate,Non core,3.571428571428571,0.0,5,1
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-neutron,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-neutron,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-mistral,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-mistral,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-memcached,Core,5.357142857142857,1.4084507042253522,5,3
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-memcached,Non core,3.571428571428571,2.8169014084507045,5,3
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-manila,Core,5.357142857142857,1.3888888888888888,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-manila,Non core,3.571428571428571,1.3888888888888888,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-ironic,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-ironic,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-keepalived,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-keepalived,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-horizon,Core,5.357142857142857,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/ansible-role-tripleo-horizon,Non core,3.571428571428571,1.4084507042253522,5,2
+openstack/openstack-ansible-os_trove,openstack/pylockfile,Core,3.278688524590164,1.2048192771084338,2,3
+openstack/openstack-ansible-os_trove,openstack/pylockfile,Non core,0.0,2.4096385542168677,2,3
+openstack/openstack-ansible-os_trove,openstack/xstatic-moment-timezone,Core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-dagre-d3,Core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/dragonflow,Core,4.848484848484849,2.9535864978902953,14,21
+openstack/openstack-ansible-os_trove,openstack/dragonflow,Non core,3.6363636363636362,5.9071729957805905,14,21
+openstack/openstack-ansible-os_trove,openstack/openstack,Core,1.7241379310344827,5.063291139240507,1,5
+openstack/openstack-ansible-os_trove,openstack/openstack,Non core,0.0,1.2658227848101267,1,5
+openstack/openstack-ansible-os_trove,openstack/charm-interface-pacemaker-remote,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_trove,openstack/charm-interface-pacemaker-remote,Non core,0.0,2.73972602739726,0,2
+openstack/openstack-ansible-os_trove,openstack/networking-onos,Core,4.411764705882353,1.8181818181818181,3,6
+openstack/openstack-ansible-os_trove,openstack/networking-onos,Non core,0.0,3.6363636363636362,3,6
+openstack/openstack-ansible-os_trove,openstack/solum-infra-guestagent,Core,1.6666666666666667,1.282051282051282,1,2
+openstack/openstack-ansible-os_trove,openstack/solum-infra-guestagent,Non core,0.0,1.282051282051282,1,2
+openstack/openstack-ansible-os_trove,openstack/openstack-ux,Core,1.7543859649122806,1.2048192771084338,1,2
+openstack/openstack-ansible-os_trove,openstack/openstack-ux,Non core,0.0,1.2048192771084338,1,2
+openstack/openstack-ansible-os_trove,openstack/mox3,Core,6.8493150684931505,5.208333333333334,8,8
+openstack/openstack-ansible-os_trove,openstack/mox3,Non core,4.10958904109589,3.125,8,8
+openstack/openstack-ansible-os_trove,openstack/charm-layer-ceph,Core,1.7857142857142856,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/charm-layer-ceph-base,Core,3.508771929824561,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-layer-ceph-base,Non core,0.0,1.4084507042253522,2,1
+openstack/openstack-ansible-os_trove,openstack/python-tricircleclient,Core,4.411764705882353,4.444444444444445,5,6
+openstack/openstack-ansible-os_trove,openstack/python-tricircleclient,Non core,2.941176470588235,2.2222222222222223,5,6
+openstack/openstack-ansible-os_trove,openstack/tricircle,Core,6.504065040650407,3.684210526315789,12,15
+openstack/openstack-ansible-os_trove,openstack/tricircle,Non core,3.2520325203252036,4.2105263157894735,12,15
+openstack/openstack-ansible-os_trove,openstack/swift-specs,Core,4.0,0.7751937984496124,3,2
+openstack/openstack-ansible-os_trove,openstack/swift-specs,Non core,0.0,0.7751937984496124,3,2
+openstack/openstack-ansible-os_trove,openstack/congress,Core,3.6269430051813467,1.550387596899225,14,19
+openstack/openstack-ansible-os_trove,openstack/congress,Non core,3.6269430051813467,5.813953488372093,14,19
+openstack/openstack-ansible-os_trove,openstack/congress-tempest-plugin,Core,5.970149253731343,4.878048780487805,7,10
+openstack/openstack-ansible-os_trove,openstack/congress-tempest-plugin,Non core,4.477611940298507,7.317073170731707,7,10
+openstack/openstack-ansible-os_trove,openstack/python-congressclient,Core,5.208333333333334,3.7383177570093453,10,12
+openstack/openstack-ansible-os_trove,openstack/python-congressclient,Non core,5.208333333333334,7.476635514018691,10,12
+openstack/openstack-ansible-os_trove,openstack/congress-specs,Core,4.705882352941177,0.9259259259259258,4,6
+openstack/openstack-ansible-os_trove,openstack/congress-specs,Non core,0.0,4.62962962962963,4,6
+openstack/openstack-ansible-os_trove,openstack/congress-dashboard,Core,4.285714285714286,3.3707865168539324,9,12
+openstack/openstack-ansible-os_trove,openstack/congress-dashboard,Non core,8.571428571428571,10.112359550561797,9,12
+openstack/openstack-ansible-os_trove,openstack/syntribos,Core,5.194805194805195,1.0204081632653061,8,4
+openstack/openstack-ansible-os_trove,openstack/syntribos,Non core,5.194805194805195,3.061224489795918,8,4
+openstack/openstack-ansible-os_trove,openstack/syntribos-payloads,Core,1.8181818181818181,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/syntribos-payloads,Non core,0.0,1.3888888888888888,1,1
+openstack/openstack-ansible-os_trove,openstack/syntribos-openstack-templates,Core,1.7543859649122806,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/syntribos-openstack-templates,Non core,0.0,1.3513513513513513,1,1
+openstack/openstack-ansible-os_trove,openstack/i18n-specs,Core,3.6363636363636362,1.3888888888888888,2,2
+openstack/openstack-ansible-os_trove,openstack/i18n-specs,Non core,0.0,1.3888888888888888,2,2
+openstack/openstack-ansible-os_trove,openstack/tempest-plugin-cookiecutter,Core,3.508771929824561,1.2987012987012987,2,2
+openstack/openstack-ansible-os_trove,openstack/tempest-plugin-cookiecutter,Non core,0.0,1.2987012987012987,2,2
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-cookiecutter,Core,3.571428571428571,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/devstack-plugin-cookiecutter,Non core,0.0,1.4084507042253522,2,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-graphlib,Core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-repo_build,Core,17.857142857142858,18.01801801801802,29,39
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-repo_build,Non core,16.666666666666664,17.117117117117118,29,39
+openstack/openstack-ansible-os_trove,openstack/xstatic-bootstrap-datepicker,Core,1.639344262295082,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-bootstrap-datepicker,Non core,0.0,2.4691358024691357,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-hogan,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-hogan,Non core,0.0,1.4084507042253522,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-jquery.quicksearch,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-jquery.quicksearch,Non core,0.0,1.4084507042253522,1,1
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_molteniron,Core,18.64406779661017,20.0,19,27
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_molteniron,Non core,13.559322033898304,18.571428571428573,19,27
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-lrdragndrop,Core,1.6666666666666667,2.631578947368421,1,4
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-lrdragndrop,Non core,0.0,2.631578947368421,1,4
+openstack/openstack-ansible-os_trove,openstack/faafo,Core,6.557377049180328,1.2345679012345678,4,3
+openstack/openstack-ansible-os_trove,openstack/faafo,Non core,0.0,2.4691358024691357,4,3
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-bootstrap,Core,1.5873015873015872,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-bootstrap,Non core,0.0,2.4096385542168677,1,2
+openstack/openstack-ansible-os_trove,openstack/networking-calico,Core,10.256410256410255,3.4482758620689653,10,8
+openstack/openstack-ansible-os_trove,openstack/networking-calico,Non core,2.564102564102564,3.4482758620689653,10,8
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-gettext,Core,1.6666666666666667,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-gettext,Non core,0.0,2.564102564102564,1,2
+openstack/openstack-ansible-os_trove,openstack/shotgun,Core,1.36986301369863,0.7299270072992701,1,3
+openstack/openstack-ansible-os_trove,openstack/shotgun,Non core,0.0,1.4598540145985401,1,3
+openstack/openstack-ansible-os_trove,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-aioeventlet,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/fuel-devops,Core,2.6785714285714284,0.9950248756218906,4,6
+openstack/openstack-ansible-os_trove,openstack/fuel-devops,Non core,0.8928571428571428,1.9900497512437811,4,6
+openstack/openstack-ansible-os_trove,openstack/fuel-plugin-murano,Core,3.076923076923077,1.0752688172043012,2,3
+openstack/openstack-ansible-os_trove,openstack/fuel-plugin-murano,Non core,0.0,2.1505376344086025,2,3
+openstack/openstack-ansible-os_trove,openstack/fuel-web,Core,1.5444015444015444,0.6681514476614699,6,7
+openstack/openstack-ansible-os_trove,openstack/fuel-web,Non core,0.7722007722007722,0.8908685968819599,6,7
+openstack/openstack-ansible-os_trove,openstack/fuel-plugins,Core,4.166666666666666,0.6097560975609756,4,3
+openstack/openstack-ansible-os_trove,openstack/fuel-plugins,Non core,0.0,1.2195121951219512,4,3
+openstack/openstack-ansible-os_trove,openstack/fuel-virtualbox,Core,3.225806451612903,1.1627906976744187,2,2
+openstack/openstack-ansible-os_trove,openstack/fuel-virtualbox,Non core,0.0,1.1627906976744187,2,2
+openstack/openstack-ansible-os_trove,openstack/fuel-ostf,Core,2.7027027027027026,0.7299270072992701,4,4
+openstack/openstack-ansible-os_trove,openstack/fuel-ostf,Non core,0.0,0.7299270072992701,4,4
+openstack/openstack-ansible-os_trove,openstack/fuel-qa,Core,1.7142857142857144,0.32679738562091504,3,5
+openstack/openstack-ansible-os_trove,openstack/fuel-qa,Non core,0.0,1.3071895424836601,3,5
+openstack/openstack-ansible-os_trove,openstack/fuel-specs,Core,1.948051948051948,0.5555555555555556,3,4
+openstack/openstack-ansible-os_trove,openstack/fuel-specs,Non core,0.0,0.5555555555555556,3,4
+openstack/openstack-ansible-os_trove,openstack/fuel-nailgun-extension-cluster-upgrade,Core,3.1746031746031744,1.1627906976744187,2,2
+openstack/openstack-ansible-os_trove,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,1.1627906976744187,2,2
+openstack/openstack-ansible-os_trove,openstack/fuel-nailgun-agent,Core,1.098901098901099,0.625,1,3
+openstack/openstack-ansible-os_trove,openstack/fuel-nailgun-agent,Non core,0.0,1.25,1,3
+openstack/openstack-ansible-os_trove,openstack/fuel-mirror,Core,2.3529411764705883,0.6060606060606061,2,3
+openstack/openstack-ansible-os_trove,openstack/fuel-mirror,Non core,0.0,1.2121212121212122,2,3
+openstack/openstack-ansible-os_trove,openstack/fuel-menu,Core,4.705882352941177,0.5649717514124294,4,3
+openstack/openstack-ansible-os_trove,openstack/fuel-menu,Non core,0.0,1.1299435028248588,4,3
+openstack/openstack-ansible-os_trove,openstack/fuel-main,Core,1.0471204188481675,0.6493506493506493,2,6
+openstack/openstack-ansible-os_trove,openstack/fuel-main,Non core,0.0,1.2987012987012987,2,6
+openstack/openstack-ansible-os_trove,openstack/fuel-ui,Core,2.127659574468085,0.6578947368421052,2,3
+openstack/openstack-ansible-os_trove,openstack/fuel-ui,Non core,0.0,1.3157894736842104,2,3
+openstack/openstack-ansible-os_trove,openstack/fuel-library,Core,2.4193548387096775,0.6036217303822937,6,8
+openstack/openstack-ansible-os_trove,openstack/fuel-library,Non core,0.0,1.0060362173038229,6,8
+openstack/openstack-ansible-os_trove,openstack/fuel-dev-tools,Core,4.615384615384616,1.1764705882352942,3,3
+openstack/openstack-ansible-os_trove,openstack/fuel-dev-tools,Non core,0.0,2.3529411764705883,3,3
+openstack/openstack-ansible-os_trove,openstack/fuel-stats,Core,5.633802816901409,1.8181818181818181,4,4
+openstack/openstack-ansible-os_trove,openstack/fuel-stats,Non core,0.0,1.8181818181818181,4,4
+openstack/openstack-ansible-os_trove,openstack/fuel-nailgun-extension-converted-serializers,Core,1.7857142857142856,1.4492753623188406,1,2
+openstack/openstack-ansible-os_trove,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,1.4492753623188406,1,2
+openstack/openstack-ansible-os_trove,openstack/fuel-nailgun-extension-iac,Core,1.7241379310344827,1.4084507042253522,1,2
+openstack/openstack-ansible-os_trove,openstack/fuel-nailgun-extension-iac,Non core,0.0,1.4084507042253522,1,2
+openstack/openstack-ansible-os_trove,openstack/fuel-plugin-murano-tests,Core,4.761904761904762,1.0752688172043012,3,3
+openstack/openstack-ansible-os_trove,openstack/fuel-plugin-murano-tests,Non core,0.0,2.1505376344086025,3,3
+openstack/openstack-ansible-os_trove,openstack/fuel-astute,Core,1.694915254237288,0.4629629629629629,2,3
+openstack/openstack-ansible-os_trove,openstack/fuel-astute,Non core,0.0,0.9259259259259258,2,3
+openstack/openstack-ansible-os_trove,openstack/fuel-docs,Core,0.6802721088435374,0.7978723404255319,3,5
+openstack/openstack-ansible-os_trove,openstack/fuel-docs,Non core,1.3605442176870748,0.5319148936170213,3,5
+openstack/openstack-ansible-os_trove,openstack/fuel-agent,Core,4.201680672268908,0.4716981132075472,5,3
+openstack/openstack-ansible-os_trove,openstack/fuel-agent,Non core,0.0,0.9433962264150944,5,3
+openstack/openstack-ansible-os_trove,openstack/fuel-octane,Core,4.938271604938271,0.8547008547008548,5,5
+openstack/openstack-ansible-os_trove,openstack/fuel-octane,Non core,1.2345679012345678,3.418803418803419,5,5
+openstack/openstack-ansible-os_trove,openstack/tuning-box,Core,3.4482758620689653,2.2222222222222223,2,3
+openstack/openstack-ansible-os_trove,openstack/tuning-box,Non core,0.0,1.1111111111111112,2,3
+openstack/openstack-ansible-os_trove,openstack/python-fuelclient,Core,1.639344262295082,0.9615384615384616,2,5
+openstack/openstack-ansible-os_trove,openstack/python-fuelclient,Non core,0.0,1.4423076923076923,2,5
+openstack/openstack-ansible-os_trove,openstack/neutron-interconnection,Core,0.0,1.2987012987012987,0,1
+openstack/openstack-ansible-os_trove,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/openstack-chef-repo,Core,2.1739130434782608,1.694915254237288,4,3
+openstack/openstack-ansible-os_trove,openstack/openstack-chef-repo,Non core,2.1739130434782608,0.847457627118644,4,3
+openstack/openstack-ansible-os_trove,openstack/os-acc,Core,0.0,2.4096385542168677,0,2
+openstack/openstack-ansible-os_trove,openstack/os-acc,Non core,0.0,0.0,0,2
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_zaqar,Core,21.53846153846154,21.25,26,35
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_zaqar,Non core,18.461538461538463,22.5,26,35
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_watcher,Core,24.137931034482758,24.324324324324326,28,33
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_watcher,Non core,24.137931034482758,20.27027027027027,28,33
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_searchlight,Core,17.24137931034483,17.56756756756757,20,24
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_searchlight,Non core,17.24137931034483,14.864864864864865,20,24
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-vis,Core,1.8181818181818181,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-font-awesome,Core,1.6666666666666667,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-font-awesome,Non core,0.0,2.564102564102564,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-jasmine,Core,1.5625,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-jasmine,Non core,0.0,2.5,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-notify,Core,1.8181818181818181,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-material,Core,1.7543859649122806,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/tempest-tripleo-ui,Core,1.7543859649122806,1.282051282051282,1,1
+openstack/openstack-ansible-os_trove,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/docs-specs,Core,3.0927835051546393,3.065134099616858,5,12
+openstack/openstack-ansible-os_trove,openstack/docs-specs,Non core,2.0618556701030926,1.532567049808429,5,12
+openstack/openstack-ansible-os_trove,openstack/release-schedule-generator,Core,1.7543859649122806,1.4084507042253522,1,2
+openstack/openstack-ansible-os_trove,openstack/release-schedule-generator,Non core,0.0,1.4084507042253522,1,2
+openstack/openstack-ansible-os_trove,openstack-infra/opendev-website,Core,1.8181818181818181,1.3888888888888888,1,1
+openstack/openstack-ansible-os_trove,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/castellan-ui,Core,5.263157894736842,2.380952380952381,3,3
+openstack/openstack-ansible-os_trove,openstack/castellan-ui,Non core,0.0,1.1904761904761905,3,3
+openstack/openstack-ansible-os_trove,openstack-attic/compute-api,Core,2.631578947368421,2.0,2,3
+openstack/openstack-ansible-os_trove,openstack-attic/compute-api,Non core,0.0,1.0,2,3
+openstack/openstack-ansible-os_trove,openstack/charm-neutron-api-odl,Core,3.1746031746031744,1.3157894736842104,2,2
+openstack/openstack-ansible-os_trove,openstack/charm-neutron-api-odl,Non core,0.0,1.3157894736842104,2,2
+openstack/openstack-ansible-os_trove,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/charm-murano,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/charm-murano,Non core,0.0,1.4492753623188406,1,1
+openstack/openstack-ansible-os_trove,openstack/charm-openvswitch-odl,Core,1.5625,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/charm-openvswitch-odl,Non core,0.0,1.3333333333333335,1,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-odl-controller-api,Core,3.571428571428571,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-interface-odl-controller-api,Non core,0.0,1.4492753623188406,2,1
+openstack/openstack-ansible-os_trove,openstack/charm-glusterfs,Core,1.7857142857142856,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/charm-glusterfs,Non core,0.0,1.3513513513513513,1,1
+openstack/openstack-ansible-os_trove,openstack/charm-trove,Core,1.6666666666666667,0.0,2,2
+openstack/openstack-ansible-os_trove,openstack/charm-trove,Non core,1.6666666666666667,2.7777777777777777,2,2
+openstack/openstack-ansible-os_trove,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-positional,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-requests-unixsocket,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-traceback2,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ryu,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-linecache2,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-gabbi,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-cotyledon,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-migrate,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/fuxi,Core,3.79746835443038,1.8518518518518516,3,5
+openstack/openstack-ansible-os_trove,openstack/fuxi,Non core,0.0,2.7777777777777777,3,5
+openstack/openstack-ansible-os_trove,openstack/xstatic-filesaver,Core,1.8181818181818181,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-uuid,Core,1.8181818181818181,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-os_trove,openstack/bandit,Core,5.660377358490567,2.2900763358778624,8,6
+openstack/openstack-ansible-os_trove,openstack/bandit,Non core,1.8867924528301887,2.2900763358778624,8,6
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-smart-table,Core,1.7543859649122806,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-angular-smart-table,Non core,0.0,1.36986301369863,1,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-bootswatch,Core,1.7241379310344827,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-bootswatch,Non core,0.0,2.564102564102564,1,2
+openstack/openstack-ansible-os_trove,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-msgpack-python,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/xstatic-d3,Core,1.694915254237288,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/xstatic-d3,Non core,0.0,2.564102564102564,1,2
+openstack/openstack-ansible-os_trove,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pymemcache,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-novnc,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/instack,Core,7.042253521126761,2.0408163265306123,6,5
+openstack/openstack-ansible-os_trove,openstack/instack,Non core,1.4084507042253522,3.061224489795918,6,5
+openstack/openstack-ansible-os_trove,openstack/deb-python-pysaml2,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_trove,openstack/deb-python-pysaml2,Non core,0.0,2.898550724637681,0,2
+openstack/openstack-ansible-os_trove,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-trollius,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-autobahn,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pyldap,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/astara,Core,3.3707865168539324,1.7857142857142856,3,4
+openstack/openstack-ansible-os_trove,openstack/astara,Non core,0.0,1.7857142857142856,3,4
+openstack/openstack-ansible-os_trove,openstack/astara-appliance,Core,1.4705882352941175,1.1494252873563218,1,4
+openstack/openstack-ansible-os_trove,openstack/astara-appliance,Non core,0.0,3.4482758620689653,1,4
+openstack/openstack-ansible-os_trove,openstack/astara-horizon,Core,1.639344262295082,1.2345679012345678,1,3
+openstack/openstack-ansible-os_trove,openstack/astara-horizon,Non core,0.0,2.4691358024691357,1,3
+openstack/openstack-ansible-os_trove,openstack/astara-neutron,Core,1.5384615384615385,1.2195121951219512,1,3
+openstack/openstack-ansible-os_trove,openstack/astara-neutron,Non core,0.0,2.4390243902439024,1,3
+openstack/openstack-ansible-os_trove,openstack/anchor,Core,0.0,0.9345794392523363,0,3
+openstack/openstack-ansible-os_trove,openstack/anchor,Non core,0.0,1.8691588785046727,0,3
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/fuxi-golang,Core,1.8518518518518516,1.4285714285714286,1,1
+openstack/openstack-ansible-os_trove,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/fuxi-kubernetes,Core,1.8181818181818181,1.3513513513513513,1,2
+openstack/openstack-ansible-os_trove,openstack/fuxi-kubernetes,Non core,0.0,1.3513513513513513,1,2
+openstack/openstack-ansible-os_trove,openstack-infra/puppet-odsreg,Core,3.4482758620689653,3.9473684210526314,2,5
+openstack/openstack-ansible-os_trove,openstack-infra/puppet-odsreg,Non core,0.0,2.631578947368421,2,5
+openstack/openstack-ansible-os_trove,openstack-infra/puppet-docker_registry,Core,1.8518518518518516,1.4925373134328357,1,1
+openstack/openstack-ansible-os_trove,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/releasestatus,Core,1.7857142857142856,1.36986301369863,1,2
+openstack/openstack-ansible-os_trove,openstack/releasestatus,Non core,0.0,1.36986301369863,1,2
+openstack/openstack-ansible-os_trove,openstack-infra/vinz-webclient,Core,1.8518518518518516,1.4925373134328357,1,1
+openstack/openstack-ansible-os_trove,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/activity-board,Core,1.4492753623188406,0.8849557522123894,1,2
+openstack/openstack-ansible-os_trove,openstack/activity-board,Non core,0.0,0.8849557522123894,1,2
+openstack/openstack-ansible-os_trove,openstack-infra/beaker-localhost,Core,1.8518518518518516,2.9850746268656714,1,2
+openstack/openstack-ansible-os_trove,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack-infra/beaker-nodepool,Core,1.8518518518518516,2.9850746268656714,1,2
+openstack/openstack-ansible-os_trove,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/rst2bash,Core,3.571428571428571,1.3513513513513513,2,3
+openstack/openstack-ansible-os_trove,openstack/rst2bash,Non core,0.0,2.7027027027027026,2,3
+openstack/openstack-ansible-os_trove,openstack/kolla-kubernetes,Core,3.6363636363636362,1.1111111111111112,10,7
+openstack/openstack-ansible-os_trove,openstack/kolla-kubernetes,Non core,5.454545454545454,2.7777777777777777,10,7
+openstack/openstack-ansible-os_trove,openstack/cue-dashboard,Core,3.1746031746031744,1.3333333333333335,2,3
+openstack/openstack-ansible-os_trove,openstack/cue-dashboard,Non core,0.0,2.666666666666667,2,3
+openstack/openstack-ansible-os_trove,openstack/python-cueclient,Core,3.0303030303030303,1.3333333333333335,2,3
+openstack/openstack-ansible-os_trove,openstack/python-cueclient,Non core,0.0,2.666666666666667,2,3
+openstack/openstack-ansible-os_trove,openstack/cue,Core,2.380952380952381,1.0101010101010102,2,3
+openstack/openstack-ansible-os_trove,openstack/cue,Non core,0.0,2.0202020202020203,2,3
+openstack/openstack-ansible-os_trove,openstack/app-catalog,Core,2.6548672566371683,1.5625,3,4
+openstack/openstack-ansible-os_trove,openstack/app-catalog,Non core,0.0,1.5625,3,4
+openstack/openstack-ansible-os_trove,openstack-attic/identity-api,Core,2.1052631578947367,1.3605442176870748,2,3
+openstack/openstack-ansible-os_trove,openstack-attic/identity-api,Non core,0.0,0.6802721088435374,2,3
+openstack/openstack-ansible-os_trove,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-fixtures,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/python-magnetodbclient,Core,1.7241379310344827,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/python-magnetodbclient,Non core,0.0,1.3157894736842104,1,1
+openstack/openstack-ansible-os_trove,openstack/app-catalog-ui,Core,3.278688524590164,1.2345679012345678,2,3
+openstack/openstack-ansible-os_trove,openstack/app-catalog-ui,Non core,0.0,2.4691358024691357,2,3
+openstack/openstack-ansible-os_trove,openstack/salt-formula-kubernetes,Core,1.694915254237288,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-kubernetes,Non core,0.0,1.36986301369863,1,1
+openstack/openstack-ansible-os_trove,openstack/app-catalog-common,Core,0.0,1.4705882352941175,0,2
+openstack/openstack-ansible-os_trove,openstack/app-catalog-common,Non core,0.0,1.4705882352941175,0,2
+openstack/openstack-ansible-os_trove,openstack/python-appcatalogclient,Core,0.0,2.857142857142857,0,3
+openstack/openstack-ansible-os_trove,openstack/python-appcatalogclient,Non core,0.0,1.4285714285714286,0,3
+openstack/openstack-ansible-os_trove,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-nova,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-kazoo,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-congressclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-congress,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-net-config,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ironic,Non core,0.0,1.4084507042253522,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-swauth,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-api-ref,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-designate,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-swift,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-manila-ui,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-barbican,Non core,0.0,1.4084507042253522,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-cinder,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-magnum,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-trove,Non core,0.0,1.3888888888888888,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-openstack-pkg-tools,Core,1.694915254237288,2.7027027027027026,1,3
+openstack/openstack-ansible-os_trove,openstack/deb-openstack-pkg-tools,Non core,0.0,1.3513513513513513,1,3
+openstack/openstack-ansible-os_trove,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-swiftclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-alembic,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-cinderclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-nec,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-neutron-taas,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-mlnx,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-openstack-meta-packages,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-odl,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-nodepool,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-cisco,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-midonet,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-arista,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-hyperv,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-rtslib-fb,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-murano,Non core,0.0,1.3888888888888888,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-semantic-version,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ldappool,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-zaqar-ui,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-zaqar,Non core,0.0,1.3888888888888888,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-watcher,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-testr,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-win,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pycadf,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pyghmi,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-reno,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-refresh-config,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-vif,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pyeclib,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-quantumclient,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-requestsexceptions,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pbr,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-requests-mock,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-saharaclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-scciclient,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-seamicroclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-auto-backports,Non core,0.0,1.4084507042253522,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-senlinclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-taskflow,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-testtools,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-tooz,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-shotgun,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-tackerclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-tosca-parser,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-troveclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-tuskarclient,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-watcherclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-wsme,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-bootswatch,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-angular-mock,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-d3,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-hogan,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-font-awesome,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jasmine,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-magic-search,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-mdi,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-objectpath,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-qunit,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-rickshaw,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-spin,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-tv4,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-yaql,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-zaqarclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-rally,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-sahara,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-sahara-dashboard,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-senlin,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-senlin-dashboard,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-stevedore,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-swift-bench,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-swift-plugin-s3,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-trove-dashboard,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-tempest,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-osprofiler,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.vmware,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.utils,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.rootwrap,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.service,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.privsep,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.versionedobjects,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslotest,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.serialization,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.reports,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.policy,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.middleware,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.messaging,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.log,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-aodhclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-automaton,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-barbicanclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-bashate,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-castellan,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ceilometerclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ceilometermiddleware,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-cliff,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-cursive,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-debtcollector,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-designateclient,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-dib-utils,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-diskimage-builder,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-doc8,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-openstack-auth,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-fuelclient,Non core,0.0,1.3888888888888888,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-dogpile.cache,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-futurist,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-glanceclient,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-glance-store,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-hacking,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-heatclient,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ironicclient,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ironic-inspector-client,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ironic-lib,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-k8sclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-keystoneauth1,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-keystoneclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-keystonemiddleware,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-magnumclient,Non core,0.0,1.4084507042253522,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-manilaclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-microversion-parse,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-mistralclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-monascaclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-mox3,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-muranoclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-neutronclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-neutron-lib,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-novaclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-openstackclient,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-openstackdocstheme,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-openstacksdk,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-apply-config,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-brick,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-osc-lib,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-client-config,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-collect-config,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.cache,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.db,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.concurrency,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.config,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.i18n,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oslo.context,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-openstack-nose,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-openstack-doc-tools,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-openstack-trove,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-oslosphinx,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-aodh,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-bandit,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ceilometer,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ceilometermiddleware,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-designate-dashboard,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-git-review,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-glance,Non core,0.0,1.3888888888888888,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-glare,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-heat,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-heat-cfntools,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-horizon,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ironic-inspector,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-ironic-ui,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-keystone,Non core,0.0,1.4084507042253522,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-liberasurecode,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-manila,Non core,0.0,1.4285714285714286,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-mistral,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-mistral,Non core,0.0,1.3888888888888888,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-murano-agent,Non core,0.0,1.3888888888888888,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-murano-dashboard,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-l2gw,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-networking-ovn,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-neutron,Non core,0.0,1.4084507042253522,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-neutron-fwaas,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-neutron-vpnaas,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-neutron-lbaas,Non core,0.0,1.3888888888888888,0,1
+openstack/openstack-ansible-os_trove,openstack/installguide-cookiecutter,Core,3.1746031746031744,2.631578947368421,2,5
+openstack/openstack-ansible-os_trove,openstack/installguide-cookiecutter,Non core,0.0,3.9473684210526314,2,5
+openstack/openstack-ansible-os_trove,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-gnocchi,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-eventlet,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pymysql,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-opencontrail,Core,2.898550724637681,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-opencontrail,Non core,0.0,1.282051282051282,2,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-neutron,Core,1.4492753623188406,1.25,1,2
+openstack/openstack-ansible-os_trove,openstack/salt-formula-neutron,Non core,0.0,1.25,1,2
+openstack/openstack-ansible-os_trove,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-swift,Non core,0.0,1.4084507042253522,0,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-nova,Core,1.3333333333333335,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-nova,Non core,0.0,1.2345679012345678,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-keystone,Core,1.3888888888888888,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-keystone,Non core,0.0,1.2658227848101267,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-horizon,Core,1.4925373134328357,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-horizon,Non core,0.0,1.3157894736842104,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-heat,Core,1.3513513513513513,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-heat,Non core,0.0,1.2987012987012987,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-glance,Core,1.36986301369863,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/salt-formula-glance,Non core,0.0,2.564102564102564,1,2
+openstack/openstack-ansible-os_trove,openstack/salt-formula-cinder,Core,1.3888888888888888,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-cinder,Non core,0.0,1.3157894736842104,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-ceilometer,Core,1.5625,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-ceilometer,Non core,0.0,1.282051282051282,1,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pygit2,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-libisal,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xvfbwrapper,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-testresources,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-compressor,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-sqlalchemy-utils,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pykmip,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-coffin,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-txaio,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-hplefthandclient,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-overextends,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pytimeparse,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-nose-timer,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-retrying,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-discover-runner,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-lesscpy,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-happybase,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-extras,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-functools32,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pydot-ng,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-jsonschema,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-kafka,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-rcssmin,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-nose-parameterized,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pika-pool,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-rfc3986,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-httpretty,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pint,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-pyscss,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-falcon,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-subunit,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-formtools,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-nose-exclude,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pydotplus,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pager,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-proliantutils,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-gnocchiclient,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-babel,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-requests-kerberos,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-colander,Non core,0.0,1.4492753623188406,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-dcos,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-bootstrap-form,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-term.js,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-toml,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-semver,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-websocket-client,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-fasteners,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-jingo,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pecan,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-frozendict,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-os_trove,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-wrapt,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-funcsigs,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-crank,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pyvmomi,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-wsgi-intercept,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-os-cloud-config,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-weakrefmethod,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-steadymark,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-warlock,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-couleur,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-json-patch,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-jsonrpclib,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-multi-key-dict,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-memcache,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pulp,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-fonts-roboto-fontface,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-websockify,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-daemonize,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-pyngus,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-editor,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-ddt,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-monotonic,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-rjsmin,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-jsonpath-rw,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-django-appconf,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-oauth2client,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-json-pointer,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack-attic/akanda,Core,0.0,0.0,0,2
+openstack/openstack-ansible-os_trove,openstack-attic/akanda,Non core,0.0,2.631578947368421,0,2
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-smart-table,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-requestbuilder,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-nosehtmloutput,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-csscompressor,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-croniter,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-python-concurrent.futures,Non core,0.0,1.4705882352941175,0,1
+openstack/openstack-ansible-os_trove,openstack/openstack-salt,Core,1.7241379310344827,0.0,1,2
+openstack/openstack-ansible-os_trove,openstack/openstack-salt,Non core,0.0,2.8169014084507045,1,2
+openstack/openstack-ansible-os_trove,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack/deb-spice-html5,Non core,0.0,1.4925373134328357,0,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-midonet,Core,1.8518518518518516,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack/salt-formula-midonet,Non core,0.0,1.4925373134328357,1,1
+openstack/openstack-ansible-os_trove,openstack/magnetodb-specs,Core,3.125,0.0,2,2
+openstack/openstack-ansible-os_trove,openstack/magnetodb-specs,Non core,0.0,2.4096385542168677,2,2
+openstack/openstack-ansible-os_trove,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack-attic/akanda-appliance-builder,Non core,0.0,1.3888888888888888,0,1
+openstack/openstack-ansible-os_trove,openstack-attic/oslo.version,Core,3.278688524590164,1.1904761904761905,2,2
+openstack/openstack-ansible-os_trove,openstack-attic/oslo.version,Non core,0.0,1.1904761904761905,2,2
+openstack/openstack-ansible-os_trove,openstack-attic/image-api,Core,3.1746031746031744,1.1904761904761905,2,2
+openstack/openstack-ansible-os_trove,openstack-attic/image-api,Non core,0.0,1.1904761904761905,2,2
+openstack/openstack-ansible-os_trove,openstack-attic/object-api,Core,2.73972602739726,1.0638297872340425,2,2
+openstack/openstack-ansible-os_trove,openstack-attic/object-api,Non core,0.0,1.0638297872340425,2,2
+openstack/openstack-ansible-os_trove,openstack-attic/volume-api,Core,1.4705882352941175,1.1627906976744187,1,2
+openstack/openstack-ansible-os_trove,openstack-attic/volume-api,Non core,0.0,1.1627906976744187,1,2
+openstack/openstack-ansible-os_trove,openstack/magnetodb,Core,2.666666666666667,0.0,2,1
+openstack/openstack-ansible-os_trove,openstack/magnetodb,Non core,0.0,0.9708737864077669,2,1
+openstack/openstack-ansible-os_trove,openstack/openstack-nose,Core,0.0,1.36986301369863,0,2
+openstack/openstack-ansible-os_trove,openstack/openstack-nose,Non core,0.0,1.36986301369863,0,2
+openstack/openstack-ansible-os_trove,openstack-attic/netconn-api,Core,2.5,0.8695652173913043,2,2
+openstack/openstack-ansible-os_trove,openstack-attic/netconn-api,Non core,0.0,0.8695652173913043,2,2
+openstack/openstack-ansible-os_trove,openstack-attic/python-melangeclient,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack-attic/python-melangeclient,Non core,0.0,1.4285714285714286,1,1
+openstack/openstack-ansible-os_trove,openstack-attic/melange,Core,1.4285714285714286,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack-attic/melange,Non core,0.0,1.25,1,1
+openstack/openstack-ansible-os_trove,openstack-attic/openstack-qa,Core,1.7543859649122806,0.0,1,1
+openstack/openstack-ansible-os_trove,openstack-attic/openstack-qa,Non core,0.0,1.4285714285714286,1,1
+openstack/openstack-ansible-os_trove,openstack-attic/database-api,Core,1.5384615384615385,1.2195121951219512,1,2
+openstack/openstack-ansible-os_trove,openstack-attic/database-api,Non core,0.0,1.2195121951219512,1,2
+openstack/openstack-ansible-os_trove,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/openstack-ansible-os_trove,openstack-attic/openstack-security-notes,Non core,0.0,0.7352941176470588,0,1

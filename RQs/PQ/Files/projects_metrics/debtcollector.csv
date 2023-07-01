@@ -1,0 +1,1625 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/debtcollector,openstack/vitrage-dashboard,Core,6.9306930693069315,3.7735849056603774,12,8
+openstack/debtcollector,openstack/vitrage-dashboard,Non core,4.9504950495049505,3.7735849056603774,12,8
+openstack/debtcollector,openstack/oslotest,Core,15.853658536585366,16.161616161616163,25,35
+openstack/debtcollector,openstack/oslotest,Non core,14.634146341463413,19.19191919191919,25,35
+openstack/debtcollector,openstack/kayobe-config,Core,3.6363636363636362,1.9230769230769231,2,1
+openstack/debtcollector,openstack/kayobe-config,Non core,0.0,0.0,2,1
+openstack/debtcollector,openstack/compute-hyperv,Core,8.571428571428571,5.194805194805195,10,9
+openstack/debtcollector,openstack/compute-hyperv,Non core,5.714285714285714,6.493506493506493,10,9
+openstack/debtcollector,openstack/python-cloudkittyclient,Core,8.51063829787234,4.761904761904762,14,11
+openstack/debtcollector,openstack/python-cloudkittyclient,Non core,6.382978723404255,5.714285714285714,14,11
+openstack/debtcollector,openstack/charm-interface-keystone,Core,5.357142857142857,1.7241379310344827,5,4
+openstack/debtcollector,openstack/charm-interface-keystone,Non core,3.571428571428571,5.172413793103448,5,4
+openstack/debtcollector,openstack/cloudkitty-dashboard,Core,10.126582278481013,3.6363636363636362,14,12
+openstack/debtcollector,openstack/cloudkitty-dashboard,Non core,7.59493670886076,7.2727272727272725,14,12
+openstack/debtcollector,openstack/networking-hyperv,Core,9.523809523809524,4.878048780487805,15,15
+openstack/debtcollector,openstack/networking-hyperv,Non core,8.333333333333332,13.414634146341465,15,15
+openstack/debtcollector,openstack/i18n,Core,10.0,4.672897196261682,9,9
+openstack/debtcollector,openstack/i18n,Non core,1.25,3.7383177570093453,9,9
+openstack/debtcollector,openstack/sahara-tests,Core,6.329113924050633,4.854368932038835,6,9
+openstack/debtcollector,openstack/sahara-tests,Non core,1.2658227848101267,3.8834951456310676,6,9
+openstack/debtcollector,openstack/python-zunclient,Core,6.140350877192982,2.8368794326241136,16,8
+openstack/debtcollector,openstack/python-zunclient,Non core,7.894736842105263,2.8368794326241136,16,8
+openstack/debtcollector,openstack/sahara-plugin-cdh,Core,7.4074074074074066,6.666666666666667,5,7
+openstack/debtcollector,openstack/sahara-plugin-cdh,Non core,1.8518518518518516,5.0,5,7
+openstack/debtcollector,openstack/monasca-ui,Core,7.142857142857142,1.8292682926829267,11,12
+openstack/debtcollector,openstack/monasca-ui,Non core,2.6785714285714284,5.487804878048781,11,12
+openstack/debtcollector,openstack/python-adjutantclient,Core,9.433962264150944,5.555555555555555,5,4
+openstack/debtcollector,openstack/python-adjutantclient,Non core,0.0,1.8518518518518516,5,4
+openstack/debtcollector,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/ansible-role-lunasa-hsm,Core,2.127659574468085,2.083333333333333,1,2
+openstack/debtcollector,openstack/ansible-role-lunasa-hsm,Non core,0.0,2.083333333333333,1,2
+openstack/debtcollector,openstack/monasca-thresh,Core,4.3478260869565215,1.1627906976744187,5,5
+openstack/debtcollector,openstack/monasca-thresh,Non core,2.898550724637681,4.651162790697675,5,5
+openstack/debtcollector,openstack/heat-specs,Core,3.571428571428571,4.651162790697675,5,14
+openstack/debtcollector,openstack/heat-specs,Non core,0.8928571428571428,1.8604651162790697,5,14
+openstack/debtcollector,openstack/watcher-dashboard,Core,9.523809523809524,2.912621359223301,12,9
+openstack/debtcollector,openstack/watcher-dashboard,Non core,4.761904761904762,5.825242718446602,12,9
+openstack/debtcollector,openstack/sahara-plugin-ambari,Core,7.6923076923076925,5.454545454545454,6,5
+openstack/debtcollector,openstack/sahara-plugin-ambari,Non core,3.8461538461538463,3.6363636363636362,6,5
+openstack/debtcollector,openstack/sahara-plugin-mapr,Core,7.6923076923076925,6.896551724137931,5,7
+openstack/debtcollector,openstack/sahara-plugin-mapr,Non core,1.9230769230769231,5.172413793103448,5,7
+openstack/debtcollector,openstack/sahara-plugin-spark,Core,7.8431372549019605,5.88235294117647,5,4
+openstack/debtcollector,openstack/sahara-plugin-spark,Non core,1.9607843137254901,1.9607843137254901,5,4
+openstack/debtcollector,openstack/sahara-plugin-storm,Core,7.8431372549019605,5.769230769230769,5,4
+openstack/debtcollector,openstack/sahara-plugin-storm,Non core,1.9607843137254901,1.9230769230769231,5,4
+openstack/debtcollector,openstack/sahara-plugin-vanilla,Core,7.8431372549019605,5.555555555555555,5,4
+openstack/debtcollector,openstack/sahara-plugin-vanilla,Non core,1.9607843137254901,1.8518518518518516,5,4
+openstack/debtcollector,openstack/sahara-specs,Core,3.225806451612903,1.7699115044247788,4,5
+openstack/debtcollector,openstack/sahara-specs,Non core,1.0752688172043012,2.6548672566371683,4,5
+openstack/debtcollector,openstack/venus-tempest-plugin,Core,0.0,2.0,0,1
+openstack/debtcollector,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/debtcollector,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/ceilometermiddleware,Core,13.698630136986301,6.730769230769231,13,15
+openstack/debtcollector,openstack/ceilometermiddleware,Non core,4.10958904109589,7.6923076923076925,13,15
+openstack/debtcollector,openstack/trove-tempest-plugin,Core,5.555555555555555,4.3478260869565215,6,6
+openstack/debtcollector,openstack/trove-tempest-plugin,Non core,5.555555555555555,4.3478260869565215,6,6
+openstack/debtcollector,openstack/arch-design,Core,3.9215686274509802,6.25,3,3
+openstack/debtcollector,openstack/arch-design,Non core,1.9607843137254901,0.0,3,3
+openstack/debtcollector,openstack/monasca-common,Core,7.142857142857142,2.8169014084507045,9,11
+openstack/debtcollector,openstack/monasca-common,Non core,0.8928571428571428,4.929577464788732,9,11
+openstack/debtcollector,openstack/monasca-statsd,Core,9.210526315789473,4.444444444444445,10,12
+openstack/debtcollector,openstack/monasca-statsd,Non core,3.9473684210526314,8.88888888888889,10,12
+openstack/debtcollector,openstack/python-monascaclient,Core,7.6923076923076925,4.761904761904762,18,16
+openstack/debtcollector,openstack/python-monascaclient,Non core,7.6923076923076925,6.122448979591836,18,16
+openstack/debtcollector,openstack/renderspec,Core,12.280701754385964,4.615384615384616,13,8
+openstack/debtcollector,openstack/renderspec,Non core,10.526315789473683,7.6923076923076925,13,8
+openstack/debtcollector,openstack/os-service-types,Core,10.526315789473683,7.142857142857142,11,10
+openstack/debtcollector,openstack/os-service-types,Non core,8.771929824561402,7.142857142857142,11,10
+openstack/debtcollector,openstack/masakari-dashboard,Core,7.6923076923076925,4.705882352941177,8,8
+openstack/debtcollector,openstack/masakari-dashboard,Non core,4.615384615384616,4.705882352941177,8,8
+openstack/debtcollector,openstack/freezer-dr,Core,6.349206349206349,6.944444444444445,8,11
+openstack/debtcollector,openstack/freezer-dr,Non core,6.349206349206349,8.333333333333332,8,11
+openstack/debtcollector,openstack/tempest-stress,Core,4.918032786885246,5.357142857142857,5,6
+openstack/debtcollector,openstack/tempest-stress,Non core,3.278688524590164,5.357142857142857,5,6
+openstack/debtcollector,openstack/charm-neutron-api-genericswitch,Core,4.25531914893617,4.166666666666666,3,2
+openstack/debtcollector,openstack/charm-neutron-api-genericswitch,Non core,2.127659574468085,0.0,3,2
+openstack/debtcollector,openstack/charm-neutron-dynamic-routing,Core,5.172413793103448,3.389830508474576,4,4
+openstack/debtcollector,openstack/charm-neutron-dynamic-routing,Non core,1.7241379310344827,3.389830508474576,4,4
+openstack/debtcollector,openstack/charm-interface-ceph-client,Core,3.8461538461538463,3.7735849056603774,2,3
+openstack/debtcollector,openstack/charm-interface-ceph-client,Non core,0.0,1.8867924528301887,2,3
+openstack/debtcollector,openstack/charm-percona-cluster,Core,2.5,2.247191011235955,6,6
+openstack/debtcollector,openstack/charm-percona-cluster,Non core,5.0,4.49438202247191,6,6
+openstack/debtcollector,openstack/charm-deployment-guide,Core,2.666666666666667,1.3333333333333335,3,3
+openstack/debtcollector,openstack/charm-deployment-guide,Non core,1.3333333333333335,2.666666666666667,3,3
+openstack/debtcollector,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/oslo.metrics,Core,1.9230769230769231,7.6923076923076925,2,8
+openstack/debtcollector,openstack/oslo.metrics,Non core,1.9230769230769231,7.6923076923076925,2,8
+openstack/debtcollector,openstack/oslo.vmware,Core,12.62135922330097,11.11111111111111,23,35
+openstack/debtcollector,openstack/oslo.vmware,Non core,9.70873786407767,11.76470588235294,23,35
+openstack/debtcollector,openstack/oslo.upgradecheck,Core,15.384615384615385,13.333333333333334,12,13
+openstack/debtcollector,openstack/oslo.upgradecheck,Non core,7.6923076923076925,8.333333333333332,12,13
+openstack/debtcollector,openstack/python-masakariclient,Core,7.5,4.597701149425287,8,10
+openstack/debtcollector,openstack/python-masakariclient,Non core,2.5,6.896551724137931,8,10
+openstack/debtcollector,openstack/python-vitrageclient,Core,8.235294117647058,1.2658227848101267,15,5
+openstack/debtcollector,openstack/python-vitrageclient,Non core,9.411764705882353,5.063291139240507,15,5
+openstack/debtcollector,openstack/python-blazarclient,Core,9.090909090909092,8.571428571428571,11,17
+openstack/debtcollector,openstack/python-blazarclient,Non core,3.4090909090909087,7.6190476190476195,11,17
+openstack/debtcollector,openstack/zaqar-tempest-plugin,Core,5.454545454545454,6.153846153846154,4,5
+openstack/debtcollector,openstack/zaqar-tempest-plugin,Non core,1.8181818181818181,1.5384615384615385,4,5
+openstack/debtcollector,openstack/tripleo-common-tempest-plugin,Core,7.017543859649122,2.7777777777777777,6,6
+openstack/debtcollector,openstack/tripleo-common-tempest-plugin,Non core,3.508771929824561,5.555555555555555,6,6
+openstack/debtcollector,openstack/mistral-tempest-plugin,Core,4.6875,2.7777777777777777,6,8
+openstack/debtcollector,openstack/mistral-tempest-plugin,Non core,4.6875,8.333333333333332,6,8
+openstack/debtcollector,openstack/barbican-ui,Core,2.1739130434782608,3.7037037037037033,1,3
+openstack/debtcollector,openstack/barbican-ui,Non core,0.0,1.8518518518518516,1,3
+openstack/debtcollector,openstack/liberasurecode,Core,1.7857142857142856,1.6129032258064515,2,3
+openstack/debtcollector,openstack/liberasurecode,Non core,1.7857142857142856,3.225806451612903,2,3
+openstack/debtcollector,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/os-client-config,Core,10.091743119266056,5.109489051094891,16,14
+openstack/debtcollector,openstack/os-client-config,Non core,4.587155963302752,5.109489051094891,16,14
+openstack/debtcollector,openstack/monasca-specs,Core,3.571428571428571,1.3888888888888888,2,3
+openstack/debtcollector,openstack/monasca-specs,Non core,0.0,2.7777777777777777,2,3
+openstack/debtcollector,openstack/os-performance-tools,Core,6.779661016949152,8.47457627118644,6,7
+openstack/debtcollector,openstack/os-performance-tools,Non core,3.389830508474576,3.389830508474576,6,7
+openstack/debtcollector,openstack/trove-specs,Core,6.172839506172839,3.278688524590164,5,7
+openstack/debtcollector,openstack/trove-specs,Non core,0.0,2.459016393442623,5,7
+openstack/debtcollector,openstack/manila-image-elements,Core,7.462686567164178,2.4096385542168677,6,8
+openstack/debtcollector,openstack/manila-image-elements,Non core,1.4925373134328357,7.228915662650602,6,8
+openstack/debtcollector,openstack/blazar-specs,Core,3.7735849056603774,3.125,2,2
+openstack/debtcollector,openstack/blazar-specs,Non core,0.0,0.0,2,2
+openstack/debtcollector,openstack/molteniron,Core,9.615384615384617,2.9850746268656714,6,4
+openstack/debtcollector,openstack/molteniron,Non core,1.9230769230769231,2.9850746268656714,6,4
+openstack/debtcollector,openstack/solum-specs,Core,6.896551724137931,1.5384615384615385,4,3
+openstack/debtcollector,openstack/solum-specs,Non core,0.0,3.076923076923077,4,3
+openstack/debtcollector,openstack/patrole,Core,3.875968992248062,4.054054054054054,7,9
+openstack/debtcollector,openstack/patrole,Non core,1.550387596899225,2.027027027027027,7,9
+openstack/debtcollector,openstack/performance-docs,Core,2.4096385542168677,2.083333333333333,3,7
+openstack/debtcollector,openstack/performance-docs,Non core,1.2048192771084338,5.208333333333334,3,7
+openstack/debtcollector,openstack/sphinx-feature-classification,Core,10.714285714285714,10.76923076923077,10,15
+openstack/debtcollector,openstack/sphinx-feature-classification,Non core,7.142857142857142,12.307692307692308,10,15
+openstack/debtcollector,openstack/etcd3gw,Core,1.9230769230769231,12.0,2,6
+openstack/debtcollector,openstack/etcd3gw,Non core,1.9230769230769231,0.0,2,6
+openstack/debtcollector,openstack/watcher-specs,Core,3.3707865168539324,1.639344262295082,5,6
+openstack/debtcollector,openstack/watcher-specs,Non core,2.247191011235955,3.278688524590164,5,6
+openstack/debtcollector,openstack/yaql,Core,13.043478260869565,4.444444444444445,13,11
+openstack/debtcollector,openstack/yaql,Non core,5.797101449275362,7.777777777777778,13,11
+openstack/debtcollector,openstack/puppet-openstack-guide,Core,7.575757575757576,2.5,7,5
+openstack/debtcollector,openstack/puppet-openstack-guide,Non core,3.0303030303030303,3.75,7,5
+openstack/debtcollector,openstack/puppet-panko,Core,6.493506493506493,2.73972602739726,8,5
+openstack/debtcollector,openstack/puppet-panko,Non core,3.896103896103896,4.10958904109589,8,5
+openstack/debtcollector,openstack/heat-cfnclient,Core,8.333333333333332,7.352941176470589,8,10
+openstack/debtcollector,openstack/heat-cfnclient,Non core,5.0,7.352941176470589,8,10
+openstack/debtcollector,openstack/heat-cfntools,Core,9.75609756097561,4.854368932038835,13,11
+openstack/debtcollector,openstack/heat-cfntools,Non core,6.097560975609756,5.825242718446602,13,11
+openstack/debtcollector,openstack/heat-templates,Core,3.4246575342465753,1.8691588785046727,5,10
+openstack/debtcollector,openstack/heat-templates,Non core,0.0,2.803738317757009,5,10
+openstack/debtcollector,openstack/governance-sigs,Core,10.0,6.7669172932330826,10,14
+openstack/debtcollector,openstack/governance-sigs,Non core,4.285714285714286,3.7593984962406015,10,14
+openstack/debtcollector,openstack/openstack-zuul-roles,Core,4.166666666666666,1.8518518518518516,2,2
+openstack/debtcollector,openstack/openstack-zuul-roles,Non core,0.0,1.8518518518518516,2,2
+openstack/debtcollector,openstack/nova-powervm,Core,6.25,2.9629629629629632,7,9
+openstack/debtcollector,openstack/nova-powervm,Non core,1.0416666666666665,3.7037037037037033,7,9
+openstack/debtcollector,openstack/openstack-helm-addons,Core,1.25,0.6578947368421052,3,6
+openstack/debtcollector,openstack/openstack-helm-addons,Non core,2.5,3.289473684210526,3,6
+openstack/debtcollector,openstack/python-pankoclient,Core,9.836065573770492,8.21917808219178,10,12
+openstack/debtcollector,openstack/python-pankoclient,Non core,6.557377049180328,8.21917808219178,10,12
+openstack/debtcollector,openstack/qa-specs,Core,6.896551724137931,4.10958904109589,7,10
+openstack/debtcollector,openstack/qa-specs,Non core,1.1494252873563218,2.73972602739726,7,10
+openstack/debtcollector,openstack/zaqar-specs,Core,6.8493150684931505,4.0,9,10
+openstack/debtcollector,openstack/zaqar-specs,Non core,5.47945205479452,6.0,9,10
+openstack/debtcollector,openstack/swift-bench,Core,1.6129032258064515,1.2987012987012987,2,5
+openstack/debtcollector,openstack/swift-bench,Non core,1.6129032258064515,5.194805194805195,2,5
+openstack/debtcollector,openstack/whereto,Core,8.928571428571429,12.280701754385964,7,10
+openstack/debtcollector,openstack/whereto,Non core,3.571428571428571,5.263157894736842,7,10
+openstack/debtcollector,openstack/murano-specs,Core,4.819277108433735,0.9803921568627451,5,5
+openstack/debtcollector,openstack/murano-specs,Non core,1.2048192771084338,3.9215686274509802,5,5
+openstack/debtcollector,openstack/ansible-role-tripleo-modify-image,Core,4.225352112676056,1.9230769230769231,4,4
+openstack/debtcollector,openstack/ansible-role-tripleo-modify-image,Non core,1.4084507042253522,1.9230769230769231,4,4
+openstack/debtcollector,openstack/requestsexceptions,Core,8.333333333333332,5.357142857142857,5,6
+openstack/debtcollector,openstack/requestsexceptions,Non core,2.083333333333333,5.357142857142857,5,6
+openstack/debtcollector,openstack/panko,Core,6.5420560747663545,5.185185185185185,11,12
+openstack/debtcollector,openstack/panko,Non core,3.7383177570093453,3.7037037037037033,11,12
+openstack/debtcollector,openstack/api-sig,Core,5.555555555555555,4.054054054054054,7,18
+openstack/debtcollector,openstack/api-sig,Non core,2.2222222222222223,4.054054054054054,7,18
+openstack/debtcollector,openstack/openstack-chef-specs,Core,4.615384615384616,4.10958904109589,4,7
+openstack/debtcollector,openstack/openstack-chef-specs,Non core,1.5384615384615385,5.47945205479452,4,7
+openstack/debtcollector,openstack/freezer-specs,Core,6.557377049180328,4.477611940298507,6,5
+openstack/debtcollector,openstack/freezer-specs,Non core,3.278688524590164,2.9850746268656714,6,5
+openstack/debtcollector,openstack/oslo.tools,Core,10.294117647058822,21.818181818181817,10,19
+openstack/debtcollector,openstack/oslo.tools,Non core,4.411764705882353,12.727272727272727,10,19
+openstack/debtcollector,openstack/microversion-parse,Core,3.8461538461538463,11.538461538461538,3,8
+openstack/debtcollector,openstack/microversion-parse,Non core,1.9230769230769231,3.8461538461538463,3,8
+openstack/debtcollector,openstack/openstackclient,Core,11.475409836065573,8.571428571428571,9,10
+openstack/debtcollector,openstack/openstackclient,Non core,3.278688524590164,5.714285714285714,9,10
+openstack/debtcollector,openstack/ossa,Core,3.125,6.185567010309279,3,9
+openstack/debtcollector,openstack/ossa,Non core,1.5625,3.0927835051546393,3,9
+openstack/debtcollector,openstack/reviewstats,Core,9.174311926605505,8.053691275167784,14,17
+openstack/debtcollector,openstack/reviewstats,Non core,3.669724770642202,3.3557046979865772,14,17
+openstack/debtcollector,openstack/oslo-cookiecutter,Core,12.5,20.33898305084746,12,18
+openstack/debtcollector,openstack/oslo-cookiecutter,Non core,8.928571428571429,10.16949152542373,12,18
+openstack/debtcollector,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/security-analysis,Core,3.8461538461538463,3.0303030303030303,2,3
+openstack/debtcollector,openstack/security-analysis,Non core,0.0,1.5151515151515151,2,3
+openstack/debtcollector,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/ansible-role-tripleo-keystone,Core,4.081632653061225,2.0408163265306123,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-keystone,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/openstack-ansible-apt_package_pinning,Core,6.578947368421052,1.2195121951219512,6,6
+openstack/debtcollector,openstack/openstack-ansible-apt_package_pinning,Non core,1.3157894736842104,6.097560975609756,6,6
+openstack/debtcollector,openstack/ansible-role-qdrouterd,Core,3.6363636363636362,2.7777777777777777,3,3
+openstack/debtcollector,openstack/ansible-role-qdrouterd,Non core,1.8181818181818181,1.3888888888888888,3,3
+openstack/debtcollector,openstack/openstack-ansible-openstack_openrc,Core,5.813953488372093,0.0,7,5
+openstack/debtcollector,openstack/openstack-ansible-openstack_openrc,Non core,2.3255813953488373,5.434782608695652,7,5
+openstack/debtcollector,openstack/openstack-ansible-nspawn_container_create,Core,4.918032786885246,2.7777777777777777,6,5
+openstack/debtcollector,openstack/openstack-ansible-nspawn_container_create,Non core,4.918032786885246,4.166666666666666,6,5
+openstack/debtcollector,openstack/devstack-tools,Core,7.142857142857142,7.2727272727272725,7,7
+openstack/debtcollector,openstack/devstack-tools,Non core,5.357142857142857,5.454545454545454,7,7
+openstack/debtcollector,openstack/coverage2sql,Core,10.16949152542373,5.172413793103448,11,7
+openstack/debtcollector,openstack/coverage2sql,Non core,8.47457627118644,6.896551724137931,11,7
+openstack/debtcollector,openstack/bashate,Core,7.0588235294117645,6.521739130434782,10,8
+openstack/debtcollector,openstack/bashate,Non core,4.705882352941177,2.1739130434782608,10,8
+openstack/debtcollector,openstack/hacking,Core,9.649122807017543,9.770114942528735,19,27
+openstack/debtcollector,openstack/hacking,Non core,7.017543859649122,5.747126436781609,19,27
+openstack/debtcollector,openstack/xstatic-mdi,Core,4.0,0.0,2,3
+openstack/debtcollector,openstack/xstatic-mdi,Non core,0.0,5.555555555555555,2,3
+openstack/debtcollector,openstack/xstatic-roboto-fontface,Core,4.081632653061225,0.0,2,3
+openstack/debtcollector,openstack/xstatic-roboto-fontface,Non core,0.0,5.454545454545454,2,3
+openstack/debtcollector,openstack/openstack-chef,Core,2.941176470588235,3.278688524590164,3,3
+openstack/debtcollector,openstack/openstack-chef,Non core,1.4705882352941175,1.639344262295082,3,3
+openstack/debtcollector,openstack/cookbook-openstackclient,Core,0.0,0.0,0,2
+openstack/debtcollector,openstack/cookbook-openstackclient,Non core,0.0,3.7037037037037033,0,2
+openstack/debtcollector,openstack/xstatic-angular,Core,1.7857142857142856,0.0,1,3
+openstack/debtcollector,openstack/xstatic-angular,Non core,0.0,4.761904761904762,1,3
+openstack/debtcollector,openstack/charm-interface-hacluster,Core,3.3333333333333335,1.7241379310344827,4,3
+openstack/debtcollector,openstack/charm-interface-hacluster,Non core,3.3333333333333335,3.4482758620689653,4,3
+openstack/debtcollector,openstack/puppet-openstack-specs,Core,6.153846153846154,1.0309278350515463,6,4
+openstack/debtcollector,openstack/puppet-openstack-specs,Non core,3.076923076923077,3.0927835051546393,6,4
+openstack/debtcollector,openstack/puppet-monasca,Core,4.166666666666666,1.6666666666666667,5,5
+openstack/debtcollector,openstack/puppet-monasca,Non core,2.7777777777777777,2.5,5,5
+openstack/debtcollector,openstack/eslint-config-openstack,Core,5.263157894736842,5.952380952380952,5,8
+openstack/debtcollector,openstack/eslint-config-openstack,Non core,3.508771929824561,3.571428571428571,5,8
+openstack/debtcollector,openstack/karma-subunit-reporter,Core,6.382978723404255,6.382978723404255,3,4
+openstack/debtcollector,openstack/karma-subunit-reporter,Non core,0.0,2.127659574468085,3,4
+openstack/debtcollector,openstack/openstack-helm-docs,Core,1.9230769230769231,4.6875,1,6
+openstack/debtcollector,openstack/openstack-helm-docs,Non core,0.0,4.6875,1,6
+openstack/debtcollector,openstack/openstack-ansible-specs,Core,4.2105263157894735,1.9867549668874174,6,5
+openstack/debtcollector,openstack/openstack-ansible-specs,Non core,2.1052631578947367,1.3245033112582782,6,5
+openstack/debtcollector,openstack/tempest-lib,Core,7.317073170731707,5.6000000000000005,7,11
+openstack/debtcollector,openstack/tempest-lib,Non core,1.2195121951219512,3.2,7,11
+openstack/debtcollector,openstack/tripleo-ha-utils,Core,1.9230769230769231,0.0,2,1
+openstack/debtcollector,openstack/tripleo-ha-utils,Non core,1.9230769230769231,1.4492753623188406,2,1
+openstack/debtcollector,openstack/devstack-vagrant,Core,3.4482758620689653,4.761904761904762,2,6
+openstack/debtcollector,openstack/devstack-vagrant,Non core,0.0,4.761904761904762,2,6
+openstack/debtcollector,openstack/goal-tools,Core,3.9215686274509802,7.142857142857142,2,6
+openstack/debtcollector,openstack/goal-tools,Non core,0.0,3.571428571428571,2,6
+openstack/debtcollector,openstack/cookiecutter,Core,12.0,17.582417582417584,14,23
+openstack/debtcollector,openstack/cookiecutter,Non core,6.666666666666667,7.6923076923076925,14,23
+openstack/debtcollector,openstack/dib-utils,Core,5.263157894736842,3.896103896103896,4,6
+openstack/debtcollector,openstack/dib-utils,Non core,1.7543859649122806,3.896103896103896,4,6
+openstack/debtcollector,openstack/constellations,Core,4.081632653061225,9.25925925925926,2,6
+openstack/debtcollector,openstack/constellations,Non core,0.0,1.8518518518518516,2,6
+openstack/debtcollector,openstack/cookbook-openstack-integration-test,Core,1.5873015873015872,2.73972602739726,1,5
+openstack/debtcollector,openstack/cookbook-openstack-integration-test,Non core,0.0,4.10958904109589,1,5
+openstack/debtcollector,openstack/cookbook-openstack-dashboard,Core,2.247191011235955,1.834862385321101,2,5
+openstack/debtcollector,openstack/cookbook-openstack-dashboard,Non core,0.0,2.7522935779816518,2,5
+openstack/debtcollector,openstack/cookbook-openstack-telemetry,Core,2.247191011235955,2.2222222222222223,3,5
+openstack/debtcollector,openstack/cookbook-openstack-telemetry,Non core,1.1235955056179776,3.3333333333333335,3,5
+openstack/debtcollector,openstack/cookbook-openstack-orchestration,Core,2.5,3.1914893617021276,2,6
+openstack/debtcollector,openstack/cookbook-openstack-orchestration,Non core,0.0,3.1914893617021276,2,6
+openstack/debtcollector,openstack/cookbook-openstack-bare-metal,Core,1.8181818181818181,3.278688524590164,1,5
+openstack/debtcollector,openstack/cookbook-openstack-bare-metal,Non core,0.0,4.918032786885246,1,5
+openstack/debtcollector,openstack/cookbook-openstack-dns,Core,0.0,0.0,0,3
+openstack/debtcollector,openstack/cookbook-openstack-dns,Non core,0.0,5.660377358490567,0,3
+openstack/debtcollector,openstack/cookbook-openstack-compute,Core,1.834862385321101,1.5037593984962405,2,5
+openstack/debtcollector,openstack/cookbook-openstack-compute,Non core,0.0,2.2556390977443606,2,5
+openstack/debtcollector,openstack/cookbook-openstack-network,Core,1.8018018018018018,1.574803149606299,2,6
+openstack/debtcollector,openstack/cookbook-openstack-network,Non core,0.0,3.149606299212598,2,6
+openstack/debtcollector,openstack/cookbook-openstack-block-storage,Core,2.912621359223301,1.834862385321101,4,5
+openstack/debtcollector,openstack/cookbook-openstack-block-storage,Non core,0.9708737864077669,2.7522935779816518,4,5
+openstack/debtcollector,openstack/cookbook-openstack-image,Core,2.083333333333333,1.8518518518518516,2,5
+openstack/debtcollector,openstack/cookbook-openstack-image,Non core,0.0,2.7777777777777777,2,5
+openstack/debtcollector,openstack/cookbook-openstack-identity,Core,3.125,1.7699115044247788,4,6
+openstack/debtcollector,openstack/cookbook-openstack-identity,Non core,1.0416666666666665,3.5398230088495577,4,6
+openstack/debtcollector,openstack/cookbook-openstack-ops-database,Core,2.5316455696202533,1.1235955056179776,2,4
+openstack/debtcollector,openstack/cookbook-openstack-ops-database,Non core,0.0,3.3707865168539324,2,4
+openstack/debtcollector,openstack/cookbook-openstack-ops-messaging,Core,2.7777777777777777,1.2345679012345678,2,5
+openstack/debtcollector,openstack/cookbook-openstack-ops-messaging,Non core,0.0,4.938271604938271,2,5
+openstack/debtcollector,openstack/cookbook-openstack-common,Core,1.9047619047619049,0.7575757575757576,3,4
+openstack/debtcollector,openstack/cookbook-openstack-common,Non core,0.9523809523809524,2.272727272727273,3,4
+openstack/debtcollector,openstack/self-healing-sig,Core,3.7037037037037033,2.941176470588235,2,2
+openstack/debtcollector,openstack/self-healing-sig,Non core,0.0,0.0,2,2
+openstack/debtcollector,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/security-specs,Core,7.142857142857142,4.285714285714286,5,5
+openstack/debtcollector,openstack/security-specs,Non core,1.7857142857142856,2.857142857142857,5,5
+openstack/debtcollector,openstack/openstack-ansible-os_panko,Core,4.6875,5.194805194805195,6,7
+openstack/debtcollector,openstack/openstack-ansible-os_panko,Non core,4.6875,3.896103896103896,6,7
+openstack/debtcollector,openstack/openstack-ansible-nspawn_hosts,Core,4.838709677419355,2.73972602739726,6,6
+openstack/debtcollector,openstack/openstack-ansible-nspawn_hosts,Non core,4.838709677419355,5.47945205479452,6,6
+openstack/debtcollector,openstack/charm-layer-openstack-principle,Core,4.166666666666666,0.0,3,0
+openstack/debtcollector,openstack/charm-layer-openstack-principle,Non core,2.083333333333333,0.0,3,0
+openstack/debtcollector,openstack/charm-watcher-dashboard,Core,4.25531914893617,1.8518518518518516,2,1
+openstack/debtcollector,openstack/charm-watcher-dashboard,Non core,0.0,0.0,2,1
+openstack/debtcollector,openstack/charm-watcher,Core,4.081632653061225,1.6129032258064515,2,2
+openstack/debtcollector,openstack/charm-watcher,Non core,0.0,1.6129032258064515,2,2
+openstack/debtcollector,openstack/openstack-ansible-galera_client,Core,5.434782608695652,1.0309278350515463,8,5
+openstack/debtcollector,openstack/openstack-ansible-galera_client,Non core,3.260869565217391,4.123711340206185,8,5
+openstack/debtcollector,openstack/cloudkitty-specs,Core,5.172413793103448,1.3888888888888888,4,2
+openstack/debtcollector,openstack/cloudkitty-specs,Non core,1.7241379310344827,1.3888888888888888,4,2
+openstack/debtcollector,openstack/osops,Core,4.081632653061225,3.9215686274509802,2,3
+openstack/debtcollector,openstack/osops,Non core,0.0,1.9607843137254901,2,3
+openstack/debtcollector,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-ironic,Core,4.166666666666666,2.127659574468085,3,1
+openstack/debtcollector,openstack/charm-ironic,Non core,2.083333333333333,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/multi-arch-sig,Core,2.127659574468085,1.9607843137254901,1,1
+openstack/debtcollector,openstack/multi-arch-sig,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/charm-nova-compute-proxy,Core,1.8867924528301887,0.0,4,2
+openstack/debtcollector,openstack/charm-nova-compute-proxy,Non core,5.660377358490567,3.6363636363636362,4,2
+openstack/debtcollector,openstack/charm-odl-controller,Core,1.7857142857142856,0.0,2,2
+openstack/debtcollector,openstack/charm-odl-controller,Non core,1.7857142857142856,3.7735849056603774,2,2
+openstack/debtcollector,openstack/charm-nova-lxd,Core,3.278688524590164,1.5151515151515151,5,3
+openstack/debtcollector,openstack/charm-nova-lxd,Non core,4.918032786885246,3.0303030303030303,5,3
+openstack/debtcollector,openstack/charm-interface-nova-cell,Core,0.0,2.1739130434782608,0,1
+openstack/debtcollector,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/debtcollector,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-interface-barbican-secrets,Core,2.0,2.0,2,2
+openstack/debtcollector,openstack/charm-interface-barbican-secrets,Non core,2.0,2.0,2,2
+openstack/debtcollector,openstack/charm-interface-mysql-innodb-cluster,Core,2.1739130434782608,0.0,1,0
+openstack/debtcollector,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/debtcollector,openstack/charm-interface-ceph-rbd-mirror,Core,2.0408163265306123,1.9607843137254901,2,2
+openstack/debtcollector,openstack/charm-interface-ceph-rbd-mirror,Non core,2.0408163265306123,1.9607843137254901,2,2
+openstack/debtcollector,openstack/charm-interface-placement,Core,2.1739130434782608,0.0,2,0
+openstack/debtcollector,openstack/charm-interface-placement,Non core,2.1739130434782608,0.0,2,0
+openstack/debtcollector,openstack/charm-interface-mysql-shared,Core,5.88235294117647,0.0,3,1
+openstack/debtcollector,openstack/charm-interface-mysql-shared,Non core,0.0,1.9230769230769231,3,1
+openstack/debtcollector,openstack/charm-interface-dashboard-plugin,Core,2.0,2.0,2,2
+openstack/debtcollector,openstack/charm-interface-dashboard-plugin,Non core,2.0,2.0,2,2
+openstack/debtcollector,openstack/charm-interface-neutron-load-balancer,Core,2.0,2.0,2,2
+openstack/debtcollector,openstack/charm-interface-neutron-load-balancer,Non core,2.0,2.0,2,2
+openstack/debtcollector,openstack/charm-interface-neutron-plugin-api-subordinate,Core,5.88235294117647,3.8461538461538463,4,2
+openstack/debtcollector,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,1.9607843137254901,0.0,4,2
+openstack/debtcollector,openstack/charm-interface-neutron-plugin,Core,6.122448979591836,2.0,3,2
+openstack/debtcollector,openstack/charm-interface-neutron-plugin,Non core,0.0,2.0,3,2
+openstack/debtcollector,openstack/xstatic-json2yaml,Core,2.1739130434782608,0.0,1,0
+openstack/debtcollector,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/debtcollector,openstack/xstatic-jquery.tablesorter,Core,6.666666666666667,0.0,3,1
+openstack/debtcollector,openstack/xstatic-jquery.tablesorter,Non core,0.0,2.0408163265306123,3,1
+openstack/debtcollector,openstack/xstatic-magic-search,Core,1.9230769230769231,0.0,1,3
+openstack/debtcollector,openstack/xstatic-magic-search,Non core,0.0,5.263157894736842,1,3
+openstack/debtcollector,openstack/xstatic-jsencrypt,Core,2.0,0.0,1,3
+openstack/debtcollector,openstack/xstatic-jsencrypt,Non core,0.0,5.263157894736842,1,3
+openstack/debtcollector,openstack/xstatic-js-yaml,Core,2.127659574468085,0.0,1,0
+openstack/debtcollector,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,0
+openstack/debtcollector,openstack/xstatic-spin,Core,6.666666666666667,0.0,3,1
+openstack/debtcollector,openstack/xstatic-spin,Non core,0.0,2.0408163265306123,3,1
+openstack/debtcollector,openstack/xstatic-rickshaw,Core,4.0,0.0,2,3
+openstack/debtcollector,openstack/xstatic-rickshaw,Non core,0.0,5.555555555555555,2,3
+openstack/debtcollector,openstack/charm-panko,Core,2.0408163265306123,3.7735849056603774,2,4
+openstack/debtcollector,openstack/charm-panko,Non core,2.0408163265306123,3.7735849056603774,2,4
+openstack/debtcollector,openstack/charm-interface-service-control,Core,1.9607843137254901,1.9230769230769231,2,2
+openstack/debtcollector,openstack/charm-interface-service-control,Non core,1.9607843137254901,1.9230769230769231,2,2
+openstack/debtcollector,openstack/openstack-ansible-os_almanach,Core,4.615384615384616,1.36986301369863,6,5
+openstack/debtcollector,openstack/openstack-ansible-os_almanach,Non core,4.615384615384616,5.47945205479452,6,5
+openstack/debtcollector,openstack/openstack-ansible-pip_install,Core,4.545454545454546,0.9174311926605505,6,7
+openstack/debtcollector,openstack/openstack-ansible-pip_install,Non core,2.272727272727273,5.5045871559633035,6,7
+openstack/debtcollector,openstack/python-karborclient,Core,10.975609756097562,5.1020408163265305,16,11
+openstack/debtcollector,openstack/python-karborclient,Non core,8.536585365853659,6.122448979591836,16,11
+openstack/debtcollector,openstack/charm-interface-keystone-admin,Core,6.382978723404255,0.0,3,2
+openstack/debtcollector,openstack/charm-interface-keystone-admin,Non core,0.0,4.166666666666666,3,2
+openstack/debtcollector,openstack/charm-interface-nova-compute,Core,3.9215686274509802,1.8867924528301887,3,3
+openstack/debtcollector,openstack/charm-interface-nova-compute,Non core,1.9607843137254901,3.7735849056603774,3,3
+openstack/debtcollector,openstack/charm-interface-manila-plugin,Core,4.081632653061225,2.0,2,2
+openstack/debtcollector,openstack/charm-interface-manila-plugin,Non core,0.0,2.0,2,2
+openstack/debtcollector,openstack/murano-apps,Core,3.1914893617021276,1.7857142857142856,4,4
+openstack/debtcollector,openstack/murano-apps,Non core,1.0638297872340425,1.7857142857142856,4,4
+openstack/debtcollector,openstack/puppet-senlin,Core,7.547169811320755,3.278688524590164,8,2
+openstack/debtcollector,openstack/puppet-senlin,Non core,7.547169811320755,0.0,8,2
+openstack/debtcollector,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,1,2
+openstack/debtcollector,openstack/cookbook-openstack-application-catalog,Non core,2.0,3.9215686274509802,1,2
+openstack/debtcollector,openstack/training-labs,Core,8.108108108108109,6.493506493506493,9,13
+openstack/debtcollector,openstack/training-labs,Non core,4.054054054054054,10.38961038961039,9,13
+openstack/debtcollector,openstack/karbor,Core,5.47945205479452,2.564102564102564,13,14
+openstack/debtcollector,openstack/karbor,Non core,3.4246575342465753,4.615384615384616,13,14
+openstack/debtcollector,openstack/devstack-plugin-open-cas,Core,2.127659574468085,3.7735849056603774,1,2
+openstack/debtcollector,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,2
+openstack/debtcollector,openstack/openstack-ansible-os_congress,Core,4.6875,3.614457831325301,7,6
+openstack/debtcollector,openstack/openstack-ansible-os_congress,Non core,6.25,3.614457831325301,7,6
+openstack/debtcollector,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-interface-keystone-notifications,Core,0.0,2.1739130434782608,0,1
+openstack/debtcollector,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/debtcollector,openstack/os-collect-config,Core,8.13953488372093,4.477611940298507,13,15
+openstack/debtcollector,openstack/os-collect-config,Non core,6.976744186046512,6.7164179104477615,13,15
+openstack/debtcollector,openstack/os-apply-config,Core,9.523809523809524,5.6000000000000005,14,16
+openstack/debtcollector,openstack/os-apply-config,Non core,7.142857142857142,7.199999999999999,14,16
+openstack/debtcollector,openstack/puppet-freezer,Core,6.451612903225806,4.477611940298507,8,5
+openstack/debtcollector,openstack/puppet-freezer,Non core,6.451612903225806,2.9850746268656714,8,5
+openstack/debtcollector,openstack/vitrage-specs,Core,5.333333333333334,1.1363636363636365,8,8
+openstack/debtcollector,openstack/vitrage-specs,Non core,5.333333333333334,7.954545454545454,8,8
+openstack/debtcollector,openstack/specs-cookiecutter,Core,10.204081632653061,16.0,5,10
+openstack/debtcollector,openstack/specs-cookiecutter,Non core,0.0,4.0,5,10
+openstack/debtcollector,openstack/rpm-packaging-tools,Core,10.0,3.076923076923077,7,6
+openstack/debtcollector,openstack/rpm-packaging-tools,Non core,4.0,6.153846153846154,7,6
+openstack/debtcollector,openstack/ansible-role-openstack-operations,Core,3.4482758620689653,1.6129032258064515,3,1
+openstack/debtcollector,openstack/ansible-role-openstack-operations,Non core,1.7241379310344827,0.0,3,1
+openstack/debtcollector,openstack/os-refresh-config,Core,9.859154929577464,6.796116504854369,13,17
+openstack/debtcollector,openstack/os-refresh-config,Non core,8.450704225352112,9.70873786407767,13,17
+openstack/debtcollector,openstack/mistral-specs,Core,5.797101449275362,1.2345679012345678,5,3
+openstack/debtcollector,openstack/mistral-specs,Non core,1.4492753623188406,2.4691358024691357,5,3
+openstack/debtcollector,openstack/scientific-wg,Core,4.25531914893617,4.166666666666666,2,3
+openstack/debtcollector,openstack/scientific-wg,Non core,0.0,2.083333333333333,2,3
+openstack/debtcollector,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,2.0,0,1
+openstack/debtcollector,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/debtcollector,openstack/manila-test-image,Core,2.083333333333333,3.508771929824561,1,4
+openstack/debtcollector,openstack/manila-test-image,Non core,0.0,3.508771929824561,1,4
+openstack/debtcollector,openstack/governance-website,Core,4.0,10.526315789473683,5,9
+openstack/debtcollector,openstack/governance-website,Non core,6.0,5.263157894736842,5,9
+openstack/debtcollector,openstack/bugdaystats,Core,2.0408163265306123,3.508771929824561,1,4
+openstack/debtcollector,openstack/bugdaystats,Non core,0.0,3.508771929824561,1,4
+openstack/debtcollector,openstack/upstream-institute-virtual-environment,Core,1.9607843137254901,3.571428571428571,1,2
+openstack/debtcollector,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,1,2
+openstack/debtcollector,openstack/karbor-dashboard,Core,6.666666666666667,4.3478260869565215,8,12
+openstack/debtcollector,openstack/karbor-dashboard,Non core,4.0,8.695652173913043,8,12
+openstack/debtcollector,openstack/django_openstack_auth,Core,7.2727272727272725,2.525252525252525,13,12
+openstack/debtcollector,openstack/django_openstack_auth,Non core,4.545454545454546,3.535353535353535,13,12
+openstack/debtcollector,openstack/monasca-transform,Core,9.45945945945946,3.4090909090909087,12,9
+openstack/debtcollector,openstack/monasca-transform,Non core,6.756756756756757,6.8181818181818175,12,9
+openstack/debtcollector,openstack/monasca-ceilometer,Core,7.142857142857142,3.669724770642202,11,10
+openstack/debtcollector,openstack/monasca-ceilometer,Non core,5.952380952380952,5.5045871559633035,11,10
+openstack/debtcollector,openstack/monasca-log-api,Core,8.791208791208792,4.838709677419355,10,15
+openstack/debtcollector,openstack/monasca-log-api,Non core,2.197802197802198,7.258064516129033,10,15
+openstack/debtcollector,openstack/nose-html-output,Core,5.88235294117647,1.7857142857142856,3,4
+openstack/debtcollector,openstack/nose-html-output,Non core,0.0,5.357142857142857,3,4
+openstack/debtcollector,openstack/kolla-cli,Core,3.225806451612903,2.631578947368421,5,7
+openstack/debtcollector,openstack/kolla-cli,Non core,4.838709677419355,6.578947368421052,5,7
+openstack/debtcollector,openstack/neutron-lbaas-dashboard,Core,9.876543209876543,4.098360655737705,12,12
+openstack/debtcollector,openstack/neutron-lbaas-dashboard,Non core,4.938271604938271,5.737704918032787,12,12
+openstack/debtcollector,openstack/searchlight,Core,6.802721088435375,5.555555555555555,16,19
+openstack/debtcollector,openstack/searchlight,Non core,4.081632653061225,6.172839506172839,16,19
+openstack/debtcollector,openstack/searchlight-ui,Core,11.538461538461538,2.1739130434782608,13,5
+openstack/debtcollector,openstack/searchlight-ui,Non core,5.128205128205128,3.260869565217391,13,5
+openstack/debtcollector,openstack/searchlight-specs,Core,6.451612903225806,1.3157894736842104,7,5
+openstack/debtcollector,openstack/searchlight-specs,Non core,4.838709677419355,5.263157894736842,7,5
+openstack/debtcollector,openstack/python-searchlightclient,Core,12.162162162162163,6.896551724137931,16,13
+openstack/debtcollector,openstack/python-searchlightclient,Non core,9.45945945945946,8.045977011494253,16,13
+openstack/debtcollector,openstack/charm-tempest,Core,4.838709677419355,3.076923076923077,5,5
+openstack/debtcollector,openstack/charm-tempest,Non core,3.225806451612903,4.615384615384616,5,5
+openstack/debtcollector,openstack/charm-barbican-softhsm,Core,6.779661016949152,3.3333333333333335,5,5
+openstack/debtcollector,openstack/charm-barbican-softhsm,Non core,1.694915254237288,5.0,5,5
+openstack/debtcollector,openstack/cookbook-openstack-client,Core,1.9230769230769231,1.7543859649122806,1,3
+openstack/debtcollector,openstack/cookbook-openstack-client,Non core,0.0,3.508771929824561,1,3
+openstack/debtcollector,openstack/instack-undercloud,Core,5.88235294117647,2.5316455696202533,11,13
+openstack/debtcollector,openstack/instack-undercloud,Non core,2.2058823529411766,2.9535864978902953,11,13
+openstack/debtcollector,openstack/publiccloud-sig,Core,4.081632653061225,3.8461538461538463,3,3
+openstack/debtcollector,openstack/publiccloud-sig,Non core,2.0408163265306123,1.9230769230769231,3,3
+openstack/debtcollector,openstack/ideas,Core,4.166666666666666,10.294117647058822,2,7
+openstack/debtcollector,openstack/ideas,Non core,0.0,0.0,2,7
+openstack/debtcollector,openstack/uc-recognition,Core,2.127659574468085,1.8867924528301887,1,2
+openstack/debtcollector,openstack/uc-recognition,Non core,0.0,1.8867924528301887,1,2
+openstack/debtcollector,openstack/ops-tags-team,Core,1.8518518518518516,4.166666666666666,1,6
+openstack/debtcollector,openstack/ops-tags-team,Non core,0.0,4.166666666666666,1,6
+openstack/debtcollector,openstack/enterprise-wg,Core,2.2222222222222223,2.2222222222222223,1,1
+openstack/debtcollector,openstack/enterprise-wg,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/governance-uc,Core,6.451612903225806,2.127659574468085,5,6
+openstack/debtcollector,openstack/governance-uc,Non core,1.6129032258064515,4.25531914893617,5,6
+openstack/debtcollector,openstack/workload-ref-archs,Core,5.660377358490567,3.6363636363636362,5,6
+openstack/debtcollector,openstack/workload-ref-archs,Non core,3.7735849056603774,7.2727272727272725,5,6
+openstack/debtcollector,openstack/arch-wg,Core,2.083333333333333,3.389830508474576,1,3
+openstack/debtcollector,openstack/arch-wg,Non core,0.0,1.694915254237288,1,3
+openstack/debtcollector,openstack/project-navigator-data,Core,8.47457627118644,9.375,5,7
+openstack/debtcollector,openstack/project-navigator-data,Non core,0.0,1.5625,5,7
+openstack/debtcollector,openstack/openstack-specs,Core,8.47457627118644,6.796116504854369,6,21
+openstack/debtcollector,openstack/openstack-specs,Non core,1.694915254237288,3.3980582524271843,6,21
+openstack/debtcollector,openstack/openstack-ansible-os_monasca,Core,5.263157894736842,2.1739130434782608,6,7
+openstack/debtcollector,openstack/openstack-ansible-os_monasca,Non core,2.631578947368421,5.434782608695652,6,7
+openstack/debtcollector,openstack/openstack-ansible-os_monasca-agent,Core,3.0303030303030303,1.3333333333333335,4,6
+openstack/debtcollector,openstack/openstack-ansible-os_monasca-agent,Non core,3.0303030303030303,6.666666666666667,4,6
+openstack/debtcollector,openstack/ironic-inspector-specs,Core,6.25,1.1111111111111112,6,2
+openstack/debtcollector,openstack/ironic-inspector-specs,Non core,3.125,1.1111111111111112,6,2
+openstack/debtcollector,openstack/sushy-cli,Core,5.88235294117647,1.8181818181818181,3,1
+openstack/debtcollector,openstack/sushy-cli,Non core,0.0,0.0,3,1
+openstack/debtcollector,openstack/puppet-glare,Core,7.462686567164178,2.8169014084507045,8,4
+openstack/debtcollector,openstack/puppet-glare,Non core,4.477611940298507,2.8169014084507045,8,4
+openstack/debtcollector,openstack/xstatic-bootstrap-scss,Core,1.9607843137254901,0.0,1,3
+openstack/debtcollector,openstack/xstatic-bootstrap-scss,Non core,0.0,5.263157894736842,1,3
+openstack/debtcollector,openstack/openstack-planet,Core,4.3478260869565215,4.166666666666666,15,9
+openstack/debtcollector,openstack/openstack-planet,Non core,1.5810276679841897,2.083333333333333,15,9
+openstack/debtcollector,openstack/charm-interface-keystone-credentials,Core,5.769230769230769,1.9607843137254901,3,3
+openstack/debtcollector,openstack/charm-interface-keystone-credentials,Non core,0.0,3.9215686274509802,3,3
+openstack/debtcollector,openstack/monasca-kibana-plugin,Core,3.7037037037037033,3.225806451612903,2,3
+openstack/debtcollector,openstack/monasca-kibana-plugin,Non core,0.0,1.6129032258064515,2,3
+openstack/debtcollector,openstack/charm-interface-keystone-domain-backend,Core,6.122448979591836,2.0408163265306123,3,1
+openstack/debtcollector,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,1
+openstack/debtcollector,openstack/devstack-plugin-amqp1,Core,9.803921568627452,16.666666666666664,6,12
+openstack/debtcollector,openstack/devstack-plugin-amqp1,Non core,1.9607843137254901,5.555555555555555,6,12
+openstack/debtcollector,openstack/devstack-plugin-kafka,Core,4.0,13.725490196078432,3,11
+openstack/debtcollector,openstack/devstack-plugin-kafka,Non core,2.0,7.8431372549019605,3,11
+openstack/debtcollector,openstack/tripleo-ipsec,Core,5.769230769230769,3.3333333333333335,5,5
+openstack/debtcollector,openstack/tripleo-ipsec,Non core,3.8461538461538463,5.0,5,5
+openstack/debtcollector,openstack/monasca-grafana-datasource,Core,1.8518518518518516,0.0,2,1
+openstack/debtcollector,openstack/monasca-grafana-datasource,Non core,1.8518518518518516,1.4705882352941175,2,1
+openstack/debtcollector,openstack/charm-interface-bind-rndc,Core,5.88235294117647,1.9607843137254901,3,2
+openstack/debtcollector,openstack/charm-interface-bind-rndc,Non core,0.0,1.9607843137254901,3,2
+openstack/debtcollector,openstack/charm-interface-rabbitmq,Core,6.0,1.9607843137254901,3,3
+openstack/debtcollector,openstack/charm-interface-rabbitmq,Non core,0.0,3.9215686274509802,3,3
+openstack/debtcollector,openstack/charm-interface-openstack-ha,Core,4.0,3.9215686274509802,2,3
+openstack/debtcollector,openstack/charm-interface-openstack-ha,Non core,0.0,1.9607843137254901,2,3
+openstack/debtcollector,openstack/charm-interface-gnocchi,Core,6.25,3.508771929824561,3,3
+openstack/debtcollector,openstack/charm-interface-gnocchi,Non core,0.0,1.7543859649122806,3,3
+openstack/debtcollector,openstack/charm-interface-bgp,Core,6.122448979591836,1.9230769230769231,4,1
+openstack/debtcollector,openstack/charm-interface-bgp,Non core,2.0408163265306123,0.0,4,1
+openstack/debtcollector,openstack/charm-interface-websso-fid-service-provider,Core,0.0,2.083333333333333,0,1
+openstack/debtcollector,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/debtcollector,openstack/charm-interface-designate,Core,2.083333333333333,2.0408163265306123,1,1
+openstack/debtcollector,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/tempest-horizon,Core,8.47457627118644,3.1746031746031744,7,4
+openstack/debtcollector,openstack/tempest-horizon,Non core,3.389830508474576,3.1746031746031744,7,4
+openstack/debtcollector,openstack/logstash-filters,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/logstash-filters,Non core,0.0,2.0408163265306123,0,1
+openstack/debtcollector,openstack/xstatic-jquery-migrate,Core,6.521739130434782,0.0,3,1
+openstack/debtcollector,openstack/xstatic-jquery-migrate,Non core,0.0,2.0,3,1
+openstack/debtcollector,openstack/qinling-dashboard,Core,8.16326530612245,7.2727272727272725,4,6
+openstack/debtcollector,openstack/qinling-dashboard,Non core,0.0,3.6363636363636362,4,6
+openstack/debtcollector,openstack/python-qinlingclient,Core,7.6923076923076925,8.19672131147541,11,10
+openstack/debtcollector,openstack/python-qinlingclient,Non core,9.230769230769232,8.19672131147541,11,10
+openstack/debtcollector,openstack/qinling,Core,7.59493670886076,3.9473684210526314,11,6
+openstack/debtcollector,openstack/qinling,Non core,6.329113924050633,3.9473684210526314,11,6
+openstack/debtcollector,openstack/monasca-analytics,Core,6.153846153846154,5.063291139240507,6,8
+openstack/debtcollector,openstack/monasca-analytics,Non core,3.076923076923077,5.063291139240507,6,8
+openstack/debtcollector,openstack/oslo-incubator,Core,4.318936877076411,3.0973451327433628,16,22
+openstack/debtcollector,openstack/oslo-incubator,Non core,0.9966777408637874,1.7699115044247788,16,22
+openstack/debtcollector,openstack/puppet-congress,Core,7.6923076923076925,1.4925373134328357,10,2
+openstack/debtcollector,openstack/puppet-congress,Non core,7.6923076923076925,1.4925373134328357,10,2
+openstack/debtcollector,openstack/openstack-ansible-os_monasca-ui,Core,5.555555555555555,3.278688524590164,4,3
+openstack/debtcollector,openstack/openstack-ansible-os_monasca-ui,Non core,1.8518518518518516,1.639344262295082,4,3
+openstack/debtcollector,openstack/auto-scaling-sig,Core,2.0,3.389830508474576,1,2
+openstack/debtcollector,openstack/auto-scaling-sig,Non core,0.0,0.0,1,2
+openstack/debtcollector,openstack/os-loganalyze,Core,2.7777777777777777,6.896551724137931,2,9
+openstack/debtcollector,openstack/os-loganalyze,Non core,0.0,3.4482758620689653,2,9
+openstack/debtcollector,openstack/devstack-plugin-pika,Core,4.25531914893617,15.217391304347828,3,10
+openstack/debtcollector,openstack/devstack-plugin-pika,Non core,2.127659574468085,6.521739130434782,3,10
+openstack/debtcollector,openstack/devstack-plugin-zmq,Core,10.204081632653061,16.666666666666664,6,11
+openstack/debtcollector,openstack/devstack-plugin-zmq,Non core,2.0408163265306123,6.25,6,11
+openstack/debtcollector,openstack/networking-l2gw,Core,5.9405940594059405,2.6881720430107525,12,10
+openstack/debtcollector,openstack/networking-l2gw,Non core,5.9405940594059405,2.6881720430107525,12,10
+openstack/debtcollector,openstack/networking-l2gw-tempest-plugin,Core,1.8518518518518516,3.125,3,4
+openstack/debtcollector,openstack/networking-l2gw-tempest-plugin,Non core,3.7037037037037033,3.125,3,4
+openstack/debtcollector,openstack/charm-interface-ceph-mds,Core,6.0,0.0,3,1
+openstack/debtcollector,openstack/charm-interface-ceph-mds,Non core,0.0,2.0,3,1
+openstack/debtcollector,openstack/xstatic-angular-ui-router,Core,4.3478260869565215,2.0,2,2
+openstack/debtcollector,openstack/xstatic-angular-ui-router,Non core,0.0,2.0,2,2
+openstack/debtcollector,openstack/xstatic-vis,Core,4.25531914893617,2.0408163265306123,2,1
+openstack/debtcollector,openstack/xstatic-vis,Non core,0.0,0.0,2,1
+openstack/debtcollector,openstack/cookbook-openstack-database,Core,1.8867924528301887,4.761904761904762,1,5
+openstack/debtcollector,openstack/cookbook-openstack-database,Non core,0.0,3.1746031746031744,1,5
+openstack/debtcollector,openstack/cookbook-openstack-data-processing,Core,2.0,5.357142857142857,1,6
+openstack/debtcollector,openstack/cookbook-openstack-data-processing,Non core,0.0,5.357142857142857,1,6
+openstack/debtcollector,openstack/trove-integration,Core,2.7777777777777777,1.4084507042253522,3,4
+openstack/debtcollector,openstack/trove-integration,Non core,0.0,1.4084507042253522,3,4
+openstack/debtcollector,openstack/ansible-role-tripleo-sensu,Core,4.081632653061225,2.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-sensu,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/python-ceilometerclient,Core,4.57516339869281,4.651162790697675,7,14
+openstack/debtcollector,openstack/python-ceilometerclient,Non core,0.0,1.8604651162790697,7,14
+openstack/debtcollector,openstack/keystoneauth-saml2,Core,5.88235294117647,4.3478260869565215,7,9
+openstack/debtcollector,openstack/keystoneauth-saml2,Non core,7.8431372549019605,8.695652173913043,7,9
+openstack/debtcollector,openstack/murano-deployment,Core,3.8461538461538463,1.2987012987012987,3,4
+openstack/debtcollector,openstack/murano-deployment,Non core,0.0,3.896103896103896,3,4
+openstack/debtcollector,openstack/python-keystoneclient-kerberos,Core,5.660377358490567,7.575757575757576,5,10
+openstack/debtcollector,openstack/python-keystoneclient-kerberos,Non core,3.7735849056603774,7.575757575757576,5,10
+openstack/debtcollector,openstack/python-wsmanclient,Core,4.25531914893617,1.9607843137254901,2,2
+openstack/debtcollector,openstack/python-wsmanclient,Non core,0.0,1.9607843137254901,2,2
+openstack/debtcollector,openstack/fuel-upgrade,Core,3.8461538461538463,1.4925373134328357,3,4
+openstack/debtcollector,openstack/fuel-upgrade,Non core,1.9230769230769231,4.477611940298507,3,4
+openstack/debtcollector,openstack/cookbook-openstack-object-storage,Core,2.8169014084507045,3.6585365853658534,2,5
+openstack/debtcollector,openstack/cookbook-openstack-object-storage,Non core,0.0,2.4390243902439024,2,5
+openstack/debtcollector,openstack/fairy-slipper,Core,6.0,5.357142857142857,3,5
+openstack/debtcollector,openstack/fairy-slipper,Non core,0.0,3.571428571428571,3,5
+openstack/debtcollector,openstack/django-openstack-auth-kerberos,Core,4.166666666666666,1.7857142857142856,3,5
+openstack/debtcollector,openstack/django-openstack-auth-kerberos,Non core,2.083333333333333,7.142857142857142,3,5
+openstack/debtcollector,openstack/horizon-cisco-ui,Core,7.4074074074074066,3.7735849056603774,4,5
+openstack/debtcollector,openstack/horizon-cisco-ui,Non core,0.0,5.660377358490567,4,5
+openstack/debtcollector,openstack/zuul-packaging,Core,4.3478260869565215,3.9215686274509802,2,4
+openstack/debtcollector,openstack/zuul-packaging,Non core,0.0,3.9215686274509802,2,4
+openstack/debtcollector,openstack/networking-generic-switch-tempest-plugin,Core,4.444444444444445,2.2222222222222223,2,1
+openstack/debtcollector,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,2,1
+openstack/debtcollector,openstack/tripleo-incubator,Core,3.6764705882352944,2.525252525252525,6,9
+openstack/debtcollector,openstack/tripleo-incubator,Non core,0.7352941176470588,2.0202020202020203,6,9
+openstack/debtcollector,openstack/ironic-webclient,Core,1.9607843137254901,1.4084507042253522,1,4
+openstack/debtcollector,openstack/ironic-webclient,Non core,0.0,4.225352112676056,1,4
+openstack/debtcollector,openstack/puppet-crane,Core,2.1739130434782608,4.3478260869565215,1,2
+openstack/debtcollector,openstack/puppet-crane,Non core,0.0,0.0,1,2
+openstack/debtcollector,openstack/release-tools,Core,13.043478260869565,8.653846153846153,10,13
+openstack/debtcollector,openstack/release-tools,Non core,1.4492753623188406,3.8461538461538463,10,13
+openstack/debtcollector,openstack/gnocchi,Core,4.62962962962963,4.320987654320987,6,12
+openstack/debtcollector,openstack/gnocchi,Non core,0.9259259259259258,3.0864197530864197,6,12
+openstack/debtcollector,openstack/networking-ofagent,Core,3.7037037037037033,6.349206349206349,2,7
+openstack/debtcollector,openstack/networking-ofagent,Non core,0.0,4.761904761904762,2,7
+openstack/debtcollector,openstack/python-neutron-pd-driver,Core,2.127659574468085,4.3478260869565215,1,3
+openstack/debtcollector,openstack/python-neutron-pd-driver,Non core,0.0,2.1739130434782608,1,3
+openstack/debtcollector,openstack/charm-ceph,Core,1.5873015873015872,1.639344262295082,2,3
+openstack/debtcollector,openstack/charm-ceph,Non core,1.5873015873015872,3.278688524590164,2,3
+openstack/debtcollector,openstack/openstack-ansible-os_freezer,Core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/openstack-ansible-pip_lock_down,Core,7.2727272727272725,3.571428571428571,4,4
+openstack/debtcollector,openstack/openstack-ansible-pip_lock_down,Non core,0.0,3.571428571428571,4,4
+openstack/debtcollector,openstack/openstack-ansible-security,Core,7.6923076923076925,2.7522935779816518,6,5
+openstack/debtcollector,openstack/openstack-ansible-security,Non core,0.0,1.834862385321101,6,5
+openstack/debtcollector,openstack/oslosphinx,Core,18.055555555555554,17.045454545454543,20,26
+openstack/debtcollector,openstack/oslosphinx,Non core,9.722222222222223,12.5,20,26
+openstack/debtcollector,openstack/python-gnocchiclient,Core,5.555555555555555,5.633802816901409,4,6
+openstack/debtcollector,openstack/python-gnocchiclient,Non core,0.0,2.8169014084507045,4,6
+openstack/debtcollector,openstack/ansible-role-k8s-cinder,Core,2.127659574468085,2.127659574468085,1,1
+openstack/debtcollector,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/ansible-role-k8s-cookiecutter,Core,4.3478260869565215,4.25531914893617,2,2
+openstack/debtcollector,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,2
+openstack/debtcollector,openstack/ansible-role-k8s-glance,Core,6.521739130434782,4.25531914893617,3,2
+openstack/debtcollector,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,3,2
+openstack/debtcollector,openstack/ansible-role-k8s-keystone,Core,6.521739130434782,2.0,3,1
+openstack/debtcollector,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-k8s-mariadb,Core,6.382978723404255,4.081632653061225,3,2
+openstack/debtcollector,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,3,2
+openstack/debtcollector,openstack/ansible-role-k8s-rabbitmq,Core,2.1739130434782608,2.2222222222222223,1,1
+openstack/debtcollector,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/ansible-role-k8s-tripleo,Core,6.521739130434782,4.166666666666666,3,2
+openstack/debtcollector,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-ui,Core,4.081632653061225,4.0,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-ui,Non core,2.0408163265306123,0.0,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-aodh,Core,4.081632653061225,2.0,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-aodh,Non core,2.0408163265306123,2.0,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-barbican,Core,4.081632653061225,2.0408163265306123,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-barbican,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-ceilometer,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-ceilometer,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-cinder,Core,4.081632653061225,2.0408163265306123,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-cinder,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-cookiecutter,Core,7.6923076923076925,3.571428571428571,4,3
+openstack/debtcollector,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,1.7857142857142856,4,3
+openstack/debtcollector,openstack/tripleo-ui,Core,6.8493150684931505,5.714285714285714,7,9
+openstack/debtcollector,openstack/tripleo-ui,Non core,2.73972602739726,2.857142857142857,7,9
+openstack/debtcollector,openstack/ansible-role-tripleo-ovn,Core,4.081632653061225,2.0408163265306123,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-ovn,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-opendaylight,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-opendaylight,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-octavia,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-octavia,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-nova,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-nova,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/os-cloud-config,Core,9.090909090909092,3.937007874015748,9,11
+openstack/debtcollector,openstack/os-cloud-config,Non core,1.1363636363636365,4.724409448818897,9,11
+openstack/debtcollector,openstack/ansible-role-tripleo-zaqar,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-zaqar,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-tempest,Core,4.081632653061225,2.0408163265306123,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-tempest,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-sahara,Core,4.081632653061225,2.0408163265306123,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-sahara,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-swift,Core,4.081632653061225,2.0408163265306123,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-swift,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-tacker,Core,4.081632653061225,2.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-tacker,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,4.081632653061225,2.0408163265306123,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-rabbitmq,Core,4.081632653061225,2.0408163265306123,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-rabbitmq,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-qdrouterd,Core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/ansible-role-tripleo-panko,Core,4.081632653061225,2.0408163265306123,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-panko,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-heat,Core,4.0,2.0408163265306123,2,1
+openstack/debtcollector,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,2,1
+openstack/debtcollector,openstack/ansible-role-tripleo-haproxy,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-haproxy,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-gnocchi,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-gnocchi,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-glance,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-glance,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-designate,Core,4.081632653061225,2.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-designate,Non core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/ansible-role-tripleo-neutron,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-neutron,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-mistral,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-mistral,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-memcached,Core,4.081632653061225,2.0,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-memcached,Non core,2.0408163265306123,2.0,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-manila,Core,4.081632653061225,2.0,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-manila,Non core,2.0408163265306123,2.0,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-ironic,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-ironic,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-keepalived,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-keepalived,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-horizon,Core,4.081632653061225,2.0408163265306123,3,2
+openstack/debtcollector,openstack/ansible-role-tripleo-horizon,Non core,2.0408163265306123,2.0408163265306123,3,2
+openstack/debtcollector,openstack/pylockfile,Core,10.416666666666668,22.448979591836736,6,15
+openstack/debtcollector,openstack/pylockfile,Non core,2.083333333333333,8.16326530612245,6,15
+openstack/debtcollector,openstack/xstatic-moment-timezone,Core,2.127659574468085,2.127659574468085,1,1
+openstack/debtcollector,openstack/xstatic-moment-timezone,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/xstatic-dagre-d3,Core,2.127659574468085,2.127659574468085,1,1
+openstack/debtcollector,openstack/xstatic-dagre-d3,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/dragonflow,Core,4.487179487179487,3.167420814479638,14,15
+openstack/debtcollector,openstack/dragonflow,Non core,4.487179487179487,3.619909502262444,14,15
+openstack/debtcollector,openstack/openstack,Core,4.25531914893617,12.962962962962962,3,8
+openstack/debtcollector,openstack/openstack,Non core,2.127659574468085,1.8518518518518516,3,8
+openstack/debtcollector,openstack/charm-interface-pacemaker-remote,Core,2.083333333333333,1.9607843137254901,2,2
+openstack/debtcollector,openstack/charm-interface-pacemaker-remote,Non core,2.083333333333333,1.9607843137254901,2,2
+openstack/debtcollector,openstack/networking-onos,Core,1.639344262295082,2.247191011235955,1,5
+openstack/debtcollector,openstack/networking-onos,Non core,0.0,3.3707865168539324,1,5
+openstack/debtcollector,openstack/solum-infra-guestagent,Core,1.9607843137254901,1.7857142857142856,1,2
+openstack/debtcollector,openstack/solum-infra-guestagent,Non core,0.0,1.7857142857142856,1,2
+openstack/debtcollector,openstack/openstack-ux,Core,2.083333333333333,1.639344262295082,1,2
+openstack/debtcollector,openstack/openstack-ux,Non core,0.0,1.639344262295082,1,2
+openstack/debtcollector,openstack/mox3,Core,16.363636363636363,19.672131147540984,17,21
+openstack/debtcollector,openstack/mox3,Non core,14.545454545454545,14.754098360655737,17,21
+openstack/debtcollector,openstack/charm-layer-ceph,Core,2.127659574468085,0.0,1,0
+openstack/debtcollector,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/debtcollector,openstack/charm-layer-ceph-base,Core,4.166666666666666,0.0,2,1
+openstack/debtcollector,openstack/charm-layer-ceph-base,Non core,0.0,2.0408163265306123,2,1
+openstack/debtcollector,openstack/python-tricircleclient,Core,7.2727272727272725,5.970149253731343,9,7
+openstack/debtcollector,openstack/python-tricircleclient,Non core,9.090909090909092,4.477611940298507,9,7
+openstack/debtcollector,openstack/tricircle,Core,5.217391304347826,3.508771929824561,11,12
+openstack/debtcollector,openstack/tricircle,Non core,4.3478260869565215,3.508771929824561,11,12
+openstack/debtcollector,openstack/swift-specs,Core,6.153846153846154,2.857142857142857,4,4
+openstack/debtcollector,openstack/swift-specs,Non core,0.0,0.9523809523809524,4,4
+openstack/debtcollector,openstack/congress,Core,4.918032786885246,2.928870292887029,15,16
+openstack/debtcollector,openstack/congress,Non core,3.278688524590164,3.765690376569038,15,16
+openstack/debtcollector,openstack/congress-tempest-plugin,Core,3.278688524590164,3.076923076923077,4,5
+openstack/debtcollector,openstack/congress-tempest-plugin,Non core,3.278688524590164,4.615384615384616,4,5
+openstack/debtcollector,openstack/python-congressclient,Core,8.433734939759036,4.597701149425287,14,10
+openstack/debtcollector,openstack/python-congressclient,Non core,8.433734939759036,6.896551724137931,14,10
+openstack/debtcollector,openstack/congress-specs,Core,5.333333333333334,1.1627906976744187,5,6
+openstack/debtcollector,openstack/congress-specs,Non core,1.3333333333333335,5.813953488372093,5,6
+openstack/debtcollector,openstack/congress-dashboard,Core,7.936507936507936,5.633802816901409,7,8
+openstack/debtcollector,openstack/congress-dashboard,Non core,3.1746031746031744,5.633802816901409,7,8
+openstack/debtcollector,openstack/syntribos,Core,7.246376811594203,2.666666666666667,7,5
+openstack/debtcollector,openstack/syntribos,Non core,2.898550724637681,4.0,7,5
+openstack/debtcollector,openstack/syntribos-payloads,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/syntribos-payloads,Non core,0.0,2.0,1,1
+openstack/debtcollector,openstack/syntribos-openstack-templates,Core,2.083333333333333,0.0,1,1
+openstack/debtcollector,openstack/syntribos-openstack-templates,Non core,0.0,1.9230769230769231,1,1
+openstack/debtcollector,openstack/i18n-specs,Core,4.3478260869565215,2.0,2,2
+openstack/debtcollector,openstack/i18n-specs,Non core,0.0,2.0,2,2
+openstack/debtcollector,openstack/tempest-plugin-cookiecutter,Core,4.166666666666666,5.660377358490567,2,4
+openstack/debtcollector,openstack/tempest-plugin-cookiecutter,Non core,0.0,1.8867924528301887,2,4
+openstack/debtcollector,openstack/devstack-plugin-cookiecutter,Core,2.083333333333333,4.25531914893617,1,3
+openstack/debtcollector,openstack/devstack-plugin-cookiecutter,Non core,0.0,2.127659574468085,1,3
+openstack/debtcollector,openstack/xstatic-graphlib,Core,0.0,2.127659574468085,0,1
+openstack/debtcollector,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/debtcollector,openstack/openstack-ansible-repo_build,Core,4.123711340206185,1.680672268907563,7,9
+openstack/debtcollector,openstack/openstack-ansible-repo_build,Non core,3.0927835051546393,5.88235294117647,7,9
+openstack/debtcollector,openstack/xstatic-bootstrap-datepicker,Core,3.9215686274509802,0.0,2,3
+openstack/debtcollector,openstack/xstatic-bootstrap-datepicker,Non core,0.0,5.172413793103448,2,3
+openstack/debtcollector,openstack/xstatic-hogan,Core,6.666666666666667,0.0,3,1
+openstack/debtcollector,openstack/xstatic-hogan,Non core,0.0,2.0408163265306123,3,1
+openstack/debtcollector,openstack/xstatic-jquery.quicksearch,Core,6.666666666666667,0.0,3,1
+openstack/debtcollector,openstack/xstatic-jquery.quicksearch,Non core,0.0,2.0408163265306123,3,1
+openstack/debtcollector,openstack/openstack-ansible-os_molteniron,Core,3.125,1.4705882352941175,5,7
+openstack/debtcollector,openstack/openstack-ansible-os_molteniron,Non core,4.6875,8.823529411764707,5,7
+openstack/debtcollector,openstack/xstatic-angular-lrdragndrop,Core,2.0,1.8518518518518516,2,4
+openstack/debtcollector,openstack/xstatic-angular-lrdragndrop,Non core,2.0,5.555555555555555,2,4
+openstack/debtcollector,openstack/faafo,Core,5.660377358490567,1.7241379310344827,3,4
+openstack/debtcollector,openstack/faafo,Non core,0.0,5.172413793103448,3,4
+openstack/debtcollector,openstack/xstatic-angular-bootstrap,Core,3.7735849056603774,1.694915254237288,2,4
+openstack/debtcollector,openstack/xstatic-angular-bootstrap,Non core,0.0,5.084745762711865,2,4
+openstack/debtcollector,openstack/networking-calico,Core,5.47945205479452,3.125,6,6
+openstack/debtcollector,openstack/networking-calico,Non core,2.73972602739726,3.125,6,6
+openstack/debtcollector,openstack/xstatic-angular-gettext,Core,1.9607843137254901,0.0,1,3
+openstack/debtcollector,openstack/xstatic-angular-gettext,Non core,0.0,5.454545454545454,1,3
+openstack/debtcollector,openstack/shotgun,Core,1.5873015873015872,0.8695652173913043,2,3
+openstack/debtcollector,openstack/shotgun,Non core,1.5873015873015872,1.7391304347826086,2,3
+openstack/debtcollector,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-aioeventlet,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/fuel-devops,Core,2.8846153846153846,0.5617977528089888,3,7
+openstack/debtcollector,openstack/fuel-devops,Non core,0.0,3.3707865168539324,3,7
+openstack/debtcollector,openstack/fuel-plugin-murano,Core,3.571428571428571,1.4084507042253522,2,3
+openstack/debtcollector,openstack/fuel-plugin-murano,Non core,0.0,2.8169014084507045,2,3
+openstack/debtcollector,openstack/fuel-web,Core,2.0080321285140563,0.46728971962616817,7,6
+openstack/debtcollector,openstack/fuel-web,Non core,0.8032128514056224,0.9345794392523363,7,6
+openstack/debtcollector,openstack/fuel-plugins,Core,3.4482758620689653,0.7092198581560284,4,4
+openstack/debtcollector,openstack/fuel-plugins,Non core,1.1494252873563218,2.127659574468085,4,4
+openstack/debtcollector,openstack/fuel-virtualbox,Core,5.769230769230769,1.5625,3,2
+openstack/debtcollector,openstack/fuel-virtualbox,Non core,0.0,1.5625,3,2
+openstack/debtcollector,openstack/fuel-ostf,Core,2.898550724637681,0.796812749003984,5,5
+openstack/debtcollector,openstack/fuel-ostf,Non core,0.7246376811594203,1.1952191235059761,5,5
+openstack/debtcollector,openstack/fuel-qa,Core,1.8072289156626504,0.7067137809187279,3,6
+openstack/debtcollector,openstack/fuel-qa,Non core,0.0,1.4134275618374559,3,6
+openstack/debtcollector,openstack/fuel-specs,Core,2.0689655172413794,1.1904761904761905,3,6
+openstack/debtcollector,openstack/fuel-specs,Non core,0.0,0.5952380952380952,3,6
+openstack/debtcollector,openstack/fuel-nailgun-extension-cluster-upgrade,Core,3.7037037037037033,1.5625,2,2
+openstack/debtcollector,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,1.5625,2,2
+openstack/debtcollector,openstack/fuel-nailgun-agent,Core,2.4691358024691357,0.7299270072992701,2,4
+openstack/debtcollector,openstack/fuel-nailgun-agent,Non core,0.0,2.18978102189781,2,4
+openstack/debtcollector,openstack/fuel-mirror,Core,2.666666666666667,0.7092198581560284,3,5
+openstack/debtcollector,openstack/fuel-mirror,Non core,1.3333333333333335,2.8368794326241136,3,5
+openstack/debtcollector,openstack/fuel-menu,Core,3.9473684210526314,1.3071895424836601,4,5
+openstack/debtcollector,openstack/fuel-menu,Non core,1.3157894736842104,1.9607843137254901,4,5
+openstack/debtcollector,openstack/fuel-main,Core,1.6574585635359116,0.7017543859649122,3,7
+openstack/debtcollector,openstack/fuel-main,Non core,0.0,1.7543859649122806,3,7
+openstack/debtcollector,openstack/fuel-ui,Core,3.571428571428571,0.7692307692307693,3,3
+openstack/debtcollector,openstack/fuel-ui,Non core,0.0,1.5384615384615385,3,3
+openstack/debtcollector,openstack/fuel-library,Core,1.6666666666666667,0.8421052631578947,5,8
+openstack/debtcollector,openstack/fuel-library,Non core,0.4166666666666667,0.8421052631578947,5,8
+openstack/debtcollector,openstack/fuel-dev-tools,Core,7.4074074074074066,1.6129032258064515,5,4
+openstack/debtcollector,openstack/fuel-dev-tools,Non core,1.8518518518518516,4.838709677419355,5,4
+openstack/debtcollector,openstack/fuel-stats,Core,4.761904761904762,1.1363636363636365,3,4
+openstack/debtcollector,openstack/fuel-stats,Non core,0.0,3.4090909090909087,3,4
+openstack/debtcollector,openstack/fuel-nailgun-extension-converted-serializers,Core,2.127659574468085,2.127659574468085,1,2
+openstack/debtcollector,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,2.127659574468085,1,2
+openstack/debtcollector,openstack/fuel-nailgun-extension-iac,Core,2.0408163265306123,2.0408163265306123,1,2
+openstack/debtcollector,openstack/fuel-nailgun-extension-iac,Non core,0.0,2.0408163265306123,1,2
+openstack/debtcollector,openstack/fuel-plugin-murano-tests,Core,1.7857142857142856,1.4084507042253522,1,3
+openstack/debtcollector,openstack/fuel-plugin-murano-tests,Non core,0.0,2.8169014084507045,1,3
+openstack/debtcollector,openstack/fuel-astute,Core,2.803738317757009,0.5181347150259068,4,4
+openstack/debtcollector,openstack/fuel-astute,Non core,0.9345794392523363,1.5544041450777202,4,4
+openstack/debtcollector,openstack/fuel-docs,Core,0.7194244604316548,1.1363636363636365,2,7
+openstack/debtcollector,openstack/fuel-docs,Non core,0.7194244604316548,0.8522727272727272,2,7
+openstack/debtcollector,openstack/fuel-agent,Core,3.6363636363636362,0.5291005291005291,5,4
+openstack/debtcollector,openstack/fuel-agent,Non core,0.9090909090909091,1.5873015873015872,5,4
+openstack/debtcollector,openstack/fuel-octane,Core,5.555555555555555,1.0416666666666665,5,4
+openstack/debtcollector,openstack/fuel-octane,Non core,1.3888888888888888,3.125,5,4
+openstack/debtcollector,openstack/tuning-box,Core,2.0,1.4705882352941175,1,3
+openstack/debtcollector,openstack/tuning-box,Non core,0.0,2.941176470588235,1,3
+openstack/debtcollector,openstack/python-fuelclient,Core,1.7857142857142856,1.0810810810810811,3,6
+openstack/debtcollector,openstack/python-fuelclient,Non core,0.8928571428571428,2.1621621621621623,3,6
+openstack/debtcollector,openstack/neutron-interconnection,Core,0.0,3.7037037037037033,1,2
+openstack/debtcollector,openstack/neutron-interconnection,Non core,2.127659574468085,0.0,1,2
+openstack/debtcollector,openstack/openstack-chef-repo,Core,1.1764705882352942,2.1052631578947367,2,4
+openstack/debtcollector,openstack/openstack-chef-repo,Non core,1.1764705882352942,2.1052631578947367,2,4
+openstack/debtcollector,openstack/os-acc,Core,0.0,3.278688524590164,0,2
+openstack/debtcollector,openstack/os-acc,Non core,0.0,0.0,0,2
+openstack/debtcollector,openstack/openstack-ansible-os_zaqar,Core,3.9473684210526314,1.1494252873563218,6,6
+openstack/debtcollector,openstack/openstack-ansible-os_zaqar,Non core,3.9473684210526314,5.747126436781609,6,6
+openstack/debtcollector,openstack/openstack-ansible-os_watcher,Core,2.7777777777777777,2.5974025974025974,5,8
+openstack/debtcollector,openstack/openstack-ansible-os_watcher,Non core,4.166666666666666,7.792207792207792,5,8
+openstack/debtcollector,openstack/openstack-ansible-os_searchlight,Core,3.125,0.0,5,2
+openstack/debtcollector,openstack/openstack-ansible-os_searchlight,Non core,4.6875,2.7027027027027026,5,2
+openstack/debtcollector,openstack/xstatic-angular-vis,Core,2.1739130434782608,0.0,1,0
+openstack/debtcollector,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/debtcollector,openstack/xstatic-font-awesome,Core,1.9607843137254901,0.0,1,3
+openstack/debtcollector,openstack/xstatic-font-awesome,Non core,0.0,5.454545454545454,1,3
+openstack/debtcollector,openstack/xstatic-jasmine,Core,3.7037037037037033,0.0,2,3
+openstack/debtcollector,openstack/xstatic-jasmine,Non core,0.0,5.263157894736842,2,3
+openstack/debtcollector,openstack/xstatic-angular-notify,Core,2.1739130434782608,0.0,1,0
+openstack/debtcollector,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/debtcollector,openstack/xstatic-angular-material,Core,4.25531914893617,0.0,2,0
+openstack/debtcollector,openstack/xstatic-angular-material,Non core,0.0,0.0,2,0
+openstack/debtcollector,openstack/tempest-tripleo-ui,Core,2.083333333333333,1.7857142857142856,1,1
+openstack/debtcollector,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/docs-specs,Core,7.0588235294117645,4.219409282700422,8,14
+openstack/debtcollector,openstack/docs-specs,Non core,2.3529411764705883,1.6877637130801686,8,14
+openstack/debtcollector,openstack/release-schedule-generator,Core,4.3478260869565215,4.166666666666666,3,3
+openstack/debtcollector,openstack/release-schedule-generator,Non core,2.1739130434782608,2.083333333333333,3,3
+openstack/debtcollector,openstack-infra/opendev-website,Core,2.1739130434782608,2.0,1,1
+openstack/debtcollector,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/castellan-ui,Core,4.081632653061225,3.278688524590164,2,4
+openstack/debtcollector,openstack/castellan-ui,Non core,0.0,3.278688524590164,2,4
+openstack/debtcollector,openstack-attic/compute-api,Core,1.4705882352941175,3.896103896103896,1,4
+openstack/debtcollector,openstack-attic/compute-api,Non core,0.0,1.2987012987012987,1,4
+openstack/debtcollector,openstack/charm-neutron-api-odl,Core,1.8518518518518516,0.0,2,2
+openstack/debtcollector,openstack/charm-neutron-api-odl,Non core,1.8518518518518516,3.7037037037037033,2,2
+openstack/debtcollector,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/charm-murano,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/charm-murano,Non core,0.0,2.127659574468085,1,1
+openstack/debtcollector,openstack/charm-openvswitch-odl,Core,1.8181818181818181,0.0,1,2
+openstack/debtcollector,openstack/charm-openvswitch-odl,Non core,0.0,3.8461538461538463,1,2
+openstack/debtcollector,openstack/charm-interface-odl-controller-api,Core,4.25531914893617,0.0,2,1
+openstack/debtcollector,openstack/charm-interface-odl-controller-api,Non core,0.0,2.127659574468085,2,1
+openstack/debtcollector,openstack/charm-glusterfs,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/charm-glusterfs,Non core,0.0,1.9230769230769231,1,1
+openstack/debtcollector,openstack/charm-trove,Core,1.9607843137254901,0.0,2,1
+openstack/debtcollector,openstack/charm-trove,Non core,1.9607843137254901,1.9607843137254901,2,1
+openstack/debtcollector,openstack/deb-python-positional,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-positional,Non core,2.1739130434782608,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-requests-unixsocket,Non core,2.127659574468085,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-traceback2,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-traceback2,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-ryu,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-ryu,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-linecache2,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-linecache2,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-gabbi,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-gabbi,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-cotyledon,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-cotyledon,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-migrate,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-migrate,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/fuxi,Core,2.941176470588235,1.1363636363636365,5,3
+openstack/debtcollector,openstack/fuxi,Non core,4.411764705882353,2.272727272727273,5,3
+openstack/debtcollector,openstack/xstatic-filesaver,Core,2.1739130434782608,0.0,1,0
+openstack/debtcollector,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/debtcollector,openstack/xstatic-angular-uuid,Core,2.1739130434782608,0.0,1,0
+openstack/debtcollector,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/debtcollector,openstack/bandit,Core,4.040404040404041,6.796116504854369,6,12
+openstack/debtcollector,openstack/bandit,Non core,2.0202020202020203,4.854368932038835,6,12
+openstack/debtcollector,openstack/xstatic-angular-smart-table,Core,4.25531914893617,0.0,2,1
+openstack/debtcollector,openstack/xstatic-angular-smart-table,Non core,0.0,1.9607843137254901,2,1
+openstack/debtcollector,openstack/xstatic-bootswatch,Core,2.0408163265306123,0.0,1,3
+openstack/debtcollector,openstack/xstatic-bootswatch,Non core,0.0,5.454545454545454,1,3
+openstack/debtcollector,openstack/deb-msgpack-python,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-msgpack-python,Non core,2.1739130434782608,2.127659574468085,1,1
+openstack/debtcollector,openstack/xstatic-d3,Core,2.0,0.0,1,3
+openstack/debtcollector,openstack/xstatic-d3,Non core,0.0,5.454545454545454,1,3
+openstack/debtcollector,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/deb-python-pymemcache,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pymemcache,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-novnc,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-novnc,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/instack,Core,6.557377049180328,4.054054054054054,7,7
+openstack/debtcollector,openstack/instack,Non core,4.918032786885246,5.405405405405405,7,7
+openstack/debtcollector,openstack/deb-python-pysaml2,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pysaml2,Non core,2.1739130434782608,2.083333333333333,1,1
+openstack/debtcollector,openstack/deb-python-trollius,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-trollius,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-autobahn,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-autobahn,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-pyldap,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pyldap,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/astara,Core,3.79746835443038,2.272727272727273,4,6
+openstack/debtcollector,openstack/astara,Non core,1.2658227848101267,4.545454545454546,4,6
+openstack/debtcollector,openstack/astara-appliance,Core,3.4482758620689653,3.125,2,5
+openstack/debtcollector,openstack/astara-appliance,Non core,0.0,4.6875,2,5
+openstack/debtcollector,openstack/astara-horizon,Core,1.9230769230769231,1.7543859649122806,1,5
+openstack/debtcollector,openstack/astara-horizon,Non core,0.0,7.017543859649122,1,5
+openstack/debtcollector,openstack/astara-neutron,Core,1.7857142857142856,1.694915254237288,1,4
+openstack/debtcollector,openstack/astara-neutron,Non core,0.0,5.084745762711865,1,4
+openstack/debtcollector,openstack/anchor,Core,1.4084507042253522,2.4691358024691357,2,7
+openstack/debtcollector,openstack/anchor,Non core,1.4084507042253522,6.172839506172839,2,7
+openstack/debtcollector,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/fuxi-golang,Core,2.2222222222222223,2.083333333333333,1,1
+openstack/debtcollector,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/fuxi-kubernetes,Core,2.1739130434782608,1.9230769230769231,1,2
+openstack/debtcollector,openstack/fuxi-kubernetes,Non core,0.0,1.9230769230769231,1,2
+openstack/debtcollector,openstack-infra/puppet-odsreg,Core,2.0,1.8181818181818181,1,4
+openstack/debtcollector,openstack-infra/puppet-odsreg,Non core,0.0,5.454545454545454,1,4
+openstack/debtcollector,openstack-infra/puppet-docker_registry,Core,2.2222222222222223,0.0,1,0
+openstack/debtcollector,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/debtcollector,openstack/releasestatus,Core,2.127659574468085,1.9607843137254901,1,2
+openstack/debtcollector,openstack/releasestatus,Non core,0.0,1.9607843137254901,1,2
+openstack/debtcollector,openstack-infra/vinz-webclient,Core,2.2222222222222223,0.0,1,0
+openstack/debtcollector,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/debtcollector,openstack/activity-board,Core,1.6666666666666667,5.813953488372093,1,7
+openstack/debtcollector,openstack/activity-board,Non core,0.0,2.3255813953488373,1,7
+openstack/debtcollector,openstack-infra/beaker-localhost,Core,2.2222222222222223,2.1739130434782608,1,1
+openstack/debtcollector,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack-infra/beaker-nodepool,Core,2.2222222222222223,2.1739130434782608,1,1
+openstack/debtcollector,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/debtcollector,openstack/rst2bash,Core,4.25531914893617,5.88235294117647,2,4
+openstack/debtcollector,openstack/rst2bash,Non core,0.0,1.9607843137254901,2,4
+openstack/debtcollector,openstack/kolla-kubernetes,Core,3.8834951456310676,1.25,8,5
+openstack/debtcollector,openstack/kolla-kubernetes,Non core,3.8834951456310676,1.875,8,5
+openstack/debtcollector,openstack/cue-dashboard,Core,5.769230769230769,4.0,4,6
+openstack/debtcollector,openstack/cue-dashboard,Non core,1.9230769230769231,8.0,4,6
+openstack/debtcollector,openstack/python-cueclient,Core,5.357142857142857,6.0,3,6
+openstack/debtcollector,openstack/python-cueclient,Non core,0.0,6.0,3,6
+openstack/debtcollector,openstack/cue,Core,5.555555555555555,4.10958904109589,5,7
+openstack/debtcollector,openstack/cue,Non core,1.3888888888888888,5.47945205479452,5,7
+openstack/debtcollector,openstack/app-catalog,Core,4.9504950495049505,0.9345794392523363,6,3
+openstack/debtcollector,openstack/app-catalog,Non core,0.9900990099009901,1.8691588785046727,6,3
+openstack/debtcollector,openstack-attic/identity-api,Core,1.1764705882352942,4.166666666666666,3,8
+openstack/debtcollector,openstack-attic/identity-api,Non core,2.3529411764705883,2.5,3,8
+openstack/debtcollector,openstack/deb-python-fixtures,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-fixtures,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/python-magnetodbclient,Non core,0.0,1.8518518518518516,0,1
+openstack/debtcollector,openstack/app-catalog-ui,Core,5.88235294117647,1.694915254237288,3,3
+openstack/debtcollector,openstack/app-catalog-ui,Non core,0.0,3.389830508474576,3,3
+openstack/debtcollector,openstack/salt-formula-kubernetes,Core,2.0,0.0,1,1
+openstack/debtcollector,openstack/salt-formula-kubernetes,Non core,0.0,1.9607843137254901,1,1
+openstack/debtcollector,openstack/app-catalog-common,Core,0.0,2.1739130434782608,0,2
+openstack/debtcollector,openstack/app-catalog-common,Non core,0.0,2.1739130434782608,0,2
+openstack/debtcollector,openstack/python-appcatalogclient,Core,2.083333333333333,2.0408163265306123,1,2
+openstack/debtcollector,openstack/python-appcatalogclient,Non core,0.0,2.0408163265306123,1,2
+openstack/debtcollector,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/deb-nova,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-nova,Non core,2.127659574468085,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-kazoo,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-kazoo,Non core,2.1739130434782608,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-python-congressclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-congressclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-congress,Core,2.2222222222222223,0.0,1,1
+openstack/debtcollector,openstack/deb-congress,Non core,0.0,2.2222222222222223,1,1
+openstack/debtcollector,openstack/deb-python-os-net-config,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-python-os-net-config,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-ironic,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-ironic,Non core,2.127659574468085,2.0408163265306123,2,1
+openstack/debtcollector,openstack/deb-swauth,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-swauth,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-os-api-ref,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-os-api-ref,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-designate,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-designate,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-swift,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-swift,Non core,0.0,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-manila-ui,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-manila-ui,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-barbican,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-barbican,Non core,2.127659574468085,2.0408163265306123,2,1
+openstack/debtcollector,openstack/deb-cinder,Core,2.083333333333333,0.0,2,1
+openstack/debtcollector,openstack/deb-cinder,Non core,2.083333333333333,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-magnum,Core,2.083333333333333,0.0,2,1
+openstack/debtcollector,openstack/deb-magnum,Non core,2.083333333333333,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-trove,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/deb-trove,Non core,0.0,2.0,1,1
+openstack/debtcollector,openstack/deb-openstack-pkg-tools,Core,2.0408163265306123,1.8867924528301887,2,2
+openstack/debtcollector,openstack/deb-openstack-pkg-tools,Non core,2.0408163265306123,1.8867924528301887,2,2
+openstack/debtcollector,openstack/deb-python-swiftclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-swiftclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-alembic,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-alembic,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-cinderclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-cinderclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-bootstrap,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-bootstrap,Non core,2.1739130434782608,2.1739130434782608,2,1
+openstack/debtcollector,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/deb-networking-nec,Core,2.2222222222222223,0.0,1,1
+openstack/debtcollector,openstack/deb-networking-nec,Non core,0.0,2.2222222222222223,1,1
+openstack/debtcollector,openstack/deb-neutron-taas,Core,2.2222222222222223,0.0,1,1
+openstack/debtcollector,openstack/deb-neutron-taas,Non core,0.0,2.2222222222222223,1,1
+openstack/debtcollector,openstack/deb-networking-mlnx,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-networking-mlnx,Non core,2.1739130434782608,2.1739130434782608,2,1
+openstack/debtcollector,openstack/deb-openstack-meta-packages,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-openstack-meta-packages,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-networking-odl,Core,2.2222222222222223,0.0,1,1
+openstack/debtcollector,openstack/deb-networking-odl,Non core,0.0,2.2222222222222223,1,1
+openstack/debtcollector,openstack/deb-nodepool,Core,2.2222222222222223,0.0,1,1
+openstack/debtcollector,openstack/deb-nodepool,Non core,0.0,2.2222222222222223,1,1
+openstack/debtcollector,openstack/deb-networking-cisco,Core,2.2222222222222223,0.0,1,1
+openstack/debtcollector,openstack/deb-networking-cisco,Non core,0.0,2.2222222222222223,1,1
+openstack/debtcollector,openstack/deb-networking-midonet,Core,2.2222222222222223,0.0,1,1
+openstack/debtcollector,openstack/deb-networking-midonet,Non core,0.0,2.2222222222222223,1,1
+openstack/debtcollector,openstack/deb-networking-arista,Core,2.2222222222222223,0.0,2,1
+openstack/debtcollector,openstack/deb-networking-arista,Non core,2.2222222222222223,2.1739130434782608,2,1
+openstack/debtcollector,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/deb-networking-hyperv,Core,2.2222222222222223,0.0,1,1
+openstack/debtcollector,openstack/deb-networking-hyperv,Non core,0.0,2.2222222222222223,1,1
+openstack/debtcollector,openstack/deb-python-rtslib-fb,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-rtslib-fb,Non core,2.127659574468085,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-murano,Core,2.083333333333333,0.0,2,1
+openstack/debtcollector,openstack/deb-murano,Non core,2.083333333333333,2.0,2,1
+openstack/debtcollector,openstack/deb-python-semantic-version,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-semantic-version,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-ldappool,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-ldappool,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-zaqar-ui,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-zaqar-ui,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-zaqar,Core,2.083333333333333,0.0,2,1
+openstack/debtcollector,openstack/deb-zaqar,Non core,2.083333333333333,2.0,2,1
+openstack/debtcollector,openstack/deb-watcher,Core,2.083333333333333,0.0,2,1
+openstack/debtcollector,openstack/deb-watcher,Non core,2.083333333333333,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-os-testr,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-os-testr,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-os-win,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-os-win,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-pycadf,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-pycadf,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-pyghmi,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-pyghmi,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-reno,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-reno,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-os-refresh-config,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/deb-python-os-refresh-config,Non core,0.0,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-python-os-vif,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-os-vif,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-pyeclib,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pyeclib,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-quantumclient,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-python-quantumclient,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-requestsexceptions,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-requestsexceptions,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-pbr,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-pbr,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-requests-mock,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-requests-mock,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-saharaclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-saharaclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-scciclient,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/deb-python-scciclient,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-seamicroclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-seamicroclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-auto-backports,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-auto-backports,Non core,2.127659574468085,2.0408163265306123,2,1
+openstack/debtcollector,openstack/deb-python-senlinclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-senlinclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-taskflow,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-taskflow,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-testtools,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-testtools,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-tooz,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-tooz,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-shotgun,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/deb-python-shotgun,Non core,0.0,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-python-tackerclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-tackerclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-tosca-parser,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/deb-python-tosca-parser,Non core,0.0,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-python-troveclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-troveclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-tuskarclient,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-python-tuskarclient,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-watcherclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-watcherclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-cookies,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-cookies,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-fileupload,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-fileupload,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-lrdragndrop,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-wsme,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-wsme,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-schema-form,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-schema-form,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-bootstrap-datepicker,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-bootswatch,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-bootswatch,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-gettext,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-gettext,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-mock,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-angular-mock,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-bootstrap-scss,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-bootstrap-scss,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-d3,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-d3,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-hogan,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-hogan,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-font-awesome,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-font-awesome,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jasmine,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jasmine,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery-migrate,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery-migrate,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery.quicksearch,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery.quicksearch,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery.tablesorter,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery.tablesorter,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jsencrypt,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-jsencrypt,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-magic-search,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-magic-search,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-mdi,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-mdi,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-objectpath,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-objectpath,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-qunit,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-qunit,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-rickshaw,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-rickshaw,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-spin,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-spin,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-tv4,Core,2.2222222222222223,0.0,2,1
+openstack/debtcollector,openstack/deb-python-xstatic-tv4,Non core,2.2222222222222223,2.1739130434782608,2,1
+openstack/debtcollector,openstack/deb-python-yaql,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-yaql,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-zaqarclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-zaqarclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-rally,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/deb-rally,Non core,0.0,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-sahara,Core,2.083333333333333,0.0,2,1
+openstack/debtcollector,openstack/deb-sahara,Non core,2.083333333333333,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-sahara-dashboard,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-sahara-dashboard,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-senlin,Core,2.083333333333333,0.0,2,1
+openstack/debtcollector,openstack/deb-senlin,Non core,2.083333333333333,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-senlin-dashboard,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-senlin-dashboard,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-stevedore,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-stevedore,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-swift-bench,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-swift-bench,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-swift-plugin-s3,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-swift-plugin-s3,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-trove-dashboard,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-trove-dashboard,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-tempest,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-tempest,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-osprofiler,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-osprofiler,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.vmware,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.vmware,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.utils,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.utils,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.rootwrap,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.rootwrap,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.service,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.service,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.privsep,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.privsep,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.versionedobjects,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.versionedobjects,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslotest,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslotest,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.serialization,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.serialization,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.reports,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.reports,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.policy,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.policy,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.middleware,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.middleware,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.messaging,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.messaging,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.log,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.log,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-aodhclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-aodhclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-automaton,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-automaton,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-barbicanclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-barbicanclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-bashate,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-python-bashate,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-castellan,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-castellan,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-ceilometerclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-ceilometerclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-ceilometermiddleware,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-ceilometermiddleware,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-cliff,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-cliff,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-cursive,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-cursive,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-debtcollector,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-debtcollector,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-designateclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-designateclient,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-dib-utils,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-python-dib-utils,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-diskimage-builder,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-diskimage-builder,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-doc8,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-doc8,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-django-openstack-auth,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-django-openstack-auth,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-fuelclient,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/deb-python-fuelclient,Non core,0.0,2.0,1,1
+openstack/debtcollector,openstack/deb-python-dogpile.cache,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-dogpile.cache,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-futurist,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-futurist,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-glanceclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-glanceclient,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-glance-store,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-glance-store,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-hacking,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-hacking,Non core,2.127659574468085,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-heatclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-heatclient,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-ironicclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-ironicclient,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-ironic-inspector-client,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-ironic-inspector-client,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-ironic-lib,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-ironic-lib,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-jsonpath-rw-ext,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-jsonpath-rw-ext,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-k8sclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-k8sclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-keystoneauth1,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-keystoneauth1,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-keystoneclient,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-keystoneclient,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-keystonemiddleware,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-keystonemiddleware,Non core,2.1739130434782608,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-magnumclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-magnumclient,Non core,2.1739130434782608,2.0408163265306123,2,1
+openstack/debtcollector,openstack/deb-python-manilaclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-manilaclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-microversion-parse,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-microversion-parse,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-mistralclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-mistralclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-monascaclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-monascaclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-mox3,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/deb-python-mox3,Non core,0.0,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-python-muranoclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-muranoclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-neutronclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-neutronclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-neutron-lib,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-neutron-lib,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-novaclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-novaclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-openstackclient,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-openstackclient,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-openstackdocstheme,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-openstackdocstheme,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-openstacksdk,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-openstacksdk,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-os-apply-config,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/deb-python-os-apply-config,Non core,0.0,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-python-os-brick,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-os-brick,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-osc-lib,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-osc-lib,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-os-client-config,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-os-client-config,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-os-collect-config,Core,2.127659574468085,0.0,1,1
+openstack/debtcollector,openstack/deb-python-os-collect-config,Non core,0.0,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-python-oslo.cache,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.cache,Non core,2.127659574468085,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-python-oslo.db,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.db,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.concurrency,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.concurrency,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.config,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.config,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.i18n,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.i18n,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-python-oslo.context,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-python-oslo.context,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-openstack-nose,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-openstack-nose,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-openstack-doc-tools,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-openstack-doc-tools,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-openstack-trove,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-openstack-trove,Non core,2.127659574468085,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-oslosphinx,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-oslosphinx,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-aodh,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-aodh,Non core,2.127659574468085,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-bandit,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-bandit,Non core,2.127659574468085,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-ceilometer,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-ceilometer,Non core,2.127659574468085,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-ceilometermiddleware,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-ceilometermiddleware,Non core,0.0,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-designate-dashboard,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-designate-dashboard,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-git-review,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-git-review,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-glance,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-glance,Non core,2.127659574468085,2.0,2,1
+openstack/debtcollector,openstack/deb-glare,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-glare,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-heat,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-heat,Non core,2.127659574468085,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-heat-cfntools,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-heat-cfntools,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-horizon,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-horizon,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-ironic-inspector,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-ironic-inspector,Non core,2.127659574468085,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-ironic-ui,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-ironic-ui,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-keystone,Core,2.083333333333333,0.0,2,1
+openstack/debtcollector,openstack/deb-keystone,Non core,2.083333333333333,2.0408163265306123,2,1
+openstack/debtcollector,openstack/deb-liberasurecode,Core,2.1739130434782608,0.0,1,1
+openstack/debtcollector,openstack/deb-liberasurecode,Non core,0.0,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-manila,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-manila,Non core,2.127659574468085,2.083333333333333,2,1
+openstack/debtcollector,openstack/deb-mistral,Core,2.0408163265306123,0.0,3,1
+openstack/debtcollector,openstack/deb-mistral,Non core,4.081632653061225,2.0,3,1
+openstack/debtcollector,openstack/deb-murano-agent,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-murano-agent,Non core,2.127659574468085,2.0,2,1
+openstack/debtcollector,openstack/deb-murano-dashboard,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-murano-dashboard,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-networking-l2gw,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-networking-l2gw,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-networking-ovn,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-networking-ovn,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-neutron,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-neutron,Non core,2.127659574468085,2.0408163265306123,2,1
+openstack/debtcollector,openstack/deb-neutron-fwaas,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-neutron-fwaas,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-neutron-vpnaas,Core,2.1739130434782608,0.0,2,1
+openstack/debtcollector,openstack/deb-neutron-vpnaas,Non core,2.1739130434782608,2.127659574468085,2,1
+openstack/debtcollector,openstack/deb-neutron-lbaas,Core,2.127659574468085,0.0,2,1
+openstack/debtcollector,openstack/deb-neutron-lbaas,Non core,2.127659574468085,2.0,2,1
+openstack/debtcollector,openstack/installguide-cookiecutter,Core,3.7037037037037033,1.7857142857142856,2,3
+openstack/debtcollector,openstack/installguide-cookiecutter,Non core,0.0,3.571428571428571,2,3
+openstack/debtcollector,openstack/deb-gnocchi,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-gnocchi,Non core,2.083333333333333,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-eventlet,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-eventlet,Non core,2.127659574468085,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-pymysql,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pymysql,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/salt-formula-opencontrail,Core,1.639344262295082,0.0,1,1
+openstack/debtcollector,openstack/salt-formula-opencontrail,Non core,0.0,1.7857142857142856,1,1
+openstack/debtcollector,openstack/salt-formula-neutron,Core,1.6666666666666667,1.7241379310344827,1,2
+openstack/debtcollector,openstack/salt-formula-neutron,Non core,0.0,1.7241379310344827,1,2
+openstack/debtcollector,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/salt-formula-swift,Non core,0.0,2.0408163265306123,0,1
+openstack/debtcollector,openstack/salt-formula-nova,Core,1.5151515151515151,0.0,1,1
+openstack/debtcollector,openstack/salt-formula-nova,Non core,0.0,1.694915254237288,1,1
+openstack/debtcollector,openstack/salt-formula-keystone,Core,1.5873015873015872,0.0,1,1
+openstack/debtcollector,openstack/salt-formula-keystone,Non core,0.0,1.7543859649122806,1,1
+openstack/debtcollector,openstack/salt-formula-horizon,Core,1.7241379310344827,0.0,1,1
+openstack/debtcollector,openstack/salt-formula-horizon,Non core,0.0,1.8518518518518516,1,1
+openstack/debtcollector,openstack/salt-formula-heat,Core,1.5384615384615385,0.0,1,1
+openstack/debtcollector,openstack/salt-formula-heat,Non core,0.0,1.8181818181818181,1,1
+openstack/debtcollector,openstack/salt-formula-glance,Core,1.5625,0.0,1,2
+openstack/debtcollector,openstack/salt-formula-glance,Non core,0.0,3.571428571428571,1,2
+openstack/debtcollector,openstack/salt-formula-cinder,Core,1.5873015873015872,0.0,1,1
+openstack/debtcollector,openstack/salt-formula-cinder,Non core,0.0,1.8518518518518516,1,1
+openstack/debtcollector,openstack/salt-formula-ceilometer,Core,1.8181818181818181,0.0,1,1
+openstack/debtcollector,openstack/salt-formula-ceilometer,Non core,0.0,1.7857142857142856,1,1
+openstack/debtcollector,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-pygit2,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-libisal,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-xvfbwrapper,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-testresources,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-testresources,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-django-compressor,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-django-compressor,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-sqlalchemy-utils,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-pykmip,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pykmip,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-coffin,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-coffin,Non core,2.1739130434782608,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-python-txaio,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-txaio,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-hplefthandclient,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-django-overextends,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-pytimeparse,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pytimeparse,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-nose-timer,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-nose-timer,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-retrying,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-retrying,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-django-discover-runner,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-lesscpy,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-happybase,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-extras,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-functools32,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-functools32,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-pydot-ng,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-jsonschema,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-jsonschema,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-kafka,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-kafka,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-rcssmin,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-nose-parameterized,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-nose-parameterized,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-pika-pool,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pika-pool,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-rfc3986,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-rfc3986,Non core,2.127659574468085,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-httpretty,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-pint,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-django-pyscss,Non core,0.0,2.1739130434782608,0,1
+openstack/debtcollector,openstack/deb-python-falcon,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-falcon,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-subunit,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-subunit,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-django-formtools,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-nose-exclude,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-pydotplus,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pydotplus,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-pager,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-proliantutils,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-proliantutils,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-gnocchiclient,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-gnocchiclient,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-django-babel,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-django-babel,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-requests-kerberos,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-requests-kerberos,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-colander,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-colander,Non core,2.1739130434782608,2.127659574468085,1,1
+openstack/debtcollector,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-dcos,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-django-bootstrap-form,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-term.js,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-toml,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-semver,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-semver,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-websocket-client,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-fasteners,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-fasteners,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-jingo,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-pecan,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pecan,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-frozendict,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/debtcollector,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/debtcollector,openstack/deb-python-wrapt,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-wrapt,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-funcsigs,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-funcsigs,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-crank,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-crank,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-pyvmomi,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-wsgi-intercept,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-os-cloud-config,Non core,0.0,2.1739130434782608,0,1
+openstack/debtcollector,openstack/deb-python-weakrefmethod,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-weakrefmethod,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-steadymark,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-warlock,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-warlock,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-couleur,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-couleur,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-roboto-fontface,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-json-patch,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-json-patch,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-jsonrpclib,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-multi-key-dict,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-memcache,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-memcache,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-pulp,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-fonts-roboto-fontface,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-websockify,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-websockify,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-daemonize,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-pyngus,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-pyngus,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-editor,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-editor,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-ddt,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-ddt,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-monotonic,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-monotonic,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-rjsmin,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-rjsmin,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-jsonpath-rw,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-django-appconf,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-django-appconf,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-oauth2client,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-oauth2client,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-json-pointer,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-json-pointer,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack-attic/akanda,Core,0.0,0.0,0,3
+openstack/debtcollector,openstack-attic/akanda,Non core,0.0,5.660377358490567,0,3
+openstack/debtcollector,openstack/deb-python-xstatic,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-xstatic,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-smart-table,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-xstatic-jquery-ui,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-requestbuilder,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-nosehtmloutput,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-python-csscompressor,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/deb-python-croniter,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-croniter,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/deb-python-concurrent.futures,Core,0.0,0.0,1,1
+openstack/debtcollector,openstack/deb-python-concurrent.futures,Non core,2.1739130434782608,2.1739130434782608,1,1
+openstack/debtcollector,openstack/openstack-salt,Core,2.0408163265306123,0.0,1,2
+openstack/debtcollector,openstack/openstack-salt,Non core,0.0,4.081632653061225,1,2
+openstack/debtcollector,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack/deb-spice-html5,Non core,0.0,2.2222222222222223,0,1
+openstack/debtcollector,openstack/salt-formula-midonet,Core,2.2222222222222223,0.0,1,1
+openstack/debtcollector,openstack/salt-formula-midonet,Non core,0.0,2.2222222222222223,1,1
+openstack/debtcollector,openstack/magnetodb-specs,Core,1.7857142857142856,0.0,1,3
+openstack/debtcollector,openstack/magnetodb-specs,Non core,0.0,5.0,1,3
+openstack/debtcollector,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,2
+openstack/debtcollector,openstack-attic/akanda-appliance-builder,Non core,0.0,4.081632653061225,0,2
+openstack/debtcollector,openstack-attic/oslo.version,Core,10.204081632653061,12.727272727272727,5,9
+openstack/debtcollector,openstack-attic/oslo.version,Non core,0.0,3.6363636363636362,5,9
+openstack/debtcollector,openstack-attic/image-api,Core,1.8181818181818181,1.6129032258064515,1,2
+openstack/debtcollector,openstack-attic/image-api,Non core,0.0,1.6129032258064515,1,2
+openstack/debtcollector,openstack-attic/object-api,Core,1.5384615384615385,1.3888888888888888,1,2
+openstack/debtcollector,openstack-attic/object-api,Non core,0.0,1.3888888888888888,1,2
+openstack/debtcollector,openstack-attic/volume-api,Core,1.694915254237288,1.5625,1,2
+openstack/debtcollector,openstack-attic/volume-api,Non core,0.0,1.5625,1,2
+openstack/debtcollector,openstack/magnetodb,Core,1.4925373134328357,2.5316455696202533,1,3
+openstack/debtcollector,openstack/magnetodb,Non core,0.0,1.2658227848101267,1,3
+openstack/debtcollector,openstack/openstack-nose,Core,1.9230769230769231,1.9607843137254901,1,2
+openstack/debtcollector,openstack/openstack-nose,Non core,0.0,1.9607843137254901,1,2
+openstack/debtcollector,openstack-attic/netconn-api,Core,2.8169014084507045,1.0752688172043012,2,2
+openstack/debtcollector,openstack-attic/netconn-api,Non core,0.0,1.0752688172043012,2,2
+openstack/debtcollector,openstack-attic/python-melangeclient,Core,1.9607843137254901,0.0,1,1
+openstack/debtcollector,openstack-attic/python-melangeclient,Non core,0.0,2.083333333333333,1,1
+openstack/debtcollector,openstack-attic/melange,Core,1.639344262295082,0.0,1,1
+openstack/debtcollector,openstack-attic/melange,Non core,0.0,1.7241379310344827,1,1
+openstack/debtcollector,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/debtcollector,openstack-attic/openstack-qa,Non core,0.0,2.083333333333333,0,1
+openstack/debtcollector,openstack-attic/database-api,Core,3.6363636363636362,1.6666666666666667,2,2
+openstack/debtcollector,openstack-attic/database-api,Non core,0.0,1.6666666666666667,2,2
+openstack/debtcollector,openstack-attic/openstack-security-notes,Core,0.0,0.9009009009009009,0,4
+openstack/debtcollector,openstack-attic/openstack-security-notes,Non core,0.0,2.7027027027027026,0,4

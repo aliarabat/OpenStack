@@ -1,0 +1,841 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/fuel-virtualbox,openstack/fuel-ostf,Core,3.8461538461538463,3.6363636363636362,4,14
+openstack/fuel-virtualbox,openstack/fuel-ostf,Non core,0.0,2.727272727272727,4,14
+openstack/fuel-virtualbox,openstack/fuel-qa,Core,3.875968992248062,3.2,5,17
+openstack/fuel-virtualbox,openstack/fuel-qa,Non core,0.0,3.5999999999999996,5,17
+openstack/fuel-virtualbox,openstack/fuel-specs,Core,3.669724770642202,2.9702970297029703,4,17
+openstack/fuel-virtualbox,openstack/fuel-specs,Non core,0.0,2.6402640264026402,4,17
+openstack/fuel-virtualbox,openstack/fuel-nailgun-extension-cluster-upgrade,Core,10.526315789473683,4.878048780487805,2,3
+openstack/fuel-virtualbox,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,2.4390243902439024,2,3
+openstack/fuel-virtualbox,openstack/fuel-nailgun-agent,Core,6.8181818181818175,8.823529411764707,4,17
+openstack/fuel-virtualbox,openstack/fuel-nailgun-agent,Non core,2.272727272727273,7.8431372549019605,4,17
+openstack/fuel-virtualbox,openstack/fuel-mirror,Core,5.0,7.339449541284404,3,15
+openstack/fuel-virtualbox,openstack/fuel-mirror,Non core,2.5,6.422018348623854,3,15
+openstack/fuel-virtualbox,openstack/fuel-menu,Core,13.157894736842104,8.403361344537815,7,17
+openstack/fuel-virtualbox,openstack/fuel-menu,Non core,5.263157894736842,5.88235294117647,7,17
+openstack/fuel-virtualbox,openstack/fuel-main,Core,5.0,4.032258064516129,9,22
+openstack/fuel-virtualbox,openstack/fuel-main,Non core,1.4285714285714286,4.838709677419355,9,22
+openstack/fuel-virtualbox,openstack/fuel-ui,Core,8.695652173913043,7.216494845360824,6,14
+openstack/fuel-virtualbox,openstack/fuel-ui,Non core,4.3478260869565215,7.216494845360824,6,14
+openstack/fuel-virtualbox,openstack/fuel-library,Core,2.9850746268656714,2.272727272727273,9,21
+openstack/fuel-virtualbox,openstack/fuel-library,Non core,1.4925373134328357,2.5,9,21
+openstack/fuel-virtualbox,openstack/fuel-dev-tools,Core,4.3478260869565215,7.6923076923076925,1,5
+openstack/fuel-virtualbox,openstack/fuel-dev-tools,Non core,0.0,5.128205128205128,1,5
+openstack/fuel-virtualbox,openstack/fuel-stats,Core,6.896551724137931,4.761904761904762,2,7
+openstack/fuel-virtualbox,openstack/fuel-stats,Non core,0.0,6.349206349206349,2,7
+openstack/fuel-virtualbox,openstack/fuel-nailgun-extension-converted-serializers,Core,8.333333333333332,8.695652173913043,1,4
+openstack/fuel-virtualbox,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,8.695652173913043,1,4
+openstack/fuel-virtualbox,openstack/fuel-nailgun-extension-iac,Core,7.142857142857142,7.6923076923076925,1,3
+openstack/fuel-virtualbox,openstack/fuel-nailgun-extension-iac,Non core,0.0,3.8461538461538463,1,3
+openstack/fuel-virtualbox,openstack/fuel-plugin-murano-tests,Core,4.761904761904762,2.0,1,2
+openstack/fuel-virtualbox,openstack/fuel-plugin-murano-tests,Non core,0.0,2.0,1,2
+openstack/fuel-virtualbox,openstack/fuel-astute,Core,8.695652173913043,5.769230769230769,7,19
+openstack/fuel-virtualbox,openstack/fuel-astute,Non core,1.4492753623188406,6.41025641025641,7,19
+openstack/fuel-virtualbox,openstack/fuel-docs,Core,2.912621359223301,3.1645569620253164,3,21
+openstack/fuel-virtualbox,openstack/fuel-docs,Non core,0.0,3.481012658227848,3,21
+openstack/fuel-virtualbox,openstack/fuel-agent,Core,8.333333333333332,5.844155844155844,8,17
+openstack/fuel-virtualbox,openstack/fuel-agent,Non core,2.7777777777777777,5.194805194805195,8,17
+openstack/fuel-virtualbox,openstack/fuel-octane,Core,7.6923076923076925,10.144927536231885,3,9
+openstack/fuel-virtualbox,openstack/fuel-octane,Non core,0.0,2.898550724637681,3,9
+openstack/fuel-virtualbox,openstack/tuning-box,Core,6.666666666666667,2.272727272727273,1,5
+openstack/fuel-virtualbox,openstack/tuning-box,Non core,0.0,9.090909090909092,1,5
+openstack/fuel-virtualbox,openstack/python-fuelclient,Core,5.333333333333334,5.88235294117647,5,16
+openstack/fuel-virtualbox,openstack/python-fuelclient,Non core,1.3333333333333335,4.57516339869281,5,16
+openstack/fuel-virtualbox,openstack/neutron-interconnection,Core,0.0,3.0303030303030303,0,1
+openstack/fuel-virtualbox,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/openstack-chef-repo,Core,1.9607843137254901,1.3333333333333335,1,2
+openstack/fuel-virtualbox,openstack/openstack-chef-repo,Non core,0.0,1.3333333333333335,1,2
+openstack/fuel-virtualbox,openstack/os-acc,Core,0.0,2.5,0,1
+openstack/fuel-virtualbox,openstack/os-acc,Non core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/openstack-ansible-os_zaqar,Core,4.444444444444445,1.4492753623188406,2,2
+openstack/fuel-virtualbox,openstack/openstack-ansible-os_zaqar,Non core,0.0,1.4492753623188406,2,2
+openstack/fuel-virtualbox,openstack/openstack-ansible-os_watcher,Core,5.0,1.639344262295082,2,2
+openstack/fuel-virtualbox,openstack/openstack-ansible-os_watcher,Non core,0.0,1.639344262295082,2,2
+openstack/fuel-virtualbox,openstack/openstack-ansible-os_searchlight,Core,3.0303030303030303,0.0,1,1
+openstack/fuel-virtualbox,openstack/openstack-ansible-os_searchlight,Non core,0.0,1.8867924528301887,1,1
+openstack/fuel-virtualbox,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/xstatic-font-awesome,Non core,0.0,2.857142857142857,0,1
+openstack/fuel-virtualbox,openstack/xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/xstatic-jasmine,Non core,0.0,2.7027027027027026,0,1
+openstack/fuel-virtualbox,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/tempest-tripleo-ui,Core,0.0,2.941176470588235,0,1
+openstack/fuel-virtualbox,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/docs-specs,Core,3.571428571428571,0.4444444444444444,2,4
+openstack/fuel-virtualbox,openstack/docs-specs,Non core,0.0,1.3333333333333335,2,4
+openstack/fuel-virtualbox,openstack/release-schedule-generator,Core,7.6923076923076925,3.7037037037037033,1,2
+openstack/fuel-virtualbox,openstack/release-schedule-generator,Non core,0.0,3.7037037037037033,1,2
+openstack/fuel-virtualbox,openstack-infra/opendev-website,Core,9.090909090909092,3.571428571428571,1,1
+openstack/fuel-virtualbox,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/fuel-virtualbox,openstack/castellan-ui,Core,6.666666666666667,2.4390243902439024,1,2
+openstack/fuel-virtualbox,openstack/castellan-ui,Non core,0.0,2.4390243902439024,1,2
+openstack/fuel-virtualbox,openstack-attic/compute-api,Core,3.0303030303030303,1.7543859649122806,1,2
+openstack/fuel-virtualbox,openstack-attic/compute-api,Non core,0.0,1.7543859649122806,1,2
+openstack/fuel-virtualbox,openstack/charm-neutron-api-odl,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/charm-neutron-api-odl,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-virtualbox,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/charm-murano,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/charm-murano,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/charm-openvswitch-odl,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/charm-openvswitch-odl,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-virtualbox,openstack/charm-interface-odl-controller-api,Core,7.6923076923076925,0.0,1,1
+openstack/fuel-virtualbox,openstack/charm-interface-odl-controller-api,Non core,0.0,4.0,1,1
+openstack/fuel-virtualbox,openstack/charm-glusterfs,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/charm-glusterfs,Non core,0.0,3.3333333333333335,0,1
+openstack/fuel-virtualbox,openstack/charm-trove,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/charm-trove,Non core,0.0,3.4482758620689653,0,1
+openstack/fuel-virtualbox,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-positional,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-requests-unixsocket,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-traceback2,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-ryu,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-linecache2,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-gabbi,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-cotyledon,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-migrate,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/fuxi,Core,5.555555555555555,1.4925373134328357,2,2
+openstack/fuel-virtualbox,openstack/fuxi,Non core,0.0,1.4925373134328357,2,2
+openstack/fuel-virtualbox,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/bandit,Core,2.941176470588235,1.098901098901099,2,2
+openstack/fuel-virtualbox,openstack/bandit,Non core,0.0,1.098901098901099,2,2
+openstack/fuel-virtualbox,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/xstatic-angular-smart-table,Non core,0.0,3.4482758620689653,0,1
+openstack/fuel-virtualbox,openstack/xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/xstatic-bootswatch,Non core,0.0,2.857142857142857,0,1
+openstack/fuel-virtualbox,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-msgpack-python,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/xstatic-d3,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/xstatic-d3,Non core,0.0,2.857142857142857,0,1
+openstack/fuel-virtualbox,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pymemcache,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-novnc,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/instack,Core,6.451612903225806,1.7543859649122806,2,2
+openstack/fuel-virtualbox,openstack/instack,Non core,0.0,1.7543859649122806,2,2
+openstack/fuel-virtualbox,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pysaml2,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-trollius,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-autobahn,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pyldap,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/astara,Core,2.127659574468085,1.4285714285714286,1,2
+openstack/fuel-virtualbox,openstack/astara,Non core,0.0,1.4285714285714286,1,2
+openstack/fuel-virtualbox,openstack/astara-appliance,Core,4.166666666666666,0.0,1,1
+openstack/fuel-virtualbox,openstack/astara-appliance,Non core,0.0,2.1739130434782608,1,1
+openstack/fuel-virtualbox,openstack/astara-horizon,Core,5.88235294117647,0.0,1,1
+openstack/fuel-virtualbox,openstack/astara-horizon,Non core,0.0,2.564102564102564,1,1
+openstack/fuel-virtualbox,openstack/astara-neutron,Core,4.761904761904762,0.0,1,1
+openstack/fuel-virtualbox,openstack/astara-neutron,Non core,0.0,2.5,1,1
+openstack/fuel-virtualbox,openstack/anchor,Core,0.0,1.5625,0,2
+openstack/fuel-virtualbox,openstack/anchor,Non core,0.0,1.5625,0,2
+openstack/fuel-virtualbox,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/fuxi-golang,Core,10.0,3.8461538461538463,1,1
+openstack/fuel-virtualbox,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/fuel-virtualbox,openstack/fuxi-kubernetes,Core,9.090909090909092,3.3333333333333335,1,2
+openstack/fuel-virtualbox,openstack/fuxi-kubernetes,Non core,0.0,3.3333333333333335,1,2
+openstack/fuel-virtualbox,openstack-infra/puppet-odsreg,Core,6.666666666666667,2.857142857142857,1,2
+openstack/fuel-virtualbox,openstack-infra/puppet-odsreg,Non core,0.0,2.857142857142857,1,2
+openstack/fuel-virtualbox,openstack-infra/puppet-docker_registry,Core,10.0,0.0,1,0
+openstack/fuel-virtualbox,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/fuel-virtualbox,openstack/releasestatus,Core,8.333333333333332,0.0,1,1
+openstack/fuel-virtualbox,openstack/releasestatus,Non core,0.0,3.3333333333333335,1,1
+openstack/fuel-virtualbox,openstack-infra/vinz-webclient,Core,10.0,0.0,1,0
+openstack/fuel-virtualbox,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/fuel-virtualbox,openstack/activity-board,Core,4.0,0.0,1,1
+openstack/fuel-virtualbox,openstack/activity-board,Non core,0.0,1.4285714285714286,1,1
+openstack/fuel-virtualbox,openstack-infra/beaker-localhost,Core,10.0,4.166666666666666,1,1
+openstack/fuel-virtualbox,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/fuel-virtualbox,openstack-infra/beaker-nodepool,Core,10.0,4.166666666666666,1,1
+openstack/fuel-virtualbox,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/fuel-virtualbox,openstack/rst2bash,Core,7.6923076923076925,3.225806451612903,1,2
+openstack/fuel-virtualbox,openstack/rst2bash,Non core,0.0,3.225806451612903,1,2
+openstack/fuel-virtualbox,openstack/kolla-kubernetes,Core,2.7027027027027026,0.7092198581560284,2,2
+openstack/fuel-virtualbox,openstack/kolla-kubernetes,Non core,0.0,0.7092198581560284,2,2
+openstack/fuel-virtualbox,openstack/cue-dashboard,Core,5.0,3.125,1,2
+openstack/fuel-virtualbox,openstack/cue-dashboard,Non core,0.0,3.125,1,2
+openstack/fuel-virtualbox,openstack/python-cueclient,Core,4.3478260869565215,3.125,1,2
+openstack/fuel-virtualbox,openstack/python-cueclient,Non core,0.0,3.125,1,2
+openstack/fuel-virtualbox,openstack/cue,Core,2.4390243902439024,1.7857142857142856,1,2
+openstack/fuel-virtualbox,openstack/cue,Non core,0.0,1.7857142857142856,1,2
+openstack/fuel-virtualbox,openstack/app-catalog,Core,2.857142857142857,1.1627906976744187,2,2
+openstack/fuel-virtualbox,openstack/app-catalog,Non core,0.0,1.1627906976744187,2,2
+openstack/fuel-virtualbox,openstack-attic/identity-api,Core,1.9230769230769231,0.9615384615384616,1,2
+openstack/fuel-virtualbox,openstack-attic/identity-api,Non core,0.0,0.9615384615384616,1,2
+openstack/fuel-virtualbox,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-fixtures,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/python-magnetodbclient,Non core,0.0,3.125,0,1
+openstack/fuel-virtualbox,openstack/app-catalog-ui,Core,11.76470588235294,2.631578947368421,2,2
+openstack/fuel-virtualbox,openstack/app-catalog-ui,Non core,0.0,2.631578947368421,2,2
+openstack/fuel-virtualbox,openstack/salt-formula-kubernetes,Core,6.666666666666667,0.0,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-kubernetes,Non core,0.0,3.4482758620689653,1,1
+openstack/fuel-virtualbox,openstack/app-catalog-common,Core,0.0,4.166666666666666,0,2
+openstack/fuel-virtualbox,openstack/app-catalog-common,Non core,0.0,4.166666666666666,0,2
+openstack/fuel-virtualbox,openstack/python-appcatalogclient,Core,0.0,3.7037037037037033,0,2
+openstack/fuel-virtualbox,openstack/python-appcatalogclient,Non core,0.0,3.7037037037037033,0,2
+openstack/fuel-virtualbox,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-nova,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-kazoo,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-congressclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-congress,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-net-config,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-ironic,Non core,0.0,3.7037037037037033,0,1
+openstack/fuel-virtualbox,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-swauth,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-api-ref,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-designate,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-swift,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-manila-ui,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-barbican,Non core,0.0,3.7037037037037033,0,1
+openstack/fuel-virtualbox,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-cinder,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-magnum,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-trove,Non core,0.0,3.571428571428571,0,1
+openstack/fuel-virtualbox,openstack/deb-openstack-pkg-tools,Core,0.0,3.225806451612903,0,2
+openstack/fuel-virtualbox,openstack/deb-openstack-pkg-tools,Non core,0.0,3.225806451612903,0,2
+openstack/fuel-virtualbox,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-swiftclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-alembic,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-cinderclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-nec,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-neutron-taas,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-mlnx,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-openstack-meta-packages,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-odl,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-nodepool,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-cisco,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-midonet,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-arista,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-hyperv,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-rtslib-fb,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-murano,Non core,0.0,3.571428571428571,0,1
+openstack/fuel-virtualbox,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-semantic-version,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ldappool,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-zaqar-ui,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-zaqar,Non core,0.0,3.571428571428571,0,1
+openstack/fuel-virtualbox,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-watcher,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-testr,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-win,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pycadf,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pyghmi,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-reno,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-refresh-config,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-vif,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pyeclib,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-quantumclient,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-requestsexceptions,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pbr,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-requests-mock,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-saharaclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-scciclient,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-seamicroclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-auto-backports,Non core,0.0,3.7037037037037033,0,1
+openstack/fuel-virtualbox,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-senlinclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-taskflow,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-testtools,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-tooz,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-shotgun,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-tackerclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-tosca-parser,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-troveclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-tuskarclient,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-watcherclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-wsme,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-bootswatch,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-angular-mock,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-d3,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-hogan,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-font-awesome,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jasmine,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-magic-search,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-mdi,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-objectpath,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-qunit,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-rickshaw,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-spin,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-tv4,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-yaql,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-zaqarclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-rally,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-sahara,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-sahara-dashboard,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-senlin,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-senlin-dashboard,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-stevedore,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-swift-bench,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-swift-plugin-s3,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-trove-dashboard,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-tempest,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-osprofiler,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.vmware,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.utils,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.rootwrap,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.service,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.privsep,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.versionedobjects,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslotest,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.serialization,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.reports,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.policy,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.middleware,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.messaging,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.log,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-aodhclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-automaton,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-barbicanclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-bashate,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-castellan,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ceilometerclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ceilometermiddleware,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-cliff,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-cursive,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-debtcollector,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-designateclient,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-dib-utils,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-diskimage-builder,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-doc8,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-openstack-auth,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-fuelclient,Non core,0.0,3.571428571428571,0,1
+openstack/fuel-virtualbox,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-dogpile.cache,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-futurist,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-glanceclient,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-glance-store,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-hacking,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-heatclient,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ironicclient,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ironic-inspector-client,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ironic-lib,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-k8sclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-keystoneauth1,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-keystoneclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-keystonemiddleware,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-magnumclient,Non core,0.0,3.7037037037037033,0,1
+openstack/fuel-virtualbox,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-manilaclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-microversion-parse,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-mistralclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-monascaclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-mox3,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-muranoclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-neutronclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-neutron-lib,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-novaclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-openstackclient,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-openstackdocstheme,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-openstacksdk,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-apply-config,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-brick,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-osc-lib,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-client-config,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-collect-config,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.cache,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.db,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.concurrency,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.config,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.i18n,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oslo.context,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-openstack-nose,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-openstack-doc-tools,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-openstack-trove,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-oslosphinx,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-aodh,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-bandit,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-ceilometer,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-ceilometermiddleware,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-designate-dashboard,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-git-review,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-glance,Non core,0.0,3.571428571428571,0,1
+openstack/fuel-virtualbox,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-glare,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-heat,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-heat-cfntools,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-horizon,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-ironic-inspector,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-ironic-ui,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-keystone,Non core,0.0,3.7037037037037033,0,1
+openstack/fuel-virtualbox,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-liberasurecode,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-manila,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack/deb-mistral,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-mistral,Non core,0.0,3.571428571428571,0,1
+openstack/fuel-virtualbox,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-murano-agent,Non core,0.0,3.571428571428571,0,1
+openstack/fuel-virtualbox,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-murano-dashboard,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-l2gw,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-networking-ovn,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-neutron,Non core,0.0,3.7037037037037033,0,1
+openstack/fuel-virtualbox,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-neutron-fwaas,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-neutron-vpnaas,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-neutron-lbaas,Non core,0.0,3.571428571428571,0,1
+openstack/fuel-virtualbox,openstack/installguide-cookiecutter,Core,10.526315789473683,2.857142857142857,2,2
+openstack/fuel-virtualbox,openstack/installguide-cookiecutter,Non core,0.0,2.857142857142857,2,2
+openstack/fuel-virtualbox,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-gnocchi,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-eventlet,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pymysql,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/salt-formula-opencontrail,Core,3.8461538461538463,0.0,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-opencontrail,Non core,0.0,2.941176470588235,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-neutron,Core,4.0,2.7777777777777777,1,2
+openstack/fuel-virtualbox,openstack/salt-formula-neutron,Non core,0.0,2.7777777777777777,1,2
+openstack/fuel-virtualbox,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/salt-formula-swift,Non core,0.0,3.7037037037037033,0,1
+openstack/fuel-virtualbox,openstack/salt-formula-nova,Core,3.225806451612903,0.0,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-nova,Non core,0.0,2.7027027027027026,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-keystone,Core,3.571428571428571,0.0,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-keystone,Non core,0.0,2.857142857142857,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-horizon,Core,4.3478260869565215,0.0,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-horizon,Non core,0.0,3.125,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-heat,Core,3.3333333333333335,0.0,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-heat,Non core,0.0,3.0303030303030303,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-glance,Core,3.4482758620689653,0.0,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-glance,Non core,0.0,2.857142857142857,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-cinder,Core,3.571428571428571,0.0,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-cinder,Non core,0.0,3.125,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-ceilometer,Core,5.0,0.0,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-ceilometer,Non core,0.0,2.941176470588235,1,1
+openstack/fuel-virtualbox,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pygit2,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-libisal,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xvfbwrapper,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-testresources,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-compressor,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-sqlalchemy-utils,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pykmip,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-coffin,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-txaio,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-hplefthandclient,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-overextends,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pytimeparse,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-nose-timer,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-retrying,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-discover-runner,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-lesscpy,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-happybase,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-extras,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-functools32,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pydot-ng,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-jsonschema,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-kafka,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-rcssmin,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-nose-parameterized,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pika-pool,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-rfc3986,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-httpretty,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pint,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-pyscss,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-falcon,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-subunit,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-formtools,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-nose-exclude,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pydotplus,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pager,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-proliantutils,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-gnocchiclient,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-babel,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-requests-kerberos,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-colander,Non core,0.0,4.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-dcos,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-bootstrap-form,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-term.js,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-toml,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-semver,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-websocket-client,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-fasteners,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-jingo,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pecan,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-frozendict,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/fuel-virtualbox,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-wrapt,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-funcsigs,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-crank,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pyvmomi,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-wsgi-intercept,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-os-cloud-config,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-weakrefmethod,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-steadymark,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-warlock,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-couleur,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-json-patch,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-jsonrpclib,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-multi-key-dict,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-memcache,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pulp,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-fonts-roboto-fontface,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-websockify,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-daemonize,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-pyngus,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-editor,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-ddt,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-monotonic,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-rjsmin,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-jsonpath-rw,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-django-appconf,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-oauth2client,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-json-pointer,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack-attic/akanda,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack-attic/akanda,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-smart-table,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-requestbuilder,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-nosehtmloutput,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-csscompressor,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-croniter,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-python-concurrent.futures,Non core,0.0,4.166666666666666,0,1
+openstack/fuel-virtualbox,openstack/openstack-salt,Core,7.142857142857142,0.0,1,1
+openstack/fuel-virtualbox,openstack/openstack-salt,Non core,0.0,3.571428571428571,1,1
+openstack/fuel-virtualbox,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/deb-spice-html5,Non core,0.0,4.3478260869565215,0,1
+openstack/fuel-virtualbox,openstack/salt-formula-midonet,Core,10.0,0.0,1,1
+openstack/fuel-virtualbox,openstack/salt-formula-midonet,Non core,0.0,4.3478260869565215,1,1
+openstack/fuel-virtualbox,openstack/magnetodb-specs,Core,4.761904761904762,0.0,1,1
+openstack/fuel-virtualbox,openstack/magnetodb-specs,Non core,0.0,2.5,1,1
+openstack/fuel-virtualbox,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack-attic/akanda-appliance-builder,Non core,0.0,3.571428571428571,0,1
+openstack/fuel-virtualbox,openstack-attic/oslo.version,Core,11.76470588235294,2.5,2,2
+openstack/fuel-virtualbox,openstack-attic/oslo.version,Non core,0.0,2.5,2,2
+openstack/fuel-virtualbox,openstack-attic/image-api,Core,5.0,2.5,1,2
+openstack/fuel-virtualbox,openstack-attic/image-api,Non core,0.0,2.5,1,2
+openstack/fuel-virtualbox,openstack-attic/object-api,Core,3.3333333333333335,2.0,1,2
+openstack/fuel-virtualbox,openstack-attic/object-api,Non core,0.0,2.0,1,2
+openstack/fuel-virtualbox,openstack-attic/volume-api,Core,4.166666666666666,2.380952380952381,1,2
+openstack/fuel-virtualbox,openstack-attic/volume-api,Non core,0.0,2.380952380952381,1,2
+openstack/fuel-virtualbox,openstack/magnetodb,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack/magnetodb,Non core,0.0,1.694915254237288,0,1
+openstack/fuel-virtualbox,openstack/openstack-nose,Core,0.0,3.4482758620689653,0,2
+openstack/fuel-virtualbox,openstack/openstack-nose,Non core,0.0,3.4482758620689653,0,2
+openstack/fuel-virtualbox,openstack-attic/netconn-api,Core,2.7027027027027026,1.4084507042253522,1,2
+openstack/fuel-virtualbox,openstack-attic/netconn-api,Non core,0.0,1.4084507042253522,1,2
+openstack/fuel-virtualbox,openstack-attic/python-melangeclient,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack-attic/python-melangeclient,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack-attic/melange,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack-attic/melange,Non core,0.0,2.7777777777777777,0,1
+openstack/fuel-virtualbox,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack-attic/openstack-qa,Non core,0.0,3.8461538461538463,0,1
+openstack/fuel-virtualbox,openstack-attic/database-api,Core,4.761904761904762,2.631578947368421,1,2
+openstack/fuel-virtualbox,openstack-attic/database-api,Non core,0.0,2.631578947368421,1,2
+openstack/fuel-virtualbox,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/fuel-virtualbox,openstack-attic/openstack-security-notes,Non core,0.0,1.0869565217391304,0,1

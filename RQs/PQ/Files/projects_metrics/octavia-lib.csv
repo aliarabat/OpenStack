@@ -1,0 +1,2007 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/octavia-lib,openstack/charm-neutron-gateway,Core,0.0,2.247191011235955,3,4
+openstack/octavia-lib,openstack/charm-neutron-gateway,Non core,4.285714285714286,2.247191011235955,3,4
+openstack/octavia-lib,openstack/charm-hacluster,Core,0.0,1.1764705882352942,1,3
+openstack/octavia-lib,openstack/charm-hacluster,Non core,1.6129032258064515,2.3529411764705883,1,3
+openstack/octavia-lib,openstack/charm-manila,Core,2.083333333333333,3.076923076923077,2,4
+openstack/octavia-lib,openstack/charm-manila,Non core,2.083333333333333,3.076923076923077,2,4
+openstack/octavia-lib,openstack/ironic-prometheus-exporter,Core,5.263157894736842,3.278688524590164,4,4
+openstack/octavia-lib,openstack/ironic-prometheus-exporter,Non core,5.263157894736842,3.278688524590164,4,4
+openstack/octavia-lib,openstack/charm-manila-netapp,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-manila-netapp,Non core,4.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-pacemaker-remote,Core,3.0303030303030303,3.389830508474576,2,4
+openstack/octavia-lib,openstack/charm-pacemaker-remote,Non core,3.0303030303030303,3.389830508474576,2,4
+openstack/octavia-lib,openstack/charm-glance-simplestreams-sync,Core,0.0,1.4925373134328357,2,3
+openstack/octavia-lib,openstack/charm-glance-simplestreams-sync,Non core,4.081632653061225,2.9850746268656714,2,3
+openstack/octavia-lib,openstack/oslo-specs,Core,2.0618556701030926,1.7006802721088436,5,6
+openstack/octavia-lib,openstack/oslo-specs,Non core,3.0927835051546393,0.3401360544217687,5,6
+openstack/octavia-lib,openstack/openstack-ansible-rsyslog_server,Core,2.9850746268656714,0.9523809523809524,4,3
+openstack/octavia-lib,openstack/openstack-ansible-rsyslog_server,Non core,2.9850746268656714,1.9047619047619049,4,3
+openstack/octavia-lib,openstack/openstack-ansible-rsyslog_client,Core,2.73972602739726,2.9702970297029703,5,6
+openstack/octavia-lib,openstack/openstack-ansible-rsyslog_client,Non core,4.10958904109589,2.9702970297029703,5,6
+openstack/octavia-lib,openstack/charm-cinder-backup,Core,0.0,1.4925373134328357,2,3
+openstack/octavia-lib,openstack/charm-cinder-backup,Non core,4.545454545454546,2.9850746268656714,2,3
+openstack/octavia-lib,openstack/charm-cinder-backup-swift-proxy,Core,0.0,1.7241379310344827,1,1
+openstack/octavia-lib,openstack/charm-cinder-backup-swift-proxy,Non core,2.857142857142857,0.0,1,1
+openstack/octavia-lib,openstack/tripleo-ci-health-queries,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/tripleo-ci-health-queries,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/castellan,Core,3.061224489795918,4.191616766467066,7,10
+openstack/octavia-lib,openstack/castellan,Non core,4.081632653061225,1.7964071856287425,7,10
+openstack/octavia-lib,openstack/kuryr,Core,2.7777777777777777,3.7914691943127963,7,14
+openstack/octavia-lib,openstack/kuryr,Non core,3.7037037037037033,2.843601895734597,7,14
+openstack/octavia-lib,openstack/masakari-monitors,Core,4.615384615384616,6.5420560747663545,4,9
+openstack/octavia-lib,openstack/masakari-monitors,Non core,1.5384615384615385,1.8691588785046727,4,9
+openstack/octavia-lib,openstack/adjutant,Core,4.878048780487805,2.898550724637681,6,4
+openstack/octavia-lib,openstack/adjutant,Non core,9.75609756097561,2.898550724637681,6,4
+openstack/octavia-lib,openstack/keystonemiddleware,Core,3.0303030303030303,4.564315352697095,7,16
+openstack/octavia-lib,openstack/keystonemiddleware,Non core,2.272727272727273,2.0746887966804977,7,16
+openstack/octavia-lib,openstack/charm-barbican-vault,Core,0.0,3.225806451612903,1,3
+openstack/octavia-lib,openstack/charm-barbican-vault,Non core,2.5,1.6129032258064515,1,3
+openstack/octavia-lib,openstack/charm-aodh,Core,2.1739130434782608,1.36986301369863,2,1
+openstack/octavia-lib,openstack/charm-aodh,Non core,2.1739130434782608,0.0,2,1
+openstack/octavia-lib,openstack/charm-keystone,Core,0.0,1.0101010101010102,3,3
+openstack/octavia-lib,openstack/charm-keystone,Non core,3.3707865168539324,2.0202020202020203,3,3
+openstack/octavia-lib,openstack/charm-designate-bind,Core,0.0,2.666666666666667,1,5
+openstack/octavia-lib,openstack/charm-designate-bind,Non core,1.9607843137254901,4.0,1,5
+openstack/octavia-lib,openstack/charm-magnum,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-magnum,Non core,3.8461538461538463,0.0,1,0
+openstack/octavia-lib,openstack/charm-manila-ganesha,Core,2.7027027027027026,1.6666666666666667,2,1
+openstack/octavia-lib,openstack/charm-manila-ganesha,Non core,2.7027027027027026,0.0,2,1
+openstack/octavia-lib,openstack/ldappool,Core,2.1739130434782608,2.73972602739726,2,4
+openstack/octavia-lib,openstack/ldappool,Non core,2.1739130434782608,2.73972602739726,2,4
+openstack/octavia-lib,openstack/charm-nova-compute-nvidia-vgpu,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-nova-compute-nvidia-vgpu,Non core,3.8461538461538463,0.0,1,0
+openstack/octavia-lib,openstack/charm-zuul-jobs,Core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/charm-zuul-jobs,Non core,0.0,2.0,0,1
+openstack/octavia-lib,openstack/charm-swift-storage,Core,1.694915254237288,1.1363636363636365,4,3
+openstack/octavia-lib,openstack/charm-swift-storage,Non core,5.084745762711865,2.272727272727273,4,3
+openstack/octavia-lib,openstack/charm-swift-proxy,Core,3.508771929824561,1.2345679012345678,5,1
+openstack/octavia-lib,openstack/charm-swift-proxy,Non core,5.263157894736842,0.0,5,1
+openstack/octavia-lib,openstack/openstack-virtual-baremetal,Core,0.0,1.2658227848101267,1,1
+openstack/octavia-lib,openstack/openstack-virtual-baremetal,Non core,2.380952380952381,0.0,1,1
+openstack/octavia-lib,openstack/charm-neutron-openvswitch,Core,1.4285714285714286,1.0752688172043012,4,3
+openstack/octavia-lib,openstack/charm-neutron-openvswitch,Non core,4.285714285714286,2.1505376344086025,4,3
+openstack/octavia-lib,openstack/kuryr-libnetwork,Core,2.5,3.731343283582089,6,9
+openstack/octavia-lib,openstack/kuryr-libnetwork,Non core,5.0,2.9850746268656714,6,9
+openstack/octavia-lib,openstack/charm-placement,Core,3.0303030303030303,1.639344262295082,2,1
+openstack/octavia-lib,openstack/charm-placement,Non core,3.0303030303030303,0.0,2,1
+openstack/octavia-lib,openstack/cyborg,Core,2.1739130434782608,4.046242774566474,4,11
+openstack/octavia-lib,openstack/cyborg,Non core,2.1739130434782608,2.312138728323699,4,11
+openstack/octavia-lib,openstack/charm-nova-cell-controller,Core,2.7027027027027026,1.639344262295082,2,3
+openstack/octavia-lib,openstack/charm-nova-cell-controller,Non core,2.7027027027027026,3.278688524590164,2,3
+openstack/octavia-lib,openstack/charm-keystone-ldap,Core,2.2222222222222223,1.4285714285714286,2,1
+openstack/octavia-lib,openstack/charm-keystone-ldap,Non core,2.2222222222222223,0.0,2,1
+openstack/octavia-lib,openstack/charm-keystone-saml-mellon,Core,0.0,4.411764705882353,1,3
+openstack/octavia-lib,openstack/charm-keystone-saml-mellon,Non core,2.631578947368421,0.0,1,3
+openstack/octavia-lib,openstack/charm-manila-generic,Core,2.3255813953488373,4.761904761904762,2,5
+openstack/octavia-lib,openstack/charm-manila-generic,Non core,2.3255813953488373,3.1746031746031744,2,5
+openstack/octavia-lib,openstack/charm-manila-dashboard,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-manila-dashboard,Non core,4.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-ironic-api,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-ironic-api,Non core,3.4482758620689653,0.0,1,0
+openstack/octavia-lib,openstack/charm-cinder-netapp,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-cinder-netapp,Non core,3.7037037037037033,0.0,1,0
+openstack/octavia-lib,openstack/charm-ceilometer,Core,0.0,1.2658227848101267,2,3
+openstack/octavia-lib,openstack/charm-ceilometer,Non core,3.3333333333333335,2.5316455696202533,2,3
+openstack/octavia-lib,openstack/charm-keystone-openidc,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-keystone-openidc,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-mysql-router,Core,2.5,0.0,2,0
+openstack/octavia-lib,openstack/charm-mysql-router,Non core,2.5,0.0,2,0
+openstack/octavia-lib,openstack/rally-openstack,Core,4.819277108433735,6.299212598425196,6,10
+openstack/octavia-lib,openstack/rally-openstack,Non core,2.4096385542168677,1.574803149606299,6,10
+openstack/octavia-lib,openstack/os-win,Core,4.411764705882353,5.154639175257731,7,7
+openstack/octavia-lib,openstack/os-win,Non core,5.88235294117647,2.0618556701030926,7,7
+openstack/octavia-lib,openstack/python-neutronclient,Core,1.8518518518518516,2.568218298555377,11,23
+openstack/octavia-lib,openstack/python-neutronclient,Non core,1.5432098765432098,1.1235955056179776,11,23
+openstack/octavia-lib,openstack/sushy-tools,Core,3.508771929824561,4.49438202247191,3,7
+openstack/octavia-lib,openstack/sushy-tools,Non core,1.7543859649122806,3.3707865168539324,3,7
+openstack/octavia-lib,openstack/charm-ceilometer-agent,Core,2.083333333333333,1.4285714285714286,3,4
+openstack/octavia-lib,openstack/charm-ceilometer-agent,Non core,4.166666666666666,4.285714285714286,3,4
+openstack/octavia-lib,openstack/charm-barbican,Core,0.0,2.9850746268656714,1,5
+openstack/octavia-lib,openstack/charm-barbican,Non core,2.083333333333333,4.477611940298507,1,5
+openstack/octavia-lib,openstack/charm-octavia-diskimage-retrofit,Core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/charm-octavia-diskimage-retrofit,Non core,2.631578947368421,3.1746031746031744,1,2
+openstack/octavia-lib,openstack/ansible-role-redhat-subscription,Core,2.3255813953488373,4.054054054054054,2,4
+openstack/octavia-lib,openstack/ansible-role-redhat-subscription,Non core,2.3255813953488373,1.3513513513513513,2,4
+openstack/octavia-lib,openstack/oslo.db,Core,1.910828025477707,2.93040293040293,7,15
+openstack/octavia-lib,openstack/oslo.db,Non core,2.547770700636943,2.564102564102564,7,15
+openstack/octavia-lib,openstack/tripleo-repos,Core,1.5873015873015872,0.9345794392523363,3,4
+openstack/octavia-lib,openstack/tripleo-repos,Non core,3.1746031746031744,2.803738317757009,3,4
+openstack/octavia-lib,openstack/openstack-ansible-os_mistral,Core,5.263157894736842,1.4492753623188406,4,3
+openstack/octavia-lib,openstack/openstack-ansible-os_mistral,Non core,5.263157894736842,2.898550724637681,4,3
+openstack/octavia-lib,openstack/oswin-tempest-plugin,Core,5.405405405405405,3.7037037037037033,6,3
+openstack/octavia-lib,openstack/oswin-tempest-plugin,Non core,10.81081081081081,1.8518518518518516,6,3
+openstack/octavia-lib,openstack/pymod2pkg,Core,4.838709677419355,3.7735849056603774,6,6
+openstack/octavia-lib,openstack/pymod2pkg,Non core,4.838709677419355,1.8867924528301887,6,6
+openstack/octavia-lib,openstack/large-scale,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/large-scale,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/neutron-fwaas,Core,2.366863905325444,3.206997084548105,9,22
+openstack/octavia-lib,openstack/neutron-fwaas,Non core,2.9585798816568047,3.206997084548105,9,22
+openstack/octavia-lib,openstack/python-tackerclient,Core,3.225806451612903,4.294478527607362,6,12
+openstack/octavia-lib,openstack/python-tackerclient,Non core,1.6129032258064515,3.067484662576687,6,12
+openstack/octavia-lib,openstack/charm-cinder-nimblestorage,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-cinder-nimblestorage,Non core,4.0,0.0,1,0
+openstack/octavia-lib,openstack/metalsmith,Core,4.545454545454546,6.666666666666667,3,7
+openstack/octavia-lib,openstack/metalsmith,Non core,2.272727272727273,2.666666666666667,3,7
+openstack/octavia-lib,openstack/openstack-ansible-os_murano,Core,3.3333333333333335,1.7543859649122806,1,1
+openstack/octavia-lib,openstack/openstack-ansible-os_murano,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/kuryr-tempest-plugin,Core,4.3478260869565215,7.317073170731707,5,10
+openstack/octavia-lib,openstack/kuryr-tempest-plugin,Non core,6.521739130434782,4.878048780487805,5,10
+openstack/octavia-lib,openstack/networking-sfc,Core,2.7027027027027026,4.081632653061225,7,17
+openstack/octavia-lib,openstack/networking-sfc,Non core,3.6036036036036037,2.857142857142857,7,17
+openstack/octavia-lib,openstack/charm-cinder-three-par,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-cinder-three-par,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/cyborg-tempest-plugin,Core,2.0408163265306123,1.3513513513513513,1,4
+openstack/octavia-lib,openstack/cyborg-tempest-plugin,Non core,0.0,4.054054054054054,1,4
+openstack/octavia-lib,openstack/charm-ceph-iscsi,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-ceph-iscsi,Non core,3.3333333333333335,0.0,1,0
+openstack/octavia-lib,openstack/charm-cinder-solidfire,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-cinder-solidfire,Non core,4.0,0.0,1,0
+openstack/octavia-lib,openstack/puppet-qdr,Core,4.166666666666666,1.4492753623188406,3,3
+openstack/octavia-lib,openstack/puppet-qdr,Non core,2.083333333333333,2.898550724637681,3,3
+openstack/octavia-lib,openstack/vitrage-tempest-plugin,Core,3.7037037037037033,1.3888888888888888,4,2
+openstack/octavia-lib,openstack/vitrage-tempest-plugin,Non core,3.7037037037037033,1.3888888888888888,4,2
+openstack/octavia-lib,openstack/tripleo-specs,Core,1.7699115044247788,1.8072289156626504,3,8
+openstack/octavia-lib,openstack/tripleo-specs,Non core,0.8849557522123894,0.6024096385542169,3,8
+openstack/octavia-lib,openstack/charm-neutron-api-plugin-arista,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-neutron-api-plugin-arista,Non core,3.4482758620689653,0.0,1,0
+openstack/octavia-lib,openstack/charm-ceph-fs,Core,2.2222222222222223,1.5384615384615385,2,3
+openstack/octavia-lib,openstack/charm-ceph-fs,Non core,2.2222222222222223,3.076923076923077,2,3
+openstack/octavia-lib,openstack/stevedore,Core,5.714285714285714,5.511811023622047,7,10
+openstack/octavia-lib,openstack/stevedore,Non core,4.285714285714286,2.3622047244094486,7,10
+openstack/octavia-lib,openstack/charm-ceph-proxy,Core,0.0,1.2987012987012987,1,1
+openstack/octavia-lib,openstack/charm-ceph-proxy,Non core,2.127659574468085,0.0,1,1
+openstack/octavia-lib,openstack/charm-cloudkitty,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-cloudkitty,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-ops-openstack,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-ops-openstack,Non core,3.3333333333333335,0.0,1,0
+openstack/octavia-lib,openstack/zun-tempest-plugin,Core,7.142857142857142,4.166666666666666,4,4
+openstack/octavia-lib,openstack/zun-tempest-plugin,Non core,2.380952380952381,1.3888888888888888,4,4
+openstack/octavia-lib,openstack/storlets,Core,2.666666666666667,4.761904761904762,6,6
+openstack/octavia-lib,openstack/storlets,Non core,5.333333333333334,0.9523809523809524,6,6
+openstack/octavia-lib,openstack/training-guides,Core,1.9047619047619049,1.7857142857142856,2,5
+openstack/octavia-lib,openstack/training-guides,Non core,0.0,1.1904761904761905,2,5
+openstack/octavia-lib,openstack/openstack-ansible-plugins,Core,2.2988505747126435,0.7692307692307693,4,3
+openstack/octavia-lib,openstack/openstack-ansible-plugins,Non core,2.2988505747126435,1.5384615384615385,4,3
+openstack/octavia-lib,openstack/python-muranoclient,Core,2.1739130434782608,2.197802197802198,7,7
+openstack/octavia-lib,openstack/python-muranoclient,Non core,2.898550724637681,1.6483516483516485,7,7
+openstack/octavia-lib,openstack/solum-dashboard,Core,3.4482758620689653,4.3478260869565215,5,5
+openstack/octavia-lib,openstack/solum-dashboard,Non core,5.172413793103448,1.0869565217391304,5,5
+openstack/octavia-lib,openstack/python-solumclient,Core,2.5316455696202533,4.587155963302752,5,6
+openstack/octavia-lib,openstack/python-solumclient,Non core,3.79746835443038,0.9174311926605505,5,6
+openstack/octavia-lib,openstack/solum-tempest-plugin,Core,6.0606060606060606,3.7735849056603774,2,3
+openstack/octavia-lib,openstack/solum-tempest-plugin,Non core,0.0,1.8867924528301887,2,3
+openstack/octavia-lib,openstack/murano-tempest-plugin,Core,5.405405405405405,1.7241379310344827,2,2
+openstack/octavia-lib,openstack/murano-tempest-plugin,Non core,0.0,1.7241379310344827,2,2
+openstack/octavia-lib,openstack/heat-translator,Core,1.8518518518518516,5.47945205479452,5,11
+openstack/octavia-lib,openstack/heat-translator,Non core,2.7777777777777777,2.054794520547945,5,11
+openstack/octavia-lib,openstack/tosca-parser,Core,2.5,3.418803418803419,7,7
+openstack/octavia-lib,openstack/tosca-parser,Non core,6.25,2.564102564102564,7,7
+openstack/octavia-lib,openstack/tacker-horizon,Core,2.941176470588235,4.724409448818897,6,11
+openstack/octavia-lib,openstack/tacker-horizon,Non core,5.88235294117647,3.937007874015748,6,11
+openstack/octavia-lib,openstack/ironic-python-agent-builder,Core,1.7543859649122806,3.9215686274509802,4,8
+openstack/octavia-lib,openstack/ironic-python-agent-builder,Non core,5.263157894736842,3.9215686274509802,4,8
+openstack/octavia-lib,openstack/ansible-role-systemd_networkd,Core,4.761904761904762,1.3888888888888888,4,3
+openstack/octavia-lib,openstack/ansible-role-systemd_networkd,Non core,4.761904761904762,2.7777777777777777,4,3
+openstack/octavia-lib,openstack/ansible-role-systemd_service,Core,4.444444444444445,1.3888888888888888,3,2
+openstack/octavia-lib,openstack/ansible-role-systemd_service,Non core,2.2222222222222223,1.3888888888888888,3,2
+openstack/octavia-lib,openstack/openstack-ansible-os_keystone,Core,1.8018018018018018,1.8633540372670807,6,7
+openstack/octavia-lib,openstack/openstack-ansible-os_keystone,Non core,3.6036036036036037,2.484472049689441,6,7
+openstack/octavia-lib,openstack/ansible-role-chrony,Core,0.0,3.1746031746031744,2,2
+openstack/octavia-lib,openstack/ansible-role-chrony,Non core,5.714285714285714,0.0,2,2
+openstack/octavia-lib,openstack/cloudkitty-tempest-plugin,Core,2.3255813953488373,4.3478260869565215,2,5
+openstack/octavia-lib,openstack/cloudkitty-tempest-plugin,Non core,2.3255813953488373,2.898550724637681,2,5
+openstack/octavia-lib,openstack/oslo.config,Core,2.1621621621621623,3.3232628398791544,10,19
+openstack/octavia-lib,openstack/oslo.config,Non core,3.2432432432432434,2.416918429003021,10,19
+openstack/octavia-lib,openstack/senlin-tempest-plugin,Core,4.545454545454546,3.9473684210526314,2,5
+openstack/octavia-lib,openstack/senlin-tempest-plugin,Non core,0.0,2.631578947368421,2,5
+openstack/octavia-lib,openstack/heat-tempest-plugin,Core,6.8181818181818175,8.75,4,8
+openstack/octavia-lib,openstack/heat-tempest-plugin,Non core,2.272727272727273,1.25,4,8
+openstack/octavia-lib,openstack/freezer-tempest-plugin,Core,4.651162790697675,4.477611940298507,2,6
+openstack/octavia-lib,openstack/freezer-tempest-plugin,Non core,0.0,4.477611940298507,2,6
+openstack/octavia-lib,openstack/monasca-tempest-plugin,Core,6.122448979591836,3.75,4,3
+openstack/octavia-lib,openstack/monasca-tempest-plugin,Non core,2.0408163265306123,0.0,4,3
+openstack/octavia-lib,openstack/stackviz,Core,3.9215686274509802,6.493506493506493,4,7
+openstack/octavia-lib,openstack/stackviz,Non core,3.9215686274509802,2.5974025974025974,4,7
+openstack/octavia-lib,openstack/kayobe-config-dev,Core,6.451612903225806,1.694915254237288,3,2
+openstack/octavia-lib,openstack/kayobe-config-dev,Non core,3.225806451612903,1.694915254237288,3,2
+openstack/octavia-lib,openstack/pbr,Core,1.6,4.245283018867925,4,13
+openstack/octavia-lib,openstack/pbr,Non core,1.6,1.8867924528301887,4,13
+openstack/octavia-lib,openstack/oslo.cache,Core,3.3707865168539324,2.2346368715083798,5,9
+openstack/octavia-lib,openstack/oslo.cache,Non core,2.247191011235955,2.793296089385475,5,9
+openstack/octavia-lib,openstack/charm-ceph-rbd-mirror,Core,0.0,1.639344262295082,1,3
+openstack/octavia-lib,openstack/charm-ceph-rbd-mirror,Non core,2.564102564102564,3.278688524590164,1,3
+openstack/octavia-lib,openstack/ansible-config_template,Core,1.9607843137254901,1.0752688172043012,3,3
+openstack/octavia-lib,openstack/ansible-config_template,Non core,3.9215686274509802,2.1505376344086025,3,3
+openstack/octavia-lib,openstack/designate-dashboard,Core,3.6585365853658534,5.633802816901409,4,10
+openstack/octavia-lib,openstack/designate-dashboard,Non core,1.2195121951219512,1.4084507042253522,4,10
+openstack/octavia-lib,openstack/charm-interface-cinder-backend,Core,0.0,1.9607843137254901,0,1
+openstack/octavia-lib,openstack/charm-interface-cinder-backend,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/cyborg-specs,Core,4.545454545454546,2.1739130434782608,3,7
+openstack/octavia-lib,openstack/cyborg-specs,Non core,2.272727272727273,5.434782608695652,3,7
+openstack/octavia-lib,openstack/python-mistralclient,Core,3.125,2.512562814070352,8,8
+openstack/octavia-lib,openstack/python-mistralclient,Non core,3.125,1.507537688442211,8,8
+openstack/octavia-lib,openstack/ha-guide,Core,2.631578947368421,2.027027027027027,4,5
+openstack/octavia-lib,openstack/ha-guide,Non core,2.631578947368421,1.3513513513513513,4,5
+openstack/octavia-lib,openstack/watcher,Core,1.5544041450777202,2.272727272727273,6,12
+openstack/octavia-lib,openstack/watcher,Non core,1.5544041450777202,2.272727272727273,6,12
+openstack/octavia-lib,openstack/openstack-ansible-os_cloudkitty,Core,3.076923076923077,4.301075268817205,7,6
+openstack/octavia-lib,openstack/openstack-ansible-os_cloudkitty,Non core,7.6923076923076925,2.1505376344086025,7,6
+openstack/octavia-lib,openstack/openstack-ansible-os_cinder,Core,1.7699115044247788,1.8518518518518516,6,7
+openstack/octavia-lib,openstack/openstack-ansible-os_cinder,Non core,3.5398230088495577,2.4691358024691357,6,7
+openstack/octavia-lib,openstack/openstack-health,Core,3.125,5.691056910569105,4,10
+openstack/octavia-lib,openstack/openstack-health,Non core,3.125,2.4390243902439024,4,10
+openstack/octavia-lib,openstack/openstack-ansible-os_swift,Core,1.9607843137254901,2.18978102189781,4,5
+openstack/octavia-lib,openstack/openstack-ansible-os_swift,Non core,1.9607843137254901,1.4598540145985401,4,5
+openstack/octavia-lib,openstack/masakari-specs,Core,4.651162790697675,4.878048780487805,2,4
+openstack/octavia-lib,openstack/masakari-specs,Non core,0.0,0.0,2,4
+openstack/octavia-lib,openstack/telemetry-specs,Core,2.4096385542168677,1.89873417721519,2,3
+openstack/octavia-lib,openstack/telemetry-specs,Non core,0.0,0.0,2,3
+openstack/octavia-lib,openstack/osprofiler,Core,5.154639175257731,2.684563758389262,9,6
+openstack/octavia-lib,openstack/osprofiler,Non core,4.123711340206185,1.342281879194631,9,6
+openstack/octavia-lib,openstack/openstack-ansible-os_trove,Core,2.857142857142857,2.857142857142857,7,6
+openstack/octavia-lib,openstack/openstack-ansible-os_trove,Non core,7.142857142857142,2.857142857142857,7,6
+openstack/octavia-lib,openstack/openstack-ansible-os_manila,Core,4.878048780487805,2.898550724637681,3,4
+openstack/octavia-lib,openstack/openstack-ansible-os_manila,Non core,2.4390243902439024,2.898550724637681,3,4
+openstack/octavia-lib,openstack/ansible-hardening,Core,3.508771929824561,3.0,4,4
+openstack/octavia-lib,openstack/ansible-hardening,Non core,3.508771929824561,1.0,4,4
+openstack/octavia-lib,openstack/barbican-specs,Core,2.9850746268656714,3.149606299212598,4,4
+openstack/octavia-lib,openstack/barbican-specs,Non core,2.9850746268656714,0.0,4,4
+openstack/octavia-lib,openstack/python-heatclient,Core,1.5463917525773196,3.0864197530864197,6,15
+openstack/octavia-lib,openstack/python-heatclient,Non core,1.5463917525773196,1.5432098765432098,6,15
+openstack/octavia-lib,openstack/oslo.versionedobjects,Core,1.8018018018018018,1.744186046511628,5,5
+openstack/octavia-lib,openstack/oslo.versionedobjects,Non core,2.7027027027027026,1.1627906976744187,5,5
+openstack/octavia-lib,openstack/os-api-ref,Core,4.838709677419355,4.166666666666666,5,5
+openstack/octavia-lib,openstack/os-api-ref,Non core,3.225806451612903,1.0416666666666665,5,5
+openstack/octavia-lib,openstack/devstack-plugin-container,Core,5.405405405405405,1.4925373134328357,3,2
+openstack/octavia-lib,openstack/devstack-plugin-container,Non core,2.7027027027027026,1.4925373134328357,3,2
+openstack/octavia-lib,openstack/venus-dashboard,Core,0.0,1.8867924528301887,0,2
+openstack/octavia-lib,openstack/venus-dashboard,Non core,0.0,1.8867924528301887,0,2
+openstack/octavia-lib,openstack/manila-ui,Core,3.260869565217391,4.895104895104895,6,11
+openstack/octavia-lib,openstack/manila-ui,Non core,3.260869565217391,2.797202797202797,6,11
+openstack/octavia-lib,openstack/devstack-plugin-nfs,Core,6.666666666666667,4.411764705882353,2,3
+openstack/octavia-lib,openstack/devstack-plugin-nfs,Non core,0.0,0.0,2,3
+openstack/octavia-lib,openstack/taskflow,Core,5.128205128205128,6.701030927835052,8,16
+openstack/octavia-lib,openstack/taskflow,Non core,1.7094017094017095,1.5463917525773196,8,16
+openstack/octavia-lib,openstack/python-cyborgclient,Core,4.3478260869565215,8.536585365853659,5,9
+openstack/octavia-lib,openstack/python-cyborgclient,Non core,6.521739130434782,2.4390243902439024,5,9
+openstack/octavia-lib,openstack/zun,Core,1.2987012987012987,2.1929824561403506,7,9
+openstack/octavia-lib,openstack/zun,Non core,3.2467532467532463,1.7543859649122806,7,9
+openstack/octavia-lib,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-openstack-loadbalancer,Non core,3.571428571428571,0.0,1,0
+openstack/octavia-lib,openstack/ansible-role-python_venv_build,Core,4.166666666666666,2.380952380952381,3,4
+openstack/octavia-lib,openstack/ansible-role-python_venv_build,Non core,2.083333333333333,2.380952380952381,3,4
+openstack/octavia-lib,openstack/mistral-dashboard,Core,2.564102564102564,3.361344537815126,5,8
+openstack/octavia-lib,openstack/mistral-dashboard,Non core,3.8461538461538463,3.361344537815126,5,8
+openstack/octavia-lib,openstack/mistral-lib,Core,3.389830508474576,5.555555555555555,4,11
+openstack/octavia-lib,openstack/mistral-lib,Non core,3.389830508474576,6.666666666666667,4,11
+openstack/octavia-lib,openstack/monasca-events-api,Core,5.0,2.564102564102564,5,2
+openstack/octavia-lib,openstack/monasca-events-api,Non core,7.5,0.0,5,2
+openstack/octavia-lib,openstack/python-zaqarclient,Core,2.727272727272727,2.564102564102564,4,7
+openstack/octavia-lib,openstack/python-zaqarclient,Non core,0.9090909090909091,1.9230769230769231,4,7
+openstack/octavia-lib,openstack/monasca-api,Core,2.0408163265306123,3.070175438596491,6,10
+openstack/octavia-lib,openstack/monasca-api,Non core,2.0408163265306123,1.3157894736842104,6,10
+openstack/octavia-lib,openstack/monasca-persister,Core,3.4482758620689653,4.081632653061225,6,9
+openstack/octavia-lib,openstack/monasca-persister,Non core,3.4482758620689653,2.0408163265306123,6,9
+openstack/octavia-lib,openstack/monasca-notification,Core,3.3333333333333335,3.6231884057971016,6,8
+openstack/octavia-lib,openstack/monasca-notification,Non core,3.3333333333333335,2.1739130434782608,6,8
+openstack/octavia-lib,openstack/python-saharaclient,Core,3.6036036036036037,3.1055900621118013,5,9
+openstack/octavia-lib,openstack/python-saharaclient,Non core,0.9009009009009009,2.484472049689441,5,9
+openstack/octavia-lib,openstack/charm-magpie,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-magpie,Non core,2.857142857142857,0.0,1,0
+openstack/octavia-lib,openstack/openstack-ansible-os_placement,Core,5.0,1.3888888888888888,4,2
+openstack/octavia-lib,openstack/openstack-ansible-os_placement,Non core,5.0,1.3888888888888888,4,2
+openstack/octavia-lib,openstack/openstackdocstheme,Core,3.488372093023256,6.25,5,9
+openstack/octavia-lib,openstack/openstackdocstheme,Non core,2.3255813953488373,0.0,5,9
+openstack/octavia-lib,openstack/sahara,Core,1.4035087719298245,1.507537688442211,7,11
+openstack/octavia-lib,openstack/sahara,Non core,1.0526315789473684,1.256281407035176,7,11
+openstack/octavia-lib,openstack/ironic-ui,Core,2.631578947368421,1.6260162601626018,6,3
+openstack/octavia-lib,openstack/ironic-ui,Non core,5.263157894736842,0.8130081300813009,6,3
+openstack/octavia-lib,openstack/oslo.serialization,Core,3.614457831325301,4.511278195488721,7,9
+openstack/octavia-lib,openstack/oslo.serialization,Non core,4.819277108433735,2.2556390977443606,7,9
+openstack/octavia-lib,openstack/oslo.context,Core,4.10958904109589,4.411764705882353,7,9
+openstack/octavia-lib,openstack/oslo.context,Non core,5.47945205479452,2.2058823529411766,7,9
+openstack/octavia-lib,openstack/oslo.limit,Core,1.9230769230769231,4.705882352941177,5,7
+openstack/octavia-lib,openstack/oslo.limit,Non core,7.6923076923076925,3.5294117647058822,5,7
+openstack/octavia-lib,openstack/oslo.middleware,Core,2.0618556701030926,4.430379746835443,8,10
+openstack/octavia-lib,openstack/oslo.middleware,Non core,6.185567010309279,1.89873417721519,8,10
+openstack/octavia-lib,openstack/oslo.reports,Core,4.918032786885246,4.273504273504273,6,8
+openstack/octavia-lib,openstack/oslo.reports,Non core,4.918032786885246,2.564102564102564,6,8
+openstack/octavia-lib,openstack/futurist,Core,4.918032786885246,6.122448979591836,6,9
+openstack/octavia-lib,openstack/futurist,Non core,4.918032786885246,3.061224489795918,6,9
+openstack/octavia-lib,openstack/oslo.i18n,Core,2.5316455696202533,4.444444444444445,5,11
+openstack/octavia-lib,openstack/oslo.i18n,Non core,3.79746835443038,3.7037037037037033,5,11
+openstack/octavia-lib,openstack/sushy-oem-idrac,Core,0.0,1.4705882352941175,0,1
+openstack/octavia-lib,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/python-dracclient,Core,1.639344262295082,2.7522935779816518,1,4
+openstack/octavia-lib,openstack/python-dracclient,Non core,0.0,0.9174311926605505,1,4
+openstack/octavia-lib,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/openstack-ansible-os_adjutant,Non core,3.4482758620689653,0.0,1,0
+openstack/octavia-lib,openstack/openstack-ansible-os_masakari,Core,3.9215686274509802,3.3333333333333335,5,6
+openstack/octavia-lib,openstack/openstack-ansible-os_masakari,Non core,5.88235294117647,3.3333333333333335,5,6
+openstack/octavia-lib,openstack/ansible-role-systemd_mount,Core,5.0,2.9850746268656714,3,4
+openstack/octavia-lib,openstack/ansible-role-systemd_mount,Non core,2.5,2.9850746268656714,3,4
+openstack/octavia-lib,openstack/python-senlinclient,Core,2.803738317757009,5.797101449275362,8,13
+openstack/octavia-lib,openstack/python-senlinclient,Non core,4.672897196261682,3.6231884057971016,8,13
+openstack/octavia-lib,openstack/senlin-dashboard,Core,4.166666666666666,4.761904761904762,8,10
+openstack/octavia-lib,openstack/senlin-dashboard,Non core,6.944444444444445,3.1746031746031744,8,10
+openstack/octavia-lib,openstack/networking-generic-switch,Core,2.4096385542168677,4.273504273504273,4,7
+openstack/octavia-lib,openstack/networking-generic-switch,Non core,2.4096385542168677,1.7094017094017095,4,7
+openstack/octavia-lib,openstack/sahara-image-elements,Core,3.5294117647058822,0.78125,5,2
+openstack/octavia-lib,openstack/sahara-image-elements,Non core,2.3529411764705883,0.78125,5,2
+openstack/octavia-lib,openstack/ansible-role-thales-hsm,Core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/ansible-role-thales-hsm,Non core,0.0,1.6666666666666667,0,1
+openstack/octavia-lib,openstack/ansible-role-atos-hsm,Core,0.0,1.7543859649122806,0,2
+openstack/octavia-lib,openstack/ansible-role-atos-hsm,Non core,0.0,1.7543859649122806,0,2
+openstack/octavia-lib,openstack/adjutant-ui,Core,6.0606060606060606,5.0,2,4
+openstack/octavia-lib,openstack/adjutant-ui,Non core,0.0,1.6666666666666667,2,4
+openstack/octavia-lib,openstack/sahara-extra,Core,3.225806451612903,2.0,3,2
+openstack/octavia-lib,openstack/sahara-extra,Non core,1.6129032258064515,0.0,3,2
+openstack/octavia-lib,openstack/blazar-nova,Core,1.8867924528301887,7.446808510638298,3,9
+openstack/octavia-lib,openstack/blazar-nova,Non core,3.7735849056603774,2.127659574468085,3,9
+openstack/octavia-lib,openstack/oslo.service,Core,2.803738317757009,3.910614525139665,9,9
+openstack/octavia-lib,openstack/oslo.service,Non core,5.607476635514018,1.1173184357541899,9,9
+openstack/octavia-lib,openstack/blazar-dashboard,Core,7.142857142857142,6.8181818181818175,6,10
+openstack/octavia-lib,openstack/blazar-dashboard,Non core,7.142857142857142,4.545454545454546,6,10
+openstack/octavia-lib,openstack/paunch,Core,2.941176470588235,4.827586206896552,4,10
+openstack/octavia-lib,openstack/paunch,Non core,2.941176470588235,2.0689655172413794,4,10
+openstack/octavia-lib,openstack/service-types-authority,Core,4.651162790697675,6.666666666666667,2,7
+openstack/octavia-lib,openstack/service-types-authority,Non core,0.0,0.0,2,7
+openstack/octavia-lib,openstack/python-ironic-inspector-client,Core,4.545454545454546,3.278688524590164,6,7
+openstack/octavia-lib,openstack/python-ironic-inspector-client,Non core,4.545454545454546,2.459016393442623,6,7
+openstack/octavia-lib,openstack/openstack-ansible-memcached_server,Core,2.9850746268656714,0.0,4,2
+openstack/octavia-lib,openstack/openstack-ansible-memcached_server,Non core,2.9850746268656714,1.9230769230769231,4,2
+openstack/octavia-lib,openstack/os-testr,Core,4.545454545454546,3.278688524590164,7,8
+openstack/octavia-lib,openstack/os-testr,Non core,6.0606060606060606,3.278688524590164,7,8
+openstack/octavia-lib,openstack/openstack-ansible-ceph_client,Core,2.7777777777777777,1.7543859649122806,4,4
+openstack/octavia-lib,openstack/openstack-ansible-ceph_client,Non core,2.7777777777777777,1.7543859649122806,4,4
+openstack/octavia-lib,openstack/openstack-ansible-os_magnum,Core,2.666666666666667,1.6260162601626018,5,3
+openstack/octavia-lib,openstack/openstack-ansible-os_magnum,Non core,4.0,0.8130081300813009,5,3
+openstack/octavia-lib,openstack/openstack-ansible-os_blazar,Core,4.081632653061225,4.819277108433735,5,6
+openstack/octavia-lib,openstack/openstack-ansible-os_blazar,Non core,6.122448979591836,2.4096385542168677,5,6
+openstack/octavia-lib,openstack/openstack-ansible-os_designate,Core,2.5316455696202533,2.34375,6,5
+openstack/octavia-lib,openstack/openstack-ansible-os_designate,Non core,5.063291139240507,1.5625,6,5
+openstack/octavia-lib,openstack/openstack-ansible-os_gnocchi,Core,2.564102564102564,1.7699115044247788,5,4
+openstack/octavia-lib,openstack/openstack-ansible-os_gnocchi,Non core,3.8461538461538463,1.7699115044247788,5,4
+openstack/octavia-lib,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,2
+openstack/octavia-lib,openstack/openstack-ansible-os_senlin,Non core,0.0,3.6363636363636362,0,2
+openstack/octavia-lib,openstack/ptgbot,Core,2.631578947368421,5.797101449275362,1,5
+openstack/octavia-lib,openstack/ptgbot,Non core,0.0,1.4492753623188406,1,5
+openstack/octavia-lib,openstack/openstack-ansible-os_zun,Core,4.081632653061225,2.4691358024691357,4,4
+openstack/octavia-lib,openstack/openstack-ansible-os_zun,Non core,4.081632653061225,2.4691358024691357,4,4
+openstack/octavia-lib,openstack/openstack-ansible-repo_server,Core,2.5974025974025974,1.6666666666666667,4,3
+openstack/octavia-lib,openstack/openstack-ansible-repo_server,Non core,2.5974025974025974,0.8333333333333334,4,3
+openstack/octavia-lib,openstack/python-watcherclient,Core,1.9230769230769231,3.3057851239669422,4,7
+openstack/octavia-lib,openstack/python-watcherclient,Non core,1.9230769230769231,2.479338842975207,4,7
+openstack/octavia-lib,openstack/heat-agents,Core,3.4482758620689653,5.737704918032787,4,11
+openstack/octavia-lib,openstack/heat-agents,Non core,3.4482758620689653,3.278688524590164,4,11
+openstack/octavia-lib,openstack/oslo.rootwrap,Core,4.545454545454546,5.228758169934641,9,11
+openstack/octavia-lib,openstack/oslo.rootwrap,Non core,5.681818181818182,1.9607843137254901,9,11
+openstack/octavia-lib,openstack/automaton,Core,1.9230769230769231,4.761904761904762,4,6
+openstack/octavia-lib,openstack/automaton,Non core,5.769230769230769,2.380952380952381,4,6
+openstack/octavia-lib,openstack/debtcollector,Core,6.557377049180328,3.5294117647058822,7,4
+openstack/octavia-lib,openstack/debtcollector,Non core,4.918032786885246,1.1764705882352942,7,4
+openstack/octavia-lib,openstack/vitrage-dashboard,Core,2.3529411764705883,2.727272727272727,6,5
+openstack/octavia-lib,openstack/vitrage-dashboard,Non core,4.705882352941177,1.8181818181818181,6,5
+openstack/octavia-lib,openstack/oslotest,Core,3.79746835443038,4.761904761904762,6,9
+openstack/octavia-lib,openstack/oslotest,Non core,3.79746835443038,2.380952380952381,6,9
+openstack/octavia-lib,openstack/kayobe-config,Core,6.25,1.8867924528301887,3,1
+openstack/octavia-lib,openstack/kayobe-config,Non core,3.125,0.0,3,1
+openstack/octavia-lib,openstack/compute-hyperv,Core,3.6363636363636362,5.0,3,7
+openstack/octavia-lib,openstack/compute-hyperv,Non core,1.8181818181818181,3.75,3,7
+openstack/octavia-lib,openstack/python-cloudkittyclient,Core,3.8461538461538463,6.60377358490566,8,11
+openstack/octavia-lib,openstack/python-cloudkittyclient,Non core,6.41025641025641,3.7735849056603774,8,11
+openstack/octavia-lib,openstack/charm-interface-keystone,Core,2.7777777777777777,1.6666666666666667,3,3
+openstack/octavia-lib,openstack/charm-interface-keystone,Non core,5.555555555555555,3.3333333333333335,3,3
+openstack/octavia-lib,openstack/cloudkitty-dashboard,Core,3.0303030303030303,6.25,5,11
+openstack/octavia-lib,openstack/cloudkitty-dashboard,Non core,4.545454545454546,3.571428571428571,5,11
+openstack/octavia-lib,openstack/networking-hyperv,Core,4.225352112676056,5.555555555555555,6,8
+openstack/octavia-lib,openstack/networking-hyperv,Non core,4.225352112676056,3.3333333333333335,6,8
+openstack/octavia-lib,openstack/i18n,Core,1.5384615384615385,3.571428571428571,2,5
+openstack/octavia-lib,openstack/i18n,Non core,1.5384615384615385,0.8928571428571428,2,5
+openstack/octavia-lib,openstack/sahara-tests,Core,3.3333333333333335,2.7522935779816518,3,4
+openstack/octavia-lib,openstack/sahara-tests,Non core,1.6666666666666667,0.9174311926605505,3,4
+openstack/octavia-lib,openstack/python-zunclient,Core,1.9801980198019802,2.7777777777777777,7,6
+openstack/octavia-lib,openstack/python-zunclient,Non core,4.9504950495049505,1.3888888888888888,7,6
+openstack/octavia-lib,openstack/sahara-plugin-cdh,Core,6.0606060606060606,8.47457627118644,4,9
+openstack/octavia-lib,openstack/sahara-plugin-cdh,Non core,6.0606060606060606,6.779661016949152,4,9
+openstack/octavia-lib,openstack/monasca-ui,Core,3.125,1.7543859649122806,5,6
+openstack/octavia-lib,openstack/monasca-ui,Non core,2.083333333333333,1.7543859649122806,5,6
+openstack/octavia-lib,openstack/python-adjutantclient,Core,5.88235294117647,7.4074074074074066,2,5
+openstack/octavia-lib,openstack/python-adjutantclient,Non core,0.0,1.8518518518518516,2,5
+openstack/octavia-lib,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/ansible-role-lunasa-hsm,Core,4.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-lunasa-hsm,Non core,0.0,2.0,1,1
+openstack/octavia-lib,openstack/monasca-thresh,Core,2.0,2.2222222222222223,2,2
+openstack/octavia-lib,openstack/monasca-thresh,Non core,2.0,0.0,2,2
+openstack/octavia-lib,openstack/heat-specs,Core,2.1505376344086025,2.232142857142857,2,6
+openstack/octavia-lib,openstack/heat-specs,Non core,0.0,0.4464285714285714,2,6
+openstack/octavia-lib,openstack/watcher-dashboard,Core,2.941176470588235,2.803738317757009,6,6
+openstack/octavia-lib,openstack/watcher-dashboard,Non core,5.88235294117647,2.803738317757009,6,6
+openstack/octavia-lib,openstack/sahara-plugin-ambari,Core,6.25,5.555555555555555,4,7
+openstack/octavia-lib,openstack/sahara-plugin-ambari,Non core,6.25,7.4074074074074066,4,7
+openstack/octavia-lib,openstack/sahara-plugin-mapr,Core,6.451612903225806,6.896551724137931,4,8
+openstack/octavia-lib,openstack/sahara-plugin-mapr,Non core,6.451612903225806,6.896551724137931,4,8
+openstack/octavia-lib,openstack/sahara-plugin-spark,Core,6.666666666666667,5.88235294117647,4,5
+openstack/octavia-lib,openstack/sahara-plugin-spark,Non core,6.666666666666667,3.9215686274509802,4,5
+openstack/octavia-lib,openstack/sahara-plugin-storm,Core,6.666666666666667,5.769230769230769,4,5
+openstack/octavia-lib,openstack/sahara-plugin-storm,Non core,6.666666666666667,3.8461538461538463,4,5
+openstack/octavia-lib,openstack/sahara-plugin-vanilla,Core,6.666666666666667,5.660377358490567,4,6
+openstack/octavia-lib,openstack/sahara-plugin-vanilla,Non core,6.666666666666667,5.660377358490567,4,6
+openstack/octavia-lib,openstack/sahara-specs,Core,1.3513513513513513,0.847457627118644,1,1
+openstack/octavia-lib,openstack/sahara-specs,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/venus-tempest-plugin,Core,0.0,1.9607843137254901,0,1
+openstack/octavia-lib,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/ceilometermiddleware,Core,5.084745762711865,3.571428571428571,5,8
+openstack/octavia-lib,openstack/ceilometermiddleware,Non core,3.389830508474576,3.571428571428571,5,8
+openstack/octavia-lib,openstack/trove-tempest-plugin,Core,5.714285714285714,4.3478260869565215,3,7
+openstack/octavia-lib,openstack/trove-tempest-plugin,Non core,2.857142857142857,5.797101449275362,3,7
+openstack/octavia-lib,openstack/arch-design,Core,6.896551724137931,1.9607843137254901,3,1
+openstack/octavia-lib,openstack/arch-design,Non core,3.4482758620689653,0.0,3,1
+openstack/octavia-lib,openstack/monasca-common,Core,3.1914893617021276,2.7027027027027026,5,6
+openstack/octavia-lib,openstack/monasca-common,Non core,2.127659574468085,1.3513513513513513,5,6
+openstack/octavia-lib,openstack/monasca-statsd,Core,5.172413793103448,4.2105263157894735,6,8
+openstack/octavia-lib,openstack/monasca-statsd,Non core,5.172413793103448,4.2105263157894735,6,8
+openstack/octavia-lib,openstack/python-monascaclient,Core,2.857142857142857,2.547770700636943,8,7
+openstack/octavia-lib,openstack/python-monascaclient,Non core,4.761904761904762,1.910828025477707,8,7
+openstack/octavia-lib,openstack/renderspec,Core,7.142857142857142,5.714285714285714,6,4
+openstack/octavia-lib,openstack/renderspec,Non core,7.142857142857142,0.0,6,4
+openstack/octavia-lib,openstack/os-service-types,Core,4.878048780487805,2.631578947368421,5,5
+openstack/octavia-lib,openstack/os-service-types,Non core,7.317073170731707,3.9473684210526314,5,5
+openstack/octavia-lib,openstack/masakari-dashboard,Core,4.166666666666666,4.651162790697675,3,8
+openstack/octavia-lib,openstack/masakari-dashboard,Non core,2.083333333333333,4.651162790697675,3,8
+openstack/octavia-lib,openstack/freezer-dr,Core,4.3478260869565215,3.79746835443038,3,5
+openstack/octavia-lib,openstack/freezer-dr,Non core,2.1739130434782608,2.5316455696202533,3,5
+openstack/octavia-lib,openstack/tempest-stress,Core,5.0,5.172413793103448,4,5
+openstack/octavia-lib,openstack/tempest-stress,Non core,5.0,3.4482758620689653,4,5
+openstack/octavia-lib,openstack/charm-neutron-api-genericswitch,Core,3.8461538461538463,2.0,2,1
+openstack/octavia-lib,openstack/charm-neutron-api-genericswitch,Non core,3.8461538461538463,0.0,2,1
+openstack/octavia-lib,openstack/charm-neutron-dynamic-routing,Core,2.631578947368421,3.3333333333333335,2,4
+openstack/octavia-lib,openstack/charm-neutron-dynamic-routing,Non core,2.631578947368421,3.3333333333333335,2,4
+openstack/octavia-lib,openstack/charm-interface-ceph-client,Core,0.0,1.7857142857142856,0,1
+openstack/octavia-lib,openstack/charm-interface-ceph-client,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/charm-percona-cluster,Core,0.0,1.0752688172043012,2,3
+openstack/octavia-lib,openstack/charm-percona-cluster,Non core,3.225806451612903,2.1505376344086025,2,3
+openstack/octavia-lib,openstack/charm-deployment-guide,Core,1.8518518518518516,0.0,2,1
+openstack/octavia-lib,openstack/charm-deployment-guide,Non core,1.8518518518518516,1.282051282051282,2,1
+openstack/octavia-lib,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/oslo.metrics,Core,0.0,5.263157894736842,2,4
+openstack/octavia-lib,openstack/oslo.metrics,Non core,6.666666666666667,1.7543859649122806,2,4
+openstack/octavia-lib,openstack/oslo.vmware,Core,2.0408163265306123,4.545454545454546,6,13
+openstack/octavia-lib,openstack/oslo.vmware,Non core,4.081632653061225,2.840909090909091,6,13
+openstack/octavia-lib,openstack/oslo.upgradecheck,Core,5.405405405405405,4.411764705882353,5,6
+openstack/octavia-lib,openstack/oslo.upgradecheck,Non core,8.108108108108109,4.411764705882353,5,6
+openstack/octavia-lib,openstack/python-masakariclient,Core,3.225806451612903,6.8181818181818175,4,10
+openstack/octavia-lib,openstack/python-masakariclient,Non core,3.225806451612903,4.545454545454546,4,10
+openstack/octavia-lib,openstack/python-vitrageclient,Core,4.225352112676056,2.4390243902439024,7,3
+openstack/octavia-lib,openstack/python-vitrageclient,Non core,5.633802816901409,1.2195121951219512,7,3
+openstack/octavia-lib,openstack/python-blazarclient,Core,4.285714285714286,6.1946902654867255,7,10
+openstack/octavia-lib,openstack/python-blazarclient,Non core,5.714285714285714,2.6548672566371683,7,10
+openstack/octavia-lib,openstack/zaqar-tempest-plugin,Core,5.714285714285714,2.898550724637681,2,2
+openstack/octavia-lib,openstack/zaqar-tempest-plugin,Non core,0.0,0.0,2,2
+openstack/octavia-lib,openstack/tripleo-common-tempest-plugin,Core,5.405405405405405,2.7027027027027026,4,5
+openstack/octavia-lib,openstack/tripleo-common-tempest-plugin,Non core,5.405405405405405,4.054054054054054,4,5
+openstack/octavia-lib,openstack/mistral-tempest-plugin,Core,4.444444444444445,3.9473684210526314,3,5
+openstack/octavia-lib,openstack/mistral-tempest-plugin,Non core,2.2222222222222223,2.631578947368421,3,5
+openstack/octavia-lib,openstack/barbican-ui,Core,4.166666666666666,1.7543859649122806,1,1
+openstack/octavia-lib,openstack/barbican-ui,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/liberasurecode,Core,2.941176470588235,0.0,2,0
+openstack/octavia-lib,openstack/liberasurecode,Non core,2.941176470588235,0.0,2,0
+openstack/octavia-lib,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/os-client-config,Core,2.0408163265306123,2.7210884353741496,5,5
+openstack/octavia-lib,openstack/os-client-config,Non core,3.061224489795918,0.6802721088435374,5,5
+openstack/octavia-lib,openstack/monasca-specs,Core,2.857142857142857,1.3333333333333335,1,1
+openstack/octavia-lib,openstack/monasca-specs,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/os-performance-tools,Core,5.0,6.451612903225806,3,5
+openstack/octavia-lib,openstack/os-performance-tools,Non core,2.5,1.6129032258064515,3,5
+openstack/octavia-lib,openstack/trove-specs,Core,3.225806451612903,0.7874015748031495,2,3
+openstack/octavia-lib,openstack/trove-specs,Non core,0.0,1.574803149606299,2,3
+openstack/octavia-lib,openstack/manila-image-elements,Core,4.166666666666666,2.247191011235955,3,3
+openstack/octavia-lib,openstack/manila-image-elements,Non core,2.083333333333333,1.1235955056179776,3,3
+openstack/octavia-lib,openstack/blazar-specs,Core,6.451612903225806,3.076923076923077,2,2
+openstack/octavia-lib,openstack/blazar-specs,Non core,0.0,0.0,2,2
+openstack/octavia-lib,openstack/molteniron,Core,6.0606060606060606,4.3478260869565215,3,3
+openstack/octavia-lib,openstack/molteniron,Non core,3.0303030303030303,0.0,3,3
+openstack/octavia-lib,openstack/solum-specs,Core,5.263157894736842,0.0,2,0
+openstack/octavia-lib,openstack/solum-specs,Non core,0.0,0.0,2,0
+openstack/octavia-lib,openstack/patrole,Core,1.8518518518518516,3.3112582781456954,6,7
+openstack/octavia-lib,openstack/patrole,Non core,3.7037037037037033,1.3245033112582782,6,7
+openstack/octavia-lib,openstack/performance-docs,Core,1.6129032258064515,2.0,2,4
+openstack/octavia-lib,openstack/performance-docs,Non core,1.6129032258064515,2.0,2,4
+openstack/octavia-lib,openstack/sphinx-feature-classification,Core,7.6923076923076925,9.58904109589041,5,8
+openstack/octavia-lib,openstack/sphinx-feature-classification,Non core,5.128205128205128,1.36986301369863,5,8
+openstack/octavia-lib,openstack/etcd3gw,Core,0.0,5.555555555555555,0,3
+openstack/octavia-lib,openstack/etcd3gw,Non core,0.0,0.0,0,3
+openstack/octavia-lib,openstack/watcher-specs,Core,2.898550724637681,1.5873015873015872,3,3
+openstack/octavia-lib,openstack/watcher-specs,Non core,1.4492753623188406,0.7936507936507936,3,3
+openstack/octavia-lib,openstack/yaql,Core,3.508771929824561,2.0202020202020203,3,3
+openstack/octavia-lib,openstack/yaql,Non core,1.7543859649122806,1.0101010101010102,3,3
+openstack/octavia-lib,openstack/puppet-openstack-guide,Core,4.25531914893617,3.7037037037037033,4,5
+openstack/octavia-lib,openstack/puppet-openstack-guide,Non core,4.25531914893617,2.4691358024691357,4,5
+openstack/octavia-lib,openstack/puppet-panko,Core,3.389830508474576,4.054054054054054,4,5
+openstack/octavia-lib,openstack/puppet-panko,Non core,3.389830508474576,2.7027027027027026,4,5
+openstack/octavia-lib,openstack/heat-cfnclient,Core,4.761904761904762,8.333333333333332,4,7
+openstack/octavia-lib,openstack/heat-cfnclient,Non core,4.761904761904762,1.3888888888888888,4,7
+openstack/octavia-lib,openstack/heat-cfntools,Core,2.9850746268656714,4.672897196261682,6,8
+openstack/octavia-lib,openstack/heat-cfntools,Non core,5.970149253731343,2.803738317757009,6,8
+openstack/octavia-lib,openstack/heat-templates,Core,1.574803149606299,0.9009009009009009,2,3
+openstack/octavia-lib,openstack/heat-templates,Non core,0.0,0.45045045045045046,2,3
+openstack/octavia-lib,openstack/governance-sigs,Core,3.7037037037037033,5.797101449275362,4,10
+openstack/octavia-lib,openstack/governance-sigs,Non core,3.7037037037037033,1.4492753623188406,4,10
+openstack/octavia-lib,openstack/openstack-zuul-roles,Core,3.7037037037037033,0.0,1,0
+openstack/octavia-lib,openstack/openstack-zuul-roles,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/nova-powervm,Core,2.5316455696202533,2.898550724637681,2,7
+openstack/octavia-lib,openstack/nova-powervm,Non core,0.0,2.1739130434782608,2,7
+openstack/octavia-lib,openstack/openstack-helm-addons,Core,1.7543859649122806,0.0,4,3
+openstack/octavia-lib,openstack/openstack-helm-addons,Non core,5.263157894736842,1.9230769230769231,4,3
+openstack/octavia-lib,openstack/python-pankoclient,Core,6.8181818181818175,6.329113924050633,5,7
+openstack/octavia-lib,openstack/python-pankoclient,Non core,4.545454545454546,2.5316455696202533,5,7
+openstack/octavia-lib,openstack/qa-specs,Core,2.898550724637681,1.3071895424836601,3,4
+openstack/octavia-lib,openstack/qa-specs,Non core,1.4492753623188406,1.3071895424836601,3,4
+openstack/octavia-lib,openstack/zaqar-specs,Core,3.508771929824561,0.9259259259259258,3,3
+openstack/octavia-lib,openstack/zaqar-specs,Non core,1.7543859649122806,1.8518518518518516,3,3
+openstack/octavia-lib,openstack/swift-bench,Core,0.0,1.2195121951219512,1,1
+openstack/octavia-lib,openstack/swift-bench,Non core,2.4390243902439024,0.0,1,1
+openstack/octavia-lib,openstack/whereto,Core,2.7777777777777777,8.064516129032258,5,6
+openstack/octavia-lib,openstack/whereto,Non core,11.11111111111111,1.6129032258064515,5,6
+openstack/octavia-lib,openstack/murano-specs,Core,3.125,1.9047619047619049,2,3
+openstack/octavia-lib,openstack/murano-specs,Non core,0.0,0.9523809523809524,2,3
+openstack/octavia-lib,openstack/ansible-role-tripleo-modify-image,Core,3.9215686274509802,3.8834951456310676,2,6
+openstack/octavia-lib,openstack/ansible-role-tripleo-modify-image,Non core,0.0,1.9417475728155338,2,6
+openstack/octavia-lib,openstack/requestsexceptions,Core,6.896551724137931,1.639344262295082,2,2
+openstack/octavia-lib,openstack/requestsexceptions,Non core,0.0,1.639344262295082,2,2
+openstack/octavia-lib,openstack/panko,Core,2.197802197802198,3.546099290780142,5,7
+openstack/octavia-lib,openstack/panko,Non core,3.296703296703297,1.4184397163120568,5,7
+openstack/octavia-lib,openstack/api-sig,Core,1.36986301369863,1.2658227848101267,2,4
+openstack/octavia-lib,openstack/api-sig,Non core,1.36986301369863,0.42194092827004215,2,4
+openstack/octavia-lib,openstack/openstack-chef-specs,Core,2.1739130434782608,2.5316455696202533,1,2
+openstack/octavia-lib,openstack/openstack-chef-specs,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/freezer-specs,Core,4.761904761904762,2.8169014084507045,3,2
+openstack/octavia-lib,openstack/freezer-specs,Non core,2.380952380952381,0.0,3,2
+openstack/octavia-lib,openstack/oslo.tools,Core,1.8518518518518516,4.3478260869565215,2,6
+openstack/octavia-lib,openstack/oslo.tools,Non core,1.8518518518518516,4.3478260869565215,2,6
+openstack/octavia-lib,openstack/microversion-parse,Core,3.125,3.389830508474576,1,2
+openstack/octavia-lib,openstack/microversion-parse,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/openstackclient,Core,6.666666666666667,5.333333333333334,3,6
+openstack/octavia-lib,openstack/openstackclient,Non core,0.0,2.666666666666667,3,6
+openstack/octavia-lib,openstack/ossa,Core,2.272727272727273,6.0,1,7
+openstack/octavia-lib,openstack/ossa,Non core,0.0,1.0,1,7
+openstack/octavia-lib,openstack/reviewstats,Core,1.0,2.4691358024691357,1,5
+openstack/octavia-lib,openstack/reviewstats,Non core,0.0,0.6172839506172839,1,5
+openstack/octavia-lib,openstack/oslo-cookiecutter,Core,2.272727272727273,4.054054054054054,2,4
+openstack/octavia-lib,openstack/oslo-cookiecutter,Non core,2.272727272727273,1.3513513513513513,2,4
+openstack/octavia-lib,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/security-analysis,Core,3.225806451612903,4.477611940298507,1,3
+openstack/octavia-lib,openstack/security-analysis,Non core,0.0,0.0,1,3
+openstack/octavia-lib,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/ansible-role-tripleo-keystone,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-keystone,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/openstack-ansible-apt_package_pinning,Core,3.508771929824561,1.1627906976744187,3,3
+openstack/octavia-lib,openstack/openstack-ansible-apt_package_pinning,Non core,1.7543859649122806,2.3255813953488373,3,3
+openstack/octavia-lib,openstack/ansible-role-qdrouterd,Core,2.941176470588235,2.7777777777777777,2,4
+openstack/octavia-lib,openstack/ansible-role-qdrouterd,Non core,2.941176470588235,2.7777777777777777,2,4
+openstack/octavia-lib,openstack/openstack-ansible-openstack_openrc,Core,3.0303030303030303,1.0526315789473684,5,3
+openstack/octavia-lib,openstack/openstack-ansible-openstack_openrc,Non core,4.545454545454546,2.1052631578947367,5,3
+openstack/octavia-lib,openstack/openstack-ansible-nspawn_container_create,Core,4.761904761904762,4.166666666666666,3,6
+openstack/octavia-lib,openstack/openstack-ansible-nspawn_container_create,Non core,2.380952380952381,4.166666666666666,3,6
+openstack/octavia-lib,openstack/devstack-tools,Core,5.128205128205128,5.084745762711865,2,4
+openstack/octavia-lib,openstack/devstack-tools,Non core,0.0,1.694915254237288,2,4
+openstack/octavia-lib,openstack/coverage2sql,Core,6.8181818181818175,4.918032786885246,4,5
+openstack/octavia-lib,openstack/coverage2sql,Non core,2.272727272727273,3.278688524590164,4,5
+openstack/octavia-lib,openstack/bashate,Core,2.857142857142857,5.263157894736842,3,6
+openstack/octavia-lib,openstack/bashate,Non core,1.4285714285714286,1.0526315789473684,3,6
+openstack/octavia-lib,openstack/hacking,Core,1.8518518518518516,3.608247422680412,3,8
+openstack/octavia-lib,openstack/hacking,Non core,0.9259259259259258,0.5154639175257731,3,8
+openstack/octavia-lib,openstack/xstatic-mdi,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/openstack-chef,Core,2.127659574468085,1.5625,2,1
+openstack/octavia-lib,openstack/openstack-chef,Non core,2.127659574468085,0.0,2,1
+openstack/octavia-lib,openstack/cookbook-openstackclient,Core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/cookbook-openstackclient,Non core,0.0,1.7857142857142856,0,1
+openstack/octavia-lib,openstack/xstatic-angular,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-interface-hacluster,Core,0.0,1.694915254237288,1,3
+openstack/octavia-lib,openstack/charm-interface-hacluster,Non core,2.4390243902439024,3.389830508474576,1,3
+openstack/octavia-lib,openstack/puppet-openstack-specs,Core,4.444444444444445,3.061224489795918,4,4
+openstack/octavia-lib,openstack/puppet-openstack-specs,Non core,4.444444444444445,1.0204081632653061,4,4
+openstack/octavia-lib,openstack/puppet-monasca,Core,3.9215686274509802,1.6260162601626018,4,3
+openstack/octavia-lib,openstack/puppet-monasca,Non core,3.9215686274509802,0.8130081300813009,4,3
+openstack/octavia-lib,openstack/eslint-config-openstack,Core,5.405405405405405,2.197802197802198,3,2
+openstack/octavia-lib,openstack/eslint-config-openstack,Non core,2.7027027027027026,0.0,3,2
+openstack/octavia-lib,openstack/karma-subunit-reporter,Core,3.7037037037037033,4.0,1,2
+openstack/octavia-lib,openstack/karma-subunit-reporter,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/openstack-helm-docs,Core,3.3333333333333335,4.477611940298507,1,4
+openstack/octavia-lib,openstack/openstack-helm-docs,Non core,0.0,1.4925373134328357,1,4
+openstack/octavia-lib,openstack/openstack-ansible-specs,Core,2.631578947368421,1.9607843137254901,3,4
+openstack/octavia-lib,openstack/openstack-ansible-specs,Non core,1.3157894736842104,0.6535947712418301,3,4
+openstack/octavia-lib,openstack/tempest-lib,Core,3.076923076923077,1.4814814814814816,2,2
+openstack/octavia-lib,openstack/tempest-lib,Non core,0.0,0.0,2,2
+openstack/octavia-lib,openstack/tripleo-ha-utils,Core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/tripleo-ha-utils,Non core,3.225806451612903,1.4285714285714286,1,1
+openstack/octavia-lib,openstack/devstack-vagrant,Core,8.571428571428571,1.4705882352941175,3,2
+openstack/octavia-lib,openstack/devstack-vagrant,Non core,0.0,1.4705882352941175,3,2
+openstack/octavia-lib,openstack/goal-tools,Core,3.3333333333333335,7.017543859649122,1,6
+openstack/octavia-lib,openstack/goal-tools,Non core,0.0,3.508771929824561,1,6
+openstack/octavia-lib,openstack/cookiecutter,Core,1.5384615384615385,5.5045871559633035,2,6
+openstack/octavia-lib,openstack/cookiecutter,Non core,1.5384615384615385,0.0,2,6
+openstack/octavia-lib,openstack/dib-utils,Core,2.631578947368421,1.2048192771084338,1,1
+openstack/octavia-lib,openstack/dib-utils,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/constellations,Core,3.571428571428571,5.357142857142857,1,5
+openstack/octavia-lib,openstack/constellations,Non core,0.0,3.571428571428571,1,5
+openstack/octavia-lib,openstack/cookbook-openstack-integration-test,Core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/cookbook-openstack-integration-test,Non core,0.0,1.282051282051282,0,1
+openstack/octavia-lib,openstack/cookbook-openstack-dashboard,Core,1.4705882352941175,0.8849557522123894,1,2
+openstack/octavia-lib,openstack/cookbook-openstack-dashboard,Non core,0.0,0.8849557522123894,1,2
+openstack/octavia-lib,openstack/cookbook-openstack-telemetry,Core,1.4705882352941175,1.0638297872340425,2,2
+openstack/octavia-lib,openstack/cookbook-openstack-telemetry,Non core,1.4705882352941175,1.0638297872340425,2,2
+openstack/octavia-lib,openstack/cookbook-openstack-orchestration,Core,1.694915254237288,1.0101010101010102,1,2
+openstack/octavia-lib,openstack/cookbook-openstack-orchestration,Non core,0.0,1.0101010101010102,1,2
+openstack/octavia-lib,openstack/cookbook-openstack-bare-metal,Core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/cookbook-openstack-bare-metal,Non core,0.0,1.5151515151515151,0,1
+openstack/octavia-lib,openstack/cookbook-openstack-dns,Core,0.0,1.8518518518518516,0,3
+openstack/octavia-lib,openstack/cookbook-openstack-dns,Non core,0.0,3.7037037037037033,0,3
+openstack/octavia-lib,openstack/cookbook-openstack-compute,Core,1.1363636363636365,0.7299270072992701,1,2
+openstack/octavia-lib,openstack/cookbook-openstack-compute,Non core,0.0,0.7299270072992701,1,2
+openstack/octavia-lib,openstack/cookbook-openstack-network,Core,1.1111111111111112,0.7575757575757576,1,2
+openstack/octavia-lib,openstack/cookbook-openstack-network,Non core,0.0,0.7575757575757576,1,2
+openstack/octavia-lib,openstack/cookbook-openstack-block-storage,Core,2.4390243902439024,0.8849557522123894,3,2
+openstack/octavia-lib,openstack/cookbook-openstack-block-storage,Non core,1.2195121951219512,0.8849557522123894,3,2
+openstack/octavia-lib,openstack/cookbook-openstack-image,Core,1.3333333333333335,0.8928571428571428,1,2
+openstack/octavia-lib,openstack/cookbook-openstack-image,Non core,0.0,0.8928571428571428,1,2
+openstack/octavia-lib,openstack/cookbook-openstack-identity,Core,2.666666666666667,0.847457627118644,3,2
+openstack/octavia-lib,openstack/cookbook-openstack-identity,Non core,1.3333333333333335,0.847457627118644,3,2
+openstack/octavia-lib,openstack/cookbook-openstack-ops-database,Core,1.7241379310344827,0.0,1,0
+openstack/octavia-lib,openstack/cookbook-openstack-ops-database,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/cookbook-openstack-ops-messaging,Core,1.9607843137254901,0.0,1,1
+openstack/octavia-lib,openstack/cookbook-openstack-ops-messaging,Non core,0.0,1.1627906976744187,1,1
+openstack/octavia-lib,openstack/cookbook-openstack-common,Core,1.1904761904761905,0.0,2,1
+openstack/octavia-lib,openstack/cookbook-openstack-common,Non core,1.1904761904761905,0.7352941176470588,2,1
+openstack/octavia-lib,openstack/self-healing-sig,Core,3.0303030303030303,1.4285714285714286,1,1
+openstack/octavia-lib,openstack/self-healing-sig,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/security-specs,Core,2.7027027027027026,1.3333333333333335,2,1
+openstack/octavia-lib,openstack/security-specs,Non core,2.7027027027027026,0.0,2,1
+openstack/octavia-lib,openstack/openstack-ansible-os_panko,Core,4.545454545454546,6.329113924050633,4,6
+openstack/octavia-lib,openstack/openstack-ansible-os_panko,Non core,4.545454545454546,1.2658227848101267,4,6
+openstack/octavia-lib,openstack/openstack-ansible-nspawn_hosts,Core,4.761904761904762,2.631578947368421,4,4
+openstack/octavia-lib,openstack/openstack-ansible-nspawn_hosts,Non core,4.761904761904762,2.631578947368421,4,4
+openstack/octavia-lib,openstack/charm-layer-openstack-principle,Core,3.7037037037037033,0.0,2,0
+openstack/octavia-lib,openstack/charm-layer-openstack-principle,Non core,3.7037037037037033,0.0,2,0
+openstack/octavia-lib,openstack/charm-watcher-dashboard,Core,3.8461538461538463,1.8181818181818181,1,1
+openstack/octavia-lib,openstack/charm-watcher-dashboard,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/charm-watcher,Core,3.571428571428571,1.5625,1,1
+openstack/octavia-lib,openstack/charm-watcher,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/openstack-ansible-galera_client,Core,2.73972602739726,0.0,5,2
+openstack/octavia-lib,openstack/openstack-ansible-galera_client,Non core,4.10958904109589,1.9801980198019802,5,2
+openstack/octavia-lib,openstack/cloudkitty-specs,Core,5.263157894736842,2.7777777777777777,2,3
+openstack/octavia-lib,openstack/cloudkitty-specs,Non core,0.0,1.3888888888888888,2,3
+openstack/octavia-lib,openstack/osops,Core,3.571428571428571,3.7735849056603774,1,2
+openstack/octavia-lib,openstack/osops,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-ironic,Core,3.7037037037037033,0.0,2,0
+openstack/octavia-lib,openstack/charm-ironic,Non core,3.7037037037037033,0.0,2,0
+openstack/octavia-lib,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/multi-arch-sig,Core,4.0,3.9215686274509802,1,2
+openstack/octavia-lib,openstack/multi-arch-sig,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/charm-nova-compute-proxy,Core,0.0,0.0,2,0
+openstack/octavia-lib,openstack/charm-nova-compute-proxy,Non core,6.0606060606060606,0.0,2,0
+openstack/octavia-lib,openstack/charm-odl-controller,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-odl-controller,Non core,2.857142857142857,0.0,1,0
+openstack/octavia-lib,openstack/charm-nova-lxd,Core,2.4390243902439024,0.0,3,0
+openstack/octavia-lib,openstack/charm-nova-lxd,Non core,4.878048780487805,0.0,3,0
+openstack/octavia-lib,openstack/charm-interface-nova-cell,Core,0.0,2.127659574468085,0,1
+openstack/octavia-lib,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-interface-barbican-secrets,Core,0.0,2.0,1,3
+openstack/octavia-lib,openstack/charm-interface-barbican-secrets,Non core,3.4482758620689653,4.0,1,3
+openstack/octavia-lib,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-interface-ceph-rbd-mirror,Core,0.0,1.9607843137254901,1,3
+openstack/octavia-lib,openstack/charm-interface-ceph-rbd-mirror,Non core,3.571428571428571,3.9215686274509802,1,3
+openstack/octavia-lib,openstack/charm-interface-placement,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-interface-placement,Non core,4.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-interface-mysql-shared,Core,3.225806451612903,0.0,1,0
+openstack/octavia-lib,openstack/charm-interface-mysql-shared,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-interface-dashboard-plugin,Core,0.0,2.0,1,3
+openstack/octavia-lib,openstack/charm-interface-dashboard-plugin,Non core,3.4482758620689653,4.0,1,3
+openstack/octavia-lib,openstack/charm-interface-neutron-load-balancer,Core,0.0,2.0,1,3
+openstack/octavia-lib,openstack/charm-interface-neutron-load-balancer,Non core,3.4482758620689653,4.0,1,3
+openstack/octavia-lib,openstack/charm-interface-neutron-plugin-api-subordinate,Core,3.225806451612903,1.8518518518518516,2,1
+openstack/octavia-lib,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,3.225806451612903,0.0,2,1
+openstack/octavia-lib,openstack/charm-interface-neutron-plugin,Core,3.4482758620689653,1.9230769230769231,1,1
+openstack/octavia-lib,openstack/charm-interface-neutron-plugin,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/xstatic-json2yaml,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-json2yaml,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-js-yaml,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-js-yaml,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-spin,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-spin,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-panko,Core,0.0,1.7543859649122806,1,1
+openstack/octavia-lib,openstack/charm-panko,Non core,3.571428571428571,0.0,1,1
+openstack/octavia-lib,openstack/charm-interface-service-control,Core,0.0,1.9230769230769231,1,3
+openstack/octavia-lib,openstack/charm-interface-service-control,Non core,3.3333333333333335,3.8461538461538463,1,3
+openstack/octavia-lib,openstack/openstack-ansible-os_almanach,Core,2.1739130434782608,1.2987012987012987,3,2
+openstack/octavia-lib,openstack/openstack-ansible-os_almanach,Non core,4.3478260869565215,1.2987012987012987,3,2
+openstack/octavia-lib,openstack/openstack-ansible-pip_install,Core,1.4492753623188406,1.7543859649122806,3,3
+openstack/octavia-lib,openstack/openstack-ansible-pip_install,Non core,2.898550724637681,0.8771929824561403,3,3
+openstack/octavia-lib,openstack/python-karborclient,Core,2.8169014084507045,5.825242718446602,5,7
+openstack/octavia-lib,openstack/python-karborclient,Non core,4.225352112676056,0.9708737864077669,5,7
+openstack/octavia-lib,openstack/charm-interface-keystone-admin,Core,7.6923076923076925,0.0,2,0
+openstack/octavia-lib,openstack/charm-interface-keystone-admin,Non core,0.0,0.0,2,0
+openstack/octavia-lib,openstack/charm-interface-nova-compute,Core,3.3333333333333335,1.8518518518518516,2,3
+openstack/octavia-lib,openstack/charm-interface-nova-compute,Non core,3.3333333333333335,3.7037037037037033,2,3
+openstack/octavia-lib,openstack/charm-interface-manila-plugin,Core,3.571428571428571,1.9230769230769231,1,1
+openstack/octavia-lib,openstack/charm-interface-manila-plugin,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/murano-apps,Core,2.7027027027027026,1.7391304347826086,2,2
+openstack/octavia-lib,openstack/murano-apps,Non core,0.0,0.0,2,2
+openstack/octavia-lib,openstack/puppet-senlin,Core,5.714285714285714,5.084745762711865,4,5
+openstack/octavia-lib,openstack/puppet-senlin,Non core,5.714285714285714,3.389830508474576,4,5
+openstack/octavia-lib,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/cookbook-openstack-application-catalog,Non core,3.571428571428571,1.8867924528301887,1,1
+openstack/octavia-lib,openstack/training-labs,Core,5.172413793103448,3.4482758620689653,3,4
+openstack/octavia-lib,openstack/training-labs,Non core,0.0,1.1494252873563218,3,4
+openstack/octavia-lib,openstack/karbor,Core,1.5267175572519083,2.4630541871921183,6,7
+openstack/octavia-lib,openstack/karbor,Non core,3.0534351145038165,0.9852216748768473,6,7
+openstack/octavia-lib,openstack/devstack-plugin-open-cas,Core,4.0,3.7037037037037033,1,2
+openstack/octavia-lib,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/openstack-ansible-os_congress,Core,4.444444444444445,2.3255813953488373,4,4
+openstack/octavia-lib,openstack/openstack-ansible-os_congress,Non core,4.444444444444445,2.3255813953488373,4,4
+openstack/octavia-lib,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-interface-keystone-notifications,Core,0.0,2.127659574468085,0,1
+openstack/octavia-lib,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/os-collect-config,Core,1.3888888888888888,1.36986301369863,5,4
+openstack/octavia-lib,openstack/os-collect-config,Non core,5.555555555555555,1.36986301369863,5,4
+openstack/octavia-lib,openstack/os-apply-config,Core,1.4084507042253522,3.7037037037037033,5,7
+openstack/octavia-lib,openstack/os-apply-config,Non core,5.633802816901409,1.4814814814814816,5,7
+openstack/octavia-lib,openstack/puppet-freezer,Core,4.545454545454546,5.88235294117647,4,5
+openstack/octavia-lib,openstack/puppet-freezer,Non core,4.545454545454546,1.4705882352941175,4,5
+openstack/octavia-lib,openstack/vitrage-specs,Core,3.508771929824561,0.0,4,2
+openstack/octavia-lib,openstack/vitrage-specs,Non core,3.508771929824561,2.1052631578947367,4,2
+openstack/octavia-lib,openstack/specs-cookiecutter,Core,6.666666666666667,5.172413793103448,2,3
+openstack/octavia-lib,openstack/specs-cookiecutter,Non core,0.0,0.0,2,3
+openstack/octavia-lib,openstack/rpm-packaging-tools,Core,6.25,4.411764705882353,3,4
+openstack/octavia-lib,openstack/rpm-packaging-tools,Non core,3.125,1.4705882352941175,3,4
+openstack/octavia-lib,openstack/ansible-role-openstack-operations,Core,0.0,1.5873015873015872,2,1
+openstack/octavia-lib,openstack/ansible-role-openstack-operations,Non core,5.405405405405405,0.0,2,1
+openstack/octavia-lib,openstack/os-refresh-config,Core,1.7543859649122806,2.586206896551724,5,5
+openstack/octavia-lib,openstack/os-refresh-config,Non core,7.017543859649122,1.7241379310344827,5,5
+openstack/octavia-lib,openstack/mistral-specs,Core,4.081632653061225,1.1904761904761905,3,1
+openstack/octavia-lib,openstack/mistral-specs,Non core,2.0408163265306123,0.0,3,1
+openstack/octavia-lib,openstack/scientific-wg,Core,3.8461538461538463,4.0,1,2
+openstack/octavia-lib,openstack/scientific-wg,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,1.9607843137254901,0,1
+openstack/octavia-lib,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/manila-test-image,Core,3.8461538461538463,3.4482758620689653,1,4
+openstack/octavia-lib,openstack/manila-test-image,Non core,0.0,3.4482758620689653,1,4
+openstack/octavia-lib,openstack/governance-website,Core,3.225806451612903,6.451612903225806,2,5
+openstack/octavia-lib,openstack/governance-website,Non core,3.225806451612903,1.6129032258064515,2,5
+openstack/octavia-lib,openstack/bugdaystats,Core,0.0,5.084745762711865,0,3
+openstack/octavia-lib,openstack/bugdaystats,Non core,0.0,0.0,0,3
+openstack/octavia-lib,openstack/upstream-institute-virtual-environment,Core,0.0,5.357142857142857,0,3
+openstack/octavia-lib,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,3
+openstack/octavia-lib,openstack/karbor-dashboard,Core,3.6363636363636362,4.081632653061225,6,7
+openstack/octavia-lib,openstack/karbor-dashboard,Non core,7.2727272727272725,3.061224489795918,6,7
+openstack/octavia-lib,openstack/django_openstack_auth,Core,3.061224489795918,1.4423076923076923,3,3
+openstack/octavia-lib,openstack/django_openstack_auth,Non core,0.0,0.0,3,3
+openstack/octavia-lib,openstack/monasca-transform,Core,3.389830508474576,4.3478260869565215,5,6
+openstack/octavia-lib,openstack/monasca-transform,Non core,5.084745762711865,2.1739130434782608,5,6
+openstack/octavia-lib,openstack/monasca-ceilometer,Core,2.9850746268656714,2.586206896551724,6,4
+openstack/octavia-lib,openstack/monasca-ceilometer,Non core,5.970149253731343,0.8620689655172413,6,4
+openstack/octavia-lib,openstack/monasca-log-api,Core,4.054054054054054,4.545454545454546,5,8
+openstack/octavia-lib,openstack/monasca-log-api,Non core,2.7027027027027026,1.5151515151515151,5,8
+openstack/octavia-lib,openstack/nose-html-output,Core,3.225806451612903,5.172413793103448,1,3
+openstack/octavia-lib,openstack/nose-html-output,Non core,0.0,0.0,1,3
+openstack/octavia-lib,openstack/kolla-cli,Core,4.761904761904762,3.8461538461538463,3,6
+openstack/octavia-lib,openstack/kolla-cli,Non core,2.380952380952381,3.8461538461538463,3,6
+openstack/octavia-lib,openstack/neutron-lbaas-dashboard,Core,7.8125,7.317073170731707,7,12
+openstack/octavia-lib,openstack/neutron-lbaas-dashboard,Non core,3.125,2.4390243902439024,7,12
+openstack/octavia-lib,openstack/searchlight,Core,1.4814814814814816,2.857142857142857,6,7
+openstack/octavia-lib,openstack/searchlight,Non core,2.9629629629629632,1.1428571428571428,6,7
+openstack/octavia-lib,openstack/searchlight-ui,Core,3.076923076923077,3.1578947368421053,4,3
+openstack/octavia-lib,openstack/searchlight-ui,Non core,3.076923076923077,0.0,4,3
+openstack/octavia-lib,openstack/searchlight-specs,Core,4.761904761904762,2.5316455696202533,5,3
+openstack/octavia-lib,openstack/searchlight-specs,Non core,7.142857142857142,1.2658227848101267,5,3
+openstack/octavia-lib,openstack/python-searchlightclient,Core,3.1746031746031744,3.125,5,5
+openstack/octavia-lib,openstack/python-searchlightclient,Non core,4.761904761904762,2.083333333333333,5,5
+openstack/octavia-lib,openstack/charm-tempest,Core,2.3255813953488373,2.9850746268656714,2,4
+openstack/octavia-lib,openstack/charm-tempest,Non core,2.3255813953488373,2.9850746268656714,2,4
+openstack/octavia-lib,openstack/charm-barbican-softhsm,Core,5.128205128205128,3.225806451612903,3,4
+openstack/octavia-lib,openstack/charm-barbican-softhsm,Non core,2.564102564102564,3.225806451612903,3,4
+openstack/octavia-lib,openstack/cookbook-openstack-client,Core,3.3333333333333335,0.0,1,0
+openstack/octavia-lib,openstack/cookbook-openstack-client,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/instack-undercloud,Core,1.6528925619834711,1.639344262295082,4,7
+openstack/octavia-lib,openstack/instack-undercloud,Non core,1.6528925619834711,1.2295081967213115,4,7
+openstack/octavia-lib,openstack/publiccloud-sig,Core,3.4482758620689653,1.8181818181818181,1,1
+openstack/octavia-lib,openstack/publiccloud-sig,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ideas,Core,7.6923076923076925,5.555555555555555,2,4
+openstack/octavia-lib,openstack/ideas,Non core,0.0,0.0,2,4
+openstack/octavia-lib,openstack/uc-recognition,Core,4.0,1.8181818181818181,1,1
+openstack/octavia-lib,openstack/uc-recognition,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ops-tags-team,Core,3.125,2.5974025974025974,1,2
+openstack/octavia-lib,openstack/ops-tags-team,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/enterprise-wg,Core,4.3478260869565215,2.1739130434782608,1,1
+openstack/octavia-lib,openstack/enterprise-wg,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/governance-uc,Core,4.651162790697675,3.0927835051546393,2,4
+openstack/octavia-lib,openstack/governance-uc,Non core,0.0,1.0309278350515463,2,4
+openstack/octavia-lib,openstack/workload-ref-archs,Core,6.0606060606060606,3.389830508474576,3,3
+openstack/octavia-lib,openstack/workload-ref-archs,Non core,3.0303030303030303,1.694915254237288,3,3
+openstack/octavia-lib,openstack/arch-wg,Core,3.8461538461538463,1.6129032258064515,1,1
+openstack/octavia-lib,openstack/arch-wg,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/project-navigator-data,Core,5.0,5.88235294117647,2,4
+openstack/octavia-lib,openstack/project-navigator-data,Non core,0.0,0.0,2,4
+openstack/octavia-lib,openstack/openstack-specs,Core,4.878048780487805,1.7857142857142856,2,4
+openstack/octavia-lib,openstack/openstack-specs,Non core,0.0,0.0,2,4
+openstack/octavia-lib,openstack/openstack-ansible-os_monasca,Core,3.571428571428571,3.125,4,4
+openstack/octavia-lib,openstack/openstack-ansible-os_monasca,Non core,3.571428571428571,1.0416666666666665,4,4
+openstack/octavia-lib,openstack/openstack-ansible-os_monasca-agent,Core,2.1739130434782608,2.5316455696202533,2,3
+openstack/octavia-lib,openstack/openstack-ansible-os_monasca-agent,Non core,2.1739130434782608,1.2658227848101267,2,3
+openstack/octavia-lib,openstack/ironic-inspector-specs,Core,2.2222222222222223,1.098901098901099,3,2
+openstack/octavia-lib,openstack/ironic-inspector-specs,Non core,4.444444444444445,1.098901098901099,3,2
+openstack/octavia-lib,openstack/sushy-cli,Core,3.3333333333333335,1.7857142857142856,2,1
+openstack/octavia-lib,openstack/sushy-cli,Non core,3.3333333333333335,0.0,2,1
+openstack/octavia-lib,openstack/puppet-glare,Core,4.081632653061225,4.225352112676056,4,5
+openstack/octavia-lib,openstack/puppet-glare,Non core,4.081632653061225,2.8169014084507045,4,5
+openstack/octavia-lib,openstack/xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/openstack-planet,Core,1.2396694214876034,2.0,4,4
+openstack/octavia-lib,openstack/openstack-planet,Non core,0.4132231404958678,0.6666666666666667,4,4
+openstack/octavia-lib,openstack/charm-interface-keystone-credentials,Core,6.451612903225806,1.8518518518518516,2,1
+openstack/octavia-lib,openstack/charm-interface-keystone-credentials,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/monasca-kibana-plugin,Core,3.0303030303030303,0.0,1,0
+openstack/octavia-lib,openstack/monasca-kibana-plugin,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-interface-keystone-domain-backend,Core,7.142857142857142,2.0,2,1
+openstack/octavia-lib,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/devstack-plugin-amqp1,Core,2.941176470588235,4.6875,1,3
+openstack/octavia-lib,openstack/devstack-plugin-amqp1,Non core,0.0,0.0,1,3
+openstack/octavia-lib,openstack/devstack-plugin-kafka,Core,0.0,1.639344262295082,0,2
+openstack/octavia-lib,openstack/devstack-plugin-kafka,Non core,0.0,1.639344262295082,0,2
+openstack/octavia-lib,openstack/tripleo-ipsec,Core,2.941176470588235,3.1746031746031744,1,3
+openstack/octavia-lib,openstack/tripleo-ipsec,Non core,0.0,1.5873015873015872,1,3
+openstack/octavia-lib,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/monasca-grafana-datasource,Non core,0.0,1.4492753623188406,0,1
+openstack/octavia-lib,openstack/charm-interface-bind-rndc,Core,6.666666666666667,1.8867924528301887,2,1
+openstack/octavia-lib,openstack/charm-interface-bind-rndc,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/charm-interface-rabbitmq,Core,6.896551724137931,1.8518518518518516,2,1
+openstack/octavia-lib,openstack/charm-interface-rabbitmq,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/charm-interface-openstack-ha,Core,3.4482758620689653,1.8518518518518516,1,1
+openstack/octavia-lib,openstack/charm-interface-openstack-ha,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/charm-interface-gnocchi,Core,7.4074074074074066,1.6666666666666667,2,1
+openstack/octavia-lib,openstack/charm-interface-gnocchi,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/charm-interface-bgp,Core,3.4482758620689653,1.9230769230769231,2,2
+openstack/octavia-lib,openstack/charm-interface-bgp,Non core,3.4482758620689653,1.9230769230769231,2,2
+openstack/octavia-lib,openstack/charm-interface-websso-fid-service-provider,Core,0.0,2.0408163265306123,0,1
+openstack/octavia-lib,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/charm-interface-designate,Core,3.8461538461538463,2.0,1,1
+openstack/octavia-lib,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/tempest-horizon,Core,4.761904761904762,3.0303030303030303,2,2
+openstack/octavia-lib,openstack/tempest-horizon,Non core,0.0,0.0,2,2
+openstack/octavia-lib,openstack/logstash-filters,Core,0.0,2.0,0,1
+openstack/octavia-lib,openstack/logstash-filters,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/qinling-dashboard,Core,6.896551724137931,5.172413793103448,2,4
+openstack/octavia-lib,openstack/qinling-dashboard,Non core,0.0,1.7241379310344827,2,4
+openstack/octavia-lib,openstack/python-qinlingclient,Core,4.25531914893617,6.0606060606060606,7,6
+openstack/octavia-lib,openstack/python-qinlingclient,Non core,10.638297872340425,3.0303030303030303,7,6
+openstack/octavia-lib,openstack/qinling,Core,4.918032786885246,3.79746835443038,7,4
+openstack/octavia-lib,openstack/qinling,Non core,6.557377049180328,1.2658227848101267,7,4
+openstack/octavia-lib,openstack/monasca-analytics,Core,4.444444444444445,3.614457831325301,4,5
+openstack/octavia-lib,openstack/monasca-analytics,Non core,4.444444444444445,2.4096385542168677,4,5
+openstack/octavia-lib,openstack/oslo-incubator,Core,1.0309278350515463,1.282051282051282,4,7
+openstack/octavia-lib,openstack/oslo-incubator,Non core,0.3436426116838488,0.2136752136752137,4,7
+openstack/octavia-lib,openstack/puppet-congress,Core,4.081632653061225,1.4705882352941175,4,2
+openstack/octavia-lib,openstack/puppet-congress,Non core,4.081632653061225,1.4705882352941175,4,2
+openstack/octavia-lib,openstack/openstack-ansible-os_monasca-ui,Core,5.88235294117647,1.5625,2,1
+openstack/octavia-lib,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/auto-scaling-sig,Core,3.571428571428571,1.639344262295082,1,1
+openstack/octavia-lib,openstack/auto-scaling-sig,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/os-loganalyze,Core,1.9607843137254901,2.1052631578947367,1,2
+openstack/octavia-lib,openstack/os-loganalyze,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/devstack-plugin-pika,Core,0.0,3.6363636363636362,0,2
+openstack/octavia-lib,openstack/devstack-plugin-pika,Non core,0.0,0.0,0,2
+openstack/octavia-lib,openstack/devstack-plugin-zmq,Core,3.125,3.4482758620689653,1,2
+openstack/octavia-lib,openstack/devstack-plugin-zmq,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/networking-l2gw,Core,2.3255813953488373,4.918032786885246,5,14
+openstack/octavia-lib,openstack/networking-l2gw,Non core,3.488372093023256,2.73224043715847,5,14
+openstack/octavia-lib,openstack/networking-l2gw-tempest-plugin,Core,2.941176470588235,4.6875,1,5
+openstack/octavia-lib,openstack/networking-l2gw-tempest-plugin,Non core,0.0,3.125,1,5
+openstack/octavia-lib,openstack/charm-interface-ceph-mds,Core,6.896551724137931,0.0,2,0
+openstack/octavia-lib,openstack/charm-interface-ceph-mds,Non core,0.0,0.0,2,0
+openstack/octavia-lib,openstack/xstatic-angular-ui-router,Core,8.333333333333332,3.9215686274509802,2,2
+openstack/octavia-lib,openstack/xstatic-angular-ui-router,Non core,0.0,0.0,2,2
+openstack/octavia-lib,openstack/xstatic-vis,Core,3.8461538461538463,2.0,1,1
+openstack/octavia-lib,openstack/xstatic-vis,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/cookbook-openstack-database,Core,3.225806451612903,1.4705882352941175,1,1
+openstack/octavia-lib,openstack/cookbook-openstack-database,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/cookbook-openstack-data-processing,Core,3.571428571428571,1.6129032258064515,1,1
+openstack/octavia-lib,openstack/cookbook-openstack-data-processing,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/trove-integration,Core,1.1363636363636365,2.797202797202797,1,4
+openstack/octavia-lib,openstack/trove-integration,Non core,0.0,0.0,1,4
+openstack/octavia-lib,openstack/ansible-role-tripleo-sensu,Core,3.4482758620689653,1.9607843137254901,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/python-ceilometerclient,Core,1.4705882352941175,1.7699115044247788,2,4
+openstack/octavia-lib,openstack/python-ceilometerclient,Non core,0.0,0.0,2,4
+openstack/octavia-lib,openstack/keystoneauth-saml2,Core,2.857142857142857,2.5974025974025974,1,2
+openstack/octavia-lib,openstack/keystoneauth-saml2,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/murano-deployment,Core,1.7241379310344827,1.2345679012345678,1,1
+openstack/octavia-lib,openstack/murano-deployment,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/python-keystoneclient-kerberos,Core,2.857142857142857,1.3157894736842104,1,1
+openstack/octavia-lib,openstack/python-keystoneclient-kerberos,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/python-wsmanclient,Core,3.8461538461538463,1.8867924528301887,1,1
+openstack/octavia-lib,openstack/python-wsmanclient,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/fuel-upgrade,Core,6.451612903225806,1.4084507042253522,2,1
+openstack/octavia-lib,openstack/fuel-upgrade,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/cookbook-openstack-object-storage,Core,2.0,1.1494252873563218,1,1
+openstack/octavia-lib,openstack/cookbook-openstack-object-storage,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/fairy-slipper,Core,6.896551724137931,1.639344262295082,2,1
+openstack/octavia-lib,openstack/fairy-slipper,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/django-openstack-auth-kerberos,Core,3.571428571428571,1.639344262295082,1,1
+openstack/octavia-lib,openstack/django-openstack-auth-kerberos,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/horizon-cisco-ui,Core,5.88235294117647,1.7241379310344827,2,1
+openstack/octavia-lib,openstack/horizon-cisco-ui,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/zuul-packaging,Core,8.333333333333332,3.7037037037037033,2,2
+openstack/octavia-lib,openstack/zuul-packaging,Non core,0.0,0.0,2,2
+openstack/octavia-lib,openstack/networking-generic-switch-tempest-plugin,Core,4.166666666666666,2.1739130434782608,1,1
+openstack/octavia-lib,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/tripleo-incubator,Core,2.564102564102564,1.4634146341463417,3,3
+openstack/octavia-lib,openstack/tripleo-incubator,Non core,0.0,0.0,3,3
+openstack/octavia-lib,openstack/ironic-webclient,Core,3.4482758620689653,1.3333333333333335,1,1
+openstack/octavia-lib,openstack/ironic-webclient,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/puppet-crane,Core,4.166666666666666,2.083333333333333,1,1
+openstack/octavia-lib,openstack/puppet-crane,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/release-tools,Core,3.6363636363636362,3.571428571428571,2,6
+openstack/octavia-lib,openstack/release-tools,Non core,0.0,1.7857142857142856,2,6
+openstack/octavia-lib,openstack/gnocchi,Core,1.1235955056179776,1.7647058823529411,3,5
+openstack/octavia-lib,openstack/gnocchi,Non core,2.247191011235955,1.1764705882352942,3,5
+openstack/octavia-lib,openstack/networking-ofagent,Core,3.0303030303030303,1.4492753623188406,1,2
+openstack/octavia-lib,openstack/networking-ofagent,Non core,0.0,1.4492753623188406,1,2
+openstack/octavia-lib,openstack/python-neutron-pd-driver,Core,4.0,2.0408163265306123,1,1
+openstack/octavia-lib,openstack/python-neutron-pd-driver,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/charm-ceph,Core,2.4390243902439024,1.5625,2,1
+openstack/octavia-lib,openstack/charm-ceph,Non core,2.4390243902439024,0.0,2,1
+openstack/octavia-lib,openstack/openstack-ansible-os_freezer,Core,4.166666666666666,2.127659574468085,1,1
+openstack/octavia-lib,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/openstack-ansible-pip_lock_down,Core,5.714285714285714,1.6666666666666667,2,1
+openstack/octavia-lib,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/openstack-ansible-security,Core,3.3333333333333335,0.8771929824561403,2,1
+openstack/octavia-lib,openstack/openstack-ansible-security,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/oslosphinx,Core,4.545454545454546,3.6036036036036037,4,4
+openstack/octavia-lib,openstack/oslosphinx,Non core,1.5151515151515151,0.0,4,4
+openstack/octavia-lib,openstack/python-gnocchiclient,Core,1.9230769230769231,1.2987012987012987,2,1
+openstack/octavia-lib,openstack/python-gnocchiclient,Non core,1.9230769230769231,0.0,2,1
+openstack/octavia-lib,openstack/ansible-role-k8s-cinder,Core,4.0,2.083333333333333,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-cookiecutter,Core,4.0,2.0408163265306123,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-glance,Core,3.8461538461538463,2.0408163265306123,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-keystone,Core,3.8461538461538463,1.9607843137254901,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-mariadb,Core,3.7037037037037033,1.9607843137254901,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-rabbitmq,Core,4.166666666666666,2.1739130434782608,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-tripleo,Core,3.8461538461538463,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-ui,Core,3.4482758620689653,1.9230769230769231,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-aodh,Core,3.4482758620689653,1.9607843137254901,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-aodh,Non core,0.0,1.9607843137254901,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-barbican,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-ceilometer,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-cinder,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-cookiecutter,Core,6.25,1.7241379310344827,2,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,1.7241379310344827,2,2
+openstack/octavia-lib,openstack/tripleo-ui,Core,3.571428571428571,3.6363636363636362,2,5
+openstack/octavia-lib,openstack/tripleo-ui,Non core,0.0,0.9090909090909091,2,5
+openstack/octavia-lib,openstack/ansible-role-tripleo-ovn,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-opendaylight,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-octavia,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-octavia,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-nova,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-nova,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/os-cloud-config,Core,2.73972602739726,0.7299270072992701,2,2
+openstack/octavia-lib,openstack/os-cloud-config,Non core,0.0,0.7299270072992701,2,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-zaqar,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-zaqar,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-tempest,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-sahara,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-swift,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-tacker,Core,3.4482758620689653,1.9607843137254901,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-rabbitmq,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-qdrouterd,Core,4.166666666666666,2.127659574468085,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-panko,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-heat,Core,3.4482758620689653,2.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-haproxy,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-haproxy,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-gnocchi,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-glance,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-glance,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-designate,Core,3.4482758620689653,1.9607843137254901,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/ansible-role-tripleo-neutron,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-neutron,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-mistral,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-mistral,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-memcached,Core,3.4482758620689653,1.9607843137254901,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-memcached,Non core,0.0,1.9607843137254901,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-manila,Core,3.4482758620689653,1.9607843137254901,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-manila,Non core,0.0,1.9607843137254901,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-ironic,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-ironic,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-keepalived,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-keepalived,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-horizon,Core,3.4482758620689653,2.0,1,2
+openstack/octavia-lib,openstack/ansible-role-tripleo-horizon,Non core,0.0,2.0,1,2
+openstack/octavia-lib,openstack/pylockfile,Core,3.225806451612903,1.5625,1,1
+openstack/octavia-lib,openstack/pylockfile,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/xstatic-moment-timezone,Core,0.0,2.083333333333333,0,1
+openstack/octavia-lib,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/xstatic-dagre-d3,Core,0.0,2.083333333333333,0,1
+openstack/octavia-lib,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/dragonflow,Core,1.3986013986013985,3.5398230088495577,5,11
+openstack/octavia-lib,openstack/dragonflow,Non core,2.097902097902098,1.3274336283185841,5,11
+openstack/octavia-lib,openstack/openstack,Core,3.7037037037037033,6.779661016949152,1,4
+openstack/octavia-lib,openstack/openstack,Non core,0.0,0.0,1,4
+openstack/octavia-lib,openstack/charm-interface-pacemaker-remote,Core,0.0,1.9607843137254901,1,3
+openstack/octavia-lib,openstack/charm-interface-pacemaker-remote,Non core,3.7037037037037033,3.9215686274509802,1,3
+openstack/octavia-lib,openstack/networking-onos,Core,2.564102564102564,2.1739130434782608,1,3
+openstack/octavia-lib,openstack/networking-onos,Non core,0.0,1.0869565217391304,1,3
+openstack/octavia-lib,openstack/solum-infra-guestagent,Core,3.4482758620689653,0.0,1,0
+openstack/octavia-lib,openstack/solum-infra-guestagent,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/openstack-ux,Core,3.8461538461538463,0.0,1,0
+openstack/octavia-lib,openstack/openstack-ux,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/mox3,Core,4.545454545454546,5.063291139240507,6,4
+openstack/octavia-lib,openstack/mox3,Non core,9.090909090909092,0.0,6,4
+openstack/octavia-lib,openstack/charm-layer-ceph,Core,4.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-layer-ceph-base,Core,3.7037037037037033,0.0,1,0
+openstack/octavia-lib,openstack/charm-layer-ceph-base,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/python-tricircleclient,Core,5.263157894736842,7.352941176470589,4,7
+openstack/octavia-lib,openstack/python-tricircleclient,Non core,5.263157894736842,2.941176470588235,4,7
+openstack/octavia-lib,openstack/tricircle,Core,2.0408163265306123,4.022988505747127,6,10
+openstack/octavia-lib,openstack/tricircle,Non core,4.081632653061225,1.7241379310344827,6,10
+openstack/octavia-lib,openstack/swift-specs,Core,2.1739130434782608,0.9174311926605505,1,1
+openstack/octavia-lib,openstack/swift-specs,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/congress,Core,1.7647058823529411,2.4390243902439024,6,10
+openstack/octavia-lib,openstack/congress,Non core,1.7647058823529411,1.6260162601626018,6,10
+openstack/octavia-lib,openstack/congress-tempest-plugin,Core,5.0,4.477611940298507,3,4
+openstack/octavia-lib,openstack/congress-tempest-plugin,Non core,2.5,1.4925373134328357,3,4
+openstack/octavia-lib,openstack/python-congressclient,Core,2.898550724637681,6.593406593406594,6,7
+openstack/octavia-lib,openstack/python-congressclient,Non core,5.797101449275362,1.098901098901099,6,7
+openstack/octavia-lib,openstack/congress-specs,Core,3.571428571428571,0.0,2,1
+openstack/octavia-lib,openstack/congress-specs,Non core,0.0,1.0869565217391304,2,1
+openstack/octavia-lib,openstack/congress-dashboard,Core,4.545454545454546,8.21917808219178,4,7
+openstack/octavia-lib,openstack/congress-dashboard,Non core,4.545454545454546,1.36986301369863,4,7
+openstack/octavia-lib,openstack/syntribos,Core,1.9607843137254901,0.0,3,0
+openstack/octavia-lib,openstack/syntribos,Non core,3.9215686274509802,0.0,3,0
+openstack/octavia-lib,openstack/syntribos-payloads,Core,4.166666666666666,0.0,1,0
+openstack/octavia-lib,openstack/syntribos-payloads,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/syntribos-openstack-templates,Core,3.8461538461538463,0.0,1,0
+openstack/octavia-lib,openstack/syntribos-openstack-templates,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/i18n-specs,Core,4.0,0.0,1,0
+openstack/octavia-lib,openstack/i18n-specs,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/tempest-plugin-cookiecutter,Core,7.6923076923076925,5.454545454545454,2,3
+openstack/octavia-lib,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,2,3
+openstack/octavia-lib,openstack/devstack-plugin-cookiecutter,Core,3.8461538461538463,2.0,1,1
+openstack/octavia-lib,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/xstatic-graphlib,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-graphlib,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/openstack-ansible-repo_build,Core,1.282051282051282,1.6,4,4
+openstack/octavia-lib,openstack/openstack-ansible-repo_build,Non core,3.8461538461538463,1.6,4,4
+openstack/octavia-lib,openstack/xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-hogan,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/openstack-ansible-os_molteniron,Core,2.272727272727273,1.36986301369863,3,3
+openstack/octavia-lib,openstack/openstack-ansible-os_molteniron,Non core,4.545454545454546,2.73972602739726,3,3
+openstack/octavia-lib,openstack/xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/faafo,Core,3.0303030303030303,0.0,1,0
+openstack/octavia-lib,openstack/faafo,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/xstatic-angular-bootstrap,Core,0.0,1.5873015873015872,0,1
+openstack/octavia-lib,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/networking-calico,Core,1.8181818181818181,4.123711340206185,2,6
+openstack/octavia-lib,openstack/networking-calico,Non core,1.8181818181818181,2.0618556701030926,2,6
+openstack/octavia-lib,openstack/xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/shotgun,Core,2.380952380952381,0.0,1,0
+openstack/octavia-lib,openstack/shotgun,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/fuel-devops,Core,2.4096385542168677,0.0,2,1
+openstack/octavia-lib,openstack/fuel-devops,Non core,0.0,0.5405405405405406,2,1
+openstack/octavia-lib,openstack/fuel-plugin-murano,Core,2.857142857142857,0.0,1,0
+openstack/octavia-lib,openstack/fuel-plugin-murano,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/fuel-web,Core,0.8658008658008658,0.23094688221709006,3,2
+openstack/octavia-lib,openstack/fuel-web,Non core,0.4329004329004329,0.23094688221709006,3,2
+openstack/octavia-lib,openstack/fuel-plugins,Core,2.9850746268656714,0.0,2,0
+openstack/octavia-lib,openstack/fuel-plugins,Non core,0.0,0.0,2,0
+openstack/octavia-lib,openstack/fuel-virtualbox,Core,3.125,0.0,1,0
+openstack/octavia-lib,openstack/fuel-virtualbox,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/fuel-ostf,Core,1.680672268907563,0.0,2,0
+openstack/octavia-lib,openstack/fuel-ostf,Non core,0.0,0.0,2,0
+openstack/octavia-lib,openstack/fuel-qa,Core,0.684931506849315,0.0,1,1
+openstack/octavia-lib,openstack/fuel-qa,Non core,0.0,0.34602076124567477,1,1
+openstack/octavia-lib,openstack/fuel-specs,Core,1.6129032258064515,0.0,2,0
+openstack/octavia-lib,openstack/fuel-specs,Non core,0.0,0.0,2,0
+openstack/octavia-lib,openstack/fuel-nailgun-extension-cluster-upgrade,Core,3.0303030303030303,0.0,1,0
+openstack/octavia-lib,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/fuel-nailgun-agent,Core,1.6666666666666667,0.0,1,0
+openstack/octavia-lib,openstack/fuel-nailgun-agent,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/fuel-mirror,Core,3.7037037037037033,0.0,2,0
+openstack/octavia-lib,openstack/fuel-mirror,Non core,0.0,0.0,2,0
+openstack/octavia-lib,openstack/fuel-menu,Core,3.571428571428571,0.6329113924050633,2,1
+openstack/octavia-lib,openstack/fuel-menu,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/fuel-main,Core,0.6211180124223602,0.0,1,1
+openstack/octavia-lib,openstack/fuel-main,Non core,0.0,0.3424657534246575,1,1
+openstack/octavia-lib,openstack/fuel-ui,Core,1.5625,0.0,1,0
+openstack/octavia-lib,openstack/fuel-ui,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/fuel-library,Core,0.904977375565611,0.2074688796680498,2,2
+openstack/octavia-lib,openstack/fuel-library,Non core,0.0,0.2074688796680498,2,2
+openstack/octavia-lib,openstack/fuel-dev-tools,Core,5.714285714285714,0.0,2,0
+openstack/octavia-lib,openstack/fuel-dev-tools,Non core,0.0,0.0,2,0
+openstack/octavia-lib,openstack/fuel-stats,Core,4.761904761904762,1.0869565217391304,2,1
+openstack/octavia-lib,openstack/fuel-stats,Non core,0.0,0.0,2,1
+openstack/octavia-lib,openstack/fuel-nailgun-extension-converted-serializers,Core,4.0,0.0,1,0
+openstack/octavia-lib,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/fuel-nailgun-extension-iac,Core,3.7037037037037033,0.0,1,0
+openstack/octavia-lib,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/fuel-plugin-murano-tests,Core,2.941176470588235,0.0,1,0
+openstack/octavia-lib,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/fuel-astute,Core,1.1363636363636365,0.0,1,0
+openstack/octavia-lib,openstack/fuel-astute,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/fuel-docs,Core,0.8547008547008548,0.0,2,0
+openstack/octavia-lib,openstack/fuel-docs,Non core,0.8547008547008548,0.0,2,0
+openstack/octavia-lib,openstack/fuel-agent,Core,2.197802197802198,0.0,2,0
+openstack/octavia-lib,openstack/fuel-agent,Non core,0.0,0.0,2,0
+openstack/octavia-lib,openstack/fuel-octane,Core,1.8867924528301887,0.0,2,0
+openstack/octavia-lib,openstack/fuel-octane,Non core,1.8867924528301887,0.0,2,0
+openstack/octavia-lib,openstack/tuning-box,Core,3.571428571428571,0.0,1,0
+openstack/octavia-lib,openstack/tuning-box,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/python-fuelclient,Core,1.0869565217391304,0.0,1,0
+openstack/octavia-lib,openstack/python-fuelclient,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/neutron-interconnection,Core,0.0,5.555555555555555,1,3
+openstack/octavia-lib,openstack/neutron-interconnection,Non core,4.0,0.0,1,3
+openstack/octavia-lib,openstack/openstack-chef-repo,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/openstack-chef-repo,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/os-acc,Core,0.0,1.5873015873015872,0,1
+openstack/octavia-lib,openstack/os-acc,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/openstack-ansible-os_zaqar,Core,1.7241379310344827,1.0869565217391304,2,2
+openstack/octavia-lib,openstack/openstack-ansible-os_zaqar,Non core,1.7241379310344827,1.0869565217391304,2,2
+openstack/octavia-lib,openstack/openstack-ansible-os_watcher,Core,1.9607843137254901,2.4096385542168677,4,3
+openstack/octavia-lib,openstack/openstack-ansible-os_watcher,Non core,5.88235294117647,1.2048192771084338,4,3
+openstack/octavia-lib,openstack/openstack-ansible-os_searchlight,Core,2.272727272727273,1.3333333333333335,3,2
+openstack/octavia-lib,openstack/openstack-ansible-os_searchlight,Non core,4.545454545454546,1.3333333333333335,3,2
+openstack/octavia-lib,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/tempest-tripleo-ui,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/docs-specs,Core,2.941176470588235,2.4489795918367347,3,7
+openstack/octavia-lib,openstack/docs-specs,Non core,1.4705882352941175,0.40816326530612246,3,7
+openstack/octavia-lib,openstack/release-schedule-generator,Core,0.0,1.9607843137254901,0,1
+openstack/octavia-lib,openstack/release-schedule-generator,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack-infra/opendev-website,Core,4.166666666666666,1.9607843137254901,1,1
+openstack/octavia-lib,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/castellan-ui,Core,3.571428571428571,1.5384615384615385,1,1
+openstack/octavia-lib,openstack/castellan-ui,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack-attic/compute-api,Core,2.1739130434782608,0.0,1,0
+openstack/octavia-lib,openstack-attic/compute-api,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-neutron-api-odl,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-neutron-api-odl,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-murano,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-murano,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-openvswitch-odl,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-openvswitch-odl,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-interface-odl-controller-api,Core,3.8461538461538463,0.0,1,0
+openstack/octavia-lib,openstack/charm-interface-odl-controller-api,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/charm-glusterfs,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-glusterfs,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-trove,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/charm-trove,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/fuxi,Core,2.0,1.098901098901099,1,1
+openstack/octavia-lib,openstack/fuxi,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/bandit,Core,1.2195121951219512,2.6548672566371683,1,3
+openstack/octavia-lib,openstack/bandit,Non core,0.0,0.0,1,3
+openstack/octavia-lib,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-d3,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/xstatic-d3,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/instack,Core,2.2222222222222223,0.0,1,0
+openstack/octavia-lib,openstack/instack,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/astara,Core,1.6666666666666667,2.1505376344086025,1,2
+openstack/octavia-lib,openstack/astara,Non core,0.0,0.0,1,2
+openstack/octavia-lib,openstack/astara-appliance,Core,2.7027027027027026,2.9850746268656714,1,3
+openstack/octavia-lib,openstack/astara-appliance,Non core,0.0,1.4925373134328357,1,3
+openstack/octavia-lib,openstack/astara-horizon,Core,3.3333333333333335,1.6129032258064515,1,1
+openstack/octavia-lib,openstack/astara-horizon,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/astara-neutron,Core,2.941176470588235,1.5873015873015872,1,1
+openstack/octavia-lib,openstack/astara-neutron,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/anchor,Core,0.0,1.1363636363636365,0,1
+openstack/octavia-lib,openstack/anchor,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/fuxi-golang,Core,4.3478260869565215,0.0,1,0
+openstack/octavia-lib,openstack/fuxi-golang,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/fuxi-kubernetes,Core,4.166666666666666,0.0,1,0
+openstack/octavia-lib,openstack/fuxi-kubernetes,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack-infra/puppet-odsreg,Core,3.571428571428571,1.694915254237288,1,1
+openstack/octavia-lib,openstack-infra/puppet-odsreg,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack-infra/puppet-docker_registry,Core,4.3478260869565215,0.0,1,0
+openstack/octavia-lib,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/releasestatus,Core,4.0,1.8867924528301887,1,1
+openstack/octavia-lib,openstack/releasestatus,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack-infra/vinz-webclient,Core,4.3478260869565215,0.0,1,0
+openstack/octavia-lib,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/activity-board,Core,2.631578947368421,0.0,1,0
+openstack/octavia-lib,openstack/activity-board,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack-infra/beaker-localhost,Core,4.3478260869565215,0.0,1,0
+openstack/octavia-lib,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack-infra/beaker-nodepool,Core,4.3478260869565215,0.0,1,0
+openstack/octavia-lib,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/rst2bash,Core,3.8461538461538463,0.0,1,0
+openstack/octavia-lib,openstack/rst2bash,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/kolla-kubernetes,Core,1.1627906976744187,0.6060606060606061,3,1
+openstack/octavia-lib,openstack/kolla-kubernetes,Non core,2.3255813953488373,0.0,3,1
+openstack/octavia-lib,openstack/cue-dashboard,Core,3.0303030303030303,0.0,1,0
+openstack/octavia-lib,openstack/cue-dashboard,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/python-cueclient,Core,2.7777777777777777,1.7857142857142856,1,1
+openstack/octavia-lib,openstack/python-cueclient,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack/cue,Core,1.8518518518518516,0.0,1,0
+openstack/octavia-lib,openstack/cue,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/app-catalog,Core,1.1904761904761905,0.0,1,0
+openstack/octavia-lib,openstack/app-catalog,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack-attic/identity-api,Core,1.5384615384615385,0.0,1,0
+openstack/octavia-lib,openstack-attic/identity-api,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/app-catalog-ui,Core,3.225806451612903,0.0,1,0
+openstack/octavia-lib,openstack/app-catalog-ui,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-kubernetes,Core,3.571428571428571,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-kubernetes,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/app-catalog-common,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/app-catalog-common,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/python-appcatalogclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/python-appcatalogclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-openstack-pkg-tools,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-mistral,Core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/deb-mistral,Non core,3.4482758620689653,0.0,1,0
+openstack/octavia-lib,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/installguide-cookiecutter,Core,3.0303030303030303,0.0,1,0
+openstack/octavia-lib,openstack/installguide-cookiecutter,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/salt-formula-opencontrail,Core,2.564102564102564,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-opencontrail,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-neutron,Core,2.631578947368421,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-neutron,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/salt-formula-nova,Core,2.272727272727273,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-nova,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-keystone,Core,2.4390243902439024,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-keystone,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-horizon,Core,2.7777777777777777,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-horizon,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-heat,Core,2.3255813953488373,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-heat,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-glance,Core,2.380952380952381,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-glance,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-cinder,Core,2.4390243902439024,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-cinder,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-ceilometer,Core,3.0303030303030303,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-ceilometer,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/openstack-salt,Core,3.7037037037037033,0.0,1,0
+openstack/octavia-lib,openstack/openstack-salt,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/salt-formula-midonet,Core,4.3478260869565215,0.0,1,0
+openstack/octavia-lib,openstack/salt-formula-midonet,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/magnetodb-specs,Core,2.941176470588235,0.0,1,0
+openstack/octavia-lib,openstack/magnetodb-specs,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/oslo.version,Core,3.225806451612903,1.5625,1,1
+openstack/octavia-lib,openstack-attic/oslo.version,Non core,0.0,0.0,1,1
+openstack/octavia-lib,openstack-attic/image-api,Core,3.0303030303030303,0.0,1,0
+openstack/octavia-lib,openstack-attic/image-api,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack-attic/object-api,Core,2.3255813953488373,0.0,1,0
+openstack/octavia-lib,openstack-attic/object-api,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack-attic/volume-api,Core,2.7027027027027026,0.0,1,0
+openstack/octavia-lib,openstack-attic/volume-api,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack/magnetodb,Core,0.0,1.2195121951219512,0,1
+openstack/octavia-lib,openstack/magnetodb,Non core,0.0,0.0,0,1
+openstack/octavia-lib,openstack/openstack-nose,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack/openstack-nose,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/netconn-api,Core,2.0,2.1505376344086025,1,3
+openstack/octavia-lib,openstack-attic/netconn-api,Non core,0.0,1.0752688172043012,1,3
+openstack/octavia-lib,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/database-api,Core,2.941176470588235,0.0,1,0
+openstack/octavia-lib,openstack-attic/database-api,Non core,0.0,0.0,1,0
+openstack/octavia-lib,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/octavia-lib,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

@@ -1,0 +1,283 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/deb-python-oslo.concurrency,openstack/deb-python-oslo.config,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-python-oslo.config,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-python-oslo.i18n,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-python-oslo.i18n,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-python-oslo.context,Core,25.0,0.0,4,4
+openstack/deb-python-oslo.concurrency,openstack/deb-python-oslo.context,Non core,75.0,100.0,4,4
+openstack/deb-python-oslo.concurrency,openstack/deb-openstack-nose,Core,25.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-openstack-nose,Non core,25.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-openstack-doc-tools,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-openstack-doc-tools,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-openstack-trove,Core,20.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-openstack-trove,Non core,40.0,80.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-oslosphinx,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-oslosphinx,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-aodh,Core,20.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-aodh,Non core,40.0,80.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-bandit,Core,25.0,0.0,4,4
+openstack/deb-python-oslo.concurrency,openstack/deb-bandit,Non core,75.0,80.0,4,4
+openstack/deb-python-oslo.concurrency,openstack/deb-ceilometer,Core,20.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-ceilometer,Non core,40.0,80.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-ceilometermiddleware,Core,25.0,0.0,2,4
+openstack/deb-python-oslo.concurrency,openstack/deb-ceilometermiddleware,Non core,25.0,100.0,2,4
+openstack/deb-python-oslo.concurrency,openstack/deb-designate-dashboard,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-designate-dashboard,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-git-review,Core,25.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-git-review,Non core,25.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-glance,Core,20.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-glance,Non core,40.0,57.14285714285714,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-glare,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-glare,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-heat,Core,20.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-heat,Non core,40.0,80.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-heat-cfntools,Core,20.0,0.0,1,3
+openstack/deb-python-oslo.concurrency,openstack/deb-heat-cfntools,Non core,0.0,75.0,1,3
+openstack/deb-python-oslo.concurrency,openstack/deb-horizon,Core,25.0,0.0,4,4
+openstack/deb-python-oslo.concurrency,openstack/deb-horizon,Non core,75.0,100.0,4,4
+openstack/deb-python-oslo.concurrency,openstack/deb-ironic-inspector,Core,20.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-ironic-inspector,Non core,40.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-ironic-ui,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-ironic-ui,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-keystone,Core,16.666666666666664,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-keystone,Non core,33.33333333333333,66.66666666666666,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-liberasurecode,Core,25.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-liberasurecode,Non core,25.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-manila,Core,20.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-manila,Non core,40.0,80.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-mistral,Core,12.5,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-mistral,Non core,25.0,57.14285714285714,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-murano-agent,Core,20.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-murano-agent,Non core,40.0,57.14285714285714,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-murano-dashboard,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-murano-dashboard,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-networking-l2gw,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-networking-l2gw,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-networking-ovn,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-networking-ovn,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-neutron,Core,20.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-neutron,Non core,40.0,66.66666666666666,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-neutron-fwaas,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-neutron-fwaas,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-neutron-vpnaas,Core,25.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-neutron-vpnaas,Non core,50.0,100.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-neutron-lbaas,Core,20.0,0.0,3,4
+openstack/deb-python-oslo.concurrency,openstack/deb-neutron-lbaas,Non core,40.0,57.14285714285714,3,4
+openstack/deb-python-oslo.concurrency,openstack/installguide-cookiecutter,Core,0.0,0.0,0,1
+openstack/deb-python-oslo.concurrency,openstack/installguide-cookiecutter,Non core,0.0,5.555555555555555,0,1
+openstack/deb-python-oslo.concurrency,openstack/deb-gnocchi,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-gnocchi,Non core,33.33333333333333,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-eventlet,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-eventlet,Non core,40.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pymysql,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pymysql,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-opencontrail,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-opencontrail,Non core,5.0,13.333333333333334,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-neutron,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-neutron,Non core,5.263157894736842,11.11111111111111,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-swift,Core,0.0,0.0,0,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-swift,Non core,0.0,25.0,0,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-nova,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-nova,Non core,4.0,11.11111111111111,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-keystone,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-keystone,Non core,4.545454545454546,12.5,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-horizon,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-horizon,Non core,5.88235294117647,15.384615384615385,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-heat,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-heat,Non core,4.166666666666666,14.285714285714285,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-glance,Core,0.0,0.0,1,1
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-glance,Non core,4.3478260869565215,5.88235294117647,1,1
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-cinder,Core,0.0,0.0,1,1
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-cinder,Non core,4.545454545454546,7.142857142857142,1,1
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-ceilometer,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-ceilometer,Non core,7.142857142857142,13.333333333333334,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pygit2,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pygit2,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-libisal,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-libisal,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xvfbwrapper,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-testresources,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-testresources,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-compressor,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-compressor,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-sqlalchemy-utils,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pykmip,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pykmip,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic-jquery,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-coffin,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-coffin,Non core,50.0,60.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-txaio,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-txaio,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-hplefthandclient,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-hplefthandclient,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-overextends,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-overextends,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pytimeparse,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pytimeparse,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-nose-timer,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-nose-timer,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-retrying,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-retrying,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-discover-runner,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-discover-runner,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-lesscpy,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-lesscpy,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-happybase,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-happybase,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-extras,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-extras,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-functools32,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-functools32,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pydot-ng,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pydot-ng,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-jsonschema,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-jsonschema,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-kafka,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-kafka,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-rcssmin,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-rcssmin,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-nose-parameterized,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-nose-parameterized,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pika-pool,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pika-pool,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-rfc3986,Core,0.0,0.0,3,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-rfc3986,Non core,75.0,75.0,3,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-httpretty,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-httpretty,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pint,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pint,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-pyscss,Core,0.0,0.0,1,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-pyscss,Non core,25.0,75.0,1,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-falcon,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-falcon,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-subunit,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-subunit,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-formtools,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-formtools,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-nose-exclude,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-nose-exclude,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pydotplus,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pydotplus,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pager,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pager,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-proliantutils,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-proliantutils,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-gnocchiclient,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-gnocchiclient,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-babel,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-babel,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-requests-kerberos,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-requests-kerberos,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-colander,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-colander,Non core,50.0,60.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-dcos,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-dcos,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-bootstrap-form,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic-term.js,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-toml,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-toml,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-semver,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-semver,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-websocket-client,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-websocket-client,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-fasteners,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-fasteners,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-jingo,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-jingo,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pecan,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pecan,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-frozendict,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-frozendict,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/deb-python-oslo.concurrency,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/deb-python-oslo.concurrency,openstack/deb-python-wrapt,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-wrapt,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-funcsigs,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-funcsigs,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-crank,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-crank,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pyvmomi,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pyvmomi,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-wsgi-intercept,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-os-cloud-config,Core,0.0,0.0,1,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-os-cloud-config,Non core,20.0,75.0,1,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-weakrefmethod,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-weakrefmethod,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-steadymark,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-steadymark,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-warlock,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-warlock,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-couleur,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-couleur,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic-roboto-fontface,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-fonts-materialdesignicons-webfont,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-json-patch,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-json-patch,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-jsonrpclib,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-jsonrpclib,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-multi-key-dict,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-multi-key-dict,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-memcache,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-memcache,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pulp,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pulp,Non core,20.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-fonts-roboto-fontface,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-websockify,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-websockify,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-daemonize,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-daemonize,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pyngus,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-pyngus,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-editor,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-editor,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-ddt,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-ddt,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-monotonic,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-monotonic,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-rjsmin,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-rjsmin,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-jsonpath-rw,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-appconf,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-django-appconf,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-oauth2client,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-oauth2client,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-json-pointer,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-json-pointer,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic-smart-table,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-xstatic-jquery-ui,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-requestbuilder,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-requestbuilder,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-nosehtmloutput,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-csscompressor,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-csscompressor,Non core,20.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-python-croniter,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-croniter,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-concurrent.futures,Core,0.0,0.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/deb-python-concurrent.futures,Non core,50.0,75.0,2,3
+openstack/deb-python-oslo.concurrency,openstack/openstack-salt,Core,0.0,0.0,0,1
+openstack/deb-python-oslo.concurrency,openstack/openstack-salt,Non core,0.0,10.0,0,1
+openstack/deb-python-oslo.concurrency,openstack/deb-spice-html5,Core,0.0,0.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/deb-spice-html5,Non core,25.0,50.0,1,2
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-midonet,Core,0.0,0.0,0,1
+openstack/deb-python-oslo.concurrency,openstack/salt-formula-midonet,Non core,0.0,20.0,0,1
+openstack/deb-python-oslo.concurrency,openstack/magnetodb-specs,Core,0.0,0.0,0,1
+openstack/deb-python-oslo.concurrency,openstack/magnetodb-specs,Non core,0.0,4.545454545454546,0,1
+openstack/deb-python-oslo.concurrency,openstack/magnetodb,Core,0.0,0.0,0,1
+openstack/deb-python-oslo.concurrency,openstack/magnetodb,Non core,0.0,2.4390243902439024,0,1
+openstack/deb-python-oslo.concurrency,openstack/openstack-nose,Core,0.0,0.0,0,1
+openstack/deb-python-oslo.concurrency,openstack/openstack-nose,Non core,0.0,8.333333333333332,0,1

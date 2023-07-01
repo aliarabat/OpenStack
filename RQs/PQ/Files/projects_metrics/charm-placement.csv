@@ -1,0 +1,1941 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/charm-placement,openstack/cyborg,Core,2.4096385542168677,0.6451612903225806,2,1
+openstack/charm-placement,openstack/cyborg,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/charm-nova-cell-controller,Core,11.11111111111111,0.0,10,13
+openstack/charm-placement,openstack/charm-nova-cell-controller,Non core,44.44444444444444,56.52173913043478,10,13
+openstack/charm-placement,openstack/charm-keystone-ldap,Core,8.333333333333332,3.7037037037037033,12,16
+openstack/charm-placement,openstack/charm-keystone-ldap,Non core,41.66666666666667,55.55555555555556,12,16
+openstack/charm-placement,openstack/charm-keystone-saml-mellon,Core,5.555555555555555,3.571428571428571,10,15
+openstack/charm-placement,openstack/charm-keystone-saml-mellon,Non core,50.0,50.0,10,15
+openstack/charm-placement,openstack/charm-manila-generic,Core,8.333333333333332,3.8461538461538463,10,14
+openstack/charm-placement,openstack/charm-manila-generic,Non core,33.33333333333333,50.0,10,14
+openstack/charm-placement,openstack/charm-manila-dashboard,Core,0.0,0.0,3,9
+openstack/charm-placement,openstack/charm-manila-dashboard,Non core,25.0,52.94117647058824,3,9
+openstack/charm-placement,openstack/charm-ironic-api,Core,0.0,0.0,5,10
+openstack/charm-placement,openstack/charm-ironic-api,Non core,35.714285714285715,55.55555555555556,5,10
+openstack/charm-placement,openstack/charm-cinder-netapp,Core,0.0,0.0,4,7
+openstack/charm-placement,openstack/charm-cinder-netapp,Non core,30.76923076923077,38.88888888888889,4,7
+openstack/charm-placement,openstack/charm-ceilometer,Core,2.4390243902439024,0.0,10,15
+openstack/charm-placement,openstack/charm-ceilometer,Non core,21.951219512195124,38.46153846153847,10,15
+openstack/charm-placement,openstack/charm-keystone-openidc,Core,0.0,0.0,1,3
+openstack/charm-placement,openstack/charm-keystone-openidc,Non core,7.6923076923076925,17.647058823529413,1,3
+openstack/charm-placement,openstack/charm-mysql-router,Core,10.0,0.0,11,15
+openstack/charm-placement,openstack/charm-mysql-router,Non core,45.0,71.42857142857143,11,15
+openstack/charm-placement,openstack/rally-openstack,Core,1.3157894736842104,0.0,2,1
+openstack/charm-placement,openstack/rally-openstack,Non core,1.3157894736842104,0.9259259259259258,2,1
+openstack/charm-placement,openstack/os-win,Core,3.278688524590164,1.3513513513513513,3,2
+openstack/charm-placement,openstack/os-win,Non core,1.639344262295082,1.3513513513513513,3,2
+openstack/charm-placement,openstack/python-neutronclient,Core,0.625,0.16233766233766234,4,2
+openstack/charm-placement,openstack/python-neutronclient,Non core,0.625,0.16233766233766234,4,2
+openstack/charm-placement,openstack/sushy-tools,Core,4.25531914893617,1.4925373134328357,2,1
+openstack/charm-placement,openstack/sushy-tools,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/charm-ceilometer-agent,Core,6.666666666666667,0.0,10,14
+openstack/charm-placement,openstack/charm-ceilometer-agent,Non core,26.666666666666668,43.75,10,14
+openstack/charm-placement,openstack/charm-barbican,Core,3.4482758620689653,3.4482758620689653,9,15
+openstack/charm-placement,openstack/charm-barbican,Non core,27.586206896551722,48.275862068965516,9,15
+openstack/charm-placement,openstack/charm-octavia-diskimage-retrofit,Core,5.0,0.0,8,13
+openstack/charm-placement,openstack/charm-octavia-diskimage-retrofit,Non core,35.0,54.166666666666664,8,13
+openstack/charm-placement,openstack/ansible-role-redhat-subscription,Core,3.0303030303030303,2.0408163265306123,1,1
+openstack/charm-placement,openstack/ansible-role-redhat-subscription,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/oslo.db,Core,1.3245033112582782,0.3875968992248062,2,2
+openstack/charm-placement,openstack/oslo.db,Non core,0.0,0.3875968992248062,2,2
+openstack/charm-placement,openstack/tripleo-repos,Core,1.8867924528301887,0.0,2,0
+openstack/charm-placement,openstack/tripleo-repos,Non core,1.8867924528301887,0.0,2,0
+openstack/charm-placement,openstack/openstack-ansible-os_mistral,Core,3.3333333333333335,2.3255813953488373,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_mistral,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/oswin-tempest-plugin,Core,3.3333333333333335,3.571428571428571,2,1
+openstack/charm-placement,openstack/oswin-tempest-plugin,Non core,3.3333333333333335,0.0,2,1
+openstack/charm-placement,openstack/pymod2pkg,Core,3.7037037037037033,1.2048192771084338,3,1
+openstack/charm-placement,openstack/pymod2pkg,Non core,1.8518518518518516,0.0,3,1
+openstack/charm-placement,openstack/large-scale,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/large-scale,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/neutron-fwaas,Core,0.6097560975609756,0.0,3,1
+openstack/charm-placement,openstack/neutron-fwaas,Non core,1.2195121951219512,0.2976190476190476,3,1
+openstack/charm-placement,openstack/python-tackerclient,Core,1.7094017094017095,0.6896551724137931,2,2
+openstack/charm-placement,openstack/python-tackerclient,Non core,0.0,0.6896551724137931,2,2
+openstack/charm-placement,openstack/charm-cinder-nimblestorage,Core,0.0,0.0,2,7
+openstack/charm-placement,openstack/charm-cinder-nimblestorage,Non core,15.384615384615385,38.88888888888889,2,7
+openstack/charm-placement,openstack/metalsmith,Core,2.857142857142857,1.8867924528301887,1,1
+openstack/charm-placement,openstack/metalsmith,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_murano,Core,0.0,3.4482758620689653,0,1
+openstack/charm-placement,openstack/openstack-ansible-os_murano,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/kuryr-tempest-plugin,Core,5.263157894736842,1.5873015873015872,2,1
+openstack/charm-placement,openstack/kuryr-tempest-plugin,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/networking-sfc,Core,0.9615384615384616,0.43103448275862066,3,2
+openstack/charm-placement,openstack/networking-sfc,Non core,1.9230769230769231,0.43103448275862066,3,2
+openstack/charm-placement,openstack/charm-cinder-three-par,Core,0.0,0.0,1,3
+openstack/charm-placement,openstack/charm-cinder-three-par,Non core,7.142857142857142,16.666666666666664,1,3
+openstack/charm-placement,openstack/cyborg-tempest-plugin,Core,5.405405405405405,0.0,2,0
+openstack/charm-placement,openstack/cyborg-tempest-plugin,Non core,0.0,0.0,2,0
+openstack/charm-placement,openstack/charm-ceph-iscsi,Core,0.0,0.0,6,11
+openstack/charm-placement,openstack/charm-ceph-iscsi,Non core,42.857142857142854,55.00000000000001,6,11
+openstack/charm-placement,openstack/charm-cinder-solidfire,Core,0.0,0.0,2,7
+openstack/charm-placement,openstack/charm-cinder-solidfire,Non core,15.384615384615385,41.17647058823529,2,7
+openstack/charm-placement,openstack/puppet-qdr,Core,2.564102564102564,0.0,1,0
+openstack/charm-placement,openstack/puppet-qdr,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/vitrage-tempest-plugin,Core,4.444444444444445,0.0,2,0
+openstack/charm-placement,openstack/vitrage-tempest-plugin,Non core,0.0,0.0,2,0
+openstack/charm-placement,openstack/tripleo-specs,Core,1.9417475728155338,0.3215434083601286,2,1
+openstack/charm-placement,openstack/tripleo-specs,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/charm-neutron-api-plugin-arista,Core,0.0,0.0,5,11
+openstack/charm-placement,openstack/charm-neutron-api-plugin-arista,Non core,35.714285714285715,64.70588235294117,5,11
+openstack/charm-placement,openstack/charm-ceph-fs,Core,8.0,0.0,11,13
+openstack/charm-placement,openstack/charm-ceph-fs,Non core,36.0,48.148148148148145,11,13
+openstack/charm-placement,openstack/stevedore,Core,3.1746031746031744,0.9433962264150944,3,3
+openstack/charm-placement,openstack/stevedore,Non core,1.5873015873015872,1.8867924528301887,3,3
+openstack/charm-placement,openstack/charm-ceph-proxy,Core,3.8461538461538463,0.0,11,15
+openstack/charm-placement,openstack/charm-ceph-proxy,Non core,38.46153846153847,42.857142857142854,11,15
+openstack/charm-placement,openstack/charm-cloudkitty,Core,0.0,0.0,0,1
+openstack/charm-placement,openstack/charm-cloudkitty,Non core,0.0,5.88235294117647,0,1
+openstack/charm-placement,openstack/charm-ops-openstack,Core,0.0,0.0,4,5
+openstack/charm-placement,openstack/charm-ops-openstack,Non core,25.0,26.31578947368421,4,5
+openstack/charm-placement,openstack/zun-tempest-plugin,Core,6.0606060606060606,2.127659574468085,2,1
+openstack/charm-placement,openstack/zun-tempest-plugin,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/storlets,Core,1.4705882352941175,1.2195121951219512,2,1
+openstack/charm-placement,openstack/storlets,Non core,1.4705882352941175,0.0,2,1
+openstack/charm-placement,openstack/training-guides,Core,1.0526315789473684,0.0,1,0
+openstack/charm-placement,openstack/training-guides,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-plugins,Core,1.2658227848101267,0.9615384615384616,1,1
+openstack/charm-placement,openstack/openstack-ansible-plugins,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/python-muranoclient,Core,1.5267175572519083,0.625,3,1
+openstack/charm-placement,openstack/python-muranoclient,Non core,0.7633587786259541,0.0,3,1
+openstack/charm-placement,openstack/solum-dashboard,Core,4.081632653061225,1.4705882352941175,3,1
+openstack/charm-placement,openstack/solum-dashboard,Non core,2.0408163265306123,0.0,3,1
+openstack/charm-placement,openstack/python-solumclient,Core,2.857142857142857,1.1627906976744187,3,1
+openstack/charm-placement,openstack/python-solumclient,Non core,1.4285714285714286,0.0,3,1
+openstack/charm-placement,openstack/solum-tempest-plugin,Core,4.3478260869565215,3.7037037037037033,1,1
+openstack/charm-placement,openstack/solum-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/murano-tempest-plugin,Core,3.7037037037037033,0.0,1,0
+openstack/charm-placement,openstack/murano-tempest-plugin,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/heat-translator,Core,2.0202020202020203,0.78125,3,1
+openstack/charm-placement,openstack/heat-translator,Non core,1.0101010101010102,0.0,3,1
+openstack/charm-placement,openstack/tosca-parser,Core,2.73972602739726,0.0,3,0
+openstack/charm-placement,openstack/tosca-parser,Non core,1.36986301369863,0.0,3,0
+openstack/charm-placement,openstack/tacker-horizon,Core,3.3333333333333335,0.9259259259259258,3,2
+openstack/charm-placement,openstack/tacker-horizon,Non core,1.6666666666666667,0.9259259259259258,3,2
+openstack/charm-placement,openstack/ironic-python-agent-builder,Core,0.0,1.2345679012345678,0,1
+openstack/charm-placement,openstack/ironic-python-agent-builder,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/ansible-role-systemd_networkd,Core,2.941176470588235,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-systemd_networkd,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-systemd_service,Core,2.7777777777777777,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-systemd_service,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-os_keystone,Core,0.9523809523809524,0.7194244604316548,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_keystone,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/ansible-role-chrony,Core,4.0,2.7777777777777777,1,1
+openstack/charm-placement,openstack/ansible-role-chrony,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/cloudkitty-tempest-plugin,Core,6.25,0.0,2,0
+openstack/charm-placement,openstack/cloudkitty-tempest-plugin,Non core,0.0,0.0,2,0
+openstack/charm-placement,openstack/oslo.config,Core,1.1111111111111112,0.3134796238244514,4,3
+openstack/charm-placement,openstack/oslo.config,Non core,1.1111111111111112,0.6269592476489028,4,3
+openstack/charm-placement,openstack/senlin-tempest-plugin,Core,6.0606060606060606,0.0,2,0
+openstack/charm-placement,openstack/senlin-tempest-plugin,Non core,0.0,0.0,2,0
+openstack/charm-placement,openstack/heat-tempest-plugin,Core,2.7777777777777777,1.694915254237288,1,1
+openstack/charm-placement,openstack/heat-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/freezer-tempest-plugin,Core,3.0303030303030303,2.272727272727273,1,1
+openstack/charm-placement,openstack/freezer-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/monasca-tempest-plugin,Core,5.0,1.8518518518518516,2,1
+openstack/charm-placement,openstack/monasca-tempest-plugin,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/stackviz,Core,4.878048780487805,1.8181818181818181,3,1
+openstack/charm-placement,openstack/stackviz,Non core,2.4390243902439024,0.0,3,1
+openstack/charm-placement,openstack/kayobe-config-dev,Core,4.545454545454546,0.0,1,0
+openstack/charm-placement,openstack/kayobe-config-dev,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/pbr,Core,0.8620689655172413,0.5128205128205128,2,2
+openstack/charm-placement,openstack/pbr,Non core,0.8620689655172413,0.5128205128205128,2,2
+openstack/charm-placement,openstack/oslo.cache,Core,2.4691358024691357,0.6369426751592357,2,3
+openstack/charm-placement,openstack/oslo.cache,Non core,0.0,1.2738853503184715,2,3
+openstack/charm-placement,openstack/charm-ceph-rbd-mirror,Core,5.263157894736842,0.0,10,13
+openstack/charm-placement,openstack/charm-ceph-rbd-mirror,Non core,47.368421052631575,56.52173913043478,10,13
+openstack/charm-placement,openstack/ansible-config_template,Core,2.380952380952381,1.4925373134328357,1,1
+openstack/charm-placement,openstack/ansible-config_template,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/designate-dashboard,Core,2.7777777777777777,0.8264462809917356,3,3
+openstack/charm-placement,openstack/designate-dashboard,Non core,1.3888888888888888,1.6528925619834711,3,3
+openstack/charm-placement,openstack/charm-interface-cinder-backend,Core,6.666666666666667,0.0,3,5
+openstack/charm-placement,openstack/charm-interface-cinder-backend,Non core,13.333333333333334,26.31578947368421,3,5
+openstack/charm-placement,openstack/cyborg-specs,Core,2.857142857142857,1.4285714285714286,1,1
+openstack/charm-placement,openstack/cyborg-specs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/python-mistralclient,Core,1.639344262295082,0.0,3,0
+openstack/charm-placement,openstack/python-mistralclient,Non core,0.819672131147541,0.0,3,0
+openstack/charm-placement,openstack/ha-guide,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ha-guide,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/watcher,Core,1.0810810810810811,0.40650406504065045,3,2
+openstack/charm-placement,openstack/watcher,Non core,0.5405405405405406,0.40650406504065045,3,2
+openstack/charm-placement,openstack/openstack-ansible-os_cloudkitty,Core,1.6666666666666667,1.4285714285714286,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_cloudkitty,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_cinder,Core,0.9345794392523363,0.7142857142857143,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_cinder,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-health,Core,1.8181818181818181,0.9615384615384616,2,1
+openstack/charm-placement,openstack/openstack-health,Non core,1.8181818181818181,0.0,2,1
+openstack/charm-placement,openstack/openstack-ansible-os_swift,Core,2.1505376344086025,0.8849557522123894,2,1
+openstack/charm-placement,openstack/openstack-ansible-os_swift,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/masakari-specs,Core,6.25,1.7543859649122806,2,1
+openstack/charm-placement,openstack/masakari-specs,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/telemetry-specs,Core,1.36986301369863,0.7575757575757576,1,1
+openstack/charm-placement,openstack/telemetry-specs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/osprofiler,Core,2.1739130434782608,0.8,3,2
+openstack/charm-placement,openstack/osprofiler,Non core,1.0869565217391304,0.8,3,2
+openstack/charm-placement,openstack/openstack-ansible-os_trove,Core,1.5384615384615385,1.2195121951219512,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_trove,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_manila,Core,3.125,2.272727272727273,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_manila,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/ansible-hardening,Core,4.166666666666666,1.3333333333333335,2,1
+openstack/charm-placement,openstack/ansible-hardening,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/barbican-specs,Core,0.0,0.9803921568627451,0,1
+openstack/charm-placement,openstack/barbican-specs,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/python-heatclient,Core,1.0752688172043012,0.3225806451612903,3,1
+openstack/charm-placement,openstack/python-heatclient,Non core,0.5376344086021506,0.0,3,1
+openstack/charm-placement,openstack/oslo.versionedobjects,Core,1.9607843137254901,0.6802721088435374,3,2
+openstack/charm-placement,openstack/oslo.versionedobjects,Non core,0.9803921568627451,0.6802721088435374,3,2
+openstack/charm-placement,openstack/os-api-ref,Core,3.7735849056603774,1.3888888888888888,3,1
+openstack/charm-placement,openstack/os-api-ref,Non core,1.8867924528301887,0.0,3,1
+openstack/charm-placement,openstack/devstack-plugin-container,Core,3.571428571428571,0.0,1,0
+openstack/charm-placement,openstack/devstack-plugin-container,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/venus-dashboard,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/venus-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/manila-ui,Core,1.1764705882352942,0.8130081300813009,2,3
+openstack/charm-placement,openstack/manila-ui,Non core,1.1764705882352942,1.6260162601626018,2,3
+openstack/charm-placement,openstack/devstack-plugin-nfs,Core,5.0,2.380952380952381,1,1
+openstack/charm-placement,openstack/devstack-plugin-nfs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/taskflow,Core,1.8181818181818181,0.5555555555555556,4,2
+openstack/charm-placement,openstack/taskflow,Non core,1.8181818181818181,0.5555555555555556,4,2
+openstack/charm-placement,openstack/python-cyborgclient,Core,5.405405405405405,1.639344262295082,3,2
+openstack/charm-placement,openstack/python-cyborgclient,Non core,2.7027027027027026,1.639344262295082,3,2
+openstack/charm-placement,openstack/zun,Core,1.3605442176870748,0.4807692307692308,3,1
+openstack/charm-placement,openstack/zun,Non core,0.6802721088435374,0.0,3,1
+openstack/charm-placement,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,6,8
+openstack/charm-placement,openstack/charm-openstack-loadbalancer,Non core,50.0,44.44444444444444,6,8
+openstack/charm-placement,openstack/ansible-role-python_venv_build,Core,2.564102564102564,1.694915254237288,1,1
+openstack/charm-placement,openstack/ansible-role-python_venv_build,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/mistral-dashboard,Core,2.898550724637681,0.0,3,0
+openstack/charm-placement,openstack/mistral-dashboard,Non core,1.4492753623188406,0.0,3,0
+openstack/charm-placement,openstack/mistral-lib,Core,4.081632653061225,0.0,3,0
+openstack/charm-placement,openstack/mistral-lib,Non core,2.0408163265306123,0.0,3,0
+openstack/charm-placement,openstack/monasca-events-api,Core,3.125,1.9607843137254901,2,1
+openstack/charm-placement,openstack/monasca-events-api,Non core,3.125,0.0,2,1
+openstack/charm-placement,openstack/python-zaqarclient,Core,0.9803921568627451,0.7518796992481203,1,2
+openstack/charm-placement,openstack/python-zaqarclient,Non core,0.0,0.7518796992481203,1,2
+openstack/charm-placement,openstack/monasca-api,Core,1.4285714285714286,0.4784688995215311,2,1
+openstack/charm-placement,openstack/monasca-api,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/monasca-persister,Core,2.5316455696202533,0.7874015748031495,3,1
+openstack/charm-placement,openstack/monasca-persister,Non core,1.2658227848101267,0.0,3,1
+openstack/charm-placement,openstack/monasca-notification,Core,2.4390243902439024,0.8547008547008548,3,1
+openstack/charm-placement,openstack/monasca-notification,Non core,1.2195121951219512,0.0,3,1
+openstack/charm-placement,openstack/python-saharaclient,Core,1.9417475728155338,0.7142857142857143,2,2
+openstack/charm-placement,openstack/python-saharaclient,Non core,0.0,0.7142857142857143,2,2
+openstack/charm-placement,openstack/charm-magpie,Core,0.0,0.0,7,10
+openstack/charm-placement,openstack/charm-magpie,Non core,38.88888888888889,50.0,7,10
+openstack/charm-placement,openstack/openstack-ansible-os_placement,Core,3.125,2.2222222222222223,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_placement,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstackdocstheme,Core,1.2987012987012987,0.819672131147541,3,3
+openstack/charm-placement,openstack/openstackdocstheme,Non core,2.5974025974025974,1.639344262295082,3,3
+openstack/charm-placement,openstack/sahara,Core,0.7194244604316548,0.2638522427440633,3,2
+openstack/charm-placement,openstack/sahara,Non core,0.3597122302158274,0.2638522427440633,3,2
+openstack/charm-placement,openstack/ironic-ui,Core,2.941176470588235,1.0309278350515463,3,1
+openstack/charm-placement,openstack/ironic-ui,Non core,1.4705882352941175,0.0,3,1
+openstack/charm-placement,openstack/oslo.serialization,Core,2.666666666666667,0.8928571428571428,4,2
+openstack/charm-placement,openstack/oslo.serialization,Non core,2.666666666666667,0.8928571428571428,4,2
+openstack/charm-placement,openstack/oslo.context,Core,2.9850746268656714,0.8695652173913043,2,2
+openstack/charm-placement,openstack/oslo.context,Non core,0.0,0.8695652173913043,2,2
+openstack/charm-placement,openstack/oslo.limit,Core,2.272727272727273,1.6129032258064515,2,2
+openstack/charm-placement,openstack/oslo.limit,Non core,2.272727272727273,1.6129032258064515,2,2
+openstack/charm-placement,openstack/oslo.middleware,Core,2.197802197802198,0.7246376811594203,3,2
+openstack/charm-placement,openstack/oslo.middleware,Non core,1.098901098901099,0.7246376811594203,3,2
+openstack/charm-placement,openstack/oslo.reports,Core,3.7037037037037033,1.0526315789473684,2,2
+openstack/charm-placement,openstack/oslo.reports,Non core,0.0,1.0526315789473684,2,2
+openstack/charm-placement,openstack/futurist,Core,3.7735849056603774,1.282051282051282,3,1
+openstack/charm-placement,openstack/futurist,Non core,1.8867924528301887,0.0,3,1
+openstack/charm-placement,openstack/oslo.i18n,Core,2.857142857142857,0.8547008547008548,3,1
+openstack/charm-placement,openstack/oslo.i18n,Non core,1.4285714285714286,0.0,3,1
+openstack/charm-placement,openstack/sushy-oem-idrac,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-dracclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-dracclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_masakari,Core,2.272727272727273,1.4925373134328357,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_masakari,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/ansible-role-systemd_mount,Core,3.225806451612903,2.380952380952381,1,1
+openstack/charm-placement,openstack/ansible-role-systemd_mount,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/python-senlinclient,Core,1.9801980198019802,0.819672131147541,3,1
+openstack/charm-placement,openstack/python-senlinclient,Non core,0.9900990099009901,0.0,3,1
+openstack/charm-placement,openstack/senlin-dashboard,Core,3.0303030303030303,0.9345794392523363,3,1
+openstack/charm-placement,openstack/senlin-dashboard,Non core,1.5151515151515151,0.0,3,1
+openstack/charm-placement,openstack/networking-generic-switch,Core,1.3333333333333335,1.0526315789473684,1,1
+openstack/charm-placement,openstack/networking-generic-switch,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/sahara-image-elements,Core,1.282051282051282,0.0,1,0
+openstack/charm-placement,openstack/sahara-image-elements,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-thales-hsm,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ansible-role-thales-hsm,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ansible-role-atos-hsm,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ansible-role-atos-hsm,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/adjutant-ui,Core,9.090909090909092,2.857142857142857,2,1
+openstack/charm-placement,openstack/adjutant-ui,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/sahara-extra,Core,1.8867924528301887,1.36986301369863,1,1
+openstack/charm-placement,openstack/sahara-extra,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/blazar-nova,Core,4.761904761904762,1.3513513513513513,3,1
+openstack/charm-placement,openstack/blazar-nova,Non core,2.380952380952381,0.0,3,1
+openstack/charm-placement,openstack/oslo.service,Core,1.9607843137254901,0.6329113924050633,3,2
+openstack/charm-placement,openstack/oslo.service,Non core,0.9803921568627451,0.6329113924050633,3,2
+openstack/charm-placement,openstack/blazar-dashboard,Core,5.88235294117647,1.4492753623188406,3,1
+openstack/charm-placement,openstack/blazar-dashboard,Non core,2.941176470588235,0.0,3,1
+openstack/charm-placement,openstack/paunch,Core,1.694915254237288,0.7936507936507936,2,1
+openstack/charm-placement,openstack/paunch,Non core,1.694915254237288,0.0,2,1
+openstack/charm-placement,openstack/service-types-authority,Core,0.0,1.2048192771084338,0,1
+openstack/charm-placement,openstack/service-types-authority,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/python-ironic-inspector-client,Core,1.694915254237288,1.0,2,1
+openstack/charm-placement,openstack/python-ironic-inspector-client,Non core,1.694915254237288,0.0,2,1
+openstack/charm-placement,openstack/openstack-ansible-memcached_server,Core,1.694915254237288,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-memcached_server,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/os-testr,Core,3.4482758620689653,1.0,4,2
+openstack/charm-placement,openstack/os-testr,Non core,3.4482758620689653,1.0,4,2
+openstack/charm-placement,openstack/openstack-ansible-ceph_client,Core,1.5625,1.1235955056179776,1,1
+openstack/charm-placement,openstack/openstack-ansible-ceph_client,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_magnum,Core,1.4705882352941175,1.0309278350515463,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_magnum,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_blazar,Core,2.380952380952381,1.6666666666666667,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_blazar,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_designate,Core,1.36986301369863,0.9615384615384616,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_designate,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_gnocchi,Core,1.4084507042253522,1.1363636363636365,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_gnocchi,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_senlin,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ptgbot,Core,0.0,2.2222222222222223,0,1
+openstack/charm-placement,openstack/ptgbot,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/openstack-ansible-os_zun,Core,2.4390243902439024,1.7857142857142856,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_zun,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-ansible-repo_server,Core,1.4492753623188406,1.0638297872340425,1,1
+openstack/charm-placement,openstack/openstack-ansible-repo_server,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/python-watcherclient,Core,1.0416666666666665,1.0101010101010102,1,1
+openstack/charm-placement,openstack/python-watcherclient,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/heat-agents,Core,2.0,0.9708737864077669,1,2
+openstack/charm-placement,openstack/heat-agents,Non core,0.0,0.9708737864077669,1,2
+openstack/charm-placement,openstack/oslo.rootwrap,Core,2.4096385542168677,0.7462686567164178,3,2
+openstack/charm-placement,openstack/oslo.rootwrap,Non core,1.2048192771084338,0.7462686567164178,3,2
+openstack/charm-placement,openstack/automaton,Core,2.3255813953488373,1.6666666666666667,2,2
+openstack/charm-placement,openstack/automaton,Non core,2.3255813953488373,1.6666666666666667,2,2
+openstack/charm-placement,openstack/debtcollector,Core,3.7037037037037033,1.694915254237288,3,2
+openstack/charm-placement,openstack/debtcollector,Non core,1.8518518518518516,1.694915254237288,3,2
+openstack/charm-placement,openstack/vitrage-dashboard,Core,1.282051282051282,1.1627906976744187,2,1
+openstack/charm-placement,openstack/vitrage-dashboard,Non core,1.282051282051282,0.0,2,1
+openstack/charm-placement,openstack/oslotest,Core,2.8169014084507045,0.9523809523809524,3,2
+openstack/charm-placement,openstack/oslotest,Non core,1.4084507042253522,0.9523809523809524,3,2
+openstack/charm-placement,openstack/kayobe-config,Core,4.3478260869565215,0.0,1,0
+openstack/charm-placement,openstack/kayobe-config,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/compute-hyperv,Core,2.1739130434782608,1.7241379310344827,1,1
+openstack/charm-placement,openstack/compute-hyperv,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/python-cloudkittyclient,Core,1.3513513513513513,1.1363636363636365,1,1
+openstack/charm-placement,openstack/python-cloudkittyclient,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/charm-interface-keystone,Core,10.0,0.0,8,10
+openstack/charm-placement,openstack/charm-interface-keystone,Non core,30.0,40.0,8,10
+openstack/charm-placement,openstack/cloudkitty-dashboard,Core,1.694915254237288,1.0638297872340425,1,1
+openstack/charm-placement,openstack/cloudkitty-dashboard,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/networking-hyperv,Core,3.1746031746031744,1.4705882352941175,3,2
+openstack/charm-placement,openstack/networking-hyperv,Non core,1.5873015873015872,1.4705882352941175,3,2
+openstack/charm-placement,openstack/i18n,Core,1.8181818181818181,1.1363636363636365,1,1
+openstack/charm-placement,openstack/i18n,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/sahara-tests,Core,4.0,1.1904761904761905,2,1
+openstack/charm-placement,openstack/sahara-tests,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/python-zunclient,Core,2.127659574468085,0.8333333333333334,3,2
+openstack/charm-placement,openstack/python-zunclient,Non core,1.0638297872340425,0.8333333333333334,3,2
+openstack/charm-placement,openstack/sahara-plugin-cdh,Core,8.695652173913043,2.631578947368421,3,2
+openstack/charm-placement,openstack/sahara-plugin-cdh,Non core,4.3478260869565215,2.631578947368421,3,2
+openstack/charm-placement,openstack/monasca-ui,Core,2.2988505747126435,0.6756756756756757,3,1
+openstack/charm-placement,openstack/monasca-ui,Non core,1.1494252873563218,0.0,3,1
+openstack/charm-placement,openstack/python-adjutantclient,Core,8.695652173913043,3.3333333333333335,2,1
+openstack/charm-placement,openstack/python-adjutantclient,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/charm-ceph-nfs,Core,0.0,0.0,1,3
+openstack/charm-placement,openstack/charm-ceph-nfs,Non core,7.6923076923076925,16.666666666666664,1,3
+openstack/charm-placement,openstack/ansible-role-lunasa-hsm,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/monasca-thresh,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/monasca-thresh,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/heat-specs,Core,1.2048192771084338,0.4975124378109453,1,1
+openstack/charm-placement,openstack/heat-specs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/watcher-dashboard,Core,1.6129032258064515,0.0,1,0
+openstack/charm-placement,openstack/watcher-dashboard,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/sahara-plugin-ambari,Core,9.090909090909092,3.225806451612903,3,2
+openstack/charm-placement,openstack/sahara-plugin-ambari,Non core,4.545454545454546,3.225806451612903,3,2
+openstack/charm-placement,openstack/sahara-plugin-mapr,Core,9.523809523809524,2.7777777777777777,3,2
+openstack/charm-placement,openstack/sahara-plugin-mapr,Non core,4.761904761904762,2.7777777777777777,3,2
+openstack/charm-placement,openstack/sahara-plugin-spark,Core,10.0,3.8461538461538463,3,2
+openstack/charm-placement,openstack/sahara-plugin-spark,Non core,5.0,3.8461538461538463,3,2
+openstack/charm-placement,openstack/sahara-plugin-storm,Core,10.0,3.7037037037037033,3,2
+openstack/charm-placement,openstack/sahara-plugin-storm,Non core,5.0,3.7037037037037033,3,2
+openstack/charm-placement,openstack/sahara-plugin-vanilla,Core,10.0,3.4482758620689653,3,2
+openstack/charm-placement,openstack/sahara-plugin-vanilla,Non core,5.0,3.4482758620689653,3,2
+openstack/charm-placement,openstack/sahara-specs,Core,0.0,1.1111111111111112,0,1
+openstack/charm-placement,openstack/sahara-specs,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/venus-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ceilometermiddleware,Core,1.9607843137254901,0.0,2,0
+openstack/charm-placement,openstack/ceilometermiddleware,Non core,1.9607843137254901,0.0,2,0
+openstack/charm-placement,openstack/trove-tempest-plugin,Core,3.8461538461538463,2.127659574468085,1,1
+openstack/charm-placement,openstack/trove-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/arch-design,Core,5.263157894736842,0.0,2,0
+openstack/charm-placement,openstack/arch-design,Non core,5.263157894736842,0.0,2,0
+openstack/charm-placement,openstack/monasca-common,Core,2.3255813953488373,0.8064516129032258,2,2
+openstack/charm-placement,openstack/monasca-common,Non core,0.0,0.8064516129032258,2,2
+openstack/charm-placement,openstack/monasca-statsd,Core,4.0,1.3513513513513513,3,1
+openstack/charm-placement,openstack/monasca-statsd,Non core,2.0,0.0,3,1
+openstack/charm-placement,openstack/python-monascaclient,Core,2.0202020202020203,0.7407407407407408,3,1
+openstack/charm-placement,openstack/python-monascaclient,Non core,1.0101010101010102,0.0,3,1
+openstack/charm-placement,openstack/renderspec,Core,5.88235294117647,2.2222222222222223,3,1
+openstack/charm-placement,openstack/renderspec,Non core,2.941176470588235,0.0,3,1
+openstack/charm-placement,openstack/os-service-types,Core,6.25,1.9230769230769231,3,1
+openstack/charm-placement,openstack/os-service-types,Non core,3.125,0.0,3,1
+openstack/charm-placement,openstack/masakari-dashboard,Core,5.405405405405405,1.5384615384615385,3,1
+openstack/charm-placement,openstack/masakari-dashboard,Non core,2.7027027027027026,0.0,3,1
+openstack/charm-placement,openstack/freezer-dr,Core,2.7777777777777777,1.8181818181818181,2,1
+openstack/charm-placement,openstack/freezer-dr,Non core,2.7777777777777777,0.0,2,1
+openstack/charm-placement,openstack/tempest-stress,Core,3.225806451612903,2.941176470588235,2,1
+openstack/charm-placement,openstack/tempest-stress,Non core,3.225806451612903,0.0,2,1
+openstack/charm-placement,openstack/charm-neutron-api-genericswitch,Core,6.666666666666667,0.0,2,4
+openstack/charm-placement,openstack/charm-neutron-api-genericswitch,Non core,6.666666666666667,21.052631578947366,2,4
+openstack/charm-placement,openstack/charm-neutron-dynamic-routing,Core,10.526315789473683,4.545454545454546,10,14
+openstack/charm-placement,openstack/charm-neutron-dynamic-routing,Non core,42.10526315789473,59.09090909090909,10,14
+openstack/charm-placement,openstack/charm-interface-ceph-client,Core,6.666666666666667,0.0,6,8
+openstack/charm-placement,openstack/charm-interface-ceph-client,Non core,33.33333333333333,38.095238095238095,6,8
+openstack/charm-placement,openstack/charm-percona-cluster,Core,2.3255813953488373,0.0,10,15
+openstack/charm-placement,openstack/charm-percona-cluster,Non core,20.930232558139537,28.30188679245283,10,15
+openstack/charm-placement,openstack/charm-deployment-guide,Core,0.0,0.0,10,16
+openstack/charm-placement,openstack/charm-deployment-guide,Non core,28.57142857142857,45.714285714285715,10,16
+openstack/charm-placement,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/oslo.metrics,Core,5.263157894736842,3.225806451612903,2,2
+openstack/charm-placement,openstack/oslo.metrics,Non core,5.263157894736842,3.225806451612903,2,2
+openstack/charm-placement,openstack/oslo.vmware,Core,2.2222222222222223,0.628930817610063,3,2
+openstack/charm-placement,openstack/oslo.vmware,Non core,1.1111111111111112,0.628930817610063,3,2
+openstack/charm-placement,openstack/oslo.upgradecheck,Core,7.142857142857142,2.2222222222222223,3,1
+openstack/charm-placement,openstack/oslo.upgradecheck,Non core,3.571428571428571,0.0,3,1
+openstack/charm-placement,openstack/python-masakariclient,Core,3.7735849056603774,1.4705882352941175,2,2
+openstack/charm-placement,openstack/python-masakariclient,Non core,0.0,1.4705882352941175,2,2
+openstack/charm-placement,openstack/python-vitrageclient,Core,3.125,0.0,3,0
+openstack/charm-placement,openstack/python-vitrageclient,Non core,1.5625,0.0,3,0
+openstack/charm-placement,openstack/python-blazarclient,Core,3.1746031746031744,1.0638297872340425,3,1
+openstack/charm-placement,openstack/python-blazarclient,Non core,1.5873015873015872,0.0,3,1
+openstack/charm-placement,openstack/zaqar-tempest-plugin,Core,8.333333333333332,2.380952380952381,2,1
+openstack/charm-placement,openstack/zaqar-tempest-plugin,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/tripleo-common-tempest-plugin,Core,3.571428571428571,0.0,2,0
+openstack/charm-placement,openstack/tripleo-common-tempest-plugin,Non core,3.571428571428571,0.0,2,0
+openstack/charm-placement,openstack/mistral-tempest-plugin,Core,2.7777777777777777,0.0,1,0
+openstack/charm-placement,openstack/mistral-tempest-plugin,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/barbican-ui,Core,0.0,3.4482758620689653,0,1
+openstack/charm-placement,openstack/barbican-ui,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/liberasurecode,Core,0.0,0.0,1,1
+openstack/charm-placement,openstack/liberasurecode,Non core,4.166666666666666,2.7027027027027026,1,1
+openstack/charm-placement,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/os-client-config,Core,1.1111111111111112,0.8130081300813009,2,1
+openstack/charm-placement,openstack/os-client-config,Non core,1.1111111111111112,0.0,2,1
+openstack/charm-placement,openstack/monasca-specs,Core,0.0,2.127659574468085,0,1
+openstack/charm-placement,openstack/monasca-specs,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/os-performance-tools,Core,6.666666666666667,2.631578947368421,2,1
+openstack/charm-placement,openstack/os-performance-tools,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/trove-specs,Core,1.9230769230769231,0.9900990099009901,1,1
+openstack/charm-placement,openstack/trove-specs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/manila-image-elements,Core,2.564102564102564,1.6129032258064515,1,2
+openstack/charm-placement,openstack/manila-image-elements,Non core,0.0,1.6129032258064515,1,2
+openstack/charm-placement,openstack/blazar-specs,Core,4.761904761904762,2.631578947368421,1,1
+openstack/charm-placement,openstack/blazar-specs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/molteniron,Core,9.090909090909092,2.380952380952381,3,2
+openstack/charm-placement,openstack/molteniron,Non core,4.545454545454546,2.380952380952381,3,2
+openstack/charm-placement,openstack/solum-specs,Core,3.571428571428571,0.0,1,0
+openstack/charm-placement,openstack/solum-specs,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/patrole,Core,2.0,0.7751937984496124,3,1
+openstack/charm-placement,openstack/patrole,Non core,1.0,0.0,3,1
+openstack/charm-placement,openstack/performance-docs,Core,0.0,1.3333333333333335,0,1
+openstack/charm-placement,openstack/performance-docs,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/sphinx-feature-classification,Core,3.225806451612903,1.9607843137254901,2,2
+openstack/charm-placement,openstack/sphinx-feature-classification,Non core,3.225806451612903,1.9607843137254901,2,2
+openstack/charm-placement,openstack/etcd3gw,Core,5.0,3.571428571428571,1,1
+openstack/charm-placement,openstack/etcd3gw,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/watcher-specs,Core,1.6666666666666667,1.0,1,1
+openstack/charm-placement,openstack/watcher-specs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/yaql,Core,4.3478260869565215,0.0,3,1
+openstack/charm-placement,openstack/yaql,Non core,2.1739130434782608,1.36986301369863,3,1
+openstack/charm-placement,openstack/puppet-openstack-guide,Core,2.564102564102564,0.0,1,0
+openstack/charm-placement,openstack/puppet-openstack-guide,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/puppet-panko,Core,1.9607843137254901,0.0,1,0
+openstack/charm-placement,openstack/puppet-panko,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/heat-cfnclient,Core,3.0303030303030303,2.0,2,1
+openstack/charm-placement,openstack/heat-cfnclient,Non core,3.0303030303030303,0.0,2,1
+openstack/charm-placement,openstack/heat-cfntools,Core,1.6666666666666667,1.1627906976744187,2,1
+openstack/charm-placement,openstack/heat-cfntools,Non core,1.6666666666666667,0.0,2,1
+openstack/charm-placement,openstack/heat-templates,Core,0.8547008547008548,0.0,1,0
+openstack/charm-placement,openstack/heat-templates,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/governance-sigs,Core,4.545454545454546,0.847457627118644,3,2
+openstack/charm-placement,openstack/governance-sigs,Non core,2.272727272727273,0.847457627118644,3,2
+openstack/charm-placement,openstack/openstack-zuul-roles,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-zuul-roles,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/nova-powervm,Core,1.4492753623188406,0.0,1,0
+openstack/charm-placement,openstack/nova-powervm,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-helm-addons,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-helm-addons,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-pankoclient,Core,5.714285714285714,1.7857142857142856,3,2
+openstack/charm-placement,openstack/python-pankoclient,Non core,2.857142857142857,1.7857142857142856,3,2
+openstack/charm-placement,openstack/qa-specs,Core,3.389830508474576,0.78125,2,1
+openstack/charm-placement,openstack/qa-specs,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/zaqar-specs,Core,2.083333333333333,1.2195121951219512,1,1
+openstack/charm-placement,openstack/zaqar-specs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/swift-bench,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/swift-bench,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/whereto,Core,3.571428571428571,2.564102564102564,2,1
+openstack/charm-placement,openstack/whereto,Non core,3.571428571428571,0.0,2,1
+openstack/charm-placement,openstack/murano-specs,Core,1.8518518518518516,0.0,1,0
+openstack/charm-placement,openstack/murano-specs,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-modify-image,Core,2.4390243902439024,1.25,1,1
+openstack/charm-placement,openstack/ansible-role-tripleo-modify-image,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/requestsexceptions,Core,5.263157894736842,0.0,1,0
+openstack/charm-placement,openstack/requestsexceptions,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/panko,Core,2.4390243902439024,0.8403361344537815,3,1
+openstack/charm-placement,openstack/panko,Non core,1.2195121951219512,0.0,3,1
+openstack/charm-placement,openstack/api-sig,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/api-sig,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-chef-specs,Core,0.0,1.9230769230769231,0,1
+openstack/charm-placement,openstack/openstack-chef-specs,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/freezer-specs,Core,3.0303030303030303,2.272727272727273,1,1
+openstack/charm-placement,openstack/freezer-specs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/oslo.tools,Core,2.272727272727273,2.1739130434782608,1,1
+openstack/charm-placement,openstack/oslo.tools,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/microversion-parse,Core,4.761904761904762,3.125,1,1
+openstack/charm-placement,openstack/microversion-parse,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstackclient,Core,2.7777777777777777,1.9607843137254901,1,2
+openstack/charm-placement,openstack/openstackclient,Non core,0.0,1.9607843137254901,1,2
+openstack/charm-placement,openstack/ossa,Core,0.0,1.282051282051282,0,1
+openstack/charm-placement,openstack/ossa,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/reviewstats,Core,1.1235955056179776,0.7246376811594203,1,1
+openstack/charm-placement,openstack/reviewstats,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/oslo-cookiecutter,Core,2.941176470588235,2.0408163265306123,1,1
+openstack/charm-placement,openstack/oslo-cookiecutter,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/security-analysis,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/security-analysis,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ansible-role-tripleo-keystone,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-keystone,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-apt_package_pinning,Core,2.083333333333333,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-apt_package_pinning,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-qdrouterd,Core,0.0,2.127659574468085,0,1
+openstack/charm-placement,openstack/ansible-role-qdrouterd,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/openstack-ansible-openstack_openrc,Core,1.694915254237288,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-openstack_openrc,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-nspawn_container_create,Core,3.0303030303030303,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-nspawn_container_create,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/devstack-tools,Core,3.4482758620689653,2.941176470588235,1,1
+openstack/charm-placement,openstack/devstack-tools,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/coverage2sql,Core,5.88235294117647,2.7027027027027026,3,1
+openstack/charm-placement,openstack/coverage2sql,Non core,2.941176470588235,0.0,3,1
+openstack/charm-placement,openstack/bashate,Core,3.389830508474576,1.3888888888888888,3,1
+openstack/charm-placement,openstack/bashate,Non core,1.694915254237288,0.0,3,1
+openstack/charm-placement,openstack/hacking,Core,2.0618556701030926,0.5780346820809248,3,1
+openstack/charm-placement,openstack/hacking,Non core,1.0309278350515463,0.0,3,1
+openstack/charm-placement,openstack/xstatic-mdi,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-chef,Core,0.0,2.7777777777777777,0,1
+openstack/charm-placement,openstack/openstack-chef,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/cookbook-openstackclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cookbook-openstackclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-interface-hacluster,Core,4.166666666666666,0.0,7,10
+openstack/charm-placement,openstack/charm-interface-hacluster,Non core,25.0,41.66666666666667,7,10
+openstack/charm-placement,openstack/puppet-openstack-specs,Core,2.7027027027027026,0.0,1,0
+openstack/charm-placement,openstack/puppet-openstack-specs,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/puppet-monasca,Core,2.3255813953488373,0.0,1,0
+openstack/charm-placement,openstack/puppet-monasca,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/eslint-config-openstack,Core,3.571428571428571,0.0,1,0
+openstack/charm-placement,openstack/eslint-config-openstack,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/karma-subunit-reporter,Core,13.333333333333334,4.3478260869565215,2,1
+openstack/charm-placement,openstack/karma-subunit-reporter,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/openstack-helm-docs,Core,0.0,2.380952380952381,0,1
+openstack/charm-placement,openstack/openstack-helm-docs,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/openstack-ansible-specs,Core,1.4925373134328357,0.78125,1,1
+openstack/charm-placement,openstack/openstack-ansible-specs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/tempest-lib,Core,1.8181818181818181,0.0,1,0
+openstack/charm-placement,openstack/tempest-lib,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/tripleo-ha-utils,Core,5.0,0.0,1,0
+openstack/charm-placement,openstack/tripleo-ha-utils,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/devstack-vagrant,Core,3.8461538461538463,0.0,1,0
+openstack/charm-placement,openstack/devstack-vagrant,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/goal-tools,Core,0.0,2.941176470588235,0,1
+openstack/charm-placement,openstack/goal-tools,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/cookiecutter,Core,1.8181818181818181,1.1627906976744187,1,1
+openstack/charm-placement,openstack/cookiecutter,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/dib-utils,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/dib-utils,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/constellations,Core,0.0,3.125,0,1
+openstack/charm-placement,openstack/constellations,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/cookbook-openstack-integration-test,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cookbook-openstack-integration-test,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cookbook-openstack-dashboard,Core,1.7543859649122806,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-dashboard,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-telemetry,Core,1.7241379310344827,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-telemetry,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-orchestration,Core,2.083333333333333,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-orchestration,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-bare-metal,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cookbook-openstack-bare-metal,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cookbook-openstack-dns,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cookbook-openstack-dns,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cookbook-openstack-compute,Core,1.2987012987012987,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-compute,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-network,Core,1.2658227848101267,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-network,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-block-storage,Core,1.36986301369863,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-block-storage,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-image,Core,1.5625,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-image,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-identity,Core,1.5151515151515151,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-identity,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-ops-database,Core,2.127659574468085,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-ops-database,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-ops-messaging,Core,2.5,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-ops-messaging,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-common,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cookbook-openstack-common,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/self-healing-sig,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/self-healing-sig,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,3,4
+openstack/charm-placement,openstack/charm-ops-interface-tls-certificates,Non core,23.076923076923077,22.22222222222222,3,4
+openstack/charm-placement,openstack/security-specs,Core,3.7037037037037033,0.0,1,0
+openstack/charm-placement,openstack/security-specs,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-os_panko,Core,2.7777777777777777,1.7857142857142856,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_panko,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-ansible-nspawn_hosts,Core,2.941176470588235,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-nspawn_hosts,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/charm-layer-openstack-principle,Core,7.142857142857142,0.0,4,8
+openstack/charm-placement,openstack/charm-layer-openstack-principle,Non core,21.428571428571427,47.05882352941176,4,8
+openstack/charm-placement,openstack/charm-watcher-dashboard,Core,15.384615384615385,5.0,3,8
+openstack/charm-placement,openstack/charm-watcher-dashboard,Non core,7.6923076923076925,35.0,3,8
+openstack/charm-placement,openstack/charm-watcher,Core,14.285714285714285,4.545454545454546,4,15
+openstack/charm-placement,openstack/charm-watcher,Non core,14.285714285714285,63.63636363636363,4,15
+openstack/charm-placement,openstack/openstack-ansible-galera_client,Core,1.5151515151515151,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-galera_client,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cloudkitty-specs,Core,3.571428571428571,2.1739130434782608,1,1
+openstack/charm-placement,openstack/cloudkitty-specs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/osops,Core,5.88235294117647,0.0,1,0
+openstack/charm-placement,openstack/osops,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-ironic,Core,5.88235294117647,0.0,1,2
+openstack/charm-placement,openstack/charm-ironic,Non core,0.0,10.526315789473683,1,2
+openstack/charm-placement,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/multi-arch-sig,Core,0.0,4.166666666666666,0,1
+openstack/charm-placement,openstack/multi-arch-sig,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/charm-nova-compute-proxy,Core,0.0,0.0,5,9
+openstack/charm-placement,openstack/charm-nova-compute-proxy,Non core,26.31578947368421,42.857142857142854,5,9
+openstack/charm-placement,openstack/charm-odl-controller,Core,0.0,0.0,6,9
+openstack/charm-placement,openstack/charm-odl-controller,Non core,31.57894736842105,47.368421052631575,6,9
+openstack/charm-placement,openstack/charm-nova-lxd,Core,0.0,0.0,7,10
+openstack/charm-placement,openstack/charm-nova-lxd,Non core,26.923076923076923,31.25,7,10
+openstack/charm-placement,openstack/charm-interface-nova-cell,Core,0.0,0.0,1,2
+openstack/charm-placement,openstack/charm-interface-nova-cell,Non core,8.333333333333332,11.11111111111111,1,2
+openstack/charm-placement,openstack/charm-interface-magpie,Core,0.0,0.0,2,3
+openstack/charm-placement,openstack/charm-interface-magpie,Non core,16.666666666666664,17.647058823529413,2,3
+openstack/charm-placement,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-interface-barbican-secrets,Core,6.666666666666667,0.0,4,5
+openstack/charm-placement,openstack/charm-interface-barbican-secrets,Non core,20.0,25.0,4,5
+openstack/charm-placement,openstack/charm-interface-mysql-innodb-cluster,Core,8.333333333333332,0.0,2,4
+openstack/charm-placement,openstack/charm-interface-mysql-innodb-cluster,Non core,8.333333333333332,23.52941176470588,2,4
+openstack/charm-placement,openstack/charm-interface-ceph-rbd-mirror,Core,6.666666666666667,0.0,3,5
+openstack/charm-placement,openstack/charm-interface-ceph-rbd-mirror,Non core,13.333333333333334,23.809523809523807,3,5
+openstack/charm-placement,openstack/charm-interface-placement,Core,7.6923076923076925,0.0,2,1
+openstack/charm-placement,openstack/charm-interface-placement,Non core,7.6923076923076925,5.88235294117647,2,1
+openstack/charm-placement,openstack/charm-interface-mysql-shared,Core,5.88235294117647,0.0,4,8
+openstack/charm-placement,openstack/charm-interface-mysql-shared,Non core,17.647058823529413,44.44444444444444,4,8
+openstack/charm-placement,openstack/charm-interface-dashboard-plugin,Core,6.666666666666667,0.0,4,5
+openstack/charm-placement,openstack/charm-interface-dashboard-plugin,Non core,20.0,25.0,4,5
+openstack/charm-placement,openstack/charm-interface-neutron-load-balancer,Core,6.666666666666667,0.0,4,5
+openstack/charm-placement,openstack/charm-interface-neutron-load-balancer,Non core,20.0,25.0,4,5
+openstack/charm-placement,openstack/charm-interface-neutron-plugin-api-subordinate,Core,11.76470588235294,0.0,5,7
+openstack/charm-placement,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,17.647058823529413,35.0,5,7
+openstack/charm-placement,openstack/charm-interface-neutron-plugin,Core,6.666666666666667,0.0,4,6
+openstack/charm-placement,openstack/charm-interface-neutron-plugin,Non core,20.0,31.57894736842105,4,6
+openstack/charm-placement,openstack/xstatic-json2yaml,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-json2yaml,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-js-yaml,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-js-yaml,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-spin,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-spin,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-panko,Core,0.0,0.0,4,9
+openstack/charm-placement,openstack/charm-panko,Non core,28.57142857142857,42.857142857142854,4,9
+openstack/charm-placement,openstack/charm-interface-service-control,Core,6.25,0.0,4,6
+openstack/charm-placement,openstack/charm-interface-service-control,Non core,18.75,28.57142857142857,4,6
+openstack/charm-placement,openstack/openstack-ansible-os_almanach,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_almanach,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-pip_install,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-pip_install,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-karborclient,Core,1.5873015873015872,1.25,2,2
+openstack/charm-placement,openstack/python-karborclient,Non core,1.5873015873015872,1.25,2,2
+openstack/charm-placement,openstack/charm-interface-keystone-admin,Core,6.666666666666667,0.0,2,5
+openstack/charm-placement,openstack/charm-interface-keystone-admin,Non core,6.666666666666667,27.77777777777778,2,5
+openstack/charm-placement,openstack/charm-interface-nova-compute,Core,12.5,0.0,5,6
+openstack/charm-placement,openstack/charm-interface-nova-compute,Non core,18.75,26.08695652173913,5,6
+openstack/charm-placement,openstack/charm-interface-manila-plugin,Core,0.0,0.0,1,6
+openstack/charm-placement,openstack/charm-interface-manila-plugin,Non core,5.88235294117647,31.57894736842105,1,6
+openstack/charm-placement,openstack/murano-apps,Core,1.5625,0.0,1,0
+openstack/charm-placement,openstack/murano-apps,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/puppet-senlin,Core,3.7037037037037033,0.0,1,0
+openstack/charm-placement,openstack/puppet-senlin,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cookbook-openstack-application-catalog,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/training-labs,Core,2.0408163265306123,1.6129032258064515,1,1
+openstack/charm-placement,openstack/training-labs,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/karbor,Core,0.8064516129032258,0.5555555555555556,2,2
+openstack/charm-placement,openstack/karbor,Non core,0.8064516129032258,0.5555555555555556,2,2
+openstack/charm-placement,openstack/devstack-plugin-open-cas,Core,7.142857142857142,0.0,1,0
+openstack/charm-placement,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-os_congress,Core,2.7027027027027026,1.639344262295082,1,1
+openstack/charm-placement,openstack/openstack-ansible-os_congress,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,2,5
+openstack/charm-placement,openstack/charm-ops-interface-ceph-client,Non core,16.666666666666664,29.411764705882355,2,5
+openstack/charm-placement,openstack/charm-interface-keystone-notifications,Core,0.0,0.0,1,2
+openstack/charm-placement,openstack/charm-interface-keystone-notifications,Non core,8.333333333333332,11.11111111111111,1,2
+openstack/charm-placement,openstack/os-collect-config,Core,1.5625,0.8264462809917356,2,1
+openstack/charm-placement,openstack/os-collect-config,Non core,1.5625,0.0,2,1
+openstack/charm-placement,openstack/os-apply-config,Core,1.5873015873015872,0.8849557522123894,2,1
+openstack/charm-placement,openstack/os-apply-config,Non core,1.5873015873015872,0.0,2,1
+openstack/charm-placement,openstack/puppet-freezer,Core,2.7777777777777777,2.272727272727273,1,1
+openstack/charm-placement,openstack/puppet-freezer,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/vitrage-specs,Core,2.0408163265306123,0.0,1,0
+openstack/charm-placement,openstack/vitrage-specs,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/specs-cookiecutter,Core,5.0,3.125,1,1
+openstack/charm-placement,openstack/specs-cookiecutter,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/rpm-packaging-tools,Core,9.090909090909092,2.3255813953488373,2,1
+openstack/charm-placement,openstack/rpm-packaging-tools,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/ansible-role-openstack-operations,Core,3.7037037037037033,2.857142857142857,1,1
+openstack/charm-placement,openstack/ansible-role-openstack-operations,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/os-refresh-config,Core,2.0408163265306123,1.0869565217391304,2,1
+openstack/charm-placement,openstack/os-refresh-config,Non core,2.0408163265306123,0.0,2,1
+openstack/charm-placement,openstack/mistral-specs,Core,2.5,0.0,1,0
+openstack/charm-placement,openstack/mistral-specs,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/scientific-wg,Core,6.666666666666667,0.0,1,0
+openstack/charm-placement,openstack/scientific-wg,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.0,1,5
+openstack/charm-placement,openstack/charm-interface-keystone-fid-service-provider,Non core,6.666666666666667,26.31578947368421,1,5
+openstack/charm-placement,openstack/manila-test-image,Core,0.0,0.0,0,1
+openstack/charm-placement,openstack/manila-test-image,Non core,0.0,3.0303030303030303,0,1
+openstack/charm-placement,openstack/governance-website,Core,4.761904761904762,2.631578947368421,1,1
+openstack/charm-placement,openstack/governance-website,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/bugdaystats,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/bugdaystats,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/upstream-institute-virtual-environment,Core,0.0,3.3333333333333335,0,1
+openstack/charm-placement,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/karbor-dashboard,Core,2.083333333333333,1.3157894736842104,2,1
+openstack/charm-placement,openstack/karbor-dashboard,Non core,2.083333333333333,0.0,2,1
+openstack/charm-placement,openstack/django_openstack_auth,Core,1.1235955056179776,0.0,1,0
+openstack/charm-placement,openstack/django_openstack_auth,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/monasca-transform,Core,1.9607843137254901,0.0,2,0
+openstack/charm-placement,openstack/monasca-transform,Non core,1.9607843137254901,0.0,2,0
+openstack/charm-placement,openstack/monasca-ceilometer,Core,1.6666666666666667,1.098901098901099,2,1
+openstack/charm-placement,openstack/monasca-ceilometer,Non core,1.6666666666666667,0.0,2,1
+openstack/charm-placement,openstack/monasca-log-api,Core,3.0303030303030303,0.9090909090909091,2,2
+openstack/charm-placement,openstack/monasca-log-api,Non core,0.0,0.9090909090909091,2,2
+openstack/charm-placement,openstack/nose-html-output,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/nose-html-output,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/kolla-cli,Core,3.0303030303030303,0.0,1,0
+openstack/charm-placement,openstack/kolla-cli,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/neutron-lbaas-dashboard,Core,1.7241379310344827,0.9523809523809524,2,2
+openstack/charm-placement,openstack/neutron-lbaas-dashboard,Non core,1.7241379310344827,0.9523809523809524,2,2
+openstack/charm-placement,openstack/searchlight,Core,1.574803149606299,0.6535947712418301,3,1
+openstack/charm-placement,openstack/searchlight,Non core,0.7874015748031495,0.0,3,1
+openstack/charm-placement,openstack/searchlight-ui,Core,1.7857142857142856,0.0,2,0
+openstack/charm-placement,openstack/searchlight-ui,Non core,1.7857142857142856,0.0,2,0
+openstack/charm-placement,openstack/searchlight-specs,Core,2.941176470588235,0.0,2,0
+openstack/charm-placement,openstack/searchlight-specs,Non core,2.941176470588235,0.0,2,0
+openstack/charm-placement,openstack/python-searchlightclient,Core,3.7037037037037033,1.3888888888888888,3,1
+openstack/charm-placement,openstack/python-searchlightclient,Non core,1.8518518518518516,0.0,3,1
+openstack/charm-placement,openstack/charm-tempest,Core,8.333333333333332,3.4482758620689653,10,14
+openstack/charm-placement,openstack/charm-tempest,Non core,33.33333333333333,44.827586206896555,10,14
+openstack/charm-placement,openstack/charm-barbican-softhsm,Core,9.523809523809524,4.166666666666666,10,14
+openstack/charm-placement,openstack/charm-barbican-softhsm,Non core,38.095238095238095,54.166666666666664,10,14
+openstack/charm-placement,openstack/cookbook-openstack-client,Core,5.263157894736842,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-client,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/instack-undercloud,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/instack-undercloud,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/publiccloud-sig,Core,0.0,3.7037037037037033,0,1
+openstack/charm-placement,openstack/publiccloud-sig,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/ideas,Core,6.25,0.0,1,0
+openstack/charm-placement,openstack/ideas,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/uc-recognition,Core,7.142857142857142,0.0,1,0
+openstack/charm-placement,openstack/uc-recognition,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ops-tags-team,Core,4.761904761904762,0.0,1,0
+openstack/charm-placement,openstack/ops-tags-team,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/enterprise-wg,Core,8.333333333333332,0.0,1,0
+openstack/charm-placement,openstack/enterprise-wg,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/governance-uc,Core,3.0303030303030303,0.0,1,0
+openstack/charm-placement,openstack/governance-uc,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/workload-ref-archs,Core,4.166666666666666,0.0,1,0
+openstack/charm-placement,openstack/workload-ref-archs,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/arch-wg,Core,6.666666666666667,0.0,1,0
+openstack/charm-placement,openstack/arch-wg,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/project-navigator-data,Core,3.3333333333333335,2.3255813953488373,1,1
+openstack/charm-placement,openstack/project-navigator-data,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack-specs,Core,3.225806451612903,0.0,1,0
+openstack/charm-placement,openstack/openstack-specs,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-os_monasca,Core,2.083333333333333,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-os_monasca,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-os_monasca-agent,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_monasca-agent,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ironic-inspector-specs,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/ironic-inspector-specs,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/sushy-cli,Core,5.0,0.0,1,0
+openstack/charm-placement,openstack/sushy-cli,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/puppet-glare,Core,2.4390243902439024,0.0,1,0
+openstack/charm-placement,openstack/puppet-glare,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-planet,Core,0.43103448275862066,0.0,3,0
+openstack/charm-placement,openstack/openstack-planet,Non core,0.8620689655172413,0.0,3,0
+openstack/charm-placement,openstack/charm-interface-keystone-credentials,Core,5.555555555555555,0.0,4,8
+openstack/charm-placement,openstack/charm-interface-keystone-credentials,Non core,16.666666666666664,42.10526315789473,4,8
+openstack/charm-placement,openstack/monasca-kibana-plugin,Core,4.545454545454546,0.0,1,0
+openstack/charm-placement,openstack/monasca-kibana-plugin,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/charm-interface-keystone-domain-backend,Core,6.25,0.0,3,5
+openstack/charm-placement,openstack/charm-interface-keystone-domain-backend,Non core,12.5,27.77777777777778,3,5
+openstack/charm-placement,openstack/devstack-plugin-amqp1,Core,9.090909090909092,2.631578947368421,2,1
+openstack/charm-placement,openstack/devstack-plugin-amqp1,Non core,0.0,0.0,2,1
+openstack/charm-placement,openstack/devstack-plugin-kafka,Core,5.263157894736842,0.0,1,0
+openstack/charm-placement,openstack/devstack-plugin-kafka,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/tripleo-ipsec,Core,4.3478260869565215,2.7027027027027026,1,1
+openstack/charm-placement,openstack/tripleo-ipsec,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/monasca-grafana-datasource,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-interface-bind-rndc,Core,5.88235294117647,0.0,4,5
+openstack/charm-placement,openstack/charm-interface-bind-rndc,Non core,17.647058823529413,23.809523809523807,4,5
+openstack/charm-placement,openstack/charm-interface-rabbitmq,Core,6.25,0.0,4,8
+openstack/charm-placement,openstack/charm-interface-rabbitmq,Non core,18.75,42.10526315789473,4,8
+openstack/charm-placement,openstack/charm-interface-openstack-ha,Core,6.666666666666667,0.0,4,7
+openstack/charm-placement,openstack/charm-interface-openstack-ha,Non core,20.0,35.0,4,7
+openstack/charm-placement,openstack/charm-interface-gnocchi,Core,6.25,0.0,2,13
+openstack/charm-placement,openstack/charm-interface-gnocchi,Non core,6.25,65.0,2,13
+openstack/charm-placement,openstack/charm-interface-bgp,Core,13.333333333333334,0.0,5,7
+openstack/charm-placement,openstack/charm-interface-bgp,Non core,20.0,36.84210526315789,5,7
+openstack/charm-placement,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.0,1,3
+openstack/charm-placement,openstack/charm-interface-websso-fid-service-provider,Non core,7.142857142857142,15.789473684210526,1,3
+openstack/charm-placement,openstack/charm-interface-designate,Core,7.6923076923076925,0.0,3,5
+openstack/charm-placement,openstack/charm-interface-designate,Non core,15.384615384615385,27.77777777777778,3,5
+openstack/charm-placement,openstack/tempest-horizon,Core,3.125,2.564102564102564,1,1
+openstack/charm-placement,openstack/tempest-horizon,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/logstash-filters,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/logstash-filters,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/qinling-dashboard,Core,5.263157894736842,3.125,1,2
+openstack/charm-placement,openstack/qinling-dashboard,Non core,0.0,3.125,1,2
+openstack/charm-placement,openstack/python-qinlingclient,Core,5.0,2.380952380952381,3,2
+openstack/charm-placement,openstack/python-qinlingclient,Non core,2.5,2.380952380952381,3,2
+openstack/charm-placement,openstack/qinling,Core,3.7037037037037033,0.0,3,0
+openstack/charm-placement,openstack/qinling,Non core,1.8518518518518516,0.0,3,0
+openstack/charm-placement,openstack/monasca-analytics,Core,2.7777777777777777,1.7241379310344827,2,2
+openstack/charm-placement,openstack/monasca-analytics,Non core,2.7777777777777777,1.7241379310344827,2,2
+openstack/charm-placement,openstack/oslo-incubator,Core,0.35335689045936397,0.0,1,1
+openstack/charm-placement,openstack/oslo-incubator,Non core,0.0,0.2242152466367713,1,1
+openstack/charm-placement,openstack/puppet-congress,Core,2.4390243902439024,0.0,1,0
+openstack/charm-placement,openstack/puppet-congress,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-os_monasca-ui,Core,4.166666666666666,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/auto-scaling-sig,Core,0.0,3.0303030303030303,0,1
+openstack/charm-placement,openstack/auto-scaling-sig,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/os-loganalyze,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/os-loganalyze,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/devstack-plugin-pika,Core,6.25,3.571428571428571,1,1
+openstack/charm-placement,openstack/devstack-plugin-pika,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/devstack-plugin-zmq,Core,4.761904761904762,3.225806451612903,1,1
+openstack/charm-placement,openstack/devstack-plugin-zmq,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/networking-l2gw,Core,1.2987012987012987,0.5988023952095809,3,2
+openstack/charm-placement,openstack/networking-l2gw,Non core,2.5974025974025974,0.5988023952095809,3,2
+openstack/charm-placement,openstack/networking-l2gw-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/networking-l2gw-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-interface-ceph-mds,Core,5.88235294117647,0.0,3,5
+openstack/charm-placement,openstack/charm-interface-ceph-mds,Non core,11.76470588235294,26.31578947368421,3,5
+openstack/charm-placement,openstack/xstatic-angular-ui-router,Core,7.142857142857142,0.0,1,0
+openstack/charm-placement,openstack/xstatic-angular-ui-router,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/xstatic-vis,Core,6.666666666666667,0.0,1,0
+openstack/charm-placement,openstack/xstatic-vis,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-database,Core,5.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-database,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-data-processing,Core,5.88235294117647,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-data-processing,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/trove-integration,Core,1.2987012987012987,0.0,1,0
+openstack/charm-placement,openstack/trove-integration,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-sensu,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/python-ceilometerclient,Core,0.7936507936507936,0.0,1,0
+openstack/charm-placement,openstack/python-ceilometerclient,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/keystoneauth-saml2,Core,4.166666666666666,0.0,1,0
+openstack/charm-placement,openstack/keystoneauth-saml2,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/murano-deployment,Core,2.127659574468085,0.0,1,0
+openstack/charm-placement,openstack/murano-deployment,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/python-keystoneclient-kerberos,Core,4.166666666666666,0.0,1,0
+openstack/charm-placement,openstack/python-keystoneclient-kerberos,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/python-wsmanclient,Core,6.666666666666667,0.0,1,0
+openstack/charm-placement,openstack/python-wsmanclient,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-upgrade,Core,4.761904761904762,0.0,1,0
+openstack/charm-placement,openstack/fuel-upgrade,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-object-storage,Core,2.564102564102564,0.0,1,0
+openstack/charm-placement,openstack/cookbook-openstack-object-storage,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fairy-slipper,Core,5.263157894736842,0.0,1,0
+openstack/charm-placement,openstack/fairy-slipper,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/django-openstack-auth-kerberos,Core,5.88235294117647,0.0,1,0
+openstack/charm-placement,openstack/django-openstack-auth-kerberos,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/horizon-cisco-ui,Core,4.166666666666666,0.0,1,0
+openstack/charm-placement,openstack/horizon-cisco-ui,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/zuul-packaging,Core,7.142857142857142,0.0,1,0
+openstack/charm-placement,openstack/zuul-packaging,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/networking-generic-switch-tempest-plugin,Core,7.6923076923076925,0.0,1,0
+openstack/charm-placement,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/tripleo-incubator,Core,0.9259259259259258,0.0,1,0
+openstack/charm-placement,openstack/tripleo-incubator,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ironic-webclient,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ironic-webclient,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/puppet-crane,Core,7.6923076923076925,0.0,1,0
+openstack/charm-placement,openstack/puppet-crane,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/release-tools,Core,2.2222222222222223,0.0,1,0
+openstack/charm-placement,openstack/release-tools,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/gnocchi,Core,1.25,0.0,1,0
+openstack/charm-placement,openstack/gnocchi,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/networking-ofagent,Core,4.545454545454546,0.0,1,0
+openstack/charm-placement,openstack/networking-ofagent,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/python-neutron-pd-driver,Core,7.142857142857142,0.0,1,0
+openstack/charm-placement,openstack/python-neutron-pd-driver,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/charm-ceph,Core,4.3478260869565215,0.0,9,11
+openstack/charm-placement,openstack/charm-ceph,Non core,34.78260869565217,42.30769230769231,9,11
+openstack/charm-placement,openstack/openstack-ansible-os_freezer,Core,7.6923076923076925,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-pip_lock_down,Core,4.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-security,Core,2.0,0.0,1,0
+openstack/charm-placement,openstack/openstack-ansible-security,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/oslosphinx,Core,1.7241379310344827,1.1627906976744187,1,1
+openstack/charm-placement,openstack/oslosphinx,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/python-gnocchiclient,Core,2.380952380952381,0.0,1,0
+openstack/charm-placement,openstack/python-gnocchiclient,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-cinder,Core,7.142857142857142,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-cookiecutter,Core,7.142857142857142,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-glance,Core,6.666666666666667,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-keystone,Core,6.666666666666667,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-mariadb,Core,6.25,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-rabbitmq,Core,7.6923076923076925,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-tripleo,Core,6.666666666666667,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-ui,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-aodh,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-barbican,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-ceilometer,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-cinder,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-cookiecutter,Core,4.545454545454546,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/tripleo-ui,Core,2.1739130434782608,1.1627906976744187,1,1
+openstack/charm-placement,openstack/tripleo-ui,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/ansible-role-tripleo-ovn,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-opendaylight,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-octavia,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-nova,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-nova,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/os-cloud-config,Core,1.5873015873015872,0.0,1,0
+openstack/charm-placement,openstack/os-cloud-config,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-zaqar,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-tempest,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-sahara,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-swift,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-tacker,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-rabbitmq,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-qdrouterd,Core,7.6923076923076925,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-panko,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-heat,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-haproxy,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-gnocchi,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-glance,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-glance,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-designate,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-neutron,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-mistral,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-memcached,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-memcached,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-manila,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-manila,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-ironic,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-keepalived,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-horizon,Core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/pylockfile,Core,5.0,0.0,1,0
+openstack/charm-placement,openstack/pylockfile,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/dragonflow,Core,0.7352941176470588,0.4807692307692308,1,1
+openstack/charm-placement,openstack/dragonflow,Non core,0.0,0.0,1,1
+openstack/charm-placement,openstack/openstack,Core,0.0,2.941176470588235,0,1
+openstack/charm-placement,openstack/openstack,Non core,0.0,0.0,0,1
+openstack/charm-placement,openstack/charm-interface-pacemaker-remote,Core,7.142857142857142,0.0,3,5
+openstack/charm-placement,openstack/charm-interface-pacemaker-remote,Non core,14.285714285714285,23.809523809523807,3,5
+openstack/charm-placement,openstack/networking-onos,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/networking-onos,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/solum-infra-guestagent,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/solum-infra-guestagent,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ux,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ux,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/mox3,Core,2.7027027027027026,1.8518518518518516,2,1
+openstack/charm-placement,openstack/mox3,Non core,2.7027027027027026,0.0,2,1
+openstack/charm-placement,openstack/charm-layer-ceph,Core,7.6923076923076925,0.0,2,2
+openstack/charm-placement,openstack/charm-layer-ceph,Non core,7.6923076923076925,11.76470588235294,2,2
+openstack/charm-placement,openstack/charm-layer-ceph-base,Core,6.666666666666667,0.0,2,3
+openstack/charm-placement,openstack/charm-layer-ceph-base,Non core,6.666666666666667,15.0,2,3
+openstack/charm-placement,openstack/python-tricircleclient,Core,3.4482758620689653,2.1739130434782608,2,1
+openstack/charm-placement,openstack/python-tricircleclient,Non core,3.4482758620689653,0.0,2,1
+openstack/charm-placement,openstack/tricircle,Core,2.2222222222222223,0.6493506493506493,3,2
+openstack/charm-placement,openstack/tricircle,Non core,1.1111111111111112,0.6493506493506493,3,2
+openstack/charm-placement,openstack/swift-specs,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/swift-specs,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/congress,Core,0.6172839506172839,0.0,3,1
+openstack/charm-placement,openstack/congress,Non core,1.2345679012345678,0.4405286343612335,3,1
+openstack/charm-placement,openstack/congress-tempest-plugin,Core,3.225806451612903,0.0,1,0
+openstack/charm-placement,openstack/congress-tempest-plugin,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/python-congressclient,Core,1.6129032258064515,1.4492753623188406,2,1
+openstack/charm-placement,openstack/python-congressclient,Non core,1.6129032258064515,0.0,2,1
+openstack/charm-placement,openstack/congress-specs,Core,2.1739130434782608,0.0,1,0
+openstack/charm-placement,openstack/congress-specs,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/congress-dashboard,Core,2.7777777777777777,0.0,1,0
+openstack/charm-placement,openstack/congress-dashboard,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/syntribos,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/syntribos,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/syntribos-payloads,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/syntribos-payloads,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/syntribos-openstack-templates,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/syntribos-openstack-templates,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/i18n-specs,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/i18n-specs,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/tempest-plugin-cookiecutter,Core,6.25,0.0,1,0
+openstack/charm-placement,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/devstack-plugin-cookiecutter,Core,6.666666666666667,0.0,1,0
+openstack/charm-placement,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/xstatic-graphlib,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-graphlib,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-repo_build,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-repo_build,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-hogan,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_molteniron,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_molteniron,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/faafo,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/faafo,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/networking-calico,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/networking-calico,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/shotgun,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/shotgun,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-devops,Core,1.36986301369863,0.0,1,0
+openstack/charm-placement,openstack/fuel-devops,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-plugin-murano,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-plugin-murano,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-web,Core,0.45045045045045046,0.0,1,0
+openstack/charm-placement,openstack/fuel-web,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-plugins,Core,1.7543859649122806,0.0,1,0
+openstack/charm-placement,openstack/fuel-plugins,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-virtualbox,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-virtualbox,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-ostf,Core,0.9174311926605505,0.0,1,0
+openstack/charm-placement,openstack/fuel-ostf,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-qa,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-qa,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-specs,Core,0.8771929824561403,0.0,1,0
+openstack/charm-placement,openstack/fuel-specs,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-nailgun-extension-cluster-upgrade,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-nailgun-agent,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-nailgun-agent,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-mirror,Core,2.272727272727273,0.0,1,0
+openstack/charm-placement,openstack/fuel-mirror,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-menu,Core,2.1739130434782608,0.0,1,0
+openstack/charm-placement,openstack/fuel-menu,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-main,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-main,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-ui,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-ui,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-library,Core,0.47393364928909953,0.0,1,0
+openstack/charm-placement,openstack/fuel-library,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-dev-tools,Core,4.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-dev-tools,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-stats,Core,3.125,0.0,1,0
+openstack/charm-placement,openstack/fuel-stats,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-nailgun-extension-converted-serializers,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-nailgun-extension-iac,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-plugin-murano-tests,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-astute,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-astute,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-docs,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-docs,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-agent,Core,1.2345679012345678,0.0,1,0
+openstack/charm-placement,openstack/fuel-agent,Non core,0.0,0.0,1,0
+openstack/charm-placement,openstack/fuel-octane,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuel-octane,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/tuning-box,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/tuning-box,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-fuelclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-fuelclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/neutron-interconnection,Core,0.0,0.0,1,0
+openstack/charm-placement,openstack/neutron-interconnection,Non core,7.142857142857142,0.0,1,0
+openstack/charm-placement,openstack/openstack-chef-repo,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-chef-repo,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/os-acc,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/os-acc,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_zaqar,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_zaqar,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_watcher,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_watcher,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_searchlight,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_searchlight,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/tempest-tripleo-ui,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/docs-specs,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/docs-specs,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/release-schedule-generator,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/release-schedule-generator,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/opendev-website,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/opendev-website,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/castellan-ui,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/castellan-ui,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/compute-api,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/compute-api,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/charm-neutron-api-odl,Core,0.0,0.0,4,10
+openstack/charm-placement,openstack/charm-neutron-api-odl,Non core,21.052631578947366,52.63157894736842,4,10
+openstack/charm-placement,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,2
+openstack/charm-placement,openstack/charm-manila-glusterfs,Non core,0.0,11.76470588235294,0,2
+openstack/charm-placement,openstack/charm-murano,Core,0.0,0.0,1,3
+openstack/charm-placement,openstack/charm-murano,Non core,7.142857142857142,16.666666666666664,1,3
+openstack/charm-placement,openstack/charm-openvswitch-odl,Core,0.0,0.0,5,9
+openstack/charm-placement,openstack/charm-openvswitch-odl,Non core,27.77777777777778,50.0,5,9
+openstack/charm-placement,openstack/charm-interface-odl-controller-api,Core,0.0,0.0,1,3
+openstack/charm-placement,openstack/charm-interface-odl-controller-api,Non core,6.666666666666667,16.666666666666664,1,3
+openstack/charm-placement,openstack/charm-glusterfs,Core,0.0,0.0,0,7
+openstack/charm-placement,openstack/charm-glusterfs,Non core,0.0,36.84210526315789,0,7
+openstack/charm-placement,openstack/charm-trove,Core,0.0,0.0,3,5
+openstack/charm-placement,openstack/charm-trove,Non core,17.647058823529413,25.0,3,5
+openstack/charm-placement,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuxi,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuxi,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/bandit,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/bandit,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-d3,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/xstatic-d3,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/instack,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/instack,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/astara,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/astara,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/astara-appliance,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/astara-appliance,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/astara-horizon,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/astara-horizon,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/astara-neutron,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/astara-neutron,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/anchor,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/anchor,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuxi-golang,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuxi-golang,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuxi-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/fuxi-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/puppet-odsreg,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/puppet-odsreg,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/puppet-docker_registry,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/releasestatus,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/releasestatus,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/vinz-webclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/activity-board,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/activity-board,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/beaker-localhost,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/beaker-nodepool,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/rst2bash,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/rst2bash,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/kolla-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/kolla-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cue-dashboard,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cue-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-cueclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-cueclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cue,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/cue,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/app-catalog,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/app-catalog,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/identity-api,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/identity-api,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/app-catalog-ui,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/app-catalog-ui,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/app-catalog-common,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/app-catalog-common,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-appcatalogclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/python-appcatalogclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-openstack-pkg-tools,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-mistral,Core,0.0,0.0,1,0
+openstack/charm-placement,openstack/deb-mistral,Non core,5.555555555555555,0.0,1,0
+openstack/charm-placement,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/installguide-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/installguide-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-opencontrail,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-neutron,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-neutron,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-nova,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-nova,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-keystone,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-keystone,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-horizon,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-horizon,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-heat,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-heat,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-glance,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-glance,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-cinder,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-cinder,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-salt,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-salt,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-midonet,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/salt-formula-midonet,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/magnetodb-specs,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/magnetodb-specs,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/oslo.version,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/oslo.version,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/image-api,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/image-api,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/object-api,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/object-api,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/volume-api,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/volume-api,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/magnetodb,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/magnetodb,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-nose,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack/openstack-nose,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/netconn-api,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/netconn-api,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/database-api,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/database-api,Non core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/charm-placement,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

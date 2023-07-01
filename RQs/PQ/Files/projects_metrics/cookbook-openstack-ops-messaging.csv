@@ -1,0 +1,1343 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-common,Core,16.923076923076923,10.526315789473683,27,39
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-common,Non core,24.615384615384617,30.526315789473685,27,39
+openstack/cookbook-openstack-ops-messaging,openstack/self-healing-sig,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/self-healing-sig,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/security-specs,Core,2.272727272727273,1.4084507042253522,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/security-specs,Non core,0.0,1.4084507042253522,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_panko,Core,1.9230769230769231,0.0,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_panko,Non core,1.9230769230769231,3.79746835443038,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-nspawn_hosts,Core,1.9607843137254901,0.0,1,4
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-nspawn_hosts,Non core,0.0,5.47945205479452,1,4
+openstack/cookbook-openstack-ops-messaging,openstack/charm-layer-openstack-principle,Core,2.941176470588235,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-watcher-dashboard,Core,3.125,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-watcher-dashboard,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-watcher,Core,2.941176470588235,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-watcher,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-galera_client,Core,5.194805194805195,1.0526315789473684,7,5
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-galera_client,Non core,3.896103896103896,4.2105263157894735,7,5
+openstack/cookbook-openstack-ops-messaging,openstack/cloudkitty-specs,Core,2.2222222222222223,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/cloudkitty-specs,Non core,0.0,1.4084507042253522,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/osops,Core,2.941176470588235,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/osops,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-ironic,Core,2.941176470588235,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-ironic,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/multi-arch-sig,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/multi-arch-sig,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-nova-compute-proxy,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-nova-compute-proxy,Non core,0.0,1.8518518518518516,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-odl-controller,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-odl-controller,Non core,0.0,1.9230769230769231,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-nova-lxd,Core,2.0408163265306123,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-nova-lxd,Non core,0.0,1.5151515151515151,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-nova-cell,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-barbican-secrets,Core,2.857142857142857,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-barbican-secrets,Non core,0.0,2.0408163265306123,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-ceph-rbd-mirror,Core,2.941176470588235,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,2.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-placement,Core,3.225806451612903,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-placement,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-mysql-shared,Core,2.7027027027027026,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-mysql-shared,Non core,0.0,2.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-dashboard-plugin,Core,2.857142857142857,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-dashboard-plugin,Non core,0.0,2.0408163265306123,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-neutron-load-balancer,Core,2.857142857142857,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-neutron-load-balancer,Non core,0.0,2.0408163265306123,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-neutron-plugin-api-subordinate,Core,5.405405405405405,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,0.0,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-neutron-plugin,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-neutron-plugin,Non core,0.0,2.0408163265306123,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-json2yaml,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-json2yaml,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-jquery.tablesorter,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-magic-search,Core,2.7777777777777777,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-magic-search,Non core,0.0,3.571428571428571,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-jsencrypt,Core,2.941176470588235,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-jsencrypt,Non core,0.0,3.571428571428571,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-js-yaml,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-js-yaml,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-spin,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-spin,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-rickshaw,Core,2.857142857142857,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-rickshaw,Non core,0.0,3.7735849056603774,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/charm-panko,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-panko,Non core,0.0,1.8518518518518516,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-service-control,Core,2.7777777777777777,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-service-control,Non core,0.0,1.9607843137254901,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_almanach,Core,5.88235294117647,1.36986301369863,4,3
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_almanach,Non core,1.9607843137254901,2.73972602739726,4,3
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-pip_install,Core,4.054054054054054,0.9259259259259258,4,6
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-pip_install,Non core,1.3513513513513513,4.62962962962963,4,6
+openstack/cookbook-openstack-ops-messaging,openstack/python-karborclient,Core,2.5,0.0,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/python-karborclient,Non core,0.0,2.8846153846153846,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-keystone-admin,Core,3.0303030303030303,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-keystone-admin,Non core,0.0,2.127659574468085,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-nova-compute,Core,5.555555555555555,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-nova-compute,Non core,0.0,3.8461538461538463,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-manila-plugin,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-manila-plugin,Non core,0.0,2.0408163265306123,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/murano-apps,Core,3.79746835443038,0.0,3,1
+openstack/cookbook-openstack-ops-messaging,openstack/murano-apps,Non core,0.0,0.8849557522123894,3,1
+openstack/cookbook-openstack-ops-messaging,openstack/puppet-senlin,Core,2.272727272727273,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/puppet-senlin,Non core,0.0,1.6666666666666667,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-application-catalog,Core,9.67741935483871,9.30232558139535,4,8
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-application-catalog,Non core,3.225806451612903,9.30232558139535,4,8
+openstack/cookbook-openstack-ops-messaging,openstack/training-labs,Core,3.125,0.0,3,3
+openstack/cookbook-openstack-ops-messaging,openstack/training-labs,Non core,1.5625,3.5294117647058822,3,3
+openstack/cookbook-openstack-ops-messaging,openstack/karbor,Core,2.142857142857143,0.0,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/karbor,Non core,0.0,1.9704433497536946,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-open-cas,Core,3.225806451612903,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_congress,Core,1.8518518518518516,1.1904761904761905,1,3
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_congress,Non core,0.0,2.380952380952381,1,3
+openstack/cookbook-openstack-ops-messaging,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-keystone-notifications,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/os-collect-config,Core,3.75,0.0,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/os-collect-config,Non core,0.0,2.797202797202797,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/os-apply-config,Core,3.79746835443038,0.0,3,5
+openstack/cookbook-openstack-ops-messaging,openstack/os-apply-config,Non core,0.0,3.731343283582089,3,5
+openstack/cookbook-openstack-ops-messaging,openstack/puppet-freezer,Core,3.9215686274509802,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/puppet-freezer,Non core,1.9607843137254901,2.941176470588235,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/vitrage-specs,Core,3.125,0.0,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/vitrage-specs,Non core,1.5625,4.444444444444445,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/specs-cookiecutter,Core,5.555555555555555,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/specs-cookiecutter,Non core,0.0,1.7543859649122806,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/rpm-packaging-tools,Core,5.128205128205128,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/rpm-packaging-tools,Non core,0.0,1.4705882352941175,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-openstack-operations,Core,4.651162790697675,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-openstack-operations,Non core,0.0,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/os-refresh-config,Core,4.615384615384616,0.0,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/os-refresh-config,Non core,0.0,3.508771929824561,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/mistral-specs,Core,3.571428571428571,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/mistral-specs,Non core,0.0,1.2345679012345678,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/scientific-wg,Core,3.125,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/scientific-wg,Non core,0.0,2.083333333333333,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-keystone-fid-service-provider,Core,3.125,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/manila-test-image,Core,0.0,0.0,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/manila-test-image,Non core,0.0,3.508771929824561,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/governance-website,Core,0.0,0.0,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/governance-website,Non core,0.0,3.225806451612903,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/bugdaystats,Core,0.0,0.0,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/bugdaystats,Non core,0.0,3.508771929824561,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/upstream-institute-virtual-environment,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/karbor-dashboard,Core,3.076923076923077,0.0,2,4
+openstack/cookbook-openstack-ops-messaging,openstack/karbor-dashboard,Non core,0.0,4.081632653061225,2,4
+openstack/cookbook-openstack-ops-messaging,openstack/django_openstack_auth,Core,3.8834951456310676,0.0,4,3
+openstack/cookbook-openstack-ops-messaging,openstack/django_openstack_auth,Non core,0.0,1.4634146341463417,4,3
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-transform,Core,2.941176470588235,0.0,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-transform,Non core,0.0,3.260869565217391,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-ceilometer,Core,3.9473684210526314,0.0,3,3
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-ceilometer,Non core,0.0,2.631578947368421,3,3
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-log-api,Core,4.938271604938271,0.0,4,4
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-log-api,Non core,0.0,3.007518796992481,4,4
+openstack/cookbook-openstack-ops-messaging,openstack/nose-html-output,Core,5.555555555555555,1.8181818181818181,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/nose-html-output,Non core,0.0,3.6363636363636362,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/kolla-cli,Core,2.0408163265306123,0.0,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/kolla-cli,Non core,2.0408163265306123,3.8461538461538463,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/neutron-lbaas-dashboard,Core,2.73972602739726,0.0,4,7
+openstack/cookbook-openstack-ops-messaging,openstack/neutron-lbaas-dashboard,Non core,2.73972602739726,5.6000000000000005,4,7
+openstack/cookbook-openstack-ops-messaging,openstack/searchlight,Core,1.3793103448275863,0.0,2,4
+openstack/cookbook-openstack-ops-messaging,openstack/searchlight,Non core,0.0,2.2857142857142856,2,4
+openstack/cookbook-openstack-ops-messaging,openstack/searchlight-ui,Core,2.7777777777777777,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/searchlight-ui,Non core,1.3888888888888888,2.1505376344086025,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/searchlight-specs,Core,3.9215686274509802,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/searchlight-specs,Non core,0.0,2.5974025974025974,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/python-searchlightclient,Core,2.8169014084507045,0.0,3,5
+openstack/cookbook-openstack-ops-messaging,openstack/python-searchlightclient,Non core,1.4084507042253522,5.376344086021505,3,5
+openstack/cookbook-openstack-ops-messaging,openstack/charm-tempest,Core,2.0,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/charm-tempest,Non core,0.0,3.0303030303030303,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/charm-barbican-softhsm,Core,2.127659574468085,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/charm-barbican-softhsm,Non core,0.0,3.278688524590164,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-client,Core,9.67741935483871,8.88888888888889,6,13
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-client,Non core,9.67741935483871,20.0,6,13
+openstack/cookbook-openstack-ops-messaging,openstack/instack-undercloud,Core,1.550387596899225,0.0,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/instack-undercloud,Non core,0.0,1.2244897959183674,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/publiccloud-sig,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/publiccloud-sig,Non core,0.0,1.9230769230769231,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/ideas,Core,3.0303030303030303,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ideas,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/uc-recognition,Core,3.225806451612903,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/uc-recognition,Non core,0.0,1.9230769230769231,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/ops-tags-team,Core,5.405405405405405,0.0,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/ops-tags-team,Non core,0.0,4.10958904109589,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/enterprise-wg,Core,3.4482758620689653,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/enterprise-wg,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/governance-uc,Core,2.0,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/governance-uc,Non core,0.0,1.0309278350515463,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/workload-ref-archs,Core,2.4390243902439024,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/workload-ref-archs,Non core,0.0,3.508771929824561,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/arch-wg,Core,3.125,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/arch-wg,Non core,0.0,3.4482758620689653,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/project-navigator-data,Core,2.127659574468085,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/project-navigator-data,Non core,0.0,2.9850746268656714,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-specs,Core,4.25531914893617,0.45454545454545453,2,5
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-specs,Non core,0.0,1.8181818181818181,2,5
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_monasca,Core,8.333333333333332,1.0869565217391304,6,5
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_monasca,Non core,1.6666666666666667,4.3478260869565215,6,5
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_monasca-agent,Core,3.9215686274509802,0.0,3,5
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_monasca-agent,Non core,1.9607843137254901,6.756756756756757,3,5
+openstack/cookbook-openstack-ops-messaging,openstack/ironic-inspector-specs,Core,1.8867924528301887,0.0,1,3
+openstack/cookbook-openstack-ops-messaging,openstack/ironic-inspector-specs,Non core,0.0,3.4482758620689653,1,3
+openstack/cookbook-openstack-ops-messaging,openstack/sushy-cli,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/sushy-cli,Non core,0.0,1.8867924528301887,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/puppet-glare,Core,5.357142857142857,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/puppet-glare,Non core,0.0,2.8169014084507045,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-bootstrap-scss,Core,2.857142857142857,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-bootstrap-scss,Non core,0.0,3.571428571428571,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-planet,Core,2.4489795918367347,1.3605442176870748,7,4
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-planet,Non core,0.40816326530612246,1.3605442176870748,7,4
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-keystone-credentials,Core,2.631578947368421,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-keystone-credentials,Non core,0.0,1.9607843137254901,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-kibana-plugin,Core,5.263157894736842,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-kibana-plugin,Non core,0.0,1.6129032258064515,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-keystone-domain-backend,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-amqp1,Core,7.894736842105263,0.0,3,1
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-amqp1,Non core,0.0,1.5873015873015872,3,1
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-kafka,Core,0.0,0.0,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-kafka,Non core,0.0,3.4482758620689653,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/tripleo-ipsec,Core,0.0,0.0,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/tripleo-ipsec,Non core,0.0,3.278688524590164,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-grafana-datasource,Core,2.564102564102564,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-grafana-datasource,Non core,0.0,3.076923076923077,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-bind-rndc,Core,2.7027027027027026,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-bind-rndc,Non core,0.0,2.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-rabbitmq,Core,2.7777777777777777,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-rabbitmq,Non core,0.0,1.9607843137254901,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-openstack-ha,Core,2.857142857142857,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-openstack-ha,Non core,0.0,1.9607843137254901,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-gnocchi,Core,2.941176470588235,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-gnocchi,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-bgp,Core,2.7777777777777777,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-bgp,Non core,0.0,2.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-websso-fid-service-provider,Core,3.225806451612903,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-designate,Core,3.125,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-designate,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/tempest-horizon,Core,6.382978723404255,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/tempest-horizon,Non core,0.0,3.1746031746031744,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/logstash-filters,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/logstash-filters,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-jquery-migrate,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/qinling-dashboard,Core,2.7777777777777777,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/qinling-dashboard,Non core,0.0,1.7241379310344827,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-qinlingclient,Core,1.694915254237288,0.0,1,3
+openstack/cookbook-openstack-ops-messaging,openstack/python-qinlingclient,Non core,0.0,4.545454545454546,1,3
+openstack/cookbook-openstack-ops-messaging,openstack/qinling,Core,2.7777777777777777,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/qinling,Non core,0.0,2.564102564102564,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-analytics,Core,3.7735849056603774,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/monasca-analytics,Non core,0.0,2.4096385542168677,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/oslo-incubator,Core,1.3605442176870748,0.21505376344086022,7,7
+openstack/cookbook-openstack-ops-messaging,openstack/oslo-incubator,Non core,1.0204081632653061,1.2903225806451613,7,7
+openstack/cookbook-openstack-ops-messaging,openstack/puppet-congress,Core,5.357142857142857,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/puppet-congress,Non core,0.0,3.076923076923077,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_monasca-ui,Core,2.4390243902439024,1.694915254237288,1,3
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,3.389830508474576,1,3
+openstack/cookbook-openstack-ops-messaging,openstack/auto-scaling-sig,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/auto-scaling-sig,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/os-loganalyze,Core,3.571428571428571,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/os-loganalyze,Non core,0.0,2.1739130434782608,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-pika,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-pika,Non core,0.0,1.8867924528301887,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-zmq,Core,2.631578947368421,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-zmq,Non core,0.0,1.7857142857142856,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/networking-l2gw,Core,3.1914893617021276,0.5263157894736842,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/networking-l2gw,Non core,0.0,1.5789473684210527,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/networking-l2gw-tempest-plugin,Core,2.5,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/networking-l2gw-tempest-plugin,Non core,0.0,1.5384615384615385,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-ceph-mds,Core,2.7777777777777777,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-ceph-mds,Non core,0.0,2.083333333333333,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-ui-router,Core,3.225806451612903,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-ui-router,Non core,0.0,2.0408163265306123,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-vis,Core,3.125,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-vis,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-database,Core,9.375,10.638297872340425,6,19
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-database,Non core,9.375,29.78723404255319,6,19
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-data-processing,Core,9.67741935483871,10.869565217391305,4,14
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-data-processing,Non core,3.225806451612903,19.565217391304348,4,14
+openstack/cookbook-openstack-ops-messaging,openstack/trove-integration,Core,2.1505376344086025,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/trove-integration,Non core,0.0,0.6993006993006993,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-sensu,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/python-ceilometerclient,Core,2.127659574468085,0.4464285714285714,3,3
+openstack/cookbook-openstack-ops-messaging,openstack/python-ceilometerclient,Non core,0.0,0.8928571428571428,3,3
+openstack/cookbook-openstack-ops-messaging,openstack/keystoneauth-saml2,Core,5.0,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/keystoneauth-saml2,Non core,0.0,2.7027027027027026,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/murano-deployment,Core,4.918032786885246,0.0,4,2
+openstack/cookbook-openstack-ops-messaging,openstack/murano-deployment,Non core,1.639344262295082,2.5974025974025974,4,2
+openstack/cookbook-openstack-ops-messaging,openstack/python-keystoneclient-kerberos,Core,5.0,1.4084507042253522,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/python-keystoneclient-kerberos,Non core,0.0,2.8169014084507045,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/python-wsmanclient,Core,3.125,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-wsmanclient,Non core,0.0,2.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-upgrade,Core,5.405405405405405,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-upgrade,Non core,0.0,2.9850746268656714,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-object-storage,Core,16.666666666666664,14.545454545454545,21,30
+openstack/cookbook-openstack-ops-messaging,openstack/cookbook-openstack-object-storage,Non core,41.66666666666667,40.0,21,30
+openstack/cookbook-openstack-ops-messaging,openstack/fairy-slipper,Core,2.7777777777777777,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fairy-slipper,Non core,0.0,1.7241379310344827,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/django-openstack-auth-kerberos,Core,2.941176470588235,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/django-openstack-auth-kerberos,Non core,0.0,1.7241379310344827,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/horizon-cisco-ui,Core,5.0,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/horizon-cisco-ui,Non core,0.0,1.8181818181818181,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/zuul-packaging,Core,3.225806451612903,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/zuul-packaging,Non core,0.0,3.9215686274509802,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/networking-generic-switch-tempest-plugin,Core,3.3333333333333335,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/tripleo-incubator,Core,2.4390243902439024,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/tripleo-incubator,Non core,0.0,0.9852216748768473,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/ironic-webclient,Core,2.857142857142857,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/ironic-webclient,Non core,0.0,1.3888888888888888,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/puppet-crane,Core,3.3333333333333335,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/puppet-crane,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/release-tools,Core,3.278688524590164,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/release-tools,Non core,0.0,1.7699115044247788,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/gnocchi,Core,3.1578947368421053,0.5988023952095809,3,5
+openstack/cookbook-openstack-ops-messaging,openstack/gnocchi,Non core,0.0,2.3952095808383236,3,5
+openstack/cookbook-openstack-ops-messaging,openstack/networking-ofagent,Core,5.263157894736842,1.5384615384615385,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/networking-ofagent,Non core,0.0,3.076923076923077,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/python-neutron-pd-driver,Core,3.225806451612903,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-neutron-pd-driver,Non core,0.0,2.1739130434782608,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-ceph,Core,2.083333333333333,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-ceph,Non core,0.0,1.639344262295082,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_freezer,Core,3.3333333333333335,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-pip_lock_down,Core,5.0,1.8518518518518516,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-pip_lock_down,Non core,2.5,5.555555555555555,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-security,Core,4.6875,1.8691588785046727,4,5
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-security,Non core,1.5625,2.803738317757009,4,5
+openstack/cookbook-openstack-ops-messaging,openstack/oslosphinx,Core,4.166666666666666,1.8691588785046727,4,5
+openstack/cookbook-openstack-ops-messaging,openstack/oslosphinx,Non core,1.3888888888888888,2.803738317757009,4,5
+openstack/cookbook-openstack-ops-messaging,openstack/python-gnocchiclient,Core,1.694915254237288,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-gnocchiclient,Non core,0.0,1.3513513513513513,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-cinder,Core,3.225806451612903,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-cookiecutter,Core,6.666666666666667,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-glance,Core,6.451612903225806,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-keystone,Core,6.451612903225806,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-mariadb,Core,9.67741935483871,0.0,3,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,3,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-rabbitmq,Core,3.3333333333333335,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-tripleo,Core,6.451612903225806,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-ui,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-aodh,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-barbican,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-ceilometer,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-cinder,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-cookiecutter,Core,2.564102564102564,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,1.7857142857142856,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/tripleo-ui,Core,3.225806451612903,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/tripleo-ui,Non core,0.0,0.9009009009009009,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-ovn,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-opendaylight,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-octavia,Core,5.88235294117647,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.0,2,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-nova,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-nova,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/os-cloud-config,Core,3.8461538461538463,0.0,3,3
+openstack/cookbook-openstack-ops-messaging,openstack/os-cloud-config,Non core,0.0,2.2556390977443606,3,3
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-zaqar,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-tempest,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-sahara,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-swift,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-tacker,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-rabbitmq,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-qdrouterd,Core,3.3333333333333335,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-panko,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-heat,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-haproxy,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-gnocchi,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-glance,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-glance,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-designate,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-neutron,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-mistral,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-memcached,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-memcached,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-manila,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-manila,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-ironic,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-keepalived,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-horizon,Core,2.857142857142857,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/pylockfile,Core,2.7027027027027026,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/pylockfile,Non core,0.0,1.639344262295082,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/dragonflow,Core,3.3783783783783785,0.43668122270742354,6,5
+openstack/cookbook-openstack-ops-messaging,openstack/dragonflow,Non core,0.6756756756756757,1.7467248908296942,6,5
+openstack/cookbook-openstack-ops-messaging,openstack/openstack,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack,Non core,0.0,1.694915254237288,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-pacemaker-remote,Core,3.0303030303030303,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-pacemaker-remote,Non core,0.0,2.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/networking-onos,Core,0.0,0.0,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/networking-onos,Non core,0.0,2.2222222222222223,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/solum-infra-guestagent,Core,2.857142857142857,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/solum-infra-guestagent,Non core,0.0,1.8181818181818181,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ux,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ux,Non core,0.0,1.6666666666666667,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/mox3,Core,3.7037037037037033,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/mox3,Non core,0.0,2.564102564102564,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/charm-layer-ceph,Core,3.225806451612903,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-layer-ceph-base,Core,3.0303030303030303,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-layer-ceph-base,Non core,0.0,2.127659574468085,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-tricircleclient,Core,2.127659574468085,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-tricircleclient,Non core,0.0,1.4084507042253522,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/tricircle,Core,2.803738317757009,0.5681818181818182,3,5
+openstack/cookbook-openstack-ops-messaging,openstack/tricircle,Non core,0.0,2.272727272727273,3,5
+openstack/cookbook-openstack-ops-messaging,openstack/swift-specs,Core,3.9215686274509802,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/swift-specs,Non core,0.0,0.9433962264150944,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/congress,Core,2.824858757062147,0.0,5,5
+openstack/cookbook-openstack-ops-messaging,openstack/congress,Non core,0.0,2.0161290322580645,5,5
+openstack/cookbook-openstack-ops-messaging,openstack/congress-tempest-plugin,Core,4.25531914893617,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/congress-tempest-plugin,Non core,0.0,3.0303030303030303,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/python-congressclient,Core,3.896103896103896,0.0,4,2
+openstack/cookbook-openstack-ops-messaging,openstack/python-congressclient,Non core,1.2987012987012987,2.1505376344086025,4,2
+openstack/cookbook-openstack-ops-messaging,openstack/congress-specs,Core,6.666666666666667,0.0,4,2
+openstack/cookbook-openstack-ops-messaging,openstack/congress-specs,Non core,0.0,2.272727272727273,4,2
+openstack/cookbook-openstack-ops-messaging,openstack/congress-dashboard,Core,1.9230769230769231,0.0,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/congress-dashboard,Non core,1.9230769230769231,4.054054054054054,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/syntribos,Core,1.694915254237288,1.3157894736842104,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/syntribos,Non core,0.0,1.3157894736842104,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/syntribos-payloads,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/syntribos-payloads,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/syntribos-openstack-templates,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/syntribos-openstack-templates,Non core,0.0,2.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/i18n-specs,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/i18n-specs,Non core,0.0,2.0408163265306123,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/tempest-plugin-cookiecutter,Core,3.0303030303030303,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/tempest-plugin-cookiecutter,Non core,0.0,1.8518518518518516,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-cookiecutter,Core,10.0,0.0,3,1
+openstack/cookbook-openstack-ops-messaging,openstack/devstack-plugin-cookiecutter,Non core,0.0,2.127659574468085,3,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-graphlib,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-graphlib,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-repo_build,Core,3.614457831325301,0.8403361344537815,5,7
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-repo_build,Non core,2.4096385542168677,5.042016806722689,5,7
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-bootstrap-datepicker,Core,2.7777777777777777,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-bootstrap-datepicker,Non core,0.0,3.508771929824561,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-hogan,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-hogan,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-jquery.quicksearch,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_molteniron,Core,4.0,0.0,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_molteniron,Non core,2.0,5.797101449275362,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-lrdragndrop,Core,2.857142857142857,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-lrdragndrop,Non core,0.0,3.7037037037037033,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/faafo,Core,5.263157894736842,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/faafo,Non core,0.0,3.4482758620689653,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-bootstrap,Core,2.631578947368421,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-bootstrap,Non core,0.0,3.389830508474576,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/networking-calico,Core,3.278688524590164,0.0,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/networking-calico,Non core,0.0,3.0927835051546393,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-gettext,Core,2.857142857142857,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-gettext,Non core,0.0,3.7037037037037033,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/shotgun,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/shotgun,Non core,0.0,0.8695652173913043,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-aioeventlet,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-devops,Core,3.4090909090909087,0.0,3,3
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-devops,Non core,0.0,1.6666666666666667,3,3
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-plugin-murano,Core,2.4390243902439024,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-plugin-murano,Non core,0.0,1.4084507042253522,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-web,Core,1.2658227848101267,0.0,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-web,Non core,0.0,0.9345794392523363,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-plugins,Core,4.166666666666666,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-plugins,Non core,0.0,1.4184397163120568,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-virtualbox,Core,2.631578947368421,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-virtualbox,Non core,0.0,1.5873015873015872,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-ostf,Core,2.4193548387096775,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-ostf,Non core,0.0,0.7936507936507936,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-qa,Core,1.3245033112582782,0.0,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-qa,Non core,0.0,1.056338028169014,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-specs,Core,2.3255813953488373,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-specs,Non core,0.0,0.591715976331361,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-nailgun-extension-cluster-upgrade,Core,2.564102564102564,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,1.5873015873015872,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-nailgun-agent,Core,1.5151515151515151,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-nailgun-agent,Non core,0.0,1.4598540145985401,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-mirror,Core,3.3333333333333335,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-mirror,Non core,0.0,1.4084507042253522,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-menu,Core,1.5873015873015872,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-menu,Non core,0.0,0.6451612903225806,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-main,Core,1.2048192771084338,0.0,2,5
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-main,Non core,0.0,1.7543859649122806,2,5
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-ui,Core,1.4285714285714286,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-ui,Non core,0.0,0.7692307692307693,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-library,Core,1.3274336283185841,0.0,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-library,Non core,0.0,0.8385744234800839,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-dev-tools,Core,4.878048780487805,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-dev-tools,Non core,0.0,3.225806451612903,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-stats,Core,6.382978723404255,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-stats,Non core,0.0,2.272727272727273,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-nailgun-extension-converted-serializers,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-nailgun-extension-iac,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-nailgun-extension-iac,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-plugin-murano-tests,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-plugin-murano-tests,Non core,0.0,1.4084507042253522,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-astute,Core,2.1505376344086025,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-astute,Non core,0.0,1.0362694300518136,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-docs,Core,0.0,0.0,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-docs,Non core,0.0,0.5633802816901409,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-agent,Core,3.125,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-agent,Non core,0.0,1.0582010582010581,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-octane,Core,3.389830508474576,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/fuel-octane,Non core,0.0,2.083333333333333,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/tuning-box,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/tuning-box,Non core,0.0,1.4705882352941175,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-fuelclient,Core,2.0618556701030926,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/python-fuelclient,Non core,0.0,1.06951871657754,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/neutron-interconnection,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/neutron-interconnection,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-chef-repo,Core,13.461538461538462,13.636363636363635,19,31
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-chef-repo,Non core,23.076923076923077,33.33333333333333,19,31
+openstack/cookbook-openstack-ops-messaging,openstack/os-acc,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/os-acc,Non core,0.0,1.6666666666666667,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_zaqar,Core,4.838709677419355,1.1904761904761905,4,7
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_zaqar,Non core,1.6129032258064515,7.142857142857142,4,7
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_watcher,Core,5.263157894736842,1.2658227848101267,4,4
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_watcher,Non core,1.7543859649122806,3.79746835443038,4,4
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_searchlight,Core,4.0,1.4285714285714286,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_searchlight,Non core,2.0,4.285714285714286,3,4
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-font-awesome,Core,2.857142857142857,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-font-awesome,Non core,0.0,3.7037037037037033,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-jasmine,Core,2.564102564102564,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-jasmine,Non core,0.0,3.571428571428571,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/tempest-tripleo-ui,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/docs-specs,Core,2.666666666666667,0.823045267489712,2,6
+openstack/cookbook-openstack-ops-messaging,openstack/docs-specs,Non core,0.0,1.646090534979424,2,6
+openstack/cookbook-openstack-ops-messaging,openstack/release-schedule-generator,Core,3.125,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/release-schedule-generator,Non core,0.0,2.083333333333333,1,1
+openstack/cookbook-openstack-ops-messaging,openstack-infra/opendev-website,Core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack-infra/opendev-website,Non core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/castellan-ui,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/castellan-ui,Non core,0.0,1.6129032258064515,0,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/compute-api,Core,3.9215686274509802,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/compute-api,Non core,0.0,1.282051282051282,2,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-neutron-api-odl,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-neutron-api-odl,Non core,0.0,1.8867924528301887,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/charm-murano,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-murano,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-openvswitch-odl,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-openvswitch-odl,Non core,0.0,1.9607843137254901,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-odl-controller-api,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-interface-odl-controller-api,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-glusterfs,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-glusterfs,Non core,0.0,2.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-trove,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/charm-trove,Non core,0.0,2.0408163265306123,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-positional,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-requests-unixsocket,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-traceback2,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ryu,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-linecache2,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-gabbi,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-cotyledon,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-migrate,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuxi,Core,1.7857142857142856,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuxi,Non core,0.0,1.1363636363636365,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/bandit,Core,2.2988505747126435,0.9090909090909091,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/bandit,Non core,0.0,1.8181818181818181,2,3
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-angular-smart-table,Non core,0.0,2.0408163265306123,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-bootswatch,Core,3.0303030303030303,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-bootswatch,Non core,0.0,3.7037037037037033,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-msgpack-python,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-d3,Core,2.941176470588235,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/xstatic-d3,Non core,0.0,3.7037037037037033,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pymemcache,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-novnc,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/instack,Core,1.9607843137254901,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/instack,Non core,0.0,1.282051282051282,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pysaml2,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-trollius,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-autobahn,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pyldap,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/astara,Core,1.5384615384615385,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/astara,Non core,1.5384615384615385,2.2222222222222223,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/astara-appliance,Core,2.3255813953488373,0.0,1,3
+openstack/cookbook-openstack-ops-messaging,openstack/astara-appliance,Non core,0.0,4.6875,1,3
+openstack/cookbook-openstack-ops-messaging,openstack/astara-horizon,Core,2.7777777777777777,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/astara-horizon,Non core,0.0,3.4482758620689653,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/astara-neutron,Core,2.5,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/astara-neutron,Non core,0.0,3.389830508474576,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/anchor,Core,0.0,1.2048192771084338,0,3
+openstack/cookbook-openstack-ops-messaging,openstack/anchor,Non core,0.0,2.4096385542168677,0,3
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/fuxi-golang,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/fuxi-golang,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/fuxi-kubernetes,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/fuxi-kubernetes,Non core,0.0,1.9607843137254901,0,1
+openstack/cookbook-openstack-ops-messaging,openstack-infra/puppet-odsreg,Core,2.941176470588235,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack-infra/puppet-odsreg,Non core,0.0,3.6363636363636362,1,2
+openstack/cookbook-openstack-ops-messaging,openstack-infra/puppet-docker_registry,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/releasestatus,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/releasestatus,Non core,0.0,2.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack-infra/vinz-webclient,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/activity-board,Core,0.0,0.0,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/activity-board,Non core,0.0,2.247191011235955,0,2
+openstack/cookbook-openstack-ops-messaging,openstack-infra/beaker-localhost,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack-infra/beaker-nodepool,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/rst2bash,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/rst2bash,Non core,0.0,1.9230769230769231,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/kolla-kubernetes,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/kolla-kubernetes,Non core,0.0,0.6172839506172839,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/cue-dashboard,Core,0.0,0.0,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/cue-dashboard,Non core,0.0,3.8461538461538463,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/python-cueclient,Core,0.0,0.0,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/python-cueclient,Non core,0.0,3.8461538461538463,0,2
+openstack/cookbook-openstack-ops-messaging,openstack/cue,Core,1.6666666666666667,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/cue,Non core,0.0,2.631578947368421,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/app-catalog,Core,2.247191011235955,0.9615384615384616,2,4
+openstack/cookbook-openstack-ops-messaging,openstack/app-catalog,Non core,0.0,2.8846153846153846,2,4
+openstack/cookbook-openstack-ops-messaging,openstack-attic/identity-api,Core,2.898550724637681,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack-attic/identity-api,Non core,1.4492753623188406,1.6129032258064515,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-fixtures,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-magnetodbclient,Core,3.0303030303030303,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-magnetodbclient,Non core,0.0,1.9230769230769231,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/app-catalog-ui,Core,5.714285714285714,0.0,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/app-catalog-ui,Non core,2.857142857142857,3.4482758620689653,3,2
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-kubernetes,Non core,0.0,2.0408163265306123,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/app-catalog-common,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/app-catalog-common,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-appcatalogclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/python-appcatalogclient,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-nova,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-kazoo,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-congressclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-congress,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-net-config,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ironic,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-swauth,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-api-ref,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-designate,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-swift,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-manila-ui,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-barbican,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-cinder,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-magnum,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-trove,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-openstack-pkg-tools,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-openstack-pkg-tools,Non core,0.0,1.9230769230769231,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-swiftclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-alembic,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-cinderclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-nec,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-neutron-taas,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-mlnx,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-openstack-meta-packages,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-odl,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-nodepool,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-cisco,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-midonet,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-arista,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-hyperv,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-rtslib-fb,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-murano,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-semantic-version,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ldappool,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-zaqar-ui,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-zaqar,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-watcher,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-testr,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-win,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pycadf,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pyghmi,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-reno,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-refresh-config,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-vif,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pyeclib,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-quantumclient,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-requestsexceptions,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pbr,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-requests-mock,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-saharaclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-scciclient,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-seamicroclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-auto-backports,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-senlinclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-taskflow,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-testtools,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-tooz,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-shotgun,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-tackerclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-tosca-parser,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-troveclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-tuskarclient,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-watcherclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-wsme,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-bootswatch,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-angular-mock,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-d3,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-hogan,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-font-awesome,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jasmine,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-magic-search,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-mdi,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-objectpath,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-qunit,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-rickshaw,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-spin,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-tv4,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-yaql,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-zaqarclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-rally,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-sahara,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-sahara-dashboard,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-senlin,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-senlin-dashboard,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-stevedore,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-swift-bench,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-swift-plugin-s3,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-trove-dashboard,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-tempest,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-osprofiler,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.vmware,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.utils,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.rootwrap,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.service,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.privsep,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.versionedobjects,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslotest,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.serialization,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.reports,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.policy,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.middleware,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.messaging,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.log,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-aodhclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-automaton,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-barbicanclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-bashate,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-castellan,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ceilometerclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ceilometermiddleware,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-cliff,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-cursive,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-debtcollector,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-designateclient,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-dib-utils,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-diskimage-builder,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-doc8,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-openstack-auth,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-fuelclient,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-dogpile.cache,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-futurist,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-glanceclient,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-glance-store,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-hacking,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-heatclient,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ironicclient,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ironic-inspector-client,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ironic-lib,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-k8sclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-keystoneauth1,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-keystoneclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-keystonemiddleware,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-magnumclient,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-manilaclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-microversion-parse,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-mistralclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-monascaclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-mox3,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-muranoclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-neutronclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-neutron-lib,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-novaclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-openstackclient,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-openstackdocstheme,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-openstacksdk,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-apply-config,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-brick,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-osc-lib,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-client-config,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-collect-config,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.cache,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.db,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.concurrency,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.config,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.i18n,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oslo.context,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-openstack-nose,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-openstack-doc-tools,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-openstack-trove,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-oslosphinx,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-aodh,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-bandit,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ceilometer,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ceilometermiddleware,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-designate-dashboard,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-git-review,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-glance,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-glare,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-heat,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-heat-cfntools,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-horizon,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ironic-inspector,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-ironic-ui,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-keystone,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-liberasurecode,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-manila,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-mistral,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-mistral,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-murano-agent,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-murano-dashboard,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-l2gw,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-networking-ovn,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-neutron,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-neutron-fwaas,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-neutron-vpnaas,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-neutron-lbaas,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/installguide-cookiecutter,Core,2.564102564102564,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/installguide-cookiecutter,Non core,0.0,1.7857142857142856,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-gnocchi,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-eventlet,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pymysql,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-opencontrail,Non core,0.0,1.8518518518518516,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-neutron,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-neutron,Non core,0.0,1.7543859649122806,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-swift,Non core,0.0,2.127659574468085,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-nova,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-nova,Non core,0.0,1.7543859649122806,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-keystone,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-keystone,Non core,0.0,1.8181818181818181,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-horizon,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-horizon,Non core,0.0,1.9230769230769231,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-heat,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-heat,Non core,0.0,1.8867924528301887,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-glance,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-glance,Non core,0.0,1.8181818181818181,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-cinder,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-cinder,Non core,0.0,1.9230769230769231,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-ceilometer,Non core,0.0,1.8518518518518516,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pygit2,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-libisal,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xvfbwrapper,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-testresources,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-compressor,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-sqlalchemy-utils,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pykmip,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-coffin,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-txaio,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-hplefthandclient,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-overextends,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pytimeparse,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-nose-timer,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-retrying,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-discover-runner,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-lesscpy,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-happybase,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-extras,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-functools32,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pydot-ng,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-jsonschema,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-kafka,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-rcssmin,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-nose-parameterized,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pika-pool,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-rfc3986,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-httpretty,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pint,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-pyscss,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-falcon,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-subunit,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-formtools,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-nose-exclude,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pydotplus,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pager,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-proliantutils,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-gnocchiclient,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-babel,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-requests-kerberos,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-colander,Non core,0.0,2.2222222222222223,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-dcos,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-bootstrap-form,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-term.js,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-toml,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-semver,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-websocket-client,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-fasteners,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-jingo,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pecan,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-frozendict,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-wrapt,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-funcsigs,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-crank,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pyvmomi,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-wsgi-intercept,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-os-cloud-config,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-weakrefmethod,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-steadymark,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-warlock,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-couleur,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-json-patch,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-jsonrpclib,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-multi-key-dict,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-memcache,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pulp,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-fonts-roboto-fontface,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-websockify,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-daemonize,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-pyngus,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-editor,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-ddt,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-monotonic,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-rjsmin,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-jsonpath-rw,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-django-appconf,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-oauth2client,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-json-pointer,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/akanda,Core,3.0303030303030303,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack-attic/akanda,Non core,0.0,3.8461538461538463,1,2
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-smart-table,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-requestbuilder,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-nosehtmloutput,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-csscompressor,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-croniter,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-python-concurrent.futures,Non core,0.0,2.272727272727273,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-salt,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-salt,Non core,0.0,2.083333333333333,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/deb-spice-html5,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-midonet,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/salt-formula-midonet,Non core,0.0,2.3255813953488373,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/magnetodb-specs,Core,5.128205128205128,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack/magnetodb-specs,Non core,0.0,3.389830508474576,2,2
+openstack/cookbook-openstack-ops-messaging,openstack-attic/akanda-appliance-builder,Core,3.0303030303030303,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack-attic/akanda-appliance-builder,Non core,0.0,4.25531914893617,1,2
+openstack/cookbook-openstack-ops-messaging,openstack-attic/oslo.version,Core,2.7027027027027026,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/oslo.version,Non core,0.0,1.639344262295082,1,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/image-api,Core,5.263157894736842,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/image-api,Non core,0.0,1.639344262295082,2,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/object-api,Core,4.166666666666666,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/object-api,Non core,0.0,1.4084507042253522,2,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/volume-api,Core,2.3255813953488373,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/volume-api,Non core,0.0,1.5873015873015872,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/magnetodb,Core,1.9607843137254901,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/magnetodb,Non core,0.0,1.2658227848101267,1,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-nose,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack/openstack-nose,Non core,0.0,2.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/netconn-api,Core,3.6363636363636362,0.0,2,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/netconn-api,Non core,0.0,1.0869565217391304,2,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/python-melangeclient,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/python-melangeclient,Non core,0.0,2.1739130434782608,0,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/melange,Core,2.2222222222222223,0.0,1,2
+openstack/cookbook-openstack-ops-messaging,openstack-attic/melange,Non core,0.0,3.6363636363636362,1,2
+openstack/cookbook-openstack-ops-messaging,openstack-attic/openstack-qa,Core,3.225806451612903,0.0,2,2
+openstack/cookbook-openstack-ops-messaging,openstack-attic/openstack-qa,Non core,3.225806451612903,4.444444444444445,2,2
+openstack/cookbook-openstack-ops-messaging,openstack-attic/database-api,Core,2.5,0.0,1,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/database-api,Non core,0.0,1.694915254237288,1,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/cookbook-openstack-ops-messaging,openstack-attic/openstack-security-notes,Non core,0.0,0.8928571428571428,0,1

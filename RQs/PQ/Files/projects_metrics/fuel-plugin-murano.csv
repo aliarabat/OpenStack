@@ -1,0 +1,847 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/fuel-plugin-murano,openstack/fuel-web,Core,2.7906976744186047,3.2828282828282833,9,24
+openstack/fuel-plugin-murano,openstack/fuel-web,Non core,1.3953488372093024,2.7777777777777777,9,24
+openstack/fuel-plugin-murano,openstack/fuel-plugins,Core,3.571428571428571,5.932203389830509,3,13
+openstack/fuel-plugin-murano,openstack/fuel-plugins,Non core,1.7857142857142856,5.084745762711865,3,13
+openstack/fuel-plugin-murano,openstack/fuel-virtualbox,Core,9.523809523809524,4.166666666666666,2,4
+openstack/fuel-plugin-murano,openstack/fuel-virtualbox,Non core,0.0,4.166666666666666,2,4
+openstack/fuel-plugin-murano,openstack/fuel-ostf,Core,3.7383177570093453,5.3097345132743365,4,16
+openstack/fuel-plugin-murano,openstack/fuel-ostf,Non core,0.0,1.7699115044247788,4,16
+openstack/fuel-plugin-murano,openstack/fuel-qa,Core,2.2556390977443606,3.076923076923077,4,15
+openstack/fuel-plugin-murano,openstack/fuel-qa,Non core,0.7518796992481203,2.6923076923076925,4,15
+openstack/fuel-plugin-murano,openstack/fuel-specs,Core,4.545454545454546,4.2622950819672125,6,23
+openstack/fuel-plugin-murano,openstack/fuel-specs,Non core,0.9090909090909091,3.278688524590164,6,23
+openstack/fuel-plugin-murano,openstack/fuel-nailgun-extension-cluster-upgrade,Core,9.090909090909092,2.0,2,2
+openstack/fuel-plugin-murano,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,2.0,2,2
+openstack/fuel-plugin-murano,openstack/fuel-nailgun-agent,Core,2.0408163265306123,3.3333333333333335,2,7
+openstack/fuel-plugin-murano,openstack/fuel-nailgun-agent,Non core,2.0408163265306123,2.5,2,7
+openstack/fuel-plugin-murano,openstack/fuel-mirror,Core,2.272727272727273,5.833333333333333,2,12
+openstack/fuel-plugin-murano,openstack/fuel-mirror,Non core,2.272727272727273,4.166666666666666,2,12
+openstack/fuel-plugin-murano,openstack/fuel-menu,Core,2.127659574468085,2.941176470588235,1,8
+openstack/fuel-plugin-murano,openstack/fuel-menu,Non core,0.0,2.941176470588235,1,8
+openstack/fuel-plugin-murano,openstack/fuel-main,Core,3.4246575342465753,3.065134099616858,6,17
+openstack/fuel-plugin-murano,openstack/fuel-main,Non core,0.684931506849315,3.4482758620689653,6,17
+openstack/fuel-plugin-murano,openstack/fuel-ui,Core,5.88235294117647,3.669724770642202,4,10
+openstack/fuel-plugin-murano,openstack/fuel-ui,Non core,1.9607843137254901,5.5045871559633035,4,10
+openstack/fuel-plugin-murano,openstack/fuel-library,Core,2.912621359223301,2.9017857142857144,7,21
+openstack/fuel-plugin-murano,openstack/fuel-library,Non core,0.48543689320388345,1.7857142857142856,7,21
+openstack/fuel-plugin-murano,openstack/fuel-dev-tools,Core,3.8461538461538463,4.166666666666666,1,4
+openstack/fuel-plugin-murano,openstack/fuel-dev-tools,Non core,0.0,4.166666666666666,1,4
+openstack/fuel-plugin-murano,openstack/fuel-stats,Core,6.451612903225806,2.7027027027027026,3,4
+openstack/fuel-plugin-murano,openstack/fuel-stats,Non core,3.225806451612903,2.7027027027027026,3,4
+openstack/fuel-plugin-murano,openstack/fuel-nailgun-extension-converted-serializers,Core,6.666666666666667,3.0303030303030303,1,2
+openstack/fuel-plugin-murano,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,3.0303030303030303,1,2
+openstack/fuel-plugin-murano,openstack/fuel-nailgun-extension-iac,Core,5.88235294117647,2.941176470588235,1,3
+openstack/fuel-plugin-murano,openstack/fuel-nailgun-extension-iac,Non core,0.0,5.88235294117647,1,3
+openstack/fuel-plugin-murano,openstack/fuel-plugin-murano-tests,Core,14.285714285714285,20.0,4,15
+openstack/fuel-plugin-murano,openstack/fuel-plugin-murano-tests,Non core,4.761904761904762,13.333333333333334,4,15
+openstack/fuel-plugin-murano,openstack/fuel-astute,Core,4.0,3.488372093023256,4,11
+openstack/fuel-plugin-murano,openstack/fuel-astute,Non core,1.3333333333333335,2.9069767441860463,4,11
+openstack/fuel-plugin-murano,openstack/fuel-docs,Core,2.8846153846153846,3.6923076923076925,5,20
+openstack/fuel-plugin-murano,openstack/fuel-docs,Non core,1.9230769230769231,2.4615384615384617,5,20
+openstack/fuel-plugin-murano,openstack/fuel-agent,Core,3.79746835443038,2.3391812865497075,4,8
+openstack/fuel-plugin-murano,openstack/fuel-agent,Non core,1.2658227848101267,2.3391812865497075,4,8
+openstack/fuel-plugin-murano,openstack/fuel-octane,Core,4.651162790697675,1.2048192771084338,2,3
+openstack/fuel-plugin-murano,openstack/fuel-octane,Non core,0.0,2.4096385542168677,2,3
+openstack/fuel-plugin-murano,openstack/tuning-box,Core,5.555555555555555,1.8181818181818181,1,2
+openstack/fuel-plugin-murano,openstack/tuning-box,Non core,0.0,1.8181818181818181,1,2
+openstack/fuel-plugin-murano,openstack/python-fuelclient,Core,2.4691358024691357,4.216867469879518,2,11
+openstack/fuel-plugin-murano,openstack/python-fuelclient,Non core,0.0,2.4096385542168677,2,11
+openstack/fuel-plugin-murano,openstack/neutron-interconnection,Core,0.0,2.4390243902439024,0,1
+openstack/fuel-plugin-murano,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/openstack-chef-repo,Core,1.8518518518518516,1.2048192771084338,1,2
+openstack/fuel-plugin-murano,openstack/openstack-chef-repo,Non core,0.0,1.2048192771084338,1,2
+openstack/fuel-plugin-murano,openstack/os-acc,Core,0.0,2.083333333333333,0,1
+openstack/fuel-plugin-murano,openstack/os-acc,Non core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/openstack-ansible-os_zaqar,Core,4.166666666666666,1.2987012987012987,2,2
+openstack/fuel-plugin-murano,openstack/openstack-ansible-os_zaqar,Non core,0.0,1.2987012987012987,2,2
+openstack/fuel-plugin-murano,openstack/openstack-ansible-os_watcher,Core,4.651162790697675,1.4705882352941175,2,3
+openstack/fuel-plugin-murano,openstack/openstack-ansible-os_watcher,Non core,0.0,2.941176470588235,2,3
+openstack/fuel-plugin-murano,openstack/openstack-ansible-os_searchlight,Core,2.7777777777777777,0.0,1,1
+openstack/fuel-plugin-murano,openstack/openstack-ansible-os_searchlight,Non core,0.0,1.639344262295082,1,1
+openstack/fuel-plugin-murano,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/xstatic-font-awesome,Core,0.0,0.0,0,2
+openstack/fuel-plugin-murano,openstack/xstatic-font-awesome,Non core,0.0,4.761904761904762,0,2
+openstack/fuel-plugin-murano,openstack/xstatic-jasmine,Core,0.0,0.0,0,2
+openstack/fuel-plugin-murano,openstack/xstatic-jasmine,Non core,0.0,4.545454545454546,0,2
+openstack/fuel-plugin-murano,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/tempest-tripleo-ui,Core,0.0,4.878048780487805,0,2
+openstack/fuel-plugin-murano,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,2
+openstack/fuel-plugin-murano,openstack/docs-specs,Core,3.4482758620689653,0.43103448275862066,3,5
+openstack/fuel-plugin-murano,openstack/docs-specs,Non core,1.7241379310344827,1.7241379310344827,3,5
+openstack/fuel-plugin-murano,openstack/release-schedule-generator,Core,6.25,2.857142857142857,1,2
+openstack/fuel-plugin-murano,openstack/release-schedule-generator,Non core,0.0,2.857142857142857,1,2
+openstack/fuel-plugin-murano,openstack-infra/opendev-website,Core,7.142857142857142,2.7777777777777777,1,1
+openstack/fuel-plugin-murano,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/fuel-plugin-murano,openstack/castellan-ui,Core,5.555555555555555,2.0408163265306123,1,2
+openstack/fuel-plugin-murano,openstack/castellan-ui,Non core,0.0,2.0408163265306123,1,2
+openstack/fuel-plugin-murano,openstack-attic/compute-api,Core,2.7777777777777777,1.5384615384615385,1,2
+openstack/fuel-plugin-murano,openstack-attic/compute-api,Non core,0.0,1.5384615384615385,1,2
+openstack/fuel-plugin-murano,openstack/charm-neutron-api-odl,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/charm-neutron-api-odl,Non core,0.0,2.4390243902439024,0,1
+openstack/fuel-plugin-murano,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/charm-murano,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/charm-murano,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/charm-openvswitch-odl,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/charm-openvswitch-odl,Non core,0.0,2.564102564102564,0,1
+openstack/fuel-plugin-murano,openstack/charm-interface-odl-controller-api,Core,6.25,0.0,1,1
+openstack/fuel-plugin-murano,openstack/charm-interface-odl-controller-api,Non core,0.0,3.0303030303030303,1,1
+openstack/fuel-plugin-murano,openstack/charm-glusterfs,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/charm-glusterfs,Non core,0.0,2.631578947368421,0,1
+openstack/fuel-plugin-murano,openstack/charm-trove,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/charm-trove,Non core,0.0,2.7027027027027026,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-positional,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-requests-unixsocket,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-traceback2,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-ryu,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-linecache2,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-gabbi,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-cotyledon,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-migrate,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/fuxi,Core,5.128205128205128,2.73972602739726,2,4
+openstack/fuel-plugin-murano,openstack/fuxi,Non core,0.0,2.73972602739726,2,4
+openstack/fuel-plugin-murano,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/bandit,Core,2.8169014084507045,2.0618556701030926,2,4
+openstack/fuel-plugin-murano,openstack/bandit,Non core,0.0,2.0618556701030926,2,4
+openstack/fuel-plugin-murano,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/xstatic-angular-smart-table,Non core,0.0,2.7027027027027026,0,1
+openstack/fuel-plugin-murano,openstack/xstatic-bootswatch,Core,0.0,0.0,0,2
+openstack/fuel-plugin-murano,openstack/xstatic-bootswatch,Non core,0.0,4.761904761904762,0,2
+openstack/fuel-plugin-murano,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-msgpack-python,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/xstatic-d3,Core,0.0,0.0,0,2
+openstack/fuel-plugin-murano,openstack/xstatic-d3,Non core,0.0,4.761904761904762,0,2
+openstack/fuel-plugin-murano,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pymemcache,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-novnc,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/instack,Core,5.88235294117647,3.1746031746031744,2,4
+openstack/fuel-plugin-murano,openstack/instack,Non core,0.0,3.1746031746031744,2,4
+openstack/fuel-plugin-murano,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pysaml2,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-trollius,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-autobahn,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pyldap,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/astara,Core,2.0,1.2987012987012987,1,3
+openstack/fuel-plugin-murano,openstack/astara,Non core,0.0,2.5974025974025974,1,3
+openstack/fuel-plugin-murano,openstack/astara-appliance,Core,3.7037037037037033,0.0,1,2
+openstack/fuel-plugin-murano,openstack/astara-appliance,Non core,0.0,3.7735849056603774,1,2
+openstack/fuel-plugin-murano,openstack/astara-horizon,Core,5.0,0.0,1,2
+openstack/fuel-plugin-murano,openstack/astara-horizon,Non core,0.0,4.3478260869565215,1,2
+openstack/fuel-plugin-murano,openstack/astara-neutron,Core,4.166666666666666,0.0,1,2
+openstack/fuel-plugin-murano,openstack/astara-neutron,Non core,0.0,4.25531914893617,1,2
+openstack/fuel-plugin-murano,openstack/anchor,Core,0.0,1.4084507042253522,0,3
+openstack/fuel-plugin-murano,openstack/anchor,Non core,0.0,2.8169014084507045,0,3
+openstack/fuel-plugin-murano,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/fuxi-golang,Core,7.6923076923076925,2.941176470588235,1,1
+openstack/fuel-plugin-murano,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/fuel-plugin-murano,openstack/fuxi-kubernetes,Core,7.142857142857142,5.405405405405405,1,3
+openstack/fuel-plugin-murano,openstack/fuxi-kubernetes,Non core,0.0,2.7027027027027026,1,3
+openstack/fuel-plugin-murano,openstack-infra/puppet-odsreg,Core,5.555555555555555,2.380952380952381,1,3
+openstack/fuel-plugin-murano,openstack-infra/puppet-odsreg,Non core,0.0,4.761904761904762,1,3
+openstack/fuel-plugin-murano,openstack-infra/puppet-docker_registry,Core,7.6923076923076925,0.0,1,0
+openstack/fuel-plugin-murano,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/fuel-plugin-murano,openstack/releasestatus,Core,6.666666666666667,0.0,1,1
+openstack/fuel-plugin-murano,openstack/releasestatus,Non core,0.0,2.631578947368421,1,1
+openstack/fuel-plugin-murano,openstack-infra/vinz-webclient,Core,7.6923076923076925,0.0,1,0
+openstack/fuel-plugin-murano,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/fuel-plugin-murano,openstack/activity-board,Core,3.571428571428571,0.0,1,1
+openstack/fuel-plugin-murano,openstack/activity-board,Non core,0.0,1.282051282051282,1,1
+openstack/fuel-plugin-murano,openstack-infra/beaker-localhost,Core,7.6923076923076925,3.125,1,1
+openstack/fuel-plugin-murano,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/fuel-plugin-murano,openstack-infra/beaker-nodepool,Core,7.6923076923076925,3.125,1,1
+openstack/fuel-plugin-murano,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/fuel-plugin-murano,openstack/rst2bash,Core,6.25,2.564102564102564,1,2
+openstack/fuel-plugin-murano,openstack/rst2bash,Non core,0.0,2.564102564102564,1,2
+openstack/fuel-plugin-murano,openstack/kolla-kubernetes,Core,1.2987012987012987,0.6756756756756757,2,3
+openstack/fuel-plugin-murano,openstack/kolla-kubernetes,Non core,1.2987012987012987,1.3513513513513513,2,3
+openstack/fuel-plugin-murano,openstack/cue-dashboard,Core,4.3478260869565215,2.564102564102564,1,3
+openstack/fuel-plugin-murano,openstack/cue-dashboard,Non core,0.0,5.128205128205128,1,3
+openstack/fuel-plugin-murano,openstack/python-cueclient,Core,3.8461538461538463,2.564102564102564,1,3
+openstack/fuel-plugin-murano,openstack/python-cueclient,Non core,0.0,5.128205128205128,1,3
+openstack/fuel-plugin-murano,openstack/cue,Core,2.272727272727273,1.5873015873015872,1,3
+openstack/fuel-plugin-murano,openstack/cue,Non core,0.0,3.1746031746031744,1,3
+openstack/fuel-plugin-murano,openstack/app-catalog,Core,5.714285714285714,7.0588235294117645,5,11
+openstack/fuel-plugin-murano,openstack/app-catalog,Non core,1.4285714285714286,5.88235294117647,5,11
+openstack/fuel-plugin-murano,openstack-attic/identity-api,Core,1.8181818181818181,0.8928571428571428,1,2
+openstack/fuel-plugin-murano,openstack-attic/identity-api,Non core,0.0,0.8928571428571428,1,2
+openstack/fuel-plugin-murano,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-fixtures,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/python-magnetodbclient,Non core,0.0,2.5,0,1
+openstack/fuel-plugin-murano,openstack/app-catalog-ui,Core,15.789473684210526,15.0,3,8
+openstack/fuel-plugin-murano,openstack/app-catalog-ui,Non core,0.0,5.0,3,8
+openstack/fuel-plugin-murano,openstack/salt-formula-kubernetes,Core,5.555555555555555,0.0,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-kubernetes,Non core,0.0,2.7027027027027026,1,1
+openstack/fuel-plugin-murano,openstack/app-catalog-common,Core,0.0,3.125,0,2
+openstack/fuel-plugin-murano,openstack/app-catalog-common,Non core,0.0,3.125,0,2
+openstack/fuel-plugin-murano,openstack/python-appcatalogclient,Core,0.0,5.88235294117647,1,3
+openstack/fuel-plugin-murano,openstack/python-appcatalogclient,Non core,6.25,2.941176470588235,1,3
+openstack/fuel-plugin-murano,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-nova,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-kazoo,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-congressclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-congress,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-net-config,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-ironic,Non core,0.0,2.857142857142857,0,1
+openstack/fuel-plugin-murano,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-swauth,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-api-ref,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-designate,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-swift,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-manila-ui,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-barbican,Non core,0.0,2.857142857142857,0,1
+openstack/fuel-plugin-murano,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-cinder,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-magnum,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-trove,Non core,0.0,2.7777777777777777,0,1
+openstack/fuel-plugin-murano,openstack/deb-openstack-pkg-tools,Core,0.0,2.564102564102564,0,2
+openstack/fuel-plugin-murano,openstack/deb-openstack-pkg-tools,Non core,0.0,2.564102564102564,0,2
+openstack/fuel-plugin-murano,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-swiftclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-alembic,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-cinderclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-nec,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-neutron-taas,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-mlnx,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-openstack-meta-packages,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-odl,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-nodepool,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-cisco,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-midonet,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-arista,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-hyperv,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-rtslib-fb,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-murano,Non core,0.0,2.7777777777777777,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-semantic-version,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ldappool,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-zaqar-ui,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-zaqar,Non core,0.0,2.7777777777777777,0,1
+openstack/fuel-plugin-murano,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-watcher,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-testr,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-win,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pycadf,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pyghmi,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-reno,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-refresh-config,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-vif,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pyeclib,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-quantumclient,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-requestsexceptions,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pbr,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-requests-mock,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-saharaclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-scciclient,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-seamicroclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-auto-backports,Non core,0.0,2.857142857142857,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-senlinclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-taskflow,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-testtools,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-tooz,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-shotgun,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-tackerclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-tosca-parser,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-troveclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-tuskarclient,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-watcherclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-wsme,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-bootswatch,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-angular-mock,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-d3,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-hogan,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-font-awesome,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jasmine,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-magic-search,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-mdi,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-objectpath,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-qunit,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-rickshaw,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-spin,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-tv4,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-yaql,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-zaqarclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-rally,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-sahara,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-sahara-dashboard,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-senlin,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-senlin-dashboard,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-stevedore,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-swift-bench,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-swift-plugin-s3,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-trove-dashboard,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-tempest,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-osprofiler,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.vmware,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.utils,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.rootwrap,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.service,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.privsep,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.versionedobjects,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslotest,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.serialization,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.reports,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.policy,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.middleware,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.messaging,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.log,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-aodhclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-automaton,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-barbicanclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-bashate,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-castellan,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ceilometerclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ceilometermiddleware,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-cliff,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-cursive,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-debtcollector,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-designateclient,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-dib-utils,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-diskimage-builder,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-doc8,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-openstack-auth,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-fuelclient,Non core,0.0,2.7777777777777777,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-dogpile.cache,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-futurist,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-glanceclient,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-glance-store,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-hacking,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-heatclient,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ironicclient,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ironic-inspector-client,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ironic-lib,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-k8sclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-keystoneauth1,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-keystoneclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-keystonemiddleware,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-magnumclient,Non core,0.0,2.857142857142857,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-manilaclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-microversion-parse,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-mistralclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-monascaclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-mox3,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-muranoclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-neutronclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-neutron-lib,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-novaclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-openstackclient,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-openstackdocstheme,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-openstacksdk,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-apply-config,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-brick,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-osc-lib,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-client-config,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-collect-config,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.cache,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.db,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.concurrency,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.config,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.i18n,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oslo.context,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-openstack-nose,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-openstack-doc-tools,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-openstack-trove,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-oslosphinx,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-aodh,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-bandit,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-ceilometer,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-ceilometermiddleware,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-designate-dashboard,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-git-review,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-glance,Non core,0.0,2.7777777777777777,0,1
+openstack/fuel-plugin-murano,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-glare,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-heat,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-heat-cfntools,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-horizon,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-ironic-inspector,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-ironic-ui,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-keystone,Non core,0.0,2.857142857142857,0,1
+openstack/fuel-plugin-murano,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-liberasurecode,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-manila,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack/deb-mistral,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-mistral,Non core,0.0,2.7777777777777777,0,1
+openstack/fuel-plugin-murano,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-murano-agent,Non core,0.0,2.7777777777777777,0,1
+openstack/fuel-plugin-murano,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-murano-dashboard,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-l2gw,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-networking-ovn,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-neutron,Non core,0.0,2.857142857142857,0,1
+openstack/fuel-plugin-murano,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-neutron-fwaas,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-neutron-vpnaas,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-neutron-lbaas,Non core,0.0,2.7777777777777777,0,1
+openstack/fuel-plugin-murano,openstack/installguide-cookiecutter,Core,9.090909090909092,2.380952380952381,2,3
+openstack/fuel-plugin-murano,openstack/installguide-cookiecutter,Non core,0.0,4.761904761904762,2,3
+openstack/fuel-plugin-murano,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-gnocchi,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-eventlet,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pymysql,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/salt-formula-opencontrail,Core,3.4482758620689653,0.0,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-opencontrail,Non core,0.0,2.380952380952381,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-neutron,Core,3.571428571428571,2.272727272727273,1,2
+openstack/fuel-plugin-murano,openstack/salt-formula-neutron,Non core,0.0,2.272727272727273,1,2
+openstack/fuel-plugin-murano,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/salt-formula-swift,Non core,0.0,2.857142857142857,0,1
+openstack/fuel-plugin-murano,openstack/salt-formula-nova,Core,2.941176470588235,0.0,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-nova,Non core,0.0,2.2222222222222223,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-keystone,Core,3.225806451612903,0.0,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-keystone,Non core,0.0,2.3255813953488373,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-horizon,Core,3.8461538461538463,0.0,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-horizon,Non core,0.0,2.5,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-heat,Core,3.0303030303030303,0.0,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-heat,Non core,0.0,2.4390243902439024,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-glance,Core,3.125,0.0,1,2
+openstack/fuel-plugin-murano,openstack/salt-formula-glance,Non core,0.0,4.761904761904762,1,2
+openstack/fuel-plugin-murano,openstack/salt-formula-cinder,Core,3.225806451612903,0.0,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-cinder,Non core,0.0,2.5,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-ceilometer,Core,4.3478260869565215,0.0,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-ceilometer,Non core,0.0,2.380952380952381,1,1
+openstack/fuel-plugin-murano,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pygit2,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-libisal,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xvfbwrapper,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-testresources,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-compressor,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-sqlalchemy-utils,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pykmip,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-coffin,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-txaio,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-hplefthandclient,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-overextends,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pytimeparse,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-nose-timer,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-retrying,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-discover-runner,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-lesscpy,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-happybase,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-extras,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-functools32,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pydot-ng,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-jsonschema,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-kafka,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-rcssmin,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-nose-parameterized,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pika-pool,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-rfc3986,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-httpretty,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pint,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-pyscss,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-falcon,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-subunit,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-formtools,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-nose-exclude,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pydotplus,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pager,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-proliantutils,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-gnocchiclient,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-babel,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-requests-kerberos,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-colander,Non core,0.0,3.0303030303030303,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-dcos,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-bootstrap-form,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-term.js,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-toml,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-semver,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-websocket-client,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-fasteners,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-jingo,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pecan,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-frozendict,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/fuel-plugin-murano,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-wrapt,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-funcsigs,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-crank,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pyvmomi,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-wsgi-intercept,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-os-cloud-config,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-weakrefmethod,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-steadymark,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-warlock,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-couleur,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-json-patch,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-jsonrpclib,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-multi-key-dict,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-memcache,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pulp,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-fonts-roboto-fontface,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-websockify,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-daemonize,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-pyngus,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-editor,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-ddt,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-monotonic,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-rjsmin,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-jsonpath-rw,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-django-appconf,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-oauth2client,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-json-pointer,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack-attic/akanda,Core,0.0,0.0,0,2
+openstack/fuel-plugin-murano,openstack-attic/akanda,Non core,0.0,5.0,0,2
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-smart-table,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-requestbuilder,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-nosehtmloutput,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-csscompressor,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-croniter,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-python-concurrent.futures,Non core,0.0,3.125,0,1
+openstack/fuel-plugin-murano,openstack/openstack-salt,Core,5.88235294117647,0.0,1,2
+openstack/fuel-plugin-murano,openstack/openstack-salt,Non core,0.0,5.714285714285714,1,2
+openstack/fuel-plugin-murano,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/deb-spice-html5,Non core,0.0,3.225806451612903,0,1
+openstack/fuel-plugin-murano,openstack/salt-formula-midonet,Core,7.6923076923076925,0.0,1,1
+openstack/fuel-plugin-murano,openstack/salt-formula-midonet,Non core,0.0,3.225806451612903,1,1
+openstack/fuel-plugin-murano,openstack/magnetodb-specs,Core,4.166666666666666,0.0,1,2
+openstack/fuel-plugin-murano,openstack/magnetodb-specs,Non core,0.0,4.25531914893617,1,2
+openstack/fuel-plugin-murano,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack-attic/akanda-appliance-builder,Non core,0.0,2.7777777777777777,0,1
+openstack/fuel-plugin-murano,openstack-attic/oslo.version,Core,4.761904761904762,2.083333333333333,1,2
+openstack/fuel-plugin-murano,openstack-attic/oslo.version,Non core,0.0,2.083333333333333,1,2
+openstack/fuel-plugin-murano,openstack-attic/image-api,Core,4.3478260869565215,2.083333333333333,1,2
+openstack/fuel-plugin-murano,openstack-attic/image-api,Non core,0.0,2.083333333333333,1,2
+openstack/fuel-plugin-murano,openstack-attic/object-api,Core,3.0303030303030303,1.7241379310344827,1,2
+openstack/fuel-plugin-murano,openstack-attic/object-api,Non core,0.0,1.7241379310344827,1,2
+openstack/fuel-plugin-murano,openstack-attic/volume-api,Core,3.7037037037037033,2.0,1,2
+openstack/fuel-plugin-murano,openstack-attic/volume-api,Non core,0.0,2.0,1,2
+openstack/fuel-plugin-murano,openstack/magnetodb,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack/magnetodb,Non core,0.0,1.4925373134328357,0,1
+openstack/fuel-plugin-murano,openstack/openstack-nose,Core,0.0,2.7027027027027026,0,2
+openstack/fuel-plugin-murano,openstack/openstack-nose,Non core,0.0,2.7027027027027026,0,2
+openstack/fuel-plugin-murano,openstack-attic/netconn-api,Core,2.5,1.2658227848101267,1,2
+openstack/fuel-plugin-murano,openstack-attic/netconn-api,Non core,0.0,1.2658227848101267,1,2
+openstack/fuel-plugin-murano,openstack-attic/python-melangeclient,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack-attic/python-melangeclient,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack-attic/melange,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack-attic/melange,Non core,0.0,2.272727272727273,0,1
+openstack/fuel-plugin-murano,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack-attic/openstack-qa,Non core,0.0,2.941176470588235,0,1
+openstack/fuel-plugin-murano,openstack-attic/database-api,Core,4.166666666666666,2.1739130434782608,1,2
+openstack/fuel-plugin-murano,openstack-attic/database-api,Non core,0.0,2.1739130434782608,1,2
+openstack/fuel-plugin-murano,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/fuel-plugin-murano,openstack-attic/openstack-security-notes,Non core,0.0,1.0,0,1

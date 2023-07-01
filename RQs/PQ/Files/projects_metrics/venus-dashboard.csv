@@ -1,0 +1,1749 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/venus-dashboard,openstack/manila-ui,Core,1.2658227848101267,1.7391304347826086,1,4
+openstack/venus-dashboard,openstack/manila-ui,Non core,0.0,1.7391304347826086,1,4
+openstack/venus-dashboard,openstack/devstack-plugin-nfs,Core,0.0,2.857142857142857,0,1
+openstack/venus-dashboard,openstack/devstack-plugin-nfs,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/taskflow,Core,0.0,0.5780346820809248,1,2
+openstack/venus-dashboard,openstack/taskflow,Non core,0.9433962264150944,0.5780346820809248,1,2
+openstack/venus-dashboard,openstack/python-cyborgclient,Core,6.666666666666667,5.769230769230769,3,4
+openstack/venus-dashboard,openstack/python-cyborgclient,Non core,3.3333333333333335,1.9230769230769231,3,4
+openstack/venus-dashboard,openstack/zun,Core,0.0,1.0050251256281406,0,3
+openstack/venus-dashboard,openstack/zun,Non core,0.0,0.5025125628140703,0,3
+openstack/venus-dashboard,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-openstack-loadbalancer,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-python_venv_build,Core,3.125,0.0,1,0
+openstack/venus-dashboard,openstack/ansible-role-python_venv_build,Non core,0.0,0.0,1,0
+openstack/venus-dashboard,openstack/mistral-dashboard,Core,1.5625,1.1111111111111112,1,2
+openstack/venus-dashboard,openstack/mistral-dashboard,Non core,0.0,1.1111111111111112,1,2
+openstack/venus-dashboard,openstack/mistral-lib,Core,2.272727272727273,1.5625,1,2
+openstack/venus-dashboard,openstack/mistral-lib,Non core,0.0,1.5625,1,2
+openstack/venus-dashboard,openstack/monasca-events-api,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/monasca-events-api,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/python-zaqarclient,Core,0.0,0.7936507936507936,0,2
+openstack/venus-dashboard,openstack/python-zaqarclient,Non core,0.0,0.7936507936507936,0,2
+openstack/venus-dashboard,openstack/monasca-api,Core,0.0,0.49504950495049505,0,1
+openstack/venus-dashboard,openstack/monasca-api,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/monasca-persister,Core,0.0,0.8403361344537815,0,2
+openstack/venus-dashboard,openstack/monasca-persister,Non core,0.0,0.8403361344537815,0,2
+openstack/venus-dashboard,openstack/monasca-notification,Core,0.0,0.9259259259259258,0,3
+openstack/venus-dashboard,openstack/monasca-notification,Non core,0.0,1.8518518518518516,0,3
+openstack/venus-dashboard,openstack/python-saharaclient,Core,1.0309278350515463,1.5151515151515151,1,3
+openstack/venus-dashboard,openstack/python-saharaclient,Non core,0.0,0.7575757575757576,1,3
+openstack/venus-dashboard,openstack/charm-magpie,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-magpie,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_placement,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_placement,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstackdocstheme,Core,0.0,0.8547008547008548,0,1
+openstack/venus-dashboard,openstack/openstackdocstheme,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/sahara,Core,0.7352941176470588,1.639344262295082,2,8
+openstack/venus-dashboard,openstack/sahara,Non core,0.0,0.546448087431694,2,8
+openstack/venus-dashboard,openstack/ironic-ui,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ironic-ui,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/oslo.serialization,Core,1.4084507042253522,0.9523809523809524,1,2
+openstack/venus-dashboard,openstack/oslo.serialization,Non core,0.0,0.9523809523809524,1,2
+openstack/venus-dashboard,openstack/oslo.context,Core,1.6666666666666667,0.9345794392523363,2,3
+openstack/venus-dashboard,openstack/oslo.context,Non core,1.6666666666666667,1.8691588785046727,2,3
+openstack/venus-dashboard,openstack/oslo.limit,Core,0.0,1.8518518518518516,0,3
+openstack/venus-dashboard,openstack/oslo.limit,Non core,0.0,3.7037037037037033,0,3
+openstack/venus-dashboard,openstack/oslo.middleware,Core,0.0,0.7633587786259541,0,2
+openstack/venus-dashboard,openstack/oslo.middleware,Non core,0.0,0.7633587786259541,0,2
+openstack/venus-dashboard,openstack/oslo.reports,Core,0.0,1.1363636363636365,1,2
+openstack/venus-dashboard,openstack/oslo.reports,Non core,2.083333333333333,1.1363636363636365,1,2
+openstack/venus-dashboard,openstack/futurist,Core,0.0,2.898550724637681,0,3
+openstack/venus-dashboard,openstack/futurist,Non core,0.0,1.4492753623188406,0,3
+openstack/venus-dashboard,openstack/oslo.i18n,Core,1.5384615384615385,0.9259259259259258,1,3
+openstack/venus-dashboard,openstack/oslo.i18n,Non core,0.0,1.8518518518518516,1,3
+openstack/venus-dashboard,openstack/sushy-oem-idrac,Core,0.0,3.0303030303030303,0,1
+openstack/venus-dashboard,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-dracclient,Core,0.0,1.2987012987012987,0,1
+openstack/venus-dashboard,openstack/python-dracclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_masakari,Core,0.0,1.6666666666666667,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_masakari,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-systemd_mount,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-systemd_mount,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/python-senlinclient,Core,0.0,0.8849557522123894,0,3
+openstack/venus-dashboard,openstack/python-senlinclient,Non core,0.0,1.7699115044247788,0,3
+openstack/venus-dashboard,openstack/senlin-dashboard,Core,0.0,2.0408163265306123,0,3
+openstack/venus-dashboard,openstack/senlin-dashboard,Non core,0.0,1.0204081632653061,0,3
+openstack/venus-dashboard,openstack/networking-generic-switch,Core,0.0,1.1494252873563218,0,2
+openstack/venus-dashboard,openstack/networking-generic-switch,Non core,0.0,1.1494252873563218,0,2
+openstack/venus-dashboard,openstack/sahara-image-elements,Core,0.0,1.0752688172043012,0,2
+openstack/venus-dashboard,openstack/sahara-image-elements,Non core,0.0,1.0752688172043012,0,2
+openstack/venus-dashboard,openstack/ansible-role-thales-hsm,Core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-thales-hsm,Non core,0.0,4.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-atos-hsm,Core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-atos-hsm,Non core,0.0,4.3478260869565215,0,1
+openstack/venus-dashboard,openstack/adjutant-ui,Core,0.0,3.7037037037037033,0,2
+openstack/venus-dashboard,openstack/adjutant-ui,Non core,0.0,3.7037037037037033,0,2
+openstack/venus-dashboard,openstack/sahara-extra,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/sahara-extra,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/blazar-nova,Core,0.0,3.076923076923077,0,3
+openstack/venus-dashboard,openstack/blazar-nova,Non core,0.0,1.5384615384615385,0,3
+openstack/venus-dashboard,openstack/oslo.service,Core,0.0,1.342281879194631,0,4
+openstack/venus-dashboard,openstack/oslo.service,Non core,0.0,1.342281879194631,0,4
+openstack/venus-dashboard,openstack/blazar-dashboard,Core,0.0,1.639344262295082,0,2
+openstack/venus-dashboard,openstack/blazar-dashboard,Non core,0.0,1.639344262295082,0,2
+openstack/venus-dashboard,openstack/paunch,Core,0.0,1.694915254237288,0,2
+openstack/venus-dashboard,openstack/paunch,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/service-types-authority,Core,3.8461538461538463,1.3157894736842104,1,1
+openstack/venus-dashboard,openstack/service-types-authority,Non core,0.0,0.0,1,1
+openstack/venus-dashboard,openstack/python-ironic-inspector-client,Core,0.0,1.098901098901099,0,3
+openstack/venus-dashboard,openstack/python-ironic-inspector-client,Non core,0.0,2.197802197802198,0,3
+openstack/venus-dashboard,openstack/openstack-ansible-memcached_server,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-memcached_server,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/os-testr,Core,0.0,2.1505376344086025,1,2
+openstack/venus-dashboard,openstack/os-testr,Non core,1.8518518518518516,0.0,1,2
+openstack/venus-dashboard,openstack/openstack-ansible-ceph_client,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-ceph_client,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_magnum,Core,0.0,1.1111111111111112,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_magnum,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_blazar,Core,0.0,3.8461538461538463,0,2
+openstack/venus-dashboard,openstack/openstack-ansible-os_blazar,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/openstack-ansible-os_designate,Core,0.0,1.0309278350515463,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_designate,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_gnocchi,Core,0.0,1.2345679012345678,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_gnocchi,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_senlin,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ptgbot,Core,0.0,5.405405405405405,0,2
+openstack/venus-dashboard,openstack/ptgbot,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/openstack-ansible-os_zun,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_zun,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-repo_server,Core,0.0,2.3255813953488373,0,2
+openstack/venus-dashboard,openstack/openstack-ansible-repo_server,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/python-watcherclient,Core,1.1235955056179776,2.197802197802198,1,2
+openstack/venus-dashboard,openstack/python-watcherclient,Non core,0.0,0.0,1,2
+openstack/venus-dashboard,openstack/heat-agents,Core,0.0,1.0526315789473684,0,3
+openstack/venus-dashboard,openstack/heat-agents,Non core,0.0,2.1052631578947367,0,3
+openstack/venus-dashboard,openstack/oslo.rootwrap,Core,1.282051282051282,0.7874015748031495,1,2
+openstack/venus-dashboard,openstack/oslo.rootwrap,Non core,0.0,0.7874015748031495,1,2
+openstack/venus-dashboard,openstack/automaton,Core,0.0,1.8867924528301887,0,2
+openstack/venus-dashboard,openstack/automaton,Non core,0.0,1.8867924528301887,0,2
+openstack/venus-dashboard,openstack/debtcollector,Core,0.0,1.8867924528301887,0,1
+openstack/venus-dashboard,openstack/debtcollector,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/vitrage-dashboard,Core,1.3888888888888888,2.564102564102564,1,2
+openstack/venus-dashboard,openstack/vitrage-dashboard,Non core,0.0,0.0,1,2
+openstack/venus-dashboard,openstack/oslotest,Core,1.5151515151515151,1.0101010101010102,1,1
+openstack/venus-dashboard,openstack/oslotest,Non core,0.0,0.0,1,1
+openstack/venus-dashboard,openstack/kayobe-config,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/kayobe-config,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/compute-hyperv,Core,0.0,2.0,0,2
+openstack/venus-dashboard,openstack/compute-hyperv,Non core,0.0,2.0,0,2
+openstack/venus-dashboard,openstack/python-cloudkittyclient,Core,1.5151515151515151,2.564102564102564,2,4
+openstack/venus-dashboard,openstack/python-cloudkittyclient,Non core,1.5151515151515151,2.564102564102564,2,4
+openstack/venus-dashboard,openstack/charm-interface-keystone,Core,0.0,3.7037037037037033,0,1
+openstack/venus-dashboard,openstack/charm-interface-keystone,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cloudkitty-dashboard,Core,0.0,2.3529411764705883,0,3
+openstack/venus-dashboard,openstack/cloudkitty-dashboard,Non core,0.0,1.1764705882352942,0,3
+openstack/venus-dashboard,openstack/networking-hyperv,Core,0.0,1.639344262295082,1,2
+openstack/venus-dashboard,openstack/networking-hyperv,Non core,1.7241379310344827,1.639344262295082,1,2
+openstack/venus-dashboard,openstack/i18n,Core,0.0,1.25,0,2
+openstack/venus-dashboard,openstack/i18n,Non core,0.0,1.25,0,2
+openstack/venus-dashboard,openstack/sahara-tests,Core,0.0,1.3157894736842104,0,2
+openstack/venus-dashboard,openstack/sahara-tests,Non core,0.0,1.3157894736842104,0,2
+openstack/venus-dashboard,openstack/python-zunclient,Core,0.0,0.8849557522123894,0,2
+openstack/venus-dashboard,openstack/python-zunclient,Non core,0.0,0.8849557522123894,0,2
+openstack/venus-dashboard,openstack/sahara-plugin-cdh,Core,5.555555555555555,6.896551724137931,1,4
+openstack/venus-dashboard,openstack/sahara-plugin-cdh,Non core,0.0,6.896551724137931,1,4
+openstack/venus-dashboard,openstack/monasca-ui,Core,1.2195121951219512,0.0,1,1
+openstack/venus-dashboard,openstack/monasca-ui,Non core,0.0,0.7092198581560284,1,1
+openstack/venus-dashboard,openstack/python-adjutantclient,Core,5.88235294117647,9.523809523809524,1,3
+openstack/venus-dashboard,openstack/python-adjutantclient,Non core,0.0,4.761904761904762,1,3
+openstack/venus-dashboard,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-lunasa-hsm,Core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-lunasa-hsm,Non core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/monasca-thresh,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/monasca-thresh,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/heat-specs,Core,1.3157894736842104,0.5154639175257731,1,1
+openstack/venus-dashboard,openstack/heat-specs,Non core,0.0,0.0,1,1
+openstack/venus-dashboard,openstack/watcher-dashboard,Core,0.0,1.3157894736842104,0,2
+openstack/venus-dashboard,openstack/watcher-dashboard,Non core,0.0,1.3157894736842104,0,2
+openstack/venus-dashboard,openstack/sahara-plugin-ambari,Core,0.0,9.090909090909092,0,4
+openstack/venus-dashboard,openstack/sahara-plugin-ambari,Non core,0.0,9.090909090909092,0,4
+openstack/venus-dashboard,openstack/sahara-plugin-mapr,Core,0.0,7.4074074074074066,0,4
+openstack/venus-dashboard,openstack/sahara-plugin-mapr,Non core,0.0,7.4074074074074066,0,4
+openstack/venus-dashboard,openstack/sahara-plugin-spark,Core,0.0,11.11111111111111,0,3
+openstack/venus-dashboard,openstack/sahara-plugin-spark,Non core,0.0,5.555555555555555,0,3
+openstack/venus-dashboard,openstack/sahara-plugin-storm,Core,0.0,10.526315789473683,0,3
+openstack/venus-dashboard,openstack/sahara-plugin-storm,Non core,0.0,5.263157894736842,0,3
+openstack/venus-dashboard,openstack/sahara-plugin-vanilla,Core,0.0,9.523809523809524,0,3
+openstack/venus-dashboard,openstack/sahara-plugin-vanilla,Non core,0.0,4.761904761904762,0,3
+openstack/venus-dashboard,openstack/sahara-specs,Core,1.7857142857142856,0.0,1,0
+openstack/venus-dashboard,openstack/sahara-specs,Non core,0.0,0.0,1,0
+openstack/venus-dashboard,openstack/venus-tempest-plugin,Core,20.0,70.0,3,7
+openstack/venus-dashboard,openstack/venus-tempest-plugin,Non core,10.0,0.0,3,7
+openstack/venus-dashboard,openstack/venus-specs,Core,50.0,70.0,4,7
+openstack/venus-dashboard,openstack/venus-specs,Non core,16.666666666666664,0.0,4,7
+openstack/venus-dashboard,openstack/ceilometermiddleware,Core,0.0,1.2048192771084338,1,2
+openstack/venus-dashboard,openstack/ceilometermiddleware,Non core,2.2222222222222223,1.2048192771084338,1,2
+openstack/venus-dashboard,openstack/trove-tempest-plugin,Core,0.0,2.5,0,1
+openstack/venus-dashboard,openstack/trove-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/arch-design,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/arch-design,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/monasca-common,Core,0.0,2.586206896551724,0,3
+openstack/venus-dashboard,openstack/monasca-common,Non core,0.0,0.0,0,3
+openstack/venus-dashboard,openstack/monasca-statsd,Core,2.2222222222222223,3.076923076923077,1,3
+openstack/venus-dashboard,openstack/monasca-statsd,Non core,0.0,1.5384615384615385,1,3
+openstack/venus-dashboard,openstack/python-monascaclient,Core,0.0,0.7936507936507936,0,3
+openstack/venus-dashboard,openstack/python-monascaclient,Non core,0.0,1.5873015873015872,0,3
+openstack/venus-dashboard,openstack/renderspec,Core,0.0,2.631578947368421,0,1
+openstack/venus-dashboard,openstack/renderspec,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/os-service-types,Core,3.7037037037037033,0.0,1,0
+openstack/venus-dashboard,openstack/os-service-types,Non core,0.0,0.0,1,0
+openstack/venus-dashboard,openstack/masakari-dashboard,Core,0.0,3.571428571428571,0,3
+openstack/venus-dashboard,openstack/masakari-dashboard,Non core,0.0,1.7857142857142856,0,3
+openstack/venus-dashboard,openstack/freezer-dr,Core,0.0,2.127659574468085,0,2
+openstack/venus-dashboard,openstack/freezer-dr,Non core,0.0,2.127659574468085,0,2
+openstack/venus-dashboard,openstack/tempest-stress,Core,0.0,3.7037037037037033,0,1
+openstack/venus-dashboard,openstack/tempest-stress,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-neutron-api-genericswitch,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/charm-neutron-api-genericswitch,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-neutron-dynamic-routing,Core,0.0,3.571428571428571,0,1
+openstack/venus-dashboard,openstack/charm-neutron-dynamic-routing,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-ceph-client,Core,0.0,4.761904761904762,0,1
+openstack/venus-dashboard,openstack/charm-interface-ceph-client,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-percona-cluster,Core,0.0,1.6666666666666667,0,1
+openstack/venus-dashboard,openstack/charm-percona-cluster,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-deployment-guide,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-deployment-guide,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/oslo.metrics,Core,7.6923076923076925,0.0,1,2
+openstack/venus-dashboard,openstack/oslo.metrics,Non core,0.0,8.333333333333332,1,2
+openstack/venus-dashboard,openstack/oslo.vmware,Core,0.0,1.3333333333333335,1,4
+openstack/venus-dashboard,openstack/oslo.vmware,Non core,1.1764705882352942,1.3333333333333335,1,4
+openstack/venus-dashboard,openstack/oslo.upgradecheck,Core,0.0,2.7027027027027026,0,2
+openstack/venus-dashboard,openstack/oslo.upgradecheck,Non core,0.0,2.7027027027027026,0,2
+openstack/venus-dashboard,openstack/python-masakariclient,Core,4.3478260869565215,1.639344262295082,2,2
+openstack/venus-dashboard,openstack/python-masakariclient,Non core,0.0,1.639344262295082,2,2
+openstack/venus-dashboard,openstack/python-vitrageclient,Core,0.0,2.0408163265306123,0,1
+openstack/venus-dashboard,openstack/python-vitrageclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-blazarclient,Core,0.0,1.1764705882352942,1,3
+openstack/venus-dashboard,openstack/python-blazarclient,Non core,1.7241379310344827,2.3529411764705883,1,3
+openstack/venus-dashboard,openstack/zaqar-tempest-plugin,Core,0.0,2.857142857142857,0,1
+openstack/venus-dashboard,openstack/zaqar-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/tripleo-common-tempest-plugin,Core,0.0,4.761904761904762,0,2
+openstack/venus-dashboard,openstack/tripleo-common-tempest-plugin,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/mistral-tempest-plugin,Core,3.571428571428571,2.272727272727273,2,2
+openstack/venus-dashboard,openstack/mistral-tempest-plugin,Non core,3.571428571428571,2.272727272727273,2,2
+openstack/venus-dashboard,openstack/barbican-ui,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/barbican-ui,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/liberasurecode,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/liberasurecode,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/os-client-config,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/os-client-config,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/monasca-specs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/monasca-specs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/os-performance-tools,Core,0.0,3.225806451612903,0,1
+openstack/venus-dashboard,openstack/os-performance-tools,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/trove-specs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/trove-specs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/manila-image-elements,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/manila-image-elements,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/blazar-specs,Core,7.142857142857142,0.0,1,0
+openstack/venus-dashboard,openstack/blazar-specs,Non core,0.0,0.0,1,0
+openstack/venus-dashboard,openstack/molteniron,Core,0.0,2.7777777777777777,0,1
+openstack/venus-dashboard,openstack/molteniron,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/solum-specs,Core,4.761904761904762,0.0,1,0
+openstack/venus-dashboard,openstack/solum-specs,Non core,0.0,0.0,1,0
+openstack/venus-dashboard,openstack/patrole,Core,0.0,1.6528925619834711,0,2
+openstack/venus-dashboard,openstack/patrole,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/performance-docs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/performance-docs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/sphinx-feature-classification,Core,0.0,2.2222222222222223,0,1
+openstack/venus-dashboard,openstack/sphinx-feature-classification,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/etcd3gw,Core,0.0,5.0,0,2
+openstack/venus-dashboard,openstack/etcd3gw,Non core,0.0,5.0,0,2
+openstack/venus-dashboard,openstack/watcher-specs,Core,0.0,2.1739130434782608,0,2
+openstack/venus-dashboard,openstack/watcher-specs,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/yaql,Core,0.0,1.5151515151515151,0,1
+openstack/venus-dashboard,openstack/yaql,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/puppet-openstack-guide,Core,0.0,2.0,1,1
+openstack/venus-dashboard,openstack/puppet-openstack-guide,Non core,3.125,0.0,1,1
+openstack/venus-dashboard,openstack/puppet-panko,Core,0.0,2.3255813953488373,0,1
+openstack/venus-dashboard,openstack/puppet-panko,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/heat-cfnclient,Core,0.0,2.3255813953488373,0,1
+openstack/venus-dashboard,openstack/heat-cfnclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/heat-cfntools,Core,0.0,1.282051282051282,0,2
+openstack/venus-dashboard,openstack/heat-cfntools,Non core,0.0,1.282051282051282,0,2
+openstack/venus-dashboard,openstack/heat-templates,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/heat-templates,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/governance-sigs,Core,0.0,0.9009009009009009,0,2
+openstack/venus-dashboard,openstack/governance-sigs,Non core,0.0,0.9009009009009009,0,2
+openstack/venus-dashboard,openstack/openstack-zuul-roles,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-zuul-roles,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/nova-powervm,Core,0.0,1.8691588785046727,0,3
+openstack/venus-dashboard,openstack/nova-powervm,Non core,0.0,0.9345794392523363,0,3
+openstack/venus-dashboard,openstack/openstack-helm-addons,Core,0.0,0.8130081300813009,0,1
+openstack/venus-dashboard,openstack/openstack-helm-addons,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-pankoclient,Core,0.0,2.0408163265306123,0,2
+openstack/venus-dashboard,openstack/python-pankoclient,Non core,0.0,2.0408163265306123,0,2
+openstack/venus-dashboard,openstack/qa-specs,Core,0.0,0.8264462809917356,1,1
+openstack/venus-dashboard,openstack/qa-specs,Non core,1.8867924528301887,0.0,1,1
+openstack/venus-dashboard,openstack/zaqar-specs,Core,2.4390243902439024,0.0,1,0
+openstack/venus-dashboard,openstack/zaqar-specs,Non core,0.0,0.0,1,0
+openstack/venus-dashboard,openstack/swift-bench,Core,0.0,2.127659574468085,0,1
+openstack/venus-dashboard,openstack/swift-bench,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/whereto,Core,0.0,3.125,0,1
+openstack/venus-dashboard,openstack/whereto,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/murano-specs,Core,0.0,1.3888888888888888,0,1
+openstack/venus-dashboard,openstack/murano-specs,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-modify-image,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-tripleo-modify-image,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/requestsexceptions,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/requestsexceptions,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/panko,Core,0.0,0.8928571428571428,0,1
+openstack/venus-dashboard,openstack/panko,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/api-sig,Core,0.0,0.9803921568627451,1,2
+openstack/venus-dashboard,openstack/api-sig,Non core,1.7857142857142856,0.0,1,2
+openstack/venus-dashboard,openstack/openstack-chef-specs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-chef-specs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/freezer-specs,Core,0.0,5.555555555555555,0,2
+openstack/venus-dashboard,openstack/freezer-specs,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/oslo.tools,Core,0.0,2.564102564102564,1,1
+openstack/venus-dashboard,openstack/oslo.tools,Non core,2.7027027027027026,0.0,1,1
+openstack/venus-dashboard,openstack/microversion-parse,Core,0.0,0.0,1,0
+openstack/venus-dashboard,openstack/microversion-parse,Non core,7.142857142857142,0.0,1,0
+openstack/venus-dashboard,openstack/openstackclient,Core,0.0,0.0,1,0
+openstack/venus-dashboard,openstack/openstackclient,Non core,3.4482758620689653,0.0,1,0
+openstack/venus-dashboard,openstack/ossa,Core,0.0,1.4084507042253522,1,1
+openstack/venus-dashboard,openstack/ossa,Non core,3.8461538461538463,0.0,1,1
+openstack/venus-dashboard,openstack/reviewstats,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/reviewstats,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/oslo-cookiecutter,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/oslo-cookiecutter,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/security-analysis,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/security-analysis,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-tripleo-keystone,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-keystone,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-apt_package_pinning,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-apt_package_pinning,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-qdrouterd,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-qdrouterd,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-openstack_openrc,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-openstack_openrc,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-nspawn_container_create,Core,0.0,2.380952380952381,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-nspawn_container_create,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/devstack-tools,Core,0.0,3.7037037037037033,0,1
+openstack/venus-dashboard,openstack/devstack-tools,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/coverage2sql,Core,0.0,3.3333333333333335,0,1
+openstack/venus-dashboard,openstack/coverage2sql,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/bashate,Core,0.0,1.5384615384615385,0,1
+openstack/venus-dashboard,openstack/bashate,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/hacking,Core,0.0,1.2195121951219512,0,3
+openstack/venus-dashboard,openstack/hacking,Non core,0.0,0.6097560975609756,0,3
+openstack/venus-dashboard,openstack/xstatic-mdi,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-chef,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-chef,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstackclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstackclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-hacluster,Core,0.0,3.8461538461538463,0,1
+openstack/venus-dashboard,openstack/charm-interface-hacluster,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/puppet-openstack-specs,Core,3.3333333333333335,1.5151515151515151,1,1
+openstack/venus-dashboard,openstack/puppet-openstack-specs,Non core,0.0,0.0,1,1
+openstack/venus-dashboard,openstack/puppet-monasca,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/puppet-monasca,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/eslint-config-openstack,Core,0.0,1.7543859649122806,0,1
+openstack/venus-dashboard,openstack/eslint-config-openstack,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/karma-subunit-reporter,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/karma-subunit-reporter,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-helm-docs,Core,0.0,2.857142857142857,0,1
+openstack/venus-dashboard,openstack/openstack-helm-docs,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-specs,Core,0.0,0.8264462809917356,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-specs,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/tempest-lib,Core,0.0,0.9900990099009901,0,1
+openstack/venus-dashboard,openstack/tempest-lib,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/tripleo-ha-utils,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/tripleo-ha-utils,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/devstack-vagrant,Core,0.0,2.941176470588235,0,1
+openstack/venus-dashboard,openstack/devstack-vagrant,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/goal-tools,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/goal-tools,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookiecutter,Core,0.0,1.2658227848101267,0,1
+openstack/venus-dashboard,openstack/cookiecutter,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/dib-utils,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/dib-utils,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/constellations,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/constellations,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-integration-test,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-integration-test,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-dashboard,Core,0.0,1.2658227848101267,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-dashboard,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-telemetry,Core,0.0,1.6666666666666667,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-telemetry,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-orchestration,Core,0.0,1.5384615384615385,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-orchestration,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-bare-metal,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-bare-metal,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-dns,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-dns,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-compute,Core,0.0,0.9708737864077669,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-compute,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-network,Core,0.0,1.0204081632653061,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-network,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-block-storage,Core,0.0,1.2658227848101267,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-block-storage,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-image,Core,0.0,1.282051282051282,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-image,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-identity,Core,0.0,1.1904761904761905,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-identity,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-ops-database,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-ops-database,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-ops-messaging,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-ops-messaging,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-common,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-common,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/self-healing-sig,Core,0.0,2.857142857142857,0,1
+openstack/venus-dashboard,openstack/self-healing-sig,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/security-specs,Core,5.0,0.0,1,0
+openstack/venus-dashboard,openstack/security-specs,Non core,0.0,0.0,1,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_panko,Core,0.0,2.0408163265306123,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_panko,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-nspawn_hosts,Core,0.0,2.272727272727273,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-nspawn_hosts,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-layer-openstack-principle,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-watcher-dashboard,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-watcher-dashboard,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-watcher,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-watcher,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-galera_client,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-galera_client,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cloudkitty-specs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cloudkitty-specs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/osops,Core,0.0,5.263157894736842,0,1
+openstack/venus-dashboard,openstack/osops,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-ironic,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-ironic,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/multi-arch-sig,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/multi-arch-sig,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-nova-compute-proxy,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-nova-compute-proxy,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-odl-controller,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-odl-controller,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-nova-lxd,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-nova-lxd,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-nova-cell,Core,0.0,8.333333333333332,0,1
+openstack/venus-dashboard,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-barbican-secrets,Core,0.0,5.88235294117647,0,1
+openstack/venus-dashboard,openstack/charm-interface-barbican-secrets,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-ceph-rbd-mirror,Core,0.0,5.555555555555555,0,1
+openstack/venus-dashboard,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-placement,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-placement,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-mysql-shared,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-mysql-shared,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-dashboard-plugin,Core,0.0,5.88235294117647,0,1
+openstack/venus-dashboard,openstack/charm-interface-dashboard-plugin,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-neutron-load-balancer,Core,0.0,5.88235294117647,0,1
+openstack/venus-dashboard,openstack/charm-interface-neutron-load-balancer,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-neutron-plugin-api-subordinate,Core,0.0,5.263157894736842,0,1
+openstack/venus-dashboard,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-neutron-plugin,Core,0.0,5.88235294117647,0,1
+openstack/venus-dashboard,openstack/charm-interface-neutron-plugin,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/xstatic-json2yaml,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-json2yaml,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-js-yaml,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-js-yaml,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-spin,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-spin,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-panko,Core,0.0,4.545454545454546,0,1
+openstack/venus-dashboard,openstack/charm-panko,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-service-control,Core,0.0,5.263157894736842,0,1
+openstack/venus-dashboard,openstack/charm-interface-service-control,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_almanach,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_almanach,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-pip_install,Core,0.0,1.2345679012345678,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-pip_install,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-karborclient,Core,0.0,1.3513513513513513,0,1
+openstack/venus-dashboard,openstack/python-karborclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-keystone-admin,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-keystone-admin,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-nova-compute,Core,0.0,4.761904761904762,0,1
+openstack/venus-dashboard,openstack/charm-interface-nova-compute,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-manila-plugin,Core,0.0,5.88235294117647,0,1
+openstack/venus-dashboard,openstack/charm-interface-manila-plugin,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/murano-apps,Core,0.0,1.2345679012345678,0,1
+openstack/venus-dashboard,openstack/murano-apps,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/puppet-senlin,Core,0.0,3.571428571428571,0,1
+openstack/venus-dashboard,openstack/puppet-senlin,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-application-catalog,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/training-labs,Core,0.0,1.8181818181818181,0,1
+openstack/venus-dashboard,openstack/training-labs,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/karbor,Core,0.0,0.5747126436781609,0,1
+openstack/venus-dashboard,openstack/karbor,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/devstack-plugin-open-cas,Core,0.0,5.0,0,1
+openstack/venus-dashboard,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_congress,Core,0.0,1.8518518518518516,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_congress,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-keystone-notifications,Core,0.0,8.333333333333332,0,1
+openstack/venus-dashboard,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/os-collect-config,Core,0.0,0.8771929824561403,0,1
+openstack/venus-dashboard,openstack/os-collect-config,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/os-apply-config,Core,0.0,0.9433962264150944,0,1
+openstack/venus-dashboard,openstack/os-apply-config,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/puppet-freezer,Core,0.0,2.7027027027027026,0,1
+openstack/venus-dashboard,openstack/puppet-freezer,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/vitrage-specs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/vitrage-specs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/specs-cookiecutter,Core,0.0,4.0,0,1
+openstack/venus-dashboard,openstack/specs-cookiecutter,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/rpm-packaging-tools,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/rpm-packaging-tools,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-openstack-operations,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ansible-role-openstack-operations,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/os-refresh-config,Core,0.0,1.1764705882352942,0,1
+openstack/venus-dashboard,openstack/os-refresh-config,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/mistral-specs,Core,3.0303030303030303,2.0408163265306123,1,1
+openstack/venus-dashboard,openstack/mistral-specs,Non core,0.0,0.0,1,1
+openstack/venus-dashboard,openstack/scientific-wg,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/scientific-wg,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/manila-test-image,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/manila-test-image,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/governance-website,Core,0.0,3.225806451612903,0,1
+openstack/venus-dashboard,openstack/governance-website,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/bugdaystats,Core,0.0,3.8461538461538463,0,1
+openstack/venus-dashboard,openstack/bugdaystats,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/upstream-institute-virtual-environment,Core,0.0,4.3478260869565215,0,1
+openstack/venus-dashboard,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/karbor-dashboard,Core,0.0,2.941176470588235,0,2
+openstack/venus-dashboard,openstack/karbor-dashboard,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/django_openstack_auth,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/django_openstack_auth,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/monasca-transform,Core,0.0,1.6129032258064515,0,1
+openstack/venus-dashboard,openstack/monasca-transform,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/monasca-ceilometer,Core,0.0,1.1904761904761905,0,1
+openstack/venus-dashboard,openstack/monasca-ceilometer,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/monasca-log-api,Core,0.0,0.9615384615384616,0,1
+openstack/venus-dashboard,openstack/monasca-log-api,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/nose-html-output,Core,0.0,4.0,0,1
+openstack/venus-dashboard,openstack/nose-html-output,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/kolla-cli,Core,3.8461538461538463,2.083333333333333,1,1
+openstack/venus-dashboard,openstack/kolla-cli,Non core,0.0,0.0,1,1
+openstack/venus-dashboard,openstack/neutron-lbaas-dashboard,Core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/neutron-lbaas-dashboard,Non core,0.0,1.0101010101010102,0,1
+openstack/venus-dashboard,openstack/searchlight,Core,0.819672131147541,1.3793103448275863,1,2
+openstack/venus-dashboard,openstack/searchlight,Non core,0.0,0.0,1,2
+openstack/venus-dashboard,openstack/searchlight-ui,Core,2.0,1.6129032258064515,1,1
+openstack/venus-dashboard,openstack/searchlight-ui,Non core,0.0,0.0,1,1
+openstack/venus-dashboard,openstack/searchlight-specs,Core,3.571428571428571,2.1739130434782608,1,1
+openstack/venus-dashboard,openstack/searchlight-specs,Non core,0.0,0.0,1,1
+openstack/venus-dashboard,openstack/python-searchlightclient,Core,0.0,1.5384615384615385,0,1
+openstack/venus-dashboard,openstack/python-searchlightclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-tempest,Core,0.0,2.857142857142857,0,1
+openstack/venus-dashboard,openstack/charm-tempest,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-barbican-softhsm,Core,0.0,3.3333333333333335,0,1
+openstack/venus-dashboard,openstack/charm-barbican-softhsm,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-client,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cookbook-openstack-client,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/instack-undercloud,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/instack-undercloud,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/publiccloud-sig,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/publiccloud-sig,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/ideas,Core,0.0,2.5,0,1
+openstack/venus-dashboard,openstack/ideas,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/uc-recognition,Core,0.0,5.0,0,1
+openstack/venus-dashboard,openstack/uc-recognition,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ops-tags-team,Core,0.0,2.3255813953488373,0,1
+openstack/venus-dashboard,openstack/ops-tags-team,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/enterprise-wg,Core,0.0,9.090909090909092,0,1
+openstack/venus-dashboard,openstack/enterprise-wg,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/governance-uc,Core,0.0,1.5384615384615385,0,1
+openstack/venus-dashboard,openstack/governance-uc,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/workload-ref-archs,Core,0.0,3.8461538461538463,0,1
+openstack/venus-dashboard,openstack/workload-ref-archs,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/arch-wg,Core,0.0,3.7037037037037033,0,1
+openstack/venus-dashboard,openstack/arch-wg,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/project-navigator-data,Core,0.0,2.7777777777777777,0,1
+openstack/venus-dashboard,openstack/project-navigator-data,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-specs,Core,0.0,0.5208333333333333,0,1
+openstack/venus-dashboard,openstack/openstack-specs,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_monasca,Core,0.0,1.5625,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_monasca,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_monasca-agent,Core,0.0,2.1739130434782608,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_monasca-agent,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ironic-inspector-specs,Core,0.0,1.7543859649122806,0,1
+openstack/venus-dashboard,openstack/ironic-inspector-specs,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/sushy-cli,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/sushy-cli,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/puppet-glare,Core,0.0,2.5,0,1
+openstack/venus-dashboard,openstack/puppet-glare,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-planet,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-planet,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-keystone-credentials,Core,0.0,5.263157894736842,0,1
+openstack/venus-dashboard,openstack/charm-interface-keystone-credentials,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/monasca-kibana-plugin,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/monasca-kibana-plugin,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-keystone-domain-backend,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/devstack-plugin-amqp1,Core,0.0,3.225806451612903,0,1
+openstack/venus-dashboard,openstack/devstack-plugin-amqp1,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/devstack-plugin-kafka,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/devstack-plugin-kafka,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/tripleo-ipsec,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/tripleo-ipsec,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/monasca-grafana-datasource,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-bind-rndc,Core,0.0,5.555555555555555,0,1
+openstack/venus-dashboard,openstack/charm-interface-bind-rndc,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-rabbitmq,Core,0.0,5.263157894736842,0,1
+openstack/venus-dashboard,openstack/charm-interface-rabbitmq,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-openstack-ha,Core,0.0,5.263157894736842,0,1
+openstack/venus-dashboard,openstack/charm-interface-openstack-ha,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-gnocchi,Core,0.0,4.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-gnocchi,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-bgp,Core,0.0,5.555555555555555,0,1
+openstack/venus-dashboard,openstack/charm-interface-bgp,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-websso-fid-service-provider,Core,0.0,7.142857142857142,0,1
+openstack/venus-dashboard,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-designate,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/charm-interface-designate,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/tempest-horizon,Core,0.0,3.125,0,1
+openstack/venus-dashboard,openstack/tempest-horizon,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/logstash-filters,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/logstash-filters,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/qinling-dashboard,Core,0.0,3.8461538461538463,0,1
+openstack/venus-dashboard,openstack/qinling-dashboard,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-qinlingclient,Core,0.0,2.7777777777777777,0,1
+openstack/venus-dashboard,openstack/python-qinlingclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/qinling,Core,0.0,2.127659574468085,0,1
+openstack/venus-dashboard,openstack/qinling,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/monasca-analytics,Core,0.0,1.9230769230769231,0,1
+openstack/venus-dashboard,openstack/monasca-analytics,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/oslo-incubator,Core,0.0,0.22779043280182232,0,1
+openstack/venus-dashboard,openstack/oslo-incubator,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/puppet-congress,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/puppet-congress,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_monasca-ui,Core,0.0,7.142857142857142,0,2
+openstack/venus-dashboard,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/auto-scaling-sig,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/auto-scaling-sig,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/os-loganalyze,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/os-loganalyze,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/devstack-plugin-pika,Core,0.0,4.761904761904762,0,1
+openstack/venus-dashboard,openstack/devstack-plugin-pika,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/devstack-plugin-zmq,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/devstack-plugin-zmq,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/networking-l2gw,Core,0.0,0.625,0,2
+openstack/venus-dashboard,openstack/networking-l2gw,Non core,0.0,0.625,0,2
+openstack/venus-dashboard,openstack/networking-l2gw-tempest-plugin,Core,0.0,3.0303030303030303,0,1
+openstack/venus-dashboard,openstack/networking-l2gw-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-interface-ceph-mds,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-ceph-mds,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-ui-router,Core,0.0,5.88235294117647,0,1
+openstack/venus-dashboard,openstack/xstatic-angular-ui-router,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/xstatic-vis,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/xstatic-vis,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-database,Core,0.0,3.0303030303030303,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-database,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-data-processing,Core,0.0,3.7037037037037033,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-data-processing,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/trove-integration,Core,0.0,0.9009009009009009,0,1
+openstack/venus-dashboard,openstack/trove-integration,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-sensu,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-ceilometerclient,Core,0.0,0.5154639175257731,0,1
+openstack/venus-dashboard,openstack/python-ceilometerclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/keystoneauth-saml2,Core,0.0,2.3255813953488373,0,1
+openstack/venus-dashboard,openstack/keystoneauth-saml2,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/murano-deployment,Core,0.0,2.1739130434782608,0,1
+openstack/venus-dashboard,openstack/murano-deployment,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-keystoneclient-kerberos,Core,0.0,2.4390243902439024,0,1
+openstack/venus-dashboard,openstack/python-keystoneclient-kerberos,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-wsmanclient,Core,0.0,5.555555555555555,0,1
+openstack/venus-dashboard,openstack/python-wsmanclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/fuel-upgrade,Core,0.0,2.7777777777777777,0,1
+openstack/venus-dashboard,openstack/fuel-upgrade,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-object-storage,Core,0.0,1.9230769230769231,0,1
+openstack/venus-dashboard,openstack/cookbook-openstack-object-storage,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/fairy-slipper,Core,0.0,3.8461538461538463,0,1
+openstack/venus-dashboard,openstack/fairy-slipper,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/django-openstack-auth-kerberos,Core,0.0,3.8461538461538463,0,1
+openstack/venus-dashboard,openstack/django-openstack-auth-kerberos,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/horizon-cisco-ui,Core,0.0,4.3478260869565215,0,1
+openstack/venus-dashboard,openstack/horizon-cisco-ui,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/zuul-packaging,Core,0.0,5.0,0,1
+openstack/venus-dashboard,openstack/zuul-packaging,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/networking-generic-switch-tempest-plugin,Core,0.0,9.090909090909092,0,1
+openstack/venus-dashboard,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/tripleo-incubator,Core,0.0,0.5813953488372093,0,1
+openstack/venus-dashboard,openstack/tripleo-incubator,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ironic-webclient,Core,0.0,2.5,0,1
+openstack/venus-dashboard,openstack/ironic-webclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/puppet-crane,Core,0.0,7.6923076923076925,0,1
+openstack/venus-dashboard,openstack/puppet-crane,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/release-tools,Core,0.0,1.2345679012345678,0,2
+openstack/venus-dashboard,openstack/release-tools,Non core,0.0,1.2345679012345678,0,2
+openstack/venus-dashboard,openstack/gnocchi,Core,0.0,0.7194244604316548,0,1
+openstack/venus-dashboard,openstack/gnocchi,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/networking-ofagent,Core,0.0,2.857142857142857,0,1
+openstack/venus-dashboard,openstack/networking-ofagent,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-neutron-pd-driver,Core,0.0,7.142857142857142,0,1
+openstack/venus-dashboard,openstack/python-neutron-pd-driver,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-ceph,Core,0.0,3.4482758620689653,0,1
+openstack/venus-dashboard,openstack/charm-ceph,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_freezer,Core,0.0,8.333333333333332,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-pip_lock_down,Core,0.0,4.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-security,Core,0.0,1.2658227848101267,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-security,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/oslosphinx,Core,0.0,1.2658227848101267,0,1
+openstack/venus-dashboard,openstack/oslosphinx,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-gnocchiclient,Core,0.0,2.380952380952381,0,1
+openstack/venus-dashboard,openstack/python-gnocchiclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-cinder,Core,0.0,7.6923076923076925,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-cookiecutter,Core,0.0,7.142857142857142,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-glance,Core,0.0,7.142857142857142,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-keystone,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-mariadb,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-rabbitmq,Core,0.0,9.090909090909092,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-tripleo,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-ui,Core,0.0,5.88235294117647,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-aodh,Core,0.0,5.88235294117647,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-barbican,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-ceilometer,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-cinder,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-cookiecutter,Core,0.0,4.166666666666666,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/tripleo-ui,Core,0.0,1.2658227848101267,0,1
+openstack/venus-dashboard,openstack/tripleo-ui,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-ovn,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-opendaylight,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-octavia,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-nova,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-nova,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/os-cloud-config,Core,0.0,0.9708737864077669,0,1
+openstack/venus-dashboard,openstack/os-cloud-config,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-zaqar,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-tempest,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-sahara,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-swift,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-tacker,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-rabbitmq,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-qdrouterd,Core,0.0,8.333333333333332,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-panko,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-heat,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-haproxy,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-gnocchi,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-glance,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-glance,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-designate,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-neutron,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-mistral,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-memcached,Core,0.0,5.88235294117647,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-memcached,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-manila,Core,0.0,5.88235294117647,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-manila,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-ironic,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-keepalived,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-horizon,Core,0.0,6.25,0,1
+openstack/venus-dashboard,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/pylockfile,Core,0.0,3.4482758620689653,0,1
+openstack/venus-dashboard,openstack/pylockfile,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/dragonflow,Core,0.0,1.0,0,2
+openstack/venus-dashboard,openstack/dragonflow,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/openstack,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-pacemaker-remote,Core,0.0,5.555555555555555,0,1
+openstack/venus-dashboard,openstack/charm-interface-pacemaker-remote,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/networking-onos,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/networking-onos,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/solum-infra-guestagent,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/solum-infra-guestagent,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ux,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ux,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/mox3,Core,0.0,2.127659574468085,0,1
+openstack/venus-dashboard,openstack/mox3,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/charm-layer-ceph,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-layer-ceph,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-layer-ceph-base,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-layer-ceph-base,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/python-tricircleclient,Core,0.0,2.631578947368421,0,2
+openstack/venus-dashboard,openstack/python-tricircleclient,Non core,0.0,2.631578947368421,0,2
+openstack/venus-dashboard,openstack/tricircle,Core,0.0,2.054794520547945,0,3
+openstack/venus-dashboard,openstack/tricircle,Non core,0.0,0.0,0,3
+openstack/venus-dashboard,openstack/swift-specs,Core,0.0,1.3513513513513513,0,1
+openstack/venus-dashboard,openstack/swift-specs,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/congress,Core,0.0,0.9174311926605505,0,3
+openstack/venus-dashboard,openstack/congress,Non core,0.0,0.45871559633027525,0,3
+openstack/venus-dashboard,openstack/congress-tempest-plugin,Core,0.0,2.857142857142857,0,1
+openstack/venus-dashboard,openstack/congress-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/python-congressclient,Core,0.0,1.6129032258064515,0,1
+openstack/venus-dashboard,openstack/python-congressclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/congress-specs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/congress-specs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/congress-dashboard,Core,0.0,2.272727272727273,0,1
+openstack/venus-dashboard,openstack/congress-dashboard,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/syntribos,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/syntribos,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/syntribos-payloads,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/syntribos-payloads,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/syntribos-openstack-templates,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/syntribos-openstack-templates,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/i18n-specs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/i18n-specs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/tempest-plugin-cookiecutter,Core,0.0,4.545454545454546,0,1
+openstack/venus-dashboard,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/devstack-plugin-cookiecutter,Core,0.0,6.666666666666667,0,1
+openstack/venus-dashboard,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/xstatic-graphlib,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-graphlib,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-repo_build,Core,0.0,1.0752688172043012,0,1
+openstack/venus-dashboard,openstack/openstack-ansible-repo_build,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-hogan,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_molteniron,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_molteniron,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/faafo,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/faafo,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/networking-calico,Core,0.0,3.0303030303030303,0,2
+openstack/venus-dashboard,openstack/networking-calico,Non core,0.0,0.0,0,2
+openstack/venus-dashboard,openstack/xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/shotgun,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/shotgun,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-devops,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-devops,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-plugin-murano,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-plugin-murano,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-web,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-web,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-plugins,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-plugins,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-virtualbox,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-virtualbox,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-ostf,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-ostf,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-qa,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-qa,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-specs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-specs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-nailgun-extension-cluster-upgrade,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-nailgun-agent,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-nailgun-agent,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-mirror,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-mirror,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-menu,Core,0.0,0.8130081300813009,0,1
+openstack/venus-dashboard,openstack/fuel-menu,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/fuel-main,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-main,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-ui,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-ui,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-library,Core,0.0,0.2232142857142857,0,1
+openstack/venus-dashboard,openstack/fuel-library,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/fuel-dev-tools,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-dev-tools,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-stats,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-stats,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-nailgun-extension-converted-serializers,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-nailgun-extension-iac,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-plugin-murano-tests,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-astute,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-astute,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-docs,Core,0.0,0.30864197530864196,0,1
+openstack/venus-dashboard,openstack/fuel-docs,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/fuel-agent,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-agent,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-octane,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuel-octane,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/tuning-box,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/tuning-box,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/python-fuelclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/python-fuelclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/neutron-interconnection,Core,0.0,4.761904761904762,0,1
+openstack/venus-dashboard,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/openstack-chef-repo,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-chef-repo,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/os-acc,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/os-acc,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_zaqar,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_zaqar,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_watcher,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_watcher,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_searchlight,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_searchlight,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/tempest-tripleo-ui,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/docs-specs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/docs-specs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/release-schedule-generator,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/release-schedule-generator,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/opendev-website,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/opendev-website,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/castellan-ui,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/castellan-ui,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/compute-api,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/compute-api,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-neutron-api-odl,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-neutron-api-odl,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-murano,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-murano,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-openvswitch-odl,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-openvswitch-odl,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-odl-controller-api,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-interface-odl-controller-api,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-glusterfs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-glusterfs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-trove,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/charm-trove,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuxi,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuxi,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/bandit,Core,0.0,1.25,0,1
+openstack/venus-dashboard,openstack/bandit,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-d3,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/xstatic-d3,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/instack,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/instack,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/astara,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/astara,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/astara-appliance,Core,0.0,2.941176470588235,0,1
+openstack/venus-dashboard,openstack/astara-appliance,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/astara-horizon,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/astara-horizon,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/astara-neutron,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/astara-neutron,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/anchor,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/anchor,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuxi-golang,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuxi-golang,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuxi-kubernetes,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/fuxi-kubernetes,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/puppet-odsreg,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/puppet-odsreg,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/puppet-docker_registry,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/releasestatus,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/releasestatus,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/vinz-webclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/activity-board,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/activity-board,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/beaker-localhost,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/beaker-nodepool,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/rst2bash,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/rst2bash,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/kolla-kubernetes,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/kolla-kubernetes,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cue-dashboard,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cue-dashboard,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/python-cueclient,Core,0.0,4.761904761904762,0,1
+openstack/venus-dashboard,openstack/python-cueclient,Non core,0.0,0.0,0,1
+openstack/venus-dashboard,openstack/cue,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/cue,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/app-catalog,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/app-catalog,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/identity-api,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/identity-api,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/app-catalog-ui,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/app-catalog-ui,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-kubernetes,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/app-catalog-common,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/app-catalog-common,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/python-appcatalogclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/python-appcatalogclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-openstack-pkg-tools,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-mistral,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-mistral,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/installguide-cookiecutter,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/installguide-cookiecutter,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-opencontrail,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-neutron,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-neutron,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-nova,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-nova,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-keystone,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-keystone,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-horizon,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-horizon,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-heat,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-heat,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-glance,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-glance,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-cinder,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-cinder,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-ceilometer,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-salt,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-salt,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-midonet,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/salt-formula-midonet,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/magnetodb-specs,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/magnetodb-specs,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/oslo.version,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/oslo.version,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/image-api,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/image-api,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/object-api,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/object-api,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/volume-api,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/volume-api,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/magnetodb,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/magnetodb,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-nose,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack/openstack-nose,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/netconn-api,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/netconn-api,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/database-api,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/database-api,Non core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/venus-dashboard,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

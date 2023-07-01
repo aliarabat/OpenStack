@@ -1,5 +1,5 @@
 import os
-import helpers as hpr
+import utils.helpers as hpr
 
 
 if __name__ == "__main__":
@@ -8,13 +8,18 @@ if __name__ == "__main__":
     start_date, start_header = hpr.generate_date("The setup script started at")
     
     script_names = [
-        "openstack-data-collection.py", "openstack-data-transform.py",
-        "openstack-data-cleaning.py", "openstack-paths-generation.py",
-        "openstack-paths-extending.py", "openstack-metrics-extractor.py"
+        "openstack-data-collection", 
+        "openstack-data-transform",
+        "openstack-core-members",
+        "openstack-project-selection",
+        "openstack-pq-metrics-extractor",
+        "openstack-dependencies-generation", 
+        "openstack-paths-generation",
+        "openstack-paths-extending"
     ]
 
     for sn in script_names:
-        os.system("python ./Scripts/%s" % sn)
+        os.system("python ./Scripts/%s.py" % sn)
     
     end_date, end_header = hpr.generate_date("The setup script ended at")
 

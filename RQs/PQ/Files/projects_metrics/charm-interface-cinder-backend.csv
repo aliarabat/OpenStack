@@ -1,0 +1,1789 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/charm-interface-cinder-backend,openstack/cyborg-specs,Core,0.0,1.6666666666666667,0,1
+openstack/charm-interface-cinder-backend,openstack/cyborg-specs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-mistralclient,Core,0.847457627118644,0.5952380952380952,1,1
+openstack/charm-interface-cinder-backend,openstack/python-mistralclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/ha-guide,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ha-guide,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/watcher,Core,1.1111111111111112,0.42194092827004215,2,1
+openstack/charm-interface-cinder-backend,openstack/watcher,Non core,0.0,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_cloudkitty,Core,1.8518518518518516,1.6666666666666667,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_cloudkitty,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_cinder,Core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_cinder,Non core,0.9900990099009901,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-health,Core,0.0,1.0638297872340425,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-health,Non core,2.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_swift,Core,2.2988505747126435,0.0,2,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_swift,Non core,0.0,0.0,2,0
+openstack/charm-interface-cinder-backend,openstack/masakari-specs,Core,3.7037037037037033,2.127659574468085,1,1
+openstack/charm-interface-cinder-backend,openstack/masakari-specs,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/telemetry-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/telemetry-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/osprofiler,Core,1.1363636363636365,0.8620689655172413,1,1
+openstack/charm-interface-cinder-backend,openstack/osprofiler,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_trove,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_trove,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_manila,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_manila,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-hardening,Core,2.3255813953488373,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/ansible-hardening,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/barbican-specs,Core,0.0,1.0869565217391304,0,1
+openstack/charm-interface-cinder-backend,openstack/barbican-specs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-heatclient,Core,0.5494505494505495,0.33333333333333337,1,1
+openstack/charm-interface-cinder-backend,openstack/python-heatclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.versionedobjects,Core,1.0204081632653061,0.7246376811594203,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.versionedobjects,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/os-api-ref,Core,2.083333333333333,1.6129032258064515,2,1
+openstack/charm-interface-cinder-backend,openstack/os-api-ref,Non core,2.083333333333333,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-container,Core,0.0,3.3333333333333335,0,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-container,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/venus-dashboard,Core,0.0,6.25,0,1
+openstack/charm-interface-cinder-backend,openstack/venus-dashboard,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/manila-ui,Core,0.0,0.8695652173913043,0,1
+openstack/charm-interface-cinder-backend,openstack/manila-ui,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-nfs,Core,0.0,3.125,0,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-nfs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/taskflow,Core,0.9345794392523363,0.5847953216374269,1,1
+openstack/charm-interface-cinder-backend,openstack/taskflow,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/python-cyborgclient,Core,3.0303030303030303,1.9230769230769231,1,1
+openstack/charm-interface-cinder-backend,openstack/python-cyborgclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/zun,Core,1.4084507042253522,0.5050505050505051,2,1
+openstack/charm-interface-cinder-backend,openstack/zun,Non core,0.0,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,1,3
+openstack/charm-interface-cinder-backend,openstack/charm-openstack-loadbalancer,Non core,9.090909090909092,23.076923076923077,1,3
+openstack/charm-interface-cinder-backend,openstack/ansible-role-python_venv_build,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-python_venv_build,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/mistral-dashboard,Core,1.5384615384615385,1.1363636363636365,1,1
+openstack/charm-interface-cinder-backend,openstack/mistral-dashboard,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/mistral-lib,Core,2.2222222222222223,1.6129032258064515,1,1
+openstack/charm-interface-cinder-backend,openstack/mistral-lib,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/monasca-events-api,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/monasca-events-api,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-zaqarclient,Core,0.0,0.8064516129032258,0,1
+openstack/charm-interface-cinder-backend,openstack/python-zaqarclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/monasca-api,Core,1.4925373134328357,0.5025125628140703,2,1
+openstack/charm-interface-cinder-backend,openstack/monasca-api,Non core,0.0,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/monasca-persister,Core,1.3333333333333335,0.8547008547008548,1,1
+openstack/charm-interface-cinder-backend,openstack/monasca-persister,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/monasca-notification,Core,1.282051282051282,0.9345794392523363,1,1
+openstack/charm-interface-cinder-backend,openstack/monasca-notification,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/python-saharaclient,Core,1.0204081632653061,0.7633587786259541,1,1
+openstack/charm-interface-cinder-backend,openstack/python-saharaclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/charm-magpie,Core,0.0,0.0,2,4
+openstack/charm-interface-cinder-backend,openstack/charm-magpie,Non core,11.76470588235294,25.0,2,4
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_placement,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_placement,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstackdocstheme,Core,1.36986301369863,0.8771929824561403,1,1
+openstack/charm-interface-cinder-backend,openstack/openstackdocstheme,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara,Core,0.7326007326007326,0.2702702702702703,2,1
+openstack/charm-interface-cinder-backend,openstack/sahara,Non core,0.0,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/ironic-ui,Core,1.5625,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/ironic-ui,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/oslo.serialization,Core,1.3888888888888888,0.9708737864077669,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.serialization,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.context,Core,1.6129032258064515,0.9433962264150944,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.context,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.limit,Core,2.564102564102564,1.8867924528301887,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.limit,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.middleware,Core,1.1494252873563218,0.7751937984496124,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.middleware,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.reports,Core,2.0408163265306123,1.1627906976744187,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.reports,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/futurist,Core,2.0408163265306123,1.4705882352941175,1,1
+openstack/charm-interface-cinder-backend,openstack/futurist,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.i18n,Core,1.5151515151515151,0.9345794392523363,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.i18n,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/sushy-oem-idrac,Core,0.0,3.3333333333333335,0,1
+openstack/charm-interface-cinder-backend,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-dracclient,Core,0.0,1.3513513513513513,0,1
+openstack/charm-interface-cinder-backend,openstack/python-dracclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_masakari,Core,2.631578947368421,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_masakari,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-systemd_mount,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-systemd_mount,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-senlinclient,Core,1.0309278350515463,0.8928571428571428,1,1
+openstack/charm-interface-cinder-backend,openstack/python-senlinclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/senlin-dashboard,Core,1.6129032258064515,1.0309278350515463,1,1
+openstack/charm-interface-cinder-backend,openstack/senlin-dashboard,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/networking-generic-switch,Core,0.0,1.1764705882352942,0,1
+openstack/charm-interface-cinder-backend,openstack/networking-generic-switch,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/sahara-image-elements,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/sahara-image-elements,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-thales-hsm,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-thales-hsm,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-atos-hsm,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-atos-hsm,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/adjutant-ui,Core,5.88235294117647,4.0,1,1
+openstack/charm-interface-cinder-backend,openstack/adjutant-ui,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-extra,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/sahara-extra,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/blazar-nova,Core,2.631578947368421,1.5625,1,1
+openstack/charm-interface-cinder-backend,openstack/blazar-nova,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.service,Core,1.0204081632653061,0.6711409395973155,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.service,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/blazar-dashboard,Core,3.3333333333333335,1.694915254237288,1,1
+openstack/charm-interface-cinder-backend,openstack/blazar-dashboard,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/paunch,Core,1.8518518518518516,0.8620689655172413,1,1
+openstack/charm-interface-cinder-backend,openstack/paunch,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/service-types-authority,Core,0.0,1.36986301369863,0,1
+openstack/charm-interface-cinder-backend,openstack/service-types-authority,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-ironic-inspector-client,Core,0.0,1.1111111111111112,0,1
+openstack/charm-interface-cinder-backend,openstack/python-ironic-inspector-client,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-memcached_server,Core,1.8867924528301887,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-memcached_server,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/os-testr,Core,1.8518518518518516,1.098901098901099,2,1
+openstack/charm-interface-cinder-backend,openstack/os-testr,Non core,1.8518518518518516,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-ceph_client,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-ceph_client,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_magnum,Core,1.6129032258064515,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_magnum,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_blazar,Core,0.0,2.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_blazar,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_designate,Core,1.4925373134328357,1.0638297872340425,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_designate,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_gnocchi,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_senlin,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ptgbot,Core,0.0,2.857142857142857,0,1
+openstack/charm-interface-cinder-backend,openstack/ptgbot,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_zun,Core,2.857142857142857,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_zun,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-repo_server,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-repo_server,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-watcherclient,Core,0.0,1.1235955056179776,0,1
+openstack/charm-interface-cinder-backend,openstack/python-watcherclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/heat-agents,Core,0.0,1.0638297872340425,0,1
+openstack/charm-interface-cinder-backend,openstack/heat-agents,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/oslo.rootwrap,Core,1.2658227848101267,0.8,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.rootwrap,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/automaton,Core,2.631578947368421,1.9607843137254901,1,1
+openstack/charm-interface-cinder-backend,openstack/automaton,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/debtcollector,Core,2.0,2.0,1,1
+openstack/charm-interface-cinder-backend,openstack/debtcollector,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/vitrage-dashboard,Core,0.0,1.3157894736842104,0,1
+openstack/charm-interface-cinder-backend,openstack/vitrage-dashboard,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/oslotest,Core,1.4925373134328357,1.0416666666666665,1,1
+openstack/charm-interface-cinder-backend,openstack/oslotest,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/kayobe-config,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/kayobe-config,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/compute-hyperv,Core,0.0,2.083333333333333,0,1
+openstack/charm-interface-cinder-backend,openstack/compute-hyperv,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-cloudkittyclient,Core,0.0,1.282051282051282,0,1
+openstack/charm-interface-cinder-backend,openstack/python-cloudkittyclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone,Core,5.555555555555555,5.263157894736842,4,6
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone,Non core,16.666666666666664,26.31578947368421,4,6
+openstack/charm-interface-cinder-backend,openstack/cloudkitty-dashboard,Core,0.0,1.1904761904761905,0,1
+openstack/charm-interface-cinder-backend,openstack/cloudkitty-dashboard,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/networking-hyperv,Core,3.4482758620689653,1.694915254237288,2,1
+openstack/charm-interface-cinder-backend,openstack/networking-hyperv,Non core,0.0,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/i18n,Core,4.166666666666666,1.282051282051282,2,1
+openstack/charm-interface-cinder-backend,openstack/i18n,Non core,0.0,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/sahara-tests,Core,2.2222222222222223,1.3513513513513513,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-tests,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/python-zunclient,Core,1.1111111111111112,0.9009009009009009,1,1
+openstack/charm-interface-cinder-backend,openstack/python-zunclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-cdh,Core,5.263157894736842,3.4482758620689653,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-cdh,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/monasca-ui,Core,1.2048192771084338,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/monasca-ui,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/python-adjutantclient,Core,5.555555555555555,5.0,1,1
+openstack/charm-interface-cinder-backend,openstack/python-adjutantclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/charm-ceph-nfs,Core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-ceph-nfs,Non core,0.0,10.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-lunasa-hsm,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/monasca-thresh,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/monasca-thresh,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/heat-specs,Core,1.2987012987012987,0.5235602094240838,1,1
+openstack/charm-interface-cinder-backend,openstack/heat-specs,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/watcher-dashboard,Core,0.0,1.3513513513513513,0,1
+openstack/charm-interface-cinder-backend,openstack/watcher-dashboard,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-ambari,Core,5.555555555555555,4.545454545454546,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-ambari,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-mapr,Core,5.88235294117647,3.7037037037037033,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-mapr,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-spark,Core,6.25,5.88235294117647,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-spark,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-storm,Core,6.25,5.555555555555555,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-storm,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-vanilla,Core,6.25,5.0,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-plugin-vanilla,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/sahara-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/sahara-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/venus-tempest-plugin,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ceilometermiddleware,Core,0.0,1.2345679012345678,0,1
+openstack/charm-interface-cinder-backend,openstack/ceilometermiddleware,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/trove-tempest-plugin,Core,5.0,2.7027027027027026,1,1
+openstack/charm-interface-cinder-backend,openstack/trove-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/arch-design,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/arch-design,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/monasca-common,Core,1.2345679012345678,0.8695652173913043,1,1
+openstack/charm-interface-cinder-backend,openstack/monasca-common,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/monasca-statsd,Core,2.1739130434782608,1.5625,1,1
+openstack/charm-interface-cinder-backend,openstack/monasca-statsd,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/python-monascaclient,Core,1.0638297872340425,0.8,2,1
+openstack/charm-interface-cinder-backend,openstack/python-monascaclient,Non core,1.0638297872340425,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/renderspec,Core,3.3333333333333335,2.857142857142857,1,1
+openstack/charm-interface-cinder-backend,openstack/renderspec,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/os-service-types,Core,3.571428571428571,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/os-service-types,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/masakari-dashboard,Core,3.0303030303030303,1.8181818181818181,1,1
+openstack/charm-interface-cinder-backend,openstack/masakari-dashboard,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/freezer-dr,Core,0.0,2.2222222222222223,0,1
+openstack/charm-interface-cinder-backend,openstack/freezer-dr,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/tempest-stress,Core,0.0,4.166666666666666,1,1
+openstack/charm-interface-cinder-backend,openstack/tempest-stress,Non core,3.8461538461538463,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/charm-neutron-api-genericswitch,Core,0.0,10.0,0,3
+openstack/charm-interface-cinder-backend,openstack/charm-neutron-api-genericswitch,Non core,0.0,20.0,0,3
+openstack/charm-interface-cinder-backend,openstack/charm-neutron-dynamic-routing,Core,5.0,5.0,3,6
+openstack/charm-interface-cinder-backend,openstack/charm-neutron-dynamic-routing,Non core,10.0,25.0,3,6
+openstack/charm-interface-cinder-backend,openstack/charm-interface-ceph-client,Core,9.090909090909092,7.142857142857142,4,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-ceph-client,Non core,27.27272727272727,28.57142857142857,4,5
+openstack/charm-interface-cinder-backend,openstack/charm-percona-cluster,Core,2.3255813953488373,1.9607843137254901,4,7
+openstack/charm-interface-cinder-backend,openstack/charm-percona-cluster,Non core,6.976744186046512,11.76470588235294,4,7
+openstack/charm-interface-cinder-backend,openstack/charm-deployment-guide,Core,0.0,0.0,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-deployment-guide,Non core,5.405405405405405,13.88888888888889,2,5
+openstack/charm-interface-cinder-backend,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/oslo.metrics,Core,7.142857142857142,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/oslo.metrics,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/oslo.vmware,Core,1.1627906976744187,0.6666666666666667,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.vmware,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.upgradecheck,Core,4.166666666666666,2.857142857142857,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.upgradecheck,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/python-masakariclient,Core,2.083333333333333,1.694915254237288,1,1
+openstack/charm-interface-cinder-backend,openstack/python-masakariclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/python-vitrageclient,Core,1.6666666666666667,2.1739130434782608,1,1
+openstack/charm-interface-cinder-backend,openstack/python-vitrageclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/python-blazarclient,Core,1.694915254237288,1.1904761904761905,1,1
+openstack/charm-interface-cinder-backend,openstack/python-blazarclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/zaqar-tempest-plugin,Core,5.263157894736842,3.125,1,1
+openstack/charm-interface-cinder-backend,openstack/zaqar-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/tripleo-common-tempest-plugin,Core,4.3478260869565215,2.5,1,1
+openstack/charm-interface-cinder-backend,openstack/tripleo-common-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/mistral-tempest-plugin,Core,3.3333333333333335,2.380952380952381,1,1
+openstack/charm-interface-cinder-backend,openstack/mistral-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/barbican-ui,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/barbican-ui,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/liberasurecode,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/liberasurecode,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/os-client-config,Core,1.1764705882352942,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/os-client-config,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/monasca-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/monasca-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/os-performance-tools,Core,4.166666666666666,3.571428571428571,2,1
+openstack/charm-interface-cinder-backend,openstack/os-performance-tools,Non core,4.166666666666666,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/trove-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/trove-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/manila-image-elements,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/manila-image-elements,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/blazar-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/blazar-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/molteniron,Core,5.555555555555555,3.0303030303030303,1,1
+openstack/charm-interface-cinder-backend,openstack/molteniron,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/solum-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/solum-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/patrole,Core,1.0526315789473684,0.8403361344537815,2,1
+openstack/charm-interface-cinder-backend,openstack/patrole,Non core,1.0526315789473684,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/performance-docs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/performance-docs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/sphinx-feature-classification,Core,3.8461538461538463,2.380952380952381,1,1
+openstack/charm-interface-cinder-backend,openstack/sphinx-feature-classification,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/etcd3gw,Core,7.142857142857142,5.555555555555555,1,1
+openstack/charm-interface-cinder-backend,openstack/etcd3gw,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/watcher-specs,Core,0.0,1.1111111111111112,0,1
+openstack/charm-interface-cinder-backend,openstack/watcher-specs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/yaql,Core,2.380952380952381,1.5873015873015872,1,1
+openstack/charm-interface-cinder-backend,openstack/yaql,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/puppet-openstack-guide,Core,0.0,2.127659574468085,0,1
+openstack/charm-interface-cinder-backend,openstack/puppet-openstack-guide,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/puppet-panko,Core,0.0,2.5,0,1
+openstack/charm-interface-cinder-backend,openstack/puppet-panko,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/heat-cfnclient,Core,0.0,2.5,0,1
+openstack/charm-interface-cinder-backend,openstack/heat-cfnclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/heat-cfntools,Core,0.0,1.3157894736842104,0,1
+openstack/charm-interface-cinder-backend,openstack/heat-cfntools,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/heat-templates,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/heat-templates,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/governance-sigs,Core,2.5,0.9259259259259258,1,2
+openstack/charm-interface-cinder-backend,openstack/governance-sigs,Non core,0.0,0.9259259259259258,1,2
+openstack/charm-interface-cinder-backend,openstack/openstack-zuul-roles,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-zuul-roles,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/nova-powervm,Core,1.5873015873015872,0.9433962264150944,1,1
+openstack/charm-interface-cinder-backend,openstack/nova-powervm,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-helm-addons,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-helm-addons,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-pankoclient,Core,3.225806451612903,2.127659574468085,1,1
+openstack/charm-interface-cinder-backend,openstack/python-pankoclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/qa-specs,Core,1.8518518518518516,0.847457627118644,1,1
+openstack/charm-interface-cinder-backend,openstack/qa-specs,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/zaqar-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/zaqar-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/swift-bench,Core,0.0,2.272727272727273,0,1
+openstack/charm-interface-cinder-backend,openstack/swift-bench,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/whereto,Core,4.3478260869565215,3.4482758620689653,1,1
+openstack/charm-interface-cinder-backend,openstack/whereto,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/murano-specs,Core,0.0,1.4492753623188406,0,1
+openstack/charm-interface-cinder-backend,openstack/murano-specs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-modify-image,Core,2.857142857142857,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-modify-image,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/requestsexceptions,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/requestsexceptions,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/panko,Core,1.282051282051282,0.9174311926605505,1,1
+openstack/charm-interface-cinder-backend,openstack/panko,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/api-sig,Core,0.0,0.49504950495049505,0,1
+openstack/charm-interface-cinder-backend,openstack/api-sig,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-chef-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-chef-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/freezer-specs,Core,0.0,2.941176470588235,1,1
+openstack/charm-interface-cinder-backend,openstack/freezer-specs,Non core,3.7037037037037033,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/oslo.tools,Core,2.7027027027027026,2.7777777777777777,2,1
+openstack/charm-interface-cinder-backend,openstack/oslo.tools,Non core,2.7027027027027026,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/microversion-parse,Core,6.666666666666667,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/microversion-parse,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstackclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstackclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ossa,Core,0.0,1.4705882352941175,0,1
+openstack/charm-interface-cinder-backend,openstack/ossa,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/reviewstats,Core,2.4390243902439024,0.0,2,0
+openstack/charm-interface-cinder-backend,openstack/reviewstats,Non core,0.0,0.0,2,0
+openstack/charm-interface-cinder-backend,openstack/oslo-cookiecutter,Core,3.571428571428571,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/oslo-cookiecutter,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/security-analysis,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/security-analysis,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-keystone,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-keystone,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-apt_package_pinning,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-apt_package_pinning,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-qdrouterd,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-qdrouterd,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-openstack_openrc,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-openstack_openrc,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-nspawn_container_create,Core,3.7037037037037033,2.564102564102564,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-nspawn_container_create,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/devstack-tools,Core,0.0,4.166666666666666,1,1
+openstack/charm-interface-cinder-backend,openstack/devstack-tools,Non core,4.3478260869565215,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/coverage2sql,Core,3.4482758620689653,3.7037037037037033,2,1
+openstack/charm-interface-cinder-backend,openstack/coverage2sql,Non core,3.4482758620689653,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/bashate,Core,1.8518518518518516,1.6129032258064515,2,1
+openstack/charm-interface-cinder-backend,openstack/bashate,Non core,1.8518518518518516,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/hacking,Core,1.0869565217391304,0.6134969325153374,2,1
+openstack/charm-interface-cinder-backend,openstack/hacking,Non core,1.0869565217391304,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/xstatic-mdi,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-chef,Core,3.225806451612903,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-chef,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstackclient,Core,7.6923076923076925,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstackclient,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-interface-hacluster,Core,10.0,5.555555555555555,5,6
+openstack/charm-interface-cinder-backend,openstack/charm-interface-hacluster,Non core,15.0,27.77777777777778,5,6
+openstack/charm-interface-cinder-backend,openstack/puppet-openstack-specs,Core,3.225806451612903,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/puppet-openstack-specs,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/puppet-monasca,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/puppet-monasca,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/eslint-config-openstack,Core,0.0,1.8518518518518516,0,1
+openstack/charm-interface-cinder-backend,openstack/eslint-config-openstack,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/karma-subunit-reporter,Core,10.0,7.6923076923076925,1,1
+openstack/charm-interface-cinder-backend,openstack/karma-subunit-reporter,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-helm-docs,Core,0.0,3.125,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-helm-docs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-specs,Core,1.639344262295082,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-specs,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/tempest-lib,Core,0.0,1.0204081632653061,0,1
+openstack/charm-interface-cinder-backend,openstack/tempest-lib,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/tripleo-ha-utils,Core,7.142857142857142,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/tripleo-ha-utils,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/devstack-vagrant,Core,0.0,3.225806451612903,0,1
+openstack/charm-interface-cinder-backend,openstack/devstack-vagrant,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/goal-tools,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/goal-tools,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cookiecutter,Core,2.0408163265306123,1.3157894736842104,1,1
+openstack/charm-interface-cinder-backend,openstack/cookiecutter,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/dib-utils,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/dib-utils,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/constellations,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/constellations,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-integration-test,Core,4.166666666666666,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-integration-test,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-dashboard,Core,0.0,1.3157894736842104,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-dashboard,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-telemetry,Core,0.0,1.7543859649122806,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-telemetry,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-orchestration,Core,2.380952380952381,1.6129032258064515,1,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-orchestration,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-bare-metal,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-bare-metal,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-dns,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-dns,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-compute,Core,0.0,1.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-compute,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-network,Core,1.36986301369863,1.0526315789473684,1,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-network,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-block-storage,Core,0.0,1.3157894736842104,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-block-storage,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-image,Core,0.0,1.3333333333333335,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-image,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-identity,Core,1.6666666666666667,1.2345679012345678,1,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-identity,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-ops-database,Core,2.4390243902439024,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-ops-database,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-ops-messaging,Core,2.941176470588235,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-ops-messaging,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-common,Core,1.4705882352941175,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-common,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/self-healing-sig,Core,0.0,3.125,0,1
+openstack/charm-interface-cinder-backend,openstack/self-healing-sig,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,2
+openstack/charm-interface-cinder-backend,openstack/charm-ops-interface-tls-certificates,Non core,0.0,20.0,0,2
+openstack/charm-interface-cinder-backend,openstack/security-specs,Core,4.761904761904762,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/security-specs,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_panko,Core,0.0,2.1739130434782608,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_panko,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-nspawn_hosts,Core,0.0,2.4390243902439024,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-nspawn_hosts,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-layer-openstack-principle,Core,0.0,0.0,2,4
+openstack/charm-interface-cinder-backend,openstack/charm-layer-openstack-principle,Non core,20.0,36.36363636363637,2,4
+openstack/charm-interface-cinder-backend,openstack/charm-watcher-dashboard,Core,12.5,0.0,2,2
+openstack/charm-interface-cinder-backend,openstack/charm-watcher-dashboard,Non core,12.5,12.5,2,2
+openstack/charm-interface-cinder-backend,openstack/charm-watcher,Core,10.0,0.0,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-watcher,Non core,10.0,22.727272727272727,2,5
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-galera_client,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-galera_client,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cloudkitty-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cloudkitty-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/osops,Core,0.0,6.25,0,1
+openstack/charm-interface-cinder-backend,openstack/osops,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-ironic,Core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/charm-ironic,Non core,9.090909090909092,10.0,1,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/multi-arch-sig,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/multi-arch-sig,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-nova-compute-proxy,Core,0.0,0.0,1,4
+openstack/charm-interface-cinder-backend,openstack/charm-nova-compute-proxy,Non core,5.88235294117647,25.0,1,4
+openstack/charm-interface-cinder-backend,openstack/charm-odl-controller,Core,0.0,0.0,2,4
+openstack/charm-interface-cinder-backend,openstack/charm-odl-controller,Non core,11.76470588235294,28.57142857142857,2,4
+openstack/charm-interface-cinder-backend,openstack/charm-nova-lxd,Core,4.166666666666666,0.0,3,4
+openstack/charm-interface-cinder-backend,openstack/charm-nova-lxd,Non core,8.333333333333332,14.285714285714285,3,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-nova-cell,Core,0.0,14.285714285714285,1,3
+openstack/charm-interface-cinder-backend,openstack/charm-interface-nova-cell,Non core,16.666666666666664,28.57142857142857,1,3
+openstack/charm-interface-cinder-backend,openstack/charm-interface-magpie,Core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-interface-magpie,Non core,0.0,11.11111111111111,0,1
+openstack/charm-interface-cinder-backend,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-interface-barbican-secrets,Core,25.0,9.090909090909092,5,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-barbican-secrets,Non core,37.5,27.27272727272727,5,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-mysql-innodb-cluster,Core,14.285714285714285,0.0,1,3
+openstack/charm-interface-cinder-backend,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,37.5,1,3
+openstack/charm-interface-cinder-backend,openstack/charm-interface-ceph-rbd-mirror,Core,25.0,8.333333333333332,4,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-ceph-rbd-mirror,Non core,25.0,25.0,4,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-placement,Core,28.57142857142857,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/charm-interface-placement,Non core,0.0,14.285714285714285,2,1
+openstack/charm-interface-cinder-backend,openstack/charm-interface-mysql-shared,Core,16.666666666666664,0.0,3,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-mysql-shared,Non core,8.333333333333332,45.45454545454545,3,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-dashboard-plugin,Core,25.0,9.090909090909092,5,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-dashboard-plugin,Non core,37.5,27.27272727272727,5,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-neutron-load-balancer,Core,25.0,9.090909090909092,5,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-neutron-load-balancer,Non core,37.5,27.27272727272727,5,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-neutron-plugin-api-subordinate,Core,18.181818181818183,8.333333333333332,5,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,27.27272727272727,33.33333333333333,5,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-neutron-plugin,Core,11.11111111111111,11.11111111111111,4,6
+openstack/charm-interface-cinder-backend,openstack/charm-interface-neutron-plugin,Non core,33.33333333333333,55.55555555555556,4,6
+openstack/charm-interface-cinder-backend,openstack/xstatic-json2yaml,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-json2yaml,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-js-yaml,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-js-yaml,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-spin,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-spin,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-panko,Core,0.0,6.666666666666667,0,5
+openstack/charm-interface-cinder-backend,openstack/charm-panko,Non core,0.0,26.666666666666668,0,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-service-control,Core,22.22222222222222,7.6923076923076925,5,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-service-control,Non core,33.33333333333333,23.076923076923077,5,4
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_almanach,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_almanach,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-pip_install,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-pip_install,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-karborclient,Core,0.0,1.4084507042253522,0,1
+openstack/charm-interface-cinder-backend,openstack/python-karborclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone-admin,Core,0.0,0.0,1,2
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone-admin,Non core,10.0,18.181818181818183,1,2
+openstack/charm-interface-cinder-backend,openstack/charm-interface-nova-compute,Core,20.0,6.666666666666667,5,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-nova-compute,Non core,30.0,20.0,5,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-manila-plugin,Core,0.0,10.0,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-manila-plugin,Non core,20.0,40.0,2,5
+openstack/charm-interface-cinder-backend,openstack/murano-apps,Core,0.0,1.282051282051282,0,1
+openstack/charm-interface-cinder-backend,openstack/murano-apps,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/puppet-senlin,Core,0.0,4.0,0,1
+openstack/charm-interface-cinder-backend,openstack/puppet-senlin,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-application-catalog,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/training-labs,Core,0.0,1.9230769230769231,0,1
+openstack/charm-interface-cinder-backend,openstack/training-labs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/karbor,Core,0.0,0.5847953216374269,0,1
+openstack/charm-interface-cinder-backend,openstack/karbor,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-open-cas,Core,0.0,5.88235294117647,0,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_congress,Core,0.0,1.9607843137254901,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_congress,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,2
+openstack/charm-interface-cinder-backend,openstack/charm-ops-interface-ceph-client,Non core,0.0,20.0,0,2
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone-notifications,Core,0.0,14.285714285714285,1,3
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone-notifications,Non core,16.666666666666664,28.57142857142857,1,3
+openstack/charm-interface-cinder-backend,openstack/os-collect-config,Core,1.694915254237288,0.9009009009009009,1,1
+openstack/charm-interface-cinder-backend,openstack/os-collect-config,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/os-apply-config,Core,1.7241379310344827,0.9708737864077669,1,1
+openstack/charm-interface-cinder-backend,openstack/os-apply-config,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/puppet-freezer,Core,0.0,2.941176470588235,0,1
+openstack/charm-interface-cinder-backend,openstack/puppet-freezer,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/vitrage-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/vitrage-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/specs-cookiecutter,Core,0.0,4.545454545454546,0,1
+openstack/charm-interface-cinder-backend,openstack/specs-cookiecutter,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/rpm-packaging-tools,Core,5.88235294117647,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/rpm-packaging-tools,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-openstack-operations,Core,10.0,0.0,2,0
+openstack/charm-interface-cinder-backend,openstack/ansible-role-openstack-operations,Non core,0.0,0.0,2,0
+openstack/charm-interface-cinder-backend,openstack/os-refresh-config,Core,2.272727272727273,1.2195121951219512,1,1
+openstack/charm-interface-cinder-backend,openstack/os-refresh-config,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/mistral-specs,Core,0.0,2.1739130434782608,0,1
+openstack/charm-interface-cinder-backend,openstack/mistral-specs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/scientific-wg,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/scientific-wg,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone-fid-service-provider,Core,14.285714285714285,10.0,3,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone-fid-service-provider,Non core,28.57142857142857,30.0,3,4
+openstack/charm-interface-cinder-backend,openstack/manila-test-image,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/manila-test-image,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/governance-website,Core,6.666666666666667,3.571428571428571,1,1
+openstack/charm-interface-cinder-backend,openstack/governance-website,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/bugdaystats,Core,0.0,4.3478260869565215,0,1
+openstack/charm-interface-cinder-backend,openstack/bugdaystats,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/upstream-institute-virtual-environment,Core,0.0,5.0,1,1
+openstack/charm-interface-cinder-backend,openstack/upstream-institute-virtual-environment,Non core,8.333333333333332,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/karbor-dashboard,Core,0.0,1.5151515151515151,0,1
+openstack/charm-interface-cinder-backend,openstack/karbor-dashboard,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/django_openstack_auth,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/django_openstack_auth,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/monasca-transform,Core,0.0,1.694915254237288,0,1
+openstack/charm-interface-cinder-backend,openstack/monasca-transform,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/monasca-ceilometer,Core,0.0,1.2345679012345678,0,1
+openstack/charm-interface-cinder-backend,openstack/monasca-ceilometer,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/monasca-log-api,Core,1.639344262295082,0.9900990099009901,1,1
+openstack/charm-interface-cinder-backend,openstack/monasca-log-api,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/nose-html-output,Core,0.0,4.545454545454546,0,1
+openstack/charm-interface-cinder-backend,openstack/nose-html-output,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/kolla-cli,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/kolla-cli,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/neutron-lbaas-dashboard,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/neutron-lbaas-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/searchlight,Core,0.8130081300813009,0.6993006993006993,1,1
+openstack/charm-interface-cinder-backend,openstack/searchlight,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/searchlight-ui,Core,0.0,1.694915254237288,0,1
+openstack/charm-interface-cinder-backend,openstack/searchlight-ui,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/searchlight-specs,Core,0.0,2.3255813953488373,0,1
+openstack/charm-interface-cinder-backend,openstack/searchlight-specs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-searchlightclient,Core,2.0,1.6129032258064515,1,1
+openstack/charm-interface-cinder-backend,openstack/python-searchlightclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/charm-tempest,Core,4.166666666666666,3.7037037037037033,4,6
+openstack/charm-interface-cinder-backend,openstack/charm-tempest,Non core,12.5,18.51851851851852,4,6
+openstack/charm-interface-cinder-backend,openstack/charm-barbican-softhsm,Core,4.761904761904762,4.761904761904762,4,7
+openstack/charm-interface-cinder-backend,openstack/charm-barbican-softhsm,Non core,14.285714285714285,28.57142857142857,4,7
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-client,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-client,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/instack-undercloud,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/instack-undercloud,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/publiccloud-sig,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/publiccloud-sig,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ideas,Core,0.0,2.7027027027027026,0,1
+openstack/charm-interface-cinder-backend,openstack/ideas,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/uc-recognition,Core,0.0,5.88235294117647,0,1
+openstack/charm-interface-cinder-backend,openstack/uc-recognition,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ops-tags-team,Core,0.0,2.5,0,1
+openstack/charm-interface-cinder-backend,openstack/ops-tags-team,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/enterprise-wg,Core,0.0,12.5,0,1
+openstack/charm-interface-cinder-backend,openstack/enterprise-wg,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/governance-uc,Core,0.0,1.6129032258064515,0,1
+openstack/charm-interface-cinder-backend,openstack/governance-uc,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/workload-ref-archs,Core,0.0,4.3478260869565215,0,1
+openstack/charm-interface-cinder-backend,openstack/workload-ref-archs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/arch-wg,Core,0.0,4.166666666666666,0,1
+openstack/charm-interface-cinder-backend,openstack/arch-wg,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/project-navigator-data,Core,0.0,3.0303030303030303,0,1
+openstack/charm-interface-cinder-backend,openstack/project-navigator-data,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-specs,Core,0.0,0.5291005291005291,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-specs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_monasca,Core,2.380952380952381,1.639344262295082,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_monasca,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_monasca-agent,Core,3.3333333333333335,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_monasca-agent,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/ironic-inspector-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/ironic-inspector-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/sushy-cli,Core,7.142857142857142,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/sushy-cli,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/puppet-glare,Core,0.0,2.7027027027027026,0,1
+openstack/charm-interface-cinder-backend,openstack/puppet-glare,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-planet,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-planet,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone-credentials,Core,0.0,8.333333333333332,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone-credentials,Non core,14.285714285714285,33.33333333333333,2,5
+openstack/charm-interface-cinder-backend,openstack/monasca-kibana-plugin,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/monasca-kibana-plugin,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone-domain-backend,Core,0.0,11.11111111111111,3,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-keystone-domain-backend,Non core,30.0,33.33333333333333,3,4
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-amqp1,Core,5.88235294117647,3.571428571428571,1,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-amqp1,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-kafka,Core,7.6923076923076925,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-kafka,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/tripleo-ipsec,Core,5.88235294117647,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/tripleo-ipsec,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/monasca-grafana-datasource,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-interface-bind-rndc,Core,0.0,9.090909090909092,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-bind-rndc,Non core,15.384615384615385,36.36363636363637,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-rabbitmq,Core,0.0,8.333333333333332,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-rabbitmq,Non core,16.666666666666664,33.33333333333333,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-openstack-ha,Core,0.0,8.333333333333332,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-openstack-ha,Non core,18.181818181818183,33.33333333333333,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-gnocchi,Core,0.0,5.88235294117647,2,6
+openstack/charm-interface-cinder-backend,openstack/charm-interface-gnocchi,Non core,20.0,29.411764705882355,2,6
+openstack/charm-interface-cinder-backend,openstack/charm-interface-bgp,Core,10.0,9.090909090909092,4,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-bgp,Non core,30.0,36.36363636363637,4,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-websso-fid-service-provider,Core,16.666666666666664,14.285714285714285,3,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-websso-fid-service-provider,Non core,33.33333333333333,57.14285714285714,3,5
+openstack/charm-interface-cinder-backend,openstack/charm-interface-designate,Core,0.0,11.11111111111111,2,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-designate,Non core,25.0,33.33333333333333,2,4
+openstack/charm-interface-cinder-backend,openstack/tempest-horizon,Core,0.0,3.4482758620689653,0,1
+openstack/charm-interface-cinder-backend,openstack/tempest-horizon,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/logstash-filters,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/logstash-filters,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/qinling-dashboard,Core,0.0,4.3478260869565215,0,1
+openstack/charm-interface-cinder-backend,openstack/qinling-dashboard,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-qinlingclient,Core,2.7777777777777777,3.0303030303030303,1,1
+openstack/charm-interface-cinder-backend,openstack/python-qinlingclient,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/qinling,Core,2.0,2.272727272727273,1,1
+openstack/charm-interface-cinder-backend,openstack/qinling,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/monasca-analytics,Core,0.0,2.0408163265306123,0,1
+openstack/charm-interface-cinder-backend,openstack/monasca-analytics,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/oslo-incubator,Core,0.0,0.22935779816513763,0,1
+openstack/charm-interface-cinder-backend,openstack/oslo-incubator,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/puppet-congress,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/puppet-congress,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_monasca-ui,Core,0.0,3.8461538461538463,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/auto-scaling-sig,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/auto-scaling-sig,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/os-loganalyze,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/os-loganalyze,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-pika,Core,10.0,5.555555555555555,1,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-pika,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-zmq,Core,6.666666666666667,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-zmq,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/networking-l2gw,Core,0.0,0.6329113924050633,0,1
+openstack/charm-interface-cinder-backend,openstack/networking-l2gw,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/networking-l2gw-tempest-plugin,Core,0.0,3.3333333333333335,0,1
+openstack/charm-interface-cinder-backend,openstack/networking-l2gw-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-interface-ceph-mds,Core,0.0,0.0,2,3
+openstack/charm-interface-cinder-backend,openstack/charm-interface-ceph-mds,Non core,16.666666666666664,27.27272727272727,2,3
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-ui-router,Core,0.0,7.142857142857142,0,1
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-ui-router,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/xstatic-vis,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/xstatic-vis,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-database,Core,0.0,3.3333333333333335,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-database,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-data-processing,Core,0.0,4.166666666666666,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-data-processing,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/trove-integration,Core,0.0,0.9259259259259258,0,1
+openstack/charm-interface-cinder-backend,openstack/trove-integration,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-sensu,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-ceilometerclient,Core,0.0,0.5235602094240838,0,1
+openstack/charm-interface-cinder-backend,openstack/python-ceilometerclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/keystoneauth-saml2,Core,0.0,2.5,0,1
+openstack/charm-interface-cinder-backend,openstack/keystoneauth-saml2,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/murano-deployment,Core,0.0,2.3255813953488373,0,1
+openstack/charm-interface-cinder-backend,openstack/murano-deployment,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-keystoneclient-kerberos,Core,0.0,2.631578947368421,0,1
+openstack/charm-interface-cinder-backend,openstack/python-keystoneclient-kerberos,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-wsmanclient,Core,0.0,6.666666666666667,0,1
+openstack/charm-interface-cinder-backend,openstack/python-wsmanclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/fuel-upgrade,Core,0.0,3.0303030303030303,0,1
+openstack/charm-interface-cinder-backend,openstack/fuel-upgrade,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-object-storage,Core,0.0,2.0408163265306123,0,1
+openstack/charm-interface-cinder-backend,openstack/cookbook-openstack-object-storage,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/fairy-slipper,Core,0.0,4.3478260869565215,0,1
+openstack/charm-interface-cinder-backend,openstack/fairy-slipper,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/django-openstack-auth-kerberos,Core,0.0,4.3478260869565215,0,1
+openstack/charm-interface-cinder-backend,openstack/django-openstack-auth-kerberos,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/horizon-cisco-ui,Core,0.0,5.0,0,1
+openstack/charm-interface-cinder-backend,openstack/horizon-cisco-ui,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/zuul-packaging,Core,0.0,5.88235294117647,0,1
+openstack/charm-interface-cinder-backend,openstack/zuul-packaging,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/networking-generic-switch-tempest-plugin,Core,0.0,12.5,0,1
+openstack/charm-interface-cinder-backend,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/tripleo-incubator,Core,0.0,0.591715976331361,0,1
+openstack/charm-interface-cinder-backend,openstack/tripleo-incubator,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ironic-webclient,Core,0.0,2.7027027027027026,0,1
+openstack/charm-interface-cinder-backend,openstack/ironic-webclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/puppet-crane,Core,0.0,10.0,0,1
+openstack/charm-interface-cinder-backend,openstack/puppet-crane,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/release-tools,Core,0.0,1.2658227848101267,0,1
+openstack/charm-interface-cinder-backend,openstack/release-tools,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/gnocchi,Core,0.0,0.7352941176470588,0,1
+openstack/charm-interface-cinder-backend,openstack/gnocchi,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/networking-ofagent,Core,0.0,3.125,0,1
+openstack/charm-interface-cinder-backend,openstack/networking-ofagent,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-neutron-pd-driver,Core,0.0,9.090909090909092,0,1
+openstack/charm-interface-cinder-backend,openstack/python-neutron-pd-driver,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-ceph,Core,0.0,4.545454545454546,2,5
+openstack/charm-interface-cinder-backend,openstack/charm-ceph,Non core,8.333333333333332,18.181818181818183,2,5
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_freezer,Core,0.0,11.11111111111111,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-pip_lock_down,Core,0.0,4.545454545454546,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-security,Core,0.0,1.3157894736842104,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-security,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/oslosphinx,Core,0.0,1.3157894736842104,0,1
+openstack/charm-interface-cinder-backend,openstack/oslosphinx,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-gnocchiclient,Core,0.0,2.564102564102564,0,1
+openstack/charm-interface-cinder-backend,openstack/python-gnocchiclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-cinder,Core,0.0,10.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-cookiecutter,Core,0.0,9.090909090909092,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-glance,Core,0.0,9.090909090909092,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-keystone,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-mariadb,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-rabbitmq,Core,0.0,12.5,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-tripleo,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-ui,Core,0.0,7.142857142857142,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-aodh,Core,0.0,7.142857142857142,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-barbican,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-ceilometer,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-cinder,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-cookiecutter,Core,0.0,4.761904761904762,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/tripleo-ui,Core,0.0,1.3157894736842104,0,1
+openstack/charm-interface-cinder-backend,openstack/tripleo-ui,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-ovn,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-opendaylight,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-octavia,Core,8.333333333333332,7.6923076923076925,1,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-nova,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-nova,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/os-cloud-config,Core,0.0,1.0,0,1
+openstack/charm-interface-cinder-backend,openstack/os-cloud-config,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-zaqar,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-tempest,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-sahara,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-swift,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-tacker,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-rabbitmq,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-qdrouterd,Core,0.0,11.11111111111111,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-panko,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-heat,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-haproxy,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-gnocchi,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-glance,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-glance,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-designate,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-neutron,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-mistral,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-memcached,Core,0.0,7.142857142857142,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-memcached,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-manila,Core,0.0,7.142857142857142,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-manila,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-ironic,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-keepalived,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-horizon,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-cinder-backend,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/pylockfile,Core,0.0,3.8461538461538463,0,1
+openstack/charm-interface-cinder-backend,openstack/pylockfile,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/dragonflow,Core,0.7692307692307693,0.5050505050505051,1,1
+openstack/charm-interface-cinder-backend,openstack/dragonflow,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/openstack,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-interface-pacemaker-remote,Core,25.0,8.333333333333332,3,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-pacemaker-remote,Non core,12.5,25.0,3,4
+openstack/charm-interface-cinder-backend,openstack/networking-onos,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/networking-onos,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/solum-infra-guestagent,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/solum-infra-guestagent,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ux,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ux,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/mox3,Core,0.0,2.272727272727273,0,1
+openstack/charm-interface-cinder-backend,openstack/mox3,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-layer-ceph,Core,0.0,0.0,2,1
+openstack/charm-interface-cinder-backend,openstack/charm-layer-ceph,Non core,28.57142857142857,12.5,2,1
+openstack/charm-interface-cinder-backend,openstack/charm-layer-ceph-base,Core,0.0,0.0,2,3
+openstack/charm-interface-cinder-backend,openstack/charm-layer-ceph-base,Non core,22.22222222222222,30.0,2,3
+openstack/charm-interface-cinder-backend,openstack/python-tricircleclient,Core,0.0,2.7777777777777777,0,1
+openstack/charm-interface-cinder-backend,openstack/python-tricircleclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/tricircle,Core,1.1627906976744187,0.6896551724137931,1,1
+openstack/charm-interface-cinder-backend,openstack/tricircle,Non core,0.0,0.0,1,1
+openstack/charm-interface-cinder-backend,openstack/swift-specs,Core,0.0,1.4084507042253522,0,1
+openstack/charm-interface-cinder-backend,openstack/swift-specs,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/congress,Core,0.6329113924050633,0.4629629629629629,1,2
+openstack/charm-interface-cinder-backend,openstack/congress,Non core,0.0,0.4629629629629629,1,2
+openstack/charm-interface-cinder-backend,openstack/congress-tempest-plugin,Core,0.0,3.125,0,1
+openstack/charm-interface-cinder-backend,openstack/congress-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/python-congressclient,Core,0.0,1.694915254237288,0,1
+openstack/charm-interface-cinder-backend,openstack/python-congressclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/congress-specs,Core,2.5,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/congress-specs,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/congress-dashboard,Core,0.0,2.4390243902439024,0,1
+openstack/charm-interface-cinder-backend,openstack/congress-dashboard,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/syntribos,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/syntribos,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/syntribos-payloads,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/syntribos-payloads,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/syntribos-openstack-templates,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/syntribos-openstack-templates,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/i18n-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/i18n-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/tempest-plugin-cookiecutter,Core,0.0,5.263157894736842,0,1
+openstack/charm-interface-cinder-backend,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-cookiecutter,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-cinder-backend,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/xstatic-graphlib,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-graphlib,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-repo_build,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-repo_build,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-hogan,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_molteniron,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_molteniron,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/faafo,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/faafo,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/networking-calico,Core,0.0,1.5625,0,1
+openstack/charm-interface-cinder-backend,openstack/networking-calico,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/shotgun,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/shotgun,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-devops,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-devops,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-plugin-murano,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-plugin-murano,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-web,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-web,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-plugins,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-plugins,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-virtualbox,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-virtualbox,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-ostf,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-ostf,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-qa,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-qa,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-nailgun-extension-cluster-upgrade,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-nailgun-agent,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-nailgun-agent,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-mirror,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-mirror,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-menu,Core,0.0,0.8333333333333334,0,1
+openstack/charm-interface-cinder-backend,openstack/fuel-menu,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/fuel-main,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-main,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-ui,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-ui,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-library,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-library,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-dev-tools,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-dev-tools,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-stats,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-stats,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-nailgun-extension-converted-serializers,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-nailgun-extension-iac,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-plugin-murano-tests,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-astute,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-astute,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-docs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-docs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-agent,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-agent,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-octane,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuel-octane,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/tuning-box,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/tuning-box,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-fuelclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-fuelclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/neutron-interconnection,Core,0.0,5.555555555555555,0,1
+openstack/charm-interface-cinder-backend,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/openstack-chef-repo,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-chef-repo,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/os-acc,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/os-acc,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_zaqar,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_zaqar,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_watcher,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_watcher,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_searchlight,Core,3.4482758620689653,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_searchlight,Non core,0.0,0.0,1,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/tempest-tripleo-ui,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/docs-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/docs-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/release-schedule-generator,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/release-schedule-generator,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/opendev-website,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/opendev-website,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/castellan-ui,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/castellan-ui,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/compute-api,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/compute-api,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/charm-neutron-api-odl,Core,0.0,0.0,1,4
+openstack/charm-interface-cinder-backend,openstack/charm-neutron-api-odl,Non core,6.25,26.666666666666668,1,4
+openstack/charm-interface-cinder-backend,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-manila-glusterfs,Non core,0.0,12.5,0,1
+openstack/charm-interface-cinder-backend,openstack/charm-murano,Core,0.0,0.0,1,2
+openstack/charm-interface-cinder-backend,openstack/charm-murano,Non core,12.5,22.22222222222222,1,2
+openstack/charm-interface-cinder-backend,openstack/charm-openvswitch-odl,Core,0.0,0.0,1,4
+openstack/charm-interface-cinder-backend,openstack/charm-openvswitch-odl,Non core,6.25,30.76923076923077,1,4
+openstack/charm-interface-cinder-backend,openstack/charm-interface-odl-controller-api,Core,0.0,0.0,0,2
+openstack/charm-interface-cinder-backend,openstack/charm-interface-odl-controller-api,Non core,0.0,22.22222222222222,0,2
+openstack/charm-interface-cinder-backend,openstack/charm-glusterfs,Core,0.0,0.0,0,3
+openstack/charm-interface-cinder-backend,openstack/charm-glusterfs,Non core,0.0,23.076923076923077,0,3
+openstack/charm-interface-cinder-backend,openstack/charm-trove,Core,0.0,0.0,1,3
+openstack/charm-interface-cinder-backend,openstack/charm-trove,Non core,7.6923076923076925,25.0,1,3
+openstack/charm-interface-cinder-backend,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuxi,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuxi,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/bandit,Core,0.0,1.2987012987012987,0,1
+openstack/charm-interface-cinder-backend,openstack/bandit,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-d3,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/xstatic-d3,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/instack,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/instack,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/astara,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/astara,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/astara-appliance,Core,0.0,3.225806451612903,0,1
+openstack/charm-interface-cinder-backend,openstack/astara-appliance,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/astara-horizon,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/astara-horizon,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/astara-neutron,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/astara-neutron,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/anchor,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/anchor,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuxi-golang,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuxi-golang,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuxi-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/fuxi-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/puppet-odsreg,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/puppet-odsreg,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/puppet-docker_registry,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/releasestatus,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/releasestatus,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/vinz-webclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/activity-board,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/activity-board,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/beaker-localhost,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/beaker-nodepool,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/rst2bash,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/rst2bash,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/kolla-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/kolla-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cue-dashboard,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cue-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-cueclient,Core,0.0,5.555555555555555,0,1
+openstack/charm-interface-cinder-backend,openstack/python-cueclient,Non core,0.0,0.0,0,1
+openstack/charm-interface-cinder-backend,openstack/cue,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/cue,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/app-catalog,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/app-catalog,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/identity-api,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/identity-api,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/app-catalog-ui,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/app-catalog-ui,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/app-catalog-common,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/app-catalog-common,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-appcatalogclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/python-appcatalogclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-openstack-pkg-tools,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-mistral,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-mistral,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/installguide-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/installguide-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-opencontrail,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-neutron,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-neutron,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-nova,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-nova,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-keystone,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-keystone,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-horizon,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-horizon,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-heat,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-heat,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-glance,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-glance,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-cinder,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-cinder,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-salt,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-salt,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-midonet,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/salt-formula-midonet,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/magnetodb-specs,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/magnetodb-specs,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/oslo.version,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/oslo.version,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/image-api,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/image-api,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/object-api,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/object-api,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/volume-api,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/volume-api,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/magnetodb,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/magnetodb,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-nose,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack/openstack-nose,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/netconn-api,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/netconn-api,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/database-api,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/database-api,Non core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/charm-interface-cinder-backend,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

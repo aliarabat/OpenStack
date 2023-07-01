@@ -1,0 +1,1823 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-systemd_service,Core,46.42857142857143,52.94117647058824,20,25
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-systemd_service,Non core,25.0,20.588235294117645,20,25
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_keystone,Core,13.131313131313133,15.748031496062993,18,26
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_keystone,Non core,5.05050505050505,4.724409448818897,18,26
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-chrony,Core,0.0,6.666666666666667,3,5
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-chrony,Non core,8.823529411764707,4.444444444444445,3,5
+openstack/ansible-role-systemd_networkd,openstack/cloudkitty-tempest-plugin,Core,4.878048780487805,1.8518518518518516,4,5
+openstack/ansible-role-systemd_networkd,openstack/cloudkitty-tempest-plugin,Non core,4.878048780487805,7.4074074074074066,4,5
+openstack/ansible-role-systemd_networkd,openstack/oslo.config,Core,1.5873015873015872,1.2307692307692308,6,10
+openstack/ansible-role-systemd_networkd,openstack/oslo.config,Non core,1.5873015873015872,1.8461538461538463,6,10
+openstack/ansible-role-systemd_networkd,openstack/senlin-tempest-plugin,Core,6.976744186046512,3.278688524590164,3,5
+openstack/ansible-role-systemd_networkd,openstack/senlin-tempest-plugin,Non core,0.0,4.918032786885246,3,5
+openstack/ansible-role-systemd_networkd,openstack/heat-tempest-plugin,Core,6.8181818181818175,1.4705882352941175,4,5
+openstack/ansible-role-systemd_networkd,openstack/heat-tempest-plugin,Non core,2.272727272727273,5.88235294117647,4,5
+openstack/ansible-role-systemd_networkd,openstack/freezer-tempest-plugin,Core,5.0,0.0,5,3
+openstack/ansible-role-systemd_networkd,openstack/freezer-tempest-plugin,Non core,7.5,5.454545454545454,5,3
+openstack/ansible-role-systemd_networkd,openstack/monasca-tempest-plugin,Core,6.382978723404255,1.5873015873015872,6,5
+openstack/ansible-role-systemd_networkd,openstack/monasca-tempest-plugin,Non core,6.382978723404255,6.349206349206349,6,5
+openstack/ansible-role-systemd_networkd,openstack/stackviz,Core,5.88235294117647,3.225806451612903,4,7
+openstack/ansible-role-systemd_networkd,openstack/stackviz,Non core,1.9607843137254901,8.064516129032258,4,7
+openstack/ansible-role-systemd_networkd,openstack/kayobe-config-dev,Core,6.451612903225806,2.2222222222222223,3,1
+openstack/ansible-role-systemd_networkd,openstack/kayobe-config-dev,Non core,3.225806451612903,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/pbr,Core,1.5873015873015872,0.9900990099009901,3,8
+openstack/ansible-role-systemd_networkd,openstack/pbr,Non core,0.7936507936507936,2.9702970297029703,3,8
+openstack/ansible-role-systemd_networkd,openstack/oslo.cache,Core,5.681818181818182,3.048780487804878,6,9
+openstack/ansible-role-systemd_networkd,openstack/oslo.cache,Non core,1.1363636363636365,2.4390243902439024,6,9
+openstack/ansible-role-systemd_networkd,openstack/charm-ceph-rbd-mirror,Core,0.0,0.0,0,3
+openstack/ansible-role-systemd_networkd,openstack/charm-ceph-rbd-mirror,Non core,0.0,6.521739130434782,0,3
+openstack/ansible-role-systemd_networkd,openstack/ansible-config_template,Core,20.51282051282051,26.31578947368421,15,24
+openstack/ansible-role-systemd_networkd,openstack/ansible-config_template,Non core,17.94871794871795,15.789473684210526,15,24
+openstack/ansible-role-systemd_networkd,openstack/designate-dashboard,Core,3.7037037037037033,3.90625,5,9
+openstack/ansible-role-systemd_networkd,openstack/designate-dashboard,Non core,2.4691358024691357,3.125,5,9
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-cinder-backend,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-cinder-backend,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/cyborg-specs,Core,4.545454545454546,1.25,3,4
+openstack/ansible-role-systemd_networkd,openstack/cyborg-specs,Non core,2.272727272727273,3.75,3,4
+openstack/ansible-role-systemd_networkd,openstack/python-mistralclient,Core,2.2900763358778624,0.5376344086021506,5,6
+openstack/ansible-role-systemd_networkd,openstack/python-mistralclient,Non core,1.5267175572519083,2.6881720430107525,5,6
+openstack/ansible-role-systemd_networkd,openstack/ha-guide,Core,1.2658227848101267,2.2388059701492535,1,4
+openstack/ansible-role-systemd_networkd,openstack/ha-guide,Non core,0.0,0.7462686567164178,1,4
+openstack/ansible-role-systemd_networkd,openstack/watcher,Core,1.5625,0.7905138339920948,7,8
+openstack/ansible-role-systemd_networkd,openstack/watcher,Non core,2.083333333333333,2.371541501976284,7,8
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_cloudkitty,Core,21.818181818181817,30.64516129032258,17,22
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_cloudkitty,Non core,9.090909090909092,4.838709677419355,17,22
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_cinder,Core,12.871287128712872,15.2,18,29
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_cinder,Non core,4.9504950495049505,8.0,18,29
+openstack/ansible-role-systemd_networkd,openstack/openstack-health,Core,4.761904761904762,0.8849557522123894,5,5
+openstack/ansible-role-systemd_networkd,openstack/openstack-health,Non core,3.1746031746031744,3.5398230088495577,5,5
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_swift,Core,16.091954022988507,20.2020202020202,19,28
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_swift,Non core,5.747126436781609,8.080808080808081,19,28
+openstack/ansible-role-systemd_networkd,openstack/masakari-specs,Core,7.317073170731707,1.4925373134328357,4,4
+openstack/ansible-role-systemd_networkd,openstack/masakari-specs,Non core,2.4390243902439024,4.477611940298507,4,4
+openstack/ansible-role-systemd_networkd,openstack/telemetry-specs,Core,3.6585365853658534,0.6896551724137931,3,1
+openstack/ansible-role-systemd_networkd,openstack/telemetry-specs,Non core,0.0,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/osprofiler,Core,3.0,1.5037593984962405,6,7
+openstack/ansible-role-systemd_networkd,openstack/osprofiler,Non core,3.0,3.7593984962406015,6,7
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_trove,Core,19.672131147540984,26.76056338028169,16,25
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_trove,Non core,6.557377049180328,8.450704225352112,16,25
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_manila,Core,28.125,43.58974358974359,12,19
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_manila,Non core,9.375,5.128205128205128,12,19
+openstack/ansible-role-systemd_networkd,openstack/ansible-hardening,Core,27.27272727272727,29.6875,17,25
+openstack/ansible-role-systemd_networkd,openstack/ansible-hardening,Non core,11.363636363636363,9.375,17,25
+openstack/ansible-role-systemd_networkd,openstack/barbican-specs,Core,3.0303030303030303,0.8695652173913043,5,1
+openstack/ansible-role-systemd_networkd,openstack/barbican-specs,Non core,4.545454545454546,0.0,5,1
+openstack/ansible-role-systemd_networkd,openstack/python-heatclient,Core,1.530612244897959,1.2658227848101267,4,8
+openstack/ansible-role-systemd_networkd,openstack/python-heatclient,Non core,0.5102040816326531,1.2658227848101267,4,8
+openstack/ansible-role-systemd_networkd,openstack/oslo.versionedobjects,Core,2.6785714285714284,1.257861635220126,4,3
+openstack/ansible-role-systemd_networkd,openstack/oslo.versionedobjects,Non core,0.8928571428571428,0.628930817610063,4,3
+openstack/ansible-role-systemd_networkd,openstack/os-api-ref,Core,4.838709677419355,1.1764705882352942,5,1
+openstack/ansible-role-systemd_networkd,openstack/os-api-ref,Non core,3.225806451612903,0.0,5,1
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-container,Core,8.108108108108109,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-container,Non core,0.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/venus-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/venus-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/manila-ui,Core,3.3333333333333335,1.5151515151515151,8,7
+openstack/ansible-role-systemd_networkd,openstack/manila-ui,Non core,5.555555555555555,3.787878787878788,8,7
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-nfs,Core,6.666666666666667,1.8181818181818181,2,1
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-nfs,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/taskflow,Core,2.5,1.5957446808510638,5,7
+openstack/ansible-role-systemd_networkd,openstack/taskflow,Non core,1.6666666666666667,2.127659574468085,5,7
+openstack/ansible-role-systemd_networkd,openstack/python-cyborgclient,Core,6.521739130434782,2.7777777777777777,5,4
+openstack/ansible-role-systemd_networkd,openstack/python-cyborgclient,Non core,4.3478260869565215,2.7777777777777777,5,4
+openstack/ansible-role-systemd_networkd,openstack/zun,Core,2.631578947368421,0.9259259259259258,9,6
+openstack/ansible-role-systemd_networkd,openstack/zun,Non core,3.289473684210526,1.8518518518518516,9,6
+openstack/ansible-role-systemd_networkd,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-openstack-loadbalancer,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-python_venv_build,Core,30.555555555555557,37.5,15,25
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-python_venv_build,Non core,11.11111111111111,14.583333333333334,15,25
+openstack/ansible-role-systemd_networkd,openstack/mistral-dashboard,Core,3.8461538461538463,0.9259259259259258,5,4
+openstack/ansible-role-systemd_networkd,openstack/mistral-dashboard,Non core,2.564102564102564,2.7777777777777777,5,4
+openstack/ansible-role-systemd_networkd,openstack/mistral-lib,Core,5.084745762711865,2.5,4,6
+openstack/ansible-role-systemd_networkd,openstack/mistral-lib,Non core,1.694915254237288,5.0,4,6
+openstack/ansible-role-systemd_networkd,openstack/monasca-events-api,Core,7.6923076923076925,1.6129032258064515,6,3
+openstack/ansible-role-systemd_networkd,openstack/monasca-events-api,Non core,7.6923076923076925,3.225806451612903,6,3
+openstack/ansible-role-systemd_networkd,openstack/python-zaqarclient,Core,2.7522935779816518,0.7042253521126761,5,6
+openstack/ansible-role-systemd_networkd,openstack/python-zaqarclient,Non core,1.834862385321101,3.5211267605633805,5,6
+openstack/ansible-role-systemd_networkd,openstack/monasca-api,Core,2.027027027027027,1.4018691588785046,5,9
+openstack/ansible-role-systemd_networkd,openstack/monasca-api,Non core,1.3513513513513513,2.803738317757009,5,9
+openstack/ansible-role-systemd_networkd,openstack/monasca-persister,Core,3.4482758620689653,2.2388059701492535,6,7
+openstack/ansible-role-systemd_networkd,openstack/monasca-persister,Non core,3.4482758620689653,2.9850746268656714,6,7
+openstack/ansible-role-systemd_networkd,openstack/monasca-notification,Core,3.3333333333333335,1.574803149606299,6,4
+openstack/ansible-role-systemd_networkd,openstack/monasca-notification,Non core,3.3333333333333335,1.574803149606299,6,4
+openstack/ansible-role-systemd_networkd,openstack/python-saharaclient,Core,2.6785714285714284,0.6666666666666667,4,5
+openstack/ansible-role-systemd_networkd,openstack/python-saharaclient,Non core,0.8928571428571428,2.666666666666667,4,5
+openstack/ansible-role-systemd_networkd,openstack/charm-magpie,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-magpie,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_placement,Core,27.27272727272727,37.5,11,19
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_placement,Non core,6.0606060606060606,10.0,11,19
+openstack/ansible-role-systemd_networkd,openstack/openstackdocstheme,Core,3.4482758620689653,3.787878787878788,4,6
+openstack/ansible-role-systemd_networkd,openstack/openstackdocstheme,Non core,1.1494252873563218,0.7575757575757576,4,6
+openstack/ansible-role-systemd_networkd,openstack/sahara,Core,2.135231316725979,1.5706806282722512,11,12
+openstack/ansible-role-systemd_networkd,openstack/sahara,Non core,1.7793594306049825,1.5706806282722512,11,12
+openstack/ansible-role-systemd_networkd,openstack/ironic-ui,Core,5.405405405405405,2.857142857142857,8,6
+openstack/ansible-role-systemd_networkd,openstack/ironic-ui,Non core,5.405405405405405,2.857142857142857,8,6
+openstack/ansible-role-systemd_networkd,openstack/oslo.serialization,Core,3.488372093023256,1.639344262295082,4,5
+openstack/ansible-role-systemd_networkd,openstack/oslo.serialization,Non core,1.1627906976744187,2.459016393442623,4,5
+openstack/ansible-role-systemd_networkd,openstack/oslo.context,Core,4.0,0.78125,5,2
+openstack/ansible-role-systemd_networkd,openstack/oslo.context,Non core,2.666666666666667,0.78125,5,2
+openstack/ansible-role-systemd_networkd,openstack/oslo.limit,Core,3.7735849056603774,2.73972602739726,4,4
+openstack/ansible-role-systemd_networkd,openstack/oslo.limit,Non core,3.7735849056603774,2.73972602739726,4,4
+openstack/ansible-role-systemd_networkd,openstack/oslo.middleware,Core,3.0,2.013422818791946,5,4
+openstack/ansible-role-systemd_networkd,openstack/oslo.middleware,Non core,2.0,0.6711409395973155,5,4
+openstack/ansible-role-systemd_networkd,openstack/oslo.reports,Core,4.838709677419355,1.9047619047619049,5,5
+openstack/ansible-role-systemd_networkd,openstack/oslo.reports,Non core,3.225806451612903,2.857142857142857,5,5
+openstack/ansible-role-systemd_networkd,openstack/futurist,Core,4.918032786885246,0.0,6,4
+openstack/ansible-role-systemd_networkd,openstack/futurist,Non core,4.918032786885246,4.545454545454546,6,4
+openstack/ansible-role-systemd_networkd,openstack/oslo.i18n,Core,3.75,2.4,4,6
+openstack/ansible-role-systemd_networkd,openstack/oslo.i18n,Non core,1.25,2.4,4,6
+openstack/ansible-role-systemd_networkd,openstack/sushy-oem-idrac,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/python-dracclient,Core,0.0,1.0869565217391304,0,6
+openstack/ansible-role-systemd_networkd,openstack/python-dracclient,Non core,0.0,5.434782608695652,0,6
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_adjutant,Core,20.0,28.125,5,9
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,5,9
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_masakari,Core,30.0,31.57894736842105,16,24
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_masakari,Non core,10.0,10.526315789473683,16,24
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-systemd_mount,Core,50.0,56.25,19,24
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-systemd_mount,Non core,29.166666666666668,18.75,19,24
+openstack/ansible-role-systemd_networkd,openstack/python-senlinclient,Core,2.727272727272727,1.5625,5,8
+openstack/ansible-role-systemd_networkd,openstack/python-senlinclient,Non core,1.8181818181818181,4.6875,5,8
+openstack/ansible-role-systemd_networkd,openstack/senlin-dashboard,Core,4.10958904109589,1.7391304347826086,7,6
+openstack/ansible-role-systemd_networkd,openstack/senlin-dashboard,Non core,5.47945205479452,3.4782608695652173,7,6
+openstack/ansible-role-systemd_networkd,openstack/networking-generic-switch,Core,4.938271604938271,1.9230769230769231,6,5
+openstack/ansible-role-systemd_networkd,openstack/networking-generic-switch,Non core,2.4691358024691357,2.8846153846153846,6,5
+openstack/ansible-role-systemd_networkd,openstack/sahara-image-elements,Core,4.705882352941177,0.0,5,1
+openstack/ansible-role-systemd_networkd,openstack/sahara-image-elements,Non core,1.1764705882352942,0.8771929824561403,5,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-thales-hsm,Core,3.7037037037037033,15.0,1,6
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-thales-hsm,Non core,0.0,0.0,1,6
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-atos-hsm,Core,0.0,7.317073170731707,0,3
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-atos-hsm,Non core,0.0,0.0,0,3
+openstack/ansible-role-systemd_networkd,openstack/adjutant-ui,Core,6.0606060606060606,2.083333333333333,2,1
+openstack/ansible-role-systemd_networkd,openstack/adjutant-ui,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/sahara-extra,Core,4.918032786885246,1.1627906976744187,4,1
+openstack/ansible-role-systemd_networkd,openstack/sahara-extra,Non core,1.639344262295082,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/blazar-nova,Core,3.7735849056603774,1.2048192771084338,3,5
+openstack/ansible-role-systemd_networkd,openstack/blazar-nova,Non core,1.8867924528301887,4.819277108433735,3,5
+openstack/ansible-role-systemd_networkd,openstack/oslo.service,Core,3.6363636363636362,2.4242424242424243,6,8
+openstack/ansible-role-systemd_networkd,openstack/oslo.service,Non core,1.8181818181818181,2.4242424242424243,6,8
+openstack/ansible-role-systemd_networkd,openstack/blazar-dashboard,Core,7.142857142857142,2.666666666666667,6,8
+openstack/ansible-role-systemd_networkd,openstack/blazar-dashboard,Non core,7.142857142857142,8.0,6,8
+openstack/ansible-role-systemd_networkd,openstack/paunch,Core,2.941176470588235,1.4925373134328357,4,6
+openstack/ansible-role-systemd_networkd,openstack/paunch,Non core,2.941176470588235,2.9850746268656714,4,6
+openstack/ansible-role-systemd_networkd,openstack/service-types-authority,Core,4.761904761904762,2.1052631578947367,3,2
+openstack/ansible-role-systemd_networkd,openstack/service-types-authority,Non core,2.380952380952381,0.0,3,2
+openstack/ansible-role-systemd_networkd,openstack/python-ironic-inspector-client,Core,4.477611940298507,1.8691588785046727,5,7
+openstack/ansible-role-systemd_networkd,openstack/python-ironic-inspector-client,Non core,2.9850746268656714,4.672897196261682,5,7
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-memcached_server,Core,22.22222222222222,26.865671641791046,17,24
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-memcached_server,Non core,9.25925925925926,8.955223880597014,17,24
+openstack/ansible-role-systemd_networkd,openstack/os-testr,Core,4.411764705882353,0.9174311926605505,5,6
+openstack/ansible-role-systemd_networkd,openstack/os-testr,Non core,2.941176470588235,4.587155963302752,5,6
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-ceph_client,Core,22.413793103448278,24.675324675324674,18,26
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-ceph_client,Non core,8.620689655172415,9.090909090909092,18,26
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_magnum,Core,20.3125,21.839080459770116,16,24
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_magnum,Non core,4.6875,5.747126436781609,16,24
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_blazar,Core,28.205128205128204,32.075471698113205,15,21
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_blazar,Non core,10.256410256410255,7.547169811320755,15,21
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_designate,Core,19.11764705882353,20.43010752688172,17,25
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_designate,Non core,5.88235294117647,6.451612903225806,17,25
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_gnocchi,Core,20.0,26.666666666666668,18,27
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_gnocchi,Non core,7.6923076923076925,9.333333333333334,18,27
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_senlin,Core,12.0,24.242424242424242,3,9
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_senlin,Non core,0.0,3.0303030303030303,3,9
+openstack/ansible-role-systemd_networkd,openstack/ptgbot,Core,5.405405405405405,1.7543859649122806,2,2
+openstack/ansible-role-systemd_networkd,openstack/ptgbot,Non core,0.0,1.7543859649122806,2,2
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_zun,Core,28.205128205128204,40.909090909090914,14,26
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_zun,Non core,7.6923076923076925,18.181818181818183,14,26
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-repo_server,Core,18.75,20.930232558139537,17,22
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-repo_server,Non core,7.8125,4.651162790697675,17,22
+openstack/ansible-role-systemd_networkd,openstack/python-watcherclient,Core,2.941176470588235,1.8691588785046727,6,6
+openstack/ansible-role-systemd_networkd,openstack/python-watcherclient,Non core,2.941176470588235,3.7383177570093453,6,6
+openstack/ansible-role-systemd_networkd,openstack/heat-agents,Core,5.172413793103448,0.8928571428571428,4,6
+openstack/ansible-role-systemd_networkd,openstack/heat-agents,Non core,1.7241379310344827,4.464285714285714,4,6
+openstack/ansible-role-systemd_networkd,openstack/oslo.rootwrap,Core,3.260869565217391,1.3888888888888888,5,5
+openstack/ansible-role-systemd_networkd,openstack/oslo.rootwrap,Non core,2.1739130434782608,2.083333333333333,5,5
+openstack/ansible-role-systemd_networkd,openstack/automaton,Core,3.8461538461538463,1.36986301369863,4,2
+openstack/ansible-role-systemd_networkd,openstack/automaton,Non core,3.8461538461538463,1.36986301369863,4,2
+openstack/ansible-role-systemd_networkd,openstack/debtcollector,Core,4.6875,1.4084507042253522,4,3
+openstack/ansible-role-systemd_networkd,openstack/debtcollector,Non core,1.5625,2.8169014084507045,4,3
+openstack/ansible-role-systemd_networkd,openstack/vitrage-dashboard,Core,3.614457831325301,1.0416666666666665,8,4
+openstack/ansible-role-systemd_networkd,openstack/vitrage-dashboard,Non core,6.024096385542169,3.125,8,4
+openstack/ansible-role-systemd_networkd,openstack/oslotest,Core,3.75,1.7543859649122806,5,6
+openstack/ansible-role-systemd_networkd,openstack/oslotest,Non core,2.5,3.508771929824561,5,6
+openstack/ansible-role-systemd_networkd,openstack/kayobe-config,Core,6.25,2.631578947368421,3,1
+openstack/ansible-role-systemd_networkd,openstack/kayobe-config,Non core,3.125,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/compute-hyperv,Core,5.555555555555555,1.4925373134328357,4,5
+openstack/ansible-role-systemd_networkd,openstack/compute-hyperv,Non core,1.8518518518518516,5.970149253731343,4,5
+openstack/ansible-role-systemd_networkd,openstack/python-cloudkittyclient,Core,3.75,1.0416666666666665,6,6
+openstack/ansible-role-systemd_networkd,openstack/python-cloudkittyclient,Non core,3.75,5.208333333333334,6,6
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone,Core,5.555555555555555,0.0,3,3
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone,Non core,2.7777777777777777,6.666666666666667,3,3
+openstack/ansible-role-systemd_networkd,openstack/cloudkitty-dashboard,Core,4.545454545454546,2.9702970297029703,5,7
+openstack/ansible-role-systemd_networkd,openstack/cloudkitty-dashboard,Non core,3.0303030303030303,3.9603960396039604,5,7
+openstack/ansible-role-systemd_networkd,openstack/networking-hyperv,Core,4.225352112676056,2.564102564102564,6,5
+openstack/ansible-role-systemd_networkd,openstack/networking-hyperv,Non core,4.225352112676056,3.8461538461538463,6,5
+openstack/ansible-role-systemd_networkd,openstack/i18n,Core,3.225806451612903,3.125,5,6
+openstack/ansible-role-systemd_networkd,openstack/i18n,Non core,4.838709677419355,3.125,5,6
+openstack/ansible-role-systemd_networkd,openstack/sahara-tests,Core,5.263157894736842,1.0638297872340425,6,4
+openstack/ansible-role-systemd_networkd,openstack/sahara-tests,Non core,5.263157894736842,3.1914893617021276,6,4
+openstack/ansible-role-systemd_networkd,openstack/python-zunclient,Core,2.9702970297029703,0.0,7,2
+openstack/ansible-role-systemd_networkd,openstack/python-zunclient,Non core,3.9603960396039604,1.5037593984962405,7,2
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-cdh,Core,5.88235294117647,2.0408163265306123,3,4
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-cdh,Non core,2.941176470588235,6.122448979591836,3,4
+openstack/ansible-role-systemd_networkd,openstack/monasca-ui,Core,3.125,1.2903225806451613,5,7
+openstack/ansible-role-systemd_networkd,openstack/monasca-ui,Non core,2.083333333333333,3.225806451612903,5,7
+openstack/ansible-role-systemd_networkd,openstack/python-adjutantclient,Core,9.090909090909092,0.0,3,2
+openstack/ansible-role-systemd_networkd,openstack/python-adjutantclient,Non core,0.0,4.761904761904762,3,2
+openstack/ansible-role-systemd_networkd,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-lunasa-hsm,Core,4.0,5.88235294117647,1,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,1,2
+openstack/ansible-role-systemd_networkd,openstack/monasca-thresh,Core,2.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/monasca-thresh,Non core,2.0,1.3157894736842104,2,1
+openstack/ansible-role-systemd_networkd,openstack/heat-specs,Core,3.260869565217391,0.4716981132075472,3,3
+openstack/ansible-role-systemd_networkd,openstack/heat-specs,Non core,0.0,0.9433962264150944,3,3
+openstack/ansible-role-systemd_networkd,openstack/watcher-dashboard,Core,4.477611940298507,1.0869565217391304,7,6
+openstack/ansible-role-systemd_networkd,openstack/watcher-dashboard,Non core,5.970149253731343,5.434782608695652,7,6
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-ambari,Core,6.0606060606060606,0.0,3,2
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-ambari,Non core,3.0303030303030303,4.545454545454546,3,2
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-mapr,Core,6.25,2.1739130434782608,3,5
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-mapr,Non core,3.125,8.695652173913043,3,5
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-spark,Core,6.451612903225806,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-spark,Non core,3.225806451612903,2.5,3,1
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-storm,Core,6.451612903225806,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-storm,Non core,3.225806451612903,2.4390243902439024,3,1
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-vanilla,Core,6.451612903225806,0.0,3,3
+openstack/ansible-role-systemd_networkd,openstack/sahara-plugin-vanilla,Non core,3.225806451612903,7.317073170731707,3,3
+openstack/ansible-role-systemd_networkd,openstack/sahara-specs,Core,2.7777777777777777,0.9708737864077669,3,1
+openstack/ansible-role-systemd_networkd,openstack/sahara-specs,Non core,1.3888888888888888,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/venus-tempest-plugin,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/ceilometermiddleware,Core,4.918032786885246,1.0,3,5
+openstack/ansible-role-systemd_networkd,openstack/ceilometermiddleware,Non core,0.0,4.0,3,5
+openstack/ansible-role-systemd_networkd,openstack/trove-tempest-plugin,Core,9.090909090909092,3.6363636363636362,5,6
+openstack/ansible-role-systemd_networkd,openstack/trove-tempest-plugin,Non core,6.0606060606060606,7.2727272727272725,5,6
+openstack/ansible-role-systemd_networkd,openstack/arch-design,Core,6.666666666666667,2.7777777777777777,2,1
+openstack/ansible-role-systemd_networkd,openstack/arch-design,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/monasca-common,Core,3.1578947368421053,0.7518796992481203,4,6
+openstack/ansible-role-systemd_networkd,openstack/monasca-common,Non core,1.0526315789473684,3.7593984962406015,4,6
+openstack/ansible-role-systemd_networkd,openstack/monasca-statsd,Core,5.084745762711865,0.0,5,3
+openstack/ansible-role-systemd_networkd,openstack/monasca-statsd,Non core,3.389830508474576,3.5294117647058822,5,3
+openstack/ansible-role-systemd_networkd,openstack/python-monascaclient,Core,2.7777777777777777,2.112676056338028,5,7
+openstack/ansible-role-systemd_networkd,openstack/python-monascaclient,Non core,1.8518518518518516,2.8169014084507045,5,7
+openstack/ansible-role-systemd_networkd,openstack/renderspec,Core,6.976744186046512,3.7037037037037033,5,5
+openstack/ansible-role-systemd_networkd,openstack/renderspec,Non core,4.651162790697675,5.555555555555555,5,5
+openstack/ansible-role-systemd_networkd,openstack/os-service-types,Core,4.878048780487805,1.6666666666666667,5,6
+openstack/ansible-role-systemd_networkd,openstack/os-service-types,Non core,7.317073170731707,8.333333333333332,5,6
+openstack/ansible-role-systemd_networkd,openstack/masakari-dashboard,Core,4.166666666666666,1.36986301369863,3,6
+openstack/ansible-role-systemd_networkd,openstack/masakari-dashboard,Non core,2.083333333333333,6.8493150684931505,3,6
+openstack/ansible-role-systemd_networkd,openstack/freezer-dr,Core,6.666666666666667,1.5384615384615385,4,4
+openstack/ansible-role-systemd_networkd,openstack/freezer-dr,Non core,2.2222222222222223,4.615384615384616,4,4
+openstack/ansible-role-systemd_networkd,openstack/tempest-stress,Core,7.5,4.878048780487805,4,7
+openstack/ansible-role-systemd_networkd,openstack/tempest-stress,Non core,2.5,12.195121951219512,4,7
+openstack/ansible-role-systemd_networkd,openstack/charm-neutron-api-genericswitch,Core,7.6923076923076925,2.857142857142857,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-neutron-api-genericswitch,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-neutron-dynamic-routing,Core,5.263157894736842,0.0,2,2
+openstack/ansible-role-systemd_networkd,openstack/charm-neutron-dynamic-routing,Non core,0.0,4.25531914893617,2,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-ceph-client,Core,3.225806451612903,2.4390243902439024,1,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-ceph-client,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/charm-percona-cluster,Core,1.6129032258064515,1.2987012987012987,2,4
+openstack/ansible-role-systemd_networkd,openstack/charm-percona-cluster,Non core,1.6129032258064515,3.896103896103896,2,4
+openstack/ansible-role-systemd_networkd,openstack/charm-deployment-guide,Core,3.7037037037037033,1.5873015873015872,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-deployment-guide,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/oslo.metrics,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/oslo.metrics,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/oslo.vmware,Core,3.0,0.5952380952380952,4,6
+openstack/ansible-role-systemd_networkd,openstack/oslo.vmware,Non core,1.0,2.976190476190476,4,6
+openstack/ansible-role-systemd_networkd,openstack/oslo.upgradecheck,Core,7.894736842105263,1.7857142857142856,4,3
+openstack/ansible-role-systemd_networkd,openstack/oslo.upgradecheck,Non core,2.631578947368421,3.571428571428571,4,3
+openstack/ansible-role-systemd_networkd,openstack/python-masakariclient,Core,4.838709677419355,2.5974025974025974,4,6
+openstack/ansible-role-systemd_networkd,openstack/python-masakariclient,Non core,1.6129032258064515,5.194805194805195,4,6
+openstack/ansible-role-systemd_networkd,openstack/python-vitrageclient,Core,4.166666666666666,1.5151515151515151,6,4
+openstack/ansible-role-systemd_networkd,openstack/python-vitrageclient,Non core,4.166666666666666,4.545454545454546,6,4
+openstack/ansible-role-systemd_networkd,openstack/python-blazarclient,Core,4.166666666666666,1.0,5,8
+openstack/ansible-role-systemd_networkd,openstack/python-blazarclient,Non core,2.7777777777777777,7.000000000000001,5,8
+openstack/ansible-role-systemd_networkd,openstack/zaqar-tempest-plugin,Core,5.88235294117647,1.8867924528301887,3,3
+openstack/ansible-role-systemd_networkd,openstack/zaqar-tempest-plugin,Non core,2.941176470588235,3.7735849056603774,3,3
+openstack/ansible-role-systemd_networkd,openstack/tripleo-common-tempest-plugin,Core,8.108108108108109,5.263157894736842,4,7
+openstack/ansible-role-systemd_networkd,openstack/tripleo-common-tempest-plugin,Non core,2.7027027027027026,7.017543859649122,4,7
+openstack/ansible-role-systemd_networkd,openstack/mistral-tempest-plugin,Core,4.545454545454546,1.5873015873015872,4,3
+openstack/ansible-role-systemd_networkd,openstack/mistral-tempest-plugin,Non core,4.545454545454546,3.1746031746031744,4,3
+openstack/ansible-role-systemd_networkd,openstack/barbican-ui,Core,4.166666666666666,2.380952380952381,1,1
+openstack/ansible-role-systemd_networkd,openstack/barbican-ui,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/liberasurecode,Core,2.857142857142857,2.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/liberasurecode,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/os-client-config,Core,4.166666666666666,3.8461538461538463,7,7
+openstack/ansible-role-systemd_networkd,openstack/os-client-config,Non core,3.125,1.5384615384615385,7,7
+openstack/ansible-role-systemd_networkd,openstack/monasca-specs,Core,6.0606060606060606,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/monasca-specs,Non core,3.0303030303030303,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/os-performance-tools,Core,7.6923076923076925,4.081632653061225,4,3
+openstack/ansible-role-systemd_networkd,openstack/os-performance-tools,Non core,2.564102564102564,2.0408163265306123,4,3
+openstack/ansible-role-systemd_networkd,openstack/trove-specs,Core,4.918032786885246,0.8928571428571428,3,3
+openstack/ansible-role-systemd_networkd,openstack/trove-specs,Non core,0.0,1.7857142857142856,3,3
+openstack/ansible-role-systemd_networkd,openstack/manila-image-elements,Core,6.25,2.7027027027027026,3,3
+openstack/ansible-role-systemd_networkd,openstack/manila-image-elements,Non core,0.0,1.3513513513513513,3,3
+openstack/ansible-role-systemd_networkd,openstack/blazar-specs,Core,6.451612903225806,1.9607843137254901,2,1
+openstack/ansible-role-systemd_networkd,openstack/blazar-specs,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/molteniron,Core,9.090909090909092,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/molteniron,Non core,0.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/solum-specs,Core,8.108108108108109,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/solum-specs,Non core,0.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/patrole,Core,2.803738317757009,2.18978102189781,7,6
+openstack/ansible-role-systemd_networkd,openstack/patrole,Non core,3.7383177570093453,2.18978102189781,7,6
+openstack/ansible-role-systemd_networkd,openstack/performance-docs,Core,1.6666666666666667,2.380952380952381,4,5
+openstack/ansible-role-systemd_networkd,openstack/performance-docs,Non core,5.0,3.571428571428571,4,5
+openstack/ansible-role-systemd_networkd,openstack/sphinx-feature-classification,Core,4.878048780487805,0.0,3,3
+openstack/ansible-role-systemd_networkd,openstack/sphinx-feature-classification,Non core,2.4390243902439024,4.761904761904762,3,3
+openstack/ansible-role-systemd_networkd,openstack/etcd3gw,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/etcd3gw,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/watcher-specs,Core,2.941176470588235,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/watcher-specs,Non core,2.941176470588235,0.8849557522123894,4,1
+openstack/ansible-role-systemd_networkd,openstack/yaql,Core,5.357142857142857,2.5,4,7
+openstack/ansible-role-systemd_networkd,openstack/yaql,Non core,1.7857142857142856,6.25,4,7
+openstack/ansible-role-systemd_networkd,openstack/puppet-openstack-guide,Core,9.30232558139535,4.761904761904762,8,8
+openstack/ansible-role-systemd_networkd,openstack/puppet-openstack-guide,Non core,9.30232558139535,7.936507936507936,8,8
+openstack/ansible-role-systemd_networkd,openstack/puppet-panko,Core,7.142857142857142,5.084745762711865,7,5
+openstack/ansible-role-systemd_networkd,openstack/puppet-panko,Non core,5.357142857142857,3.389830508474576,7,5
+openstack/ansible-role-systemd_networkd,openstack/heat-cfnclient,Core,6.976744186046512,0.0,3,2
+openstack/ansible-role-systemd_networkd,openstack/heat-cfnclient,Non core,0.0,3.225806451612903,3,2
+openstack/ansible-role-systemd_networkd,openstack/heat-cfntools,Core,4.545454545454546,1.0638297872340425,7,6
+openstack/ansible-role-systemd_networkd,openstack/heat-cfntools,Non core,6.0606060606060606,5.319148936170213,7,6
+openstack/ansible-role-systemd_networkd,openstack/heat-templates,Core,3.225806451612903,0.966183574879227,5,3
+openstack/ansible-role-systemd_networkd,openstack/heat-templates,Non core,0.8064516129032258,0.4830917874396135,5,3
+openstack/ansible-role-systemd_networkd,openstack/governance-sigs,Core,12.0,6.6115702479338845,8,12
+openstack/ansible-role-systemd_networkd,openstack/governance-sigs,Non core,4.0,3.3057851239669422,8,12
+openstack/ansible-role-systemd_networkd,openstack/openstack-zuul-roles,Core,3.7037037037037033,2.4390243902439024,1,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-zuul-roles,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/nova-powervm,Core,3.9473684210526314,0.8,5,5
+openstack/ansible-role-systemd_networkd,openstack/nova-powervm,Non core,2.631578947368421,3.2,5,5
+openstack/ansible-role-systemd_networkd,openstack/openstack-helm-addons,Core,1.694915254237288,2.18978102189781,2,7
+openstack/ansible-role-systemd_networkd,openstack/openstack-helm-addons,Non core,1.694915254237288,2.9197080291970803,2,7
+openstack/ansible-role-systemd_networkd,openstack/python-pankoclient,Core,6.666666666666667,3.076923076923077,4,6
+openstack/ansible-role-systemd_networkd,openstack/python-pankoclient,Non core,2.2222222222222223,6.153846153846154,4,6
+openstack/ansible-role-systemd_networkd,openstack/qa-specs,Core,4.545454545454546,0.7246376811594203,6,4
+openstack/ansible-role-systemd_networkd,openstack/qa-specs,Non core,4.545454545454546,2.1739130434782608,6,4
+openstack/ansible-role-systemd_networkd,openstack/zaqar-specs,Core,5.454545454545454,1.098901098901099,5,5
+openstack/ansible-role-systemd_networkd,openstack/zaqar-specs,Non core,3.6363636363636362,4.395604395604396,5,5
+openstack/ansible-role-systemd_networkd,openstack/swift-bench,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/swift-bench,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/whereto,Core,5.555555555555555,1.9607843137254901,5,2
+openstack/ansible-role-systemd_networkd,openstack/whereto,Non core,8.333333333333332,1.9607843137254901,5,2
+openstack/ansible-role-systemd_networkd,openstack/murano-specs,Core,4.838709677419355,0.0,4,2
+openstack/ansible-role-systemd_networkd,openstack/murano-specs,Non core,1.6129032258064515,2.197802197802198,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-modify-image,Core,6.122448979591836,3.5294117647058822,4,9
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-modify-image,Non core,2.0408163265306123,7.0588235294117645,4,9
+openstack/ansible-role-systemd_networkd,openstack/requestsexceptions,Core,6.896551724137931,0.0,2,2
+openstack/ansible-role-systemd_networkd,openstack/requestsexceptions,Non core,0.0,4.3478260869565215,2,2
+openstack/ansible-role-systemd_networkd,openstack/panko,Core,3.3333333333333335,1.6,6,8
+openstack/ansible-role-systemd_networkd,openstack/panko,Non core,3.3333333333333335,4.8,6,8
+openstack/ansible-role-systemd_networkd,openstack/api-sig,Core,2.8169014084507045,0.45045045045045046,4,4
+openstack/ansible-role-systemd_networkd,openstack/api-sig,Non core,2.8169014084507045,1.3513513513513513,4,4
+openstack/ansible-role-systemd_networkd,openstack/openstack-chef-specs,Core,4.545454545454546,3.278688524590164,3,5
+openstack/ansible-role-systemd_networkd,openstack/openstack-chef-specs,Non core,2.272727272727273,4.918032786885246,3,5
+openstack/ansible-role-systemd_networkd,openstack/freezer-specs,Core,7.5,1.7543859649122806,5,1
+openstack/ansible-role-systemd_networkd,openstack/freezer-specs,Non core,5.0,0.0,5,1
+openstack/ansible-role-systemd_networkd,openstack/oslo.tools,Core,3.7735849056603774,0.0,3,2
+openstack/ansible-role-systemd_networkd,openstack/oslo.tools,Non core,1.8867924528301887,3.4482758620689653,3,2
+openstack/ansible-role-systemd_networkd,openstack/microversion-parse,Core,3.225806451612903,2.2222222222222223,2,1
+openstack/ansible-role-systemd_networkd,openstack/microversion-parse,Non core,3.225806451612903,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/openstackclient,Core,6.666666666666667,4.918032786885246,3,5
+openstack/ansible-role-systemd_networkd,openstack/openstackclient,Non core,0.0,3.278688524590164,3,5
+openstack/ansible-role-systemd_networkd,openstack/ossa,Core,7.142857142857142,3.5294117647058822,3,7
+openstack/ansible-role-systemd_networkd,openstack/ossa,Non core,0.0,4.705882352941177,3,7
+openstack/ansible-role-systemd_networkd,openstack/reviewstats,Core,3.061224489795918,1.342281879194631,3,3
+openstack/ansible-role-systemd_networkd,openstack/reviewstats,Non core,0.0,0.6711409395973155,3,3
+openstack/ansible-role-systemd_networkd,openstack/oslo-cookiecutter,Core,4.651162790697675,1.6666666666666667,3,3
+openstack/ansible-role-systemd_networkd,openstack/oslo-cookiecutter,Non core,2.3255813953488373,3.3333333333333335,3,3
+openstack/ansible-role-systemd_networkd,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/security-analysis,Core,6.896551724137931,3.8461538461538463,3,3
+openstack/ansible-role-systemd_networkd,openstack/security-analysis,Non core,3.4482758620689653,1.9230769230769231,3,3
+openstack/ansible-role-systemd_networkd,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-keystone,Core,11.538461538461538,2.857142857142857,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-keystone,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-apt_package_pinning,Core,22.22222222222222,32.69230769230769,15,22
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-apt_package_pinning,Non core,11.11111111111111,9.615384615384617,15,22
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-qdrouterd,Core,32.0,39.02439024390244,11,20
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-qdrouterd,Non core,12.0,9.75609756097561,11,20
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-openstack_openrc,Core,20.0,30.508474576271187,16,24
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-openstack_openrc,Non core,9.090909090909092,10.16949152542373,16,24
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-nspawn_container_create,Core,37.93103448275862,36.58536585365854,16,22
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-nspawn_container_create,Non core,17.24137931034483,17.073170731707318,16,22
+openstack/ansible-role-systemd_networkd,openstack/devstack-tools,Core,8.108108108108109,2.272727272727273,4,4
+openstack/ansible-role-systemd_networkd,openstack/devstack-tools,Non core,2.7027027027027026,6.8181818181818175,4,4
+openstack/ansible-role-systemd_networkd,openstack/coverage2sql,Core,6.976744186046512,2.2222222222222223,5,6
+openstack/ansible-role-systemd_networkd,openstack/coverage2sql,Non core,4.651162790697675,11.11111111111111,5,6
+openstack/ansible-role-systemd_networkd,openstack/bashate,Core,4.285714285714286,2.380952380952381,3,2
+openstack/ansible-role-systemd_networkd,openstack/bashate,Non core,0.0,0.0,3,2
+openstack/ansible-role-systemd_networkd,openstack/hacking,Core,2.7777777777777777,1.6666666666666667,3,7
+openstack/ansible-role-systemd_networkd,openstack/hacking,Non core,0.0,2.2222222222222223,3,7
+openstack/ansible-role-systemd_networkd,openstack/xstatic-mdi,Core,3.4482758620689653,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-mdi,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-roboto-fontface,Core,3.571428571428571,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-roboto-fontface,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-chef,Core,4.444444444444445,2.083333333333333,4,2
+openstack/ansible-role-systemd_networkd,openstack/openstack-chef,Non core,4.444444444444445,2.083333333333333,4,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstackclient,Core,0.0,0.0,0,4
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstackclient,Non core,0.0,10.526315789473683,0,4
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular,Core,2.941176470588235,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-hacluster,Core,2.4390243902439024,0.0,1,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-hacluster,Non core,0.0,4.444444444444445,1,2
+openstack/ansible-role-systemd_networkd,openstack/puppet-openstack-specs,Core,6.976744186046512,2.380952380952381,6,3
+openstack/ansible-role-systemd_networkd,openstack/puppet-openstack-specs,Non core,6.976744186046512,1.1904761904761905,6,3
+openstack/ansible-role-systemd_networkd,openstack/puppet-monasca,Core,6.0,1.8691588785046727,5,4
+openstack/ansible-role-systemd_networkd,openstack/puppet-monasca,Non core,4.0,1.8691588785046727,5,4
+openstack/ansible-role-systemd_networkd,openstack/eslint-config-openstack,Core,8.333333333333332,1.2987012987012987,4,1
+openstack/ansible-role-systemd_networkd,openstack/eslint-config-openstack,Non core,2.7777777777777777,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/karma-subunit-reporter,Core,7.6923076923076925,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/karma-subunit-reporter,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-helm-docs,Core,3.4482758620689653,5.769230769230769,2,4
+openstack/ansible-role-systemd_networkd,openstack/openstack-helm-docs,Non core,3.4482758620689653,1.9230769230769231,2,4
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-specs,Core,11.594202898550725,12.903225806451612,10,18
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-specs,Non core,2.898550724637681,1.6129032258064515,10,18
+openstack/ansible-role-systemd_networkd,openstack/tempest-lib,Core,1.5151515151515151,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/tempest-lib,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/tripleo-ha-utils,Core,0.0,0.0,1,3
+openstack/ansible-role-systemd_networkd,openstack/tripleo-ha-utils,Non core,3.225806451612903,5.660377358490567,1,3
+openstack/ansible-role-systemd_networkd,openstack/devstack-vagrant,Core,5.555555555555555,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/devstack-vagrant,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/goal-tools,Core,6.896551724137931,4.761904761904762,2,6
+openstack/ansible-role-systemd_networkd,openstack/goal-tools,Non core,0.0,9.523809523809524,2,6
+openstack/ansible-role-systemd_networkd,openstack/cookiecutter,Core,3.125,2.0408163265306123,3,2
+openstack/ansible-role-systemd_networkd,openstack/cookiecutter,Non core,1.5625,0.0,3,2
+openstack/ansible-role-systemd_networkd,openstack/dib-utils,Core,5.405405405405405,3.0303030303030303,2,3
+openstack/ansible-role-systemd_networkd,openstack/dib-utils,Non core,0.0,1.5151515151515151,2,3
+openstack/ansible-role-systemd_networkd,openstack/constellations,Core,7.6923076923076925,2.3255813953488373,3,3
+openstack/ansible-role-systemd_networkd,openstack/constellations,Non core,3.8461538461538463,4.651162790697675,3,3
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-integration-test,Core,0.0,1.639344262295082,1,3
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-integration-test,Non core,2.4390243902439024,3.278688524590164,1,3
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-dashboard,Core,1.4925373134328357,0.0,2,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-dashboard,Non core,1.4925373134328357,2.0408163265306123,2,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-telemetry,Core,1.4705882352941175,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-telemetry,Non core,1.4705882352941175,1.25,2,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-orchestration,Core,1.694915254237288,1.1904761904761905,1,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-orchestration,Non core,0.0,1.1904761904761905,1,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-bare-metal,Core,0.0,2.0,0,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-bare-metal,Non core,0.0,2.0,0,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-dns,Core,0.0,2.7027027027027026,0,5
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-dns,Non core,0.0,10.81081081081081,0,5
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-compute,Core,1.1363636363636365,0.0,1,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-compute,Non core,0.0,1.639344262295082,1,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-network,Core,1.1111111111111112,0.0,1,3
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-network,Non core,0.0,2.586206896551724,1,3
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-block-storage,Core,2.4390243902439024,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-block-storage,Non core,1.2195121951219512,1.0101010101010102,3,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-image,Core,1.3333333333333335,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-image,Non core,0.0,1.0204081632653061,1,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-identity,Core,2.666666666666667,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-identity,Non core,1.3333333333333335,0.9615384615384616,3,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-ops-database,Core,1.7241379310344827,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-ops-database,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-ops-messaging,Core,1.9607843137254901,0.0,1,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-ops-messaging,Non core,0.0,2.857142857142857,1,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-common,Core,1.1764705882352942,0.8403361344537815,1,3
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-common,Non core,0.0,1.680672268907563,1,3
+openstack/ansible-role-systemd_networkd,openstack/self-healing-sig,Core,6.451612903225806,3.7037037037037033,3,2
+openstack/ansible-role-systemd_networkd,openstack/self-healing-sig,Non core,3.225806451612903,0.0,3,2
+openstack/ansible-role-systemd_networkd,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/security-specs,Core,5.555555555555555,1.6666666666666667,3,1
+openstack/ansible-role-systemd_networkd,openstack/security-specs,Non core,2.7777777777777777,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_panko,Core,29.411764705882355,35.41666666666667,14,22
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_panko,Non core,11.76470588235294,10.416666666666668,14,22
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-nspawn_hosts,Core,32.25806451612903,34.883720930232556,15,22
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-nspawn_hosts,Non core,16.129032258064516,16.27906976744186,15,22
+openstack/ansible-role-systemd_networkd,openstack/charm-layer-openstack-principle,Core,7.4074074074074066,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-watcher-dashboard,Core,3.8461538461538463,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-watcher-dashboard,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-watcher,Core,3.571428571428571,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-watcher,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-galera_client,Core,17.741935483870968,26.5625,16,24
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-galera_client,Non core,8.064516129032258,10.9375,16,24
+openstack/ansible-role-systemd_networkd,openstack/cloudkitty-specs,Core,8.333333333333332,0.0,4,0
+openstack/ansible-role-systemd_networkd,openstack/cloudkitty-specs,Non core,2.7777777777777777,0.0,4,0
+openstack/ansible-role-systemd_networkd,openstack/osops,Core,3.571428571428571,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/osops,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-ironic,Core,7.6923076923076925,3.0303030303030303,3,1
+openstack/ansible-role-systemd_networkd,openstack/charm-ironic,Non core,3.8461538461538463,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/multi-arch-sig,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/multi-arch-sig,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-nova-compute-proxy,Core,3.0303030303030303,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-nova-compute-proxy,Non core,3.0303030303030303,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-odl-controller,Core,2.941176470588235,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-odl-controller,Non core,2.941176470588235,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-nova-lxd,Core,4.878048780487805,1.9230769230769231,3,3
+openstack/ansible-role-systemd_networkd,openstack/charm-nova-lxd,Non core,2.4390243902439024,3.8461538461538463,3,3
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-nova-cell,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-barbican-secrets,Core,0.0,0.0,0,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-barbican-secrets,Non core,0.0,5.555555555555555,0,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-ceph-rbd-mirror,Core,0.0,0.0,0,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,5.405405405405405,0,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-placement,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-placement,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-mysql-shared,Core,6.896551724137931,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-mysql-shared,Non core,3.4482758620689653,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-dashboard-plugin,Core,0.0,0.0,0,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-dashboard-plugin,Non core,0.0,5.555555555555555,0,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-neutron-load-balancer,Core,0.0,0.0,0,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-neutron-load-balancer,Non core,0.0,5.555555555555555,0,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-neutron-plugin-api-subordinate,Core,6.451612903225806,2.564102564102564,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-neutron-plugin,Core,7.142857142857142,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-neutron-plugin,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-json2yaml,Core,4.166666666666666,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-jquery.tablesorter,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-magic-search,Core,3.3333333333333335,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-magic-search,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-jsencrypt,Core,3.571428571428571,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-jsencrypt,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-js-yaml,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-spin,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-spin,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-rickshaw,Core,3.4482758620689653,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-rickshaw,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-panko,Core,3.571428571428571,2.4390243902439024,1,2
+openstack/ansible-role-systemd_networkd,openstack/charm-panko,Non core,0.0,2.4390243902439024,1,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-service-control,Core,0.0,0.0,0,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-service-control,Non core,0.0,5.263157894736842,0,2
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_almanach,Core,21.62162162162162,25.53191489361702,12,17
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_almanach,Non core,10.81081081081081,10.638297872340425,12,17
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-pip_install,Core,17.24137931034483,19.753086419753085,14,21
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-pip_install,Non core,6.896551724137931,6.172839506172839,14,21
+openstack/ansible-role-systemd_networkd,openstack/python-karborclient,Core,4.166666666666666,3.3707865168539324,4,6
+openstack/ansible-role-systemd_networkd,openstack/python-karborclient,Non core,1.3888888888888888,3.3707865168539324,4,6
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone-admin,Core,12.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone-admin,Non core,0.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-nova-compute,Core,3.225806451612903,0.0,1,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-nova-compute,Non core,0.0,5.0,1,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-manila-plugin,Core,7.4074074074074066,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-manila-plugin,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/murano-apps,Core,4.10958904109589,0.9900990099009901,3,1
+openstack/ansible-role-systemd_networkd,openstack/murano-apps,Non core,0.0,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/puppet-senlin,Core,8.823529411764707,2.1739130434782608,5,3
+openstack/ansible-role-systemd_networkd,openstack/puppet-senlin,Non core,5.88235294117647,4.3478260869565215,5,3
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-application-catalog,Non core,3.571428571428571,2.631578947368421,1,1
+openstack/ansible-role-systemd_networkd,openstack/training-labs,Core,5.263157894736842,1.3888888888888888,4,4
+openstack/ansible-role-systemd_networkd,openstack/training-labs,Non core,1.7543859649122806,4.166666666666666,4,4
+openstack/ansible-role-systemd_networkd,openstack/karbor,Core,2.2900763358778624,1.5957446808510638,6,7
+openstack/ansible-role-systemd_networkd,openstack/karbor,Non core,2.2900763358778624,2.127659574468085,6,7
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-open-cas,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_congress,Core,28.57142857142857,25.454545454545453,14,20
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_congress,Non core,11.428571428571429,10.909090909090908,14,20
+openstack/ansible-role-systemd_networkd,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone-notifications,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/os-collect-config,Core,2.7777777777777777,1.5625,5,7
+openstack/ansible-role-systemd_networkd,openstack/os-collect-config,Non core,4.166666666666666,3.90625,5,7
+openstack/ansible-role-systemd_networkd,openstack/os-apply-config,Core,2.8169014084507045,2.5,5,7
+openstack/ansible-role-systemd_networkd,openstack/os-apply-config,Non core,4.225352112676056,3.3333333333333335,5,7
+openstack/ansible-role-systemd_networkd,openstack/puppet-freezer,Core,9.523809523809524,1.8181818181818181,6,3
+openstack/ansible-role-systemd_networkd,openstack/puppet-freezer,Non core,4.761904761904762,3.6363636363636362,6,3
+openstack/ansible-role-systemd_networkd,openstack/vitrage-specs,Core,5.263157894736842,0.0,4,5
+openstack/ansible-role-systemd_networkd,openstack/vitrage-specs,Non core,1.7543859649122806,6.493506493506493,4,5
+openstack/ansible-role-systemd_networkd,openstack/specs-cookiecutter,Core,10.344827586206897,2.2222222222222223,3,1
+openstack/ansible-role-systemd_networkd,openstack/specs-cookiecutter,Non core,0.0,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/rpm-packaging-tools,Core,6.25,5.660377358490567,3,4
+openstack/ansible-role-systemd_networkd,openstack/rpm-packaging-tools,Non core,3.125,1.8867924528301887,3,4
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-openstack-operations,Core,2.857142857142857,2.127659574468085,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-openstack-operations,Non core,8.571428571428571,2.127659574468085,4,2
+openstack/ansible-role-systemd_networkd,openstack/os-refresh-config,Core,3.4482758620689653,2.0,4,6
+openstack/ansible-role-systemd_networkd,openstack/os-refresh-config,Non core,3.4482758620689653,4.0,4,6
+openstack/ansible-role-systemd_networkd,openstack/mistral-specs,Core,6.382978723404255,0.0,5,0
+openstack/ansible-role-systemd_networkd,openstack/mistral-specs,Non core,4.25531914893617,0.0,5,0
+openstack/ansible-role-systemd_networkd,openstack/scientific-wg,Core,8.0,2.7777777777777777,2,1
+openstack/ansible-role-systemd_networkd,openstack/scientific-wg,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/manila-test-image,Core,3.8461538461538463,2.272727272727273,1,3
+openstack/ansible-role-systemd_networkd,openstack/manila-test-image,Non core,0.0,4.545454545454546,1,3
+openstack/ansible-role-systemd_networkd,openstack/governance-website,Core,6.666666666666667,6.382978723404255,3,5
+openstack/ansible-role-systemd_networkd,openstack/governance-website,Non core,3.3333333333333335,4.25531914893617,3,5
+openstack/ansible-role-systemd_networkd,openstack/bugdaystats,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/bugdaystats,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/upstream-institute-virtual-environment,Core,0.0,2.3255813953488373,0,1
+openstack/ansible-role-systemd_networkd,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/karbor-dashboard,Core,3.571428571428571,3.614457831325301,5,7
+openstack/ansible-role-systemd_networkd,openstack/karbor-dashboard,Non core,5.357142857142857,4.819277108433735,5,7
+openstack/ansible-role-systemd_networkd,openstack/django_openstack_auth,Core,4.123711340206185,0.5128205128205128,4,1
+openstack/ansible-role-systemd_networkd,openstack/django_openstack_auth,Non core,0.0,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/monasca-transform,Core,5.172413793103448,1.2987012987012987,6,6
+openstack/ansible-role-systemd_networkd,openstack/monasca-transform,Non core,5.172413793103448,6.493506493506493,6,6
+openstack/ansible-role-systemd_networkd,openstack/monasca-ceilometer,Core,4.3478260869565215,0.9900990099009901,4,4
+openstack/ansible-role-systemd_networkd,openstack/monasca-ceilometer,Non core,1.4492753623188406,2.9702970297029703,4,4
+openstack/ansible-role-systemd_networkd,openstack/monasca-log-api,Core,4.054054054054054,0.8333333333333334,5,5
+openstack/ansible-role-systemd_networkd,openstack/monasca-log-api,Non core,2.7027027027027026,3.3333333333333335,5,5
+openstack/ansible-role-systemd_networkd,openstack/nose-html-output,Core,3.225806451612903,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/nose-html-output,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/kolla-cli,Core,2.272727272727273,3.225806451612903,1,7
+openstack/ansible-role-systemd_networkd,openstack/kolla-cli,Non core,0.0,8.064516129032258,1,7
+openstack/ansible-role-systemd_networkd,openstack/neutron-lbaas-dashboard,Core,4.545454545454546,1.7391304347826086,5,5
+openstack/ansible-role-systemd_networkd,openstack/neutron-lbaas-dashboard,Non core,3.0303030303030303,2.608695652173913,5,5
+openstack/ansible-role-systemd_networkd,openstack/searchlight,Core,2.2222222222222223,0.6172839506172839,6,5
+openstack/ansible-role-systemd_networkd,openstack/searchlight,Non core,2.2222222222222223,2.4691358024691357,6,5
+openstack/ansible-role-systemd_networkd,openstack/searchlight-ui,Core,4.6875,2.4691358024691357,5,2
+openstack/ansible-role-systemd_networkd,openstack/searchlight-ui,Non core,3.125,0.0,5,2
+openstack/ansible-role-systemd_networkd,openstack/searchlight-specs,Core,7.317073170731707,0.0,6,0
+openstack/ansible-role-systemd_networkd,openstack/searchlight-specs,Non core,7.317073170731707,0.0,6,0
+openstack/ansible-role-systemd_networkd,openstack/python-searchlightclient,Core,4.6875,0.0,4,4
+openstack/ansible-role-systemd_networkd,openstack/python-searchlightclient,Non core,1.5625,4.878048780487805,4,4
+openstack/ansible-role-systemd_networkd,openstack/charm-tempest,Core,4.651162790697675,0.0,2,2
+openstack/ansible-role-systemd_networkd,openstack/charm-tempest,Non core,0.0,3.7037037037037033,2,2
+openstack/ansible-role-systemd_networkd,openstack/charm-barbican-softhsm,Core,5.0,0.0,2,2
+openstack/ansible-role-systemd_networkd,openstack/charm-barbican-softhsm,Non core,0.0,4.081632653061225,2,2
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-client,Core,3.3333333333333335,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-client,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/instack-undercloud,Core,1.6528925619834711,0.8733624454148471,4,7
+openstack/ansible-role-systemd_networkd,openstack/instack-undercloud,Non core,1.6528925619834711,2.1834061135371177,4,7
+openstack/ansible-role-systemd_networkd,openstack/publiccloud-sig,Core,7.142857142857142,2.5,2,1
+openstack/ansible-role-systemd_networkd,openstack/publiccloud-sig,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/ideas,Core,16.666666666666664,7.017543859649122,4,4
+openstack/ansible-role-systemd_networkd,openstack/ideas,Non core,0.0,0.0,4,4
+openstack/ansible-role-systemd_networkd,openstack/uc-recognition,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/uc-recognition,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/ops-tags-team,Core,3.125,1.5873015873015872,1,1
+openstack/ansible-role-systemd_networkd,openstack/ops-tags-team,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/enterprise-wg,Core,4.3478260869565215,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/enterprise-wg,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/governance-uc,Core,7.317073170731707,6.329113924050633,4,7
+openstack/ansible-role-systemd_networkd,openstack/governance-uc,Non core,2.4390243902439024,2.5316455696202533,4,7
+openstack/ansible-role-systemd_networkd,openstack/workload-ref-archs,Core,9.67741935483871,4.761904761904762,5,5
+openstack/ansible-role-systemd_networkd,openstack/workload-ref-archs,Non core,6.451612903225806,7.142857142857142,5,5
+openstack/ansible-role-systemd_networkd,openstack/arch-wg,Core,3.8461538461538463,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/arch-wg,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/project-navigator-data,Core,7.6923076923076925,5.555555555555555,3,3
+openstack/ansible-role-systemd_networkd,openstack/project-navigator-data,Non core,0.0,0.0,3,3
+openstack/ansible-role-systemd_networkd,openstack/openstack-specs,Core,7.5,1.9138755980861244,3,4
+openstack/ansible-role-systemd_networkd,openstack/openstack-specs,Non core,0.0,0.0,3,4
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_monasca,Core,24.444444444444443,21.53846153846154,15,20
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_monasca,Non core,8.88888888888889,9.230769230769232,15,20
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_monasca-agent,Core,25.0,26.0,12,17
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_monasca-agent,Non core,8.333333333333332,8.0,12,17
+openstack/ansible-role-systemd_networkd,openstack/ironic-inspector-specs,Core,4.651162790697675,1.3333333333333335,5,3
+openstack/ansible-role-systemd_networkd,openstack/ironic-inspector-specs,Non core,6.976744186046512,2.666666666666667,5,3
+openstack/ansible-role-systemd_networkd,openstack/sushy-cli,Core,3.225806451612903,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/sushy-cli,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/puppet-glare,Core,8.695652173913043,5.357142857142857,7,5
+openstack/ansible-role-systemd_networkd,openstack/puppet-glare,Non core,6.521739130434782,3.571428571428571,7,5
+openstack/ansible-role-systemd_networkd,openstack/xstatic-bootstrap-scss,Core,3.4482758620689653,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-bootstrap-scss,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-planet,Core,1.6528925619834711,0.7246376811594203,4,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-planet,Non core,0.0,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone-credentials,Core,10.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone-credentials,Non core,0.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/monasca-kibana-plugin,Core,6.25,2.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/monasca-kibana-plugin,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone-domain-backend,Core,11.11111111111111,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-amqp1,Core,6.0606060606060606,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-amqp1,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-kafka,Core,3.3333333333333335,2.2222222222222223,1,3
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-kafka,Non core,0.0,4.444444444444445,1,3
+openstack/ansible-role-systemd_networkd,openstack/tripleo-ipsec,Core,6.0606060606060606,2.0408163265306123,2,2
+openstack/ansible-role-systemd_networkd,openstack/tripleo-ipsec,Non core,0.0,2.0408163265306123,2,2
+openstack/ansible-role-systemd_networkd,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/monasca-grafana-datasource,Non core,0.0,1.8518518518518516,0,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-bind-rndc,Core,10.344827586206897,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-bind-rndc,Non core,0.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-rabbitmq,Core,10.714285714285714,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-rabbitmq,Non core,0.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-openstack-ha,Core,7.142857142857142,2.564102564102564,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-openstack-ha,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-gnocchi,Core,12.0,2.2222222222222223,4,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-gnocchi,Non core,4.0,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-bgp,Core,6.896551724137931,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-bgp,Non core,0.0,2.631578947368421,2,1
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-designate,Core,3.8461538461538463,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-designate,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/tempest-horizon,Core,7.317073170731707,0.0,3,2
+openstack/ansible-role-systemd_networkd,openstack/tempest-horizon,Non core,0.0,3.9215686274509802,3,2
+openstack/ansible-role-systemd_networkd,openstack/logstash-filters,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/logstash-filters,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-jquery-migrate,Core,3.8461538461538463,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-jquery-migrate,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/qinling-dashboard,Core,6.896551724137931,2.2222222222222223,2,2
+openstack/ansible-role-systemd_networkd,openstack/qinling-dashboard,Non core,0.0,2.2222222222222223,2,2
+openstack/ansible-role-systemd_networkd,openstack/python-qinlingclient,Core,6.382978723404255,1.9230769230769231,7,5
+openstack/ansible-role-systemd_networkd,openstack/python-qinlingclient,Non core,8.51063829787234,7.6923076923076925,7,5
+openstack/ansible-role-systemd_networkd,openstack/qinling,Core,4.838709677419355,1.5625,6,4
+openstack/ansible-role-systemd_networkd,openstack/qinling,Non core,4.838709677419355,4.6875,6,4
+openstack/ansible-role-systemd_networkd,openstack/monasca-analytics,Core,6.8181818181818175,1.4285714285714286,5,3
+openstack/ansible-role-systemd_networkd,openstack/monasca-analytics,Non core,4.545454545454546,2.857142857142857,5,3
+openstack/ansible-role-systemd_networkd,openstack/oslo-incubator,Core,1.0273972602739725,0.2178649237472767,3,1
+openstack/ansible-role-systemd_networkd,openstack/oslo-incubator,Non core,0.0,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/puppet-congress,Core,8.51063829787234,3.9215686274509802,6,4
+openstack/ansible-role-systemd_networkd,openstack/puppet-congress,Non core,4.25531914893617,3.9215686274509802,6,4
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_monasca-ui,Core,17.24137931034483,13.953488372093023,7,7
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_monasca-ui,Non core,6.896551724137931,2.3255813953488373,7,7
+openstack/ansible-role-systemd_networkd,openstack/auto-scaling-sig,Core,3.571428571428571,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/auto-scaling-sig,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/os-loganalyze,Core,0.0,1.2345679012345678,0,1
+openstack/ansible-role-systemd_networkd,openstack/os-loganalyze,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-pika,Core,3.7037037037037033,2.4390243902439024,1,1
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-pika,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-zmq,Core,6.451612903225806,2.272727272727273,2,1
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-zmq,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/networking-l2gw,Core,3.5294117647058822,0.5586592178770949,6,3
+openstack/ansible-role-systemd_networkd,openstack/networking-l2gw,Non core,3.5294117647058822,1.1173184357541899,6,3
+openstack/ansible-role-systemd_networkd,openstack/networking-l2gw-tempest-plugin,Core,3.125,1.9607843137254901,3,3
+openstack/ansible-role-systemd_networkd,openstack/networking-l2gw-tempest-plugin,Non core,6.25,3.9215686274509802,3,3
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-ceph-mds,Core,10.714285714285714,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-ceph-mds,Non core,0.0,0.0,3,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-ui-router,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-ui-router,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-vis,Core,8.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-vis,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-database,Core,3.225806451612903,1.8867924528301887,1,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-database,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-data-processing,Core,3.571428571428571,2.127659574468085,1,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-data-processing,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/trove-integration,Core,1.1363636363636365,1.5384615384615385,1,2
+openstack/ansible-role-systemd_networkd,openstack/trove-integration,Non core,0.0,0.0,1,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-sensu,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-sensu,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/python-ceilometerclient,Core,2.2222222222222223,0.46728971962616817,3,1
+openstack/ansible-role-systemd_networkd,openstack/python-ceilometerclient,Non core,0.0,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/keystoneauth-saml2,Core,5.88235294117647,1.5873015873015872,2,1
+openstack/ansible-role-systemd_networkd,openstack/keystoneauth-saml2,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/murano-deployment,Core,1.7241379310344827,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/murano-deployment,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/python-keystoneclient-kerberos,Core,5.88235294117647,1.639344262295082,2,1
+openstack/ansible-role-systemd_networkd,openstack/python-keystoneclient-kerberos,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/python-wsmanclient,Core,3.8461538461538463,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/python-wsmanclient,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/fuel-upgrade,Core,6.451612903225806,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/fuel-upgrade,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-object-storage,Core,2.0,1.3888888888888888,1,1
+openstack/ansible-role-systemd_networkd,openstack/cookbook-openstack-object-storage,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/fairy-slipper,Core,6.896551724137931,2.1739130434782608,2,1
+openstack/ansible-role-systemd_networkd,openstack/fairy-slipper,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/django-openstack-auth-kerberos,Core,7.4074074074074066,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/django-openstack-auth-kerberos,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/horizon-cisco-ui,Core,5.88235294117647,2.3255813953488373,2,1
+openstack/ansible-role-systemd_networkd,openstack/horizon-cisco-ui,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/zuul-packaging,Core,8.333333333333332,2.5,2,1
+openstack/ansible-role-systemd_networkd,openstack/zuul-packaging,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/networking-generic-switch-tempest-plugin,Core,4.166666666666666,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/tripleo-incubator,Core,1.694915254237288,0.5208333333333333,2,1
+openstack/ansible-role-systemd_networkd,openstack/tripleo-incubator,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/ironic-webclient,Core,3.4482758620689653,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/ironic-webclient,Non core,0.0,1.6666666666666667,1,1
+openstack/ansible-role-systemd_networkd,openstack/puppet-crane,Core,4.166666666666666,3.0303030303030303,1,1
+openstack/ansible-role-systemd_networkd,openstack/puppet-crane,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/release-tools,Core,5.555555555555555,2.0,3,3
+openstack/ansible-role-systemd_networkd,openstack/release-tools,Non core,0.0,1.0,3,3
+openstack/ansible-role-systemd_networkd,openstack/gnocchi,Core,3.4090909090909087,0.6369426751592357,4,3
+openstack/ansible-role-systemd_networkd,openstack/gnocchi,Non core,1.1363636363636365,1.2738853503184715,4,3
+openstack/ansible-role-systemd_networkd,openstack/networking-ofagent,Core,3.0303030303030303,1.8181818181818181,1,1
+openstack/ansible-role-systemd_networkd,openstack/networking-ofagent,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/python-neutron-pd-driver,Core,4.0,2.941176470588235,1,1
+openstack/ansible-role-systemd_networkd,openstack/python-neutron-pd-driver,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/charm-ceph,Core,2.380952380952381,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-ceph,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_freezer,Core,8.695652173913043,6.451612903225806,2,2
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,2,2
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-pip_lock_down,Core,19.35483870967742,12.195121951219512,6,5
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.0,6,5
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-security,Core,14.814814814814813,9.89010989010989,8,9
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-security,Non core,0.0,0.0,8,9
+openstack/ansible-role-systemd_networkd,openstack/oslosphinx,Core,4.545454545454546,4.2105263157894735,4,5
+openstack/ansible-role-systemd_networkd,openstack/oslosphinx,Non core,1.5151515151515151,1.0526315789473684,4,5
+openstack/ansible-role-systemd_networkd,openstack/python-gnocchiclient,Core,1.8867924528301887,1.6129032258064515,1,1
+openstack/ansible-role-systemd_networkd,openstack/python-gnocchiclient,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-cinder,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-cookiecutter,Core,4.0,2.941176470588235,1,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-glance,Core,8.0,2.941176470588235,2,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-keystone,Core,8.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-mariadb,Core,7.6923076923076925,2.7777777777777777,2,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-rabbitmq,Core,4.166666666666666,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-tripleo,Core,8.0,2.857142857142857,2,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-ui,Core,7.4074074074074066,5.714285714285714,3,3
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-ui,Non core,3.7037037037037033,2.857142857142857,3,3
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-aodh,Core,11.538461538461538,2.7777777777777777,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-aodh,Non core,3.8461538461538463,2.7777777777777777,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-barbican,Core,11.538461538461538,2.857142857142857,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-barbican,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-ceilometer,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-ceilometer,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-cinder,Core,11.538461538461538,2.857142857142857,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-cinder,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-cookiecutter,Core,13.793103448275861,5.0,5,5
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-cookiecutter,Non core,3.4482758620689653,7.5,5,5
+openstack/ansible-role-systemd_networkd,openstack/tripleo-ui,Core,5.660377358490567,3.225806451612903,5,7
+openstack/ansible-role-systemd_networkd,openstack/tripleo-ui,Non core,3.7735849056603774,4.301075268817205,5,7
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-ovn,Core,11.538461538461538,2.857142857142857,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-ovn,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-opendaylight,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-opendaylight,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-octavia,Core,11.11111111111111,2.857142857142857,3,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-octavia,Non core,0.0,2.857142857142857,3,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-nova,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-nova,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/os-cloud-config,Core,4.166666666666666,0.819672131147541,3,2
+openstack/ansible-role-systemd_networkd,openstack/os-cloud-config,Non core,0.0,0.819672131147541,3,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-zaqar,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-zaqar,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-tempest,Core,11.538461538461538,2.941176470588235,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-tempest,Non core,3.8461538461538463,2.941176470588235,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-sahara,Core,11.538461538461538,2.857142857142857,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-sahara,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-swift,Core,11.538461538461538,2.857142857142857,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-swift,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-tacker,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-tacker,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,11.538461538461538,2.857142857142857,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-rabbitmq,Core,11.538461538461538,2.857142857142857,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-rabbitmq,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-qdrouterd,Core,8.695652173913043,3.125,2,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-panko,Core,11.538461538461538,2.857142857142857,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-panko,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-heat,Core,11.538461538461538,2.857142857142857,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-heat,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-haproxy,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-haproxy,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-gnocchi,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-gnocchi,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-glance,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-glance,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-designate,Core,11.538461538461538,2.7777777777777777,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-designate,Non core,3.8461538461538463,0.0,4,1
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-neutron,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-neutron,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-mistral,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-mistral,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-memcached,Core,11.538461538461538,2.857142857142857,4,3
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-memcached,Non core,3.8461538461538463,5.714285714285714,4,3
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-manila,Core,11.538461538461538,2.7777777777777777,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-manila,Non core,3.8461538461538463,2.7777777777777777,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-ironic,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-ironic,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-keepalived,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-keepalived,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-horizon,Core,11.538461538461538,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/ansible-role-tripleo-horizon,Non core,3.8461538461538463,2.857142857142857,4,2
+openstack/ansible-role-systemd_networkd,openstack/pylockfile,Core,6.666666666666667,2.0408163265306123,2,1
+openstack/ansible-role-systemd_networkd,openstack/pylockfile,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/dragonflow,Core,2.127659574468085,1.4084507042253522,7,9
+openstack/ansible-role-systemd_networkd,openstack/dragonflow,Non core,2.8368794326241136,2.8169014084507045,7,9
+openstack/ansible-role-systemd_networkd,openstack/openstack,Core,3.7037037037037033,4.3478260869565215,1,2
+openstack/ansible-role-systemd_networkd,openstack/openstack,Non core,0.0,0.0,1,2
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-pacemaker-remote,Core,0.0,0.0,0,3
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-pacemaker-remote,Non core,0.0,8.333333333333332,0,3
+openstack/ansible-role-systemd_networkd,openstack/networking-onos,Core,2.564102564102564,1.2987012987012987,1,3
+openstack/ansible-role-systemd_networkd,openstack/networking-onos,Non core,0.0,2.5974025974025974,1,3
+openstack/ansible-role-systemd_networkd,openstack/solum-infra-guestagent,Core,3.4482758620689653,2.3255813953488373,1,1
+openstack/ansible-role-systemd_networkd,openstack/solum-infra-guestagent,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-ux,Core,3.8461538461538463,2.083333333333333,1,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-ux,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/mox3,Core,6.8181818181818175,3.0303030303030303,6,2
+openstack/ansible-role-systemd_networkd,openstack/mox3,Non core,6.8181818181818175,0.0,6,2
+openstack/ansible-role-systemd_networkd,openstack/charm-layer-ceph,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-layer-ceph-base,Core,7.6923076923076925,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-layer-ceph-base,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/python-tricircleclient,Core,8.108108108108109,3.571428571428571,5,4
+openstack/ansible-role-systemd_networkd,openstack/python-tricircleclient,Non core,5.405405405405405,3.571428571428571,5,4
+openstack/ansible-role-systemd_networkd,openstack/tricircle,Core,4.166666666666666,1.8518518518518516,8,7
+openstack/ansible-role-systemd_networkd,openstack/tricircle,Non core,4.166666666666666,2.4691358024691357,8,7
+openstack/ansible-role-systemd_networkd,openstack/swift-specs,Core,4.444444444444445,1.0638297872340425,2,1
+openstack/ansible-role-systemd_networkd,openstack/swift-specs,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/congress,Core,1.7751479289940828,0.8583690987124464,7,8
+openstack/ansible-role-systemd_networkd,openstack/congress,Non core,2.366863905325444,2.575107296137339,7,8
+openstack/ansible-role-systemd_networkd,openstack/congress-tempest-plugin,Core,5.263157894736842,6.122448979591836,5,7
+openstack/ansible-role-systemd_networkd,openstack/congress-tempest-plugin,Non core,7.894736842105263,8.16326530612245,5,7
+openstack/ansible-role-systemd_networkd,openstack/python-congressclient,Core,4.225352112676056,2.564102564102564,4,5
+openstack/ansible-role-systemd_networkd,openstack/python-congressclient,Non core,1.4084507042253522,3.8461538461538463,4,5
+openstack/ansible-role-systemd_networkd,openstack/congress-specs,Core,5.454545454545454,1.2987012987012987,3,1
+openstack/ansible-role-systemd_networkd,openstack/congress-specs,Non core,0.0,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/congress-dashboard,Core,7.142857142857142,3.278688524590164,6,4
+openstack/ansible-role-systemd_networkd,openstack/congress-dashboard,Non core,7.142857142857142,3.278688524590164,6,4
+openstack/ansible-role-systemd_networkd,openstack/syntribos,Core,3.9215686274509802,1.5384615384615385,3,1
+openstack/ansible-role-systemd_networkd,openstack/syntribos,Non core,1.9607843137254901,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/syntribos-payloads,Core,4.166666666666666,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/syntribos-payloads,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/syntribos-openstack-templates,Core,3.8461538461538463,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/syntribos-openstack-templates,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/i18n-specs,Core,8.333333333333332,2.7027027027027026,2,1
+openstack/ansible-role-systemd_networkd,openstack/i18n-specs,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/tempest-plugin-cookiecutter,Core,7.6923076923076925,2.380952380952381,2,1
+openstack/ansible-role-systemd_networkd,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-cookiecutter,Core,3.8461538461538463,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-graphlib,Core,0.0,3.0303030303030303,0,1
+openstack/ansible-role-systemd_networkd,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-repo_build,Core,16.417910447761194,15.053763440860216,15,21
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-repo_build,Non core,5.970149253731343,7.526881720430108,15,21
+openstack/ansible-role-systemd_networkd,openstack/xstatic-bootstrap-datepicker,Core,3.3333333333333335,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-hogan,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-hogan,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-jquery.quicksearch,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_molteniron,Core,22.22222222222222,24.444444444444443,11,16
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_molteniron,Non core,8.333333333333332,11.11111111111111,11,16
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-lrdragndrop,Core,3.4482758620689653,4.761904761904762,1,2
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,1,2
+openstack/ansible-role-systemd_networkd,openstack/faafo,Core,6.25,2.127659574468085,2,1
+openstack/ansible-role-systemd_networkd,openstack/faafo,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-bootstrap,Core,3.125,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/networking-calico,Core,5.769230769230769,3.6585365853658534,5,6
+openstack/ansible-role-systemd_networkd,openstack/networking-calico,Non core,3.8461538461538463,3.6585365853658534,5,6
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-gettext,Core,3.4482758620689653,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-gettext,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/shotgun,Core,2.380952380952381,0.9708737864077669,1,1
+openstack/ansible-role-systemd_networkd,openstack/shotgun,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/fuel-devops,Core,2.4390243902439024,0.5952380952380952,3,3
+openstack/ansible-role-systemd_networkd,openstack/fuel-devops,Non core,1.2195121951219512,1.1904761904761905,3,3
+openstack/ansible-role-systemd_networkd,openstack/fuel-plugin-murano,Core,2.857142857142857,1.694915254237288,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-plugin-murano,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-web,Core,0.8658008658008658,0.4807692307692308,3,4
+openstack/ansible-role-systemd_networkd,openstack/fuel-web,Non core,0.4329004329004329,0.4807692307692308,3,4
+openstack/ansible-role-systemd_networkd,openstack/fuel-plugins,Core,2.9850746268656714,0.7692307692307693,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-plugins,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-virtualbox,Core,3.125,1.9607843137254901,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-virtualbox,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-ostf,Core,1.680672268907563,0.4149377593360996,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-ostf,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-qa,Core,0.684931506849315,0.3663003663003663,1,2
+openstack/ansible-role-systemd_networkd,openstack/fuel-qa,Non core,0.0,0.3663003663003663,1,2
+openstack/ansible-role-systemd_networkd,openstack/fuel-specs,Core,1.6129032258064515,0.6134969325153374,2,2
+openstack/ansible-role-systemd_networkd,openstack/fuel-specs,Non core,0.0,0.0,2,2
+openstack/ansible-role-systemd_networkd,openstack/fuel-nailgun-extension-cluster-upgrade,Core,3.0303030303030303,1.9607843137254901,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-nailgun-agent,Core,1.6666666666666667,0.7936507936507936,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-nailgun-agent,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-mirror,Core,3.7037037037037033,0.7633587786259541,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-mirror,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-menu,Core,3.571428571428571,0.6993006993006993,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-menu,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-main,Core,0.6211180124223602,0.7299270072992701,1,4
+openstack/ansible-role-systemd_networkd,openstack/fuel-main,Non core,0.0,0.7299270072992701,1,4
+openstack/ansible-role-systemd_networkd,openstack/fuel-ui,Core,1.5625,0.8547008547008548,1,2
+openstack/ansible-role-systemd_networkd,openstack/fuel-ui,Non core,0.0,0.8547008547008548,1,2
+openstack/ansible-role-systemd_networkd,openstack/fuel-library,Core,1.3636363636363635,0.6451612903225806,3,4
+openstack/ansible-role-systemd_networkd,openstack/fuel-library,Non core,0.0,0.21505376344086022,3,4
+openstack/ansible-role-systemd_networkd,openstack/fuel-dev-tools,Core,8.823529411764707,1.9607843137254901,3,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-dev-tools,Non core,0.0,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-stats,Core,4.761904761904762,1.2987012987012987,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-stats,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-nailgun-extension-converted-serializers,Core,4.0,2.941176470588235,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-nailgun-extension-iac,Core,3.7037037037037033,2.7777777777777777,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-plugin-murano-tests,Core,2.941176470588235,1.694915254237288,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-astute,Core,1.1363636363636365,0.5494505494505495,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-astute,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-docs,Core,0.8547008547008548,0.5830903790087464,2,2
+openstack/ansible-role-systemd_networkd,openstack/fuel-docs,Non core,0.8547008547008548,0.0,2,2
+openstack/ansible-role-systemd_networkd,openstack/fuel-agent,Core,2.197802197802198,0.5617977528089888,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-agent,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-octane,Core,3.7735849056603774,1.1764705882352942,2,1
+openstack/ansible-role-systemd_networkd,openstack/fuel-octane,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/tuning-box,Core,3.571428571428571,1.7857142857142856,1,1
+openstack/ansible-role-systemd_networkd,openstack/tuning-box,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/python-fuelclient,Core,1.0869565217391304,0.5681818181818182,1,1
+openstack/ansible-role-systemd_networkd,openstack/python-fuelclient,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/neutron-interconnection,Core,0.0,2.4390243902439024,0,1
+openstack/ansible-role-systemd_networkd,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-chef-repo,Core,0.0,1.1904761904761905,0,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-chef-repo,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/os-acc,Core,0.0,2.083333333333333,0,1
+openstack/ansible-role-systemd_networkd,openstack/os-acc,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_zaqar,Core,19.148936170212767,19.047619047619047,13,16
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_zaqar,Non core,8.51063829787234,6.349206349206349,13,16
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_watcher,Core,18.6046511627907,21.052631578947366,12,14
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_watcher,Non core,9.30232558139535,3.508771929824561,12,14
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_searchlight,Core,20.0,20.408163265306122,12,13
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_searchlight,Non core,14.285714285714285,6.122448979591836,12,13
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-vis,Core,4.166666666666666,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-font-awesome,Core,3.4482758620689653,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-font-awesome,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-jasmine,Core,3.0303030303030303,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-jasmine,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-notify,Core,4.166666666666666,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-material,Core,3.8461538461538463,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/tempest-tripleo-ui,Core,3.8461538461538463,2.380952380952381,1,1
+openstack/ansible-role-systemd_networkd,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/docs-specs,Core,2.941176470588235,1.7316017316017316,3,6
+openstack/ansible-role-systemd_networkd,openstack/docs-specs,Non core,1.4705882352941175,0.8658008658008658,3,6
+openstack/ansible-role-systemd_networkd,openstack/release-schedule-generator,Core,0.0,2.7777777777777777,0,1
+openstack/ansible-role-systemd_networkd,openstack/release-schedule-generator,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack-infra/opendev-website,Core,4.166666666666666,2.7777777777777777,1,1
+openstack/ansible-role-systemd_networkd,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/castellan-ui,Core,7.4074074074074066,2.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/castellan-ui,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack-attic/compute-api,Core,2.1739130434782608,1.5151515151515151,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/compute-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/charm-neutron-api-odl,Core,3.0303030303030303,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-neutron-api-odl,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/charm-murano,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-murano,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-openvswitch-odl,Core,3.125,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-openvswitch-odl,Non core,3.125,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-odl-controller-api,Core,8.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-interface-odl-controller-api,Non core,0.0,0.0,2,0
+openstack/ansible-role-systemd_networkd,openstack/charm-glusterfs,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-glusterfs,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-trove,Core,3.3333333333333335,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/charm-trove,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/fuxi,Core,2.0,1.3157894736842104,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuxi,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/xstatic-filesaver,Core,4.166666666666666,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-uuid,Core,4.166666666666666,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/bandit,Core,2.5,1.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/bandit,Non core,1.25,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-smart-table,Core,3.8461538461538463,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-bootswatch,Core,3.7037037037037033,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-bootswatch,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-d3,Core,3.571428571428571,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/xstatic-d3,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/instack,Core,4.651162790697675,1.5151515151515151,3,1
+openstack/ansible-role-systemd_networkd,openstack/instack,Non core,2.3255813953488373,0.0,3,1
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/astara,Core,3.389830508474576,1.2658227848101267,2,1
+openstack/ansible-role-systemd_networkd,openstack/astara,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/astara-appliance,Core,2.7027027027027026,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/astara-appliance,Non core,0.0,1.8518518518518516,1,1
+openstack/ansible-role-systemd_networkd,openstack/astara-horizon,Core,3.3333333333333335,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/astara-horizon,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/astara-neutron,Core,2.941176470588235,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/astara-neutron,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/anchor,Core,0.0,1.36986301369863,0,1
+openstack/ansible-role-systemd_networkd,openstack/anchor,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/fuxi-golang,Core,4.3478260869565215,2.941176470588235,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuxi-kubernetes,Core,4.166666666666666,2.564102564102564,1,1
+openstack/ansible-role-systemd_networkd,openstack/fuxi-kubernetes,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack-infra/puppet-odsreg,Core,3.571428571428571,2.272727272727273,1,1
+openstack/ansible-role-systemd_networkd,openstack-infra/puppet-odsreg,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack-infra/puppet-docker_registry,Core,4.3478260869565215,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/releasestatus,Core,4.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/releasestatus,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack-infra/vinz-webclient,Core,4.3478260869565215,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/activity-board,Core,2.631578947368421,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/activity-board,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack-infra/beaker-localhost,Core,4.3478260869565215,3.125,1,1
+openstack/ansible-role-systemd_networkd,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack-infra/beaker-nodepool,Core,4.3478260869565215,3.125,1,1
+openstack/ansible-role-systemd_networkd,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/rst2bash,Core,8.0,2.5,2,1
+openstack/ansible-role-systemd_networkd,openstack/rst2bash,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/kolla-kubernetes,Core,2.3529411764705883,0.6711409395973155,4,2
+openstack/ansible-role-systemd_networkd,openstack/kolla-kubernetes,Non core,2.3529411764705883,0.6711409395973155,4,2
+openstack/ansible-role-systemd_networkd,openstack/cue-dashboard,Core,6.25,2.4390243902439024,2,1
+openstack/ansible-role-systemd_networkd,openstack/cue-dashboard,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/python-cueclient,Core,5.714285714285714,2.4390243902439024,2,1
+openstack/ansible-role-systemd_networkd,openstack/python-cueclient,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/cue,Core,3.7735849056603774,1.5384615384615385,2,1
+openstack/ansible-role-systemd_networkd,openstack/cue,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack/app-catalog,Core,2.4096385542168677,1.0526315789473684,2,1
+openstack/ansible-role-systemd_networkd,openstack/app-catalog,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack-attic/identity-api,Core,1.5384615384615385,0.8849557522123894,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/identity-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/app-catalog-ui,Core,3.225806451612903,2.127659574468085,1,1
+openstack/ansible-role-systemd_networkd,openstack/app-catalog-ui,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-kubernetes,Core,3.571428571428571,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-kubernetes,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/app-catalog-common,Core,0.0,3.0303030303030303,0,1
+openstack/ansible-role-systemd_networkd,openstack/app-catalog-common,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/python-appcatalogclient,Core,0.0,2.7777777777777777,0,1
+openstack/ansible-role-systemd_networkd,openstack/python-appcatalogclient,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-openstack-pkg-tools,Core,0.0,2.5,0,1
+openstack/ansible-role-systemd_networkd,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-mistral,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-mistral,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/installguide-cookiecutter,Core,3.0303030303030303,2.272727272727273,1,1
+openstack/ansible-role-systemd_networkd,openstack/installguide-cookiecutter,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-opencontrail,Core,2.564102564102564,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-opencontrail,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-neutron,Core,2.631578947368421,2.2222222222222223,1,1
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-neutron,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-nova,Core,2.272727272727273,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-nova,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-keystone,Core,2.4390243902439024,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-keystone,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-horizon,Core,2.7777777777777777,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-horizon,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-heat,Core,2.3255813953488373,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-heat,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-glance,Core,2.380952380952381,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-glance,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-cinder,Core,2.4390243902439024,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-cinder,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-ceilometer,Core,3.0303030303030303,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-ceilometer,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-salt,Core,3.7037037037037033,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-salt,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-midonet,Core,4.3478260869565215,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/salt-formula-midonet,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/magnetodb-specs,Core,2.941176470588235,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/magnetodb-specs,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/oslo.version,Core,6.666666666666667,2.0408163265306123,2,1
+openstack/ansible-role-systemd_networkd,openstack-attic/oslo.version,Non core,0.0,0.0,2,1
+openstack/ansible-role-systemd_networkd,openstack-attic/image-api,Core,3.0303030303030303,2.0408163265306123,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/image-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/object-api,Core,2.3255813953488373,1.694915254237288,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/object-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/volume-api,Core,2.7027027027027026,1.9607843137254901,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/volume-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack/magnetodb,Core,2.2222222222222223,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/magnetodb,Non core,0.0,0.0,1,0
+openstack/ansible-role-systemd_networkd,openstack/openstack-nose,Core,0.0,2.631578947368421,0,1
+openstack/ansible-role-systemd_networkd,openstack/openstack-nose,Non core,0.0,0.0,0,1
+openstack/ansible-role-systemd_networkd,openstack-attic/netconn-api,Core,2.0,1.25,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/netconn-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/database-api,Core,2.941176470588235,2.127659574468085,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/database-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-systemd_networkd,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/ansible-role-systemd_networkd,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

@@ -10,12 +10,16 @@ The projects is organized as follows:
 
 ## How to use the project
 
-1. First, you need to run the script called *openstack-data-collection.py*, to get the required data in json format. Since *Changes* directory is already exist, you can skip both 1st and 2nd steps. There is **no input** for this script, but the **output** is a Changes folder containing the json files.
-2. Second, you have to execute the *openstack-data-transform.py* in order to transform the json files obtained in the previous step into convenient csv files. The **input** would be the json files of the 1st step, and 4 sets of folders will be generated as **outputs** (Changes, Reviewers, Messages, Files), they are in a CSV format.
-3. The third steps consists of running *openstack-data-cleaning.py*, this will parse commit messages to retrieve depends-on values that we are more interested in, to study such co-changes. Thus, the **input** is **Changes files** of the previous, and the **output** is a csv file named **Files/source_target_evolution.csv**, where the columns are *Source,Target,Source_repo,Target_repo*.
-4. The fourth step, run the script *openstack-paths-generation.py*, the **input** is **Files/source_target_evolution.csv**, this will produce as **output**, a CSV file named all_paths.csv stored in *experiments/* where each line represents the co-changing Openstack components.
-5. This step consist of calling *openstack-paths-extending.py*, which extends the *all_paths.csv* file as **input**, with single-component related changes, in other words, the changes that have no dependencies. This will result in as **output**, two files, 1st one stored in *Files/Number/extended_paths.csv* and second stored in *Files/Repo/extended_paths.csv*. The former contains number-based co-changes while the later contains repository-based co-changes.
-6. Finally, one must execute the script *openstack-metrics-extractor.py*, it takes as **input**, *Files/Repo/all_paths.csv*, and produces *Files/Repo/metrics.csv*. The latter file contains metrics about each association rule in the following pattern *Repo_A*, *Repo_B*, *Support_A*, *Support_B*, *Support_A_B*, *Confidence_A_B*, *Confidence_B_A*, *Lift_A_B*, *Lift_B_A*,
+The mian entry point to the project is the core file located at the root directory called *setup.py* which executes the certain scripts in the order as follows:
+
+1. **openstack-data-collection.py**: collect the data from the OpenDev platform, thenn store the data in *Changes* directory.
+2. **openstack-data-transform.py**: transforms the previously acquired data to a proper data format, which are then saved in csv-based files.
+3. **openstack-members.py**: serves for get the list of OpenStack core team members. To do so, one must provide two important secret credentials **GerritAccount** and **XSRF_TOKEN** which can be accessed via browser coookie of the following website [link](https://review.opendev.org/admin/repos)". Plus, *casual contributors* are also obtained.
+4. **openstack-project-selection.py**: this script retrieves the main OpenStack core services and map each project to their proper service.
+5. **openstack-pq-metrics-extractor**: calculates the metrics for each pairs of projects/services such as developers'intersection.
+6. **openstack-dependencies-generation.py**: generates the dependecies through *Depends-On* and *Needed-By* tags.
+7. **openstack-paths-generation.py**: generates the chains of related changes according to the results of the previous script.
+8. **openstack-paths-extending.py**: this extends the chains of depednent changes using *Related-Bug* and *Change-Id* infromations.
 
 ## Requirements for this projects
 
@@ -37,7 +41,7 @@ There are two ways to run those scripts :
 
 ## Important Notice
 
-It is not suggested to run all the scripts at once, since it will too much time. Since the Data folder contains all files to play with you can go directly to the third step
+It is not suggested to run all the scripts at once, since it will take much time. Since the Data folder contains all files to play with you can go directly to the third step
 
 ## Links
 
@@ -47,16 +51,19 @@ It is not suggested to run all the scripts at once, since it will too much time.
     - File **source_target_evolution.csv :** contains source, target, source_repo, target_repo identified by depends-on attribute.
 
 2. The folder *Files/Number/* contains the following files, along with their description:
-    - **depends_on.csv :** co-changes obtained using depends-on attribute.
-    - **related_bug.csv :** co-changes obtained using related-bug attribute:
-    - **topic.csv :** co-changes obtained using topic attribute.
-    - **subject.csv :** co-changes obtained using subject attribute.
-    - **change_id.csv :** co-changes obtained using change-id attribute.
-    - **extended_paths.csv :** co-changes obtained using based on all_paths.csv.
+    - **depends_on.csv :** related changes obtained using depends-on attribute.
+    - **related_bug.csv :** related changes obtained using related-bug attribute:
+    - **change_id.csv :** related changes obtained using change-id attribute.
+    - **extended_paths.csv :** chains of related changes.
 
 3. The folder *Files/Repo/* contains the following files, along with their descriptio
     - **extended_paths.csv :** repository-based co-changes, produced using the extended_paths.csv located at *Files/Number/*
-    - **metrics.csv :** /Files/Repo/metrics.csv
+    <!-- - **metrics.csv :** /Files/Repo/metrics.csv -->
 
 4. External resources:
-    - **all_paths.csv:** : the result of combination the *depends_on.csv*, *related_bug.csv*, *topic.csv*, *subject.csv* and *change_id.csv* based on common numbers. You can view it using this [link](https://drive.google.com/file/d/1vZWYjYs45E__iwoBg9cFTI4f-COv1ZcQ/view?usp=sharing)
+    - All external files can be found on onedrive through these links 
+    [link](https://etsmtl365-my.sharepoint.com/:f:/r/personal/ali_arabat_1_ens_etsmtl_ca/Documents/Co-evolution%20of%20Multi-component%20systems?csf=1&web=1&e=0zgkJt). It contains file (i.e., pq_services_metrics.csv should be copied to */RQs/PQ/Files*) to conduct PQ, the results of our manually analyzed 100 cross-project changes (i.e., study_sample.csv), and dependencies file (i.e., all_dependencies.csv should be copied to */Files*) between OpenStack changes containing all metrics used to analyze all RQs.
+
+## How each research question is addressed
+
+It should be noted that along the aforementioned scripts, each research question has its own file analysis script which exists at the root of the projects. 

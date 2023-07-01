@@ -1,0 +1,1617 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/compute-hyperv,openstack/python-cloudkittyclient,Core,6.8181818181818175,5.154639175257731,10,17
+openstack/compute-hyperv,openstack/python-cloudkittyclient,Non core,4.545454545454546,12.371134020618557,10,17
+openstack/compute-hyperv,openstack/charm-interface-keystone,Core,4.081632653061225,1.7857142857142856,2,4
+openstack/compute-hyperv,openstack/charm-interface-keystone,Non core,0.0,5.357142857142857,2,4
+openstack/compute-hyperv,openstack/cloudkitty-dashboard,Core,7.894736842105263,3.669724770642202,7,11
+openstack/compute-hyperv,openstack/cloudkitty-dashboard,Non core,1.3157894736842104,6.422018348623854,7,11
+openstack/compute-hyperv,openstack/networking-hyperv,Core,15.277777777777779,12.5,17,23
+openstack/compute-hyperv,openstack/networking-hyperv,Non core,8.333333333333332,19.444444444444446,17,23
+openstack/compute-hyperv,openstack/i18n,Core,6.8493150684931505,3.9215686274509802,6,12
+openstack/compute-hyperv,openstack/i18n,Non core,1.36986301369863,7.8431372549019605,6,12
+openstack/compute-hyperv,openstack/sahara-tests,Core,4.225352112676056,5.0,4,10
+openstack/compute-hyperv,openstack/sahara-tests,Non core,1.4084507042253522,5.0,4,10
+openstack/compute-hyperv,openstack/python-zunclient,Core,5.5045871559633035,4.444444444444445,11,12
+openstack/compute-hyperv,openstack/python-zunclient,Non core,4.587155963302752,4.444444444444445,11,12
+openstack/compute-hyperv,openstack/sahara-plugin-cdh,Core,6.666666666666667,8.928571428571429,4,9
+openstack/compute-hyperv,openstack/sahara-plugin-cdh,Non core,2.2222222222222223,7.142857142857142,4,9
+openstack/compute-hyperv,openstack/monasca-ui,Core,4.761904761904762,2.5316455696202533,8,16
+openstack/compute-hyperv,openstack/monasca-ui,Non core,2.857142857142857,7.59493670886076,8,16
+openstack/compute-hyperv,openstack/python-adjutantclient,Core,9.090909090909092,8.16326530612245,4,7
+openstack/compute-hyperv,openstack/python-adjutantclient,Non core,0.0,6.122448979591836,4,7
+openstack/compute-hyperv,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/ansible-role-lunasa-hsm,Core,2.7027027027027026,2.1739130434782608,1,2
+openstack/compute-hyperv,openstack/ansible-role-lunasa-hsm,Non core,0.0,2.1739130434782608,1,2
+openstack/compute-hyperv,openstack/monasca-thresh,Core,4.918032786885246,1.1764705882352942,3,4
+openstack/compute-hyperv,openstack/monasca-thresh,Non core,0.0,3.5294117647058822,3,4
+openstack/compute-hyperv,openstack/heat-specs,Core,4.9504950495049505,1.36986301369863,6,8
+openstack/compute-hyperv,openstack/heat-specs,Non core,0.9900990099009901,2.28310502283105,6,8
+openstack/compute-hyperv,openstack/watcher-dashboard,Core,6.329113924050633,5.1020408163265305,7,12
+openstack/compute-hyperv,openstack/watcher-dashboard,Non core,2.5316455696202533,7.142857142857142,7,12
+openstack/compute-hyperv,openstack/sahara-plugin-ambari,Core,6.8181818181818175,5.769230769230769,4,6
+openstack/compute-hyperv,openstack/sahara-plugin-ambari,Non core,2.272727272727273,5.769230769230769,4,6
+openstack/compute-hyperv,openstack/sahara-plugin-mapr,Core,6.8181818181818175,7.2727272727272725,3,8
+openstack/compute-hyperv,openstack/sahara-plugin-mapr,Non core,0.0,7.2727272727272725,3,8
+openstack/compute-hyperv,openstack/sahara-plugin-spark,Core,6.976744186046512,6.25,3,5
+openstack/compute-hyperv,openstack/sahara-plugin-spark,Non core,0.0,4.166666666666666,3,5
+openstack/compute-hyperv,openstack/sahara-plugin-storm,Core,6.976744186046512,6.122448979591836,3,5
+openstack/compute-hyperv,openstack/sahara-plugin-storm,Non core,0.0,4.081632653061225,3,5
+openstack/compute-hyperv,openstack/sahara-plugin-vanilla,Core,6.976744186046512,6.0,3,6
+openstack/compute-hyperv,openstack/sahara-plugin-vanilla,Non core,0.0,6.0,3,6
+openstack/compute-hyperv,openstack/sahara-specs,Core,3.571428571428571,1.8018018018018018,3,5
+openstack/compute-hyperv,openstack/sahara-specs,Non core,0.0,2.7027027027027026,3,5
+openstack/compute-hyperv,openstack/venus-tempest-plugin,Core,0.0,2.083333333333333,0,1
+openstack/compute-hyperv,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/compute-hyperv,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/ceilometermiddleware,Core,8.695652173913043,4.901960784313726,7,15
+openstack/compute-hyperv,openstack/ceilometermiddleware,Non core,1.4492753623188406,9.803921568627452,7,15
+openstack/compute-hyperv,openstack/trove-tempest-plugin,Core,6.8181818181818175,4.545454545454546,6,7
+openstack/compute-hyperv,openstack/trove-tempest-plugin,Non core,6.8181818181818175,6.0606060606060606,6,7
+openstack/compute-hyperv,openstack/arch-design,Core,4.878048780487805,4.25531914893617,3,2
+openstack/compute-hyperv,openstack/arch-design,Non core,2.4390243902439024,0.0,3,2
+openstack/compute-hyperv,openstack/monasca-common,Core,5.88235294117647,3.6231884057971016,9,13
+openstack/compute-hyperv,openstack/monasca-common,Non core,2.941176470588235,5.797101449275362,9,13
+openstack/compute-hyperv,openstack/monasca-statsd,Core,8.955223880597014,3.296703296703297,9,9
+openstack/compute-hyperv,openstack/monasca-statsd,Non core,4.477611940298507,6.593406593406594,9,9
+openstack/compute-hyperv,openstack/python-monascaclient,Core,5.357142857142857,4.137931034482759,13,16
+openstack/compute-hyperv,openstack/python-monascaclient,Non core,6.25,6.896551724137931,13,16
+openstack/compute-hyperv,openstack/renderspec,Core,7.6923076923076925,4.761904761904762,8,8
+openstack/compute-hyperv,openstack/renderspec,Non core,7.6923076923076925,7.936507936507936,8,8
+openstack/compute-hyperv,openstack/os-service-types,Core,5.88235294117647,4.285714285714286,7,8
+openstack/compute-hyperv,openstack/os-service-types,Non core,7.8431372549019605,7.142857142857142,7,8
+openstack/compute-hyperv,openstack/masakari-dashboard,Core,5.172413793103448,4.878048780487805,5,9
+openstack/compute-hyperv,openstack/masakari-dashboard,Non core,3.4482758620689653,6.097560975609756,5,9
+openstack/compute-hyperv,openstack/freezer-dr,Core,5.454545454545454,5.555555555555555,6,9
+openstack/compute-hyperv,openstack/freezer-dr,Non core,5.454545454545454,6.944444444444445,6,9
+openstack/compute-hyperv,openstack/tempest-stress,Core,5.88235294117647,5.660377358490567,5,7
+openstack/compute-hyperv,openstack/tempest-stress,Non core,3.9215686274509802,7.547169811320755,5,7
+openstack/compute-hyperv,openstack/charm-neutron-api-genericswitch,Core,5.263157894736842,4.3478260869565215,2,2
+openstack/compute-hyperv,openstack/charm-neutron-api-genericswitch,Non core,0.0,0.0,2,2
+openstack/compute-hyperv,openstack/charm-neutron-dynamic-routing,Core,4.0,3.508771929824561,2,4
+openstack/compute-hyperv,openstack/charm-neutron-dynamic-routing,Non core,0.0,3.508771929824561,2,4
+openstack/compute-hyperv,openstack/charm-interface-ceph-client,Core,2.3255813953488373,3.9215686274509802,1,3
+openstack/compute-hyperv,openstack/charm-interface-ceph-client,Non core,0.0,1.9607843137254901,1,3
+openstack/compute-hyperv,openstack/charm-percona-cluster,Core,1.3513513513513513,2.3529411764705883,2,8
+openstack/compute-hyperv,openstack/charm-percona-cluster,Non core,1.3513513513513513,7.0588235294117645,2,8
+openstack/compute-hyperv,openstack/charm-deployment-guide,Core,3.125,1.3513513513513513,4,2
+openstack/compute-hyperv,openstack/charm-deployment-guide,Non core,3.125,1.3513513513513513,4,2
+openstack/compute-hyperv,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/oslo.metrics,Core,0.0,3.7735849056603774,0,5
+openstack/compute-hyperv,openstack/oslo.metrics,Non core,0.0,5.660377358490567,0,5
+openstack/compute-hyperv,openstack/oslo.vmware,Core,6.60377358490566,3.508771929824561,10,15
+openstack/compute-hyperv,openstack/oslo.vmware,Non core,2.8301886792452833,5.263157894736842,10,15
+openstack/compute-hyperv,openstack/oslo.upgradecheck,Core,8.333333333333332,7.8125,6,7
+openstack/compute-hyperv,openstack/oslo.upgradecheck,Non core,4.166666666666666,3.125,6,7
+openstack/compute-hyperv,openstack/python-masakariclient,Core,6.944444444444445,6.024096385542169,6,12
+openstack/compute-hyperv,openstack/python-masakariclient,Non core,1.3888888888888888,8.433734939759036,6,12
+openstack/compute-hyperv,openstack/python-vitrageclient,Core,4.819277108433735,1.3157894736842104,7,6
+openstack/compute-hyperv,openstack/python-vitrageclient,Non core,3.614457831325301,6.578947368421052,7,6
+openstack/compute-hyperv,openstack/python-blazarclient,Core,8.860759493670885,4.672897196261682,10,13
+openstack/compute-hyperv,openstack/python-blazarclient,Non core,3.79746835443038,7.476635514018691,10,13
+openstack/compute-hyperv,openstack/zaqar-tempest-plugin,Core,4.444444444444445,4.838709677419355,4,6
+openstack/compute-hyperv,openstack/zaqar-tempest-plugin,Non core,4.444444444444445,4.838709677419355,4,6
+openstack/compute-hyperv,openstack/tripleo-common-tempest-plugin,Core,6.382978723404255,2.8169014084507045,6,5
+openstack/compute-hyperv,openstack/tripleo-common-tempest-plugin,Non core,6.382978723404255,4.225352112676056,6,5
+openstack/compute-hyperv,openstack/mistral-tempest-plugin,Core,3.7735849056603774,2.73972602739726,7,5
+openstack/compute-hyperv,openstack/mistral-tempest-plugin,Non core,9.433962264150944,4.10958904109589,7,5
+openstack/compute-hyperv,openstack/barbican-ui,Core,2.7777777777777777,3.7735849056603774,1,2
+openstack/compute-hyperv,openstack/barbican-ui,Non core,0.0,0.0,1,2
+openstack/compute-hyperv,openstack/liberasurecode,Core,2.1739130434782608,1.6666666666666667,2,3
+openstack/compute-hyperv,openstack/liberasurecode,Non core,2.1739130434782608,3.3333333333333335,2,3
+openstack/compute-hyperv,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/os-client-config,Core,5.714285714285714,2.1739130434782608,10,11
+openstack/compute-hyperv,openstack/os-client-config,Non core,3.8095238095238098,5.797101449275362,10,11
+openstack/compute-hyperv,openstack/monasca-specs,Core,4.545454545454546,1.4084507042253522,4,2
+openstack/compute-hyperv,openstack/monasca-specs,Non core,4.545454545454546,1.4084507042253522,4,2
+openstack/compute-hyperv,openstack/os-performance-tools,Core,6.25,5.084745762711865,7,5
+openstack/compute-hyperv,openstack/os-performance-tools,Non core,8.333333333333332,3.389830508474576,7,5
+openstack/compute-hyperv,openstack/trove-specs,Core,7.042253521126761,1.6666666666666667,5,7
+openstack/compute-hyperv,openstack/trove-specs,Non core,0.0,4.166666666666666,5,7
+openstack/compute-hyperv,openstack/manila-image-elements,Core,7.2727272727272725,2.4691358024691357,8,8
+openstack/compute-hyperv,openstack/manila-image-elements,Non core,7.2727272727272725,7.4074074074074066,8,8
+openstack/compute-hyperv,openstack/blazar-specs,Core,4.651162790697675,3.225806451612903,2,2
+openstack/compute-hyperv,openstack/blazar-specs,Non core,0.0,0.0,2,2
+openstack/compute-hyperv,openstack/molteniron,Core,9.090909090909092,4.615384615384616,4,4
+openstack/compute-hyperv,openstack/molteniron,Non core,0.0,1.5384615384615385,4,4
+openstack/compute-hyperv,openstack/solum-specs,Core,8.333333333333332,0.0,4,2
+openstack/compute-hyperv,openstack/solum-specs,Non core,0.0,3.125,4,2
+openstack/compute-hyperv,openstack/patrole,Core,5.042016806722689,2.73972602739726,7,9
+openstack/compute-hyperv,openstack/patrole,Non core,0.8403361344537815,3.4246575342465753,7,9
+openstack/compute-hyperv,openstack/performance-docs,Core,1.3513513513513513,1.0526315789473684,2,6
+openstack/compute-hyperv,openstack/performance-docs,Non core,1.3513513513513513,5.263157894736842,2,6
+openstack/compute-hyperv,openstack/sphinx-feature-classification,Core,6.122448979591836,5.714285714285714,7,8
+openstack/compute-hyperv,openstack/sphinx-feature-classification,Non core,8.16326530612245,5.714285714285714,7,8
+openstack/compute-hyperv,openstack/etcd3gw,Core,0.0,5.88235294117647,2,3
+openstack/compute-hyperv,openstack/etcd3gw,Non core,4.761904761904762,0.0,2,3
+openstack/compute-hyperv,openstack/watcher-specs,Core,2.4691358024691357,2.5423728813559325,3,8
+openstack/compute-hyperv,openstack/watcher-specs,Non core,1.2345679012345678,4.23728813559322,3,8
+openstack/compute-hyperv,openstack/yaql,Core,9.67741935483871,4.545454545454546,10,11
+openstack/compute-hyperv,openstack/yaql,Non core,6.451612903225806,7.954545454545454,10,11
+openstack/compute-hyperv,openstack/puppet-openstack-guide,Core,5.084745762711865,2.631578947368421,4,7
+openstack/compute-hyperv,openstack/puppet-openstack-guide,Non core,1.694915254237288,6.578947368421052,4,7
+openstack/compute-hyperv,openstack/puppet-panko,Core,5.797101449275362,2.857142857142857,6,6
+openstack/compute-hyperv,openstack/puppet-panko,Non core,2.898550724637681,5.714285714285714,6,6
+openstack/compute-hyperv,openstack/heat-cfnclient,Core,9.803921568627452,4.411764705882353,7,8
+openstack/compute-hyperv,openstack/heat-cfnclient,Non core,3.9215686274509802,7.352941176470589,7,8
+openstack/compute-hyperv,openstack/heat-cfntools,Core,8.0,5.1020408163265305,10,14
+openstack/compute-hyperv,openstack/heat-cfntools,Non core,5.333333333333334,9.183673469387756,10,14
+openstack/compute-hyperv,openstack/heat-templates,Core,2.941176470588235,1.8957345971563981,5,11
+openstack/compute-hyperv,openstack/heat-templates,Non core,0.7352941176470588,3.3175355450236967,5,11
+openstack/compute-hyperv,openstack/governance-sigs,Core,11.475409836065573,4.444444444444445,9,10
+openstack/compute-hyperv,openstack/governance-sigs,Non core,3.278688524590164,2.9629629629629632,9,10
+openstack/compute-hyperv,openstack/openstack-zuul-roles,Core,8.108108108108109,1.9230769230769231,3,2
+openstack/compute-hyperv,openstack/openstack-zuul-roles,Non core,0.0,1.9230769230769231,3,2
+openstack/compute-hyperv,openstack/nova-powervm,Core,6.976744186046512,3.076923076923077,7,12
+openstack/compute-hyperv,openstack/nova-powervm,Non core,1.1627906976744187,6.153846153846154,7,12
+openstack/compute-hyperv,openstack/openstack-helm-addons,Core,1.3888888888888888,0.6666666666666667,1,6
+openstack/compute-hyperv,openstack/openstack-helm-addons,Non core,0.0,3.3333333333333335,1,6
+openstack/compute-hyperv,openstack/python-pankoclient,Core,7.2727272727272725,6.8493150684931505,6,10
+openstack/compute-hyperv,openstack/python-pankoclient,Non core,3.6363636363636362,6.8493150684931505,6,10
+openstack/compute-hyperv,openstack/qa-specs,Core,3.8461538461538463,2.73972602739726,6,8
+openstack/compute-hyperv,openstack/qa-specs,Non core,3.8461538461538463,2.73972602739726,6,8
+openstack/compute-hyperv,openstack/zaqar-specs,Core,7.6923076923076925,2.0202020202020203,7,9
+openstack/compute-hyperv,openstack/zaqar-specs,Non core,3.076923076923077,7.07070707070707,7,9
+openstack/compute-hyperv,openstack/swift-bench,Core,1.9607843137254901,1.3513513513513513,3,6
+openstack/compute-hyperv,openstack/swift-bench,Non core,3.9215686274509802,6.756756756756757,3,6
+openstack/compute-hyperv,openstack/whereto,Core,6.25,6.666666666666667,5,5
+openstack/compute-hyperv,openstack/whereto,Non core,4.166666666666666,1.6666666666666667,5,5
+openstack/compute-hyperv,openstack/murano-specs,Core,5.555555555555555,1.0101010101010102,6,6
+openstack/compute-hyperv,openstack/murano-specs,Non core,2.7777777777777777,5.05050505050505,6,6
+openstack/compute-hyperv,openstack/ansible-role-tripleo-modify-image,Core,3.278688524590164,2.0,4,6
+openstack/compute-hyperv,openstack/ansible-role-tripleo-modify-image,Non core,3.278688524590164,4.0,4,6
+openstack/compute-hyperv,openstack/requestsexceptions,Core,14.285714285714285,0.0,8,4
+openstack/compute-hyperv,openstack/requestsexceptions,Non core,8.571428571428571,7.142857142857142,8,4
+openstack/compute-hyperv,openstack/panko,Core,7.07070707070707,3.0303030303030303,9,13
+openstack/compute-hyperv,openstack/panko,Non core,2.0202020202020203,6.8181818181818175,9,13
+openstack/compute-hyperv,openstack/api-sig,Core,4.938271604938271,1.2987012987012987,6,7
+openstack/compute-hyperv,openstack/api-sig,Non core,2.4691358024691357,1.7316017316017316,6,7
+openstack/compute-hyperv,openstack/openstack-chef-specs,Core,5.660377358490567,2.8169014084507045,6,7
+openstack/compute-hyperv,openstack/openstack-chef-specs,Non core,5.660377358490567,7.042253521126761,6,7
+openstack/compute-hyperv,openstack/freezer-specs,Core,5.660377358490567,4.615384615384616,4,5
+openstack/compute-hyperv,openstack/freezer-specs,Non core,1.8867924528301887,3.076923076923077,4,5
+openstack/compute-hyperv,openstack/oslo.tools,Core,4.6875,4.545454545454546,4,6
+openstack/compute-hyperv,openstack/oslo.tools,Non core,1.5625,4.545454545454546,4,6
+openstack/compute-hyperv,openstack/microversion-parse,Core,2.380952380952381,5.555555555555555,3,4
+openstack/compute-hyperv,openstack/microversion-parse,Non core,4.761904761904762,1.8518518518518516,3,4
+openstack/compute-hyperv,openstack/openstackclient,Core,11.76470588235294,4.166666666666666,9,6
+openstack/compute-hyperv,openstack/openstackclient,Non core,5.88235294117647,4.166666666666666,9,6
+openstack/compute-hyperv,openstack/ossa,Core,7.6923076923076925,6.315789473684211,5,9
+openstack/compute-hyperv,openstack/ossa,Non core,1.9230769230769231,3.1578947368421053,5,9
+openstack/compute-hyperv,openstack/reviewstats,Core,6.60377358490566,3.2467532467532463,7,10
+openstack/compute-hyperv,openstack/reviewstats,Non core,0.0,3.2467532467532463,7,10
+openstack/compute-hyperv,openstack/oslo-cookiecutter,Core,5.660377358490567,4.411764705882353,5,7
+openstack/compute-hyperv,openstack/oslo-cookiecutter,Non core,3.7735849056603774,5.88235294117647,5,7
+openstack/compute-hyperv,openstack/openstack-helm-deployments,Core,2.564102564102564,0.0,1,0
+openstack/compute-hyperv,openstack/openstack-helm-deployments,Non core,0.0,0.0,1,0
+openstack/compute-hyperv,openstack/security-analysis,Core,10.256410256410255,4.761904761904762,5,4
+openstack/compute-hyperv,openstack/security-analysis,Non core,2.564102564102564,1.5873015873015872,5,4
+openstack/compute-hyperv,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/ansible-role-tripleo-keystone,Core,5.263157894736842,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-keystone,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/openstack-ansible-apt_package_pinning,Core,5.970149253731343,1.25,5,6
+openstack/compute-hyperv,openstack/openstack-ansible-apt_package_pinning,Non core,1.4925373134328357,6.25,5,6
+openstack/compute-hyperv,openstack/ansible-role-qdrouterd,Core,4.444444444444445,2.898550724637681,3,4
+openstack/compute-hyperv,openstack/ansible-role-qdrouterd,Non core,2.2222222222222223,2.898550724637681,3,4
+openstack/compute-hyperv,openstack/openstack-ansible-openstack_openrc,Core,5.194805194805195,0.0,6,8
+openstack/compute-hyperv,openstack/openstack-ansible-openstack_openrc,Non core,2.5974025974025974,9.195402298850574,6,8
+openstack/compute-hyperv,openstack/openstack-ansible-nspawn_container_create,Core,5.769230769230769,2.898550724637681,5,6
+openstack/compute-hyperv,openstack/openstack-ansible-nspawn_container_create,Non core,3.8461538461538463,5.797101449275362,5,6
+openstack/compute-hyperv,openstack/devstack-tools,Core,9.090909090909092,3.6363636363636362,9,5
+openstack/compute-hyperv,openstack/devstack-tools,Non core,11.363636363636363,5.454545454545454,9,5
+openstack/compute-hyperv,openstack/coverage2sql,Core,5.769230769230769,3.571428571428571,8,7
+openstack/compute-hyperv,openstack/coverage2sql,Non core,9.615384615384617,8.928571428571429,8,7
+openstack/compute-hyperv,openstack/bashate,Core,9.210526315789473,4.3478260869565215,9,6
+openstack/compute-hyperv,openstack/bashate,Non core,2.631578947368421,2.1739130434782608,9,6
+openstack/compute-hyperv,openstack/hacking,Core,7.339449541284404,3.2432432432432434,14,14
+openstack/compute-hyperv,openstack/hacking,Non core,5.5045871559633035,4.324324324324325,14,14
+openstack/compute-hyperv,openstack/xstatic-mdi,Core,7.6923076923076925,0.0,3,3
+openstack/compute-hyperv,openstack/xstatic-mdi,Non core,0.0,5.769230769230769,3,3
+openstack/compute-hyperv,openstack/xstatic-roboto-fontface,Core,7.894736842105263,0.0,3,3
+openstack/compute-hyperv,openstack/xstatic-roboto-fontface,Non core,0.0,5.660377358490567,3,3
+openstack/compute-hyperv,openstack/openstack-chef,Core,5.357142857142857,3.389830508474576,5,3
+openstack/compute-hyperv,openstack/openstack-chef,Non core,3.571428571428571,1.694915254237288,5,3
+openstack/compute-hyperv,openstack/cookbook-openstackclient,Core,0.0,0.0,0,3
+openstack/compute-hyperv,openstack/cookbook-openstackclient,Non core,0.0,5.88235294117647,0,3
+openstack/compute-hyperv,openstack/xstatic-angular,Core,4.545454545454546,0.0,3,3
+openstack/compute-hyperv,openstack/xstatic-angular,Non core,2.272727272727273,4.918032786885246,3,3
+openstack/compute-hyperv,openstack/charm-interface-hacluster,Core,1.9230769230769231,1.8518518518518516,2,5
+openstack/compute-hyperv,openstack/charm-interface-hacluster,Non core,1.9230769230769231,7.4074074074074066,2,5
+openstack/compute-hyperv,openstack/puppet-openstack-specs,Core,7.4074074074074066,0.0,7,5
+openstack/compute-hyperv,openstack/puppet-openstack-specs,Non core,5.555555555555555,5.319148936170213,7,5
+openstack/compute-hyperv,openstack/puppet-monasca,Core,6.349206349206349,0.8403361344537815,4,4
+openstack/compute-hyperv,openstack/puppet-monasca,Non core,0.0,2.5210084033613445,4,4
+openstack/compute-hyperv,openstack/eslint-config-openstack,Core,6.25,3.5294117647058822,4,5
+openstack/compute-hyperv,openstack/eslint-config-openstack,Non core,2.083333333333333,2.3529411764705883,4,5
+openstack/compute-hyperv,openstack/karma-subunit-reporter,Core,5.263157894736842,4.3478260869565215,2,3
+openstack/compute-hyperv,openstack/karma-subunit-reporter,Non core,0.0,2.1739130434782608,2,3
+openstack/compute-hyperv,openstack/openstack-helm-docs,Core,4.878048780487805,6.349206349206349,2,5
+openstack/compute-hyperv,openstack/openstack-helm-docs,Non core,0.0,1.5873015873015872,2,5
+openstack/compute-hyperv,openstack/openstack-ansible-specs,Core,4.651162790697675,1.3605442176870748,5,7
+openstack/compute-hyperv,openstack/openstack-ansible-specs,Non core,1.1627906976744187,3.4013605442176873,5,7
+openstack/compute-hyperv,openstack/tempest-lib,Core,4.0,1.574803149606299,4,7
+openstack/compute-hyperv,openstack/tempest-lib,Non core,1.3333333333333335,3.937007874015748,4,7
+openstack/compute-hyperv,openstack/tripleo-ha-utils,Core,0.0,0.0,0,2
+openstack/compute-hyperv,openstack/tripleo-ha-utils,Non core,0.0,3.0303030303030303,0,2
+openstack/compute-hyperv,openstack/devstack-vagrant,Core,4.166666666666666,3.278688524590164,2,6
+openstack/compute-hyperv,openstack/devstack-vagrant,Non core,0.0,6.557377049180328,2,6
+openstack/compute-hyperv,openstack/goal-tools,Core,5.0,7.6923076923076925,3,8
+openstack/compute-hyperv,openstack/goal-tools,Non core,2.5,7.6923076923076925,3,8
+openstack/compute-hyperv,openstack/cookiecutter,Core,6.8493150684931505,6.796116504854369,6,9
+openstack/compute-hyperv,openstack/cookiecutter,Non core,1.36986301369863,1.9417475728155338,6,9
+openstack/compute-hyperv,openstack/dib-utils,Core,4.25531914893617,1.3157894736842104,4,5
+openstack/compute-hyperv,openstack/dib-utils,Non core,4.25531914893617,5.263157894736842,4,5
+openstack/compute-hyperv,openstack/constellations,Core,5.405405405405405,5.660377358490567,4,5
+openstack/compute-hyperv,openstack/constellations,Non core,5.405405405405405,3.7735849056603774,4,5
+openstack/compute-hyperv,openstack/cookbook-openstack-integration-test,Core,3.8461538461538463,1.4285714285714286,2,6
+openstack/compute-hyperv,openstack/cookbook-openstack-integration-test,Non core,0.0,7.142857142857142,2,6
+openstack/compute-hyperv,openstack/cookbook-openstack-dashboard,Core,3.8461538461538463,0.9433962264150944,3,6
+openstack/compute-hyperv,openstack/cookbook-openstack-dashboard,Non core,0.0,4.716981132075472,3,6
+openstack/compute-hyperv,openstack/cookbook-openstack-telemetry,Core,3.79746835443038,1.1235955056179776,3,4
+openstack/compute-hyperv,openstack/cookbook-openstack-telemetry,Non core,0.0,3.3707865168539324,3,4
+openstack/compute-hyperv,openstack/cookbook-openstack-orchestration,Core,4.3478260869565215,2.1505376344086025,3,5
+openstack/compute-hyperv,openstack/cookbook-openstack-orchestration,Non core,0.0,3.225806451612903,3,5
+openstack/compute-hyperv,openstack/cookbook-openstack-bare-metal,Core,2.2222222222222223,1.6666666666666667,1,4
+openstack/compute-hyperv,openstack/cookbook-openstack-bare-metal,Non core,0.0,5.0,1,4
+openstack/compute-hyperv,openstack/cookbook-openstack-dns,Core,0.0,0.0,0,4
+openstack/compute-hyperv,openstack/cookbook-openstack-dns,Non core,0.0,8.0,0,4
+openstack/compute-hyperv,openstack/cookbook-openstack-compute,Core,3.061224489795918,1.550387596899225,3,7
+openstack/compute-hyperv,openstack/cookbook-openstack-compute,Non core,0.0,3.875968992248062,3,7
+openstack/compute-hyperv,openstack/cookbook-openstack-network,Core,3.0,0.8064516129032258,3,7
+openstack/compute-hyperv,openstack/cookbook-openstack-network,Non core,0.0,4.838709677419355,3,7
+openstack/compute-hyperv,openstack/cookbook-openstack-block-storage,Core,4.301075268817205,0.9345794392523363,4,5
+openstack/compute-hyperv,openstack/cookbook-openstack-block-storage,Non core,0.0,3.7383177570093453,4,5
+openstack/compute-hyperv,openstack/cookbook-openstack-image,Core,3.5294117647058822,0.9433962264150944,3,5
+openstack/compute-hyperv,openstack/cookbook-openstack-image,Non core,0.0,3.7735849056603774,3,5
+openstack/compute-hyperv,openstack/cookbook-openstack-identity,Core,4.651162790697675,0.8928571428571428,4,5
+openstack/compute-hyperv,openstack/cookbook-openstack-identity,Non core,0.0,3.571428571428571,4,5
+openstack/compute-hyperv,openstack/cookbook-openstack-ops-database,Core,4.411764705882353,0.0,3,2
+openstack/compute-hyperv,openstack/cookbook-openstack-ops-database,Non core,0.0,2.247191011235955,3,2
+openstack/compute-hyperv,openstack/cookbook-openstack-ops-messaging,Core,4.918032786885246,0.0,3,4
+openstack/compute-hyperv,openstack/cookbook-openstack-ops-messaging,Non core,0.0,5.0,3,4
+openstack/compute-hyperv,openstack/cookbook-openstack-common,Core,3.1578947368421053,0.0,3,4
+openstack/compute-hyperv,openstack/cookbook-openstack-common,Non core,0.0,3.076923076923077,3,4
+openstack/compute-hyperv,openstack/self-healing-sig,Core,4.651162790697675,4.6875,3,4
+openstack/compute-hyperv,openstack/self-healing-sig,Non core,2.3255813953488373,1.5625,3,4
+openstack/compute-hyperv,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/security-specs,Core,6.382978723404255,2.898550724637681,4,4
+openstack/compute-hyperv,openstack/security-specs,Non core,2.127659574468085,2.898550724637681,4,4
+openstack/compute-hyperv,openstack/openstack-ansible-os_panko,Core,5.357142857142857,6.666666666666667,4,7
+openstack/compute-hyperv,openstack/openstack-ansible-os_panko,Non core,1.7857142857142856,2.666666666666667,4,7
+openstack/compute-hyperv,openstack/openstack-ansible-nspawn_hosts,Core,5.555555555555555,2.8169014084507045,4,6
+openstack/compute-hyperv,openstack/openstack-ansible-nspawn_hosts,Non core,1.8518518518518516,5.633802816901409,4,6
+openstack/compute-hyperv,openstack/charm-layer-openstack-principle,Core,5.128205128205128,0.0,2,0
+openstack/compute-hyperv,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,2,0
+openstack/compute-hyperv,openstack/charm-watcher-dashboard,Core,2.631578947368421,1.9230769230769231,1,1
+openstack/compute-hyperv,openstack/charm-watcher-dashboard,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/charm-watcher,Core,2.5,1.639344262295082,1,1
+openstack/compute-hyperv,openstack/charm-watcher,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/openstack-ansible-galera_client,Core,4.705882352941177,1.0752688172043012,5,7
+openstack/compute-hyperv,openstack/openstack-ansible-galera_client,Non core,1.1764705882352942,6.451612903225806,5,7
+openstack/compute-hyperv,openstack/cloudkitty-specs,Core,6.25,1.4492753623188406,4,3
+openstack/compute-hyperv,openstack/cloudkitty-specs,Non core,2.083333333333333,2.898550724637681,4,3
+openstack/compute-hyperv,openstack/osops,Core,5.128205128205128,6.122448979591836,2,3
+openstack/compute-hyperv,openstack/osops,Non core,0.0,0.0,2,3
+openstack/compute-hyperv,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-ironic,Core,5.128205128205128,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/charm-ironic,Non core,0.0,0.0,2,1
+openstack/compute-hyperv,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/multi-arch-sig,Core,2.7027027027027026,4.166666666666666,1,2
+openstack/compute-hyperv,openstack/multi-arch-sig,Non core,0.0,0.0,1,2
+openstack/compute-hyperv,openstack/charm-nova-compute-proxy,Core,2.2222222222222223,0.0,2,1
+openstack/compute-hyperv,openstack/charm-nova-compute-proxy,Non core,2.2222222222222223,1.8518518518518516,2,1
+openstack/compute-hyperv,openstack/charm-odl-controller,Core,2.127659574468085,0.0,1,1
+openstack/compute-hyperv,openstack/charm-odl-controller,Non core,0.0,1.9230769230769231,1,1
+openstack/compute-hyperv,openstack/charm-nova-lxd,Core,3.9215686274509802,1.5625,5,3
+openstack/compute-hyperv,openstack/charm-nova-lxd,Non core,5.88235294117647,3.125,5,3
+openstack/compute-hyperv,openstack/charm-interface-nova-cell,Core,0.0,2.272727272727273,0,1
+openstack/compute-hyperv,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/compute-hyperv,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-interface-barbican-secrets,Core,0.0,2.127659574468085,0,3
+openstack/compute-hyperv,openstack/charm-interface-barbican-secrets,Non core,0.0,4.25531914893617,0,3
+openstack/compute-hyperv,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-interface-ceph-rbd-mirror,Core,0.0,2.083333333333333,0,3
+openstack/compute-hyperv,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,4.166666666666666,0,3
+openstack/compute-hyperv,openstack/charm-interface-placement,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-interface-placement,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-interface-mysql-shared,Core,4.761904761904762,0.0,2,1
+openstack/compute-hyperv,openstack/charm-interface-mysql-shared,Non core,0.0,2.0,2,1
+openstack/compute-hyperv,openstack/charm-interface-dashboard-plugin,Core,0.0,2.127659574468085,0,3
+openstack/compute-hyperv,openstack/charm-interface-dashboard-plugin,Non core,0.0,4.25531914893617,0,3
+openstack/compute-hyperv,openstack/charm-interface-neutron-load-balancer,Core,0.0,2.127659574468085,0,3
+openstack/compute-hyperv,openstack/charm-interface-neutron-load-balancer,Non core,0.0,4.25531914893617,0,3
+openstack/compute-hyperv,openstack/charm-interface-neutron-plugin-api-subordinate,Core,4.651162790697675,4.0,2,2
+openstack/compute-hyperv,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,0.0,0.0,2,2
+openstack/compute-hyperv,openstack/charm-interface-neutron-plugin,Core,5.0,2.083333333333333,2,2
+openstack/compute-hyperv,openstack/charm-interface-neutron-plugin,Non core,0.0,2.083333333333333,2,2
+openstack/compute-hyperv,openstack/xstatic-json2yaml,Core,2.7777777777777777,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-jquery.tablesorter,Core,5.555555555555555,0.0,2,1
+openstack/compute-hyperv,openstack/xstatic-jquery.tablesorter,Non core,0.0,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/xstatic-magic-search,Core,5.0,1.8867924528301887,3,5
+openstack/compute-hyperv,openstack/xstatic-magic-search,Non core,2.5,7.547169811320755,3,5
+openstack/compute-hyperv,openstack/xstatic-jsencrypt,Core,5.263157894736842,0.0,3,4
+openstack/compute-hyperv,openstack/xstatic-jsencrypt,Non core,2.631578947368421,7.4074074074074066,3,4
+openstack/compute-hyperv,openstack/xstatic-js-yaml,Core,2.7027027027027026,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-spin,Core,5.555555555555555,0.0,2,1
+openstack/compute-hyperv,openstack/xstatic-spin,Non core,0.0,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/xstatic-rickshaw,Core,5.128205128205128,0.0,3,4
+openstack/compute-hyperv,openstack/xstatic-rickshaw,Non core,2.564102564102564,7.8431372549019605,3,4
+openstack/compute-hyperv,openstack/charm-panko,Core,2.5,3.8461538461538463,1,3
+openstack/compute-hyperv,openstack/charm-panko,Non core,0.0,1.9230769230769231,1,3
+openstack/compute-hyperv,openstack/charm-interface-service-control,Core,0.0,2.0408163265306123,0,3
+openstack/compute-hyperv,openstack/charm-interface-service-control,Non core,0.0,4.081632653061225,0,3
+openstack/compute-hyperv,openstack/openstack-ansible-os_almanach,Core,5.454545454545454,1.4285714285714286,6,6
+openstack/compute-hyperv,openstack/openstack-ansible-os_almanach,Non core,5.454545454545454,7.142857142857142,6,6
+openstack/compute-hyperv,openstack/openstack-ansible-pip_install,Core,3.75,2.8301886792452833,4,8
+openstack/compute-hyperv,openstack/openstack-ansible-pip_install,Non core,1.25,4.716981132075472,4,8
+openstack/compute-hyperv,openstack/python-karborclient,Core,6.172839506172839,5.1020408163265305,7,9
+openstack/compute-hyperv,openstack/python-karborclient,Non core,2.4691358024691357,4.081632653061225,7,9
+openstack/compute-hyperv,openstack/charm-interface-keystone-admin,Core,8.108108108108109,0.0,3,1
+openstack/compute-hyperv,openstack/charm-interface-keystone-admin,Non core,0.0,2.127659574468085,3,1
+openstack/compute-hyperv,openstack/charm-interface-nova-compute,Core,2.3255813953488373,1.9607843137254901,1,3
+openstack/compute-hyperv,openstack/charm-interface-nova-compute,Non core,0.0,3.9215686274509802,1,3
+openstack/compute-hyperv,openstack/charm-interface-manila-plugin,Core,5.263157894736842,2.083333333333333,3,2
+openstack/compute-hyperv,openstack/charm-interface-manila-plugin,Non core,2.631578947368421,2.083333333333333,3,2
+openstack/compute-hyperv,openstack/murano-apps,Core,6.172839506172839,1.834862385321101,7,5
+openstack/compute-hyperv,openstack/murano-apps,Non core,2.4691358024691357,2.7522935779816518,7,5
+openstack/compute-hyperv,openstack/puppet-senlin,Core,6.382978723404255,3.4482758620689653,4,3
+openstack/compute-hyperv,openstack/puppet-senlin,Non core,2.127659574468085,1.7241379310344827,4,3
+openstack/compute-hyperv,openstack/cookbook-openstack-application-catalog,Core,2.5,0.0,1,2
+openstack/compute-hyperv,openstack/cookbook-openstack-application-catalog,Non core,0.0,4.081632653061225,1,2
+openstack/compute-hyperv,openstack/training-labs,Core,4.545454545454546,3.7037037037037033,7,7
+openstack/compute-hyperv,openstack/training-labs,Non core,6.0606060606060606,4.938271604938271,7,7
+openstack/compute-hyperv,openstack/karbor,Core,4.285714285714286,3.1746031746031744,9,18
+openstack/compute-hyperv,openstack/karbor,Non core,2.142857142857143,6.349206349206349,9,18
+openstack/compute-hyperv,openstack/devstack-plugin-open-cas,Core,2.7027027027027026,3.9215686274509802,1,2
+openstack/compute-hyperv,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,2
+openstack/compute-hyperv,openstack/openstack-ansible-os_congress,Core,5.357142857142857,3.75,5,7
+openstack/compute-hyperv,openstack/openstack-ansible-os_congress,Non core,3.571428571428571,5.0,5,7
+openstack/compute-hyperv,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-interface-keystone-notifications,Core,0.0,2.272727272727273,0,1
+openstack/compute-hyperv,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/compute-hyperv,openstack/os-collect-config,Core,7.792207792207792,3.007518796992481,12,14
+openstack/compute-hyperv,openstack/os-collect-config,Non core,7.792207792207792,7.518796992481203,12,14
+openstack/compute-hyperv,openstack/os-apply-config,Core,9.090909090909092,3.149606299212598,11,12
+openstack/compute-hyperv,openstack/os-apply-config,Non core,5.194805194805195,6.299212598425196,11,12
+openstack/compute-hyperv,openstack/puppet-freezer,Core,7.2727272727272725,4.6875,5,6
+openstack/compute-hyperv,openstack/puppet-freezer,Non core,1.8181818181818181,4.6875,5,6
+openstack/compute-hyperv,openstack/vitrage-specs,Core,4.411764705882353,0.0,5,6
+openstack/compute-hyperv,openstack/vitrage-specs,Non core,2.941176470588235,6.8181818181818175,5,6
+openstack/compute-hyperv,openstack/specs-cookiecutter,Core,12.82051282051282,7.547169811320755,5,5
+openstack/compute-hyperv,openstack/specs-cookiecutter,Non core,0.0,1.8867924528301887,5,5
+openstack/compute-hyperv,openstack/rpm-packaging-tools,Core,4.444444444444445,3.1746031746031744,2,6
+openstack/compute-hyperv,openstack/rpm-packaging-tools,Non core,0.0,6.349206349206349,2,6
+openstack/compute-hyperv,openstack/ansible-role-openstack-operations,Core,4.25531914893617,1.6666666666666667,4,1
+openstack/compute-hyperv,openstack/ansible-role-openstack-operations,Non core,4.25531914893617,0.0,4,1
+openstack/compute-hyperv,openstack/os-refresh-config,Core,9.375,3.8095238095238098,10,13
+openstack/compute-hyperv,openstack/os-refresh-config,Non core,6.25,8.571428571428571,10,13
+openstack/compute-hyperv,openstack/mistral-specs,Core,4.918032786885246,1.282051282051282,3,4
+openstack/compute-hyperv,openstack/mistral-specs,Non core,0.0,3.8461538461538463,3,4
+openstack/compute-hyperv,openstack/scientific-wg,Core,5.405405405405405,4.3478260869565215,2,3
+openstack/compute-hyperv,openstack/scientific-wg,Non core,0.0,2.1739130434782608,2,3
+openstack/compute-hyperv,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,2.083333333333333,0,1
+openstack/compute-hyperv,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/compute-hyperv,openstack/manila-test-image,Core,2.631578947368421,3.7037037037037033,1,5
+openstack/compute-hyperv,openstack/manila-test-image,Non core,0.0,5.555555555555555,1,5
+openstack/compute-hyperv,openstack/governance-website,Core,2.380952380952381,7.017543859649122,3,7
+openstack/compute-hyperv,openstack/governance-website,Non core,4.761904761904762,5.263157894736842,3,7
+openstack/compute-hyperv,openstack/bugdaystats,Core,2.564102564102564,3.6363636363636362,1,4
+openstack/compute-hyperv,openstack/bugdaystats,Non core,0.0,3.6363636363636362,1,4
+openstack/compute-hyperv,openstack/upstream-institute-virtual-environment,Core,2.4390243902439024,7.6923076923076925,1,4
+openstack/compute-hyperv,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,1,4
+openstack/compute-hyperv,openstack/karbor-dashboard,Core,4.545454545454546,4.3478260869565215,7,10
+openstack/compute-hyperv,openstack/karbor-dashboard,Non core,6.0606060606060606,6.521739130434782,7,10
+openstack/compute-hyperv,openstack/django_openstack_auth,Core,6.666666666666667,1.5,8,8
+openstack/compute-hyperv,openstack/django_openstack_auth,Non core,0.9523809523809524,2.5,8,8
+openstack/compute-hyperv,openstack/monasca-transform,Core,9.090909090909092,3.488372093023256,10,9
+openstack/compute-hyperv,openstack/monasca-transform,Non core,6.0606060606060606,6.976744186046512,10,9
+openstack/compute-hyperv,openstack/monasca-ceilometer,Core,6.666666666666667,3.7735849056603774,10,11
+openstack/compute-hyperv,openstack/monasca-ceilometer,Non core,6.666666666666667,6.60377358490566,10,11
+openstack/compute-hyperv,openstack/monasca-log-api,Core,7.228915662650602,4.0,8,12
+openstack/compute-hyperv,openstack/monasca-log-api,Non core,2.4096385542168677,5.6000000000000005,8,12
+openstack/compute-hyperv,openstack/nose-html-output,Core,10.0,1.8518518518518516,4,4
+openstack/compute-hyperv,openstack/nose-html-output,Non core,0.0,5.555555555555555,4,4
+openstack/compute-hyperv,openstack/kolla-cli,Core,1.8518518518518516,2.666666666666667,3,6
+openstack/compute-hyperv,openstack/kolla-cli,Non core,3.7037037037037033,5.333333333333334,3,6
+openstack/compute-hyperv,openstack/neutron-lbaas-dashboard,Core,6.666666666666667,2.479338842975207,8,11
+openstack/compute-hyperv,openstack/neutron-lbaas-dashboard,Non core,4.0,6.6115702479338845,8,11
+openstack/compute-hyperv,openstack/searchlight,Core,2.7586206896551726,4.320987654320987,8,17
+openstack/compute-hyperv,openstack/searchlight,Non core,2.7586206896551726,6.172839506172839,8,17
+openstack/compute-hyperv,openstack/searchlight-ui,Core,6.666666666666667,2.247191011235955,6,6
+openstack/compute-hyperv,openstack/searchlight-ui,Non core,1.3333333333333335,4.49438202247191,6,6
+openstack/compute-hyperv,openstack/searchlight-specs,Core,5.357142857142857,1.3333333333333335,3,4
+openstack/compute-hyperv,openstack/searchlight-specs,Non core,0.0,4.0,3,4
+openstack/compute-hyperv,openstack/python-searchlightclient,Core,7.042253521126761,3.4482758620689653,9,11
+openstack/compute-hyperv,openstack/python-searchlightclient,Non core,5.633802816901409,9.195402298850574,9,11
+openstack/compute-hyperv,openstack/charm-tempest,Core,3.7037037037037033,3.1746031746031744,3,5
+openstack/compute-hyperv,openstack/charm-tempest,Non core,1.8518518518518516,4.761904761904762,3,5
+openstack/compute-hyperv,openstack/charm-barbican-softhsm,Core,3.8461538461538463,3.4482758620689653,2,5
+openstack/compute-hyperv,openstack/charm-barbican-softhsm,Non core,0.0,5.172413793103448,2,5
+openstack/compute-hyperv,openstack/cookbook-openstack-client,Core,4.878048780487805,0.0,2,2
+openstack/compute-hyperv,openstack/cookbook-openstack-client,Non core,0.0,3.571428571428571,2,2
+openstack/compute-hyperv,openstack/instack-undercloud,Core,3.149606299212598,2.5974025974025974,10,17
+openstack/compute-hyperv,openstack/instack-undercloud,Non core,4.724409448818897,4.761904761904762,10,17
+openstack/compute-hyperv,openstack/publiccloud-sig,Core,5.128205128205128,4.0,3,3
+openstack/compute-hyperv,openstack/publiccloud-sig,Non core,2.564102564102564,2.0,3,3
+openstack/compute-hyperv,openstack/ideas,Core,5.263157894736842,4.285714285714286,2,3
+openstack/compute-hyperv,openstack/ideas,Non core,0.0,0.0,2,3
+openstack/compute-hyperv,openstack/uc-recognition,Core,2.7027027027027026,1.9607843137254901,1,2
+openstack/compute-hyperv,openstack/uc-recognition,Non core,0.0,1.9607843137254901,1,2
+openstack/compute-hyperv,openstack/ops-tags-team,Core,4.651162790697675,4.3478260869565215,2,7
+openstack/compute-hyperv,openstack/ops-tags-team,Non core,0.0,5.797101449275362,2,7
+openstack/compute-hyperv,openstack/enterprise-wg,Core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/enterprise-wg,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/governance-uc,Core,8.0,2.1739130434782608,7,6
+openstack/compute-hyperv,openstack/governance-uc,Non core,6.0,4.3478260869565215,7,6
+openstack/compute-hyperv,openstack/workload-ref-archs,Core,7.142857142857142,3.7037037037037033,6,5
+openstack/compute-hyperv,openstack/workload-ref-archs,Non core,7.142857142857142,5.555555555555555,6,5
+openstack/compute-hyperv,openstack/arch-wg,Core,2.631578947368421,3.508771929824561,1,3
+openstack/compute-hyperv,openstack/arch-wg,Non core,0.0,1.7543859649122806,1,3
+openstack/compute-hyperv,openstack/project-navigator-data,Core,10.204081632653061,6.25,5,5
+openstack/compute-hyperv,openstack/project-navigator-data,Non core,0.0,1.5625,5,5
+openstack/compute-hyperv,openstack/openstack-specs,Core,10.0,2.3041474654377883,5,8
+openstack/compute-hyperv,openstack/openstack-specs,Non core,0.0,1.3824884792626728,5,8
+openstack/compute-hyperv,openstack/openstack-ansible-os_monasca,Core,5.970149253731343,3.4090909090909087,5,9
+openstack/compute-hyperv,openstack/openstack-ansible-os_monasca,Non core,1.4925373134328357,6.8181818181818175,5,9
+openstack/compute-hyperv,openstack/openstack-ansible-os_monasca-agent,Core,5.357142857142857,2.7027027027027026,4,5
+openstack/compute-hyperv,openstack/openstack-ansible-os_monasca-agent,Non core,1.7857142857142856,4.054054054054054,4,5
+openstack/compute-hyperv,openstack/ironic-inspector-specs,Core,3.571428571428571,0.0,4,2
+openstack/compute-hyperv,openstack/ironic-inspector-specs,Non core,3.571428571428571,2.272727272727273,4,2
+openstack/compute-hyperv,openstack/sushy-cli,Core,4.761904761904762,1.8867924528301887,2,1
+openstack/compute-hyperv,openstack/sushy-cli,Non core,0.0,0.0,2,1
+openstack/compute-hyperv,openstack/puppet-glare,Core,6.779661016949152,2.941176470588235,6,5
+openstack/compute-hyperv,openstack/puppet-glare,Non core,3.389830508474576,4.411764705882353,6,5
+openstack/compute-hyperv,openstack/xstatic-bootstrap-scss,Core,5.128205128205128,0.0,3,4
+openstack/compute-hyperv,openstack/xstatic-bootstrap-scss,Non core,2.564102564102564,7.4074074074074066,3,4
+openstack/compute-hyperv,openstack/openstack-planet,Core,3.2,2.0689655172413794,8,6
+openstack/compute-hyperv,openstack/openstack-planet,Non core,0.0,2.0689655172413794,8,6
+openstack/compute-hyperv,openstack/charm-interface-keystone-credentials,Core,7.142857142857142,2.0,3,2
+openstack/compute-hyperv,openstack/charm-interface-keystone-credentials,Non core,0.0,2.0,3,2
+openstack/compute-hyperv,openstack/monasca-kibana-plugin,Core,6.976744186046512,1.639344262295082,3,2
+openstack/compute-hyperv,openstack/monasca-kibana-plugin,Non core,0.0,1.639344262295082,3,2
+openstack/compute-hyperv,openstack/charm-interface-keystone-domain-backend,Core,7.894736842105263,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/charm-interface-keystone-domain-backend,Non core,2.631578947368421,0.0,4,1
+openstack/compute-hyperv,openstack/devstack-plugin-amqp1,Core,6.976744186046512,5.172413793103448,4,6
+openstack/compute-hyperv,openstack/devstack-plugin-amqp1,Non core,2.3255813953488373,5.172413793103448,4,6
+openstack/compute-hyperv,openstack/devstack-plugin-kafka,Core,2.4390243902439024,3.6363636363636362,2,5
+openstack/compute-hyperv,openstack/devstack-plugin-kafka,Non core,2.4390243902439024,5.454545454545454,2,5
+openstack/compute-hyperv,openstack/tripleo-ipsec,Core,4.545454545454546,3.3333333333333335,3,3
+openstack/compute-hyperv,openstack/tripleo-ipsec,Non core,2.272727272727273,1.6666666666666667,3,3
+openstack/compute-hyperv,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,2
+openstack/compute-hyperv,openstack/monasca-grafana-datasource,Non core,0.0,3.076923076923077,0,2
+openstack/compute-hyperv,openstack/charm-interface-bind-rndc,Core,7.317073170731707,2.0408163265306123,3,2
+openstack/compute-hyperv,openstack/charm-interface-bind-rndc,Non core,0.0,2.0408163265306123,3,2
+openstack/compute-hyperv,openstack/charm-interface-rabbitmq,Core,7.5,2.0,3,2
+openstack/compute-hyperv,openstack/charm-interface-rabbitmq,Non core,0.0,2.0,3,2
+openstack/compute-hyperv,openstack/charm-interface-openstack-ha,Core,5.0,4.081632653061225,2,3
+openstack/compute-hyperv,openstack/charm-interface-openstack-ha,Non core,0.0,2.0408163265306123,2,3
+openstack/compute-hyperv,openstack/charm-interface-gnocchi,Core,7.894736842105263,3.571428571428571,3,2
+openstack/compute-hyperv,openstack/charm-interface-gnocchi,Non core,0.0,0.0,3,2
+openstack/compute-hyperv,openstack/charm-interface-bgp,Core,4.878048780487805,2.0408163265306123,2,2
+openstack/compute-hyperv,openstack/charm-interface-bgp,Non core,0.0,2.0408163265306123,2,2
+openstack/compute-hyperv,openstack/charm-interface-websso-fid-service-provider,Core,0.0,2.1739130434782608,0,1
+openstack/compute-hyperv,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/compute-hyperv,openstack/charm-interface-designate,Core,2.631578947368421,2.127659574468085,1,1
+openstack/compute-hyperv,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/tempest-horizon,Core,8.0,3.278688524590164,6,4
+openstack/compute-hyperv,openstack/tempest-horizon,Non core,4.0,3.278688524590164,6,4
+openstack/compute-hyperv,openstack/logstash-filters,Core,0.0,0.0,0,1
+openstack/compute-hyperv,openstack/logstash-filters,Non core,0.0,2.127659574468085,0,1
+openstack/compute-hyperv,openstack/xstatic-jquery-migrate,Core,5.405405405405405,0.0,2,1
+openstack/compute-hyperv,openstack/xstatic-jquery-migrate,Non core,0.0,2.083333333333333,2,1
+openstack/compute-hyperv,openstack/qinling-dashboard,Core,7.5,7.4074074074074066,3,5
+openstack/compute-hyperv,openstack/qinling-dashboard,Non core,0.0,1.8518518518518516,3,5
+openstack/compute-hyperv,openstack/python-qinlingclient,Core,7.142857142857142,6.557377049180328,10,8
+openstack/compute-hyperv,openstack/python-qinlingclient,Non core,10.714285714285714,6.557377049180328,10,8
+openstack/compute-hyperv,openstack/qinling,Core,6.8493150684931505,5.405405405405405,7,6
+openstack/compute-hyperv,openstack/qinling,Non core,2.73972602739726,2.7027027027027026,7,6
+openstack/compute-hyperv,openstack/monasca-analytics,Core,5.357142857142857,3.8461538461538463,5,7
+openstack/compute-hyperv,openstack/monasca-analytics,Non core,3.571428571428571,5.128205128205128,5,7
+openstack/compute-hyperv,openstack/oslo-incubator,Core,2.684563758389262,1.5184381778741864,9,11
+openstack/compute-hyperv,openstack/oslo-incubator,Non core,0.33557046979865773,0.8676789587852495,9,11
+openstack/compute-hyperv,openstack/puppet-congress,Core,6.666666666666667,1.5625,5,3
+openstack/compute-hyperv,openstack/puppet-congress,Non core,1.6666666666666667,3.125,5,3
+openstack/compute-hyperv,openstack/openstack-ansible-os_monasca-ui,Core,6.8181818181818175,3.4482758620689653,4,4
+openstack/compute-hyperv,openstack/openstack-ansible-os_monasca-ui,Non core,2.272727272727273,3.4482758620689653,4,4
+openstack/compute-hyperv,openstack/auto-scaling-sig,Core,2.5,1.7241379310344827,1,1
+openstack/compute-hyperv,openstack/auto-scaling-sig,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/os-loganalyze,Core,4.918032786885246,3.4090909090909087,3,6
+openstack/compute-hyperv,openstack/os-loganalyze,Non core,0.0,3.4090909090909087,3,6
+openstack/compute-hyperv,openstack/devstack-plugin-pika,Core,2.631578947368421,6.0,2,4
+openstack/compute-hyperv,openstack/devstack-plugin-pika,Non core,2.631578947368421,2.0,2,4
+openstack/compute-hyperv,openstack/devstack-plugin-zmq,Core,4.761904761904762,5.769230769230769,3,5
+openstack/compute-hyperv,openstack/devstack-plugin-zmq,Non core,2.380952380952381,3.8461538461538463,3,5
+openstack/compute-hyperv,openstack/networking-l2gw,Core,7.446808510638298,3.3707865168539324,9,16
+openstack/compute-hyperv,openstack/networking-l2gw,Non core,2.127659574468085,5.617977528089887,9,16
+openstack/compute-hyperv,openstack/networking-l2gw-tempest-plugin,Core,4.878048780487805,3.225806451612903,6,4
+openstack/compute-hyperv,openstack/networking-l2gw-tempest-plugin,Non core,9.75609756097561,3.225806451612903,6,4
+openstack/compute-hyperv,openstack/charm-interface-ceph-mds,Core,7.5,0.0,3,1
+openstack/compute-hyperv,openstack/charm-interface-ceph-mds,Non core,0.0,2.083333333333333,3,1
+openstack/compute-hyperv,openstack/xstatic-angular-ui-router,Core,2.7027027027027026,2.083333333333333,1,2
+openstack/compute-hyperv,openstack/xstatic-angular-ui-router,Non core,0.0,2.083333333333333,1,2
+openstack/compute-hyperv,openstack/xstatic-vis,Core,5.405405405405405,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/xstatic-vis,Non core,0.0,0.0,2,1
+openstack/compute-hyperv,openstack/cookbook-openstack-database,Core,4.761904761904762,3.225806451612903,2,4
+openstack/compute-hyperv,openstack/cookbook-openstack-database,Non core,0.0,3.225806451612903,2,4
+openstack/compute-hyperv,openstack/cookbook-openstack-data-processing,Core,5.128205128205128,3.6363636363636362,2,5
+openstack/compute-hyperv,openstack/cookbook-openstack-data-processing,Non core,0.0,5.454545454545454,2,5
+openstack/compute-hyperv,openstack/trove-integration,Core,2.0202020202020203,2.941176470588235,2,8
+openstack/compute-hyperv,openstack/trove-integration,Non core,0.0,2.941176470588235,2,8
+openstack/compute-hyperv,openstack/ansible-role-tripleo-sensu,Core,5.263157894736842,2.083333333333333,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-sensu,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/python-ceilometerclient,Core,5.714285714285714,2.7906976744186047,10,12
+openstack/compute-hyperv,openstack/python-ceilometerclient,Non core,1.4285714285714286,2.7906976744186047,10,12
+openstack/compute-hyperv,openstack/keystoneauth-saml2,Core,9.090909090909092,2.8169014084507045,4,5
+openstack/compute-hyperv,openstack/keystoneauth-saml2,Non core,0.0,4.225352112676056,4,5
+openstack/compute-hyperv,openstack/murano-deployment,Core,4.411764705882353,1.3333333333333335,3,4
+openstack/compute-hyperv,openstack/murano-deployment,Non core,0.0,4.0,3,4
+openstack/compute-hyperv,openstack/python-keystoneclient-kerberos,Core,9.090909090909092,2.898550724637681,4,5
+openstack/compute-hyperv,openstack/python-keystoneclient-kerberos,Non core,0.0,4.3478260869565215,4,5
+openstack/compute-hyperv,openstack/python-wsmanclient,Core,2.631578947368421,2.0408163265306123,1,2
+openstack/compute-hyperv,openstack/python-wsmanclient,Non core,0.0,2.0408163265306123,1,2
+openstack/compute-hyperv,openstack/fuel-upgrade,Core,7.317073170731707,1.5384615384615385,4,4
+openstack/compute-hyperv,openstack/fuel-upgrade,Non core,2.4390243902439024,4.615384615384616,4,4
+openstack/compute-hyperv,openstack/cookbook-openstack-object-storage,Core,3.278688524590164,2.4691358024691357,2,4
+openstack/compute-hyperv,openstack/cookbook-openstack-object-storage,Non core,0.0,2.4691358024691357,2,4
+openstack/compute-hyperv,openstack/fairy-slipper,Core,4.878048780487805,3.6363636363636362,2,4
+openstack/compute-hyperv,openstack/fairy-slipper,Non core,0.0,3.6363636363636362,2,4
+openstack/compute-hyperv,openstack/django-openstack-auth-kerberos,Core,5.263157894736842,1.8181818181818181,3,4
+openstack/compute-hyperv,openstack/django-openstack-auth-kerberos,Non core,2.631578947368421,5.454545454545454,3,4
+openstack/compute-hyperv,openstack/horizon-cisco-ui,Core,6.8181818181818175,3.9215686274509802,4,5
+openstack/compute-hyperv,openstack/horizon-cisco-ui,Non core,2.272727272727273,5.88235294117647,4,5
+openstack/compute-hyperv,openstack/zuul-packaging,Core,5.555555555555555,4.081632653061225,2,4
+openstack/compute-hyperv,openstack/zuul-packaging,Non core,0.0,4.081632653061225,2,4
+openstack/compute-hyperv,openstack/networking-generic-switch-tempest-plugin,Core,2.7777777777777777,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/tripleo-incubator,Core,3.125,1.0050251256281406,4,6
+openstack/compute-hyperv,openstack/tripleo-incubator,Non core,0.0,2.0100502512562812,4,6
+openstack/compute-hyperv,openstack/ironic-webclient,Core,2.4390243902439024,1.4285714285714286,1,3
+openstack/compute-hyperv,openstack/ironic-webclient,Non core,0.0,2.857142857142857,1,3
+openstack/compute-hyperv,openstack/puppet-crane,Core,2.7777777777777777,4.545454545454546,1,2
+openstack/compute-hyperv,openstack/puppet-crane,Non core,0.0,0.0,1,2
+openstack/compute-hyperv,openstack/release-tools,Core,11.29032258064516,4.807692307692308,7,11
+openstack/compute-hyperv,openstack/release-tools,Non core,0.0,5.769230769230769,7,11
+openstack/compute-hyperv,openstack/gnocchi,Core,4.0,1.2269938650306749,4,9
+openstack/compute-hyperv,openstack/gnocchi,Non core,0.0,4.294478527607362,4,9
+openstack/compute-hyperv,openstack/networking-ofagent,Core,7.142857142857142,3.1746031746031744,4,5
+openstack/compute-hyperv,openstack/networking-ofagent,Non core,2.380952380952381,4.761904761904762,4,5
+openstack/compute-hyperv,openstack/python-neutron-pd-driver,Core,2.7027027027027026,4.545454545454546,1,3
+openstack/compute-hyperv,openstack/python-neutron-pd-driver,Non core,0.0,2.272727272727273,1,3
+openstack/compute-hyperv,openstack/charm-ceph,Core,1.8518518518518516,3.4482758620689653,1,4
+openstack/compute-hyperv,openstack/charm-ceph,Non core,0.0,3.4482758620689653,1,4
+openstack/compute-hyperv,openstack/openstack-ansible-os_freezer,Core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/openstack-ansible-pip_lock_down,Core,6.521739130434782,3.7037037037037033,3,4
+openstack/compute-hyperv,openstack/openstack-ansible-pip_lock_down,Non core,0.0,3.7037037037037033,3,4
+openstack/compute-hyperv,openstack/openstack-ansible-security,Core,5.714285714285714,2.8301886792452833,4,6
+openstack/compute-hyperv,openstack/openstack-ansible-security,Non core,0.0,2.8301886792452833,4,6
+openstack/compute-hyperv,openstack/oslosphinx,Core,8.21917808219178,2.8301886792452833,9,6
+openstack/compute-hyperv,openstack/oslosphinx,Non core,4.10958904109589,2.8301886792452833,9,6
+openstack/compute-hyperv,openstack/python-gnocchiclient,Core,4.761904761904762,2.8169014084507045,3,4
+openstack/compute-hyperv,openstack/python-gnocchiclient,Non core,0.0,2.8169014084507045,3,4
+openstack/compute-hyperv,openstack/ansible-role-k8s-cinder,Core,2.7027027027027026,2.2222222222222223,1,1
+openstack/compute-hyperv,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/ansible-role-k8s-cookiecutter,Core,2.7027027027027026,4.444444444444445,1,2
+openstack/compute-hyperv,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,1,2
+openstack/compute-hyperv,openstack/ansible-role-k8s-glance,Core,5.405405405405405,4.444444444444445,2,2
+openstack/compute-hyperv,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,2,2
+openstack/compute-hyperv,openstack/ansible-role-k8s-keystone,Core,5.405405405405405,2.083333333333333,2,1
+openstack/compute-hyperv,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,2,1
+openstack/compute-hyperv,openstack/ansible-role-k8s-mariadb,Core,8.108108108108109,4.25531914893617,3,2
+openstack/compute-hyperv,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,3,2
+openstack/compute-hyperv,openstack/ansible-role-k8s-rabbitmq,Core,2.7777777777777777,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/ansible-role-k8s-tripleo,Core,5.405405405405405,4.3478260869565215,2,2
+openstack/compute-hyperv,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,2,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-ui,Core,5.263157894736842,4.166666666666666,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-ui,Non core,5.263157894736842,0.0,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-aodh,Core,5.263157894736842,2.083333333333333,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-aodh,Non core,5.263157894736842,2.083333333333333,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-barbican,Core,5.263157894736842,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-barbican,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-ceilometer,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-ceilometer,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-cinder,Core,5.263157894736842,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-cinder,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-cookiecutter,Core,9.75609756097561,3.7735849056603774,5,4
+openstack/compute-hyperv,openstack/ansible-role-tripleo-cookiecutter,Non core,2.4390243902439024,3.7735849056603774,5,4
+openstack/compute-hyperv,openstack/tripleo-ui,Core,4.6875,3.9215686274509802,6,10
+openstack/compute-hyperv,openstack/tripleo-ui,Non core,4.6875,5.88235294117647,6,10
+openstack/compute-hyperv,openstack/ansible-role-tripleo-ovn,Core,5.263157894736842,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-ovn,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-opendaylight,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-opendaylight,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-octavia,Core,5.128205128205128,2.127659574468085,3,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-octavia,Non core,2.564102564102564,2.127659574468085,3,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-nova,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-nova,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/os-cloud-config,Core,7.5,2.380952380952381,7,10
+openstack/compute-hyperv,openstack/os-cloud-config,Non core,1.25,5.555555555555555,7,10
+openstack/compute-hyperv,openstack/ansible-role-tripleo-zaqar,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-zaqar,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-tempest,Core,5.263157894736842,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-tempest,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-sahara,Core,5.263157894736842,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-sahara,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-swift,Core,5.263157894736842,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-swift,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-tacker,Core,5.263157894736842,2.083333333333333,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-tacker,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,5.263157894736842,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-rabbitmq,Core,5.263157894736842,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-rabbitmq,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-qdrouterd,Core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-panko,Core,5.263157894736842,2.127659574468085,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-panko,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-heat,Core,5.128205128205128,2.127659574468085,3,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-heat,Non core,2.564102564102564,0.0,3,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-haproxy,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-haproxy,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-gnocchi,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-gnocchi,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-glance,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-glance,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-designate,Core,5.263157894736842,2.083333333333333,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-designate,Non core,5.263157894736842,0.0,4,1
+openstack/compute-hyperv,openstack/ansible-role-tripleo-neutron,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-neutron,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-mistral,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-mistral,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-memcached,Core,5.263157894736842,2.083333333333333,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-memcached,Non core,5.263157894736842,2.083333333333333,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-manila,Core,5.263157894736842,2.083333333333333,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-manila,Non core,5.263157894736842,2.083333333333333,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-ironic,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-ironic,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-keepalived,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-keepalived,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-horizon,Core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/ansible-role-tripleo-horizon,Non core,5.263157894736842,2.127659574468085,4,2
+openstack/compute-hyperv,openstack/pylockfile,Core,4.761904761904762,3.4482758620689653,2,4
+openstack/compute-hyperv,openstack/pylockfile,Non core,0.0,3.4482758620689653,2,4
+openstack/compute-hyperv,openstack/xstatic-moment-timezone,Core,2.7027027027027026,2.2222222222222223,1,1
+openstack/compute-hyperv,openstack/xstatic-moment-timezone,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/xstatic-dagre-d3,Core,2.7027027027027026,2.2222222222222223,1,1
+openstack/compute-hyperv,openstack/xstatic-dagre-d3,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/dragonflow,Core,4.635761589403973,3.286384976525822,9,21
+openstack/compute-hyperv,openstack/dragonflow,Non core,1.3245033112582782,6.572769953051644,9,21
+openstack/compute-hyperv,openstack/openstack,Core,5.263157894736842,7.2727272727272725,2,5
+openstack/compute-hyperv,openstack/openstack,Non core,0.0,1.8181818181818181,2,5
+openstack/compute-hyperv,openstack/charm-interface-pacemaker-remote,Core,0.0,2.127659574468085,0,4
+openstack/compute-hyperv,openstack/charm-interface-pacemaker-remote,Non core,0.0,6.382978723404255,0,4
+openstack/compute-hyperv,openstack/networking-onos,Core,1.9607843137254901,1.1494252873563218,1,5
+openstack/compute-hyperv,openstack/networking-onos,Non core,0.0,4.597701149425287,1,5
+openstack/compute-hyperv,openstack/solum-infra-guestagent,Core,5.0,1.8518518518518516,2,2
+openstack/compute-hyperv,openstack/solum-infra-guestagent,Non core,0.0,1.8518518518518516,2,2
+openstack/compute-hyperv,openstack/openstack-ux,Core,2.631578947368421,1.694915254237288,1,2
+openstack/compute-hyperv,openstack/openstack-ux,Non core,0.0,1.694915254237288,1,2
+openstack/compute-hyperv,openstack/mox3,Core,8.928571428571429,6.944444444444445,6,8
+openstack/compute-hyperv,openstack/mox3,Non core,1.7857142857142856,4.166666666666666,6,8
+openstack/compute-hyperv,openstack/charm-layer-ceph,Core,2.7027027027027026,0.0,1,0
+openstack/compute-hyperv,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/compute-hyperv,openstack/charm-layer-ceph-base,Core,5.263157894736842,0.0,2,1
+openstack/compute-hyperv,openstack/charm-layer-ceph-base,Non core,0.0,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/python-tricircleclient,Core,8.88888888888889,7.936507936507936,9,9
+openstack/compute-hyperv,openstack/python-tricircleclient,Non core,11.11111111111111,6.349206349206349,9,9
+openstack/compute-hyperv,openstack/tricircle,Core,4.62962962962963,3.6363636363636362,8,16
+openstack/compute-hyperv,openstack/tricircle,Non core,2.7777777777777777,6.0606060606060606,8,16
+openstack/compute-hyperv,openstack/swift-specs,Core,7.2727272727272725,1.9230769230769231,4,3
+openstack/compute-hyperv,openstack/swift-specs,Non core,0.0,0.9615384615384616,4,3
+openstack/compute-hyperv,openstack/congress,Core,4.49438202247191,2.1367521367521367,10,19
+openstack/compute-hyperv,openstack/congress,Non core,1.1235955056179776,5.982905982905983,10,19
+openstack/compute-hyperv,openstack/congress-tempest-plugin,Core,6.122448979591836,3.1746031746031744,6,5
+openstack/compute-hyperv,openstack/congress-tempest-plugin,Non core,6.122448979591836,4.761904761904762,6,5
+openstack/compute-hyperv,openstack/python-congressclient,Core,7.5,5.952380952380952,7,11
+openstack/compute-hyperv,openstack/python-congressclient,Non core,1.25,7.142857142857142,7,11
+openstack/compute-hyperv,openstack/congress-specs,Core,6.25,1.1627906976744187,6,4
+openstack/compute-hyperv,openstack/congress-specs,Non core,3.125,3.488372093023256,6,4
+openstack/compute-hyperv,openstack/congress-dashboard,Core,7.2727272727272725,5.633802816901409,5,6
+openstack/compute-hyperv,openstack/congress-dashboard,Non core,1.8181818181818181,2.8169014084507045,5,6
+openstack/compute-hyperv,openstack/syntribos,Core,6.666666666666667,2.73972602739726,6,5
+openstack/compute-hyperv,openstack/syntribos,Non core,3.3333333333333335,4.10958904109589,6,5
+openstack/compute-hyperv,openstack/syntribos-payloads,Core,2.7777777777777777,2.127659574468085,1,2
+openstack/compute-hyperv,openstack/syntribos-payloads,Non core,0.0,2.127659574468085,1,2
+openstack/compute-hyperv,openstack/syntribos-openstack-templates,Core,2.631578947368421,2.0408163265306123,1,2
+openstack/compute-hyperv,openstack/syntribos-openstack-templates,Non core,0.0,2.0408163265306123,1,2
+openstack/compute-hyperv,openstack/i18n-specs,Core,5.555555555555555,2.083333333333333,2,2
+openstack/compute-hyperv,openstack/i18n-specs,Non core,0.0,2.083333333333333,2,2
+openstack/compute-hyperv,openstack/tempest-plugin-cookiecutter,Core,5.263157894736842,5.88235294117647,2,4
+openstack/compute-hyperv,openstack/tempest-plugin-cookiecutter,Non core,0.0,1.9607843137254901,2,4
+openstack/compute-hyperv,openstack/devstack-plugin-cookiecutter,Core,8.333333333333332,2.1739130434782608,3,2
+openstack/compute-hyperv,openstack/devstack-plugin-cookiecutter,Non core,0.0,2.1739130434782608,3,2
+openstack/compute-hyperv,openstack/xstatic-graphlib,Core,0.0,2.2222222222222223,0,1
+openstack/compute-hyperv,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/compute-hyperv,openstack/openstack-ansible-repo_build,Core,3.3707865168539324,1.694915254237288,5,8
+openstack/compute-hyperv,openstack/openstack-ansible-repo_build,Non core,2.247191011235955,5.084745762711865,5,8
+openstack/compute-hyperv,openstack/xstatic-bootstrap-datepicker,Core,5.0,0.0,3,4
+openstack/compute-hyperv,openstack/xstatic-bootstrap-datepicker,Non core,2.5,7.2727272727272725,3,4
+openstack/compute-hyperv,openstack/xstatic-hogan,Core,5.555555555555555,0.0,2,1
+openstack/compute-hyperv,openstack/xstatic-hogan,Non core,0.0,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/xstatic-jquery.quicksearch,Core,5.555555555555555,0.0,2,1
+openstack/compute-hyperv,openstack/xstatic-jquery.quicksearch,Non core,0.0,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/openstack-ansible-os_molteniron,Core,5.555555555555555,1.4925373134328357,5,6
+openstack/compute-hyperv,openstack/openstack-ansible-os_molteniron,Non core,3.7037037037037033,7.462686567164178,5,6
+openstack/compute-hyperv,openstack/xstatic-angular-lrdragndrop,Core,5.128205128205128,1.9607843137254901,3,5
+openstack/compute-hyperv,openstack/xstatic-angular-lrdragndrop,Non core,2.564102564102564,7.8431372549019605,3,5
+openstack/compute-hyperv,openstack/faafo,Core,6.976744186046512,3.7735849056603774,3,7
+openstack/compute-hyperv,openstack/faafo,Non core,0.0,9.433962264150944,3,7
+openstack/compute-hyperv,openstack/xstatic-angular-bootstrap,Core,7.317073170731707,1.7857142857142856,4,5
+openstack/compute-hyperv,openstack/xstatic-angular-bootstrap,Non core,2.4390243902439024,7.142857142857142,4,5
+openstack/compute-hyperv,openstack/networking-calico,Core,6.451612903225806,4.545454545454546,7,12
+openstack/compute-hyperv,openstack/networking-calico,Non core,4.838709677419355,9.090909090909092,7,12
+openstack/compute-hyperv,openstack/xstatic-angular-gettext,Core,5.263157894736842,0.0,4,4
+openstack/compute-hyperv,openstack/xstatic-angular-gettext,Non core,5.263157894736842,7.6923076923076925,4,4
+openstack/compute-hyperv,openstack/shotgun,Core,1.8867924528301887,0.9009009009009009,2,5
+openstack/compute-hyperv,openstack/shotgun,Non core,1.8867924528301887,3.6036036036036037,2,5
+openstack/compute-hyperv,openstack/deb-python-aioeventlet,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-aioeventlet,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/fuel-devops,Core,3.225806451612903,0.5714285714285714,4,8
+openstack/compute-hyperv,openstack/fuel-devops,Non core,1.0752688172043012,4.0,4,8
+openstack/compute-hyperv,openstack/fuel-plugin-murano,Core,2.127659574468085,1.4492753623188406,1,3
+openstack/compute-hyperv,openstack/fuel-plugin-murano,Non core,0.0,2.898550724637681,1,3
+openstack/compute-hyperv,openstack/fuel-web,Core,1.6597510373443984,0.4750593824228029,5,11
+openstack/compute-hyperv,openstack/fuel-web,Non core,0.4149377593360996,2.137767220902613,5,11
+openstack/compute-hyperv,openstack/fuel-plugins,Core,3.896103896103896,0.7194244604316548,4,4
+openstack/compute-hyperv,openstack/fuel-plugins,Non core,1.2987012987012987,2.158273381294964,4,4
+openstack/compute-hyperv,openstack/fuel-virtualbox,Core,2.272727272727273,1.6129032258064515,1,2
+openstack/compute-hyperv,openstack/fuel-virtualbox,Non core,0.0,1.6129032258064515,1,2
+openstack/compute-hyperv,openstack/fuel-ostf,Core,2.3255813953488373,0.4016064257028112,4,5
+openstack/compute-hyperv,openstack/fuel-ostf,Non core,0.7751937984496124,1.6064257028112447,4,5
+openstack/compute-hyperv,openstack/fuel-qa,Core,1.282051282051282,0.35842293906810035,3,8
+openstack/compute-hyperv,openstack/fuel-qa,Non core,0.641025641025641,2.5089605734767026,3,8
+openstack/compute-hyperv,openstack/fuel-specs,Core,2.2222222222222223,0.2985074626865672,3,5
+openstack/compute-hyperv,openstack/fuel-specs,Non core,0.0,1.1940298507462688,3,5
+openstack/compute-hyperv,openstack/fuel-nailgun-extension-cluster-upgrade,Core,2.2222222222222223,1.6129032258064515,1,2
+openstack/compute-hyperv,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,1.6129032258064515,1,2
+openstack/compute-hyperv,openstack/fuel-nailgun-agent,Core,2.8169014084507045,0.7462686567164178,2,5
+openstack/compute-hyperv,openstack/fuel-nailgun-agent,Non core,0.0,2.9850746268656714,2,5
+openstack/compute-hyperv,openstack/fuel-mirror,Core,4.615384615384616,0.7246376811594203,3,6
+openstack/compute-hyperv,openstack/fuel-mirror,Non core,0.0,3.6231884057971016,3,6
+openstack/compute-hyperv,openstack/fuel-menu,Core,2.9850746268656714,1.3245033112582782,3,5
+openstack/compute-hyperv,openstack/fuel-menu,Non core,1.4925373134328357,1.9867549668874174,3,5
+openstack/compute-hyperv,openstack/fuel-main,Core,1.1627906976744187,0.3558718861209964,2,9
+openstack/compute-hyperv,openstack/fuel-main,Non core,0.0,2.8469750889679712,2,9
+openstack/compute-hyperv,openstack/fuel-ui,Core,1.3157894736842104,0.78125,1,3
+openstack/compute-hyperv,openstack/fuel-ui,Non core,0.0,1.5625,1,3
+openstack/compute-hyperv,openstack/fuel-library,Core,1.293103448275862,0.4273504273504274,3,13
+openstack/compute-hyperv,openstack/fuel-library,Non core,0.0,2.3504273504273505,3,13
+openstack/compute-hyperv,openstack/fuel-dev-tools,Core,11.363636363636363,1.6666666666666667,5,4
+openstack/compute-hyperv,openstack/fuel-dev-tools,Non core,0.0,5.0,5,4
+openstack/compute-hyperv,openstack/fuel-stats,Core,5.769230769230769,1.1764705882352942,4,5
+openstack/compute-hyperv,openstack/fuel-stats,Non core,1.9230769230769231,4.705882352941177,4,5
+openstack/compute-hyperv,openstack/fuel-nailgun-extension-converted-serializers,Core,2.7027027027027026,2.2222222222222223,1,2
+openstack/compute-hyperv,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,2.2222222222222223,1,2
+openstack/compute-hyperv,openstack/fuel-nailgun-extension-iac,Core,2.564102564102564,2.127659574468085,1,2
+openstack/compute-hyperv,openstack/fuel-nailgun-extension-iac,Non core,0.0,2.127659574468085,1,2
+openstack/compute-hyperv,openstack/fuel-plugin-murano-tests,Core,2.1739130434782608,1.4492753623188406,1,3
+openstack/compute-hyperv,openstack/fuel-plugin-murano-tests,Non core,0.0,2.898550724637681,1,3
+openstack/compute-hyperv,openstack/fuel-astute,Core,2.0202020202020203,0.5263157894736842,2,5
+openstack/compute-hyperv,openstack/fuel-astute,Non core,0.0,2.1052631578947367,2,5
+openstack/compute-hyperv,openstack/fuel-docs,Core,0.7692307692307693,0.28328611898017,1,4
+openstack/compute-hyperv,openstack/fuel-docs,Non core,0.0,0.84985835694051,1,4
+openstack/compute-hyperv,openstack/fuel-agent,Core,2.9702970297029703,1.092896174863388,4,8
+openstack/compute-hyperv,openstack/fuel-agent,Non core,0.9900990099009901,3.278688524590164,4,8
+openstack/compute-hyperv,openstack/fuel-octane,Core,6.451612903225806,1.0869565217391304,5,6
+openstack/compute-hyperv,openstack/fuel-octane,Non core,1.6129032258064515,5.434782608695652,5,6
+openstack/compute-hyperv,openstack/tuning-box,Core,2.5,1.4925373134328357,1,2
+openstack/compute-hyperv,openstack/tuning-box,Non core,0.0,1.4925373134328357,1,2
+openstack/compute-hyperv,openstack/python-fuelclient,Core,1.9607843137254901,0.5524861878453038,3,8
+openstack/compute-hyperv,openstack/python-fuelclient,Non core,0.9803921568627451,3.867403314917127,3,8
+openstack/compute-hyperv,openstack/neutron-interconnection,Core,0.0,3.8461538461538463,0,2
+openstack/compute-hyperv,openstack/neutron-interconnection,Non core,0.0,0.0,0,2
+openstack/compute-hyperv,openstack/openstack-chef-repo,Core,2.666666666666667,1.0752688172043012,2,4
+openstack/compute-hyperv,openstack/openstack-chef-repo,Non core,0.0,3.225806451612903,2,4
+openstack/compute-hyperv,openstack/os-acc,Core,0.0,3.389830508474576,0,2
+openstack/compute-hyperv,openstack/os-acc,Non core,0.0,0.0,0,2
+openstack/compute-hyperv,openstack/openstack-ansible-os_zaqar,Core,4.477611940298507,1.1627906976744187,5,5
+openstack/compute-hyperv,openstack/openstack-ansible-os_zaqar,Non core,2.9850746268656714,4.651162790697675,5,5
+openstack/compute-hyperv,openstack/openstack-ansible-os_watcher,Core,3.1746031746031744,2.5974025974025974,4,6
+openstack/compute-hyperv,openstack/openstack-ansible-os_watcher,Non core,3.1746031746031744,5.194805194805195,4,6
+openstack/compute-hyperv,openstack/openstack-ansible-os_searchlight,Core,5.454545454545454,1.4285714285714286,4,4
+openstack/compute-hyperv,openstack/openstack-ansible-os_searchlight,Non core,1.8181818181818181,4.285714285714286,4,4
+openstack/compute-hyperv,openstack/xstatic-angular-vis,Core,2.7777777777777777,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-font-awesome,Core,5.128205128205128,0.0,3,4
+openstack/compute-hyperv,openstack/xstatic-font-awesome,Non core,2.564102564102564,7.6923076923076925,3,4
+openstack/compute-hyperv,openstack/xstatic-jasmine,Core,7.317073170731707,1.8518518518518516,5,4
+openstack/compute-hyperv,openstack/xstatic-jasmine,Non core,4.878048780487805,5.555555555555555,5,4
+openstack/compute-hyperv,openstack/xstatic-angular-notify,Core,2.7777777777777777,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-angular-material,Core,5.405405405405405,0.0,2,0
+openstack/compute-hyperv,openstack/xstatic-angular-material,Non core,0.0,0.0,2,0
+openstack/compute-hyperv,openstack/tempest-tripleo-ui,Core,2.631578947368421,1.8518518518518516,1,1
+openstack/compute-hyperv,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/docs-specs,Core,5.194805194805195,2.9535864978902953,6,12
+openstack/compute-hyperv,openstack/docs-specs,Non core,2.5974025974025974,2.109704641350211,6,12
+openstack/compute-hyperv,openstack/release-schedule-generator,Core,2.7027027027027026,4.3478260869565215,2,3
+openstack/compute-hyperv,openstack/release-schedule-generator,Non core,2.7027027027027026,2.1739130434782608,2,3
+openstack/compute-hyperv,openstack-infra/opendev-website,Core,2.7777777777777777,2.083333333333333,1,1
+openstack/compute-hyperv,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/castellan-ui,Core,5.128205128205128,1.639344262295082,2,2
+openstack/compute-hyperv,openstack/castellan-ui,Non core,0.0,1.639344262295082,2,2
+openstack/compute-hyperv,openstack-attic/compute-api,Core,5.357142857142857,1.2987012987012987,3,2
+openstack/compute-hyperv,openstack-attic/compute-api,Non core,0.0,1.2987012987012987,3,2
+openstack/compute-hyperv,openstack/charm-neutron-api-odl,Core,2.272727272727273,0.0,2,1
+openstack/compute-hyperv,openstack/charm-neutron-api-odl,Non core,2.272727272727273,1.8867924528301887,2,1
+openstack/compute-hyperv,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/charm-murano,Core,2.7027027027027026,0.0,1,1
+openstack/compute-hyperv,openstack/charm-murano,Non core,0.0,2.2222222222222223,1,1
+openstack/compute-hyperv,openstack/charm-openvswitch-odl,Core,2.2222222222222223,0.0,1,1
+openstack/compute-hyperv,openstack/charm-openvswitch-odl,Non core,0.0,1.9607843137254901,1,1
+openstack/compute-hyperv,openstack/charm-interface-odl-controller-api,Core,5.405405405405405,0.0,2,1
+openstack/compute-hyperv,openstack/charm-interface-odl-controller-api,Non core,0.0,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/charm-glusterfs,Core,2.7027027027027026,0.0,1,1
+openstack/compute-hyperv,openstack/charm-glusterfs,Non core,0.0,2.0,1,1
+openstack/compute-hyperv,openstack/charm-trove,Core,2.4390243902439024,0.0,2,1
+openstack/compute-hyperv,openstack/charm-trove,Non core,2.4390243902439024,2.0408163265306123,2,1
+openstack/compute-hyperv,openstack/deb-python-positional,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-positional,Non core,2.7777777777777777,2.2222222222222223,1,1
+openstack/compute-hyperv,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-requests-unixsocket,Non core,2.7027027027027026,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-traceback2,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-traceback2,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-ryu,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-ryu,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-linecache2,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-linecache2,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-gabbi,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-gabbi,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-cotyledon,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-cotyledon,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-migrate,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-migrate,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/fuxi,Core,1.6666666666666667,1.1904761904761905,3,5
+openstack/compute-hyperv,openstack/fuxi,Non core,3.3333333333333335,4.761904761904762,3,5
+openstack/compute-hyperv,openstack/xstatic-filesaver,Core,2.7777777777777777,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-angular-uuid,Core,2.7777777777777777,0.0,1,0
+openstack/compute-hyperv,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/compute-hyperv,openstack/bandit,Core,5.555555555555555,3.8834951456310676,5,10
+openstack/compute-hyperv,openstack/bandit,Non core,0.0,5.825242718446602,5,10
+openstack/compute-hyperv,openstack/xstatic-angular-smart-table,Core,5.405405405405405,0.0,2,1
+openstack/compute-hyperv,openstack/xstatic-angular-smart-table,Non core,0.0,2.0408163265306123,2,1
+openstack/compute-hyperv,openstack/xstatic-bootswatch,Core,5.405405405405405,0.0,3,4
+openstack/compute-hyperv,openstack/xstatic-bootswatch,Non core,2.7027027027027026,7.6923076923076925,3,4
+openstack/compute-hyperv,openstack/deb-msgpack-python,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-msgpack-python,Non core,2.7777777777777777,2.2222222222222223,1,1
+openstack/compute-hyperv,openstack/xstatic-d3,Core,5.263157894736842,0.0,3,4
+openstack/compute-hyperv,openstack/xstatic-d3,Non core,2.631578947368421,7.6923076923076925,3,4
+openstack/compute-hyperv,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/deb-python-pymemcache,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pymemcache,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-novnc,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-novnc,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/instack,Core,3.7735849056603774,2.7027027027027026,5,5
+openstack/compute-hyperv,openstack/instack,Non core,5.660377358490567,4.054054054054054,5,5
+openstack/compute-hyperv,openstack/deb-python-pysaml2,Core,0.0,0.0,1,2
+openstack/compute-hyperv,openstack/deb-python-pysaml2,Non core,2.7777777777777777,4.444444444444445,1,2
+openstack/compute-hyperv,openstack/deb-python-trollius,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-trollius,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-autobahn,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-autobahn,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-pyldap,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pyldap,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/astara,Core,5.797101449275362,2.3529411764705883,4,7
+openstack/compute-hyperv,openstack/astara,Non core,0.0,5.88235294117647,4,7
+openstack/compute-hyperv,openstack/astara-appliance,Core,4.166666666666666,3.278688524590164,2,6
+openstack/compute-hyperv,openstack/astara-appliance,Non core,0.0,6.557377049180328,2,6
+openstack/compute-hyperv,openstack/astara-horizon,Core,4.878048780487805,1.8181818181818181,2,5
+openstack/compute-hyperv,openstack/astara-horizon,Non core,0.0,7.2727272727272725,2,5
+openstack/compute-hyperv,openstack/astara-neutron,Core,4.444444444444445,1.7857142857142856,2,5
+openstack/compute-hyperv,openstack/astara-neutron,Non core,0.0,7.142857142857142,2,5
+openstack/compute-hyperv,openstack/anchor,Core,0.0,2.5316455696202533,0,7
+openstack/compute-hyperv,openstack/anchor,Non core,0.0,6.329113924050633,0,7
+openstack/compute-hyperv,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/fuxi-golang,Core,2.857142857142857,2.1739130434782608,1,1
+openstack/compute-hyperv,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/fuxi-kubernetes,Core,2.7777777777777777,2.0,1,2
+openstack/compute-hyperv,openstack/fuxi-kubernetes,Non core,0.0,2.0,1,2
+openstack/compute-hyperv,openstack-infra/puppet-odsreg,Core,5.128205128205128,1.8867924528301887,2,4
+openstack/compute-hyperv,openstack-infra/puppet-odsreg,Non core,0.0,5.660377358490567,2,4
+openstack/compute-hyperv,openstack-infra/puppet-docker_registry,Core,2.857142857142857,0.0,1,0
+openstack/compute-hyperv,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/compute-hyperv,openstack/releasestatus,Core,2.7027027027027026,0.0,1,1
+openstack/compute-hyperv,openstack/releasestatus,Non core,0.0,2.0,1,1
+openstack/compute-hyperv,openstack-infra/vinz-webclient,Core,2.857142857142857,0.0,1,0
+openstack/compute-hyperv,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/compute-hyperv,openstack/activity-board,Core,2.0,0.0,1,2
+openstack/compute-hyperv,openstack/activity-board,Non core,0.0,2.247191011235955,1,2
+openstack/compute-hyperv,openstack-infra/beaker-localhost,Core,2.857142857142857,2.272727272727273,1,1
+openstack/compute-hyperv,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack-infra/beaker-nodepool,Core,2.857142857142857,2.272727272727273,1,1
+openstack/compute-hyperv,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/rst2bash,Core,5.405405405405405,1.9607843137254901,2,2
+openstack/compute-hyperv,openstack/rst2bash,Non core,0.0,1.9607843137254901,2,2
+openstack/compute-hyperv,openstack/kolla-kubernetes,Core,2.0202020202020203,1.2738853503184715,2,6
+openstack/compute-hyperv,openstack/kolla-kubernetes,Non core,0.0,2.547770700636943,2,6
+openstack/compute-hyperv,openstack/cue-dashboard,Core,6.976744186046512,4.081632653061225,3,5
+openstack/compute-hyperv,openstack/cue-dashboard,Non core,0.0,6.122448979591836,3,5
+openstack/compute-hyperv,openstack/python-cueclient,Core,6.8181818181818175,4.081632653061225,5,5
+openstack/compute-hyperv,openstack/python-cueclient,Non core,4.545454545454546,6.122448979591836,5,5
+openstack/compute-hyperv,openstack/cue,Core,6.451612903225806,2.8169014084507045,5,7
+openstack/compute-hyperv,openstack/cue,Non core,1.6129032258064515,7.042253521126761,5,7
+openstack/compute-hyperv,openstack/app-catalog,Core,4.301075268817205,1.9417475728155338,4,5
+openstack/compute-hyperv,openstack/app-catalog,Non core,0.0,2.912621359223301,4,5
+openstack/compute-hyperv,openstack-attic/identity-api,Core,4.0,0.8064516129032258,3,2
+openstack/compute-hyperv,openstack-attic/identity-api,Non core,0.0,0.8064516129032258,3,2
+openstack/compute-hyperv,openstack/deb-python-fixtures,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-fixtures,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/python-magnetodbclient,Core,2.564102564102564,0.0,1,1
+openstack/compute-hyperv,openstack/python-magnetodbclient,Non core,0.0,1.9230769230769231,1,1
+openstack/compute-hyperv,openstack/app-catalog-ui,Core,4.761904761904762,3.571428571428571,2,4
+openstack/compute-hyperv,openstack/app-catalog-ui,Non core,0.0,3.571428571428571,2,4
+openstack/compute-hyperv,openstack/salt-formula-kubernetes,Core,2.5,0.0,1,2
+openstack/compute-hyperv,openstack/salt-formula-kubernetes,Non core,0.0,4.166666666666666,1,2
+openstack/compute-hyperv,openstack/app-catalog-common,Core,0.0,2.272727272727273,0,2
+openstack/compute-hyperv,openstack/app-catalog-common,Non core,0.0,2.272727272727273,0,2
+openstack/compute-hyperv,openstack/python-appcatalogclient,Core,0.0,2.127659574468085,0,2
+openstack/compute-hyperv,openstack/python-appcatalogclient,Non core,0.0,2.127659574468085,0,2
+openstack/compute-hyperv,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/deb-nova,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-nova,Non core,2.7027027027027026,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-kazoo,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-kazoo,Non core,2.7777777777777777,2.2222222222222223,1,1
+openstack/compute-hyperv,openstack/deb-python-congressclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-congressclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-congress,Core,2.857142857142857,0.0,1,1
+openstack/compute-hyperv,openstack/deb-congress,Non core,0.0,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-os-net-config,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-os-net-config,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-ironic,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-ironic,Non core,2.7027027027027026,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/deb-swauth,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-swauth,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-python-os-api-ref,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-os-api-ref,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-designate,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-designate,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-swift,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-swift,Non core,2.857142857142857,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-manila-ui,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-manila-ui,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-barbican,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-barbican,Non core,2.7027027027027026,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/deb-cinder,Core,2.631578947368421,0.0,2,1
+openstack/compute-hyperv,openstack/deb-cinder,Non core,2.631578947368421,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-magnum,Core,2.631578947368421,0.0,2,1
+openstack/compute-hyperv,openstack/deb-magnum,Non core,2.631578947368421,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-trove,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-trove,Non core,2.7777777777777777,2.083333333333333,2,1
+openstack/compute-hyperv,openstack/deb-openstack-pkg-tools,Core,2.564102564102564,1.9607843137254901,2,2
+openstack/compute-hyperv,openstack/deb-openstack-pkg-tools,Non core,2.564102564102564,1.9607843137254901,2,2
+openstack/compute-hyperv,openstack/deb-python-swiftclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-swiftclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-alembic,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-alembic,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-cinderclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-cinderclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-bootstrap,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-bootstrap,Non core,2.7777777777777777,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/deb-networking-nec,Core,2.857142857142857,0.0,1,1
+openstack/compute-hyperv,openstack/deb-networking-nec,Non core,0.0,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-neutron-taas,Core,2.857142857142857,0.0,1,1
+openstack/compute-hyperv,openstack/deb-neutron-taas,Non core,0.0,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-networking-mlnx,Core,2.7027027027027026,0.0,1,1
+openstack/compute-hyperv,openstack/deb-networking-mlnx,Non core,0.0,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-openstack-meta-packages,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-openstack-meta-packages,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-networking-odl,Core,2.857142857142857,0.0,1,1
+openstack/compute-hyperv,openstack/deb-networking-odl,Non core,0.0,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-nodepool,Core,2.857142857142857,0.0,1,1
+openstack/compute-hyperv,openstack/deb-nodepool,Non core,0.0,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-networking-cisco,Core,2.857142857142857,0.0,1,1
+openstack/compute-hyperv,openstack/deb-networking-cisco,Non core,0.0,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-networking-midonet,Core,2.857142857142857,0.0,1,1
+openstack/compute-hyperv,openstack/deb-networking-midonet,Non core,0.0,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-networking-arista,Core,2.7777777777777777,0.0,1,1
+openstack/compute-hyperv,openstack/deb-networking-arista,Non core,0.0,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/deb-networking-hyperv,Core,2.857142857142857,0.0,1,1
+openstack/compute-hyperv,openstack/deb-networking-hyperv,Non core,0.0,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-rtslib-fb,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-rtslib-fb,Non core,2.7027027027027026,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-murano,Core,2.631578947368421,0.0,2,1
+openstack/compute-hyperv,openstack/deb-murano,Non core,2.631578947368421,2.083333333333333,2,1
+openstack/compute-hyperv,openstack/deb-python-semantic-version,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-semantic-version,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-ldappool,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-ldappool,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-zaqar-ui,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-zaqar-ui,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-zaqar,Core,2.631578947368421,0.0,2,1
+openstack/compute-hyperv,openstack/deb-zaqar,Non core,2.631578947368421,2.083333333333333,2,1
+openstack/compute-hyperv,openstack/deb-watcher,Core,2.631578947368421,0.0,2,1
+openstack/compute-hyperv,openstack/deb-watcher,Non core,2.631578947368421,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-os-testr,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-os-testr,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-os-win,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-os-win,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-pycadf,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-pycadf,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-pyghmi,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-pyghmi,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-reno,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-reno,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-os-refresh-config,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-os-refresh-config,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-os-vif,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-os-vif,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-pyeclib,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-pyeclib,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-python-quantumclient,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-quantumclient,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-python-requestsexceptions,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-requestsexceptions,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-pbr,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-pbr,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-requests-mock,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-requests-mock,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-saharaclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-saharaclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-scciclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-scciclient,Non core,2.7777777777777777,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-python-seamicroclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-seamicroclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-auto-backports,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-auto-backports,Non core,2.7027027027027026,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/deb-python-senlinclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-senlinclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-taskflow,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-taskflow,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-testtools,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-testtools,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-tooz,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-tooz,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-shotgun,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-shotgun,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-tackerclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-tackerclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-tosca-parser,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-tosca-parser,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-troveclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-troveclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-tuskarclient,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-tuskarclient,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-python-watcherclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-watcherclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-cookies,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-cookies,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-fileupload,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-fileupload,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-lrdragndrop,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-wsme,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-wsme,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-schema-form,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-schema-form,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-bootstrap-datepicker,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-bootswatch,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-bootswatch,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-gettext,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-gettext,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-mock,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-angular-mock,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-bootstrap-scss,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-bootstrap-scss,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-d3,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-d3,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-hogan,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-hogan,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-font-awesome,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-font-awesome,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jasmine,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jasmine,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery-migrate,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery-migrate,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery.quicksearch,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery.quicksearch,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery.tablesorter,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery.tablesorter,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jsencrypt,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jsencrypt,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-magic-search,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-magic-search,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-mdi,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-mdi,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-objectpath,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-objectpath,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-qunit,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-qunit,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-rickshaw,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-rickshaw,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-spin,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-spin,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-tv4,Core,2.7777777777777777,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-tv4,Non core,0.0,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-yaql,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-yaql,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-zaqarclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-zaqarclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-rally,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-rally,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-sahara,Core,2.631578947368421,0.0,2,1
+openstack/compute-hyperv,openstack/deb-sahara,Non core,2.631578947368421,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-sahara-dashboard,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-sahara-dashboard,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-senlin,Core,2.631578947368421,0.0,2,1
+openstack/compute-hyperv,openstack/deb-senlin,Non core,2.631578947368421,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-senlin-dashboard,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-senlin-dashboard,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-stevedore,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-stevedore,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-swift-bench,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-swift-bench,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-swift-plugin-s3,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-swift-plugin-s3,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-trove-dashboard,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-trove-dashboard,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-tempest,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-tempest,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-osprofiler,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-osprofiler,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.vmware,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.vmware,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.utils,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.utils,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.rootwrap,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.rootwrap,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.service,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.service,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.privsep,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.privsep,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.versionedobjects,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.versionedobjects,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslotest,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslotest,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.serialization,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.serialization,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.reports,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.reports,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.policy,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.policy,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.middleware,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.middleware,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.messaging,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.messaging,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.log,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.log,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-aodhclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-aodhclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-automaton,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-automaton,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-barbicanclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-barbicanclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-bashate,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-bashate,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-python-castellan,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-castellan,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-ceilometerclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-ceilometerclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-ceilometermiddleware,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-ceilometermiddleware,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-cliff,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-cliff,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-cursive,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-cursive,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-debtcollector,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-debtcollector,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-designateclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-designateclient,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-dib-utils,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-dib-utils,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-python-diskimage-builder,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-diskimage-builder,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-doc8,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-doc8,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-django-openstack-auth,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-django-openstack-auth,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-fuelclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-fuelclient,Non core,2.7777777777777777,2.083333333333333,2,1
+openstack/compute-hyperv,openstack/deb-python-dogpile.cache,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-dogpile.cache,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-futurist,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-futurist,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-glanceclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-glanceclient,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-glance-store,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-glance-store,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-hacking,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-hacking,Non core,2.7027027027027026,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-heatclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-heatclient,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-ironicclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-ironicclient,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-ironic-inspector-client,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-ironic-inspector-client,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-ironic-lib,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-ironic-lib,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-jsonpath-rw-ext,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-jsonpath-rw-ext,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-k8sclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-k8sclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-keystoneauth1,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-keystoneauth1,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-keystoneclient,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-keystoneclient,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-keystonemiddleware,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-keystonemiddleware,Non core,2.7777777777777777,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-magnumclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-magnumclient,Non core,2.7777777777777777,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/deb-python-manilaclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-manilaclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-microversion-parse,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-microversion-parse,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-mistralclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-mistralclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-monascaclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-monascaclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-mox3,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-mox3,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-muranoclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-muranoclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-neutronclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-neutronclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-neutron-lib,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-neutron-lib,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-novaclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-novaclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-openstackclient,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-openstackclient,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-openstackdocstheme,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-openstackdocstheme,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-openstacksdk,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-openstacksdk,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-os-apply-config,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-os-apply-config,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-os-brick,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-os-brick,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-osc-lib,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-osc-lib,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-os-client-config,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-os-client-config,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-os-collect-config,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-os-collect-config,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.cache,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.cache,Non core,2.7027027027027026,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.db,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.db,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.concurrency,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.concurrency,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.config,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.config,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.i18n,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.i18n,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.context,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-python-oslo.context,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-openstack-nose,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-openstack-nose,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-openstack-doc-tools,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-openstack-doc-tools,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-openstack-trove,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-openstack-trove,Non core,2.7027027027027026,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-oslosphinx,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-oslosphinx,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-aodh,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-aodh,Non core,2.7027027027027026,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-bandit,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-bandit,Non core,2.7027027027027026,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-ceilometer,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-ceilometer,Non core,2.7027027027027026,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-ceilometermiddleware,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-ceilometermiddleware,Non core,2.857142857142857,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-designate-dashboard,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-designate-dashboard,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-git-review,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-git-review,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-glance,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-glance,Non core,2.7027027027027026,2.083333333333333,2,1
+openstack/compute-hyperv,openstack/deb-glare,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-glare,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-heat,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-heat,Non core,2.7027027027027026,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-heat-cfntools,Core,2.7777777777777777,0.0,1,1
+openstack/compute-hyperv,openstack/deb-heat-cfntools,Non core,0.0,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-horizon,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-horizon,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-ironic-inspector,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-ironic-inspector,Non core,2.7027027027027026,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-ironic-ui,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-ironic-ui,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-keystone,Core,2.631578947368421,0.0,2,1
+openstack/compute-hyperv,openstack/deb-keystone,Non core,2.631578947368421,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/deb-liberasurecode,Core,2.857142857142857,0.0,2,1
+openstack/compute-hyperv,openstack/deb-liberasurecode,Non core,2.857142857142857,2.272727272727273,2,1
+openstack/compute-hyperv,openstack/deb-manila,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-manila,Non core,2.7027027027027026,2.1739130434782608,2,1
+openstack/compute-hyperv,openstack/deb-mistral,Core,2.5,0.0,2,1
+openstack/compute-hyperv,openstack/deb-mistral,Non core,2.5,2.083333333333333,2,1
+openstack/compute-hyperv,openstack/deb-murano-agent,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-murano-agent,Non core,2.7027027027027026,2.083333333333333,2,1
+openstack/compute-hyperv,openstack/deb-murano-dashboard,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-murano-dashboard,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-networking-l2gw,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-networking-l2gw,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-networking-ovn,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-networking-ovn,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-neutron,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-neutron,Non core,2.7027027027027026,2.127659574468085,2,1
+openstack/compute-hyperv,openstack/deb-neutron-fwaas,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-neutron-fwaas,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-neutron-vpnaas,Core,2.7777777777777777,0.0,2,1
+openstack/compute-hyperv,openstack/deb-neutron-vpnaas,Non core,2.7777777777777777,2.2222222222222223,2,1
+openstack/compute-hyperv,openstack/deb-neutron-lbaas,Core,2.7027027027027026,0.0,2,1
+openstack/compute-hyperv,openstack/deb-neutron-lbaas,Non core,2.7027027027027026,2.083333333333333,2,1
+openstack/compute-hyperv,openstack/installguide-cookiecutter,Core,2.2222222222222223,1.8518518518518516,1,3
+openstack/compute-hyperv,openstack/installguide-cookiecutter,Non core,0.0,3.7037037037037033,1,3
+openstack/compute-hyperv,openstack/deb-gnocchi,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-gnocchi,Non core,2.631578947368421,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-eventlet,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-eventlet,Non core,2.7027027027027026,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-pymysql,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pymysql,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/salt-formula-opencontrail,Core,2.0,0.0,2,2
+openstack/compute-hyperv,openstack/salt-formula-opencontrail,Non core,2.0,3.7735849056603774,2,2
+openstack/compute-hyperv,openstack/salt-formula-neutron,Core,2.0408163265306123,1.7857142857142856,2,2
+openstack/compute-hyperv,openstack/salt-formula-neutron,Non core,2.0408163265306123,1.7857142857142856,2,2
+openstack/compute-hyperv,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/compute-hyperv,openstack/salt-formula-swift,Non core,0.0,2.127659574468085,0,1
+openstack/compute-hyperv,openstack/salt-formula-nova,Core,1.8181818181818181,0.0,2,2
+openstack/compute-hyperv,openstack/salt-formula-nova,Non core,1.8181818181818181,3.571428571428571,2,2
+openstack/compute-hyperv,openstack/salt-formula-keystone,Core,1.9230769230769231,0.0,2,1
+openstack/compute-hyperv,openstack/salt-formula-keystone,Non core,1.9230769230769231,1.8181818181818181,2,1
+openstack/compute-hyperv,openstack/salt-formula-horizon,Core,2.127659574468085,0.0,2,1
+openstack/compute-hyperv,openstack/salt-formula-horizon,Non core,2.127659574468085,1.9230769230769231,2,1
+openstack/compute-hyperv,openstack/salt-formula-heat,Core,1.8518518518518516,0.0,2,1
+openstack/compute-hyperv,openstack/salt-formula-heat,Non core,1.8518518518518516,1.8867924528301887,2,1
+openstack/compute-hyperv,openstack/salt-formula-glance,Core,1.8867924528301887,0.0,2,3
+openstack/compute-hyperv,openstack/salt-formula-glance,Non core,1.8867924528301887,5.660377358490567,2,3
+openstack/compute-hyperv,openstack/salt-formula-cinder,Core,1.9230769230769231,0.0,2,1
+openstack/compute-hyperv,openstack/salt-formula-cinder,Non core,1.9230769230769231,1.9230769230769231,2,1
+openstack/compute-hyperv,openstack/salt-formula-ceilometer,Core,2.272727272727273,0.0,2,1
+openstack/compute-hyperv,openstack/salt-formula-ceilometer,Non core,2.272727272727273,1.8518518518518516,2,1
+openstack/compute-hyperv,openstack/deb-python-pygit2,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pygit2,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-libisal,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-libisal,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-xvfbwrapper,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-testresources,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-testresources,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-django-compressor,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-django-compressor,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-sqlalchemy-utils,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-pykmip,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pykmip,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-coffin,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-coffin,Non core,2.7777777777777777,2.2222222222222223,1,1
+openstack/compute-hyperv,openstack/deb-python-txaio,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-txaio,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-hplefthandclient,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-hplefthandclient,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-django-overextends,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-django-overextends,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-pytimeparse,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pytimeparse,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-nose-timer,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-nose-timer,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-retrying,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-retrying,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-django-discover-runner,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-django-discover-runner,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-lesscpy,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-lesscpy,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-happybase,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-happybase,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-extras,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-extras,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-functools32,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-functools32,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-pydot-ng,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pydot-ng,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-jsonschema,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-jsonschema,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-kafka,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-kafka,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-rcssmin,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-rcssmin,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-nose-parameterized,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-nose-parameterized,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-pika-pool,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pika-pool,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-rfc3986,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-rfc3986,Non core,2.7027027027027026,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-httpretty,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-httpretty,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-pint,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pint,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-django-pyscss,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-django-pyscss,Non core,2.857142857142857,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-falcon,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-falcon,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-subunit,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-subunit,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-django-formtools,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-django-formtools,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-nose-exclude,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-nose-exclude,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-pydotplus,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pydotplus,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-pager,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pager,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-proliantutils,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-proliantutils,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-gnocchiclient,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-gnocchiclient,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-django-babel,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-django-babel,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-requests-kerberos,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-requests-kerberos,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-colander,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-colander,Non core,2.7777777777777777,2.2222222222222223,1,1
+openstack/compute-hyperv,openstack/deb-python-dcos,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-dcos,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-django-bootstrap-form,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-term.js,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-toml,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-toml,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-semver,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-semver,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-websocket-client,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-websocket-client,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-fasteners,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-fasteners,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-jingo,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-jingo,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-pecan,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pecan,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-frozendict,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-frozendict,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/compute-hyperv,openstack/deb-python-wrapt,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-wrapt,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-funcsigs,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-funcsigs,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-crank,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-crank,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-pyvmomi,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pyvmomi,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-wsgi-intercept,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-os-cloud-config,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-os-cloud-config,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-weakrefmethod,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-weakrefmethod,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-steadymark,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-steadymark,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-warlock,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-warlock,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-couleur,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-couleur,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-roboto-fontface,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-fonts-materialdesignicons-webfont,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-json-patch,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-json-patch,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-jsonrpclib,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-jsonrpclib,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-multi-key-dict,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-multi-key-dict,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-memcache,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-memcache,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-pulp,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pulp,Non core,2.7777777777777777,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-fonts-roboto-fontface,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-websockify,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-websockify,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-daemonize,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-daemonize,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-pyngus,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-pyngus,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-editor,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-editor,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-ddt,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-ddt,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-monotonic,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-monotonic,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-rjsmin,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-rjsmin,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-jsonpath-rw,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-django-appconf,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-django-appconf,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-oauth2client,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-oauth2client,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-json-pointer,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-json-pointer,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack-attic/akanda,Core,2.564102564102564,0.0,1,3
+openstack/compute-hyperv,openstack-attic/akanda,Non core,0.0,5.88235294117647,1,3
+openstack/compute-hyperv,openstack/deb-python-xstatic,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-smart-table,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-xstatic-jquery-ui,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-requestbuilder,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-requestbuilder,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-nosehtmloutput,Non core,2.857142857142857,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-csscompressor,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-csscompressor,Non core,2.7777777777777777,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/deb-python-croniter,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-croniter,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/deb-python-concurrent.futures,Core,0.0,0.0,1,1
+openstack/compute-hyperv,openstack/deb-python-concurrent.futures,Non core,2.7777777777777777,2.272727272727273,1,1
+openstack/compute-hyperv,openstack/openstack-salt,Core,2.564102564102564,0.0,1,2
+openstack/compute-hyperv,openstack/openstack-salt,Non core,0.0,4.25531914893617,1,2
+openstack/compute-hyperv,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/compute-hyperv,openstack/deb-spice-html5,Non core,0.0,2.3255813953488373,0,1
+openstack/compute-hyperv,openstack/salt-formula-midonet,Core,2.857142857142857,0.0,1,1
+openstack/compute-hyperv,openstack/salt-formula-midonet,Non core,0.0,2.3255813953488373,1,1
+openstack/compute-hyperv,openstack/magnetodb-specs,Core,6.8181818181818175,0.0,3,3
+openstack/compute-hyperv,openstack/magnetodb-specs,Non core,0.0,5.172413793103448,3,3
+openstack/compute-hyperv,openstack-attic/akanda-appliance-builder,Core,2.564102564102564,0.0,1,2
+openstack/compute-hyperv,openstack-attic/akanda-appliance-builder,Non core,0.0,4.25531914893617,1,2
+openstack/compute-hyperv,openstack-attic/oslo.version,Core,10.0,1.6666666666666667,4,2
+openstack/compute-hyperv,openstack-attic/oslo.version,Non core,0.0,1.6666666666666667,4,2
+openstack/compute-hyperv,openstack-attic/image-api,Core,6.976744186046512,1.6666666666666667,3,2
+openstack/compute-hyperv,openstack-attic/image-api,Non core,0.0,1.6666666666666667,3,2
+openstack/compute-hyperv,openstack-attic/object-api,Core,5.660377358490567,1.4285714285714286,3,2
+openstack/compute-hyperv,openstack-attic/object-api,Non core,0.0,1.4285714285714286,3,2
+openstack/compute-hyperv,openstack-attic/volume-api,Core,4.166666666666666,1.6129032258064515,2,2
+openstack/compute-hyperv,openstack-attic/volume-api,Non core,0.0,1.6129032258064515,2,2
+openstack/compute-hyperv,openstack/magnetodb,Core,3.571428571428571,0.0,2,2
+openstack/compute-hyperv,openstack/magnetodb,Non core,0.0,2.564102564102564,2,2
+openstack/compute-hyperv,openstack/openstack-nose,Core,2.380952380952381,2.0408163265306123,1,2
+openstack/compute-hyperv,openstack/openstack-nose,Non core,0.0,2.0408163265306123,1,2
+openstack/compute-hyperv,openstack-attic/netconn-api,Core,5.0,1.1111111111111112,3,3
+openstack/compute-hyperv,openstack-attic/netconn-api,Non core,0.0,2.2222222222222223,3,3
+openstack/compute-hyperv,openstack-attic/python-melangeclient,Core,2.4390243902439024,0.0,1,1
+openstack/compute-hyperv,openstack-attic/python-melangeclient,Non core,0.0,2.1739130434782608,1,1
+openstack/compute-hyperv,openstack-attic/melange,Core,4.081632653061225,0.0,3,1
+openstack/compute-hyperv,openstack-attic/melange,Non core,2.0408163265306123,1.7857142857142856,3,1
+openstack/compute-hyperv,openstack-attic/openstack-qa,Core,2.631578947368421,0.0,1,1
+openstack/compute-hyperv,openstack-attic/openstack-qa,Non core,0.0,2.1739130434782608,1,1
+openstack/compute-hyperv,openstack-attic/database-api,Core,6.8181818181818175,1.7241379310344827,3,2
+openstack/compute-hyperv,openstack-attic/database-api,Non core,0.0,1.7241379310344827,3,2
+openstack/compute-hyperv,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/compute-hyperv,openstack-attic/openstack-security-notes,Non core,0.0,0.8928571428571428,0,1

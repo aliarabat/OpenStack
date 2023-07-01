@@ -1,0 +1,985 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/ansible-role-tripleo-cookiecutter,openstack/tripleo-ui,Core,12.82051282051282,6.493506493506493,7,8
+openstack/ansible-role-tripleo-cookiecutter,openstack/tripleo-ui,Non core,5.128205128205128,3.896103896103896,7,8
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-ovn,Core,25.0,33.33333333333333,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-ovn,Non core,25.0,6.666666666666667,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-opendaylight,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-opendaylight,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-octavia,Core,23.076923076923077,29.411764705882355,5,5
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-octavia,Non core,15.384615384615385,0.0,5,5
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-nova,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-nova,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/os-cloud-config,Core,8.620689655172415,4.901960784313726,5,7
+openstack/ansible-role-tripleo-cookiecutter,openstack/os-cloud-config,Non core,0.0,1.9607843137254901,5,7
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-zaqar,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-zaqar,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-tempest,Core,25.0,33.33333333333333,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-tempest,Non core,25.0,6.666666666666667,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-sahara,Core,25.0,33.33333333333333,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-sahara,Non core,25.0,6.666666666666667,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-swift,Core,25.0,33.33333333333333,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-swift,Non core,25.0,6.666666666666667,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-tacker,Core,25.0,33.33333333333333,6,7
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-tacker,Non core,25.0,13.333333333333334,6,7
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,25.0,33.33333333333333,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,25.0,6.666666666666667,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-rabbitmq,Core,25.0,33.33333333333333,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-rabbitmq,Non core,25.0,6.666666666666667,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-qdrouterd,Core,18.181818181818183,20.0,2,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,2,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-panko,Core,25.0,33.33333333333333,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-panko,Non core,25.0,6.666666666666667,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-heat,Core,25.0,33.33333333333333,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-heat,Non core,25.0,6.666666666666667,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-haproxy,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-haproxy,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-gnocchi,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-gnocchi,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-glance,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-glance,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-designate,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-designate,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-neutron,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-neutron,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-mistral,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-mistral,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-memcached,Core,25.0,31.25,6,7
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-memcached,Non core,25.0,12.5,6,7
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-manila,Core,25.0,29.411764705882355,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-manila,Non core,25.0,5.88235294117647,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-ironic,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-ironic,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-keepalived,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-keepalived,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-horizon,Core,25.0,31.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/ansible-role-tripleo-horizon,Non core,25.0,6.25,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/pylockfile,Core,11.11111111111111,6.0606060606060606,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/pylockfile,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-moment-timezone,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-moment-timezone,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-dagre-d3,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-dagre-d3,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/dragonflow,Core,3.0534351145038165,0.9900990099009901,5,5
+openstack/ansible-role-tripleo-cookiecutter,openstack/dragonflow,Non core,0.7633587786259541,1.4851485148514851,5,5
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack,Core,6.666666666666667,3.125,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-interface-pacemaker-remote,Core,0.0,4.761904761904762,0,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-interface-pacemaker-remote,Non core,0.0,9.523809523809524,0,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/networking-onos,Core,3.7037037037037033,1.5873015873015872,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/networking-onos,Non core,0.0,1.5873015873015872,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/solum-infra-guestagent,Core,5.88235294117647,3.571428571428571,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/solum-infra-guestagent,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ux,Core,7.142857142857142,3.0303030303030303,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ux,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/mox3,Core,12.121212121212121,4.0,5,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/mox3,Non core,3.0303030303030303,2.0,5,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-layer-ceph,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-layer-ceph-base,Core,14.285714285714285,0.0,2,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-layer-ceph-base,Non core,0.0,0.0,2,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-tricircleclient,Core,16.0,4.878048780487805,5,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-tricircleclient,Non core,4.0,4.878048780487805,5,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/tricircle,Core,3.4090909090909087,1.342281879194631,4,5
+openstack/ansible-role-tripleo-cookiecutter,openstack/tricircle,Non core,1.1363636363636365,2.013422818791946,4,5
+openstack/ansible-role-tripleo-cookiecutter,openstack/swift-specs,Core,6.0606060606060606,2.564102564102564,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/swift-specs,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/congress,Core,3.1645569620253164,1.3636363636363635,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/congress,Non core,0.6329113924050633,1.3636363636363635,6,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/congress-tempest-plugin,Core,7.4074074074074066,5.405405405405405,4,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/congress-tempest-plugin,Non core,7.4074074074074066,5.405405405405405,4,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-congressclient,Core,5.084745762711865,3.125,4,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-congressclient,Non core,1.694915254237288,3.125,4,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/congress-specs,Core,6.976744186046512,1.639344262295082,3,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/congress-specs,Non core,0.0,1.639344262295082,3,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/congress-dashboard,Core,13.333333333333334,4.25531914893617,6,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/congress-dashboard,Non core,6.666666666666667,2.127659574468085,6,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/syntribos,Core,5.0,2.0408163265306123,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/syntribos,Non core,0.0,2.0408163265306123,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/syntribos-payloads,Core,8.333333333333332,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/syntribos-payloads,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/syntribos-openstack-templates,Core,7.142857142857142,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/syntribos-openstack-templates,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/i18n-specs,Core,16.666666666666664,4.545454545454546,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/i18n-specs,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/tempest-plugin-cookiecutter,Core,14.285714285714285,7.6923076923076925,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/devstack-plugin-cookiecutter,Core,7.142857142857142,5.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-graphlib,Core,0.0,5.555555555555555,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-repo_build,Core,4.615384615384616,2.1505376344086025,5,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-repo_build,Non core,3.076923076923077,4.301075268817205,5,6
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-bootstrap-datepicker,Core,5.555555555555555,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-hogan,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-hogan,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-jquery.quicksearch,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-os_molteniron,Core,9.67741935483871,4.761904761904762,4,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-os_molteniron,Non core,3.225806451612903,4.761904761904762,4,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-lrdragndrop,Core,5.88235294117647,3.571428571428571,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/faafo,Core,10.0,3.125,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/faafo,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-bootstrap,Core,5.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/networking-calico,Core,4.761904761904762,2.898550724637681,3,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/networking-calico,Non core,2.380952380952381,2.898550724637681,3,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-gettext,Core,5.88235294117647,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-gettext,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/shotgun,Core,3.3333333333333335,1.1363636363636365,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/shotgun,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-devops,Core,4.3478260869565215,1.2987012987012987,4,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-devops,Non core,1.4492753623188406,0.0,4,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-plugin-murano,Core,4.3478260869565215,4.651162790697675,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-plugin-murano,Non core,0.0,0.0,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-web,Core,1.36986301369863,0.4975124378109453,3,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-web,Non core,0.0,0.24875621890547264,3,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-plugins,Core,5.555555555555555,1.7543859649122806,3,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-plugins,Non core,0.0,0.0,3,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-virtualbox,Core,5.0,2.7777777777777777,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-virtualbox,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-ostf,Core,2.8301886792452833,0.8888888888888888,3,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-ostf,Non core,0.0,0.0,3,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-qa,Core,1.5037593984962405,0.7782101167315175,2,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-qa,Non core,0.0,0.38910505836575876,2,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-specs,Core,1.7857142857142856,0.6430868167202572,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-specs,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-nailgun-extension-cluster-upgrade,Core,4.761904761904762,2.7777777777777777,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-nailgun-agent,Core,2.083333333333333,1.8181818181818181,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-nailgun-agent,Non core,0.0,0.0,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-mirror,Core,7.317073170731707,1.7391304347826086,3,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-mirror,Non core,0.0,0.0,3,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-menu,Core,4.545454545454546,2.380952380952381,2,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-menu,Non core,0.0,0.0,2,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-main,Core,1.3513513513513513,0.7692307692307693,2,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-main,Non core,0.0,0.38461538461538464,2,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-ui,Core,1.9230769230769231,1.9607843137254901,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-ui,Non core,0.0,0.0,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-library,Core,1.4423076923076923,0.6666666666666667,3,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-library,Non core,0.0,0.2222222222222222,3,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-dev-tools,Core,13.636363636363635,2.7777777777777777,3,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-dev-tools,Non core,0.0,0.0,3,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-stats,Core,6.666666666666667,1.6129032258064515,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-stats,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-nailgun-extension-converted-serializers,Core,7.6923076923076925,5.263157894736842,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-nailgun-extension-iac,Core,6.666666666666667,4.761904761904762,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-plugin-murano-tests,Core,4.545454545454546,2.272727272727273,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-astute,Core,2.666666666666667,1.2048192771084338,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-astute,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-docs,Core,1.9047619047619049,0.6097560975609756,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-docs,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-agent,Core,2.5316455696202533,1.2345679012345678,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-agent,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-octane,Core,4.878048780487805,1.4285714285714286,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuel-octane,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/tuning-box,Core,6.25,2.4390243902439024,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/tuning-box,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-fuelclient,Core,2.5316455696202533,1.25,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-fuelclient,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/neutron-interconnection,Core,0.0,8.0,0,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/neutron-interconnection,Non core,0.0,0.0,0,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-chef-repo,Core,0.0,1.4492753623188406,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-chef-repo,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/os-acc,Core,0.0,3.0303030303030303,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/os-acc,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-os_zaqar,Core,6.976744186046512,3.3333333333333335,5,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-os_zaqar,Non core,4.651162790697675,3.3333333333333335,5,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-os_watcher,Core,5.128205128205128,3.8461538461538463,4,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-os_watcher,Non core,5.128205128205128,3.8461538461538463,4,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-os_searchlight,Core,6.451612903225806,2.2222222222222223,4,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-os_searchlight,Non core,6.451612903225806,2.2222222222222223,4,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-vis,Core,8.333333333333332,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-font-awesome,Core,5.88235294117647,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-font-awesome,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-jasmine,Core,4.761904761904762,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-jasmine,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-notify,Core,8.333333333333332,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-material,Core,15.384615384615385,0.0,2,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-material,Non core,0.0,0.0,2,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/tempest-tripleo-ui,Core,15.384615384615385,12.0,2,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/tempest-tripleo-ui,Non core,0.0,0.0,2,3
+openstack/ansible-role-tripleo-cookiecutter,openstack/docs-specs,Core,3.571428571428571,0.9174311926605505,3,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/docs-specs,Non core,1.7857142857142856,0.9174311926605505,3,4
+openstack/ansible-role-tripleo-cookiecutter,openstack/release-schedule-generator,Core,7.142857142857142,4.761904761904762,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/release-schedule-generator,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/opendev-website,Core,8.333333333333332,4.761904761904762,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/opendev-website,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/castellan-ui,Core,13.333333333333334,2.857142857142857,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/castellan-ui,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/compute-api,Core,2.941176470588235,1.9607843137254901,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/compute-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-neutron-api-odl,Core,4.761904761904762,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-neutron-api-odl,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-murano,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-murano,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-openvswitch-odl,Core,4.761904761904762,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-openvswitch-odl,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-interface-odl-controller-api,Core,15.384615384615385,0.0,2,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-interface-odl-controller-api,Non core,0.0,0.0,2,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-glusterfs,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-glusterfs,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-trove,Core,5.555555555555555,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/charm-trove,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuxi,Core,2.631578947368421,1.639344262295082,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuxi,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-filesaver,Core,8.333333333333332,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-uuid,Core,8.333333333333332,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/bandit,Core,2.898550724637681,2.380952380952381,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/bandit,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-smart-table,Core,7.142857142857142,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-bootswatch,Core,6.666666666666667,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-bootswatch,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-d3,Core,6.25,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/xstatic-d3,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/instack,Core,9.67741935483871,8.88888888888889,3,7
+openstack/ansible-role-tripleo-cookiecutter,openstack/instack,Non core,0.0,6.666666666666667,3,7
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/astara,Core,6.521739130434782,1.5625,3,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/astara,Non core,0.0,0.0,3,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/astara-appliance,Core,4.0,2.631578947368421,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/astara-appliance,Non core,0.0,2.631578947368421,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/astara-horizon,Core,5.555555555555555,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/astara-horizon,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/astara-neutron,Core,4.545454545454546,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/astara-neutron,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/anchor,Core,0.0,1.7241379310344827,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/anchor,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuxi-golang,Core,9.090909090909092,5.263157894736842,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuxi-kubernetes,Core,8.333333333333332,4.166666666666666,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/fuxi-kubernetes,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/puppet-odsreg,Core,6.25,3.4482758620689653,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/puppet-odsreg,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/puppet-docker_registry,Core,9.090909090909092,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/releasestatus,Core,7.6923076923076925,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/releasestatus,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/vinz-webclient,Core,9.090909090909092,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/activity-board,Core,3.8461538461538463,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/activity-board,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/beaker-localhost,Core,9.090909090909092,5.88235294117647,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/beaker-nodepool,Core,9.090909090909092,5.88235294117647,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/rst2bash,Core,15.384615384615385,4.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/rst2bash,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/kolla-kubernetes,Core,2.666666666666667,0.7407407407407408,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/kolla-kubernetes,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/cue-dashboard,Core,10.0,3.8461538461538463,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/cue-dashboard,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-cueclient,Core,8.695652173913043,8.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-cueclient,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/cue,Core,4.878048780487805,2.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/cue,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/app-catalog,Core,2.8169014084507045,1.25,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/app-catalog,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/identity-api,Core,1.8867924528301887,2.0618556701030926,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/identity-api,Non core,0.0,0.0,1,2
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/app-catalog-ui,Core,5.263157894736842,3.125,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/app-catalog-ui,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-kubernetes,Core,6.25,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-kubernetes,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/app-catalog-common,Core,0.0,5.555555555555555,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/app-catalog-common,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-appcatalogclient,Core,0.0,4.761904761904762,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/python-appcatalogclient,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-openstack-pkg-tools,Core,0.0,4.0,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-mistral,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-mistral,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/installguide-cookiecutter,Core,4.761904761904762,3.4482758620689653,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/installguide-cookiecutter,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-opencontrail,Core,3.7037037037037033,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-opencontrail,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-neutron,Core,3.8461538461538463,3.3333333333333335,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-neutron,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-nova,Core,3.125,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-nova,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-keystone,Core,3.4482758620689653,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-keystone,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-horizon,Core,4.166666666666666,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-horizon,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-heat,Core,3.225806451612903,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-heat,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-glance,Core,3.3333333333333335,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-glance,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-cinder,Core,3.4482758620689653,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-cinder,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-ceilometer,Core,4.761904761904762,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-ceilometer,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-salt,Core,6.666666666666667,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-salt,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-midonet,Core,9.090909090909092,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/salt-formula-midonet,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/magnetodb-specs,Core,4.545454545454546,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/magnetodb-specs,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/oslo.version,Core,11.11111111111111,2.941176470588235,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/oslo.version,Non core,0.0,0.0,2,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/image-api,Core,4.761904761904762,2.941176470588235,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/image-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/object-api,Core,3.225806451612903,2.272727272727273,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/object-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/volume-api,Core,4.0,2.7777777777777777,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/volume-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/magnetodb,Core,3.0303030303030303,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/magnetodb,Non core,0.0,0.0,1,0
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-nose,Core,0.0,4.3478260869565215,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack/openstack-nose,Non core,0.0,0.0,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/netconn-api,Core,5.405405405405405,3.125,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/netconn-api,Non core,0.0,0.0,2,2
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/database-api,Core,4.545454545454546,3.125,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/database-api,Non core,0.0,0.0,1,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/openstack-security-notes,Core,0.0,1.1764705882352942,0,1
+openstack/ansible-role-tripleo-cookiecutter,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,1

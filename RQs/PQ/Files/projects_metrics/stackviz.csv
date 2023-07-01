@@ -1,0 +1,1803 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/stackviz,openstack/kayobe-config-dev,Core,4.878048780487805,1.8518518518518516,2,1
+openstack/stackviz,openstack/kayobe-config-dev,Non core,0.0,0.0,2,1
+openstack/stackviz,openstack/pbr,Core,6.349206349206349,7.614213197969544,12,22
+openstack/stackviz,openstack/pbr,Non core,3.1746031746031744,3.5532994923857872,12,22
+openstack/stackviz,openstack/oslo.cache,Core,6.315789473684211,4.819277108433735,8,16
+openstack/stackviz,openstack/oslo.cache,Non core,2.1052631578947367,4.819277108433735,8,16
+openstack/stackviz,openstack/charm-ceph-rbd-mirror,Core,2.127659574468085,1.8518518518518516,2,4
+openstack/stackviz,openstack/charm-ceph-rbd-mirror,Non core,2.127659574468085,5.555555555555555,2,4
+openstack/stackviz,openstack/ansible-config_template,Core,5.084745762711865,1.1764705882352942,4,5
+openstack/stackviz,openstack/ansible-config_template,Non core,1.694915254237288,4.705882352941177,4,5
+openstack/stackviz,openstack/designate-dashboard,Core,7.0588235294117645,7.6923076923076925,10,16
+openstack/stackviz,openstack/designate-dashboard,Non core,4.705882352941177,4.615384615384616,10,16
+openstack/stackviz,openstack/charm-interface-cinder-backend,Core,2.7777777777777777,2.2222222222222223,2,1
+openstack/stackviz,openstack/charm-interface-cinder-backend,Non core,2.7777777777777777,0.0,2,1
+openstack/stackviz,openstack/cyborg-specs,Core,3.7735849056603774,3.5294117647058822,3,8
+openstack/stackviz,openstack/cyborg-specs,Non core,1.8867924528301887,5.88235294117647,3,8
+openstack/stackviz,openstack/python-mistralclient,Core,4.477611940298507,3.1914893617021276,11,13
+openstack/stackviz,openstack/python-mistralclient,Non core,3.731343283582089,3.723404255319149,11,13
+openstack/stackviz,openstack/ha-guide,Core,1.1627906976744187,2.877697841726619,3,8
+openstack/stackviz,openstack/ha-guide,Non core,2.3255813953488373,2.877697841726619,3,8
+openstack/stackviz,openstack/watcher,Core,4.0,3.9525691699604746,8,17
+openstack/stackviz,openstack/watcher,Non core,0.0,2.766798418972332,8,17
+openstack/stackviz,openstack/openstack-ansible-os_cloudkitty,Core,7.042253521126761,5.88235294117647,10,8
+openstack/stackviz,openstack/openstack-ansible-os_cloudkitty,Non core,7.042253521126761,3.5294117647058822,10,8
+openstack/stackviz,openstack/openstack-ansible-os_cinder,Core,5.084745762711865,4.0,10,13
+openstack/stackviz,openstack/openstack-ansible-os_cinder,Non core,3.389830508474576,4.666666666666667,10,13
+openstack/stackviz,openstack/openstack-health,Core,15.517241379310345,10.476190476190476,19,22
+openstack/stackviz,openstack/openstack-health,Non core,17.24137931034483,10.476190476190476,19,22
+openstack/stackviz,openstack/openstack-ansible-os_swift,Core,5.714285714285714,4.918032786885246,10,14
+openstack/stackviz,openstack/openstack-ansible-os_swift,Non core,3.8095238095238098,6.557377049180328,10,14
+openstack/stackviz,openstack/masakari-specs,Core,8.16326530612245,5.714285714285714,5,10
+openstack/stackviz,openstack/masakari-specs,Non core,2.0408163265306123,8.571428571428571,5,10
+openstack/stackviz,openstack/telemetry-specs,Core,4.444444444444445,3.3783783783783785,4,7
+openstack/stackviz,openstack/telemetry-specs,Non core,0.0,1.3513513513513513,4,7
+openstack/stackviz,openstack/osprofiler,Core,5.660377358490567,5.970149253731343,9,15
+openstack/stackviz,openstack/osprofiler,Non core,2.8301886792452833,5.223880597014925,9,15
+openstack/stackviz,openstack/openstack-ansible-os_trove,Core,7.894736842105263,5.376344086021505,10,12
+openstack/stackviz,openstack/openstack-ansible-os_trove,Non core,5.263157894736842,7.526881720430108,10,12
+openstack/stackviz,openstack/openstack-ansible-os_manila,Core,4.0,3.125,3,3
+openstack/stackviz,openstack/openstack-ansible-os_manila,Non core,2.0,1.5625,3,3
+openstack/stackviz,openstack/ansible-hardening,Core,9.67741935483871,5.681818181818182,8,10
+openstack/stackviz,openstack/ansible-hardening,Non core,3.225806451612903,5.681818181818182,8,10
+openstack/stackviz,openstack/barbican-specs,Core,4.0,2.5,5,5
+openstack/stackviz,openstack/barbican-specs,Non core,2.666666666666667,1.6666666666666667,5,5
+openstack/stackviz,openstack/python-heatclient,Core,3.535353535353535,3.8461538461538463,11,21
+openstack/stackviz,openstack/python-heatclient,Non core,2.0202020202020203,2.8846153846153846,11,21
+openstack/stackviz,openstack/oslo.versionedobjects,Core,6.140350877192982,6.451612903225806,11,16
+openstack/stackviz,openstack/oslo.versionedobjects,Non core,3.508771929824561,3.870967741935484,11,16
+openstack/stackviz,openstack/os-api-ref,Core,10.76923076923077,6.976744186046512,11,9
+openstack/stackviz,openstack/os-api-ref,Non core,6.153846153846154,3.488372093023256,11,9
+openstack/stackviz,openstack/devstack-plugin-container,Core,11.363636363636363,5.084745762711865,5,4
+openstack/stackviz,openstack/devstack-plugin-container,Non core,0.0,1.694915254237288,5,4
+openstack/stackviz,openstack/venus-dashboard,Core,0.0,2.083333333333333,0,1
+openstack/stackviz,openstack/venus-dashboard,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/manila-ui,Core,6.0606060606060606,6.015037593984962,8,15
+openstack/stackviz,openstack/manila-ui,Non core,2.0202020202020203,5.263157894736842,8,15
+openstack/stackviz,openstack/devstack-plugin-nfs,Core,7.894736842105263,12.280701754385964,3,8
+openstack/stackviz,openstack/devstack-plugin-nfs,Non core,0.0,1.7543859649122806,3,8
+openstack/stackviz,openstack/taskflow,Core,4.724409448818897,5.851063829787234,7,16
+openstack/stackviz,openstack/taskflow,Non core,0.7874015748031495,2.6595744680851063,7,16
+openstack/stackviz,openstack/python-cyborgclient,Core,7.6923076923076925,9.333333333333334,8,10
+openstack/stackviz,openstack/python-cyborgclient,Non core,7.6923076923076925,4.0,8,10
+openstack/stackviz,openstack/zun,Core,3.1446540880503147,3.686635944700461,11,14
+openstack/stackviz,openstack/zun,Non core,3.7735849056603774,2.7649769585253456,11,14
+openstack/stackviz,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,1,0
+openstack/stackviz,openstack/charm-openstack-loadbalancer,Non core,2.7027027027027026,0.0,1,0
+openstack/stackviz,openstack/ansible-role-python_venv_build,Core,7.2727272727272725,4.054054054054054,5,8
+openstack/stackviz,openstack/ansible-role-python_venv_build,Non core,1.8181818181818181,6.756756756756757,5,8
+openstack/stackviz,openstack/mistral-dashboard,Core,5.813953488372093,3.5398230088495577,6,8
+openstack/stackviz,openstack/mistral-dashboard,Non core,1.1627906976744187,3.5398230088495577,6,8
+openstack/stackviz,openstack/mistral-lib,Core,9.836065573770492,8.641975308641975,11,14
+openstack/stackviz,openstack/mistral-lib,Non core,8.19672131147541,8.641975308641975,11,14
+openstack/stackviz,openstack/monasca-events-api,Core,8.51063829787234,4.477611940298507,7,7
+openstack/stackviz,openstack/monasca-events-api,Non core,6.382978723404255,5.970149253731343,7,7
+openstack/stackviz,openstack/python-zaqarclient,Core,4.310344827586207,4.861111111111112,7,13
+openstack/stackviz,openstack/python-zaqarclient,Non core,1.7241379310344827,4.166666666666666,7,13
+openstack/stackviz,openstack/monasca-api,Core,5.298013245033113,4.672897196261682,11,18
+openstack/stackviz,openstack/monasca-api,Non core,1.9867549668874174,3.7383177570093453,11,18
+openstack/stackviz,openstack/monasca-persister,Core,7.6923076923076925,4.37956204379562,11,13
+openstack/stackviz,openstack/monasca-persister,Non core,4.395604395604396,5.109489051094891,11,13
+openstack/stackviz,openstack/monasca-notification,Core,7.368421052631578,5.46875,10,12
+openstack/stackviz,openstack/monasca-notification,Non core,3.1578947368421053,3.90625,10,12
+openstack/stackviz,openstack/python-saharaclient,Core,5.084745762711865,4.635761589403973,7,13
+openstack/stackviz,openstack/python-saharaclient,Non core,0.847457627118644,3.9735099337748347,7,13
+openstack/stackviz,openstack/charm-magpie,Core,0.0,0.0,1,0
+openstack/stackviz,openstack/charm-magpie,Non core,2.272727272727273,0.0,1,0
+openstack/stackviz,openstack/openstack-ansible-os_placement,Core,3.9215686274509802,1.5873015873015872,2,5
+openstack/stackviz,openstack/openstack-ansible-os_placement,Non core,0.0,6.349206349206349,2,5
+openstack/stackviz,openstack/openstackdocstheme,Core,4.301075268817205,6.61764705882353,7,11
+openstack/stackviz,openstack/openstackdocstheme,Non core,3.225806451612903,1.4705882352941175,7,11
+openstack/stackviz,openstack/sahara,Core,2.768166089965398,2.8720626631853787,12,20
+openstack/stackviz,openstack/sahara,Non core,1.384083044982699,2.3498694516971277,12,20
+openstack/stackviz,openstack/ironic-ui,Core,7.4074074074074066,7.6190476190476195,10,15
+openstack/stackviz,openstack/ironic-ui,Non core,4.938271604938271,6.666666666666667,10,15
+openstack/stackviz,openstack/oslo.serialization,Core,8.13953488372093,9.166666666666666,13,16
+openstack/stackviz,openstack/oslo.serialization,Non core,6.976744186046512,4.166666666666666,13,16
+openstack/stackviz,openstack/oslo.context,Core,7.6923076923076925,8.0,11,14
+openstack/stackviz,openstack/oslo.context,Non core,6.41025641025641,3.2,11,14
+openstack/stackviz,openstack/oslo.limit,Core,6.896551724137931,12.162162162162163,8,12
+openstack/stackviz,openstack/oslo.limit,Non core,6.896551724137931,4.054054054054054,8,12
+openstack/stackviz,openstack/oslo.middleware,Core,4.716981132075472,6.8493150684931505,8,16
+openstack/stackviz,openstack/oslo.middleware,Non core,2.8301886792452833,4.10958904109589,8,16
+openstack/stackviz,openstack/oslo.reports,Core,7.352941176470589,7.6923076923076925,8,15
+openstack/stackviz,openstack/oslo.reports,Non core,4.411764705882353,6.730769230769231,8,15
+openstack/stackviz,openstack/futurist,Core,8.823529411764707,5.555555555555555,8,11
+openstack/stackviz,openstack/futurist,Non core,2.941176470588235,6.666666666666667,8,11
+openstack/stackviz,openstack/oslo.i18n,Core,7.228915662650602,8.130081300813007,10,17
+openstack/stackviz,openstack/oslo.i18n,Non core,4.819277108433735,5.691056910569105,10,17
+openstack/stackviz,openstack/sushy-oem-idrac,Core,0.0,1.6129032258064515,0,1
+openstack/stackviz,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/python-dracclient,Core,1.4705882352941175,3.061224489795918,3,9
+openstack/stackviz,openstack/python-dracclient,Non core,2.941176470588235,6.122448979591836,3,9
+openstack/stackviz,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/openstack-ansible-os_masakari,Core,6.779661016949152,4.938271604938271,6,9
+openstack/stackviz,openstack/openstack-ansible-os_masakari,Non core,3.389830508474576,6.172839506172839,6,9
+openstack/stackviz,openstack/ansible-role-systemd_mount,Core,6.25,3.389830508474576,4,6
+openstack/stackviz,openstack/ansible-role-systemd_mount,Non core,2.083333333333333,6.779661016949152,4,6
+openstack/stackviz,openstack/python-senlinclient,Core,6.25,7.03125,12,17
+openstack/stackviz,openstack/python-senlinclient,Non core,4.464285714285714,6.25,12,17
+openstack/stackviz,openstack/senlin-dashboard,Core,7.59493670886076,8.771929824561402,10,16
+openstack/stackviz,openstack/senlin-dashboard,Non core,5.063291139240507,5.263157894736842,10,16
+openstack/stackviz,openstack/networking-generic-switch,Core,5.555555555555555,5.607476635514018,6,11
+openstack/stackviz,openstack/networking-generic-switch,Non core,1.1111111111111112,4.672897196261682,6,11
+openstack/stackviz,openstack/sahara-image-elements,Core,5.376344086021505,1.694915254237288,6,6
+openstack/stackviz,openstack/sahara-image-elements,Non core,1.0752688172043012,3.389830508474576,6,6
+openstack/stackviz,openstack/ansible-role-thales-hsm,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/ansible-role-thales-hsm,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/ansible-role-atos-hsm,Core,0.0,1.9230769230769231,0,1
+openstack/stackviz,openstack/ansible-role-atos-hsm,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/adjutant-ui,Core,7.5,14.000000000000002,4,8
+openstack/stackviz,openstack/adjutant-ui,Non core,2.5,2.0,4,8
+openstack/stackviz,openstack/sahara-extra,Core,5.714285714285714,6.8181818181818175,4,8
+openstack/stackviz,openstack/sahara-extra,Non core,0.0,2.272727272727273,4,8
+openstack/stackviz,openstack/blazar-nova,Core,8.620689655172415,7.0588235294117645,7,12
+openstack/stackviz,openstack/blazar-nova,Non core,3.4482758620689653,7.0588235294117645,7,12
+openstack/stackviz,openstack/oslo.service,Core,5.263157894736842,6.0606060606060606,11,17
+openstack/stackviz,openstack/oslo.service,Non core,4.385964912280701,4.242424242424243,11,17
+openstack/stackviz,openstack/blazar-dashboard,Core,7.8431372549019605,10.38961038961039,6,15
+openstack/stackviz,openstack/blazar-dashboard,Non core,3.9215686274509802,9.090909090909092,6,15
+openstack/stackviz,openstack/paunch,Core,5.333333333333334,5.9259259259259265,6,14
+openstack/stackviz,openstack/paunch,Non core,2.666666666666667,4.444444444444445,6,14
+openstack/stackviz,openstack/service-types-authority,Core,8.16326530612245,8.24742268041237,5,9
+openstack/stackviz,openstack/service-types-authority,Non core,2.0408163265306123,1.0309278350515463,5,9
+openstack/stackviz,openstack/python-ironic-inspector-client,Core,8.21917808219178,6.481481481481481,8,15
+openstack/stackviz,openstack/python-ironic-inspector-client,Non core,2.73972602739726,7.4074074074074066,8,15
+openstack/stackviz,openstack/openstack-ansible-memcached_server,Core,8.450704225352112,2.1739130434782608,9,8
+openstack/stackviz,openstack/openstack-ansible-memcached_server,Non core,4.225352112676056,6.521739130434782,9,8
+openstack/stackviz,openstack/os-testr,Core,13.114754098360656,13.0,21,24
+openstack/stackviz,openstack/os-testr,Non core,21.311475409836063,11.0,21,24
+openstack/stackviz,openstack/openstack-ansible-ceph_client,Core,6.493506493506493,2.941176470588235,8,10
+openstack/stackviz,openstack/openstack-ansible-ceph_client,Non core,3.896103896103896,6.862745098039216,8,10
+openstack/stackviz,openstack/openstack-ansible-os_magnum,Core,7.59493670886076,4.62962962962963,10,12
+openstack/stackviz,openstack/openstack-ansible-os_magnum,Non core,5.063291139240507,6.481481481481481,10,12
+openstack/stackviz,openstack/openstack-ansible-os_blazar,Core,7.017543859649122,3.9473684210526314,6,7
+openstack/stackviz,openstack/openstack-ansible-os_blazar,Non core,3.508771929824561,5.263157894736842,6,7
+openstack/stackviz,openstack/openstack-ansible-os_designate,Core,7.142857142857142,5.263157894736842,10,13
+openstack/stackviz,openstack/openstack-ansible-os_designate,Non core,4.761904761904762,6.140350877192982,10,13
+openstack/stackviz,openstack/openstack-ansible-os_gnocchi,Core,7.228915662650602,5.05050505050505,9,12
+openstack/stackviz,openstack/openstack-ansible-os_gnocchi,Non core,3.614457831325301,7.07070707070707,9,12
+openstack/stackviz,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/openstack-ansible-os_senlin,Non core,0.0,2.0,0,1
+openstack/stackviz,openstack/ptgbot,Core,9.090909090909092,11.864406779661017,4,9
+openstack/stackviz,openstack/ptgbot,Non core,0.0,3.389830508474576,4,9
+openstack/stackviz,openstack/openstack-ansible-os_zun,Core,7.142857142857142,5.714285714285714,6,9
+openstack/stackviz,openstack/openstack-ansible-os_zun,Non core,3.571428571428571,7.142857142857142,6,9
+openstack/stackviz,openstack/openstack-ansible-repo_server,Core,7.4074074074074066,3.669724770642202,9,8
+openstack/stackviz,openstack/openstack-ansible-repo_server,Non core,3.7037037037037033,3.669724770642202,9,8
+openstack/stackviz,openstack/python-watcherclient,Core,4.672897196261682,8.49056603773585,10,16
+openstack/stackviz,openstack/python-watcherclient,Non core,4.672897196261682,6.60377358490566,10,16
+openstack/stackviz,openstack/heat-agents,Core,6.153846153846154,7.017543859649122,6,13
+openstack/stackviz,openstack/heat-agents,Non core,3.076923076923077,4.385964912280701,6,13
+openstack/stackviz,openstack/oslo.rootwrap,Core,6.185567010309279,6.293706293706294,9,15
+openstack/stackviz,openstack/oslo.rootwrap,Non core,3.0927835051546393,4.195804195804196,9,15
+openstack/stackviz,openstack/automaton,Core,5.172413793103448,8.108108108108109,7,10
+openstack/stackviz,openstack/automaton,Non core,6.896551724137931,5.405405405405405,7,10
+openstack/stackviz,openstack/debtcollector,Core,10.606060606060606,9.859154929577464,11,12
+openstack/stackviz,openstack/debtcollector,Non core,6.0606060606060606,7.042253521126761,11,12
+openstack/stackviz,openstack/vitrage-dashboard,Core,5.617977528089887,8.24742268041237,11,12
+openstack/stackviz,openstack/vitrage-dashboard,Non core,6.741573033707865,4.123711340206185,11,12
+openstack/stackviz,openstack/oslotest,Core,9.75609756097561,10.909090909090908,12,19
+openstack/stackviz,openstack/oslotest,Non core,4.878048780487805,6.363636363636363,12,19
+openstack/stackviz,openstack/kayobe-config,Core,4.761904761904762,2.127659574468085,2,1
+openstack/stackviz,openstack/kayobe-config,Non core,0.0,0.0,2,1
+openstack/stackviz,openstack/compute-hyperv,Core,6.557377049180328,5.633802816901409,6,10
+openstack/stackviz,openstack/compute-hyperv,Non core,3.278688524590164,8.450704225352112,6,10
+openstack/stackviz,openstack/python-cloudkittyclient,Core,5.88235294117647,7.216494845360824,10,14
+openstack/stackviz,openstack/python-cloudkittyclient,Non core,5.88235294117647,7.216494845360824,10,14
+openstack/stackviz,openstack/charm-interface-keystone,Core,6.8181818181818175,1.9230769230769231,4,5
+openstack/stackviz,openstack/charm-interface-keystone,Non core,2.272727272727273,7.6923076923076925,4,5
+openstack/stackviz,openstack/cloudkitty-dashboard,Core,8.333333333333332,7.8431372549019605,8,15
+openstack/stackviz,openstack/cloudkitty-dashboard,Non core,2.7777777777777777,6.862745098039216,8,15
+openstack/stackviz,openstack/networking-hyperv,Core,9.210526315789473,6.172839506172839,10,11
+openstack/stackviz,openstack/networking-hyperv,Non core,3.9473684210526314,7.4074074074074066,10,11
+openstack/stackviz,openstack/i18n,Core,8.823529411764707,5.9405940594059405,8,10
+openstack/stackviz,openstack/i18n,Non core,2.941176470588235,3.9603960396039604,8,10
+openstack/stackviz,openstack/sahara-tests,Core,12.903225806451612,7.368421052631578,10,12
+openstack/stackviz,openstack/sahara-tests,Non core,3.225806451612903,5.263157894736842,10,12
+openstack/stackviz,openstack/python-zunclient,Core,5.660377358490567,4.444444444444445,11,9
+openstack/stackviz,openstack/python-zunclient,Non core,4.716981132075472,2.2222222222222223,11,9
+openstack/stackviz,openstack/sahara-plugin-cdh,Core,7.317073170731707,7.2727272727272725,5,7
+openstack/stackviz,openstack/sahara-plugin-cdh,Non core,4.878048780487805,5.454545454545454,5,7
+openstack/stackviz,openstack/monasca-ui,Core,5.88235294117647,4.487179487179487,8,15
+openstack/stackviz,openstack/monasca-ui,Non core,1.9607843137254901,5.128205128205128,8,15
+openstack/stackviz,openstack/python-adjutantclient,Core,10.0,8.695652173913043,5,7
+openstack/stackviz,openstack/python-adjutantclient,Non core,2.5,6.521739130434782,5,7
+openstack/stackviz,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/ansible-role-lunasa-hsm,Core,2.941176470588235,2.272727272727273,1,1
+openstack/stackviz,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/monasca-thresh,Core,3.389830508474576,2.4390243902439024,2,4
+openstack/stackviz,openstack/monasca-thresh,Non core,0.0,2.4390243902439024,2,4
+openstack/stackviz,openstack/heat-specs,Core,4.0,2.3255813953488373,4,9
+openstack/stackviz,openstack/heat-specs,Non core,0.0,1.8604651162790697,4,9
+openstack/stackviz,openstack/watcher-dashboard,Core,6.756756756756757,6.451612903225806,9,14
+openstack/stackviz,openstack/watcher-dashboard,Non core,5.405405405405405,8.60215053763441,9,14
+openstack/stackviz,openstack/sahara-plugin-ambari,Core,7.5,6.0,5,5
+openstack/stackviz,openstack/sahara-plugin-ambari,Non core,5.0,4.0,5,5
+openstack/stackviz,openstack/sahara-plugin-mapr,Core,7.6923076923076925,7.6923076923076925,5,8
+openstack/stackviz,openstack/sahara-plugin-mapr,Non core,5.128205128205128,7.6923076923076925,5,8
+openstack/stackviz,openstack/sahara-plugin-spark,Core,7.894736842105263,6.521739130434782,5,4
+openstack/stackviz,openstack/sahara-plugin-spark,Non core,5.263157894736842,2.1739130434782608,5,4
+openstack/stackviz,openstack/sahara-plugin-storm,Core,7.894736842105263,6.382978723404255,5,4
+openstack/stackviz,openstack/sahara-plugin-storm,Non core,5.263157894736842,2.127659574468085,5,4
+openstack/stackviz,openstack/sahara-plugin-vanilla,Core,7.894736842105263,6.382978723404255,5,6
+openstack/stackviz,openstack/sahara-plugin-vanilla,Non core,5.263157894736842,6.382978723404255,5,6
+openstack/stackviz,openstack/sahara-specs,Core,5.063291139240507,1.834862385321101,5,4
+openstack/stackviz,openstack/sahara-specs,Non core,1.2658227848101267,1.834862385321101,5,4
+openstack/stackviz,openstack/venus-tempest-plugin,Core,0.0,2.2222222222222223,0,1
+openstack/stackviz,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/ceilometermiddleware,Core,7.575757575757576,6.9306930693069315,7,13
+openstack/stackviz,openstack/ceilometermiddleware,Non core,3.0303030303030303,5.9405940594059405,7,13
+openstack/stackviz,openstack/trove-tempest-plugin,Core,9.75609756097561,8.333333333333332,6,10
+openstack/stackviz,openstack/trove-tempest-plugin,Non core,4.878048780487805,8.333333333333332,6,10
+openstack/stackviz,openstack/arch-design,Core,8.108108108108109,4.545454545454546,4,2
+openstack/stackviz,openstack/arch-design,Non core,2.7027027027027026,0.0,4,2
+openstack/stackviz,openstack/monasca-common,Core,7.000000000000001,4.411764705882353,8,12
+openstack/stackviz,openstack/monasca-common,Non core,1.0,4.411764705882353,8,12
+openstack/stackviz,openstack/monasca-statsd,Core,10.9375,4.545454545454546,9,9
+openstack/stackviz,openstack/monasca-statsd,Non core,3.125,5.681818181818182,9,9
+openstack/stackviz,openstack/python-monascaclient,Core,5.357142857142857,5.517241379310345,10,13
+openstack/stackviz,openstack/python-monascaclient,Non core,3.571428571428571,3.4482758620689653,10,13
+openstack/stackviz,openstack/renderspec,Core,10.416666666666668,8.620689655172415,9,10
+openstack/stackviz,openstack/renderspec,Non core,8.333333333333332,8.620689655172415,9,10
+openstack/stackviz,openstack/os-service-types,Core,8.695652173913043,15.0,9,15
+openstack/stackviz,openstack/os-service-types,Non core,10.869565217391305,10.0,9,15
+openstack/stackviz,openstack/masakari-dashboard,Core,5.555555555555555,9.333333333333334,6,13
+openstack/stackviz,openstack/masakari-dashboard,Non core,5.555555555555555,8.0,6,13
+openstack/stackviz,openstack/freezer-dr,Core,7.6923076923076925,10.44776119402985,6,11
+openstack/stackviz,openstack/freezer-dr,Non core,3.8461538461538463,5.970149253731343,6,11
+openstack/stackviz,openstack/tempest-stress,Core,15.789473684210526,16.666666666666664,15,15
+openstack/stackviz,openstack/tempest-stress,Non core,23.684210526315788,19.047619047619047,15,15
+openstack/stackviz,openstack/charm-neutron-api-genericswitch,Core,6.0606060606060606,4.651162790697675,4,2
+openstack/stackviz,openstack/charm-neutron-api-genericswitch,Non core,6.0606060606060606,0.0,4,2
+openstack/stackviz,openstack/charm-neutron-dynamic-routing,Core,6.666666666666667,3.7037037037037033,4,4
+openstack/stackviz,openstack/charm-neutron-dynamic-routing,Non core,2.2222222222222223,3.7037037037037033,4,4
+openstack/stackviz,openstack/charm-interface-ceph-client,Core,5.128205128205128,4.166666666666666,2,3
+openstack/stackviz,openstack/charm-interface-ceph-client,Non core,0.0,2.083333333333333,2,3
+openstack/stackviz,openstack/charm-percona-cluster,Core,4.411764705882353,3.614457831325301,5,7
+openstack/stackviz,openstack/charm-percona-cluster,Non core,2.941176470588235,4.819277108433735,5,7
+openstack/stackviz,openstack/charm-deployment-guide,Core,3.225806451612903,1.4084507042253522,3,2
+openstack/stackviz,openstack/charm-deployment-guide,Non core,1.6129032258064515,1.4084507042253522,3,2
+openstack/stackviz,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/oslo.metrics,Core,2.631578947368421,3.7735849056603774,3,2
+openstack/stackviz,openstack/oslo.metrics,Non core,5.263157894736842,0.0,3,2
+openstack/stackviz,openstack/oslo.vmware,Core,5.9405940594059405,5.421686746987952,12,17
+openstack/stackviz,openstack/oslo.vmware,Non core,5.9405940594059405,4.819277108433735,12,17
+openstack/stackviz,openstack/oslo.upgradecheck,Core,8.88888888888889,14.035087719298245,6,11
+openstack/stackviz,openstack/oslo.upgradecheck,Non core,4.444444444444445,5.263157894736842,6,11
+openstack/stackviz,openstack/python-masakariclient,Core,7.575757575757576,7.59493670886076,9,13
+openstack/stackviz,openstack/python-masakariclient,Non core,6.0606060606060606,8.860759493670885,9,13
+openstack/stackviz,openstack/python-vitrageclient,Core,6.493506493506493,4.225352112676056,10,8
+openstack/stackviz,openstack/python-vitrageclient,Non core,6.493506493506493,7.042253521126761,10,8
+openstack/stackviz,openstack/python-blazarclient,Core,8.0,10.1010101010101,11,18
+openstack/stackviz,openstack/python-blazarclient,Non core,6.666666666666667,8.080808080808081,11,18
+openstack/stackviz,openstack/zaqar-tempest-plugin,Core,7.142857142857142,8.771929824561402,4,8
+openstack/stackviz,openstack/zaqar-tempest-plugin,Non core,2.380952380952381,5.263157894736842,4,8
+openstack/stackviz,openstack/tripleo-common-tempest-plugin,Core,9.30232558139535,6.25,7,9
+openstack/stackviz,openstack/tripleo-common-tempest-plugin,Non core,6.976744186046512,7.8125,7,9
+openstack/stackviz,openstack/mistral-tempest-plugin,Core,3.7735849056603774,2.898550724637681,4,6
+openstack/stackviz,openstack/mistral-tempest-plugin,Non core,3.7735849056603774,5.797101449275362,4,6
+openstack/stackviz,openstack/barbican-ui,Core,3.0303030303030303,4.0,1,2
+openstack/stackviz,openstack/barbican-ui,Non core,0.0,0.0,1,2
+openstack/stackviz,openstack/liberasurecode,Core,2.3255813953488373,1.7241379310344827,2,2
+openstack/stackviz,openstack/liberasurecode,Non core,2.3255813953488373,1.7241379310344827,2,2
+openstack/stackviz,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/os-client-config,Core,5.825242718446602,8.461538461538462,9,16
+openstack/stackviz,openstack/os-client-config,Non core,2.912621359223301,3.8461538461538463,9,16
+openstack/stackviz,openstack/monasca-specs,Core,4.761904761904762,3.0303030303030303,3,4
+openstack/stackviz,openstack/monasca-specs,Non core,2.380952380952381,3.0303030303030303,3,4
+openstack/stackviz,openstack/os-performance-tools,Core,18.421052631578945,17.02127659574468,14,14
+openstack/stackviz,openstack/os-performance-tools,Non core,18.421052631578945,12.76595744680851,14,14
+openstack/stackviz,openstack/trove-specs,Core,7.462686567164178,1.7094017094017095,6,7
+openstack/stackviz,openstack/trove-specs,Non core,1.4925373134328357,4.273504273504273,6,7
+openstack/stackviz,openstack/manila-image-elements,Core,7.142857142857142,2.5,4,6
+openstack/stackviz,openstack/manila-image-elements,Non core,0.0,5.0,4,6
+openstack/stackviz,openstack/blazar-specs,Core,5.0,8.928571428571429,2,5
+openstack/stackviz,openstack/blazar-specs,Non core,0.0,0.0,2,5
+openstack/stackviz,openstack/molteniron,Core,12.82051282051282,4.838709677419355,6,4
+openstack/stackviz,openstack/molteniron,Non core,2.564102564102564,1.6129032258064515,6,4
+openstack/stackviz,openstack/solum-specs,Core,9.090909090909092,0.0,5,2
+openstack/stackviz,openstack/solum-specs,Non core,2.272727272727273,3.278688524590164,5,2
+openstack/stackviz,openstack/patrole,Core,8.571428571428571,11.363636363636363,18,20
+openstack/stackviz,openstack/patrole,Non core,8.571428571428571,3.787878787878788,18,20
+openstack/stackviz,openstack/performance-docs,Core,4.411764705882353,4.49438202247191,5,9
+openstack/stackviz,openstack/performance-docs,Non core,2.941176470588235,5.617977528089887,5,9
+openstack/stackviz,openstack/sphinx-feature-classification,Core,6.521739130434782,12.698412698412698,7,12
+openstack/stackviz,openstack/sphinx-feature-classification,Non core,8.695652173913043,6.349206349206349,7,12
+openstack/stackviz,openstack/etcd3gw,Core,2.5,6.25,1,3
+openstack/stackviz,openstack/etcd3gw,Non core,0.0,0.0,1,3
+openstack/stackviz,openstack/watcher-specs,Core,3.9473684210526314,1.694915254237288,5,5
+openstack/stackviz,openstack/watcher-specs,Non core,2.631578947368421,2.5423728813559325,5,5
+openstack/stackviz,openstack/yaql,Core,8.620689655172415,2.272727272727273,11,8
+openstack/stackviz,openstack/yaql,Non core,10.344827586206897,6.8181818181818175,11,8
+openstack/stackviz,openstack/puppet-openstack-guide,Core,9.433962264150944,5.633802816901409,7,9
+openstack/stackviz,openstack/puppet-openstack-guide,Non core,3.7735849056603774,7.042253521126761,7,9
+openstack/stackviz,openstack/puppet-panko,Core,6.153846153846154,4.545454545454546,7,7
+openstack/stackviz,openstack/puppet-panko,Non core,4.615384615384616,6.0606060606060606,7,7
+openstack/stackviz,openstack/heat-cfnclient,Core,6.122448979591836,9.67741935483871,6,11
+openstack/stackviz,openstack/heat-cfnclient,Non core,6.122448979591836,8.064516129032258,6,11
+openstack/stackviz,openstack/heat-cfntools,Core,6.944444444444445,4.081632653061225,10,11
+openstack/stackviz,openstack/heat-cfntools,Non core,6.944444444444445,7.142857142857142,10,11
+openstack/stackviz,openstack/heat-templates,Core,3.787878787878788,1.4084507042253522,6,6
+openstack/stackviz,openstack/heat-templates,Non core,0.7575757575757576,1.4084507042253522,6,6
+openstack/stackviz,openstack/governance-sigs,Core,6.557377049180328,6.2015503875969,6,13
+openstack/stackviz,openstack/governance-sigs,Non core,3.278688524590164,3.875968992248062,6,13
+openstack/stackviz,openstack/openstack-zuul-roles,Core,8.823529411764707,4.166666666666666,3,3
+openstack/stackviz,openstack/openstack-zuul-roles,Non core,0.0,2.083333333333333,3,3
+openstack/stackviz,openstack/nova-powervm,Core,4.761904761904762,3.90625,6,11
+openstack/stackviz,openstack/nova-powervm,Non core,2.380952380952381,4.6875,6,11
+openstack/stackviz,openstack/openstack-helm-addons,Core,0.0,1.3793103448275863,1,8
+openstack/stackviz,openstack/openstack-helm-addons,Non core,1.4492753623188406,4.137931034482759,1,8
+openstack/stackviz,openstack/python-pankoclient,Core,7.8431372549019605,7.142857142857142,7,10
+openstack/stackviz,openstack/python-pankoclient,Non core,5.88235294117647,7.142857142857142,7,10
+openstack/stackviz,openstack/qa-specs,Core,11.267605633802818,8.208955223880597,10,17
+openstack/stackviz,openstack/qa-specs,Non core,2.8169014084507045,4.477611940298507,10,17
+openstack/stackviz,openstack/zaqar-specs,Core,7.936507936507936,3.0927835051546393,6,8
+openstack/stackviz,openstack/zaqar-specs,Non core,1.5873015873015872,5.154639175257731,6,8
+openstack/stackviz,openstack/swift-bench,Core,0.0,2.73972602739726,3,4
+openstack/stackviz,openstack/swift-bench,Non core,6.25,2.73972602739726,3,4
+openstack/stackviz,openstack/whereto,Core,9.523809523809524,8.928571428571429,8,6
+openstack/stackviz,openstack/whereto,Non core,9.523809523809524,1.7857142857142856,8,6
+openstack/stackviz,openstack/murano-specs,Core,5.797101449275362,1.0309278350515463,6,5
+openstack/stackviz,openstack/murano-specs,Non core,2.898550724637681,4.123711340206185,6,5
+openstack/stackviz,openstack/ansible-role-tripleo-modify-image,Core,5.172413793103448,4.25531914893617,4,9
+openstack/stackviz,openstack/ansible-role-tripleo-modify-image,Non core,1.7241379310344827,5.319148936170213,4,9
+openstack/stackviz,openstack/requestsexceptions,Core,8.333333333333332,3.9215686274509802,4,6
+openstack/stackviz,openstack/requestsexceptions,Non core,2.7777777777777777,7.8431372549019605,4,6
+openstack/stackviz,openstack/panko,Core,6.185567010309279,6.25,8,14
+openstack/stackviz,openstack/panko,Non core,2.0618556701030926,4.6875,8,14
+openstack/stackviz,openstack/api-sig,Core,3.7037037037037033,2.6785714285714284,3,11
+openstack/stackviz,openstack/api-sig,Non core,0.0,2.232142857142857,3,11
+openstack/stackviz,openstack/openstack-chef-specs,Core,5.769230769230769,6.0606060606060606,4,9
+openstack/stackviz,openstack/openstack-chef-specs,Non core,1.9230769230769231,7.575757575757576,4,9
+openstack/stackviz,openstack/freezer-specs,Core,8.51063829787234,4.918032786885246,7,6
+openstack/stackviz,openstack/freezer-specs,Non core,6.382978723404255,4.918032786885246,7,6
+openstack/stackviz,openstack/oslo.tools,Core,6.779661016949152,8.19672131147541,6,8
+openstack/stackviz,openstack/oslo.tools,Non core,3.389830508474576,4.918032786885246,6,8
+openstack/stackviz,openstack/microversion-parse,Core,5.128205128205128,5.88235294117647,3,4
+openstack/stackviz,openstack/microversion-parse,Non core,2.564102564102564,1.9607843137254901,3,4
+openstack/stackviz,openstack/openstackclient,Core,7.8431372549019605,10.9375,6,11
+openstack/stackviz,openstack/openstackclient,Non core,3.9215686274509802,6.25,6,11
+openstack/stackviz,openstack/ossa,Core,3.9215686274509802,5.434782608695652,3,9
+openstack/stackviz,openstack/ossa,Non core,1.9607843137254901,4.3478260869565215,3,9
+openstack/stackviz,openstack/reviewstats,Core,4.807692307692308,6.0402684563758395,6,12
+openstack/stackviz,openstack/reviewstats,Non core,0.9615384615384616,2.013422818791946,6,12
+openstack/stackviz,openstack/oslo-cookiecutter,Core,7.8431372549019605,11.475409836065573,4,11
+openstack/stackviz,openstack/oslo-cookiecutter,Non core,0.0,6.557377049180328,4,11
+openstack/stackviz,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/security-analysis,Core,5.405405405405405,6.896551724137931,4,6
+openstack/stackviz,openstack/security-analysis,Non core,5.405405405405405,3.4482758620689653,4,6
+openstack/stackviz,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/ansible-role-tripleo-keystone,Core,5.555555555555555,2.272727272727273,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-keystone,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/openstack-ansible-apt_package_pinning,Core,9.836065573770492,4.10958904109589,8,10
+openstack/stackviz,openstack/openstack-ansible-apt_package_pinning,Non core,3.278688524590164,9.58904109589041,8,10
+openstack/stackviz,openstack/ansible-role-qdrouterd,Core,4.761904761904762,4.6875,3,6
+openstack/stackviz,openstack/ansible-role-qdrouterd,Non core,2.380952380952381,4.6875,3,6
+openstack/stackviz,openstack/openstack-ansible-openstack_openrc,Core,7.042253521126761,2.4390243902439024,9,10
+openstack/stackviz,openstack/openstack-ansible-openstack_openrc,Non core,5.633802816901409,9.75609756097561,9,10
+openstack/stackviz,openstack/openstack-ansible-nspawn_container_create,Core,6.122448979591836,4.761904761904762,5,9
+openstack/stackviz,openstack/openstack-ansible-nspawn_container_create,Non core,4.081632653061225,9.523809523809524,5,9
+openstack/stackviz,openstack/devstack-tools,Core,15.384615384615385,18.6046511627907,11,14
+openstack/stackviz,openstack/devstack-tools,Non core,12.82051282051282,13.953488372093023,11,14
+openstack/stackviz,openstack/coverage2sql,Core,20.930232558139537,26.190476190476193,14,18
+openstack/stackviz,openstack/coverage2sql,Non core,11.627906976744185,16.666666666666664,14,18
+openstack/stackviz,openstack/bashate,Core,14.925373134328357,15.0,15,15
+openstack/stackviz,openstack/bashate,Non core,7.462686567164178,3.75,15,15
+openstack/stackviz,openstack/hacking,Core,10.679611650485436,9.941520467836257,17,25
+openstack/stackviz,openstack/hacking,Non core,5.825242718446602,4.678362573099415,17,25
+openstack/stackviz,openstack/xstatic-mdi,Core,2.631578947368421,2.0408163265306123,1,3
+openstack/stackviz,openstack/xstatic-mdi,Non core,0.0,4.081632653061225,1,3
+openstack/stackviz,openstack/xstatic-roboto-fontface,Core,2.7027027027027026,2.0,1,3
+openstack/stackviz,openstack/xstatic-roboto-fontface,Non core,0.0,4.0,1,3
+openstack/stackviz,openstack/openstack-chef,Core,3.6363636363636362,5.555555555555555,3,5
+openstack/stackviz,openstack/openstack-chef,Non core,1.8181818181818181,3.7037037037037033,3,5
+openstack/stackviz,openstack/cookbook-openstackclient,Core,0.0,2.127659574468085,1,4
+openstack/stackviz,openstack/cookbook-openstackclient,Non core,2.564102564102564,6.382978723404255,1,4
+openstack/stackviz,openstack/xstatic-angular,Core,2.3255813953488373,3.508771929824561,1,4
+openstack/stackviz,openstack/xstatic-angular,Non core,0.0,3.508771929824561,1,4
+openstack/stackviz,openstack/charm-interface-hacluster,Core,4.166666666666666,1.9230769230769231,3,4
+openstack/stackviz,openstack/charm-interface-hacluster,Non core,2.083333333333333,5.769230769230769,3,4
+openstack/stackviz,openstack/puppet-openstack-specs,Core,7.6923076923076925,1.0869565217391304,6,4
+openstack/stackviz,openstack/puppet-openstack-specs,Non core,3.8461538461538463,3.260869565217391,6,4
+openstack/stackviz,openstack/puppet-monasca,Core,3.278688524590164,0.8695652173913043,3,5
+openstack/stackviz,openstack/puppet-monasca,Non core,1.639344262295082,3.4782608695652173,3,5
+openstack/stackviz,openstack/eslint-config-openstack,Core,11.904761904761903,12.162162162162163,7,13
+openstack/stackviz,openstack/eslint-config-openstack,Non core,4.761904761904762,5.405405405405405,7,13
+openstack/stackviz,openstack/karma-subunit-reporter,Core,15.625,9.75609756097561,5,5
+openstack/stackviz,openstack/karma-subunit-reporter,Non core,0.0,2.4390243902439024,5,5
+openstack/stackviz,openstack/openstack-helm-docs,Core,2.564102564102564,5.0,1,5
+openstack/stackviz,openstack/openstack-helm-docs,Non core,0.0,3.3333333333333335,1,5
+openstack/stackviz,openstack/openstack-ansible-specs,Core,4.938271604938271,2.7777777777777777,7,7
+openstack/stackviz,openstack/openstack-ansible-specs,Non core,3.7037037037037033,2.083333333333333,7,7
+openstack/stackviz,openstack/tempest-lib,Core,7.042253521126761,4.918032786885246,5,9
+openstack/stackviz,openstack/tempest-lib,Non core,0.0,2.459016393442623,5,9
+openstack/stackviz,openstack/tripleo-ha-utils,Core,2.5,0.0,1,3
+openstack/stackviz,openstack/tripleo-ha-utils,Non core,0.0,4.838709677419355,1,3
+openstack/stackviz,openstack/devstack-vagrant,Core,4.444444444444445,6.896551724137931,2,6
+openstack/stackviz,openstack/devstack-vagrant,Non core,0.0,3.4482758620689653,2,6
+openstack/stackviz,openstack/goal-tools,Core,8.108108108108109,13.043478260869565,3,11
+openstack/stackviz,openstack/goal-tools,Non core,0.0,10.869565217391305,3,11
+openstack/stackviz,openstack/cookiecutter,Core,11.76470588235294,10.416666666666668,8,13
+openstack/stackviz,openstack/cookiecutter,Non core,0.0,3.125,8,13
+openstack/stackviz,openstack/dib-utils,Core,9.30232558139535,4.10958904109589,5,5
+openstack/stackviz,openstack/dib-utils,Non core,2.3255813953488373,2.73972602739726,5,5
+openstack/stackviz,openstack/constellations,Core,5.714285714285714,10.416666666666668,3,7
+openstack/stackviz,openstack/constellations,Non core,2.857142857142857,4.166666666666666,3,7
+openstack/stackviz,openstack/cookbook-openstack-integration-test,Core,2.0408163265306123,2.898550724637681,2,4
+openstack/stackviz,openstack/cookbook-openstack-integration-test,Non core,2.0408163265306123,2.898550724637681,2,4
+openstack/stackviz,openstack/cookbook-openstack-dashboard,Core,2.666666666666667,1.9047619047619049,3,4
+openstack/stackviz,openstack/cookbook-openstack-dashboard,Non core,1.3333333333333335,1.9047619047619049,3,4
+openstack/stackviz,openstack/cookbook-openstack-telemetry,Core,2.631578947368421,2.3255813953488373,3,4
+openstack/stackviz,openstack/cookbook-openstack-telemetry,Non core,1.3157894736842104,2.3255813953488373,3,4
+openstack/stackviz,openstack/cookbook-openstack-orchestration,Core,3.0303030303030303,3.3333333333333335,3,5
+openstack/stackviz,openstack/cookbook-openstack-orchestration,Non core,1.5151515151515151,2.2222222222222223,3,5
+openstack/stackviz,openstack/cookbook-openstack-bare-metal,Core,2.4390243902439024,3.508771929824561,2,4
+openstack/stackviz,openstack/cookbook-openstack-bare-metal,Non core,2.4390243902439024,3.508771929824561,2,4
+openstack/stackviz,openstack/cookbook-openstack-dns,Core,0.0,4.444444444444445,1,6
+openstack/stackviz,openstack/cookbook-openstack-dns,Non core,2.7027027027027026,8.88888888888889,1,6
+openstack/stackviz,openstack/cookbook-openstack-compute,Core,2.1052631578947367,1.550387596899225,3,4
+openstack/stackviz,openstack/cookbook-openstack-compute,Non core,1.0526315789473684,1.550387596899225,3,4
+openstack/stackviz,openstack/cookbook-openstack-network,Core,2.0618556701030926,1.639344262295082,3,6
+openstack/stackviz,openstack/cookbook-openstack-network,Non core,1.0309278350515463,3.278688524590164,3,6
+openstack/stackviz,openstack/cookbook-openstack-block-storage,Core,3.3333333333333335,1.9047619047619049,4,4
+openstack/stackviz,openstack/cookbook-openstack-block-storage,Non core,1.1111111111111112,1.9047619047619049,4,4
+openstack/stackviz,openstack/cookbook-openstack-image,Core,2.4390243902439024,2.912621359223301,3,5
+openstack/stackviz,openstack/cookbook-openstack-image,Non core,1.2195121951219512,1.9417475728155338,3,5
+openstack/stackviz,openstack/cookbook-openstack-identity,Core,3.614457831325301,1.8181818181818181,4,4
+openstack/stackviz,openstack/cookbook-openstack-identity,Non core,1.2048192771084338,1.8181818181818181,4,4
+openstack/stackviz,openstack/cookbook-openstack-ops-database,Core,3.076923076923077,1.1627906976744187,3,2
+openstack/stackviz,openstack/cookbook-openstack-ops-database,Non core,1.5384615384615385,1.1627906976744187,3,2
+openstack/stackviz,openstack/cookbook-openstack-ops-messaging,Core,3.4482758620689653,1.2987012987012987,3,4
+openstack/stackviz,openstack/cookbook-openstack-ops-messaging,Non core,1.7241379310344827,3.896103896103896,3,4
+openstack/stackviz,openstack/cookbook-openstack-common,Core,3.296703296703297,1.574803149606299,4,4
+openstack/stackviz,openstack/cookbook-openstack-common,Non core,1.098901098901099,1.574803149606299,4,4
+openstack/stackviz,openstack/self-healing-sig,Core,5.0,3.1746031746031744,3,2
+openstack/stackviz,openstack/self-healing-sig,Non core,2.5,0.0,3,2
+openstack/stackviz,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/security-specs,Core,9.090909090909092,1.4925373134328357,4,3
+openstack/stackviz,openstack/security-specs,Non core,0.0,2.9850746268656714,4,3
+openstack/stackviz,openstack/openstack-ansible-os_panko,Core,7.8431372549019605,8.695652173913043,6,10
+openstack/stackviz,openstack/openstack-ansible-os_panko,Non core,3.9215686274509802,5.797101449275362,6,10
+openstack/stackviz,openstack/openstack-ansible-nspawn_hosts,Core,8.16326530612245,3.0303030303030303,6,8
+openstack/stackviz,openstack/openstack-ansible-nspawn_hosts,Non core,4.081632653061225,9.090909090909092,6,8
+openstack/stackviz,openstack/charm-layer-openstack-principle,Core,5.714285714285714,0.0,3,0
+openstack/stackviz,openstack/charm-layer-openstack-principle,Non core,2.857142857142857,0.0,3,0
+openstack/stackviz,openstack/charm-watcher-dashboard,Core,5.88235294117647,2.0408163265306123,2,1
+openstack/stackviz,openstack/charm-watcher-dashboard,Non core,0.0,0.0,2,1
+openstack/stackviz,openstack/charm-watcher,Core,5.555555555555555,1.7241379310344827,2,1
+openstack/stackviz,openstack/charm-watcher,Non core,0.0,0.0,2,1
+openstack/stackviz,openstack/openstack-ansible-galera_client,Core,9.210526315789473,3.4482758620689653,11,10
+openstack/stackviz,openstack/openstack-ansible-galera_client,Non core,5.263157894736842,8.045977011494253,11,10
+openstack/stackviz,openstack/cloudkitty-specs,Core,6.666666666666667,3.0303030303030303,4,3
+openstack/stackviz,openstack/cloudkitty-specs,Non core,2.2222222222222223,1.5151515151515151,4,3
+openstack/stackviz,openstack/osops,Core,2.7027027027027026,6.521739130434782,1,3
+openstack/stackviz,openstack/osops,Non core,0.0,0.0,1,3
+openstack/stackviz,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/charm-ironic,Core,8.571428571428571,4.878048780487805,3,2
+openstack/stackviz,openstack/charm-ironic,Non core,0.0,0.0,3,2
+openstack/stackviz,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/multi-arch-sig,Core,2.941176470588235,4.444444444444445,1,2
+openstack/stackviz,openstack/multi-arch-sig,Non core,0.0,0.0,1,2
+openstack/stackviz,openstack/charm-nova-compute-proxy,Core,4.878048780487805,2.0,3,2
+openstack/stackviz,openstack/charm-nova-compute-proxy,Non core,2.4390243902439024,2.0,3,2
+openstack/stackviz,openstack/charm-odl-controller,Core,4.651162790697675,2.083333333333333,2,2
+openstack/stackviz,openstack/charm-odl-controller,Non core,0.0,2.083333333333333,2,2
+openstack/stackviz,openstack/charm-nova-lxd,Core,6.122448979591836,3.389830508474576,4,5
+openstack/stackviz,openstack/charm-nova-lxd,Non core,2.0408163265306123,5.084745762711865,4,5
+openstack/stackviz,openstack/charm-interface-nova-cell,Core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/xstatic-lodash,Core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/xstatic-lodash,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/xstatic-moment,Core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/xstatic-moment,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/charm-interface-barbican-secrets,Core,2.7027027027027026,2.272727272727273,2,3
+openstack/stackviz,openstack/charm-interface-barbican-secrets,Non core,2.7027027027027026,4.545454545454546,2,3
+openstack/stackviz,openstack/charm-interface-mysql-innodb-cluster,Core,3.0303030303030303,0.0,1,0
+openstack/stackviz,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/stackviz,openstack/charm-interface-ceph-rbd-mirror,Core,2.7777777777777777,2.2222222222222223,2,3
+openstack/stackviz,openstack/charm-interface-ceph-rbd-mirror,Non core,2.7777777777777777,4.444444444444445,2,3
+openstack/stackviz,openstack/charm-interface-placement,Core,3.0303030303030303,0.0,2,0
+openstack/stackviz,openstack/charm-interface-placement,Non core,3.0303030303030303,0.0,2,0
+openstack/stackviz,openstack/charm-interface-mysql-shared,Core,7.894736842105263,0.0,3,1
+openstack/stackviz,openstack/charm-interface-mysql-shared,Non core,0.0,2.127659574468085,3,1
+openstack/stackviz,openstack/charm-interface-dashboard-plugin,Core,2.7027027027027026,2.272727272727273,2,3
+openstack/stackviz,openstack/charm-interface-dashboard-plugin,Non core,2.7027027027027026,4.545454545454546,2,3
+openstack/stackviz,openstack/charm-interface-neutron-load-balancer,Core,2.7027027027027026,2.272727272727273,2,3
+openstack/stackviz,openstack/charm-interface-neutron-load-balancer,Non core,2.7027027027027026,4.545454545454546,2,3
+openstack/stackviz,openstack/charm-interface-neutron-plugin-api-subordinate,Core,7.894736842105263,4.25531914893617,4,2
+openstack/stackviz,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,2.631578947368421,0.0,4,2
+openstack/stackviz,openstack/charm-interface-neutron-plugin,Core,8.333333333333332,2.2222222222222223,3,2
+openstack/stackviz,openstack/charm-interface-neutron-plugin,Non core,0.0,2.2222222222222223,3,2
+openstack/stackviz,openstack/xstatic-json2yaml,Core,3.0303030303030303,2.4390243902439024,1,1
+openstack/stackviz,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/xstatic-jquery.tablesorter,Core,2.941176470588235,4.761904761904762,1,3
+openstack/stackviz,openstack/xstatic-jquery.tablesorter,Non core,0.0,2.380952380952381,1,3
+openstack/stackviz,openstack/xstatic-magic-search,Core,2.564102564102564,1.9230769230769231,1,3
+openstack/stackviz,openstack/xstatic-magic-search,Non core,0.0,3.8461538461538463,1,3
+openstack/stackviz,openstack/xstatic-jsencrypt,Core,2.7027027027027026,1.9230769230769231,1,3
+openstack/stackviz,openstack/xstatic-jsencrypt,Non core,0.0,3.8461538461538463,1,3
+openstack/stackviz,openstack/xstatic-js-yaml,Core,2.941176470588235,2.380952380952381,1,1
+openstack/stackviz,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/xstatic-spin,Core,2.941176470588235,4.761904761904762,1,3
+openstack/stackviz,openstack/xstatic-spin,Non core,0.0,2.380952380952381,1,3
+openstack/stackviz,openstack/xstatic-rickshaw,Core,2.631578947368421,2.0408163265306123,1,3
+openstack/stackviz,openstack/xstatic-rickshaw,Non core,0.0,4.081632653061225,1,3
+openstack/stackviz,openstack/charm-panko,Core,2.7777777777777777,4.081632653061225,2,3
+openstack/stackviz,openstack/charm-panko,Non core,2.7777777777777777,2.0408163265306123,2,3
+openstack/stackviz,openstack/charm-interface-service-control,Core,2.631578947368421,2.1739130434782608,2,3
+openstack/stackviz,openstack/charm-interface-service-control,Non core,2.631578947368421,4.3478260869565215,2,3
+openstack/stackviz,openstack/openstack-ansible-os_almanach,Core,7.8431372549019605,4.615384615384616,7,8
+openstack/stackviz,openstack/openstack-ansible-os_almanach,Non core,5.88235294117647,7.6923076923076925,7,8
+openstack/stackviz,openstack/openstack-ansible-pip_install,Core,6.8493150684931505,4.0,8,11
+openstack/stackviz,openstack/openstack-ansible-pip_install,Non core,4.10958904109589,7.000000000000001,8,11
+openstack/stackviz,openstack/python-karborclient,Core,5.128205128205128,6.451612903225806,7,11
+openstack/stackviz,openstack/python-karborclient,Non core,3.8461538461538463,5.376344086021505,7,11
+openstack/stackviz,openstack/charm-interface-keystone-admin,Core,8.823529411764707,0.0,3,1
+openstack/stackviz,openstack/charm-interface-keystone-admin,Non core,0.0,2.272727272727273,3,1
+openstack/stackviz,openstack/charm-interface-nova-compute,Core,5.263157894736842,2.083333333333333,3,3
+openstack/stackviz,openstack/charm-interface-nova-compute,Non core,2.631578947368421,4.166666666666666,3,3
+openstack/stackviz,openstack/charm-interface-manila-plugin,Core,5.714285714285714,2.2222222222222223,3,2
+openstack/stackviz,openstack/charm-interface-manila-plugin,Non core,2.857142857142857,2.2222222222222223,3,2
+openstack/stackviz,openstack/murano-apps,Core,6.25,2.8301886792452833,5,5
+openstack/stackviz,openstack/murano-apps,Non core,0.0,1.8867924528301887,5,5
+openstack/stackviz,openstack/puppet-senlin,Core,6.8181818181818175,3.6363636363636362,4,3
+openstack/stackviz,openstack/puppet-senlin,Non core,2.272727272727273,1.8181818181818181,4,3
+openstack/stackviz,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,1,2
+openstack/stackviz,openstack/cookbook-openstack-application-catalog,Non core,2.7027027027027026,4.3478260869565215,1,2
+openstack/stackviz,openstack/training-labs,Core,8.47457627118644,6.8493150684931505,11,12
+openstack/stackviz,openstack/training-labs,Non core,10.16949152542373,9.58904109589041,11,12
+openstack/stackviz,openstack/karbor,Core,3.571428571428571,4.2105263157894735,6,14
+openstack/stackviz,openstack/karbor,Non core,0.7142857142857143,3.1578947368421053,6,14
+openstack/stackviz,openstack/devstack-plugin-open-cas,Core,6.0606060606060606,8.695652173913043,2,4
+openstack/stackviz,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,2,4
+openstack/stackviz,openstack/openstack-ansible-os_congress,Core,7.547169811320755,5.405405405405405,5,10
+openstack/stackviz,openstack/openstack-ansible-os_congress,Non core,1.8867924528301887,8.108108108108109,5,10
+openstack/stackviz,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/charm-interface-keystone-notifications,Core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/os-collect-config,Core,7.894736842105263,3.0303030303030303,10,12
+openstack/stackviz,openstack/os-collect-config,Non core,5.263157894736842,6.0606060606060606,10,12
+openstack/stackviz,openstack/os-apply-config,Core,10.81081081081081,4.878048780487805,11,13
+openstack/stackviz,openstack/os-apply-config,Non core,4.054054054054054,5.691056910569105,11,13
+openstack/stackviz,openstack/puppet-freezer,Core,5.88235294117647,4.918032786885246,6,6
+openstack/stackviz,openstack/puppet-freezer,Non core,5.88235294117647,4.918032786885246,6,6
+openstack/stackviz,openstack/vitrage-specs,Core,6.557377049180328,0.0,9,7
+openstack/stackviz,openstack/vitrage-specs,Non core,8.19672131147541,8.333333333333332,9,7
+openstack/stackviz,openstack/specs-cookiecutter,Core,10.81081081081081,12.5,4,7
+openstack/stackviz,openstack/specs-cookiecutter,Non core,0.0,2.083333333333333,4,7
+openstack/stackviz,openstack/rpm-packaging-tools,Core,10.0,6.779661016949152,4,7
+openstack/stackviz,openstack/rpm-packaging-tools,Non core,0.0,5.084745762711865,4,7
+openstack/stackviz,openstack/ansible-role-openstack-operations,Core,4.444444444444445,1.7857142857142856,3,2
+openstack/stackviz,openstack/ansible-role-openstack-operations,Non core,2.2222222222222223,1.7857142857142856,3,2
+openstack/stackviz,openstack/os-refresh-config,Core,7.936507936507936,3.8461538461538463,8,11
+openstack/stackviz,openstack/os-refresh-config,Non core,4.761904761904762,6.730769230769231,8,11
+openstack/stackviz,openstack/mistral-specs,Core,7.017543859649122,2.666666666666667,4,4
+openstack/stackviz,openstack/mistral-specs,Non core,0.0,2.666666666666667,4,4
+openstack/stackviz,openstack/scientific-wg,Core,5.88235294117647,4.651162790697675,2,3
+openstack/stackviz,openstack/scientific-wg,Non core,0.0,2.3255813953488373,2,3
+openstack/stackviz,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,2.2222222222222223,0,1
+openstack/stackviz,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/manila-test-image,Core,5.88235294117647,6.0,2,6
+openstack/stackviz,openstack/manila-test-image,Non core,0.0,6.0,2,6
+openstack/stackviz,openstack/governance-website,Core,5.128205128205128,7.4074074074074066,3,7
+openstack/stackviz,openstack/governance-website,Non core,2.564102564102564,5.555555555555555,3,7
+openstack/stackviz,openstack/bugdaystats,Core,2.7777777777777777,7.8431372549019605,1,5
+openstack/stackviz,openstack/bugdaystats,Non core,0.0,1.9607843137254901,1,5
+openstack/stackviz,openstack/upstream-institute-virtual-environment,Core,0.0,3.9215686274509802,1,2
+openstack/stackviz,openstack/upstream-institute-virtual-environment,Non core,2.631578947368421,0.0,1,2
+openstack/stackviz,openstack/karbor-dashboard,Core,4.615384615384616,8.333333333333332,5,15
+openstack/stackviz,openstack/karbor-dashboard,Non core,3.076923076923077,9.523809523809524,5,15
+openstack/stackviz,openstack/django_openstack_auth,Core,4.761904761904762,1.5,5,5
+openstack/stackviz,openstack/django_openstack_auth,Non core,0.0,1.0,5,5
+openstack/stackviz,openstack/monasca-transform,Core,9.375,4.938271604938271,9,11
+openstack/stackviz,openstack/monasca-transform,Non core,4.6875,8.641975308641975,9,11
+openstack/stackviz,openstack/monasca-ceilometer,Core,6.8493150684931505,4.854368932038835,9,11
+openstack/stackviz,openstack/monasca-ceilometer,Non core,5.47945205479452,5.825242718446602,9,11
+openstack/stackviz,openstack/monasca-log-api,Core,7.4074074074074066,5.833333333333333,7,14
+openstack/stackviz,openstack/monasca-log-api,Non core,1.2345679012345678,5.833333333333333,7,14
+openstack/stackviz,openstack/nose-html-output,Core,7.894736842105263,8.16326530612245,3,6
+openstack/stackviz,openstack/nose-html-output,Non core,0.0,4.081632653061225,3,6
+openstack/stackviz,openstack/kolla-cli,Core,1.9230769230769231,4.3478260869565215,2,9
+openstack/stackviz,openstack/kolla-cli,Non core,1.9230769230769231,8.695652173913043,2,9
+openstack/stackviz,openstack/neutron-lbaas-dashboard,Core,6.944444444444445,7.894736842105263,8,15
+openstack/stackviz,openstack/neutron-lbaas-dashboard,Non core,4.166666666666666,5.263157894736842,8,15
+openstack/stackviz,openstack/searchlight,Core,3.546099290780142,3.0303030303030303,9,11
+openstack/stackviz,openstack/searchlight,Non core,2.8368794326241136,3.6363636363636362,9,11
+openstack/stackviz,openstack/searchlight-ui,Core,7.142857142857142,5.88235294117647,8,7
+openstack/stackviz,openstack/searchlight-ui,Non core,4.285714285714286,2.3529411764705883,8,7
+openstack/stackviz,openstack/searchlight-specs,Core,8.0,2.8169014084507045,6,5
+openstack/stackviz,openstack/searchlight-specs,Non core,4.0,4.225352112676056,6,5
+openstack/stackviz,openstack/python-searchlightclient,Core,7.246376811594203,4.761904761904762,8,11
+openstack/stackviz,openstack/python-searchlightclient,Non core,4.3478260869565215,8.333333333333332,8,11
+openstack/stackviz,openstack/charm-tempest,Core,8.16326530612245,5.084745762711865,5,6
+openstack/stackviz,openstack/charm-tempest,Non core,2.0408163265306123,5.084745762711865,5,6
+openstack/stackviz,openstack/charm-barbican-softhsm,Core,6.382978723404255,3.6363636363636362,4,5
+openstack/stackviz,openstack/charm-barbican-softhsm,Non core,2.127659574468085,5.454545454545454,4,5
+openstack/stackviz,openstack/cookbook-openstack-client,Core,2.631578947368421,0.0,2,1
+openstack/stackviz,openstack/cookbook-openstack-client,Non core,2.631578947368421,1.8518518518518516,2,1
+openstack/stackviz,openstack/instack-undercloud,Core,3.149606299212598,1.2711864406779663,7,9
+openstack/stackviz,openstack/instack-undercloud,Non core,2.3622047244094486,2.5423728813559325,7,9
+openstack/stackviz,openstack/publiccloud-sig,Core,5.555555555555555,6.521739130434782,3,4
+openstack/stackviz,openstack/publiccloud-sig,Non core,2.7777777777777777,2.1739130434782608,3,4
+openstack/stackviz,openstack/ideas,Core,5.714285714285714,7.6923076923076925,2,5
+openstack/stackviz,openstack/ideas,Non core,0.0,0.0,2,5
+openstack/stackviz,openstack/uc-recognition,Core,2.941176470588235,2.083333333333333,1,2
+openstack/stackviz,openstack/uc-recognition,Non core,0.0,2.083333333333333,1,2
+openstack/stackviz,openstack/ops-tags-team,Core,2.4390243902439024,4.411764705882353,1,5
+openstack/stackviz,openstack/ops-tags-team,Non core,0.0,2.941176470588235,1,5
+openstack/stackviz,openstack/enterprise-wg,Core,3.125,2.5,1,1
+openstack/stackviz,openstack/enterprise-wg,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/governance-uc,Core,6.0,4.705882352941177,4,10
+openstack/stackviz,openstack/governance-uc,Non core,2.0,7.0588235294117645,4,10
+openstack/stackviz,openstack/workload-ref-archs,Core,7.5,6.122448979591836,5,7
+openstack/stackviz,openstack/workload-ref-archs,Non core,5.0,8.16326530612245,5,7
+openstack/stackviz,openstack/arch-wg,Core,2.857142857142857,1.8181818181818181,1,2
+openstack/stackviz,openstack/arch-wg,Non core,0.0,1.8181818181818181,1,2
+openstack/stackviz,openstack/project-navigator-data,Core,8.51063829787234,6.557377049180328,4,5
+openstack/stackviz,openstack/project-navigator-data,Non core,0.0,1.639344262295082,4,5
+openstack/stackviz,openstack/openstack-specs,Core,8.333333333333332,4.739336492890995,4,11
+openstack/stackviz,openstack/openstack-specs,Non core,0.0,0.47393364928909953,4,11
+openstack/stackviz,openstack/openstack-ansible-os_monasca,Core,8.19672131147541,4.819277108433735,8,11
+openstack/stackviz,openstack/openstack-ansible-os_monasca,Non core,4.918032786885246,8.433734939759036,8,11
+openstack/stackviz,openstack/openstack-ansible-os_monasca-agent,Core,5.88235294117647,4.411764705882353,6,8
+openstack/stackviz,openstack/openstack-ansible-os_monasca-agent,Non core,5.88235294117647,7.352941176470589,6,8
+openstack/stackviz,openstack/ironic-inspector-specs,Core,5.660377358490567,1.2048192771084338,4,4
+openstack/stackviz,openstack/ironic-inspector-specs,Non core,1.8867924528301887,3.614457831325301,4,4
+openstack/stackviz,openstack/sushy-cli,Core,5.263157894736842,2.0,3,1
+openstack/stackviz,openstack/sushy-cli,Non core,2.631578947368421,0.0,3,1
+openstack/stackviz,openstack/puppet-glare,Core,7.2727272727272725,4.615384615384616,7,5
+openstack/stackviz,openstack/puppet-glare,Non core,5.454545454545454,3.076923076923077,7,5
+openstack/stackviz,openstack/xstatic-bootstrap-scss,Core,2.631578947368421,3.9215686274509802,1,4
+openstack/stackviz,openstack/xstatic-bootstrap-scss,Non core,0.0,3.9215686274509802,1,4
+openstack/stackviz,openstack/openstack-planet,Core,3.2520325203252036,3.546099290780142,9,7
+openstack/stackviz,openstack/openstack-planet,Non core,0.40650406504065045,1.4184397163120568,9,7
+openstack/stackviz,openstack/charm-interface-keystone-credentials,Core,7.6923076923076925,2.127659574468085,3,2
+openstack/stackviz,openstack/charm-interface-keystone-credentials,Non core,0.0,2.127659574468085,3,2
+openstack/stackviz,openstack/monasca-kibana-plugin,Core,4.878048780487805,3.508771929824561,2,3
+openstack/stackviz,openstack/monasca-kibana-plugin,Non core,0.0,1.7543859649122806,2,3
+openstack/stackviz,openstack/charm-interface-keystone-domain-backend,Core,8.333333333333332,2.272727272727273,3,1
+openstack/stackviz,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,1
+openstack/stackviz,openstack/devstack-plugin-amqp1,Core,13.157894736842104,9.25925925925926,6,7
+openstack/stackviz,openstack/devstack-plugin-amqp1,Non core,2.631578947368421,3.7037037037037033,6,7
+openstack/stackviz,openstack/devstack-plugin-kafka,Core,8.333333333333332,8.0,4,7
+openstack/stackviz,openstack/devstack-plugin-kafka,Non core,2.7777777777777777,6.0,4,7
+openstack/stackviz,openstack/tripleo-ipsec,Core,7.5,3.508771929824561,4,3
+openstack/stackviz,openstack/tripleo-ipsec,Non core,2.5,1.7543859649122806,4,3
+openstack/stackviz,openstack/monasca-grafana-datasource,Core,2.380952380952381,0.0,1,2
+openstack/stackviz,openstack/monasca-grafana-datasource,Non core,0.0,3.225806451612903,1,2
+openstack/stackviz,openstack/charm-interface-bind-rndc,Core,7.894736842105263,2.1739130434782608,3,2
+openstack/stackviz,openstack/charm-interface-bind-rndc,Non core,0.0,2.1739130434782608,3,2
+openstack/stackviz,openstack/charm-interface-rabbitmq,Core,8.108108108108109,2.127659574468085,3,2
+openstack/stackviz,openstack/charm-interface-rabbitmq,Non core,0.0,2.127659574468085,3,2
+openstack/stackviz,openstack/charm-interface-openstack-ha,Core,5.405405405405405,4.3478260869565215,2,3
+openstack/stackviz,openstack/charm-interface-openstack-ha,Non core,0.0,2.1739130434782608,2,3
+openstack/stackviz,openstack/charm-interface-gnocchi,Core,8.571428571428571,3.7735849056603774,3,2
+openstack/stackviz,openstack/charm-interface-gnocchi,Non core,0.0,0.0,3,2
+openstack/stackviz,openstack/charm-interface-bgp,Core,8.333333333333332,2.1739130434782608,4,2
+openstack/stackviz,openstack/charm-interface-bgp,Non core,2.7777777777777777,2.1739130434782608,4,2
+openstack/stackviz,openstack/charm-interface-websso-fid-service-provider,Core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/charm-interface-designate,Core,2.857142857142857,2.272727272727273,1,1
+openstack/stackviz,openstack/charm-interface-designate,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/tempest-horizon,Core,10.869565217391305,7.4074074074074066,7,8
+openstack/stackviz,openstack/tempest-horizon,Non core,4.3478260869565215,7.4074074074074066,7,8
+openstack/stackviz,openstack/logstash-filters,Core,3.0303030303030303,2.3255813953488373,1,2
+openstack/stackviz,openstack/logstash-filters,Non core,0.0,2.3255813953488373,1,2
+openstack/stackviz,openstack/xstatic-jquery-migrate,Core,2.857142857142857,4.651162790697675,1,3
+openstack/stackviz,openstack/xstatic-jquery-migrate,Non core,0.0,2.3255813953488373,1,3
+openstack/stackviz,openstack/qinling-dashboard,Core,5.405405405405405,12.244897959183673,3,7
+openstack/stackviz,openstack/qinling-dashboard,Non core,2.7027027027027026,2.0408163265306123,3,7
+openstack/stackviz,openstack/python-qinlingclient,Core,7.4074074074074066,13.20754716981132,9,13
+openstack/stackviz,openstack/python-qinlingclient,Non core,9.25925925925926,11.320754716981133,9,13
+openstack/stackviz,openstack/qinling,Core,7.246376811594203,7.462686567164178,8,10
+openstack/stackviz,openstack/qinling,Non core,4.3478260869565215,7.462686567164178,8,10
+openstack/stackviz,openstack/monasca-analytics,Core,9.803921568627452,8.333333333333332,7,10
+openstack/stackviz,openstack/monasca-analytics,Non core,3.9215686274509802,5.555555555555555,7,10
+openstack/stackviz,openstack/oslo-incubator,Core,2.7027027027027026,2.1881838074398248,8,12
+openstack/stackviz,openstack/oslo-incubator,Non core,0.0,0.437636761487965,8,12
+openstack/stackviz,openstack/puppet-congress,Core,7.142857142857142,1.639344262295082,6,3
+openstack/stackviz,openstack/puppet-congress,Non core,3.571428571428571,3.278688524590164,6,3
+openstack/stackviz,openstack/openstack-ansible-os_monasca-ui,Core,7.5,3.571428571428571,5,3
+openstack/stackviz,openstack/openstack-ansible-os_monasca-ui,Non core,5.0,1.7857142857142856,5,3
+openstack/stackviz,openstack/auto-scaling-sig,Core,2.7027027027027026,1.8181818181818181,1,1
+openstack/stackviz,openstack/auto-scaling-sig,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/os-loganalyze,Core,5.172413793103448,7.228915662650602,3,8
+openstack/stackviz,openstack/os-loganalyze,Non core,0.0,2.4096385542168677,3,8
+openstack/stackviz,openstack/devstack-plugin-pika,Core,5.88235294117647,8.695652173913043,3,5
+openstack/stackviz,openstack/devstack-plugin-pika,Non core,2.941176470588235,2.1739130434782608,3,5
+openstack/stackviz,openstack/devstack-plugin-zmq,Core,13.88888888888889,10.638297872340425,6,7
+openstack/stackviz,openstack/devstack-plugin-zmq,Non core,2.7777777777777777,4.25531914893617,6,7
+openstack/stackviz,openstack/networking-l2gw,Core,5.376344086021505,3.314917127071823,7,10
+openstack/stackviz,openstack/networking-l2gw,Non core,2.1505376344086025,2.209944751381215,7,10
+openstack/stackviz,openstack/networking-l2gw-tempest-plugin,Core,5.0,10.909090909090908,4,8
+openstack/stackviz,openstack/networking-l2gw-tempest-plugin,Non core,5.0,3.6363636363636362,4,8
+openstack/stackviz,openstack/charm-interface-ceph-mds,Core,8.108108108108109,0.0,3,1
+openstack/stackviz,openstack/charm-interface-ceph-mds,Non core,0.0,2.2222222222222223,3,1
+openstack/stackviz,openstack/xstatic-angular-ui-router,Core,2.941176470588235,6.976744186046512,1,4
+openstack/stackviz,openstack/xstatic-angular-ui-router,Non core,0.0,2.3255813953488373,1,4
+openstack/stackviz,openstack/xstatic-vis,Core,5.88235294117647,7.142857142857142,2,3
+openstack/stackviz,openstack/xstatic-vis,Non core,0.0,0.0,2,3
+openstack/stackviz,openstack/cookbook-openstack-database,Core,2.5,5.084745762711865,1,4
+openstack/stackviz,openstack/cookbook-openstack-database,Non core,0.0,1.694915254237288,1,4
+openstack/stackviz,openstack/cookbook-openstack-data-processing,Core,2.7027027027027026,5.769230769230769,1,5
+openstack/stackviz,openstack/cookbook-openstack-data-processing,Non core,0.0,3.8461538461538463,1,5
+openstack/stackviz,openstack/trove-integration,Core,3.1578947368421053,1.4598540145985401,3,4
+openstack/stackviz,openstack/trove-integration,Non core,0.0,1.4598540145985401,3,4
+openstack/stackviz,openstack/ansible-role-tripleo-sensu,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-sensu,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/python-ceilometerclient,Core,2.797202797202797,3.7383177570093453,4,10
+openstack/stackviz,openstack/python-ceilometerclient,Non core,0.0,0.9345794392523363,4,10
+openstack/stackviz,openstack/keystoneauth-saml2,Core,7.317073170731707,2.898550724637681,4,4
+openstack/stackviz,openstack/keystoneauth-saml2,Non core,2.4390243902439024,2.898550724637681,4,4
+openstack/stackviz,openstack/murano-deployment,Core,4.615384615384616,1.36986301369863,3,3
+openstack/stackviz,openstack/murano-deployment,Non core,0.0,2.73972602739726,3,3
+openstack/stackviz,openstack/python-keystoneclient-kerberos,Core,7.142857142857142,2.9850746268656714,3,4
+openstack/stackviz,openstack/python-keystoneclient-kerberos,Non core,0.0,2.9850746268656714,3,4
+openstack/stackviz,openstack/python-wsmanclient,Core,2.857142857142857,2.1739130434782608,1,2
+openstack/stackviz,openstack/python-wsmanclient,Non core,0.0,2.1739130434782608,1,2
+openstack/stackviz,openstack/fuel-upgrade,Core,5.128205128205128,1.5873015873015872,3,3
+openstack/stackviz,openstack/fuel-upgrade,Non core,2.564102564102564,3.1746031746031744,3,3
+openstack/stackviz,openstack/cookbook-openstack-object-storage,Core,3.4482758620689653,3.8461538461538463,2,4
+openstack/stackviz,openstack/cookbook-openstack-object-storage,Non core,0.0,1.282051282051282,2,4
+openstack/stackviz,openstack/fairy-slipper,Core,5.263157894736842,5.88235294117647,2,5
+openstack/stackviz,openstack/fairy-slipper,Non core,0.0,3.9215686274509802,2,5
+openstack/stackviz,openstack/django-openstack-auth-kerberos,Core,5.555555555555555,3.8461538461538463,2,4
+openstack/stackviz,openstack/django-openstack-auth-kerberos,Non core,0.0,3.8461538461538463,2,4
+openstack/stackviz,openstack/horizon-cisco-ui,Core,7.142857142857142,6.25,3,5
+openstack/stackviz,openstack/horizon-cisco-ui,Non core,0.0,4.166666666666666,3,5
+openstack/stackviz,openstack/zuul-packaging,Core,9.375,6.521739130434782,3,4
+openstack/stackviz,openstack/zuul-packaging,Non core,0.0,2.1739130434782608,3,4
+openstack/stackviz,openstack/networking-generic-switch-tempest-plugin,Core,3.0303030303030303,2.5,1,1
+openstack/stackviz,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/tripleo-incubator,Core,3.2,3.0927835051546393,4,8
+openstack/stackviz,openstack/tripleo-incubator,Non core,0.0,1.0309278350515463,4,8
+openstack/stackviz,openstack/ironic-webclient,Core,2.631578947368421,1.4925373134328357,1,3
+openstack/stackviz,openstack/ironic-webclient,Non core,0.0,2.9850746268656714,1,3
+openstack/stackviz,openstack/puppet-crane,Core,3.0303030303030303,4.878048780487805,1,2
+openstack/stackviz,openstack/puppet-crane,Non core,0.0,0.0,1,2
+openstack/stackviz,openstack/release-tools,Core,8.19672131147541,4.807692307692308,5,8
+openstack/stackviz,openstack/release-tools,Non core,0.0,2.8846153846153846,5,8
+openstack/stackviz,openstack/gnocchi,Core,2.0202020202020203,3.1446540880503147,2,10
+openstack/stackviz,openstack/gnocchi,Non core,0.0,3.1446540880503147,2,10
+openstack/stackviz,openstack/networking-ofagent,Core,4.878048780487805,3.278688524590164,2,4
+openstack/stackviz,openstack/networking-ofagent,Non core,0.0,3.278688524590164,2,4
+openstack/stackviz,openstack/python-neutron-pd-driver,Core,2.941176470588235,4.878048780487805,1,3
+openstack/stackviz,openstack/python-neutron-pd-driver,Non core,0.0,2.4390243902439024,1,3
+openstack/stackviz,openstack/charm-ceph,Core,2.0,1.7543859649122806,2,2
+openstack/stackviz,openstack/charm-ceph,Non core,2.0,1.7543859649122806,2,2
+openstack/stackviz,openstack/openstack-ansible-os_freezer,Core,3.0303030303030303,2.4390243902439024,1,1
+openstack/stackviz,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/openstack-ansible-pip_lock_down,Core,12.195121951219512,3.9215686274509802,5,4
+openstack/stackviz,openstack/openstack-ansible-pip_lock_down,Non core,0.0,3.9215686274509802,5,4
+openstack/stackviz,openstack/openstack-ansible-security,Core,7.575757575757576,1.9047619047619049,5,4
+openstack/stackviz,openstack/openstack-ansible-security,Non core,0.0,1.9047619047619049,5,4
+openstack/stackviz,openstack/oslosphinx,Core,6.8493150684931505,8.16326530612245,6,11
+openstack/stackviz,openstack/oslosphinx,Non core,1.36986301369863,3.061224489795918,6,11
+openstack/stackviz,openstack/python-gnocchiclient,Core,3.3333333333333335,2.941176470588235,3,4
+openstack/stackviz,openstack/python-gnocchiclient,Non core,1.6666666666666667,2.941176470588235,3,4
+openstack/stackviz,openstack/ansible-role-k8s-cinder,Core,2.941176470588235,2.380952380952381,1,1
+openstack/stackviz,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/ansible-role-k8s-cookiecutter,Core,6.0606060606060606,4.761904761904762,2,2
+openstack/stackviz,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,2
+openstack/stackviz,openstack/ansible-role-k8s-glance,Core,9.090909090909092,4.761904761904762,3,2
+openstack/stackviz,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,3,2
+openstack/stackviz,openstack/ansible-role-k8s-keystone,Core,9.090909090909092,2.2222222222222223,3,1
+openstack/stackviz,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,3,1
+openstack/stackviz,openstack/ansible-role-k8s-mariadb,Core,8.823529411764707,4.545454545454546,3,2
+openstack/stackviz,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,3,2
+openstack/stackviz,openstack/ansible-role-k8s-rabbitmq,Core,3.0303030303030303,2.5,1,1
+openstack/stackviz,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/ansible-role-k8s-tripleo,Core,9.090909090909092,4.651162790697675,3,2
+openstack/stackviz,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-ui,Core,5.555555555555555,4.545454545454546,3,3
+openstack/stackviz,openstack/ansible-role-tripleo-ui,Non core,2.7777777777777777,2.272727272727273,3,3
+openstack/stackviz,openstack/ansible-role-tripleo-aodh,Core,5.555555555555555,2.2222222222222223,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-aodh,Non core,2.7777777777777777,2.2222222222222223,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-barbican,Core,5.555555555555555,2.272727272727273,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-barbican,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-ceilometer,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-ceilometer,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-cinder,Core,5.555555555555555,2.272727272727273,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-cinder,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-cookiecutter,Core,7.6923076923076925,4.081632653061225,4,5
+openstack/stackviz,openstack/ansible-role-tripleo-cookiecutter,Non core,2.564102564102564,6.122448979591836,4,5
+openstack/stackviz,openstack/tripleo-ui,Core,6.557377049180328,6.122448979591836,6,11
+openstack/stackviz,openstack/tripleo-ui,Non core,3.278688524590164,5.1020408163265305,6,11
+openstack/stackviz,openstack/ansible-role-tripleo-ovn,Core,5.555555555555555,2.272727272727273,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-ovn,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-opendaylight,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-opendaylight,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-octavia,Core,5.405405405405405,2.272727272727273,2,2
+openstack/stackviz,openstack/ansible-role-tripleo-octavia,Non core,0.0,2.272727272727273,2,2
+openstack/stackviz,openstack/ansible-role-tripleo-nova,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-nova,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/os-cloud-config,Core,6.41025641025641,1.5625,6,5
+openstack/stackviz,openstack/os-cloud-config,Non core,1.282051282051282,2.34375,6,5
+openstack/stackviz,openstack/ansible-role-tripleo-zaqar,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-zaqar,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-tempest,Core,5.555555555555555,2.3255813953488373,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-tempest,Non core,2.7777777777777777,2.3255813953488373,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-sahara,Core,5.555555555555555,2.272727272727273,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-sahara,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-swift,Core,5.555555555555555,2.272727272727273,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-swift,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-tacker,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-tacker,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,5.555555555555555,2.272727272727273,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-rabbitmq,Core,5.555555555555555,2.272727272727273,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-rabbitmq,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-qdrouterd,Core,3.0303030303030303,2.4390243902439024,1,1
+openstack/stackviz,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/ansible-role-tripleo-panko,Core,5.555555555555555,2.272727272727273,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-panko,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-heat,Core,5.555555555555555,2.272727272727273,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-heat,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-haproxy,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-haproxy,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-gnocchi,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-gnocchi,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-glance,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-glance,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-designate,Core,5.555555555555555,2.2222222222222223,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-designate,Non core,2.7777777777777777,0.0,3,1
+openstack/stackviz,openstack/ansible-role-tripleo-neutron,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-neutron,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-mistral,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-mistral,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-memcached,Core,5.555555555555555,2.272727272727273,3,3
+openstack/stackviz,openstack/ansible-role-tripleo-memcached,Non core,2.7777777777777777,4.545454545454546,3,3
+openstack/stackviz,openstack/ansible-role-tripleo-manila,Core,5.555555555555555,2.2222222222222223,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-manila,Non core,2.7777777777777777,2.2222222222222223,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-ironic,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-ironic,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-keepalived,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-keepalived,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-horizon,Core,5.555555555555555,2.272727272727273,3,2
+openstack/stackviz,openstack/ansible-role-tripleo-horizon,Non core,2.7777777777777777,2.272727272727273,3,2
+openstack/stackviz,openstack/pylockfile,Core,5.263157894736842,7.547169811320755,3,6
+openstack/stackviz,openstack/pylockfile,Non core,2.631578947368421,3.7735849056603774,3,6
+openstack/stackviz,openstack/xstatic-moment-timezone,Core,0.0,4.878048780487805,0,2
+openstack/stackviz,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,2
+openstack/stackviz,openstack/xstatic-dagre-d3,Core,0.0,4.878048780487805,0,2
+openstack/stackviz,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,2
+openstack/stackviz,openstack/xstatic-dagre,Core,0.0,5.0,0,2
+openstack/stackviz,openstack/xstatic-dagre,Non core,0.0,0.0,0,2
+openstack/stackviz,openstack/dragonflow,Core,4.026845637583892,3.7209302325581395,8,16
+openstack/stackviz,openstack/dragonflow,Non core,1.342281879194631,3.7209302325581395,8,16
+openstack/stackviz,openstack/openstack,Core,5.714285714285714,12.0,2,7
+openstack/stackviz,openstack/openstack,Non core,0.0,2.0,2,7
+openstack/stackviz,openstack/charm-interface-pacemaker-remote,Core,2.857142857142857,2.272727272727273,2,4
+openstack/stackviz,openstack/charm-interface-pacemaker-remote,Non core,2.857142857142857,6.8181818181818175,2,4
+openstack/stackviz,openstack/networking-onos,Core,4.25531914893617,3.614457831325301,2,6
+openstack/stackviz,openstack/networking-onos,Non core,0.0,3.614457831325301,2,6
+openstack/stackviz,openstack/solum-infra-guestagent,Core,2.631578947368421,1.9607843137254901,1,2
+openstack/stackviz,openstack/solum-infra-guestagent,Non core,0.0,1.9607843137254901,1,2
+openstack/stackviz,openstack/openstack-ux,Core,2.857142857142857,1.7857142857142856,1,2
+openstack/stackviz,openstack/openstack-ux,Non core,0.0,1.7857142857142856,1,2
+openstack/stackviz,openstack/mox3,Core,7.4074074074074066,10.44776119402985,5,10
+openstack/stackviz,openstack/mox3,Non core,1.8518518518518516,4.477611940298507,5,10
+openstack/stackviz,openstack/charm-layer-ceph,Core,2.941176470588235,0.0,1,0
+openstack/stackviz,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/stackviz,openstack/charm-layer-ceph-base,Core,5.714285714285714,0.0,2,1
+openstack/stackviz,openstack/charm-layer-ceph-base,Non core,0.0,2.272727272727273,2,1
+openstack/stackviz,openstack/python-tricircleclient,Core,6.666666666666667,6.451612903225806,6,7
+openstack/stackviz,openstack/python-tricircleclient,Non core,6.666666666666667,4.838709677419355,6,7
+openstack/stackviz,openstack/tricircle,Core,5.769230769230769,4.878048780487805,9,14
+openstack/stackviz,openstack/tricircle,Non core,2.8846153846153846,3.6585365853658534,9,14
+openstack/stackviz,openstack/swift-specs,Core,7.6923076923076925,3.0,4,4
+openstack/stackviz,openstack/swift-specs,Non core,0.0,1.0,4,4
+openstack/stackviz,openstack/congress,Core,3.977272727272727,4.273504273504273,9,16
+openstack/stackviz,openstack/congress,Non core,1.1363636363636365,2.564102564102564,9,16
+openstack/stackviz,openstack/congress-tempest-plugin,Core,6.382978723404255,7.142857142857142,5,9
+openstack/stackviz,openstack/congress-tempest-plugin,Non core,4.25531914893617,8.928571428571429,5,9
+openstack/stackviz,openstack/python-congressclient,Core,6.666666666666667,8.860759493670885,9,13
+openstack/stackviz,openstack/python-congressclient,Non core,5.333333333333334,7.59493670886076,9,13
+openstack/stackviz,openstack/congress-specs,Core,6.349206349206349,2.4390243902439024,4,5
+openstack/stackviz,openstack/congress-specs,Non core,0.0,3.6585365853658534,4,5
+openstack/stackviz,openstack/congress-dashboard,Core,5.769230769230769,11.11111111111111,5,11
+openstack/stackviz,openstack/congress-dashboard,Non core,3.8461538461538463,6.349206349206349,5,11
+openstack/stackviz,openstack/syntribos,Core,6.779661016949152,1.3888888888888888,4,3
+openstack/stackviz,openstack/syntribos,Non core,0.0,2.7777777777777777,4,3
+openstack/stackviz,openstack/syntribos-payloads,Core,3.0303030303030303,0.0,1,1
+openstack/stackviz,openstack/syntribos-payloads,Non core,0.0,2.2222222222222223,1,1
+openstack/stackviz,openstack/syntribos-openstack-templates,Core,2.857142857142857,0.0,1,1
+openstack/stackviz,openstack/syntribos-openstack-templates,Non core,0.0,2.127659574468085,1,1
+openstack/stackviz,openstack/i18n-specs,Core,6.0606060606060606,4.545454545454546,2,3
+openstack/stackviz,openstack/i18n-specs,Non core,0.0,2.272727272727273,2,3
+openstack/stackviz,openstack/tempest-plugin-cookiecutter,Core,5.714285714285714,10.869565217391305,2,6
+openstack/stackviz,openstack/tempest-plugin-cookiecutter,Non core,0.0,2.1739130434782608,2,6
+openstack/stackviz,openstack/devstack-plugin-cookiecutter,Core,2.857142857142857,4.761904761904762,1,3
+openstack/stackviz,openstack/devstack-plugin-cookiecutter,Non core,0.0,2.380952380952381,1,3
+openstack/stackviz,openstack/xstatic-graphlib,Core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/stackviz,openstack/openstack-ansible-repo_build,Core,4.819277108433735,4.545454545454546,8,13
+openstack/stackviz,openstack/openstack-ansible-repo_build,Non core,4.819277108433735,7.2727272727272725,8,13
+openstack/stackviz,openstack/xstatic-bootstrap-datepicker,Core,2.564102564102564,1.8867924528301887,1,3
+openstack/stackviz,openstack/xstatic-bootstrap-datepicker,Non core,0.0,3.7735849056603774,1,3
+openstack/stackviz,openstack/xstatic-hogan,Core,2.941176470588235,4.761904761904762,1,3
+openstack/stackviz,openstack/xstatic-hogan,Non core,0.0,2.380952380952381,1,3
+openstack/stackviz,openstack/xstatic-jquery.quicksearch,Core,2.941176470588235,4.761904761904762,1,3
+openstack/stackviz,openstack/xstatic-jquery.quicksearch,Non core,0.0,2.380952380952381,1,3
+openstack/stackviz,openstack/openstack-ansible-os_molteniron,Core,6.0,5.0,6,10
+openstack/stackviz,openstack/openstack-ansible-os_molteniron,Non core,6.0,11.666666666666666,6,10
+openstack/stackviz,openstack/xstatic-angular-lrdragndrop,Core,2.631578947368421,4.081632653061225,1,4
+openstack/stackviz,openstack/xstatic-angular-lrdragndrop,Non core,0.0,4.081632653061225,1,4
+openstack/stackviz,openstack/faafo,Core,7.5,1.8518518518518516,3,3
+openstack/stackviz,openstack/faafo,Non core,0.0,3.7037037037037033,3,3
+openstack/stackviz,openstack/xstatic-angular-bootstrap,Core,2.4390243902439024,1.8181818181818181,1,3
+openstack/stackviz,openstack/xstatic-angular-bootstrap,Non core,0.0,3.6363636363636362,1,3
+openstack/stackviz,openstack/networking-calico,Core,8.47457627118644,4.545454545454546,7,9
+openstack/stackviz,openstack/networking-calico,Non core,3.389830508474576,5.681818181818182,7,9
+openstack/stackviz,openstack/xstatic-angular-gettext,Core,2.631578947368421,4.081632653061225,1,4
+openstack/stackviz,openstack/xstatic-angular-gettext,Non core,0.0,4.081632653061225,1,4
+openstack/stackviz,openstack/shotgun,Core,2.0,0.9090909090909091,2,3
+openstack/stackviz,openstack/shotgun,Non core,2.0,1.8181818181818181,2,3
+openstack/stackviz,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-aioeventlet,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/fuel-devops,Core,3.3333333333333335,0.5714285714285714,4,5
+openstack/stackviz,openstack/fuel-devops,Non core,1.1111111111111112,2.2857142857142856,4,5
+openstack/stackviz,openstack/fuel-plugin-murano,Core,4.651162790697675,1.5151515151515151,2,3
+openstack/stackviz,openstack/fuel-plugin-murano,Non core,0.0,3.0303030303030303,2,3
+openstack/stackviz,openstack/fuel-web,Core,1.680672268907563,0.2352941176470588,5,4
+openstack/stackviz,openstack/fuel-web,Non core,0.42016806722689076,0.7058823529411765,5,4
+openstack/stackviz,openstack/fuel-plugins,Core,4.054054054054054,0.7299270072992701,4,3
+openstack/stackviz,openstack/fuel-plugins,Non core,1.3513513513513513,1.4598540145985401,4,3
+openstack/stackviz,openstack/fuel-virtualbox,Core,5.0,1.694915254237288,2,2
+openstack/stackviz,openstack/fuel-virtualbox,Non core,0.0,1.694915254237288,2,2
+openstack/stackviz,openstack/fuel-ostf,Core,2.380952380952381,0.4032258064516129,4,3
+openstack/stackviz,openstack/fuel-ostf,Non core,0.7936507936507936,0.8064516129032258,4,3
+openstack/stackviz,openstack/fuel-qa,Core,1.2987012987012987,0.35714285714285715,2,4
+openstack/stackviz,openstack/fuel-qa,Non core,0.0,1.0714285714285714,2,4
+openstack/stackviz,openstack/fuel-specs,Core,2.272727272727273,0.29940119760479045,3,3
+openstack/stackviz,openstack/fuel-specs,Non core,0.0,0.5988023952095809,3,3
+openstack/stackviz,openstack/fuel-nailgun-extension-cluster-upgrade,Core,4.878048780487805,1.694915254237288,2,2
+openstack/stackviz,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,1.694915254237288,2,2
+openstack/stackviz,openstack/fuel-nailgun-agent,Core,1.4492753623188406,0.7518796992481203,1,3
+openstack/stackviz,openstack/fuel-nailgun-agent,Non core,0.0,1.5037593984962405,1,3
+openstack/stackviz,openstack/fuel-mirror,Core,3.225806451612903,0.7246376811594203,3,3
+openstack/stackviz,openstack/fuel-mirror,Non core,1.6129032258064515,1.4492753623188406,3,3
+openstack/stackviz,openstack/fuel-menu,Core,3.125,1.342281879194631,3,4
+openstack/stackviz,openstack/fuel-menu,Non core,1.5625,1.342281879194631,3,4
+openstack/stackviz,openstack/fuel-main,Core,1.183431952662722,0.3546099290780142,2,5
+openstack/stackviz,openstack/fuel-main,Non core,0.0,1.4184397163120568,2,5
+openstack/stackviz,openstack/fuel-ui,Core,2.7777777777777777,0.7936507936507936,2,2
+openstack/stackviz,openstack/fuel-ui,Non core,0.0,0.7936507936507936,2,2
+openstack/stackviz,openstack/fuel-library,Core,1.3100436681222707,0.21097046413502107,3,4
+openstack/stackviz,openstack/fuel-library,Non core,0.0,0.6329113924050633,3,4
+openstack/stackviz,openstack/fuel-dev-tools,Core,9.75609756097561,1.7241379310344827,5,3
+openstack/stackviz,openstack/fuel-dev-tools,Non core,2.4390243902439024,3.4482758620689653,5,3
+openstack/stackviz,openstack/fuel-stats,Core,6.0,1.1904761904761905,3,3
+openstack/stackviz,openstack/fuel-stats,Non core,0.0,2.380952380952381,3,3
+openstack/stackviz,openstack/fuel-nailgun-extension-converted-serializers,Core,2.941176470588235,2.380952380952381,1,2
+openstack/stackviz,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,2.380952380952381,1,2
+openstack/stackviz,openstack/fuel-nailgun-extension-iac,Core,2.7777777777777777,2.272727272727273,1,2
+openstack/stackviz,openstack/fuel-nailgun-extension-iac,Non core,0.0,2.272727272727273,1,2
+openstack/stackviz,openstack/fuel-plugin-murano-tests,Core,2.3255813953488373,1.5151515151515151,1,3
+openstack/stackviz,openstack/fuel-plugin-murano-tests,Non core,0.0,3.0303030303030303,1,3
+openstack/stackviz,openstack/fuel-astute,Core,2.083333333333333,0.5291005291005291,2,3
+openstack/stackviz,openstack/fuel-astute,Non core,0.0,1.0582010582010581,2,3
+openstack/stackviz,openstack/fuel-docs,Core,0.7874015748031495,0.2849002849002849,1,3
+openstack/stackviz,openstack/fuel-docs,Non core,0.0,0.5698005698005698,1,3
+openstack/stackviz,openstack/fuel-agent,Core,3.0303030303030303,1.0869565217391304,3,4
+openstack/stackviz,openstack/fuel-agent,Non core,0.0,1.0869565217391304,3,4
+openstack/stackviz,openstack/fuel-octane,Core,6.779661016949152,1.0869565217391304,5,3
+openstack/stackviz,openstack/fuel-octane,Non core,1.694915254237288,2.1739130434782608,5,3
+openstack/stackviz,openstack/tuning-box,Core,5.555555555555555,3.1746031746031744,2,3
+openstack/stackviz,openstack/tuning-box,Non core,0.0,1.5873015873015872,2,3
+openstack/stackviz,openstack/python-fuelclient,Core,2.0,0.546448087431694,2,3
+openstack/stackviz,openstack/python-fuelclient,Non core,0.0,1.092896174863388,2,3
+openstack/stackviz,openstack/neutron-interconnection,Core,0.0,8.51063829787234,1,4
+openstack/stackviz,openstack/neutron-interconnection,Non core,2.941176470588235,0.0,1,4
+openstack/stackviz,openstack/openstack-chef-repo,Core,1.36986301369863,3.3333333333333335,1,4
+openstack/stackviz,openstack/openstack-chef-repo,Non core,0.0,1.1111111111111112,1,4
+openstack/stackviz,openstack/os-acc,Core,0.0,5.454545454545454,0,3
+openstack/stackviz,openstack/os-acc,Non core,0.0,0.0,0,3
+openstack/stackviz,openstack/openstack-ansible-os_zaqar,Core,6.451612903225806,3.7037037037037033,7,7
+openstack/stackviz,openstack/openstack-ansible-os_zaqar,Non core,4.838709677419355,4.938271604938271,7,7
+openstack/stackviz,openstack/openstack-ansible-os_watcher,Core,5.172413793103448,5.633802816901409,6,9
+openstack/stackviz,openstack/openstack-ansible-os_watcher,Non core,5.172413793103448,7.042253521126761,6,9
+openstack/stackviz,openstack/openstack-ansible-os_searchlight,Core,6.0,1.4925373134328357,6,4
+openstack/stackviz,openstack/openstack-ansible-os_searchlight,Non core,6.0,4.477611940298507,6,4
+openstack/stackviz,openstack/xstatic-angular-vis,Core,3.0303030303030303,2.5,1,1
+openstack/stackviz,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/xstatic-font-awesome,Core,2.631578947368421,2.0,1,3
+openstack/stackviz,openstack/xstatic-font-awesome,Non core,0.0,4.0,1,3
+openstack/stackviz,openstack/xstatic-jasmine,Core,2.380952380952381,1.9230769230769231,1,3
+openstack/stackviz,openstack/xstatic-jasmine,Non core,0.0,3.8461538461538463,1,3
+openstack/stackviz,openstack/xstatic-angular-notify,Core,3.0303030303030303,2.4390243902439024,1,1
+openstack/stackviz,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/xstatic-angular-material,Core,2.857142857142857,2.3255813953488373,1,1
+openstack/stackviz,openstack/xstatic-angular-material,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/tempest-tripleo-ui,Core,2.857142857142857,1.9607843137254901,1,1
+openstack/stackviz,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/docs-specs,Core,5.263157894736842,2.11864406779661,4,10
+openstack/stackviz,openstack/docs-specs,Non core,0.0,2.11864406779661,4,10
+openstack/stackviz,openstack/release-schedule-generator,Core,2.857142857142857,4.651162790697675,1,3
+openstack/stackviz,openstack/release-schedule-generator,Non core,0.0,2.3255813953488373,1,3
+openstack/stackviz,openstack-infra/opendev-website,Core,6.25,6.976744186046512,2,3
+openstack/stackviz,openstack-infra/opendev-website,Non core,0.0,0.0,2,3
+openstack/stackviz,openstack/castellan-ui,Core,8.571428571428571,7.2727272727272725,3,5
+openstack/stackviz,openstack/castellan-ui,Non core,0.0,1.8181818181818181,3,5
+openstack/stackviz,openstack-attic/compute-api,Core,1.8181818181818181,2.73972602739726,1,3
+openstack/stackviz,openstack-attic/compute-api,Non core,0.0,1.36986301369863,1,3
+openstack/stackviz,openstack/charm-neutron-api-odl,Core,5.0,2.0408163265306123,3,2
+openstack/stackviz,openstack/charm-neutron-api-odl,Non core,2.5,2.0408163265306123,3,2
+openstack/stackviz,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/charm-murano,Core,2.941176470588235,0.0,1,1
+openstack/stackviz,openstack/charm-murano,Non core,0.0,2.380952380952381,1,1
+openstack/stackviz,openstack/charm-openvswitch-odl,Core,2.4390243902439024,0.0,2,1
+openstack/stackviz,openstack/charm-openvswitch-odl,Non core,2.4390243902439024,2.083333333333333,2,1
+openstack/stackviz,openstack/charm-interface-odl-controller-api,Core,5.88235294117647,0.0,2,1
+openstack/stackviz,openstack/charm-interface-odl-controller-api,Non core,0.0,2.380952380952381,2,1
+openstack/stackviz,openstack/charm-glusterfs,Core,2.941176470588235,0.0,1,1
+openstack/stackviz,openstack/charm-glusterfs,Non core,0.0,2.127659574468085,1,1
+openstack/stackviz,openstack/charm-trove,Core,2.564102564102564,0.0,1,1
+openstack/stackviz,openstack/charm-trove,Non core,0.0,2.1739130434782608,1,1
+openstack/stackviz,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-positional,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-requests-unixsocket,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-traceback2,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-ryu,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-linecache2,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-gabbi,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-cotyledon,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-migrate,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/fuxi,Core,3.508771929824561,1.2048192771084338,3,3
+openstack/stackviz,openstack/fuxi,Non core,1.7543859649122806,2.4096385542168677,3,3
+openstack/stackviz,openstack/xstatic-filesaver,Core,3.0303030303030303,2.5,1,1
+openstack/stackviz,openstack/xstatic-filesaver,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/xstatic-angular-uuid,Core,3.0303030303030303,2.5,1,1
+openstack/stackviz,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/bandit,Core,4.545454545454546,5.88235294117647,4,8
+openstack/stackviz,openstack/bandit,Non core,0.0,1.9607843137254901,4,8
+openstack/stackviz,openstack/xstatic-angular-smart-table,Core,2.857142857142857,2.2222222222222223,1,2
+openstack/stackviz,openstack/xstatic-angular-smart-table,Non core,0.0,2.2222222222222223,1,2
+openstack/stackviz,openstack/xstatic-bootswatch,Core,2.7777777777777777,2.0,1,3
+openstack/stackviz,openstack/xstatic-bootswatch,Non core,0.0,4.0,1,3
+openstack/stackviz,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-msgpack-python,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/xstatic-d3,Core,2.7027027027027026,2.0,1,3
+openstack/stackviz,openstack/xstatic-d3,Non core,0.0,4.0,1,3
+openstack/stackviz,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pymemcache,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-novnc,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/instack,Core,8.0,2.7777777777777777,5,4
+openstack/stackviz,openstack/instack,Non core,2.0,2.7777777777777777,5,4
+openstack/stackviz,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pysaml2,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-trollius,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-autobahn,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pyldap,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/astara,Core,2.941176470588235,2.3529411764705883,2,4
+openstack/stackviz,openstack/astara,Non core,0.0,2.3529411764705883,2,4
+openstack/stackviz,openstack/astara-appliance,Core,2.1739130434782608,3.389830508474576,1,5
+openstack/stackviz,openstack/astara-appliance,Non core,0.0,5.084745762711865,1,5
+openstack/stackviz,openstack/astara-horizon,Core,2.564102564102564,1.8518518518518516,1,3
+openstack/stackviz,openstack/astara-horizon,Non core,0.0,3.7037037037037033,1,3
+openstack/stackviz,openstack/astara-neutron,Core,2.3255813953488373,1.8181818181818181,1,3
+openstack/stackviz,openstack/astara-neutron,Non core,0.0,3.6363636363636362,1,3
+openstack/stackviz,openstack/anchor,Core,0.0,1.25,0,3
+openstack/stackviz,openstack/anchor,Non core,0.0,2.5,0,3
+openstack/stackviz,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/fuxi-golang,Core,3.125,2.3255813953488373,1,1
+openstack/stackviz,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/stackviz,openstack/fuxi-kubernetes,Core,3.0303030303030303,2.127659574468085,1,2
+openstack/stackviz,openstack/fuxi-kubernetes,Non core,0.0,2.127659574468085,1,2
+openstack/stackviz,openstack-infra/puppet-odsreg,Core,2.7027027027027026,6.122448979591836,1,5
+openstack/stackviz,openstack-infra/puppet-odsreg,Non core,0.0,4.081632653061225,1,5
+openstack/stackviz,openstack-infra/puppet-docker_registry,Core,3.125,5.128205128205128,1,2
+openstack/stackviz,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,2
+openstack/stackviz,openstack/releasestatus,Core,2.941176470588235,6.8181818181818175,1,4
+openstack/stackviz,openstack/releasestatus,Non core,0.0,2.272727272727273,1,4
+openstack/stackviz,openstack-infra/vinz-webclient,Core,3.125,5.128205128205128,1,2
+openstack/stackviz,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,2
+openstack/stackviz,openstack/activity-board,Core,2.127659574468085,4.819277108433735,1,5
+openstack/stackviz,openstack/activity-board,Non core,0.0,1.2048192771084338,1,5
+openstack/stackviz,openstack-infra/beaker-localhost,Core,3.125,5.0,1,2
+openstack/stackviz,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,2
+openstack/stackviz,openstack-infra/beaker-nodepool,Core,3.125,5.0,1,2
+openstack/stackviz,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,2
+openstack/stackviz,openstack/rst2bash,Core,5.88235294117647,4.25531914893617,2,3
+openstack/stackviz,openstack/rst2bash,Non core,0.0,2.127659574468085,2,3
+openstack/stackviz,openstack/kolla-kubernetes,Core,3.1914893617021276,0.6369426751592357,4,3
+openstack/stackviz,openstack/kolla-kubernetes,Non core,1.0638297872340425,1.2738853503184715,4,3
+openstack/stackviz,openstack/cue-dashboard,Core,7.5,2.083333333333333,3,3
+openstack/stackviz,openstack/cue-dashboard,Non core,0.0,4.166666666666666,3,3
+openstack/stackviz,openstack/python-cueclient,Core,6.976744186046512,4.25531914893617,3,4
+openstack/stackviz,openstack/python-cueclient,Non core,0.0,4.25531914893617,3,4
+openstack/stackviz,openstack/cue,Core,3.278688524590164,2.8169014084507045,3,4
+openstack/stackviz,openstack/cue,Non core,1.639344262295082,2.8169014084507045,3,4
+openstack/stackviz,openstack/app-catalog,Core,4.444444444444445,0.9803921568627451,4,3
+openstack/stackviz,openstack/app-catalog,Non core,0.0,1.9607843137254901,4,3
+openstack/stackviz,openstack-attic/identity-api,Core,1.3513513513513513,1.6666666666666667,1,3
+openstack/stackviz,openstack-attic/identity-api,Non core,0.0,0.8333333333333334,1,3
+openstack/stackviz,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-fixtures,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/python-magnetodbclient,Non core,0.0,2.0408163265306123,0,1
+openstack/stackviz,openstack/app-catalog-ui,Core,5.128205128205128,1.8518518518518516,2,3
+openstack/stackviz,openstack/app-catalog-ui,Non core,0.0,3.7037037037037033,2,3
+openstack/stackviz,openstack/salt-formula-kubernetes,Core,2.7027027027027026,0.0,1,1
+openstack/stackviz,openstack/salt-formula-kubernetes,Non core,0.0,2.1739130434782608,1,1
+openstack/stackviz,openstack/app-catalog-common,Core,0.0,2.4390243902439024,0,2
+openstack/stackviz,openstack/app-catalog-common,Non core,0.0,2.4390243902439024,0,2
+openstack/stackviz,openstack/python-appcatalogclient,Core,0.0,2.272727272727273,0,2
+openstack/stackviz,openstack/python-appcatalogclient,Non core,0.0,2.272727272727273,0,2
+openstack/stackviz,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-nova,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-kazoo,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-congressclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-congress,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-net-config,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-ironic,Non core,0.0,2.272727272727273,0,1
+openstack/stackviz,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-swauth,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-api-ref,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-designate,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-swift,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-manila-ui,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-barbican,Non core,0.0,2.272727272727273,0,1
+openstack/stackviz,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-cinder,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-magnum,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-trove,Non core,0.0,2.2222222222222223,0,1
+openstack/stackviz,openstack/deb-openstack-pkg-tools,Core,5.555555555555555,2.083333333333333,2,2
+openstack/stackviz,openstack/deb-openstack-pkg-tools,Non core,0.0,2.083333333333333,2,2
+openstack/stackviz,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-swiftclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-alembic,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-cinderclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-networking-nec,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-neutron-taas,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-networking-mlnx,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-openstack-meta-packages,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-networking-odl,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-nodepool,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-networking-cisco,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-networking-midonet,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-networking-arista,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-networking-hyperv,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-rtslib-fb,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-murano,Non core,0.0,2.2222222222222223,0,1
+openstack/stackviz,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-semantic-version,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-ldappool,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-zaqar-ui,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-zaqar,Non core,0.0,2.2222222222222223,0,1
+openstack/stackviz,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-watcher,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-testr,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-win,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pycadf,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pyghmi,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-reno,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-refresh-config,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-vif,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pyeclib,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-quantumclient,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-requestsexceptions,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pbr,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-requests-mock,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-saharaclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-scciclient,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-seamicroclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-auto-backports,Non core,0.0,2.272727272727273,0,1
+openstack/stackviz,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-senlinclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-taskflow,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-testtools,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-tooz,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-shotgun,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-tackerclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-tosca-parser,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-troveclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-tuskarclient,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-watcherclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-wsme,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-bootswatch,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-angular-mock,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-d3,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-hogan,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-font-awesome,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jasmine,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-magic-search,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-mdi,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-objectpath,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-qunit,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-rickshaw,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-spin,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-tv4,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-yaql,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-zaqarclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-rally,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-sahara,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-sahara-dashboard,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-senlin,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-senlin-dashboard,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-stevedore,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-swift-bench,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-swift-plugin-s3,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-trove-dashboard,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-tempest,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-osprofiler,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.vmware,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.utils,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.rootwrap,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.service,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.privsep,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.versionedobjects,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslotest,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.serialization,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.reports,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.policy,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.middleware,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.messaging,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.log,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-aodhclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-automaton,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-barbicanclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-bashate,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-castellan,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-ceilometerclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-ceilometermiddleware,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-cliff,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-cursive,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-debtcollector,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-designateclient,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-dib-utils,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-diskimage-builder,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-doc8,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-django-openstack-auth,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-fuelclient,Non core,0.0,2.2222222222222223,0,1
+openstack/stackviz,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-dogpile.cache,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-futurist,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-glanceclient,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-glance-store,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-hacking,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-heatclient,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-ironicclient,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-ironic-inspector-client,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-ironic-lib,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-k8sclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-keystoneauth1,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-keystoneclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-keystonemiddleware,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-magnumclient,Non core,0.0,2.272727272727273,0,1
+openstack/stackviz,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-manilaclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-microversion-parse,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-mistralclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-monascaclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-mox3,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-muranoclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-neutronclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-neutron-lib,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-novaclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-openstackclient,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-openstackdocstheme,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-openstacksdk,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-apply-config,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-brick,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-osc-lib,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-client-config,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-collect-config,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.cache,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.db,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.concurrency,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.config,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.i18n,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oslo.context,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-openstack-nose,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-openstack-doc-tools,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-openstack-trove,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-oslosphinx,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-aodh,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-bandit,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-ceilometer,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-ceilometermiddleware,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-designate-dashboard,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-git-review,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-glance,Non core,0.0,2.2222222222222223,0,1
+openstack/stackviz,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-glare,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-heat,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-heat-cfntools,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-horizon,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-ironic-inspector,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-ironic-ui,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-keystone,Non core,0.0,2.272727272727273,0,1
+openstack/stackviz,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-liberasurecode,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-manila,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack/deb-mistral,Core,0.0,0.0,1,1
+openstack/stackviz,openstack/deb-mistral,Non core,2.631578947368421,2.2222222222222223,1,1
+openstack/stackviz,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-murano-agent,Non core,0.0,2.2222222222222223,0,1
+openstack/stackviz,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-murano-dashboard,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-networking-l2gw,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-networking-ovn,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-neutron,Non core,0.0,2.272727272727273,0,1
+openstack/stackviz,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-neutron-fwaas,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-neutron-vpnaas,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-neutron-lbaas,Non core,0.0,2.2222222222222223,0,1
+openstack/stackviz,openstack/installguide-cookiecutter,Core,4.878048780487805,1.9607843137254901,2,3
+openstack/stackviz,openstack/installguide-cookiecutter,Non core,0.0,3.9215686274509802,2,3
+openstack/stackviz,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-gnocchi,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-eventlet,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pymysql,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/salt-formula-opencontrail,Core,4.25531914893617,0.0,2,1
+openstack/stackviz,openstack/salt-formula-opencontrail,Non core,0.0,1.9607843137254901,2,1
+openstack/stackviz,openstack/salt-formula-neutron,Core,2.127659574468085,1.8867924528301887,1,2
+openstack/stackviz,openstack/salt-formula-neutron,Non core,0.0,1.8867924528301887,1,2
+openstack/stackviz,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/salt-formula-swift,Non core,0.0,2.272727272727273,0,1
+openstack/stackviz,openstack/salt-formula-nova,Core,1.8867924528301887,0.0,1,1
+openstack/stackviz,openstack/salt-formula-nova,Non core,0.0,1.8518518518518516,1,1
+openstack/stackviz,openstack/salt-formula-keystone,Core,2.0,0.0,1,1
+openstack/stackviz,openstack/salt-formula-keystone,Non core,0.0,1.9230769230769231,1,1
+openstack/stackviz,openstack/salt-formula-horizon,Core,2.2222222222222223,0.0,1,1
+openstack/stackviz,openstack/salt-formula-horizon,Non core,0.0,2.0408163265306123,1,1
+openstack/stackviz,openstack/salt-formula-heat,Core,1.9230769230769231,0.0,1,1
+openstack/stackviz,openstack/salt-formula-heat,Non core,0.0,2.0,1,1
+openstack/stackviz,openstack/salt-formula-glance,Core,1.9607843137254901,0.0,1,2
+openstack/stackviz,openstack/salt-formula-glance,Non core,0.0,3.9215686274509802,1,2
+openstack/stackviz,openstack/salt-formula-cinder,Core,2.0,0.0,1,1
+openstack/stackviz,openstack/salt-formula-cinder,Non core,0.0,2.0408163265306123,1,1
+openstack/stackviz,openstack/salt-formula-ceilometer,Core,2.380952380952381,0.0,1,1
+openstack/stackviz,openstack/salt-formula-ceilometer,Non core,0.0,1.9607843137254901,1,1
+openstack/stackviz,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pygit2,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-libisal,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xvfbwrapper,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-testresources,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-django-compressor,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-sqlalchemy-utils,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pykmip,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-coffin,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-txaio,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-hplefthandclient,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-django-overextends,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pytimeparse,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-nose-timer,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-retrying,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-django-discover-runner,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-lesscpy,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-happybase,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-extras,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-functools32,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pydot-ng,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-jsonschema,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-kafka,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-rcssmin,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-nose-parameterized,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pika-pool,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-rfc3986,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-httpretty,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pint,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-django-pyscss,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-falcon,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-subunit,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-django-formtools,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-nose-exclude,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pydotplus,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pager,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-proliantutils,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-gnocchiclient,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-django-babel,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-requests-kerberos,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-colander,Non core,0.0,2.380952380952381,0,1
+openstack/stackviz,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-dcos,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-django-bootstrap-form,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-term.js,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-toml,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-semver,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-websocket-client,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-fasteners,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-jingo,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pecan,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-frozendict,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/stackviz,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/stackviz,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-wrapt,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-funcsigs,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-crank,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pyvmomi,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-wsgi-intercept,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-os-cloud-config,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-weakrefmethod,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-steadymark,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-warlock,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-couleur,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-json-patch,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-jsonrpclib,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-multi-key-dict,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-memcache,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pulp,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-fonts-roboto-fontface,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-websockify,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-daemonize,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-pyngus,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-editor,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-ddt,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-monotonic,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-rjsmin,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-jsonpath-rw,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-django-appconf,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-oauth2client,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-json-pointer,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack-attic/akanda,Core,0.0,0.0,0,2
+openstack/stackviz,openstack-attic/akanda,Non core,0.0,4.081632653061225,0,2
+openstack/stackviz,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-smart-table,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-requestbuilder,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-nosehtmloutput,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-csscompressor,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-croniter,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-python-concurrent.futures,Non core,0.0,2.4390243902439024,0,1
+openstack/stackviz,openstack/openstack-salt,Core,2.7777777777777777,0.0,1,2
+openstack/stackviz,openstack/openstack-salt,Non core,0.0,4.545454545454546,1,2
+openstack/stackviz,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/stackviz,openstack/deb-spice-html5,Non core,0.0,2.5,0,1
+openstack/stackviz,openstack/salt-formula-midonet,Core,3.125,0.0,1,1
+openstack/stackviz,openstack/salt-formula-midonet,Non core,0.0,2.5,1,1
+openstack/stackviz,openstack/magnetodb-specs,Core,2.3255813953488373,0.0,1,2
+openstack/stackviz,openstack/magnetodb-specs,Non core,0.0,3.571428571428571,1,2
+openstack/stackviz,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/stackviz,openstack-attic/akanda-appliance-builder,Non core,0.0,2.2222222222222223,0,1
+openstack/stackviz,openstack-attic/oslo.version,Core,7.894736842105263,5.454545454545454,3,4
+openstack/stackviz,openstack-attic/oslo.version,Non core,0.0,1.8181818181818181,3,4
+openstack/stackviz,openstack-attic/image-api,Core,2.380952380952381,1.7543859649122806,1,2
+openstack/stackviz,openstack-attic/image-api,Non core,0.0,1.7543859649122806,1,2
+openstack/stackviz,openstack-attic/object-api,Core,1.9230769230769231,1.4925373134328357,1,2
+openstack/stackviz,openstack-attic/object-api,Non core,0.0,1.4925373134328357,1,2
+openstack/stackviz,openstack-attic/volume-api,Core,2.1739130434782608,1.694915254237288,1,2
+openstack/stackviz,openstack-attic/volume-api,Non core,0.0,1.694915254237288,1,2
+openstack/stackviz,openstack/magnetodb,Core,1.8518518518518516,1.3333333333333335,1,2
+openstack/stackviz,openstack/magnetodb,Non core,0.0,1.3333333333333335,1,2
+openstack/stackviz,openstack/openstack-nose,Core,2.564102564102564,2.1739130434782608,1,2
+openstack/stackviz,openstack/openstack-nose,Non core,0.0,2.1739130434782608,1,2
+openstack/stackviz,openstack-attic/netconn-api,Core,1.694915254237288,2.2988505747126435,1,3
+openstack/stackviz,openstack-attic/netconn-api,Non core,0.0,1.1494252873563218,1,3
+openstack/stackviz,openstack-attic/python-melangeclient,Core,2.631578947368421,0.0,1,1
+openstack/stackviz,openstack-attic/python-melangeclient,Non core,0.0,2.3255813953488373,1,1
+openstack/stackviz,openstack-attic/melange,Core,2.083333333333333,0.0,1,1
+openstack/stackviz,openstack-attic/melange,Non core,0.0,1.8867924528301887,1,1
+openstack/stackviz,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/stackviz,openstack-attic/openstack-qa,Non core,0.0,2.3255813953488373,0,1
+openstack/stackviz,openstack-attic/database-api,Core,4.761904761904762,1.8181818181818181,2,2
+openstack/stackviz,openstack-attic/database-api,Non core,0.0,1.8181818181818181,2,2
+openstack/stackviz,openstack-attic/openstack-security-notes,Core,0.0,0.9259259259259258,0,2
+openstack/stackviz,openstack-attic/openstack-security-notes,Non core,0.0,0.9259259259259258,0,2

@@ -1,0 +1,781 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/xstatic-jasmine,openstack/xstatic-angular-notify,Core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/xstatic-angular-material,Core,7.142857142857142,5.0,1,1
+openstack/xstatic-jasmine,openstack/xstatic-angular-material,Non core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/tempest-tripleo-ui,Core,7.142857142857142,0.0,1,0
+openstack/xstatic-jasmine,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,0
+openstack/xstatic-jasmine,openstack/docs-specs,Core,3.508771929824561,0.45871559633027525,2,5
+openstack/xstatic-jasmine,openstack/docs-specs,Non core,0.0,1.834862385321101,2,5
+openstack/xstatic-jasmine,openstack/release-schedule-generator,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack/release-schedule-generator,Non core,0.0,4.545454545454546,0,1
+openstack/xstatic-jasmine,openstack-infra/opendev-website,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack-infra/opendev-website,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/castellan-ui,Core,6.25,0.0,1,1
+openstack/xstatic-jasmine,openstack/castellan-ui,Non core,0.0,2.7777777777777777,1,1
+openstack/xstatic-jasmine,openstack-attic/compute-api,Core,2.941176470588235,1.9607843137254901,1,2
+openstack/xstatic-jasmine,openstack-attic/compute-api,Non core,0.0,1.9607843137254901,1,2
+openstack/xstatic-jasmine,openstack/charm-neutron-api-odl,Core,4.761904761904762,0.0,1,1
+openstack/xstatic-jasmine,openstack/charm-neutron-api-odl,Non core,0.0,3.7037037037037033,1,1
+openstack/xstatic-jasmine,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/charm-murano,Core,7.6923076923076925,0.0,1,1
+openstack/xstatic-jasmine,openstack/charm-murano,Non core,0.0,5.263157894736842,1,1
+openstack/xstatic-jasmine,openstack/charm-openvswitch-odl,Core,4.761904761904762,0.0,1,1
+openstack/xstatic-jasmine,openstack/charm-openvswitch-odl,Non core,0.0,4.0,1,1
+openstack/xstatic-jasmine,openstack/charm-interface-odl-controller-api,Core,7.142857142857142,0.0,1,1
+openstack/xstatic-jasmine,openstack/charm-interface-odl-controller-api,Non core,0.0,5.263157894736842,1,1
+openstack/xstatic-jasmine,openstack/charm-glusterfs,Core,7.6923076923076925,0.0,1,1
+openstack/xstatic-jasmine,openstack/charm-glusterfs,Non core,0.0,4.166666666666666,1,1
+openstack/xstatic-jasmine,openstack/charm-trove,Core,5.555555555555555,0.0,1,1
+openstack/xstatic-jasmine,openstack/charm-trove,Non core,0.0,4.3478260869565215,1,1
+openstack/xstatic-jasmine,openstack/deb-python-positional,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-positional,Non core,8.333333333333332,5.263157894736842,1,1
+openstack/xstatic-jasmine,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-requests-unixsocket,Non core,7.6923076923076925,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-traceback2,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-traceback2,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-ryu,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-ryu,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-linecache2,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-linecache2,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-gabbi,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-gabbi,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-cotyledon,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-cotyledon,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-migrate,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-migrate,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/fuxi,Core,0.0,0.0,0,2
+openstack/xstatic-jasmine,openstack/fuxi,Non core,0.0,3.278688524590164,0,2
+openstack/xstatic-jasmine,openstack/xstatic-filesaver,Core,8.333333333333332,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/xstatic-filesaver,Non core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/xstatic-angular-uuid,Core,8.333333333333332,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/bandit,Core,2.898550724637681,0.0,2,3
+openstack/xstatic-jasmine,openstack/bandit,Non core,0.0,3.571428571428571,2,3
+openstack/xstatic-jasmine,openstack/xstatic-angular-smart-table,Core,18.181818181818183,23.52941176470588,4,7
+openstack/xstatic-jasmine,openstack/xstatic-angular-smart-table,Non core,18.181818181818183,17.647058823529413,4,7
+openstack/xstatic-jasmine,openstack/xstatic-bootswatch,Core,16.666666666666664,13.636363636363635,4,8
+openstack/xstatic-jasmine,openstack/xstatic-bootswatch,Non core,16.666666666666664,22.727272727272727,4,8
+openstack/xstatic-jasmine,openstack/deb-msgpack-python,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-msgpack-python,Non core,8.333333333333332,5.263157894736842,1,1
+openstack/xstatic-jasmine,openstack/xstatic-d3,Core,15.384615384615385,19.047619047619047,4,9
+openstack/xstatic-jasmine,openstack/xstatic-d3,Non core,15.384615384615385,23.809523809523807,4,9
+openstack/xstatic-jasmine,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/deb-python-pymemcache,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pymemcache,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-novnc,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-novnc,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/instack,Core,3.125,2.0,2,3
+openstack/xstatic-jasmine,openstack/instack,Non core,3.125,4.0,2,3
+openstack/xstatic-jasmine,openstack/deb-python-pysaml2,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pysaml2,Non core,8.333333333333332,5.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-trollius,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-trollius,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-autobahn,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-autobahn,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pyldap,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pyldap,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/astara,Core,6.521739130434782,0.0,3,3
+openstack/xstatic-jasmine,openstack/astara,Non core,0.0,4.761904761904762,3,3
+openstack/xstatic-jasmine,openstack/astara-appliance,Core,8.333333333333332,0.0,2,3
+openstack/xstatic-jasmine,openstack/astara-appliance,Non core,0.0,7.894736842105263,2,3
+openstack/xstatic-jasmine,openstack/astara-horizon,Core,11.76470588235294,0.0,2,3
+openstack/xstatic-jasmine,openstack/astara-horizon,Non core,0.0,9.67741935483871,2,3
+openstack/xstatic-jasmine,openstack/astara-neutron,Core,9.523809523809524,0.0,2,3
+openstack/xstatic-jasmine,openstack/astara-neutron,Non core,0.0,9.375,2,3
+openstack/xstatic-jasmine,openstack/anchor,Core,0.0,0.0,0,3
+openstack/xstatic-jasmine,openstack/anchor,Non core,0.0,5.263157894736842,0,3
+openstack/xstatic-jasmine,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/fuxi-golang,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/fuxi-golang,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/fuxi-kubernetes,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack/fuxi-kubernetes,Non core,0.0,4.0,0,1
+openstack/xstatic-jasmine,openstack-infra/puppet-odsreg,Core,6.25,0.0,1,3
+openstack/xstatic-jasmine,openstack-infra/puppet-odsreg,Non core,0.0,10.714285714285714,1,3
+openstack/xstatic-jasmine,openstack-infra/puppet-docker_registry,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/releasestatus,Core,7.6923076923076925,0.0,1,1
+openstack/xstatic-jasmine,openstack/releasestatus,Non core,0.0,4.166666666666666,1,1
+openstack/xstatic-jasmine,openstack-infra/vinz-webclient,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/activity-board,Core,0.0,1.5873015873015872,0,2
+openstack/xstatic-jasmine,openstack/activity-board,Non core,0.0,1.5873015873015872,0,2
+openstack/xstatic-jasmine,openstack-infra/beaker-localhost,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack-infra/beaker-nodepool,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/rst2bash,Core,7.142857142857142,0.0,1,1
+openstack/xstatic-jasmine,openstack/rst2bash,Non core,0.0,3.8461538461538463,1,1
+openstack/xstatic-jasmine,openstack/kolla-kubernetes,Core,1.3157894736842104,0.0,1,2
+openstack/xstatic-jasmine,openstack/kolla-kubernetes,Non core,0.0,1.4814814814814816,1,2
+openstack/xstatic-jasmine,openstack/cue-dashboard,Core,4.761904761904762,4.166666666666666,1,4
+openstack/xstatic-jasmine,openstack/cue-dashboard,Non core,0.0,12.5,1,4
+openstack/xstatic-jasmine,openstack/python-cueclient,Core,4.545454545454546,0.0,3,3
+openstack/xstatic-jasmine,openstack/python-cueclient,Non core,9.090909090909092,12.0,3,3
+openstack/xstatic-jasmine,openstack/cue,Core,5.0,0.0,3,3
+openstack/xstatic-jasmine,openstack/cue,Non core,2.5,6.122448979591836,3,3
+openstack/xstatic-jasmine,openstack/app-catalog,Core,2.8169014084507045,0.0,2,2
+openstack/xstatic-jasmine,openstack/app-catalog,Non core,0.0,2.5,2,2
+openstack/xstatic-jasmine,openstack-attic/identity-api,Core,1.8867924528301887,1.0204081632653061,1,2
+openstack/xstatic-jasmine,openstack-attic/identity-api,Non core,0.0,1.0204081632653061,1,2
+openstack/xstatic-jasmine,openstack/deb-python-fixtures,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-fixtures,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack/python-magnetodbclient,Non core,0.0,3.8461538461538463,0,1
+openstack/xstatic-jasmine,openstack/app-catalog-ui,Core,5.263157894736842,3.225806451612903,1,3
+openstack/xstatic-jasmine,openstack/app-catalog-ui,Non core,0.0,6.451612903225806,1,3
+openstack/xstatic-jasmine,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack/salt-formula-kubernetes,Non core,0.0,4.3478260869565215,0,1
+openstack/xstatic-jasmine,openstack/app-catalog-common,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack/app-catalog-common,Non core,0.0,5.263157894736842,0,1
+openstack/xstatic-jasmine,openstack/python-appcatalogclient,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack/python-appcatalogclient,Non core,0.0,4.545454545454546,0,1
+openstack/xstatic-jasmine,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/deb-nova,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-nova,Non core,7.6923076923076925,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-kazoo,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-kazoo,Non core,8.333333333333332,5.263157894736842,1,1
+openstack/xstatic-jasmine,openstack/deb-python-congressclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-congressclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-congress,Core,9.090909090909092,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-congress,Non core,0.0,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-os-net-config,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-net-config,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-ironic,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-ironic,Non core,7.6923076923076925,4.761904761904762,2,1
+openstack/xstatic-jasmine,openstack/deb-swauth,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-swauth,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-api-ref,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-api-ref,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-designate,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-designate,Non core,8.333333333333332,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-swift,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-swift,Non core,9.090909090909092,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-manila-ui,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-manila-ui,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-barbican,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-barbican,Non core,7.6923076923076925,4.761904761904762,2,1
+openstack/xstatic-jasmine,openstack/deb-cinder,Core,7.142857142857142,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-cinder,Non core,7.142857142857142,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-magnum,Core,7.142857142857142,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-magnum,Non core,7.142857142857142,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-trove,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-trove,Non core,8.333333333333332,4.545454545454546,2,1
+openstack/xstatic-jasmine,openstack/deb-openstack-pkg-tools,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-openstack-pkg-tools,Non core,6.25,3.8461538461538463,1,1
+openstack/xstatic-jasmine,openstack/deb-python-swiftclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-swiftclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-alembic,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-alembic,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-cinderclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-cinderclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-bootstrap,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-bootstrap,Non core,8.333333333333332,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/deb-networking-nec,Core,9.090909090909092,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-nec,Non core,0.0,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-neutron-taas,Core,9.090909090909092,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-neutron-taas,Non core,0.0,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-mlnx,Core,7.6923076923076925,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-mlnx,Non core,0.0,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-openstack-meta-packages,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-openstack-meta-packages,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-odl,Core,9.090909090909092,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-odl,Non core,0.0,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-nodepool,Core,9.090909090909092,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-nodepool,Non core,0.0,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-cisco,Core,9.090909090909092,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-cisco,Non core,0.0,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-midonet,Core,9.090909090909092,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-midonet,Non core,0.0,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-arista,Core,8.333333333333332,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-arista,Non core,0.0,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/deb-networking-hyperv,Core,9.090909090909092,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-networking-hyperv,Non core,0.0,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-rtslib-fb,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-rtslib-fb,Non core,7.6923076923076925,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-murano,Core,7.142857142857142,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-murano,Non core,7.142857142857142,4.545454545454546,2,1
+openstack/xstatic-jasmine,openstack/deb-python-semantic-version,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-semantic-version,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-ldappool,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-ldappool,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-zaqar-ui,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-zaqar-ui,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-zaqar,Core,7.142857142857142,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-zaqar,Non core,7.142857142857142,4.545454545454546,2,1
+openstack/xstatic-jasmine,openstack/deb-watcher,Core,7.142857142857142,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-watcher,Non core,7.142857142857142,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-testr,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-testr,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-win,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-win,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-pycadf,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-pycadf,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-pyghmi,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-pyghmi,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-reno,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-reno,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-refresh-config,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-refresh-config,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-vif,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-vif,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-pyeclib,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-pyeclib,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-python-quantumclient,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-quantumclient,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-python-requestsexceptions,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-requestsexceptions,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-pbr,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-pbr,Non core,8.333333333333332,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-requests-mock,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-requests-mock,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-saharaclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-saharaclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-scciclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-scciclient,Non core,8.333333333333332,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-python-seamicroclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-seamicroclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-auto-backports,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-auto-backports,Non core,7.6923076923076925,4.761904761904762,2,1
+openstack/xstatic-jasmine,openstack/deb-python-senlinclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-senlinclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-taskflow,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-taskflow,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-testtools,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-testtools,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-tooz,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-tooz,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-shotgun,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-shotgun,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-tackerclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-tackerclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-tosca-parser,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-tosca-parser,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-troveclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-troveclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-tuskarclient,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-tuskarclient,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-python-watcherclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-watcherclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-cookies,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-cookies,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-fileupload,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-fileupload,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-lrdragndrop,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-wsme,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-wsme,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-schema-form,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-schema-form,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-bootstrap-datepicker,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-bootswatch,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-bootswatch,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-gettext,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-gettext,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-mock,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-angular-mock,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-bootstrap-scss,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-bootstrap-scss,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-d3,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-d3,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-hogan,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-hogan,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-font-awesome,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-font-awesome,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jasmine,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jasmine,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery-migrate,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery-migrate,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery.quicksearch,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery.quicksearch,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery.tablesorter,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery.tablesorter,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jsencrypt,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jsencrypt,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-magic-search,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-magic-search,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-mdi,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-mdi,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-objectpath,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-objectpath,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-qunit,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-qunit,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-rickshaw,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-rickshaw,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-spin,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-spin,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-tv4,Core,8.333333333333332,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-tv4,Non core,0.0,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-yaql,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-yaql,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-zaqarclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-zaqarclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-rally,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-rally,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-sahara,Core,7.142857142857142,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-sahara,Non core,7.142857142857142,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-sahara-dashboard,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-sahara-dashboard,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-senlin,Core,7.142857142857142,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-senlin,Non core,7.142857142857142,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-senlin-dashboard,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-senlin-dashboard,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-stevedore,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-stevedore,Non core,8.333333333333332,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-swift-bench,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-swift-bench,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-swift-plugin-s3,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-swift-plugin-s3,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-trove-dashboard,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-trove-dashboard,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-tempest,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-tempest,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-osprofiler,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-osprofiler,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.vmware,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.vmware,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.utils,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.utils,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.rootwrap,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.rootwrap,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.service,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.service,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.privsep,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.privsep,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.versionedobjects,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.versionedobjects,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslotest,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslotest,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.serialization,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.serialization,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.reports,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.reports,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.policy,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.policy,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.middleware,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.middleware,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.messaging,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.messaging,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.log,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.log,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-aodhclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-aodhclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-automaton,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-automaton,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-barbicanclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-barbicanclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-bashate,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-bashate,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-python-castellan,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-castellan,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-ceilometerclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-ceilometerclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-ceilometermiddleware,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-ceilometermiddleware,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-cliff,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-cliff,Non core,8.333333333333332,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-cursive,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-cursive,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-debtcollector,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-debtcollector,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-designateclient,Core,8.333333333333332,0.0,2,2
+openstack/xstatic-jasmine,openstack/deb-python-designateclient,Non core,8.333333333333332,10.526315789473683,2,2
+openstack/xstatic-jasmine,openstack/deb-python-dib-utils,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-dib-utils,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-python-diskimage-builder,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-diskimage-builder,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-doc8,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-doc8,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-django-openstack-auth,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-django-openstack-auth,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-fuelclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-fuelclient,Non core,8.333333333333332,4.545454545454546,2,1
+openstack/xstatic-jasmine,openstack/deb-python-dogpile.cache,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-dogpile.cache,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-futurist,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-futurist,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-glanceclient,Core,8.333333333333332,0.0,2,2
+openstack/xstatic-jasmine,openstack/deb-python-glanceclient,Non core,8.333333333333332,10.526315789473683,2,2
+openstack/xstatic-jasmine,openstack/deb-python-glance-store,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-glance-store,Non core,8.333333333333332,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-hacking,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-hacking,Non core,7.6923076923076925,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-heatclient,Core,8.333333333333332,0.0,2,2
+openstack/xstatic-jasmine,openstack/deb-python-heatclient,Non core,8.333333333333332,10.526315789473683,2,2
+openstack/xstatic-jasmine,openstack/deb-python-ironicclient,Core,8.333333333333332,0.0,2,2
+openstack/xstatic-jasmine,openstack/deb-python-ironicclient,Non core,8.333333333333332,10.526315789473683,2,2
+openstack/xstatic-jasmine,openstack/deb-python-ironic-inspector-client,Core,8.333333333333332,0.0,2,2
+openstack/xstatic-jasmine,openstack/deb-python-ironic-inspector-client,Non core,8.333333333333332,10.526315789473683,2,2
+openstack/xstatic-jasmine,openstack/deb-python-ironic-lib,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-ironic-lib,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-jsonpath-rw-ext,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-jsonpath-rw-ext,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-k8sclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-k8sclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-keystoneauth1,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-keystoneauth1,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-keystoneclient,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-keystoneclient,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-keystonemiddleware,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-keystonemiddleware,Non core,8.333333333333332,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-magnumclient,Core,8.333333333333332,0.0,2,2
+openstack/xstatic-jasmine,openstack/deb-python-magnumclient,Non core,8.333333333333332,10.0,2,2
+openstack/xstatic-jasmine,openstack/deb-python-manilaclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-manilaclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-microversion-parse,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-microversion-parse,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-mistralclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-mistralclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-monascaclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-monascaclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-mox3,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-mox3,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-muranoclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-muranoclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-neutronclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-neutronclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-neutron-lib,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-neutron-lib,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-novaclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-novaclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-openstackclient,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-openstackclient,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-openstackdocstheme,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-openstackdocstheme,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-openstacksdk,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-openstacksdk,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-apply-config,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-apply-config,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-brick,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-brick,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-osc-lib,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-osc-lib,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-client-config,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-client-config,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-collect-config,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-os-collect-config,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.cache,Core,7.6923076923076925,0.0,2,2
+openstack/xstatic-jasmine,openstack/deb-python-oslo.cache,Non core,7.6923076923076925,10.526315789473683,2,2
+openstack/xstatic-jasmine,openstack/deb-python-oslo.db,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.db,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.concurrency,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.concurrency,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.config,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.config,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.i18n,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.i18n,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.context,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-python-oslo.context,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-openstack-nose,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-openstack-nose,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-openstack-doc-tools,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-openstack-doc-tools,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-openstack-trove,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-openstack-trove,Non core,7.6923076923076925,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-oslosphinx,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-oslosphinx,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-aodh,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-aodh,Non core,7.6923076923076925,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-bandit,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-bandit,Non core,7.6923076923076925,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-ceilometer,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-ceilometer,Non core,7.6923076923076925,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-ceilometermiddleware,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-ceilometermiddleware,Non core,9.090909090909092,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-designate-dashboard,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-designate-dashboard,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-git-review,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-git-review,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-glance,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-glance,Non core,7.6923076923076925,4.545454545454546,2,1
+openstack/xstatic-jasmine,openstack/deb-glare,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-glare,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-heat,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-heat,Non core,7.6923076923076925,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-heat-cfntools,Core,8.333333333333332,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-heat-cfntools,Non core,0.0,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-horizon,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-horizon,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-ironic-inspector,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-ironic-inspector,Non core,7.6923076923076925,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-ironic-ui,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-ironic-ui,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-keystone,Core,7.142857142857142,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-keystone,Non core,7.142857142857142,4.761904761904762,2,1
+openstack/xstatic-jasmine,openstack/deb-liberasurecode,Core,9.090909090909092,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-liberasurecode,Non core,9.090909090909092,5.555555555555555,2,1
+openstack/xstatic-jasmine,openstack/deb-manila,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-manila,Non core,7.6923076923076925,5.0,2,1
+openstack/xstatic-jasmine,openstack/deb-mistral,Core,6.25,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-mistral,Non core,6.25,4.545454545454546,2,1
+openstack/xstatic-jasmine,openstack/deb-murano-agent,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-murano-agent,Non core,7.6923076923076925,4.545454545454546,2,1
+openstack/xstatic-jasmine,openstack/deb-murano-dashboard,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-murano-dashboard,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-networking-l2gw,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-networking-l2gw,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-networking-ovn,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-networking-ovn,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-neutron,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-neutron,Non core,7.6923076923076925,4.761904761904762,2,1
+openstack/xstatic-jasmine,openstack/deb-neutron-fwaas,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-neutron-fwaas,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-neutron-vpnaas,Core,8.333333333333332,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-neutron-vpnaas,Non core,8.333333333333332,5.263157894736842,2,1
+openstack/xstatic-jasmine,openstack/deb-neutron-lbaas,Core,7.6923076923076925,0.0,2,1
+openstack/xstatic-jasmine,openstack/deb-neutron-lbaas,Non core,7.6923076923076925,4.545454545454546,2,1
+openstack/xstatic-jasmine,openstack/installguide-cookiecutter,Core,0.0,0.0,0,2
+openstack/xstatic-jasmine,openstack/installguide-cookiecutter,Non core,0.0,6.896551724137931,0,2
+openstack/xstatic-jasmine,openstack/deb-gnocchi,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-gnocchi,Non core,7.142857142857142,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-eventlet,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-eventlet,Non core,7.6923076923076925,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pymysql,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pymysql,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-opencontrail,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-opencontrail,Non core,3.7037037037037033,3.571428571428571,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-neutron,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-neutron,Non core,3.8461538461538463,3.225806451612903,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack/salt-formula-swift,Non core,0.0,4.761904761904762,0,1
+openstack/xstatic-jasmine,openstack/salt-formula-nova,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-nova,Non core,3.125,3.225806451612903,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-keystone,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-keystone,Non core,3.4482758620689653,3.4482758620689653,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-horizon,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-horizon,Non core,4.166666666666666,3.8461538461538463,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-heat,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-heat,Non core,3.225806451612903,3.7037037037037033,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-glance,Core,0.0,0.0,1,2
+openstack/xstatic-jasmine,openstack/salt-formula-glance,Non core,3.3333333333333335,7.142857142857142,1,2
+openstack/xstatic-jasmine,openstack/salt-formula-cinder,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-cinder,Non core,3.4482758620689653,3.8461538461538463,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-ceilometer,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/salt-formula-ceilometer,Non core,4.761904761904762,3.571428571428571,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pygit2,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pygit2,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-libisal,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-libisal,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xvfbwrapper,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-testresources,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-testresources,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-compressor,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-compressor,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-sqlalchemy-utils,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pykmip,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pykmip,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-coffin,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-coffin,Non core,8.333333333333332,5.263157894736842,1,1
+openstack/xstatic-jasmine,openstack/deb-python-txaio,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-txaio,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-hplefthandclient,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-hplefthandclient,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-overextends,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-overextends,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pytimeparse,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pytimeparse,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-nose-timer,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-nose-timer,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-retrying,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-retrying,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-discover-runner,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-discover-runner,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-lesscpy,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-lesscpy,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-happybase,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-happybase,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-extras,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-extras,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-functools32,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-functools32,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pydot-ng,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pydot-ng,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-jsonschema,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-jsonschema,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-kafka,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-kafka,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-rcssmin,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-rcssmin,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-nose-parameterized,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-nose-parameterized,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pika-pool,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pika-pool,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-rfc3986,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-rfc3986,Non core,7.6923076923076925,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-httpretty,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-httpretty,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pint,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pint,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-pyscss,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-pyscss,Non core,9.090909090909092,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-falcon,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-falcon,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-subunit,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-subunit,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-formtools,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-formtools,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-nose-exclude,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-nose-exclude,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pydotplus,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pydotplus,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pager,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pager,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-proliantutils,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-proliantutils,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-gnocchiclient,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-gnocchiclient,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-babel,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-babel,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-requests-kerberos,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-requests-kerberos,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-colander,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-colander,Non core,8.333333333333332,5.263157894736842,1,1
+openstack/xstatic-jasmine,openstack/deb-python-dcos,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-dcos,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-bootstrap-form,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-term.js,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-toml,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-toml,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-semver,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-semver,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-websocket-client,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-websocket-client,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-fasteners,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-fasteners,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-jingo,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-jingo,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pecan,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pecan,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-frozendict,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-frozendict,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/xstatic-jasmine,openstack/deb-python-wrapt,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-wrapt,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-funcsigs,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-funcsigs,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-crank,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-crank,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pyvmomi,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pyvmomi,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-wsgi-intercept,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-os-cloud-config,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-os-cloud-config,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-weakrefmethod,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-weakrefmethod,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-steadymark,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-steadymark,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-warlock,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-warlock,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-couleur,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-couleur,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-roboto-fontface,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-fonts-materialdesignicons-webfont,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-json-patch,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-json-patch,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-jsonrpclib,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-jsonrpclib,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-multi-key-dict,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-multi-key-dict,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-memcache,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-memcache,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pulp,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pulp,Non core,8.333333333333332,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-fonts-roboto-fontface,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-websockify,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-websockify,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-daemonize,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-daemonize,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pyngus,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-pyngus,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-editor,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-editor,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-ddt,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-ddt,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-monotonic,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-monotonic,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-rjsmin,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-rjsmin,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-jsonpath-rw,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-appconf,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-django-appconf,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-oauth2client,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-oauth2client,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-json-pointer,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-json-pointer,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack-attic/akanda,Core,6.666666666666667,0.0,1,3
+openstack/xstatic-jasmine,openstack-attic/akanda,Non core,0.0,12.0,1,3
+openstack/xstatic-jasmine,openstack/deb-python-xstatic,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-smart-table,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-xstatic-jquery-ui,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-requestbuilder,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-requestbuilder,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-nosehtmloutput,Non core,9.090909090909092,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-csscompressor,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-csscompressor,Non core,8.333333333333332,5.88235294117647,1,1
+openstack/xstatic-jasmine,openstack/deb-python-croniter,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-croniter,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/deb-python-concurrent.futures,Core,0.0,0.0,1,1
+openstack/xstatic-jasmine,openstack/deb-python-concurrent.futures,Non core,8.333333333333332,5.555555555555555,1,1
+openstack/xstatic-jasmine,openstack/openstack-salt,Core,0.0,0.0,0,2
+openstack/xstatic-jasmine,openstack/openstack-salt,Non core,0.0,9.523809523809524,0,2
+openstack/xstatic-jasmine,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack/deb-spice-html5,Non core,0.0,5.88235294117647,0,1
+openstack/xstatic-jasmine,openstack/salt-formula-midonet,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack/salt-formula-midonet,Non core,0.0,5.88235294117647,0,1
+openstack/xstatic-jasmine,openstack/magnetodb-specs,Core,4.545454545454546,0.0,1,3
+openstack/xstatic-jasmine,openstack/magnetodb-specs,Non core,0.0,9.375,1,3
+openstack/xstatic-jasmine,openstack-attic/akanda-appliance-builder,Core,6.666666666666667,0.0,1,2
+openstack/xstatic-jasmine,openstack-attic/akanda-appliance-builder,Non core,0.0,9.523809523809524,1,2
+openstack/xstatic-jasmine,openstack-attic/oslo.version,Core,11.11111111111111,0.0,2,1
+openstack/xstatic-jasmine,openstack-attic/oslo.version,Non core,0.0,2.857142857142857,2,1
+openstack/xstatic-jasmine,openstack-attic/image-api,Core,4.761904761904762,0.0,1,1
+openstack/xstatic-jasmine,openstack-attic/image-api,Non core,0.0,2.857142857142857,1,1
+openstack/xstatic-jasmine,openstack-attic/object-api,Core,3.225806451612903,0.0,1,1
+openstack/xstatic-jasmine,openstack-attic/object-api,Non core,0.0,2.2222222222222223,1,1
+openstack/xstatic-jasmine,openstack-attic/volume-api,Core,4.0,0.0,1,1
+openstack/xstatic-jasmine,openstack-attic/volume-api,Non core,0.0,2.7027027027027026,1,1
+openstack/xstatic-jasmine,openstack/magnetodb,Core,3.0303030303030303,0.0,1,1
+openstack/xstatic-jasmine,openstack/magnetodb,Non core,0.0,1.8867924528301887,1,1
+openstack/xstatic-jasmine,openstack/openstack-nose,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack/openstack-nose,Non core,0.0,4.166666666666666,0,1
+openstack/xstatic-jasmine,openstack-attic/netconn-api,Core,2.631578947368421,1.5384615384615385,1,2
+openstack/xstatic-jasmine,openstack-attic/netconn-api,Non core,0.0,1.5384615384615385,1,2
+openstack/xstatic-jasmine,openstack-attic/python-melangeclient,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack-attic/python-melangeclient,Non core,0.0,5.0,0,1
+openstack/xstatic-jasmine,openstack-attic/melange,Core,3.7037037037037033,0.0,1,1
+openstack/xstatic-jasmine,openstack-attic/melange,Non core,0.0,3.3333333333333335,1,1
+openstack/xstatic-jasmine,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/xstatic-jasmine,openstack-attic/openstack-qa,Non core,0.0,5.0,0,1
+openstack/xstatic-jasmine,openstack-attic/database-api,Core,4.545454545454546,0.0,1,1
+openstack/xstatic-jasmine,openstack-attic/database-api,Non core,0.0,3.0303030303030303,1,1
+openstack/xstatic-jasmine,openstack-attic/openstack-security-notes,Core,0.0,4.878048780487805,0,5
+openstack/xstatic-jasmine,openstack-attic/openstack-security-notes,Non core,0.0,1.2195121951219512,0,5

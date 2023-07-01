@@ -1,0 +1,2499 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/charm-cinder-k8s,openstack/ceilometer,Core,0.0,0.0,2,2
+openstack/charm-cinder-k8s,openstack/ceilometer,Non core,0.437636761487965,0.261437908496732,2,2
+openstack/charm-cinder-k8s,openstack/charm-cinder-ceph-k8s,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-cinder-ceph-k8s,Non core,60.0,100.0,3,4
+openstack/charm-cinder-k8s,openstack/puppet-zaqar,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-zaqar,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack_extras,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack_extras,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack-integration,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack-integration,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-octavia,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-octavia,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/heat,Non core,0.1834862385321101,0.2,1,2
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_nova,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_nova,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_heat,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_heat,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/project-config,Core,0.0,0.0,5,3
+openstack/charm-cinder-k8s,openstack/project-config,Non core,0.45454545454545453,0.16242555495397942,5,3
+openstack/charm-cinder-k8s,openstack/tripleo-quickstart,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-quickstart,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-collections-openstack,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-collections-openstack,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-puppet-elements,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-puppet-elements,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-collect-logs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-collect-logs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/releases,Core,0.0,0.0,1,0
+openstack/charm-cinder-k8s,openstack/releases,Non core,0.23094688221709006,0.0,1,0
+openstack/charm-cinder-k8s,openstack/puppet-ceph,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-ceph,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-tempest-skiplist,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-tempest-skiplist,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-tempest-plugin,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/neutron-tempest-plugin,Non core,1.0101010101010102,0.53475935828877,1,1
+openstack/charm-cinder-k8s,openstack/validations-libs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/validations-libs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/octavia-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/octavia-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kolla,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/kolla,Non core,0.0,0.12970168612191957,0,1
+openstack/charm-cinder-k8s,openstack/glance-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/glance-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/telemetry-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/telemetry-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-net-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-net-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kuryr-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kuryr-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charms.openstack,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charms.openstack,Non core,7.894736842105263,12.903225806451612,3,4
+openstack/charm-cinder-k8s,openstack/puppet-trove,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-trove,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-image-elements,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-image-elements,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/bifrost,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/bifrost,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/designate-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/designate-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/osc-placement,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/osc-placement,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/loci,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/loci,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-ceph,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-ceph,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-guide,Core,0.0,0.0,5,4
+openstack/charm-cinder-k8s,openstack/charm-guide,Non core,7.8125,9.090909090909092,5,4
+openstack/charm-cinder-k8s,openstack/openstack-zuul-jobs,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/openstack-zuul-jobs,Non core,0.6329113924050633,0.39215686274509803,1,1
+openstack/charm-cinder-k8s,openstack/os-traits,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-traits,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-novaclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-novaclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/solum,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/solum,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-pkg-check,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-pkg-check,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-agent,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-agent,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/octavia,Core,0.0,0.0,2,1
+openstack/charm-cinder-k8s,openstack/octavia,Non core,0.7462686567164178,0.22727272727272727,2,1
+openstack/charm-cinder-k8s,openstack/charm-nova-compute,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-nova-compute,Non core,3.9473684210526314,5.47945205479452,3,4
+openstack/charm-cinder-k8s,openstack/keystone,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/keystone,Non core,0.4934210526315789,0.4020100502512563,3,4
+openstack/charm-cinder-k8s,openstack/openstack-helm-images,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-helm-images,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-cinderclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-cinderclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cinderlib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cinderlib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/keystone-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/keystone-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-brick,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/os-brick,Non core,0.0,0.29069767441860467,0,1
+openstack/charm-cinder-k8s,openstack/ansible-collection-kolla,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-collection-kolla,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/horizon,Core,0.0,0.0,1,3
+openstack/charm-cinder-k8s,openstack/horizon,Non core,0.12594458438287154,0.21505376344086022,1,3
+openstack/charm-cinder-k8s,openstack/mistral-extra,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mistral-extra,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-pacemaker,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-pacemaker,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-trilio-data-mover,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-trilio-data-mover,Non core,25.0,23.076923076923077,3,3
+openstack/charm-cinder-k8s,openstack/glance-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/glance-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ops-sunbeam,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-ops-sunbeam,Non core,66.66666666666666,80.0,4,4
+openstack/charm-cinder-k8s,openstack/mistral,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mistral,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/validations-common,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/validations-common,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ci-log-processing,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ci-log-processing,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_ceilometer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_aodh,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_aodh,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-swiftclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-swiftclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/rpm-packaging,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/rpm-packaging,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/placement,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/placement,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-resource-classes,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-resource-classes,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/blazar,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/blazar,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_glance,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_glance,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/governance,Core,0.0,0.0,3,2
+openstack/charm-cinder-k8s,openstack/governance,Non core,0.6741573033707865,0.19102196752626552,3,2
+openstack/charm-cinder-k8s,openstack/cloudkitty,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cloudkitty,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-dynamic-routing,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/neutron-dynamic-routing,Non core,1.1904761904761905,0.7299270072992701,1,1
+openstack/charm-cinder-k8s,openstack/kayobe,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kayobe,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-zookeeper,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-zookeeper,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-manilaclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-manilaclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-operator-ansible,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-operator-ansible,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/octavia-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/octavia-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/blazar-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/blazar-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-specs,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/neutron-specs,Non core,0.0,0.3472222222222222,0,2
+openstack/charm-cinder-k8s,openstack/tooz,Core,0.0,0.0,1,0
+openstack/charm-cinder-k8s,openstack/tooz,Non core,1.0869565217391304,0.0,1,0
+openstack/charm-cinder-k8s,openstack/manila-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/manila-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/glance_store,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/glance_store,Non core,0.6944444444444444,0.33333333333333337,1,1
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_neutron,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_neutron,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-ken,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-ken,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/keystoneauth,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/keystoneauth,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-haproxy_server,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-haproxy_server,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/grenade,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/grenade,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-midonet,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-midonet,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-ironicclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-ironicclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.messaging,Core,0.0,0.0,2,1
+openstack/charm-cinder-k8s,openstack/oslo.messaging,Non core,0.8438818565400843,0.26666666666666666,2,1
+openstack/charm-cinder-k8s,openstack/tripleo-docs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-docs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnum,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnum,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/diskimage-builder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/diskimage-builder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/masakari,Core,0.0,0.0,2,1
+openstack/charm-cinder-k8s,openstack/masakari,Non core,2.197802197802198,0.7874015748031495,2,1
+openstack/charm-cinder-k8s,openstack/python-venusclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-venusclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-container-registry,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-container-registry,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-ovn,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-ovn,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-rabbitmq-server,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-rabbitmq-server,Non core,6.25,7.547169811320755,3,4
+openstack/charm-cinder-k8s,openstack/senlin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/senlin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-designateclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-designateclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-horizon,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-horizon,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-lxc_hosts,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-lxc_hosts,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/keystone-tempest-plugin,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/keystone-tempest-plugin,Non core,4.166666666666666,1.8181818181818181,1,1
+openstack/charm-cinder-k8s,openstack/python-barbicanclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_ironic,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_ironic,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-trilio-wlm,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-trilio-wlm,Non core,30.0,25.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-trilio-horizon-plugin,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-trilio-horizon-plugin,Non core,30.0,27.27272727272727,3,3
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_barbican,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_barbican,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/skyline-apiserver,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/skyline-apiserver,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.policy,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.policy,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-tests,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-tests,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_rally,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_rally,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-rabbitmq_server,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-rabbitmq_server,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_horizon,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_horizon,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.log,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.log,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ceph-dashboard,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-ceph-dashboard,Non core,23.076923076923077,25.0,3,3
+openstack/charm-cinder-k8s,openstack/openstack-ansible-lxc_container_create,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-lxc_container_create,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-ops,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-ops,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_sahara,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_sahara,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-glanceclient,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/python-glanceclient,Non core,0.4,0.234192037470726,1,1
+openstack/charm-cinder-k8s,openstack/charm-vault,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-vault,Non core,10.0,9.090909090909092,4,4
+openstack/charm-cinder-k8s,openstack/puppet-glance,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-glance,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.utils,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.utils,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-mysql-innodb-cluster,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-mysql-innodb-cluster,Non core,11.11111111111111,22.22222222222222,3,4
+openstack/charm-cinder-k8s,openstack/charm-trilio-dm-api,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-trilio-dm-api,Non core,30.0,27.27272727272727,3,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-lvm,Core,0.0,0.0,1,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-lvm,Non core,10.0,27.27272727272727,1,3
+openstack/charm-cinder-k8s,openstack/cinder-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cinder-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/barbican-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/barbican-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnum-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnum-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-interface-mysql-router,Core,0.0,0.0,1,3
+openstack/charm-cinder-k8s,openstack/charm-interface-mysql-router,Non core,14.285714285714285,30.0,1,3
+openstack/charm-cinder-k8s,openstack/venus,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/venus,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-neutron-api,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-neutron-api,Non core,7.017543859649122,6.153846153846154,4,4
+openstack/charm-cinder-k8s,openstack/tacker-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tacker-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-galera_server,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-galera_server,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack_spec_helper,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack_spec_helper,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/trove-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/trove-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/pyeclib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/pyeclib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-vpnaas,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/neutron-vpnaas,Non core,0.7092198581560284,0.38461538461538464,1,1
+openstack/charm-cinder-k8s,openstack/charm-designate,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-designate,Non core,8.108108108108109,11.11111111111111,3,4
+openstack/charm-cinder-k8s,openstack/neutron-lbaas,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.privsep,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.privsep,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-glance,Core,0.0,0.0,4,3
+openstack/charm-cinder-k8s,openstack/charm-glance,Non core,7.6923076923076925,6.382978723404255,4,3
+openstack/charm-cinder-k8s,openstack/charm-ceph-mon,Core,0.0,0.0,5,4
+openstack/charm-cinder-k8s,openstack/charm-ceph-mon,Non core,8.47457627118644,7.2727272727272725,5,4
+openstack/charm-cinder-k8s,openstack/vitrage,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/vitrage,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-murano,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-murano,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-bagpipe,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-bagpipe,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/api-site,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/api-site,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-cinder-purestorage,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-purestorage,Non core,11.76470588235294,17.647058823529413,2,3
+openstack/charm-cinder-k8s,openstack/python-magnumclient,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/python-magnumclient,Non core,0.7352941176470588,0.5952380952380952,1,1
+openstack/charm-cinder-k8s,openstack/magnum-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnum-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_tempest,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_tempest,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/aodh,Core,0.0,0.0,2,1
+openstack/charm-cinder-k8s,openstack/aodh,Non core,1.3605442176870748,0.5154639175257731,2,1
+openstack/charm-cinder-k8s,openstack/operations-guide,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/operations-guide,Non core,0.0,0.6211180124223602,0,1
+openstack/charm-cinder-k8s,openstack/contributor-guide,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/contributor-guide,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ceph-radosgw,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-ceph-radosgw,Non core,9.090909090909092,10.526315789473683,4,4
+openstack/charm-cinder-k8s,openstack/python-aodhclient,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/python-aodhclient,Non core,0.0,1.2345679012345678,0,1
+openstack/charm-cinder-k8s,openstack/ec2-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ec2-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ec2api-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ec2api-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-manuals,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/openstack-manuals,Non core,0.1037344398340249,0.07598784194528875,1,1
+openstack/charm-cinder-k8s,openstack/security-doc,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/security-doc,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-openstack_hosts,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-openstack_hosts,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnum-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnum-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-specs,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-specs,Non core,6.25,6.8181818181818175,3,3
+openstack/charm-cinder-k8s,openstack/ceilometer-powervm,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ceilometer-powervm,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer-web-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer-web-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-fwaas-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-fwaas-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-vpnaas-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-vpnaas-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zaqar,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zaqar,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/pycadf,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/pycadf,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/election,Core,0.0,0.0,1,0
+openstack/charm-cinder-k8s,openstack/election,Non core,0.3225806451612903,0.0,1,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_tacker,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_tacker,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/whitebox-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/whitebox-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ceph-osd,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-ceph-osd,Non core,5.555555555555555,6.122448979591836,3,3
+openstack/charm-cinder-k8s,openstack/osc-lib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/osc-lib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-magnum-dashboard,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-magnum-dashboard,Non core,0.0,20.0,0,2
+openstack/charm-cinder-k8s,openstack/charms.ceph,Core,0.0,0.0,4,3
+openstack/charm-cinder-k8s,openstack/charms.ceph,Non core,10.81081081081081,8.333333333333332,4,3
+openstack/charm-cinder-k8s,openstack/python-troveclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-troveclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/release-test,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/release-test,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-layer-openstack,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-layer-openstack,Non core,8.333333333333332,13.636363636363635,2,3
+openstack/charm-cinder-k8s,openstack/charm-layer-openstack-api,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/charm-layer-openstack-api,Non core,6.666666666666667,6.666666666666667,1,1
+openstack/charm-cinder-k8s,openstack/cliff,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cliff,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/virtualbmc,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/virtualbmc,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/watcher-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/watcher-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-nova-cloud-controller,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-nova-cloud-controller,Non core,7.6923076923076925,7.8431372549019605,4,4
+openstack/charm-cinder-k8s,openstack/devstack-gate,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-gate,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-pki,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-pki,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-masakari-monitors,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-masakari-monitors,Non core,11.76470588235294,20.0,2,3
+openstack/charm-cinder-k8s,openstack/networking-baremetal,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-baremetal,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/reno,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/reno,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/project-team-guide,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/project-team-guide,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ui-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ui-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-odl,Core,0.0,0.0,1,0
+openstack/charm-cinder-k8s,openstack/networking-odl,Non core,0.6711409395973155,0.0,1,0
+openstack/charm-cinder-k8s,openstack/monasca-agent,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-agent,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/shade,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/shade,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-freezerclient,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/python-freezerclient,Non core,0.0,1.4084507042253522,0,1
+openstack/charm-cinder-k8s,openstack/js-openstack-lib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/js-openstack-lib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/rally,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/rally,Non core,0.0,0.20366598778004072,0,1
+openstack/charm-cinder-k8s,openstack/cinder-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cinder-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/reviewday,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/reviewday,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-powervm,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-powervm,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zaqar-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zaqar-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.concurrency,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-octavia,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-octavia,Non core,13.333333333333334,10.81081081081081,4,4
+openstack/charm-cinder-k8s,openstack/charm-ironic-conductor,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-ironic-conductor,Non core,23.076923076923077,25.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-neutron-api-plugin-ovn,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-neutron-api-plugin-ovn,Non core,12.5,16.666666666666664,2,3
+openstack/charm-cinder-k8s,openstack/charm-octavia-dashboard,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-octavia-dashboard,Non core,15.789473684210526,14.285714285714285,3,3
+openstack/charm-cinder-k8s,openstack/charm-masakari,Core,0.0,0.0,2,4
+openstack/charm-cinder-k8s,openstack/charm-masakari,Non core,11.76470588235294,20.0,2,4
+openstack/charm-cinder-k8s,openstack/zun-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zun-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-brick-cinderclient-ext,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-brick-cinderclient-ext,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-tacker,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-tacker,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-ec2api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-ec2api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-mistral,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-mistral,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-oslo,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-oslo,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-manila,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-manila,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-sahara,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-sahara,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-vswitch,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-vswitch,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-gnocchi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-vitrage,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-vitrage,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-magnum,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-magnum,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-rally,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-rally,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-watcher,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-watcher,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-cloudkitty,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-cloudkitty,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-placement,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-placement,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-heat,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-heat,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-cinder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-cinder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-barbican,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-barbican,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tenks,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tenks,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-cinder-ceph,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-ceph,Non core,8.823529411764707,8.571428571428571,3,3
+openstack/charm-cinder-k8s,openstack/charm-heat,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-heat,Non core,8.108108108108109,10.256410256410255,3,4
+openstack/charm-cinder-k8s,openstack/charm-neutron-api-plugin-ironic,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-neutron-api-plugin-ironic,Non core,8.333333333333332,18.181818181818183,1,2
+openstack/charm-cinder-k8s,openstack/charm-openstack-dashboard,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-openstack-dashboard,Non core,6.666666666666667,8.333333333333332,4,4
+openstack/charm-cinder-k8s,openstack/charm-keystone-kerberos,Core,0.0,0.0,1,3
+openstack/charm-cinder-k8s,openstack/charm-keystone-kerberos,Non core,9.090909090909092,23.076923076923077,1,3
+openstack/charm-cinder-k8s,openstack/python-keystoneclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-gnocchi,Core,0.0,0.0,4,3
+openstack/charm-cinder-k8s,openstack/charm-gnocchi,Non core,14.285714285714285,9.090909090909092,4,3
+openstack/charm-cinder-k8s,openstack/ironic-lib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-lib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ovsdbapp,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ovsdbapp,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-octaviaclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-octaviaclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/octavia-lib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/octavia-lib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-neutron-gateway,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-neutron-gateway,Non core,7.8431372549019605,8.333333333333332,4,4
+openstack/charm-cinder-k8s,openstack/charm-hacluster,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-hacluster,Non core,7.142857142857142,9.30232558139535,3,4
+openstack/charm-cinder-k8s,openstack/charm-manila,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-manila,Non core,10.344827586206897,12.0,3,3
+openstack/charm-cinder-k8s,openstack/ironic-prometheus-exporter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-prometheus-exporter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-manila-netapp,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-manila-netapp,Non core,0.0,25.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-pacemaker-remote,Core,0.0,0.0,1,3
+openstack/charm-cinder-k8s,openstack/charm-pacemaker-remote,Non core,6.25,15.789473684210526,1,3
+openstack/charm-cinder-k8s,openstack/charm-glance-simplestreams-sync,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-glance-simplestreams-sync,Non core,13.793103448275861,16.0,4,4
+openstack/charm-cinder-k8s,openstack/oslo-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-rsyslog_server,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-rsyslog_server,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-rsyslog_client,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-rsyslog_client,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-cinder-backup,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-backup,Non core,12.0,11.538461538461538,3,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-backup-swift-proxy,Core,0.0,0.0,1,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-backup-swift-proxy,Non core,5.88235294117647,20.0,1,3
+openstack/charm-cinder-k8s,openstack/tripleo-ci-health-queries,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-ci-health-queries,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/castellan,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/castellan,Non core,1.1627906976744187,0.7407407407407408,1,1
+openstack/charm-cinder-k8s,openstack/kuryr,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kuryr,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/masakari-monitors,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/masakari-monitors,Non core,2.0,2.73972602739726,1,2
+openstack/charm-cinder-k8s,openstack/adjutant,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/adjutant,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/keystonemiddleware,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-barbican-vault,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-barbican-vault,Non core,15.0,14.285714285714285,3,3
+openstack/charm-cinder-k8s,openstack/charm-aodh,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-aodh,Non core,11.11111111111111,10.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-keystone,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-keystone,Non core,5.714285714285714,7.017543859649122,4,4
+openstack/charm-cinder-k8s,openstack/charm-designate-bind,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-designate-bind,Non core,9.67741935483871,8.333333333333332,3,3
+openstack/charm-cinder-k8s,openstack/charm-magnum,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-magnum,Non core,0.0,22.22222222222222,0,2
+openstack/charm-cinder-k8s,openstack/charm-manila-ganesha,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-manila-ganesha,Non core,16.666666666666664,17.647058823529413,3,3
+openstack/charm-cinder-k8s,openstack/ldappool,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ldappool,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-nova-compute-nvidia-vgpu,Core,0.0,0.0,1,3
+openstack/charm-cinder-k8s,openstack/charm-nova-compute-nvidia-vgpu,Non core,12.5,37.5,1,3
+openstack/charm-cinder-k8s,openstack/charm-zuul-jobs,Core,0.0,0.0,2,4
+openstack/charm-cinder-k8s,openstack/charm-zuul-jobs,Non core,40.0,66.66666666666666,2,4
+openstack/charm-cinder-k8s,openstack/charm-swift-storage,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-swift-storage,Non core,7.142857142857142,6.382978723404255,3,3
+openstack/charm-cinder-k8s,openstack/charm-swift-proxy,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-swift-proxy,Non core,7.317073170731707,7.894736842105263,3,3
+openstack/charm-cinder-k8s,openstack/openstack-virtual-baremetal,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-virtual-baremetal,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-neutron-openvswitch,Core,0.0,0.0,4,4
+openstack/charm-cinder-k8s,openstack/charm-neutron-openvswitch,Non core,7.6923076923076925,7.8431372549019605,4,4
+openstack/charm-cinder-k8s,openstack/kuryr-libnetwork,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kuryr-libnetwork,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-placement,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-placement,Non core,13.333333333333334,16.666666666666664,2,3
+openstack/charm-cinder-k8s,openstack/cyborg,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cyborg,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-nova-cell-controller,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-nova-cell-controller,Non core,16.666666666666664,15.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-keystone-ldap,Core,0.0,0.0,5,4
+openstack/charm-cinder-k8s,openstack/charm-keystone-ldap,Non core,20.833333333333336,15.384615384615385,5,4
+openstack/charm-cinder-k8s,openstack/charm-keystone-saml-mellon,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-keystone-saml-mellon,Non core,10.526315789473683,11.11111111111111,2,3
+openstack/charm-cinder-k8s,openstack/charm-manila-generic,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-manila-generic,Non core,12.5,12.5,3,3
+openstack/charm-cinder-k8s,openstack/charm-manila-dashboard,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-manila-dashboard,Non core,0.0,18.181818181818183,0,2
+openstack/charm-cinder-k8s,openstack/charm-ironic-api,Core,0.0,0.0,0,3
+openstack/charm-cinder-k8s,openstack/charm-ironic-api,Non core,0.0,25.0,0,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-netapp,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-cinder-netapp,Non core,11.11111111111111,20.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-ceilometer,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-ceilometer,Non core,7.317073170731707,10.81081081081081,3,4
+openstack/charm-cinder-k8s,openstack/charm-keystone-openidc,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-keystone-openidc,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-mysql-router,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-mysql-router,Non core,14.285714285714285,21.052631578947366,3,4
+openstack/charm-cinder-k8s,openstack/rally-openstack,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/rally-openstack,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-win,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-win,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-neutronclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-neutronclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sushy-tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sushy-tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ceilometer-agent,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-ceilometer-agent,Non core,10.0,13.793103448275861,3,4
+openstack/charm-cinder-k8s,openstack/charm-barbican,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-barbican,Non core,10.714285714285714,14.814814814814813,3,4
+openstack/charm-cinder-k8s,openstack/charm-octavia-diskimage-retrofit,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-octavia-diskimage-retrofit,Non core,10.526315789473683,14.285714285714285,2,3
+openstack/charm-cinder-k8s,openstack/ansible-role-redhat-subscription,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-redhat-subscription,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.db,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.db,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-repos,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-repos,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_mistral,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_mistral,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oswin-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oswin-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/pymod2pkg,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/pymod2pkg,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/large-scale,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/large-scale,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-fwaas,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/neutron-fwaas,Non core,0.628930817610063,0.30959752321981426,1,1
+openstack/charm-cinder-k8s,openstack/python-tackerclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-tackerclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-cinder-nimblestorage,Core,0.0,0.0,0,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-nimblestorage,Non core,0.0,33.33333333333333,0,3
+openstack/charm-cinder-k8s,openstack/metalsmith,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/metalsmith,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_murano,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_murano,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kuryr-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kuryr-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-sfc,Core,0.0,0.0,1,0
+openstack/charm-cinder-k8s,openstack/networking-sfc,Non core,1.0101010101010102,0.0,1,0
+openstack/charm-cinder-k8s,openstack/charm-cinder-three-par,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/charm-cinder-three-par,Non core,14.285714285714285,14.285714285714285,1,1
+openstack/charm-cinder-k8s,openstack/cyborg-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cyborg-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ceph-iscsi,Core,0.0,0.0,1,3
+openstack/charm-cinder-k8s,openstack/charm-ceph-iscsi,Non core,8.333333333333332,20.0,1,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-solidfire,Core,0.0,0.0,0,3
+openstack/charm-cinder-k8s,openstack/charm-cinder-solidfire,Non core,0.0,37.5,0,3
+openstack/charm-cinder-k8s,openstack/puppet-qdr,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-qdr,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/vitrage-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/vitrage-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-neutron-api-plugin-arista,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-neutron-api-plugin-arista,Non core,9.090909090909092,15.384615384615385,1,2
+openstack/charm-cinder-k8s,openstack/charm-ceph-fs,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-ceph-fs,Non core,11.538461538461538,12.5,3,3
+openstack/charm-cinder-k8s,openstack/stevedore,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/stevedore,Non core,0.0,1.0526315789473684,0,1
+openstack/charm-cinder-k8s,openstack/charm-ceph-proxy,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-ceph-proxy,Non core,11.11111111111111,8.823529411764707,3,3
+openstack/charm-cinder-k8s,openstack/charm-cloudkitty,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-cloudkitty,Non core,0.0,25.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-ops-openstack,Core,0.0,0.0,2,2
+openstack/charm-cinder-k8s,openstack/charm-ops-openstack,Non core,18.181818181818183,22.22222222222222,2,2
+openstack/charm-cinder-k8s,openstack/zun-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zun-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/storlets,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/storlets,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/training-guides,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/training-guides,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-plugins,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-plugins,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-muranoclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-muranoclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/solum-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/solum-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-solumclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-solumclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/solum-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/solum-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-translator,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-translator,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tosca-parser,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tosca-parser,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tacker-horizon,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tacker-horizon,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-python-agent-builder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-python-agent-builder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-systemd_networkd,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-systemd_networkd,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-systemd_service,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-systemd_service,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_keystone,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_keystone,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-chrony,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-chrony,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cloudkitty-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cloudkitty-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.config,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/oslo.config,Non core,0.5681818181818182,0.3246753246753247,1,1
+openstack/charm-cinder-k8s,openstack/senlin-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/senlin-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/stackviz,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/stackviz,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kayobe-config-dev,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kayobe-config-dev,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/pbr,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/pbr,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.cache,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.cache,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ceph-rbd-mirror,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-ceph-rbd-mirror,Non core,15.789473684210526,15.0,3,3
+openstack/charm-cinder-k8s,openstack/ansible-config_template,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-config_template,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/designate-dashboard,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/designate-dashboard,Non core,0.0,0.9090909090909091,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-cinder-backend,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-interface-cinder-backend,Non core,0.0,22.22222222222222,0,2
+openstack/charm-cinder-k8s,openstack/cyborg-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cyborg-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-mistralclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-mistralclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ha-guide,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ha-guide,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/watcher,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/watcher,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_cloudkitty,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_cloudkitty,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_cinder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_cinder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-health,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-health,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_swift,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_swift,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/masakari-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/masakari-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/telemetry-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/telemetry-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/osprofiler,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/osprofiler,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_trove,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_trove,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_manila,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_manila,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-hardening,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-hardening,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/barbican-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/barbican-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-heatclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-heatclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-api-ref,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-api-ref,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-container,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-container,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/venus-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/venus-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/manila-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/manila-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-nfs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-nfs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/taskflow,Core,0.0,0.0,1,0
+openstack/charm-cinder-k8s,openstack/taskflow,Non core,0.9433962264150944,0.0,1,0
+openstack/charm-cinder-k8s,openstack/python-cyborgclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-cyborgclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zun,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zun,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-openstack-loadbalancer,Non core,22.22222222222222,30.0,2,3
+openstack/charm-cinder-k8s,openstack/ansible-role-python_venv_build,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-python_venv_build,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mistral-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mistral-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mistral-lib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mistral-lib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-events-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-events-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-zaqarclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-persister,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-persister,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-notification,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-notification,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-saharaclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-saharaclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-magpie,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-magpie,Non core,12.5,21.428571428571427,2,3
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_placement,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_placement,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstackdocstheme,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.serialization,Core,0.0,0.0,1,0
+openstack/charm-cinder-k8s,openstack/oslo.serialization,Non core,1.4084507042253522,0.0,1,0
+openstack/charm-cinder-k8s,openstack/oslo.context,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.context,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.limit,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.limit,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.middleware,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.middleware,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.reports,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.reports,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/futurist,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/futurist,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.i18n,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.i18n,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sushy-oem-idrac,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-dracclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-dracclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_masakari,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_masakari,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-systemd_mount,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-systemd_mount,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-senlinclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-senlinclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/senlin-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-generic-switch,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-generic-switch,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-image-elements,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-image-elements,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-thales-hsm,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-thales-hsm,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-atos-hsm,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-atos-hsm,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/adjutant-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/adjutant-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-extra,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-extra,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/blazar-nova,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/blazar-nova,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.service,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.service,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/blazar-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/blazar-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/paunch,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/paunch,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/service-types-authority,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/service-types-authority,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-memcached_server,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-memcached_server,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-testr,Core,0.0,0.0,1,0
+openstack/charm-cinder-k8s,openstack/os-testr,Non core,1.8518518518518516,0.0,1,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-ceph_client,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-ceph_client,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_magnum,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_magnum,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_blazar,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_blazar,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_designate,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_designate,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_gnocchi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_senlin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ptgbot,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ptgbot,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_zun,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_zun,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-repo_server,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-repo_server,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-watcherclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-watcherclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-agents,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-agents,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/automaton,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/automaton,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/debtcollector,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/debtcollector,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/vitrage-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/vitrage-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslotest,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslotest,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kayobe-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kayobe-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/compute-hyperv,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/compute-hyperv,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-cloudkittyclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-cloudkittyclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone,Core,0.0,0.0,2,2
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone,Non core,10.526315789473683,10.0,2,2
+openstack/charm-cinder-k8s,openstack/cloudkitty-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cloudkitty-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-hyperv,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-hyperv,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/i18n,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/i18n,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-tests,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-tests,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-zunclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-zunclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-cdh,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-cdh,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-adjutantclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-adjutantclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ceph-nfs,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-ceph-nfs,Non core,0.0,33.33333333333333,0,2
+openstack/charm-cinder-k8s,openstack/ansible-role-lunasa-hsm,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-thresh,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-thresh,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/watcher-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/watcher-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-ambari,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-ambari,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-mapr,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-mapr,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-spark,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-spark,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-storm,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-storm,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-vanilla,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-plugin-vanilla,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sahara-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/venus-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/venus-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/venus-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/trove-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/trove-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/arch-design,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/arch-design,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-common,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-common,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-statsd,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-statsd,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-monascaclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-monascaclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/renderspec,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/renderspec,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-service-types,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-service-types,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/masakari-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/masakari-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer-dr,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer-dr,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tempest-stress,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tempest-stress,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-neutron-api-genericswitch,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-neutron-api-genericswitch,Non core,0.0,11.11111111111111,0,1
+openstack/charm-cinder-k8s,openstack/charm-neutron-dynamic-routing,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-neutron-dynamic-routing,Non core,15.789473684210526,15.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-interface-ceph-client,Core,0.0,0.0,2,2
+openstack/charm-cinder-k8s,openstack/charm-interface-ceph-client,Non core,16.666666666666664,14.285714285714285,2,2
+openstack/charm-cinder-k8s,openstack/charm-percona-cluster,Core,0.0,0.0,3,4
+openstack/charm-cinder-k8s,openstack/charm-percona-cluster,Non core,6.976744186046512,7.8431372549019605,3,4
+openstack/charm-cinder-k8s,openstack/charm-deployment-guide,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-deployment-guide,Non core,8.571428571428571,8.571428571428571,3,3
+openstack/charm-cinder-k8s,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.metrics,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.metrics,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.vmware,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.vmware,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.upgradecheck,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.upgradecheck,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-masakariclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-masakariclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-vitrageclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-vitrageclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-blazarclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-blazarclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zaqar-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zaqar-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-common-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-common-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mistral-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mistral-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/barbican-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/barbican-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/liberasurecode,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/liberasurecode,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-client-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-client-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-performance-tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-performance-tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/trove-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/trove-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/manila-image-elements,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/manila-image-elements,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/blazar-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/blazar-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/molteniron,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/molteniron,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/solum-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/solum-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/patrole,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/patrole,Non core,0.0,0.8620689655172413,0,1
+openstack/charm-cinder-k8s,openstack/performance-docs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/performance-docs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sphinx-feature-classification,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sphinx-feature-classification,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/etcd3gw,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/etcd3gw,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/watcher-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/watcher-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/yaql,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/yaql,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack-guide,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack-guide,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-panko,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-panko,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-cfnclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-cfnclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-cfntools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-cfntools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-templates,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/heat-templates,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/governance-sigs,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/governance-sigs,Non core,2.564102564102564,0.9433962264150944,1,1
+openstack/charm-cinder-k8s,openstack/openstack-zuul-roles,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-zuul-roles,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/nova-powervm,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/nova-powervm,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-helm-addons,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-helm-addons,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-pankoclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-pankoclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/qa-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/qa-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zaqar-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zaqar-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/swift-bench,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/swift-bench,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/whereto,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/whereto,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-modify-image,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-modify-image,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/requestsexceptions,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/requestsexceptions,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/panko,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/panko,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/api-sig,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/api-sig,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-chef-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-chef-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/freezer-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo.tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/microversion-parse,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/microversion-parse,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstackclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstackclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ossa,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ossa,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/reviewstats,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/reviewstats,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/security-analysis,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/security-analysis,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-keystone,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-keystone,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-apt_package_pinning,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-apt_package_pinning,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-qdrouterd,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-qdrouterd,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-openstack_openrc,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-openstack_openrc,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-nspawn_container_create,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-nspawn_container_create,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/coverage2sql,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/coverage2sql,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/bashate,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/bashate,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/hacking,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/hacking,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-mdi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-chef,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-chef,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstackclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstackclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-interface-hacluster,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-interface-hacluster,Non core,14.285714285714285,16.666666666666664,3,3
+openstack/charm-cinder-k8s,openstack/puppet-openstack-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-openstack-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-monasca,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-monasca,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/eslint-config-openstack,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/eslint-config-openstack,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/karma-subunit-reporter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/karma-subunit-reporter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-helm-docs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-helm-docs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tempest-lib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tempest-lib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-ha-utils,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-ha-utils,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-vagrant,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-vagrant,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/goal-tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/goal-tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/dib-utils,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/dib-utils,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/constellations,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/constellations,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-integration-test,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-integration-test,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-telemetry,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-telemetry,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-orchestration,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-orchestration,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-bare-metal,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-bare-metal,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-dns,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-dns,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-compute,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-compute,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-network,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-network,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-block-storage,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-block-storage,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-image,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-image,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-identity,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-identity,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-ops-database,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-ops-database,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-ops-messaging,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-ops-messaging,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-common,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-common,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/self-healing-sig,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/self-healing-sig,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,2,2
+openstack/charm-cinder-k8s,openstack/charm-ops-interface-tls-certificates,Non core,28.57142857142857,28.57142857142857,2,2
+openstack/charm-cinder-k8s,openstack/security-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/security-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_panko,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_panko,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-nspawn_hosts,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-nspawn_hosts,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-layer-openstack-principle,Core,0.0,0.0,1,3
+openstack/charm-cinder-k8s,openstack/charm-layer-openstack-principle,Non core,10.0,33.33333333333333,1,3
+openstack/charm-cinder-k8s,openstack/charm-watcher-dashboard,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-watcher-dashboard,Non core,0.0,15.384615384615385,0,2
+openstack/charm-cinder-k8s,openstack/charm-watcher,Core,0.0,0.0,0,3
+openstack/charm-cinder-k8s,openstack/charm-watcher,Non core,0.0,14.285714285714285,0,3
+openstack/charm-cinder-k8s,openstack/openstack-ansible-galera_client,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-galera_client,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cloudkitty-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cloudkitty-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/osops,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/osops,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ironic,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-ironic,Non core,0.0,14.285714285714285,0,1
+openstack/charm-cinder-k8s,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/multi-arch-sig,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/multi-arch-sig,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-nova-compute-proxy,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-nova-compute-proxy,Non core,6.25,13.333333333333334,1,2
+openstack/charm-cinder-k8s,openstack/charm-odl-controller,Core,0.0,0.0,3,2
+openstack/charm-cinder-k8s,openstack/charm-odl-controller,Non core,20.0,15.384615384615385,3,2
+openstack/charm-cinder-k8s,openstack/charm-nova-lxd,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-nova-lxd,Non core,8.333333333333332,11.538461538461538,2,3
+openstack/charm-cinder-k8s,openstack/charm-interface-nova-cell,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-nova-cell,Non core,0.0,16.666666666666664,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-magpie,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/charm-interface-magpie,Non core,16.666666666666664,16.666666666666664,1,1
+openstack/charm-cinder-k8s,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-interface-barbican-secrets,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-barbican-secrets,Non core,0.0,9.090909090909092,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,14.285714285714285,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-ceph-rbd-mirror,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-interface-ceph-rbd-mirror,Non core,10.0,18.181818181818183,1,2
+openstack/charm-cinder-k8s,openstack/charm-interface-placement,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-placement,Non core,0.0,25.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-mysql-shared,Core,0.0,0.0,2,2
+openstack/charm-cinder-k8s,openstack/charm-interface-mysql-shared,Non core,16.666666666666664,18.181818181818183,2,2
+openstack/charm-cinder-k8s,openstack/charm-interface-dashboard-plugin,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-dashboard-plugin,Non core,0.0,9.090909090909092,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-neutron-load-balancer,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-neutron-load-balancer,Non core,0.0,9.090909090909092,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-neutron-plugin-api-subordinate,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-neutron-plugin,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-interface-neutron-plugin,Non core,9.090909090909092,20.0,1,2
+openstack/charm-cinder-k8s,openstack/xstatic-json2yaml,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-json2yaml,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-js-yaml,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-js-yaml,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-spin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-spin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-panko,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-panko,Non core,10.0,13.333333333333334,1,2
+openstack/charm-cinder-k8s,openstack/charm-interface-service-control,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-service-control,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_almanach,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_almanach,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-pip_install,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-pip_install,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-karborclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-karborclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone-admin,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone-admin,Non core,0.0,11.11111111111111,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-nova-compute,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-nova-compute,Non core,0.0,6.666666666666667,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-manila-plugin,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-interface-manila-plugin,Non core,0.0,20.0,0,2
+openstack/charm-cinder-k8s,openstack/murano-apps,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-apps,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-senlin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-senlin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-application-catalog,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/training-labs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/training-labs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/karbor,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/karbor,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-open-cas,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_congress,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_congress,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,2,1
+openstack/charm-cinder-k8s,openstack/charm-ops-interface-ceph-client,Non core,40.0,12.5,2,1
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone-notifications,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone-notifications,Non core,0.0,16.666666666666664,0,1
+openstack/charm-cinder-k8s,openstack/os-collect-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-collect-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-apply-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-apply-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-freezer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-freezer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/vitrage-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/vitrage-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/specs-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/specs-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/rpm-packaging-tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/rpm-packaging-tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-openstack-operations,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-openstack-operations,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-refresh-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-refresh-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mistral-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mistral-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/scientific-wg,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/scientific-wg,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,10.0,0,1
+openstack/charm-cinder-k8s,openstack/manila-test-image,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/manila-test-image,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/governance-website,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/governance-website,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/bugdaystats,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/bugdaystats,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/upstream-institute-virtual-environment,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/karbor-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/karbor-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/django_openstack_auth,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/django_openstack_auth,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-transform,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-transform,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-log-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-log-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/nose-html-output,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/nose-html-output,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kolla-cli,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kolla-cli,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-lbaas-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-lbaas-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/searchlight,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/searchlight,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/searchlight-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/searchlight-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/searchlight-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/searchlight-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-searchlightclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-searchlightclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-tempest,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-tempest,Non core,8.0,11.11111111111111,2,3
+openstack/charm-cinder-k8s,openstack/charm-barbican-softhsm,Core,0.0,0.0,2,3
+openstack/charm-cinder-k8s,openstack/charm-barbican-softhsm,Non core,9.090909090909092,13.636363636363635,2,3
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-client,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-client,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/instack-undercloud,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/instack-undercloud,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/publiccloud-sig,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/publiccloud-sig,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ideas,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ideas,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/uc-recognition,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/uc-recognition,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ops-tags-team,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ops-tags-team,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/enterprise-wg,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/enterprise-wg,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/governance-uc,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/governance-uc,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/workload-ref-archs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/workload-ref-archs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/arch-wg,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/arch-wg,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/project-navigator-data,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/project-navigator-data,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_monasca,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_monasca,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_monasca-agent,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_monasca-agent,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-inspector-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-inspector-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sushy-cli,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/sushy-cli,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-glare,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-glare,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-planet,Core,0.0,0.0,1,0
+openstack/charm-cinder-k8s,openstack/openstack-planet,Non core,0.4405286343612335,0.0,1,0
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone-credentials,Core,0.0,0.0,2,1
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone-credentials,Non core,15.384615384615385,7.6923076923076925,2,1
+openstack/charm-cinder-k8s,openstack/monasca-kibana-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-kibana-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone-domain-backend,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-keystone-domain-backend,Non core,0.0,11.11111111111111,0,1
+openstack/charm-cinder-k8s,openstack/devstack-plugin-amqp1,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-amqp1,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-kafka,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-kafka,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-ipsec,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-ipsec,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-grafana-datasource,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-grafana-datasource,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-interface-bind-rndc,Core,0.0,0.0,2,2
+openstack/charm-cinder-k8s,openstack/charm-interface-bind-rndc,Non core,16.666666666666664,18.181818181818183,2,2
+openstack/charm-cinder-k8s,openstack/charm-interface-rabbitmq,Core,0.0,0.0,2,1
+openstack/charm-cinder-k8s,openstack/charm-interface-rabbitmq,Non core,18.181818181818183,7.6923076923076925,2,1
+openstack/charm-cinder-k8s,openstack/charm-interface-openstack-ha,Core,0.0,0.0,2,2
+openstack/charm-cinder-k8s,openstack/charm-interface-openstack-ha,Non core,20.0,16.666666666666664,2,2
+openstack/charm-cinder-k8s,openstack/charm-interface-gnocchi,Core,0.0,0.0,0,3
+openstack/charm-cinder-k8s,openstack/charm-interface-gnocchi,Non core,0.0,17.647058823529413,0,3
+openstack/charm-cinder-k8s,openstack/charm-interface-bgp,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-interface-bgp,Non core,0.0,18.181818181818183,0,2
+openstack/charm-cinder-k8s,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,12.5,0,1
+openstack/charm-cinder-k8s,openstack/charm-interface-designate,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/charm-interface-designate,Non core,12.5,11.11111111111111,1,1
+openstack/charm-cinder-k8s,openstack/tempest-horizon,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tempest-horizon,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/logstash-filters,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/logstash-filters,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/qinling-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/qinling-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-qinlingclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-qinlingclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/qinling,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/qinling,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-analytics,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/monasca-analytics,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo-incubator,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslo-incubator,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-congress,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-congress,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_monasca-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/auto-scaling-sig,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/auto-scaling-sig,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-loganalyze,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-loganalyze,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-pika,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-pika,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-zmq,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-zmq,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-l2gw,Core,0.0,0.0,1,0
+openstack/charm-cinder-k8s,openstack/networking-l2gw,Non core,1.3888888888888888,0.0,1,0
+openstack/charm-cinder-k8s,openstack/networking-l2gw-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-l2gw-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-interface-ceph-mds,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-interface-ceph-mds,Non core,8.333333333333332,22.22222222222222,1,2
+openstack/charm-cinder-k8s,openstack/xstatic-angular-ui-router,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-ui-router,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-vis,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-vis,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-database,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-database,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-data-processing,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-data-processing,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/trove-integration,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/trove-integration,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-sensu,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/keystoneauth-saml2,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/keystoneauth-saml2,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-deployment,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/murano-deployment,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-keystoneclient-kerberos,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-keystoneclient-kerberos,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-wsmanclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-wsmanclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-upgrade,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-upgrade,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-object-storage,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cookbook-openstack-object-storage,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fairy-slipper,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fairy-slipper,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/django-openstack-auth-kerberos,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/django-openstack-auth-kerberos,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/horizon-cisco-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/horizon-cisco-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zuul-packaging,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/zuul-packaging,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-generic-switch-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-incubator,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-incubator,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-webclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ironic-webclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-crane,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/puppet-crane,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/release-tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/release-tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/gnocchi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-ofagent,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-ofagent,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-neutron-pd-driver,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-neutron-pd-driver,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-ceph,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-ceph,Non core,13.636363636363635,14.285714285714285,3,3
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_freezer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-pip_lock_down,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-pip_lock_down,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-security,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-security,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslosphinx,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/oslosphinx,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-cinder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-glance,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-keystone,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-mariadb,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-rabbitmq,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-tripleo,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-aodh,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-barbican,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-cinder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tripleo-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-ovn,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-opendaylight,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-octavia,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-nova,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-nova,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-cloud-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-cloud-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-zaqar,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-tempest,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-sahara,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-swift,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-tacker,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-rabbitmq,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-qdrouterd,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-panko,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-heat,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-haproxy,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-gnocchi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-glance,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-glance,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-designate,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-neutron,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-mistral,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-memcached,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-memcached,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-manila,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-manila,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-ironic,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-keepalived,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-horizon,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/pylockfile,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/pylockfile,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/dragonflow,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/dragonflow,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-interface-pacemaker-remote,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-interface-pacemaker-remote,Non core,11.11111111111111,18.181818181818183,1,2
+openstack/charm-cinder-k8s,openstack/networking-onos,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-onos,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/solum-infra-guestagent,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/solum-infra-guestagent,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ux,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ux,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mox3,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/mox3,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-layer-ceph,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-layer-ceph,Non core,0.0,20.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-layer-ceph-base,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-layer-ceph-base,Non core,0.0,11.11111111111111,0,1
+openstack/charm-cinder-k8s,openstack/python-tricircleclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-tricircleclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tricircle,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tricircle,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/swift-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/swift-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/congress,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/congress,Non core,0.6369426751592357,0.46728971962616817,1,1
+openstack/charm-cinder-k8s,openstack/congress-tempest-plugin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/congress-tempest-plugin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-congressclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-congressclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/congress-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/congress-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/congress-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/congress-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/syntribos,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/syntribos,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/syntribos-payloads,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/syntribos-payloads,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/syntribos-openstack-templates,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/syntribos-openstack-templates,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/i18n-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/i18n-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tempest-plugin-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-graphlib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-graphlib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-repo_build,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-repo_build,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-hogan,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_molteniron,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_molteniron,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/faafo,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/faafo,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-calico,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/networking-calico,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/shotgun,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/shotgun,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-aioeventlet,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-devops,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-devops,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-plugin-murano,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-plugin-murano,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-web,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-web,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-plugins,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-plugins,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-virtualbox,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-virtualbox,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-ostf,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-ostf,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-qa,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-qa,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-nailgun-extension-cluster-upgrade,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-nailgun-agent,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-nailgun-agent,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-mirror,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-mirror,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-menu,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-menu,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-main,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-main,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-library,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-library,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-dev-tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-dev-tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-stats,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-stats,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-nailgun-extension-converted-serializers,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-nailgun-extension-iac,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-plugin-murano-tests,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-plugin-murano-tests,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-astute,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-astute,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-docs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-docs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-agent,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-agent,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-octane,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuel-octane,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tuning-box,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tuning-box,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-fuelclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-fuelclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-interconnection,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/neutron-interconnection,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-chef-repo,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-chef-repo,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-acc,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/os-acc,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_zaqar,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_zaqar,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_watcher,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_watcher,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_searchlight,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_searchlight,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-vis,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-vis,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-notify,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-notify,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-material,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-material,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tempest-tripleo-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/tempest-tripleo-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/docs-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/docs-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/release-schedule-generator,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/release-schedule-generator,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/opendev-website,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/opendev-website,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/castellan-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/castellan-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/compute-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/compute-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-neutron-api-odl,Core,0.0,0.0,3,3
+openstack/charm-cinder-k8s,openstack/charm-neutron-api-odl,Non core,23.076923076923077,23.076923076923077,3,3
+openstack/charm-cinder-k8s,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/charm-murano,Core,0.0,0.0,0,1
+openstack/charm-cinder-k8s,openstack/charm-murano,Non core,0.0,14.285714285714285,0,1
+openstack/charm-cinder-k8s,openstack/charm-openvswitch-odl,Core,0.0,0.0,3,2
+openstack/charm-cinder-k8s,openstack/charm-openvswitch-odl,Non core,23.076923076923077,16.666666666666664,3,2
+openstack/charm-cinder-k8s,openstack/charm-interface-odl-controller-api,Core,0.0,0.0,1,1
+openstack/charm-cinder-k8s,openstack/charm-interface-odl-controller-api,Non core,12.5,14.285714285714285,1,1
+openstack/charm-cinder-k8s,openstack/charm-glusterfs,Core,0.0,0.0,0,2
+openstack/charm-cinder-k8s,openstack/charm-glusterfs,Non core,0.0,18.181818181818183,0,2
+openstack/charm-cinder-k8s,openstack/charm-trove,Core,0.0,0.0,1,2
+openstack/charm-cinder-k8s,openstack/charm-trove,Non core,8.333333333333332,20.0,1,2
+openstack/charm-cinder-k8s,openstack/deb-python-positional,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-positional,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-requests-unixsocket,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-traceback2,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-traceback2,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ryu,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ryu,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-linecache2,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-linecache2,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-gabbi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-gabbi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-cotyledon,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-cotyledon,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-migrate,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-migrate,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuxi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuxi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-filesaver,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-filesaver,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-uuid,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-uuid,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/bandit,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/bandit,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-smart-table,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-angular-smart-table,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-msgpack-python,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-msgpack-python,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-d3,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/xstatic-d3,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pymemcache,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pymemcache,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-novnc,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-novnc,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/instack,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/instack,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pysaml2,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pysaml2,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-trollius,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-trollius,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-autobahn,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-autobahn,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pyldap,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pyldap,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/astara,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/astara,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/astara-appliance,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/astara-appliance,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/astara-horizon,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/astara-horizon,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/astara-neutron,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/astara-neutron,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/anchor,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/anchor,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuxi-golang,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuxi-golang,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuxi-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/fuxi-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/puppet-odsreg,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/puppet-odsreg,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/puppet-docker_registry,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/releasestatus,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/releasestatus,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/vinz-webclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/activity-board,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/activity-board,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/beaker-localhost,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/beaker-nodepool,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/rst2bash,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/rst2bash,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kolla-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/kolla-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cue-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cue-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-cueclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-cueclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cue,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/cue,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/app-catalog,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/app-catalog,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/identity-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/identity-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-fixtures,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-fixtures,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-magnetodbclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-magnetodbclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/app-catalog-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/app-catalog-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-kubernetes,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/app-catalog-common,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/app-catalog-common,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-appcatalogclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/python-appcatalogclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-nova,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-nova,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-kazoo,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-kazoo,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-congressclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-congressclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-congress,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-congress,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-net-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-net-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ironic,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ironic,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-swauth,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-swauth,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-api-ref,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-designate,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-designate,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-swift,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-swift,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-manila-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-manila-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-barbican,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-barbican,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-cinder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-cinder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-magnum,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-magnum,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-trove,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-trove,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-openstack-pkg-tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-openstack-pkg-tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-swiftclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-swiftclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-alembic,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-alembic,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-cinderclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-cinderclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-nec,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-nec,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-neutron-taas,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-neutron-taas,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-mlnx,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-mlnx,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-openstack-meta-packages,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-odl,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-odl,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-nodepool,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-nodepool,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-cisco,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-cisco,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-midonet,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-midonet,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-arista,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-arista,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-hyperv,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-hyperv,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-rtslib-fb,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-murano,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-murano,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-semantic-version,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-semantic-version,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ldappool,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ldappool,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-zaqar-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-zaqar-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-zaqar,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-zaqar,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-watcher,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-watcher,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-testr,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-testr,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-win,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-win,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pycadf,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pycadf,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pyghmi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pyghmi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-reno,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-reno,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-refresh-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-vif,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-vif,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pyeclib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pyeclib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-quantumclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-quantumclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-requestsexceptions,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pbr,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pbr,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-requests-mock,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-requests-mock,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-saharaclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-saharaclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-scciclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-scciclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-seamicroclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-auto-backports,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-auto-backports,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-senlinclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-senlinclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-taskflow,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-taskflow,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-testtools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-testtools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-tooz,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-tooz,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-shotgun,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-shotgun,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-tackerclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-tackerclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-tosca-parser,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-troveclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-troveclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-tuskarclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-watcherclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-watcherclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-wsme,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-wsme,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-bootswatch,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-angular-mock,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-d3,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-hogan,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-font-awesome,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jasmine,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-magic-search,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-mdi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-objectpath,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-qunit,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-rickshaw,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-spin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-tv4,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-yaql,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-yaql,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-zaqarclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-rally,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-rally,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-sahara,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-sahara,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-sahara-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-senlin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-senlin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-senlin-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-stevedore,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-stevedore,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-swift-bench,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-swift-bench,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-swift-plugin-s3,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-trove-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-trove-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-tempest,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-tempest,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-osprofiler,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-osprofiler,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.vmware,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.utils,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.rootwrap,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.service,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.service,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.privsep,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.versionedobjects,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslotest,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslotest,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.serialization,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.reports,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.policy,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.middleware,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.messaging,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.log,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.log,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-aodhclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-aodhclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-automaton,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-automaton,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-barbicanclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-bashate,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-bashate,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-castellan,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-castellan,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ceilometerclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-cliff,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-cliff,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-cursive,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-cursive,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-debtcollector,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-debtcollector,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-designateclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-designateclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-dib-utils,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-dib-utils,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-diskimage-builder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-doc8,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-doc8,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-openstack-auth,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-fuelclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-fuelclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-dogpile.cache,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-futurist,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-futurist,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-glanceclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-glanceclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-glance-store,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-glance-store,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-hacking,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-hacking,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-heatclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-heatclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ironicclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ironicclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ironic-inspector-client,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ironic-lib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-k8sclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-k8sclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-keystoneauth1,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-keystoneclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-keystonemiddleware,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-magnumclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-magnumclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-manilaclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-manilaclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-microversion-parse,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-mistralclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-mistralclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-monascaclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-monascaclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-mox3,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-mox3,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-muranoclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-muranoclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-neutronclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-neutronclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-neutron-lib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-novaclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-novaclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-openstackclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-openstackclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-openstackdocstheme,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-openstacksdk,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-apply-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-brick,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-brick,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-osc-lib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-osc-lib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-client-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-client-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-collect-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.cache,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.db,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.db,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.concurrency,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.i18n,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.context,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oslo.context,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-openstack-nose,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-openstack-nose,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-openstack-doc-tools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-openstack-trove,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-openstack-trove,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-oslosphinx,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-oslosphinx,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-aodh,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-aodh,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-bandit,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-bandit,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ceilometermiddleware,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-designate-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-designate-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-git-review,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-git-review,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-glance,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-glance,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-glare,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-glare,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-heat,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-heat,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-heat-cfntools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-heat-cfntools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-horizon,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-horizon,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ironic-inspector,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ironic-inspector,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ironic-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-ironic-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-keystone,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-keystone,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-liberasurecode,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-liberasurecode,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-manila,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-manila,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-mistral,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-mistral,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-murano-agent,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-murano-agent,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-murano-dashboard,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-murano-dashboard,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-l2gw,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-l2gw,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-ovn,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-networking-ovn,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-neutron,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-neutron,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-neutron-fwaas,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-neutron-vpnaas,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-neutron-lbaas,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/installguide-cookiecutter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/installguide-cookiecutter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-gnocchi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-gnocchi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-eventlet,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-eventlet,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pymysql,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pymysql,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-opencontrail,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-neutron,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-neutron,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-swift,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-swift,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-nova,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-nova,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-keystone,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-keystone,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-horizon,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-horizon,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-heat,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-heat,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-glance,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-glance,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-cinder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-cinder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-ceilometer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pygit2,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pygit2,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-libisal,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-libisal,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xvfbwrapper,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-testresources,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-testresources,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-compressor,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-compressor,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-sqlalchemy-utils,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pykmip,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pykmip,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-coffin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-coffin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-txaio,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-txaio,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-hplefthandclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-overextends,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-overextends,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pytimeparse,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-nose-timer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-nose-timer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-retrying,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-retrying,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-discover-runner,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-lesscpy,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-lesscpy,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-happybase,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-happybase,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-extras,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-extras,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-functools32,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-functools32,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pydot-ng,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-jsonschema,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-jsonschema,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-kafka,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-kafka,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-rcssmin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-rcssmin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-nose-parameterized,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pika-pool,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pika-pool,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-rfc3986,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-rfc3986,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-httpretty,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-httpretty,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pint,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pint,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-pyscss,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-falcon,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-falcon,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-subunit,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-subunit,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-formtools,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-formtools,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-nose-exclude,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pydotplus,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pydotplus,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pager,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pager,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-proliantutils,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-proliantutils,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-gnocchiclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-babel,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-babel,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-requests-kerberos,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-colander,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-colander,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-dcos,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-dcos,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-bootstrap-form,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-term.js,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-toml,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-toml,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-semver,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-semver,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-websocket-client,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-websocket-client,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-fasteners,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-fasteners,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-jingo,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-jingo,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pecan,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pecan,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-frozendict,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-frozendict,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-wrapt,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-wrapt,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-funcsigs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-funcsigs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-crank,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-crank,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pyvmomi,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-wsgi-intercept,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-os-cloud-config,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-weakrefmethod,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-steadymark,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-steadymark,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-warlock,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-warlock,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-couleur,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-couleur,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-json-patch,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-json-patch,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-jsonrpclib,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-multi-key-dict,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-memcache,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-memcache,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pulp,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pulp,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-fonts-roboto-fontface,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-websockify,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-websockify,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-daemonize,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-daemonize,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pyngus,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-pyngus,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-editor,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-editor,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ddt,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-ddt,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-monotonic,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-monotonic,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-rjsmin,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-rjsmin,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-jsonpath-rw,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-appconf,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-django-appconf,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oauth2client,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-oauth2client,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-json-pointer,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-json-pointer,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/akanda,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/akanda,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-smart-table,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-requestbuilder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-nosehtmloutput,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-csscompressor,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-csscompressor,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-croniter,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-croniter,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-python-concurrent.futures,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-salt,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-salt,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-spice-html5,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/deb-spice-html5,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-midonet,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/salt-formula-midonet,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnetodb-specs,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnetodb-specs,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/akanda-appliance-builder,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/oslo.version,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/oslo.version,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/image-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/image-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/object-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/object-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/volume-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/volume-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnetodb,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/magnetodb,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-nose,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack/openstack-nose,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/netconn-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/netconn-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/python-melangeclient,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/python-melangeclient,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/melange,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/melange,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/openstack-qa,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/openstack-qa,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/database-api,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/database-api,Non core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,0
+openstack/charm-cinder-k8s,openstack-attic/openstack-security-notes,Non core,0.0,0.0,0,0

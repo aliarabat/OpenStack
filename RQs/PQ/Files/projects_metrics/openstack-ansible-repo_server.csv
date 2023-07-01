@@ -1,0 +1,1635 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/openstack-ansible-repo_server,openstack/python-watcherclient,Core,5.384615384615385,4.10958904109589,13,15
+openstack/openstack-ansible-repo_server,openstack/python-watcherclient,Non core,4.615384615384616,6.164383561643835,13,15
+openstack/openstack-ansible-repo_server,openstack/heat-agents,Core,4.49438202247191,1.2658227848101267,8,8
+openstack/openstack-ansible-repo_server,openstack/heat-agents,Non core,4.49438202247191,3.79746835443038,8,8
+openstack/openstack-ansible-repo_server,openstack/oslo.rootwrap,Core,4.0650406504065035,1.5957446808510638,9,9
+openstack/openstack-ansible-repo_server,openstack/oslo.rootwrap,Non core,3.2520325203252036,3.1914893617021276,9,9
+openstack/openstack-ansible-repo_server,openstack/automaton,Core,3.488372093023256,1.7094017094017095,5,6
+openstack/openstack-ansible-repo_server,openstack/automaton,Non core,2.3255813953488373,3.418803418803419,5,6
+openstack/openstack-ansible-repo_server,openstack/debtcollector,Core,5.208333333333334,1.7241379310344827,7,6
+openstack/openstack-ansible-repo_server,openstack/debtcollector,Non core,2.083333333333333,3.4482758620689653,7,6
+openstack/openstack-ansible-repo_server,openstack/vitrage-dashboard,Core,4.385964912280701,1.4285714285714286,12,8
+openstack/openstack-ansible-repo_server,openstack/vitrage-dashboard,Non core,6.140350877192982,4.285714285714286,12,8
+openstack/openstack-ansible-repo_server,openstack/oslotest,Core,5.454545454545454,2.547770700636943,10,11
+openstack/openstack-ansible-repo_server,openstack/oslotest,Non core,3.6363636363636362,4.45859872611465,10,11
+openstack/openstack-ansible-repo_server,openstack/kayobe-config,Core,2.9850746268656714,1.1627906976744187,3,1
+openstack/openstack-ansible-repo_server,openstack/kayobe-config,Non core,1.4925373134328357,0.0,3,1
+openstack/openstack-ansible-repo_server,openstack/compute-hyperv,Core,4.545454545454546,2.6548672566371683,5,7
+openstack/openstack-ansible-repo_server,openstack/compute-hyperv,Non core,1.1363636363636365,3.5398230088495577,5,7
+openstack/openstack-ansible-repo_server,openstack/python-cloudkittyclient,Core,3.571428571428571,2.877697841726619,9,11
+openstack/openstack-ansible-repo_server,openstack/python-cloudkittyclient,Non core,4.464285714285714,5.0359712230215825,9,11
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone,Core,2.857142857142857,0.0,4,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone,Non core,2.857142857142857,2.127659574468085,4,2
+openstack/openstack-ansible-repo_server,openstack/cloudkitty-dashboard,Core,5.1020408163265305,3.597122302158273,8,17
+openstack/openstack-ansible-repo_server,openstack/cloudkitty-dashboard,Non core,3.061224489795918,8.633093525179856,8,17
+openstack/openstack-ansible-repo_server,openstack/networking-hyperv,Core,5.825242718446602,3.3057851239669422,9,10
+openstack/openstack-ansible-repo_server,openstack/networking-hyperv,Non core,2.912621359223301,4.958677685950414,9,10
+openstack/openstack-ansible-repo_server,openstack/i18n,Core,5.263157894736842,2.127659574468085,7,9
+openstack/openstack-ansible-repo_server,openstack/i18n,Non core,2.1052631578947367,4.25531914893617,7,9
+openstack/openstack-ansible-repo_server,openstack/sahara-tests,Core,5.617977528089887,2.127659574468085,9,5
+openstack/openstack-ansible-repo_server,openstack/sahara-tests,Non core,4.49438202247191,1.4184397163120568,9,5
+openstack/openstack-ansible-repo_server,openstack/python-zunclient,Core,3.787878787878788,2.312138728323699,11,10
+openstack/openstack-ansible-repo_server,openstack/python-zunclient,Non core,4.545454545454546,3.4682080924855487,11,10
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-cdh,Core,2.898550724637681,5.376344086021505,3,8
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-cdh,Non core,1.4492753623188406,3.225806451612903,3,8
+openstack/openstack-ansible-repo_server,openstack/monasca-ui,Core,3.968253968253968,2.030456852791878,10,13
+openstack/openstack-ansible-repo_server,openstack/monasca-ui,Non core,3.968253968253968,4.568527918781726,10,13
+openstack/openstack-ansible-repo_server,openstack/python-adjutantclient,Core,4.477611940298507,2.247191011235955,4,3
+openstack/openstack-ansible-repo_server,openstack/python-adjutantclient,Non core,1.4925373134328357,1.1235955056179776,4,3
+openstack/openstack-ansible-repo_server,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/ansible-role-lunasa-hsm,Core,3.389830508474576,2.4390243902439024,2,2
+openstack/openstack-ansible-repo_server,openstack/ansible-role-lunasa-hsm,Non core,0.0,0.0,2,2
+openstack/openstack-ansible-repo_server,openstack/monasca-thresh,Core,3.6585365853658534,0.0,5,3
+openstack/openstack-ansible-repo_server,openstack/monasca-thresh,Non core,2.4390243902439024,2.459016393442623,5,3
+openstack/openstack-ansible-repo_server,openstack/heat-specs,Core,2.3622047244094486,0.7782101167315175,3,6
+openstack/openstack-ansible-repo_server,openstack/heat-specs,Non core,0.0,1.556420233463035,3,6
+openstack/openstack-ansible-repo_server,openstack/watcher-dashboard,Core,5.154639175257731,2.2222222222222223,12,11
+openstack/openstack-ansible-repo_server,openstack/watcher-dashboard,Non core,7.216494845360824,5.9259259259259265,12,11
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-ambari,Core,2.941176470588235,2.2222222222222223,3,4
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-ambari,Non core,1.4705882352941175,2.2222222222222223,3,4
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-mapr,Core,2.9850746268656714,3.1914893617021276,3,5
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-mapr,Non core,1.4925373134328357,2.127659574468085,3,5
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-spark,Core,3.0303030303030303,2.3255813953488373,3,3
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-spark,Non core,1.5151515151515151,1.1627906976744187,3,3
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-storm,Core,3.0303030303030303,2.3255813953488373,3,4
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-storm,Non core,1.5151515151515151,2.3255813953488373,3,4
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-vanilla,Core,3.0303030303030303,2.247191011235955,3,3
+openstack/openstack-ansible-repo_server,openstack/sahara-plugin-vanilla,Non core,1.5151515151515151,1.1235955056179776,3,3
+openstack/openstack-ansible-repo_server,openstack/sahara-specs,Core,2.8846153846153846,1.3513513513513513,6,4
+openstack/openstack-ansible-repo_server,openstack/sahara-specs,Non core,2.8846153846153846,1.3513513513513513,6,4
+openstack/openstack-ansible-repo_server,openstack/venus-tempest-plugin,Core,0.0,2.4096385542168677,0,2
+openstack/openstack-ansible-repo_server,openstack/venus-tempest-plugin,Non core,0.0,0.0,0,2
+openstack/openstack-ansible-repo_server,openstack/venus-specs,Core,0.0,2.4096385542168677,0,2
+openstack/openstack-ansible-repo_server,openstack/venus-specs,Non core,0.0,0.0,0,2
+openstack/openstack-ansible-repo_server,openstack/ceilometermiddleware,Core,5.376344086021505,2.0689655172413794,6,8
+openstack/openstack-ansible-repo_server,openstack/ceilometermiddleware,Non core,1.0752688172043012,3.4482758620689653,6,8
+openstack/openstack-ansible-repo_server,openstack/trove-tempest-plugin,Core,5.970149253731343,2.8846153846153846,6,5
+openstack/openstack-ansible-repo_server,openstack/trove-tempest-plugin,Non core,2.9850746268656714,1.9230769230769231,6,5
+openstack/openstack-ansible-repo_server,openstack/arch-design,Core,3.076923076923077,2.4096385542168677,2,2
+openstack/openstack-ansible-repo_server,openstack/arch-design,Non core,0.0,0.0,2,2
+openstack/openstack-ansible-repo_server,openstack/monasca-common,Core,4.838709677419355,2.857142857142857,10,12
+openstack/openstack-ansible-repo_server,openstack/monasca-common,Non core,3.225806451612903,4.0,10,12
+openstack/openstack-ansible-repo_server,openstack/monasca-statsd,Core,6.666666666666667,1.550387596899225,9,7
+openstack/openstack-ansible-repo_server,openstack/monasca-statsd,Non core,3.3333333333333335,3.875968992248062,9,7
+openstack/openstack-ansible-repo_server,openstack/python-monascaclient,Core,4.285714285714286,2.6737967914438503,8,10
+openstack/openstack-ansible-repo_server,openstack/python-monascaclient,Non core,1.4285714285714286,2.6737967914438503,8,10
+openstack/openstack-ansible-repo_server,openstack/renderspec,Core,5.333333333333334,1.9417475728155338,8,4
+openstack/openstack-ansible-repo_server,openstack/renderspec,Non core,5.333333333333334,1.9417475728155338,8,4
+openstack/openstack-ansible-repo_server,openstack/os-service-types,Core,2.631578947368421,2.8301886792452833,5,8
+openstack/openstack-ansible-repo_server,openstack/os-service-types,Non core,3.9473684210526314,4.716981132075472,5,8
+openstack/openstack-ansible-repo_server,openstack/masakari-dashboard,Core,2.4691358024691357,1.6666666666666667,5,7
+openstack/openstack-ansible-repo_server,openstack/masakari-dashboard,Non core,3.7037037037037033,4.166666666666666,5,7
+openstack/openstack-ansible-repo_server,openstack/freezer-dr,Core,5.194805194805195,1.8181818181818181,7,7
+openstack/openstack-ansible-repo_server,openstack/freezer-dr,Non core,3.896103896103896,4.545454545454546,7,7
+openstack/openstack-ansible-repo_server,openstack/tempest-stress,Core,4.10958904109589,2.197802197802198,6,5
+openstack/openstack-ansible-repo_server,openstack/tempest-stress,Non core,4.10958904109589,3.296703296703297,6,5
+openstack/openstack-ansible-repo_server,openstack/charm-neutron-api-genericswitch,Core,3.278688524590164,1.2048192771084338,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-neutron-api-genericswitch,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-neutron-dynamic-routing,Core,2.73972602739726,1.0526315789473684,2,2
+openstack/openstack-ansible-repo_server,openstack/charm-neutron-dynamic-routing,Non core,0.0,1.0526315789473684,2,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-ceph-client,Core,1.5151515151515151,1.1363636363636365,1,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-ceph-client,Non core,0.0,1.1363636363636365,1,2
+openstack/openstack-ansible-repo_server,openstack/charm-percona-cluster,Core,2.083333333333333,1.6,3,4
+openstack/openstack-ansible-repo_server,openstack/charm-percona-cluster,Non core,1.0416666666666665,1.6,3,4
+openstack/openstack-ansible-repo_server,openstack/charm-deployment-guide,Core,2.247191011235955,1.834862385321101,2,3
+openstack/openstack-ansible-repo_server,openstack/charm-deployment-guide,Non core,0.0,0.9174311926605505,2,3
+openstack/openstack-ansible-repo_server,openstack/rbd-iscsi-client,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/oslo.metrics,Core,0.0,1.0752688172043012,1,1
+openstack/openstack-ansible-repo_server,openstack/oslo.metrics,Non core,1.5151515151515151,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/oslo.vmware,Core,3.90625,1.9047619047619049,11,12
+openstack/openstack-ansible-repo_server,openstack/oslo.vmware,Non core,4.6875,3.8095238095238098,11,12
+openstack/openstack-ansible-repo_server,openstack/oslo.upgradecheck,Core,4.10958904109589,1.9607843137254901,4,5
+openstack/openstack-ansible-repo_server,openstack/oslo.upgradecheck,Non core,1.36986301369863,2.941176470588235,4,5
+openstack/openstack-ansible-repo_server,openstack/python-masakariclient,Core,3.1914893617021276,2.479338842975207,7,10
+openstack/openstack-ansible-repo_server,openstack/python-masakariclient,Non core,4.25531914893617,5.785123966942149,7,10
+openstack/openstack-ansible-repo_server,openstack/python-vitrageclient,Core,5.0,0.0,13,5
+openstack/openstack-ansible-repo_server,openstack/python-vitrageclient,Non core,8.0,4.424778761061947,13,5
+openstack/openstack-ansible-repo_server,openstack/python-blazarclient,Core,2.8846153846153846,2.083333333333333,8,12
+openstack/openstack-ansible-repo_server,openstack/python-blazarclient,Non core,4.807692307692308,6.25,8,12
+openstack/openstack-ansible-repo_server,openstack/zaqar-tempest-plugin,Core,2.941176470588235,1.9801980198019802,4,3
+openstack/openstack-ansible-repo_server,openstack/zaqar-tempest-plugin,Non core,2.941176470588235,0.9900990099009901,4,3
+openstack/openstack-ansible-repo_server,openstack/tripleo-common-tempest-plugin,Core,4.285714285714286,2.857142857142857,6,7
+openstack/openstack-ansible-repo_server,openstack/tripleo-common-tempest-plugin,Non core,4.285714285714286,3.8095238095238098,6,7
+openstack/openstack-ansible-repo_server,openstack/mistral-tempest-plugin,Core,2.5974025974025974,0.9009009009009009,6,3
+openstack/openstack-ansible-repo_server,openstack/mistral-tempest-plugin,Non core,5.194805194805195,1.8018018018018018,6,3
+openstack/openstack-ansible-repo_server,openstack/barbican-ui,Core,1.694915254237288,2.247191011235955,1,2
+openstack/openstack-ansible-repo_server,openstack/barbican-ui,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/liberasurecode,Core,2.898550724637681,1.0309278350515463,2,2
+openstack/openstack-ansible-repo_server,openstack/liberasurecode,Non core,0.0,1.0309278350515463,2,2
+openstack/openstack-ansible-repo_server,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/os-client-config,Core,4.724409448818897,4.046242774566474,11,12
+openstack/openstack-ansible-repo_server,openstack/os-client-config,Non core,3.937007874015748,2.8901734104046244,11,12
+openstack/openstack-ansible-repo_server,openstack/monasca-specs,Core,2.9850746268656714,0.9433962264150944,4,3
+openstack/openstack-ansible-repo_server,openstack/monasca-specs,Non core,2.9850746268656714,1.8867924528301887,4,3
+openstack/openstack-ansible-repo_server,openstack/os-performance-tools,Core,4.10958904109589,2.1052631578947367,5,5
+openstack/openstack-ansible-repo_server,openstack/os-performance-tools,Non core,2.73972602739726,3.1578947368421053,5,5
+openstack/openstack-ansible-repo_server,openstack/trove-specs,Core,4.2105263157894735,1.2658227848101267,4,5
+openstack/openstack-ansible-repo_server,openstack/trove-specs,Non core,0.0,1.89873417721519,4,5
+openstack/openstack-ansible-repo_server,openstack/manila-image-elements,Core,4.938271604938271,2.631578947368421,5,11
+openstack/openstack-ansible-repo_server,openstack/manila-image-elements,Non core,1.2345679012345678,7.017543859649122,5,11
+openstack/openstack-ansible-repo_server,openstack/blazar-specs,Core,3.0303030303030303,2.0408163265306123,2,2
+openstack/openstack-ansible-repo_server,openstack/blazar-specs,Non core,0.0,0.0,2,2
+openstack/openstack-ansible-repo_server,openstack/molteniron,Core,6.0606060606060606,3.0,5,5
+openstack/openstack-ansible-repo_server,openstack/molteniron,Non core,1.5151515151515151,2.0,5,5
+openstack/openstack-ansible-repo_server,openstack/solum-specs,Core,5.633802816901409,0.0,4,2
+openstack/openstack-ansible-repo_server,openstack/solum-specs,Non core,0.0,2.0,4,2
+openstack/openstack-ansible-repo_server,openstack/patrole,Core,3.597122302158273,3.3333333333333335,10,11
+openstack/openstack-ansible-repo_server,openstack/patrole,Non core,3.597122302158273,2.7777777777777777,10,11
+openstack/openstack-ansible-repo_server,openstack/performance-docs,Core,3.260869565217391,1.550387596899225,7,8
+openstack/openstack-ansible-repo_server,openstack/performance-docs,Non core,4.3478260869565215,4.651162790697675,7,8
+openstack/openstack-ansible-repo_server,openstack/sphinx-feature-classification,Core,2.7027027027027026,1.8518518518518516,5,6
+openstack/openstack-ansible-repo_server,openstack/sphinx-feature-classification,Non core,4.054054054054054,3.7037037037037033,5,6
+openstack/openstack-ansible-repo_server,openstack/etcd3gw,Core,0.0,1.1235955056179776,0,1
+openstack/openstack-ansible-repo_server,openstack/etcd3gw,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/watcher-specs,Core,3.0,1.9736842105263157,7,10
+openstack/openstack-ansible-repo_server,openstack/watcher-specs,Non core,4.0,4.605263157894736,7,10
+openstack/openstack-ansible-repo_server,openstack/yaql,Core,3.3333333333333335,2.380952380952381,5,9
+openstack/openstack-ansible-repo_server,openstack/yaql,Non core,2.2222222222222223,4.761904761904762,5,9
+openstack/openstack-ansible-repo_server,openstack/puppet-openstack-guide,Core,7.894736842105263,2.7027027027027026,10,8
+openstack/openstack-ansible-repo_server,openstack/puppet-openstack-guide,Non core,5.263157894736842,4.504504504504505,10,8
+openstack/openstack-ansible-repo_server,openstack/puppet-panko,Core,6.8181818181818175,1.9230769230769231,10,8
+openstack/openstack-ansible-repo_server,openstack/puppet-panko,Non core,4.545454545454546,5.769230769230769,10,8
+openstack/openstack-ansible-repo_server,openstack/heat-cfnclient,Core,5.194805194805195,0.9174311926605505,4,3
+openstack/openstack-ansible-repo_server,openstack/heat-cfnclient,Non core,0.0,1.834862385321101,4,3
+openstack/openstack-ansible-repo_server,openstack/heat-cfntools,Core,4.0,1.4084507042253522,8,6
+openstack/openstack-ansible-repo_server,openstack/heat-cfntools,Non core,4.0,2.8169014084507045,8,6
+openstack/openstack-ansible-repo_server,openstack/heat-templates,Core,4.57516339869281,1.2,11,8
+openstack/openstack-ansible-repo_server,openstack/heat-templates,Non core,2.6143790849673203,2.0,11,8
+openstack/openstack-ansible-repo_server,openstack/governance-sigs,Core,8.235294117647058,6.024096385542169,8,15
+openstack/openstack-ansible-repo_server,openstack/governance-sigs,Non core,1.1764705882352942,3.0120481927710845,8,15
+openstack/openstack-ansible-repo_server,openstack/openstack-zuul-roles,Core,5.0,2.2988505747126435,3,3
+openstack/openstack-ansible-repo_server,openstack/openstack-zuul-roles,Non core,0.0,1.1494252873563218,3,3
+openstack/openstack-ansible-repo_server,openstack/nova-powervm,Core,4.62962962962963,3.0120481927710845,8,12
+openstack/openstack-ansible-repo_server,openstack/nova-powervm,Non core,2.7777777777777777,4.216867469879518,8,12
+openstack/openstack-ansible-repo_server,openstack/openstack-helm-addons,Core,1.0752688172043012,2.73224043715847,3,9
+openstack/openstack-ansible-repo_server,openstack/openstack-helm-addons,Non core,2.1505376344086025,2.185792349726776,3,9
+openstack/openstack-ansible-repo_server,openstack/python-pankoclient,Core,3.75,2.7027027027027026,4,8
+openstack/openstack-ansible-repo_server,openstack/python-pankoclient,Non core,1.25,4.504504504504505,4,8
+openstack/openstack-ansible-repo_server,openstack/qa-specs,Core,3.9603960396039604,1.0869565217391304,6,6
+openstack/openstack-ansible-repo_server,openstack/qa-specs,Non core,1.9801980198019802,2.1739130434782608,6,6
+openstack/openstack-ansible-repo_server,openstack/zaqar-specs,Core,5.681818181818182,1.4492753623188406,7,6
+openstack/openstack-ansible-repo_server,openstack/zaqar-specs,Non core,2.272727272727273,2.898550724637681,7,6
+openstack/openstack-ansible-repo_server,openstack/swift-bench,Core,0.0,0.0,1,4
+openstack/openstack-ansible-repo_server,openstack/swift-bench,Non core,1.3157894736842104,3.571428571428571,1,4
+openstack/openstack-ansible-repo_server,openstack/whereto,Core,2.898550724637681,3.1914893617021276,7,7
+openstack/openstack-ansible-repo_server,openstack/whereto,Non core,7.246376811594203,4.25531914893617,7,7
+openstack/openstack-ansible-repo_server,openstack/murano-specs,Core,4.2105263157894735,0.0,6,2
+openstack/openstack-ansible-repo_server,openstack/murano-specs,Non core,2.1052631578947367,1.4388489208633095,6,2
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-modify-image,Core,3.614457831325301,2.941176470588235,5,6
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-modify-image,Non core,2.4096385542168677,1.4705882352941175,5,6
+openstack/openstack-ansible-repo_server,openstack/requestsexceptions,Core,4.761904761904762,1.0752688172043012,3,3
+openstack/openstack-ansible-repo_server,openstack/requestsexceptions,Non core,0.0,2.1505376344086025,3,3
+openstack/openstack-ansible-repo_server,openstack/panko,Core,4.958677685950414,2.380952380952381,10,13
+openstack/openstack-ansible-repo_server,openstack/panko,Non core,3.3057851239669422,5.357142857142857,10,13
+openstack/openstack-ansible-repo_server,openstack/api-sig,Core,1.8691588785046727,0.7518796992481203,3,8
+openstack/openstack-ansible-repo_server,openstack/api-sig,Non core,0.9345794392523363,2.2556390977443606,3,8
+openstack/openstack-ansible-repo_server,openstack/openstack-chef-specs,Core,3.79746835443038,1.8181818181818181,3,4
+openstack/openstack-ansible-repo_server,openstack/openstack-chef-specs,Non core,0.0,1.8181818181818181,3,4
+openstack/openstack-ansible-repo_server,openstack/freezer-specs,Core,6.8493150684931505,3.0,7,6
+openstack/openstack-ansible-repo_server,openstack/freezer-specs,Non core,2.73972602739726,3.0,7,6
+openstack/openstack-ansible-repo_server,openstack/oslo.tools,Core,3.5294117647058822,0.9523809523809524,6,3
+openstack/openstack-ansible-repo_server,openstack/oslo.tools,Non core,3.5294117647058822,1.9047619047619049,6,3
+openstack/openstack-ansible-repo_server,openstack/microversion-parse,Core,1.5151515151515151,2.197802197802198,2,3
+openstack/openstack-ansible-repo_server,openstack/microversion-parse,Non core,1.5151515151515151,1.098901098901099,2,3
+openstack/openstack-ansible-repo_server,openstack/openstackclient,Core,5.128205128205128,3.7383177570093453,5,7
+openstack/openstack-ansible-repo_server,openstack/openstackclient,Non core,1.282051282051282,2.803738317757009,5,7
+openstack/openstack-ansible-repo_server,openstack/ossa,Core,5.263157894736842,3.7593984962406015,4,7
+openstack/openstack-ansible-repo_server,openstack/ossa,Non core,0.0,1.5037593984962405,4,7
+openstack/openstack-ansible-repo_server,openstack/reviewstats,Core,3.0303030303030303,3.1413612565445024,4,9
+openstack/openstack-ansible-repo_server,openstack/reviewstats,Non core,0.0,1.5706806282722512,4,9
+openstack/openstack-ansible-repo_server,openstack/oslo-cookiecutter,Core,5.333333333333334,1.8867924528301887,6,5
+openstack/openstack-ansible-repo_server,openstack/oslo-cookiecutter,Non core,2.666666666666667,2.8301886792452833,6,5
+openstack/openstack-ansible-repo_server,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/security-analysis,Core,3.125,0.9900990099009901,3,2
+openstack/openstack-ansible-repo_server,openstack/security-analysis,Non core,1.5625,0.9900990099009901,3,2
+openstack/openstack-ansible-repo_server,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-keystone,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-keystone,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-apt_package_pinning,Core,25.757575757575758,23.863636363636363,29,34
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-apt_package_pinning,Non core,18.181818181818183,14.772727272727273,29,34
+openstack/openstack-ansible-repo_server,openstack/ansible-role-qdrouterd,Core,13.559322033898304,22.093023255813954,12,23
+openstack/openstack-ansible-repo_server,openstack/ansible-role-qdrouterd,Non core,6.779661016949152,4.651162790697675,12,23
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-openstack_openrc,Core,24.65753424657534,23.655913978494624,33,38
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-openstack_openrc,Non core,20.54794520547945,17.20430107526882,33,38
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-nspawn_container_create,Core,16.129032258064516,15.555555555555555,18,21
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-nspawn_container_create,Non core,12.903225806451612,7.777777777777778,18,21
+openstack/openstack-ansible-repo_server,openstack/devstack-tools,Core,4.225352112676056,2.197802197802198,5,5
+openstack/openstack-ansible-repo_server,openstack/devstack-tools,Non core,2.8169014084507045,3.296703296703297,5,5
+openstack/openstack-ansible-repo_server,openstack/coverage2sql,Core,5.194805194805195,1.0526315789473684,6,4
+openstack/openstack-ansible-repo_server,openstack/coverage2sql,Non core,2.5974025974025974,3.1578947368421053,6,4
+openstack/openstack-ansible-repo_server,openstack/bashate,Core,5.88235294117647,3.125,6,6
+openstack/openstack-ansible-repo_server,openstack/bashate,Non core,0.0,1.5625,6,6
+openstack/openstack-ansible-repo_server,openstack/hacking,Core,3.546099290780142,3.111111111111111,5,10
+openstack/openstack-ansible-repo_server,openstack/hacking,Non core,0.0,1.3333333333333335,5,10
+openstack/openstack-ansible-repo_server,openstack/xstatic-mdi,Core,1.5625,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-mdi,Non core,0.0,2.247191011235955,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-roboto-fontface,Core,1.5873015873015872,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-roboto-fontface,Non core,0.0,2.2222222222222223,1,2
+openstack/openstack-ansible-repo_server,openstack/openstack-chef,Core,3.7037037037037033,2.1505376344086025,3,5
+openstack/openstack-ansible-repo_server,openstack/openstack-chef,Non core,0.0,3.225806451612903,3,5
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstackclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstackclient,Non core,0.0,1.1235955056179776,0,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular,Core,1.4492753623188406,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular,Non core,0.0,2.0408163265306123,1,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-hacluster,Core,1.3157894736842104,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-hacluster,Non core,0.0,2.1505376344086025,1,2
+openstack/openstack-ansible-repo_server,openstack/puppet-openstack-specs,Core,5.263157894736842,1.550387596899225,8,6
+openstack/openstack-ansible-repo_server,openstack/puppet-openstack-specs,Non core,5.263157894736842,3.10077519379845,8,6
+openstack/openstack-ansible-repo_server,openstack/puppet-monasca,Core,4.878048780487805,1.3245033112582782,8,8
+openstack/openstack-ansible-repo_server,openstack/puppet-monasca,Non core,4.878048780487805,3.9735099337748347,8,8
+openstack/openstack-ansible-repo_server,openstack/eslint-config-openstack,Core,5.714285714285714,1.639344262295082,5,4
+openstack/openstack-ansible-repo_server,openstack/eslint-config-openstack,Non core,1.4285714285714286,1.639344262295082,5,4
+openstack/openstack-ansible-repo_server,openstack/karma-subunit-reporter,Core,3.278688524590164,1.2048192771084338,2,2
+openstack/openstack-ansible-repo_server,openstack/karma-subunit-reporter,Non core,0.0,1.2048192771084338,2,2
+openstack/openstack-ansible-repo_server,openstack/openstack-helm-docs,Core,1.5873015873015872,6.315789473684211,3,9
+openstack/openstack-ansible-repo_server,openstack/openstack-helm-docs,Non core,3.1746031746031744,3.1578947368421053,3,9
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-specs,Core,15.555555555555555,16.3265306122449,24,43
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-specs,Non core,11.11111111111111,12.925170068027212,24,43
+openstack/openstack-ansible-repo_server,openstack/tempest-lib,Core,2.0,0.0,2,4
+openstack/openstack-ansible-repo_server,openstack/tempest-lib,Non core,0.0,2.4096385542168677,2,4
+openstack/openstack-ansible-repo_server,openstack/tripleo-ha-utils,Core,0.0,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/tripleo-ha-utils,Non core,1.5151515151515151,1.9607843137254901,1,2
+openstack/openstack-ansible-repo_server,openstack/devstack-vagrant,Core,2.8169014084507045,1.0,2,3
+openstack/openstack-ansible-repo_server,openstack/devstack-vagrant,Non core,0.0,2.0,2,3
+openstack/openstack-ansible-repo_server,openstack/goal-tools,Core,4.761904761904762,3.296703296703297,3,5
+openstack/openstack-ansible-repo_server,openstack/goal-tools,Non core,0.0,2.197802197802198,3,5
+openstack/openstack-ansible-repo_server,openstack/cookiecutter,Core,3.061224489795918,4.285714285714286,4,8
+openstack/openstack-ansible-repo_server,openstack/cookiecutter,Non core,1.0204081632653061,1.4285714285714286,4,8
+openstack/openstack-ansible-repo_server,openstack/dib-utils,Core,5.714285714285714,1.7857142857142856,4,5
+openstack/openstack-ansible-repo_server,openstack/dib-utils,Non core,0.0,2.6785714285714284,4,5
+openstack/openstack-ansible-repo_server,openstack/constellations,Core,3.3333333333333335,3.4090909090909087,4,6
+openstack/openstack-ansible-repo_server,openstack/constellations,Non core,3.3333333333333335,3.4090909090909087,4,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-integration-test,Core,2.7027027027027026,0.9523809523809524,3,7
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-integration-test,Non core,1.3513513513513513,5.714285714285714,3,7
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-dashboard,Core,4.081632653061225,0.7142857142857143,6,8
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-dashboard,Non core,2.0408163265306123,5.0,6,8
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-telemetry,Core,4.081632653061225,0.8064516129032258,7,5
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-telemetry,Non core,3.061224489795918,3.225806451612903,7,5
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-orchestration,Core,4.444444444444445,1.574803149606299,5,7
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-orchestration,Non core,1.1111111111111112,3.937007874015748,5,7
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-bare-metal,Core,1.4705882352941175,1.0416666666666665,1,4
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-bare-metal,Non core,0.0,3.125,1,4
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-dns,Core,0.0,0.0,0,2
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-dns,Non core,0.0,2.272727272727273,0,2
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-compute,Core,3.389830508474576,0.6134969325153374,6,9
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-compute,Non core,1.694915254237288,4.9079754601226995,6,9
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-network,Core,3.3333333333333335,0.6211180124223602,6,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-network,Non core,1.6666666666666667,3.1055900621118013,6,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-block-storage,Core,4.464285714285714,0.6993006993006993,8,5
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-block-storage,Non core,2.6785714285714284,2.797202797202797,8,5
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-image,Core,3.8095238095238098,1.4184397163120568,6,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-image,Non core,1.9047619047619049,2.8368794326241136,6,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-identity,Core,4.761904761904762,0.6802721088435374,8,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-identity,Non core,2.857142857142857,3.4013605442176873,8,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-ops-database,Core,4.545454545454546,0.8264462809917356,6,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-ops-database,Non core,2.272727272727273,4.132231404958678,6,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-ops-messaging,Core,4.938271604938271,0.8771929824561403,6,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-ops-messaging,Non core,2.4691358024691357,4.385964912280701,6,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-common,Core,4.385964912280701,1.875,7,10
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-common,Non core,1.7543859649122806,4.375,7,10
+openstack/openstack-ansible-repo_server,openstack/self-healing-sig,Core,3.0303030303030303,1.9607843137254901,3,2
+openstack/openstack-ansible-repo_server,openstack/self-healing-sig,Non core,1.5151515151515151,0.0,3,2
+openstack/openstack-ansible-repo_server,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-ops-interface-tls-certificates,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/security-specs,Core,4.285714285714286,1.9047619047619049,4,4
+openstack/openstack-ansible-repo_server,openstack/security-specs,Non core,1.4285714285714286,1.9047619047619049,4,4
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_panko,Core,15.625,21.59090909090909,19,30
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_panko,Non core,14.0625,12.5,19,30
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-nspawn_hosts,Core,15.873015873015872,16.666666666666664,18,23
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-nspawn_hosts,Non core,12.698412698412698,8.88888888888889,18,23
+openstack/openstack-ansible-repo_server,openstack/charm-layer-openstack-principle,Core,3.225806451612903,0.0,2,0
+openstack/openstack-ansible-repo_server,openstack/charm-layer-openstack-principle,Non core,0.0,0.0,2,0
+openstack/openstack-ansible-repo_server,openstack/charm-watcher-dashboard,Core,1.639344262295082,1.1363636363636365,1,1
+openstack/openstack-ansible-repo_server,openstack/charm-watcher-dashboard,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/charm-watcher,Core,1.5873015873015872,1.0309278350515463,1,1
+openstack/openstack-ansible-repo_server,openstack/charm-watcher,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-galera_client,Core,25.97402597402597,24.210526315789473,36,41
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-galera_client,Non core,20.77922077922078,18.947368421052634,36,41
+openstack/openstack-ansible-repo_server,openstack/cloudkitty-specs,Core,4.225352112676056,0.9433962264150944,4,2
+openstack/openstack-ansible-repo_server,openstack/cloudkitty-specs,Non core,1.4084507042253522,0.9433962264150944,4,2
+openstack/openstack-ansible-repo_server,openstack/osops,Core,1.5873015873015872,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/osops,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-ironic,Core,5.0,2.5,4,2
+openstack/openstack-ansible-repo_server,openstack/charm-ironic,Non core,1.6666666666666667,0.0,4,2
+openstack/openstack-ansible-repo_server,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/multi-arch-sig,Core,1.6666666666666667,3.614457831325301,1,3
+openstack/openstack-ansible-repo_server,openstack/multi-arch-sig,Non core,0.0,0.0,1,3
+openstack/openstack-ansible-repo_server,openstack/charm-nova-compute-proxy,Core,2.9850746268656714,1.1235955056179776,3,2
+openstack/openstack-ansible-repo_server,openstack/charm-nova-compute-proxy,Non core,1.4925373134328357,1.1235955056179776,3,2
+openstack/openstack-ansible-repo_server,openstack/charm-odl-controller,Core,2.941176470588235,1.1494252873563218,3,2
+openstack/openstack-ansible-repo_server,openstack/charm-odl-controller,Non core,1.4705882352941175,1.1494252873563218,3,2
+openstack/openstack-ansible-repo_server,openstack/charm-nova-lxd,Core,4.0,2.0,4,3
+openstack/openstack-ansible-repo_server,openstack/charm-nova-lxd,Non core,1.3333333333333335,1.0,4,3
+openstack/openstack-ansible-repo_server,openstack/charm-interface-nova-cell,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-magpie,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-magpie,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-lodash,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-lodash,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-moment,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-moment,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-barbican-secrets,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-barbican-secrets,Non core,0.0,1.1764705882352942,0,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-mysql-innodb-cluster,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-ceph-rbd-mirror,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-ceph-rbd-mirror,Non core,0.0,1.1627906976744187,0,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-placement,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-placement,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-mysql-shared,Core,3.076923076923077,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-mysql-shared,Non core,0.0,1.1627906976744187,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-dashboard-plugin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-dashboard-plugin,Non core,0.0,1.1764705882352942,0,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-neutron-load-balancer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-neutron-load-balancer,Non core,0.0,1.1764705882352942,0,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-neutron-plugin-api-subordinate,Core,3.076923076923077,1.1494252873563218,3,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,1.5384615384615385,0.0,3,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-neutron-plugin,Core,3.1746031746031744,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-neutron-plugin,Non core,0.0,1.1764705882352942,2,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-json2yaml,Core,1.694915254237288,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-jquery.tablesorter,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-jquery.tablesorter,Non core,0.0,1.2048192771084338,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-magic-search,Core,1.5384615384615385,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-magic-search,Non core,0.0,2.1739130434782608,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-jsencrypt,Core,1.5873015873015872,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-jsencrypt,Non core,0.0,2.1739130434782608,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-js-yaml,Core,1.6666666666666667,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-spin,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-spin,Non core,0.0,1.2048192771084338,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-rickshaw,Core,1.5625,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-rickshaw,Non core,0.0,2.247191011235955,1,2
+openstack/openstack-ansible-repo_server,openstack/charm-panko,Core,1.5873015873015872,1.1235955056179776,1,2
+openstack/openstack-ansible-repo_server,openstack/charm-panko,Non core,0.0,1.1235955056179776,1,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-service-control,Core,0.0,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-service-control,Non core,1.5384615384615385,2.3255813953488373,1,2
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_almanach,Core,18.461538461538463,15.909090909090908,19,24
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_almanach,Non core,10.76923076923077,11.363636363636363,19,24
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-pip_install,Core,23.943661971830984,22.330097087378643,36,47
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-pip_install,Non core,26.76056338028169,23.300970873786408,36,47
+openstack/openstack-ansible-repo_server,openstack/python-karborclient,Core,3.8461538461538463,2.9850746268656714,7,9
+openstack/openstack-ansible-repo_server,openstack/python-karborclient,Non core,2.8846153846153846,3.731343283582089,7,9
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone-admin,Core,5.0,0.0,3,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone-admin,Non core,0.0,1.2048192771084338,3,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-nova-compute,Core,1.5384615384615385,0.0,2,3
+openstack/openstack-ansible-repo_server,openstack/charm-interface-nova-compute,Non core,1.5384615384615385,3.4482758620689653,2,3
+openstack/openstack-ansible-repo_server,openstack/charm-interface-manila-plugin,Core,3.225806451612903,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-manila-plugin,Non core,0.0,1.1764705882352942,2,1
+openstack/openstack-ansible-repo_server,openstack/murano-apps,Core,4.807692307692308,2.0689655172413794,7,5
+openstack/openstack-ansible-repo_server,openstack/murano-apps,Non core,1.9230769230769231,1.3793103448275863,7,5
+openstack/openstack-ansible-repo_server,openstack/puppet-senlin,Core,4.411764705882353,1.098901098901099,6,6
+openstack/openstack-ansible-repo_server,openstack/puppet-senlin,Non core,4.411764705882353,5.4945054945054945,6,6
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-application-catalog,Core,1.6129032258064515,0.0,2,3
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-application-catalog,Non core,1.6129032258064515,3.571428571428571,2,3
+openstack/openstack-ansible-repo_server,openstack/training-labs,Core,5.747126436781609,3.508771929824561,9,10
+openstack/openstack-ansible-repo_server,openstack/training-labs,Non core,4.597701149425287,5.263157894736842,9,10
+openstack/openstack-ansible-repo_server,openstack/karbor,Core,4.320987654320987,2.666666666666667,10,18
+openstack/openstack-ansible-repo_server,openstack/karbor,Non core,1.8518518518518516,5.333333333333334,10,18
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-open-cas,Core,1.6666666666666667,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_congress,Core,15.384615384615385,17.894736842105264,19,28
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_congress,Non core,13.846153846153847,11.578947368421053,19,28
+openstack/openstack-ansible-repo_server,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-ops-interface-ceph-client,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone-notifications,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/os-collect-config,Core,4.761904761904762,2.272727272727273,7,7
+openstack/openstack-ansible-repo_server,openstack/os-collect-config,Non core,1.9047619047619049,1.7045454545454544,7,7
+openstack/openstack-ansible-repo_server,openstack/os-apply-config,Core,5.825242718446602,2.4096385542168677,8,9
+openstack/openstack-ansible-repo_server,openstack/os-apply-config,Non core,1.9417475728155338,3.0120481927710845,8,9
+openstack/openstack-ansible-repo_server,openstack/puppet-freezer,Core,6.756756756756757,2.083333333333333,9,10
+openstack/openstack-ansible-repo_server,openstack/puppet-freezer,Non core,5.405405405405405,8.333333333333332,9,10
+openstack/openstack-ansible-repo_server,openstack/vitrage-specs,Core,4.545454545454546,0.0,8,6
+openstack/openstack-ansible-repo_server,openstack/vitrage-specs,Non core,4.545454545454546,4.838709677419355,8,6
+openstack/openstack-ansible-repo_server,openstack/specs-cookiecutter,Core,4.6875,2.197802197802198,3,3
+openstack/openstack-ansible-repo_server,openstack/specs-cookiecutter,Non core,0.0,1.098901098901099,3,3
+openstack/openstack-ansible-repo_server,openstack/rpm-packaging-tools,Core,4.545454545454546,1.9801980198019802,4,4
+openstack/openstack-ansible-repo_server,openstack/rpm-packaging-tools,Non core,1.5151515151515151,1.9801980198019802,4,4
+openstack/openstack-ansible-repo_server,openstack/ansible-role-openstack-operations,Core,1.4084507042253522,2.1052631578947367,3,2
+openstack/openstack-ansible-repo_server,openstack/ansible-role-openstack-operations,Non core,2.8169014084507045,0.0,3,2
+openstack/openstack-ansible-repo_server,openstack/os-refresh-config,Core,4.3478260869565215,2.083333333333333,5,10
+openstack/openstack-ansible-repo_server,openstack/os-refresh-config,Non core,1.0869565217391304,4.861111111111112,5,10
+openstack/openstack-ansible-repo_server,openstack/mistral-specs,Core,4.938271604938271,0.0,6,3
+openstack/openstack-ansible-repo_server,openstack/mistral-specs,Non core,2.4691358024691357,2.608695652173913,6,3
+openstack/openstack-ansible-repo_server,openstack/scientific-wg,Core,3.3333333333333335,1.2048192771084338,2,2
+openstack/openstack-ansible-repo_server,openstack/scientific-wg,Non core,0.0,1.2048192771084338,2,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/manila-test-image,Core,3.3333333333333335,2.197802197802198,2,4
+openstack/openstack-ansible-repo_server,openstack/manila-test-image,Non core,0.0,2.197802197802198,2,4
+openstack/openstack-ansible-repo_server,openstack/governance-website,Core,3.0303030303030303,4.2105263157894735,2,5
+openstack/openstack-ansible-repo_server,openstack/governance-website,Non core,0.0,1.0526315789473684,2,5
+openstack/openstack-ansible-repo_server,openstack/bugdaystats,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/bugdaystats,Non core,0.0,1.0638297872340425,0,1
+openstack/openstack-ansible-repo_server,openstack/upstream-institute-virtual-environment,Core,0.0,3.3707865168539324,0,3
+openstack/openstack-ansible-repo_server,openstack/upstream-institute-virtual-environment,Non core,0.0,0.0,0,3
+openstack/openstack-ansible-repo_server,openstack/karbor-dashboard,Core,3.4482758620689653,3.1746031746031744,9,12
+openstack/openstack-ansible-repo_server,openstack/karbor-dashboard,Non core,6.896551724137931,6.349206349206349,9,12
+openstack/openstack-ansible-repo_server,openstack/django_openstack_auth,Core,4.615384615384616,0.8403361344537815,6,6
+openstack/openstack-ansible-repo_server,openstack/django_openstack_auth,Non core,0.0,1.680672268907563,6,6
+openstack/openstack-ansible-repo_server,openstack/monasca-transform,Core,6.8181818181818175,1.6129032258064515,11,7
+openstack/openstack-ansible-repo_server,openstack/monasca-transform,Non core,5.681818181818182,4.032258064516129,11,7
+openstack/openstack-ansible-repo_server,openstack/monasca-ceilometer,Core,7.142857142857142,2.083333333333333,10,9
+openstack/openstack-ansible-repo_server,openstack/monasca-ceilometer,Non core,3.061224489795918,4.166666666666666,10,9
+openstack/openstack-ansible-repo_server,openstack/monasca-log-api,Core,6.796116504854369,2.5,11,13
+openstack/openstack-ansible-repo_server,openstack/monasca-log-api,Non core,3.8834951456310676,5.625,11,13
+openstack/openstack-ansible-repo_server,openstack/nose-html-output,Core,3.076923076923077,2.2222222222222223,2,4
+openstack/openstack-ansible-repo_server,openstack/nose-html-output,Non core,0.0,2.2222222222222223,2,4
+openstack/openstack-ansible-repo_server,openstack/kolla-cli,Core,1.3333333333333335,1.8018018018018018,5,6
+openstack/openstack-ansible-repo_server,openstack/kolla-cli,Non core,5.333333333333334,3.6036036036036037,5,6
+openstack/openstack-ansible-repo_server,openstack/neutron-lbaas-dashboard,Core,4.081632653061225,1.2658227848101267,8,10
+openstack/openstack-ansible-repo_server,openstack/neutron-lbaas-dashboard,Non core,4.081632653061225,5.063291139240507,8,10
+openstack/openstack-ansible-repo_server,openstack/searchlight,Core,3.048780487804878,2.0202020202020203,12,17
+openstack/openstack-ansible-repo_server,openstack/searchlight,Non core,4.2682926829268295,6.565656565656567,12,17
+openstack/openstack-ansible-repo_server,openstack/searchlight-ui,Core,4.166666666666666,0.8064516129032258,8,7
+openstack/openstack-ansible-repo_server,openstack/searchlight-ui,Non core,4.166666666666666,4.838709677419355,8,7
+openstack/openstack-ansible-repo_server,openstack/searchlight-specs,Core,6.666666666666667,0.0,7,3
+openstack/openstack-ansible-repo_server,openstack/searchlight-specs,Non core,2.666666666666667,2.6785714285714284,7,3
+openstack/openstack-ansible-repo_server,openstack/python-searchlightclient,Core,5.319148936170213,0.7874015748031495,9,7
+openstack/openstack-ansible-repo_server,openstack/python-searchlightclient,Non core,4.25531914893617,4.724409448818897,9,7
+openstack/openstack-ansible-repo_server,openstack/charm-tempest,Core,2.564102564102564,0.9900990099009901,2,3
+openstack/openstack-ansible-repo_server,openstack/charm-tempest,Non core,0.0,1.9801980198019802,2,3
+openstack/openstack-ansible-repo_server,openstack/charm-barbican-softhsm,Core,2.666666666666667,1.0416666666666665,2,3
+openstack/openstack-ansible-repo_server,openstack/charm-barbican-softhsm,Non core,0.0,2.083333333333333,2,3
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-client,Core,1.5384615384615385,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-client,Non core,0.0,1.0752688172043012,1,1
+openstack/openstack-ansible-repo_server,openstack/instack-undercloud,Core,3.9735099337748347,1.4705882352941175,9,12
+openstack/openstack-ansible-repo_server,openstack/instack-undercloud,Non core,1.9867549668874174,2.941176470588235,9,12
+openstack/openstack-ansible-repo_server,openstack/publiccloud-sig,Core,3.1746031746031744,2.3255813953488373,2,3
+openstack/openstack-ansible-repo_server,openstack/publiccloud-sig,Non core,0.0,1.1627906976744187,2,3
+openstack/openstack-ansible-repo_server,openstack/ideas,Core,6.779661016949152,5.825242718446602,4,6
+openstack/openstack-ansible-repo_server,openstack/ideas,Non core,0.0,0.0,4,6
+openstack/openstack-ansible-repo_server,openstack/uc-recognition,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/uc-recognition,Non core,0.0,1.1363636363636365,1,1
+openstack/openstack-ansible-repo_server,openstack/ops-tags-team,Core,1.4925373134328357,0.9174311926605505,1,3
+openstack/openstack-ansible-repo_server,openstack/ops-tags-team,Non core,0.0,1.834862385321101,1,3
+openstack/openstack-ansible-repo_server,openstack/enterprise-wg,Core,1.7241379310344827,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/enterprise-wg,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/governance-uc,Core,3.9473684210526314,4.032258064516129,4,10
+openstack/openstack-ansible-repo_server,openstack/governance-uc,Non core,1.3157894736842104,4.032258064516129,4,10
+openstack/openstack-ansible-repo_server,openstack/workload-ref-archs,Core,4.615384615384616,2.197802197802198,6,4
+openstack/openstack-ansible-repo_server,openstack/workload-ref-archs,Non core,4.615384615384616,2.197802197802198,6,4
+openstack/openstack-ansible-repo_server,openstack/arch-wg,Core,1.639344262295082,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/arch-wg,Non core,0.0,1.0526315789473684,1,1
+openstack/openstack-ansible-repo_server,openstack/project-navigator-data,Core,4.054054054054054,4.0,3,5
+openstack/openstack-ansible-repo_server,openstack/project-navigator-data,Non core,0.0,1.0,3,5
+openstack/openstack-ansible-repo_server,openstack/openstack-specs,Core,4.0,1.968503937007874,3,7
+openstack/openstack-ansible-repo_server,openstack/openstack-specs,Non core,0.0,0.7874015748031495,3,7
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_monasca,Core,22.857142857142858,17.647058823529413,25,31
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_monasca,Non core,12.857142857142856,12.745098039215685,25,31
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_monasca-agent,Core,15.384615384615385,16.853932584269664,18,26
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_monasca-agent,Non core,12.307692307692308,12.359550561797752,18,26
+openstack/openstack-ansible-repo_server,openstack/ironic-inspector-specs,Core,3.9473684210526314,0.8130081300813009,7,3
+openstack/openstack-ansible-repo_server,openstack/ironic-inspector-specs,Non core,5.263157894736842,1.6260162601626018,7,3
+openstack/openstack-ansible-repo_server,openstack/sushy-cli,Core,1.5384615384615385,0.0,2,0
+openstack/openstack-ansible-repo_server,openstack/sushy-cli,Non core,1.5384615384615385,0.0,2,0
+openstack/openstack-ansible-repo_server,openstack/puppet-glare,Core,7.59493670886076,1.9801980198019802,9,8
+openstack/openstack-ansible-repo_server,openstack/puppet-glare,Non core,3.79746835443038,5.9405940594059405,9,8
+openstack/openstack-ansible-repo_server,openstack/xstatic-bootstrap-scss,Core,1.5625,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-bootstrap-scss,Non core,0.0,2.1739130434782608,1,2
+openstack/openstack-ansible-repo_server,openstack/openstack-planet,Core,2.941176470588235,2.2222222222222223,9,7
+openstack/openstack-ansible-repo_server,openstack/openstack-planet,Non core,0.3676470588235294,1.6666666666666667,9,7
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone-credentials,Core,4.6875,0.0,4,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone-credentials,Non core,1.5625,1.1494252873563218,4,1
+openstack/openstack-ansible-repo_server,openstack/monasca-kibana-plugin,Core,4.545454545454546,1.0309278350515463,3,2
+openstack/openstack-ansible-repo_server,openstack/monasca-kibana-plugin,Non core,0.0,1.0309278350515463,3,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone-domain-backend,Core,4.838709677419355,0.0,3,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,0
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-amqp1,Core,9.375,2.1052631578947367,6,5
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-amqp1,Non core,0.0,3.1578947368421053,6,5
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-kafka,Core,3.125,2.1505376344086025,2,3
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-kafka,Non core,0.0,1.0752688172043012,2,3
+openstack/openstack-ansible-repo_server,openstack/tripleo-ipsec,Core,2.9850746268656714,2.1052631578947367,3,4
+openstack/openstack-ansible-repo_server,openstack/tripleo-ipsec,Non core,1.4925373134328357,2.1052631578947367,3,4
+openstack/openstack-ansible-repo_server,openstack/monasca-grafana-datasource,Core,1.4925373134328357,0.0,2,2
+openstack/openstack-ansible-repo_server,openstack/monasca-grafana-datasource,Non core,1.4925373134328357,1.9801980198019802,2,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-bind-rndc,Core,4.761904761904762,0.0,4,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-bind-rndc,Non core,1.5873015873015872,2.3529411764705883,4,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-rabbitmq,Core,4.761904761904762,0.0,3,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-rabbitmq,Non core,0.0,1.1494252873563218,3,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-openstack-ha,Core,3.1746031746031744,1.1627906976744187,2,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-openstack-ha,Non core,0.0,1.1627906976744187,2,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-gnocchi,Core,4.918032786885246,1.0752688172043012,3,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-gnocchi,Non core,0.0,0.0,3,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-bgp,Core,3.125,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-bgp,Non core,0.0,1.1627906976744187,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-designate,Core,1.639344262295082,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/charm-interface-designate,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/tempest-horizon,Core,6.944444444444445,1.0204081632653061,7,3
+openstack/openstack-ansible-repo_server,openstack/tempest-horizon,Non core,2.7777777777777777,2.0408163265306123,7,3
+openstack/openstack-ansible-repo_server,openstack/logstash-filters,Core,0.0,1.2195121951219512,0,2
+openstack/openstack-ansible-repo_server,openstack/logstash-filters,Non core,0.0,1.2195121951219512,0,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-jquery-migrate,Core,1.639344262295082,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-jquery-migrate,Non core,0.0,1.1904761904761905,1,1
+openstack/openstack-ansible-repo_server,openstack/qinling-dashboard,Core,3.1746031746031744,2.247191011235955,3,6
+openstack/openstack-ansible-repo_server,openstack/qinling-dashboard,Non core,1.5873015873015872,4.49438202247191,3,6
+openstack/openstack-ansible-repo_server,openstack/python-qinlingclient,Core,3.75,2.0408163265306123,9,7
+openstack/openstack-ansible-repo_server,openstack/python-qinlingclient,Non core,7.5,5.1020408163265305,9,7
+openstack/openstack-ansible-repo_server,openstack/qinling,Core,5.376344086021505,2.7777777777777777,10,8
+openstack/openstack-ansible-repo_server,openstack/qinling,Non core,5.376344086021505,4.62962962962963,10,8
+openstack/openstack-ansible-repo_server,openstack/monasca-analytics,Core,8.0,3.4782608695652173,9,6
+openstack/openstack-ansible-repo_server,openstack/monasca-analytics,Non core,4.0,1.7391304347826086,9,6
+openstack/openstack-ansible-repo_server,openstack/oslo-incubator,Core,2.1671826625387,0.796812749003984,7,6
+openstack/openstack-ansible-repo_server,openstack/oslo-incubator,Non core,0.0,0.398406374501992,7,6
+openstack/openstack-ansible-repo_server,openstack/puppet-congress,Core,7.6923076923076925,2.083333333333333,10,7
+openstack/openstack-ansible-repo_server,openstack/puppet-congress,Non core,5.128205128205128,5.208333333333334,10,7
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_monasca-ui,Core,8.333333333333332,10.843373493975903,11,15
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_monasca-ui,Non core,10.0,7.228915662650602,11,15
+openstack/openstack-ansible-repo_server,openstack/auto-scaling-sig,Core,1.5873015873015872,1.0638297872340425,1,1
+openstack/openstack-ansible-repo_server,openstack/auto-scaling-sig,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/os-loganalyze,Core,2.3529411764705883,2.4,2,5
+openstack/openstack-ansible-repo_server,openstack/os-loganalyze,Non core,0.0,1.6,2,5
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-pika,Core,1.6129032258064515,2.2988505747126435,1,3
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-pika,Non core,0.0,1.1494252873563218,1,3
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-zmq,Core,7.936507936507936,3.4090909090909087,5,5
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-zmq,Non core,0.0,2.272727272727273,5,5
+openstack/openstack-ansible-repo_server,openstack/networking-l2gw,Core,4.273504273504273,1.8181818181818181,9,10
+openstack/openstack-ansible-repo_server,openstack/networking-l2gw,Non core,3.418803418803419,2.727272727272727,9,10
+openstack/openstack-ansible-repo_server,openstack/networking-l2gw-tempest-plugin,Core,4.545454545454546,2.0,4,2
+openstack/openstack-ansible-repo_server,openstack/networking-l2gw-tempest-plugin,Non core,1.5151515151515151,0.0,4,2
+openstack/openstack-ansible-repo_server,openstack/charm-interface-ceph-mds,Core,4.761904761904762,0.0,3,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-ceph-mds,Non core,0.0,1.1904761904761905,3,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-ui-router,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-ui-router,Non core,0.0,1.1764705882352942,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-vis,Core,3.3333333333333335,0.0,2,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-vis,Non core,0.0,0.0,2,0
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-database,Core,1.5151515151515151,1.0,1,2
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-database,Non core,0.0,1.0,1,2
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-data-processing,Core,1.5873015873015872,1.0752688172043012,1,3
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-data-processing,Non core,0.0,2.1505376344086025,1,3
+openstack/openstack-ansible-repo_server,openstack/trove-integration,Core,1.639344262295082,1.7142857142857144,2,5
+openstack/openstack-ansible-repo_server,openstack/trove-integration,Non core,0.0,1.1428571428571428,2,5
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-sensu,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-sensu,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/python-ceilometerclient,Core,2.976190476190476,1.1764705882352942,5,8
+openstack/openstack-ansible-repo_server,openstack/python-ceilometerclient,Non core,0.0,1.9607843137254901,5,8
+openstack/openstack-ansible-repo_server,openstack/keystoneauth-saml2,Core,2.898550724637681,0.9174311926605505,2,3
+openstack/openstack-ansible-repo_server,openstack/keystoneauth-saml2,Non core,0.0,1.834862385321101,2,3
+openstack/openstack-ansible-repo_server,openstack/murano-deployment,Core,2.197802197802198,0.0,3,2
+openstack/openstack-ansible-repo_server,openstack/murano-deployment,Non core,1.098901098901099,1.7699115044247788,3,2
+openstack/openstack-ansible-repo_server,openstack/python-keystoneclient-kerberos,Core,2.898550724637681,0.9345794392523363,2,3
+openstack/openstack-ansible-repo_server,openstack/python-keystoneclient-kerberos,Non core,0.0,1.8691588785046727,2,3
+openstack/openstack-ansible-repo_server,openstack/python-wsmanclient,Core,1.639344262295082,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/python-wsmanclient,Non core,0.0,1.1627906976744187,1,1
+openstack/openstack-ansible-repo_server,openstack/fuel-upgrade,Core,3.0303030303030303,0.0,2,2
+openstack/openstack-ansible-repo_server,openstack/fuel-upgrade,Non core,0.0,1.9417475728155338,2,2
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-object-storage,Core,3.7037037037037033,1.694915254237288,5,3
+openstack/openstack-ansible-repo_server,openstack/cookbook-openstack-object-storage,Non core,2.4691358024691357,0.847457627118644,5,3
+openstack/openstack-ansible-repo_server,openstack/fairy-slipper,Core,3.125,1.0869565217391304,2,3
+openstack/openstack-ansible-repo_server,openstack/fairy-slipper,Non core,0.0,2.1739130434782608,2,3
+openstack/openstack-ansible-repo_server,openstack/django-openstack-auth-kerberos,Core,3.225806451612903,0.0,2,2
+openstack/openstack-ansible-repo_server,openstack/django-openstack-auth-kerberos,Non core,0.0,2.1505376344086025,2,2
+openstack/openstack-ansible-repo_server,openstack/horizon-cisco-ui,Core,4.411764705882353,1.1235955056179776,3,3
+openstack/openstack-ansible-repo_server,openstack/horizon-cisco-ui,Non core,0.0,2.247191011235955,3,3
+openstack/openstack-ansible-repo_server,openstack/zuul-packaging,Core,5.172413793103448,2.3255813953488373,3,3
+openstack/openstack-ansible-repo_server,openstack/zuul-packaging,Non core,0.0,1.1627906976744187,3,3
+openstack/openstack-ansible-repo_server,openstack/networking-generic-switch-tempest-plugin,Core,1.694915254237288,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/tripleo-incubator,Core,1.9736842105263157,0.8438818565400843,3,4
+openstack/openstack-ansible-repo_server,openstack/tripleo-incubator,Non core,0.0,0.8438818565400843,3,4
+openstack/openstack-ansible-repo_server,openstack/ironic-webclient,Core,1.5625,0.0,1,3
+openstack/openstack-ansible-repo_server,openstack/ironic-webclient,Non core,0.0,2.8301886792452833,1,3
+openstack/openstack-ansible-repo_server,openstack/puppet-crane,Core,1.694915254237288,1.25,1,2
+openstack/openstack-ansible-repo_server,openstack/puppet-crane,Non core,0.0,1.25,1,2
+openstack/openstack-ansible-repo_server,openstack/release-tools,Core,5.747126436781609,2.7777777777777777,5,7
+openstack/openstack-ansible-repo_server,openstack/release-tools,Non core,0.0,2.083333333333333,5,7
+openstack/openstack-ansible-repo_server,openstack/gnocchi,Core,4.132231404958678,1.0,6,8
+openstack/openstack-ansible-repo_server,openstack/gnocchi,Non core,0.8264462809917356,3.0,6,8
+openstack/openstack-ansible-repo_server,openstack/networking-ofagent,Core,1.4705882352941175,0.9900990099009901,1,3
+openstack/openstack-ansible-repo_server,openstack/networking-ofagent,Non core,0.0,1.9801980198019802,1,3
+openstack/openstack-ansible-repo_server,openstack/python-neutron-pd-driver,Core,1.6666666666666667,1.2345679012345678,1,2
+openstack/openstack-ansible-repo_server,openstack/python-neutron-pd-driver,Non core,0.0,1.2345679012345678,1,2
+openstack/openstack-ansible-repo_server,openstack/charm-ceph,Core,1.2987012987012987,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/charm-ceph,Non core,0.0,1.0309278350515463,1,1
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_freezer,Core,3.4482758620689653,2.5316455696202533,2,2
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,2,2
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-pip_lock_down,Core,17.24137931034483,10.126582278481013,14,15
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-pip_lock_down,Non core,6.896551724137931,8.860759493670885,14,15
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-security,Core,16.455696202531644,13.445378151260504,18,29
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-security,Non core,6.329113924050633,10.92436974789916,18,29
+openstack/openstack-ansible-repo_server,openstack/oslosphinx,Core,6.25,2.877697841726619,9,9
+openstack/openstack-ansible-repo_server,openstack/oslosphinx,Non core,3.125,3.597122302158273,9,9
+openstack/openstack-ansible-repo_server,openstack/python-gnocchiclient,Core,2.2988505747126435,0.9523809523809524,2,6
+openstack/openstack-ansible-repo_server,openstack/python-gnocchiclient,Non core,0.0,4.761904761904762,2,6
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-cinder,Core,1.6666666666666667,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-cookiecutter,Core,3.389830508474576,1.2195121951219512,2,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-glance,Core,5.084745762711865,1.2195121951219512,3,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,3,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-keystone,Core,5.084745762711865,0.0,3,0
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,3,0
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-mariadb,Core,6.779661016949152,1.1904761904761905,4,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,4,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-rabbitmq,Core,1.694915254237288,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-tripleo,Core,5.084745762711865,1.2048192771084338,3,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,3,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-ui,Core,3.278688524590164,2.380952380952381,4,2
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-ui,Non core,3.278688524590164,0.0,4,2
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-aodh,Core,5.0,1.1764705882352942,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-aodh,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-barbican,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-barbican,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-ceilometer,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-ceilometer,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-cinder,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-cinder,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-cookiecutter,Core,6.349206349206349,2.2222222222222223,6,3
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-cookiecutter,Non core,3.1746031746031744,1.1111111111111112,6,3
+openstack/openstack-ansible-repo_server,openstack/tripleo-ui,Core,5.88235294117647,2.142857142857143,8,8
+openstack/openstack-ansible-repo_server,openstack/tripleo-ui,Non core,3.5294117647058822,3.571428571428571,8,8
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-ovn,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-ovn,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-opendaylight,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-opendaylight,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-octavia,Core,4.918032786885246,1.1904761904761905,4,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-octavia,Non core,1.639344262295082,0.0,4,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-nova,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-nova,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/os-cloud-config,Core,3.7735849056603774,0.5952380952380952,4,4
+openstack/openstack-ansible-repo_server,openstack/os-cloud-config,Non core,0.0,1.7857142857142856,4,4
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-zaqar,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-zaqar,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-tempest,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-tempest,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-sahara,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-sahara,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-swift,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-swift,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-tacker,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-tacker,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-rabbitmq,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-rabbitmq,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-qdrouterd,Core,3.4482758620689653,1.25,2,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-panko,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-panko,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-heat,Core,5.0,1.2048192771084338,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-heat,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-haproxy,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-haproxy,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-gnocchi,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-gnocchi,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-glance,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-glance,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-designate,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-designate,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-neutron,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-neutron,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-mistral,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-mistral,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-memcached,Core,5.0,1.1764705882352942,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-memcached,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-manila,Core,5.0,1.1764705882352942,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-manila,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-ironic,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-ironic,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-keepalived,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-keepalived,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-horizon,Core,5.0,1.1904761904761905,5,1
+openstack/openstack-ansible-repo_server,openstack/ansible-role-tripleo-horizon,Non core,3.3333333333333335,0.0,5,1
+openstack/openstack-ansible-repo_server,openstack/pylockfile,Core,4.6875,1.0526315789473684,3,3
+openstack/openstack-ansible-repo_server,openstack/pylockfile,Non core,0.0,2.1052631578947367,3,3
+openstack/openstack-ansible-repo_server,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/dragonflow,Core,4.166666666666666,2.788844621513944,15,19
+openstack/openstack-ansible-repo_server,openstack/dragonflow,Non core,4.761904761904762,4.780876494023905,15,19
+openstack/openstack-ansible-repo_server,openstack/openstack,Core,1.6129032258064515,5.555555555555555,1,6
+openstack/openstack-ansible-repo_server,openstack/openstack,Non core,0.0,1.1111111111111112,1,6
+openstack/openstack-ansible-repo_server,openstack/charm-interface-pacemaker-remote,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-pacemaker-remote,Non core,0.0,1.1627906976744187,0,1
+openstack/openstack-ansible-repo_server,openstack/networking-onos,Core,4.166666666666666,1.6260162601626018,3,5
+openstack/openstack-ansible-repo_server,openstack/networking-onos,Non core,0.0,2.4390243902439024,3,5
+openstack/openstack-ansible-repo_server,openstack/solum-infra-guestagent,Core,1.5625,1.1111111111111112,1,2
+openstack/openstack-ansible-repo_server,openstack/solum-infra-guestagent,Non core,0.0,1.1111111111111112,1,2
+openstack/openstack-ansible-repo_server,openstack/openstack-ux,Core,1.639344262295082,1.0526315789473684,1,2
+openstack/openstack-ansible-repo_server,openstack/openstack-ux,Non core,0.0,1.0526315789473684,1,2
+openstack/openstack-ansible-repo_server,openstack/mox3,Core,6.493506493506493,3.7037037037037033,8,8
+openstack/openstack-ansible-repo_server,openstack/mox3,Non core,3.896103896103896,3.7037037037037033,8,8
+openstack/openstack-ansible-repo_server,openstack/charm-layer-ceph,Core,1.6666666666666667,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/charm-layer-ceph-base,Core,3.278688524590164,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-layer-ceph-base,Non core,0.0,1.2048192771084338,2,1
+openstack/openstack-ansible-repo_server,openstack/python-tricircleclient,Core,4.166666666666666,3.9215686274509802,5,6
+openstack/openstack-ansible-repo_server,openstack/python-tricircleclient,Non core,2.7777777777777777,1.9607843137254901,5,6
+openstack/openstack-ansible-repo_server,openstack/tricircle,Core,5.511811023622047,4.477611940298507,12,16
+openstack/openstack-ansible-repo_server,openstack/tricircle,Non core,3.937007874015748,3.482587064676617,12,16
+openstack/openstack-ansible-repo_server,openstack/swift-specs,Core,3.79746835443038,0.7092198581560284,3,2
+openstack/openstack-ansible-repo_server,openstack/swift-specs,Non core,0.0,0.7092198581560284,3,2
+openstack/openstack-ansible-repo_server,openstack/congress,Core,3.571428571428571,1.8450184501845017,15,18
+openstack/openstack-ansible-repo_server,openstack/congress,Non core,4.081632653061225,4.797047970479705,15,18
+openstack/openstack-ansible-repo_server,openstack/congress-tempest-plugin,Core,5.714285714285714,3.061224489795918,8,6
+openstack/openstack-ansible-repo_server,openstack/congress-tempest-plugin,Non core,5.714285714285714,3.061224489795918,8,6
+openstack/openstack-ansible-repo_server,openstack/python-congressclient,Core,3.8834951456310676,2.459016393442623,7,9
+openstack/openstack-ansible-repo_server,openstack/python-congressclient,Non core,2.912621359223301,4.918032786885246,7,9
+openstack/openstack-ansible-repo_server,openstack/congress-specs,Core,4.49438202247191,0.8264462809917356,4,5
+openstack/openstack-ansible-repo_server,openstack/congress-specs,Non core,0.0,3.3057851239669422,4,5
+openstack/openstack-ansible-repo_server,openstack/congress-dashboard,Core,4.0,1.9417475728155338,8,10
+openstack/openstack-ansible-repo_server,openstack/congress-dashboard,Non core,6.666666666666667,7.766990291262135,8,10
+openstack/openstack-ansible-repo_server,openstack/syntribos,Core,3.571428571428571,0.9174311926605505,5,5
+openstack/openstack-ansible-repo_server,openstack/syntribos,Non core,2.380952380952381,3.669724770642202,5,5
+openstack/openstack-ansible-repo_server,openstack/syntribos-payloads,Core,1.694915254237288,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/syntribos-payloads,Non core,0.0,1.1904761904761905,1,1
+openstack/openstack-ansible-repo_server,openstack/syntribos-openstack-templates,Core,1.639344262295082,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/syntribos-openstack-templates,Non core,0.0,1.1627906976744187,1,1
+openstack/openstack-ansible-repo_server,openstack/i18n-specs,Core,3.389830508474576,1.1904761904761905,2,2
+openstack/openstack-ansible-repo_server,openstack/i18n-specs,Non core,0.0,1.1904761904761905,2,2
+openstack/openstack-ansible-repo_server,openstack/tempest-plugin-cookiecutter,Core,3.3333333333333335,2.272727272727273,3,3
+openstack/openstack-ansible-repo_server,openstack/tempest-plugin-cookiecutter,Non core,1.6666666666666667,1.1363636363636365,3,3
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-cookiecutter,Core,3.3333333333333335,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/devstack-plugin-cookiecutter,Non core,0.0,1.2048192771084338,2,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-graphlib,Core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-repo_build,Core,24.358974358974358,17.796610169491526,39,44
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-repo_build,Non core,25.64102564102564,19.491525423728813,39,44
+openstack/openstack-ansible-repo_server,openstack/xstatic-bootstrap-datepicker,Core,1.5384615384615385,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-bootstrap-datepicker,Non core,0.0,2.1505376344086025,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-hogan,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-hogan,Non core,0.0,1.2048192771084338,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-jquery.quicksearch,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-jquery.quicksearch,Non core,0.0,1.2048192771084338,1,1
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_molteniron,Core,15.384615384615385,14.942528735632186,17,22
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_molteniron,Non core,10.76923076923077,10.344827586206897,17,22
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-lrdragndrop,Core,1.5625,2.272727272727273,1,4
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-lrdragndrop,Non core,0.0,2.272727272727273,1,4
+openstack/openstack-ansible-repo_server,openstack/faafo,Core,4.545454545454546,1.0752688172043012,3,3
+openstack/openstack-ansible-repo_server,openstack/faafo,Non core,0.0,2.1505376344086025,3,3
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-bootstrap,Core,1.4925373134328357,1.0638297872340425,1,3
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-bootstrap,Non core,0.0,2.127659574468085,1,3
+openstack/openstack-ansible-repo_server,openstack/networking-calico,Core,8.433734939759036,3.10077519379845,9,7
+openstack/openstack-ansible-repo_server,openstack/networking-calico,Non core,2.4096385542168677,2.3255813953488373,9,7
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-gettext,Core,1.5625,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-gettext,Non core,0.0,2.2222222222222223,1,2
+openstack/openstack-ansible-repo_server,openstack/shotgun,Core,1.2987012987012987,0.6711409395973155,1,3
+openstack/openstack-ansible-repo_server,openstack/shotgun,Non core,0.0,1.342281879194631,1,3
+openstack/openstack-ansible-repo_server,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-aioeventlet,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/fuel-devops,Core,2.586206896551724,0.9302325581395349,4,4
+openstack/openstack-ansible-repo_server,openstack/fuel-devops,Non core,0.8620689655172413,0.9302325581395349,4,4
+openstack/openstack-ansible-repo_server,openstack/fuel-plugin-murano,Core,2.898550724637681,0.9523809523809524,2,3
+openstack/openstack-ansible-repo_server,openstack/fuel-plugin-murano,Non core,0.0,1.9047619047619049,2,3
+openstack/openstack-ansible-repo_server,openstack/fuel-web,Core,1.520912547528517,0.6507592190889371,6,7
+openstack/openstack-ansible-repo_server,openstack/fuel-web,Non core,0.7604562737642585,0.8676789587852495,6,7
+openstack/openstack-ansible-repo_server,openstack/fuel-plugins,Core,2.9702970297029703,0.5681818181818182,3,3
+openstack/openstack-ansible-repo_server,openstack/fuel-plugins,Non core,0.0,1.1363636363636365,3,3
+openstack/openstack-ansible-repo_server,openstack/fuel-virtualbox,Core,4.615384615384616,1.0204081632653061,3,2
+openstack/openstack-ansible-repo_server,openstack/fuel-virtualbox,Non core,0.0,1.0204081632653061,3,2
+openstack/openstack-ansible-repo_server,openstack/fuel-ostf,Core,2.631578947368421,0.34843205574912894,4,3
+openstack/openstack-ansible-repo_server,openstack/fuel-ostf,Non core,0.0,0.6968641114982579,4,3
+openstack/openstack-ansible-repo_server,openstack/fuel-qa,Core,1.675977653631285,0.3134796238244514,3,4
+openstack/openstack-ansible-repo_server,openstack/fuel-qa,Non core,0.0,0.9404388714733543,3,4
+openstack/openstack-ansible-repo_server,openstack/fuel-specs,Core,1.89873417721519,0.5376344086021506,3,4
+openstack/openstack-ansible-repo_server,openstack/fuel-specs,Non core,0.0,0.5376344086021506,3,4
+openstack/openstack-ansible-repo_server,openstack/fuel-nailgun-extension-cluster-upgrade,Core,3.0303030303030303,1.0204081632653061,3,2
+openstack/openstack-ansible-repo_server,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,1.5151515151515151,1.0204081632653061,3,2
+openstack/openstack-ansible-repo_server,openstack/fuel-nailgun-agent,Core,2.127659574468085,0.5813953488372093,2,3
+openstack/openstack-ansible-repo_server,openstack/fuel-nailgun-agent,Non core,0.0,1.1627906976744187,2,3
+openstack/openstack-ansible-repo_server,openstack/fuel-mirror,Core,2.247191011235955,0.5649717514124294,2,3
+openstack/openstack-ansible-repo_server,openstack/fuel-mirror,Non core,0.0,1.1299435028248588,2,3
+openstack/openstack-ansible-repo_server,openstack/fuel-menu,Core,4.49438202247191,0.5291005291005291,4,3
+openstack/openstack-ansible-repo_server,openstack/fuel-menu,Non core,0.0,1.0582010582010581,4,3
+openstack/openstack-ansible-repo_server,openstack/fuel-main,Core,1.5544041450777202,0.6230529595015576,4,5
+openstack/openstack-ansible-repo_server,openstack/fuel-main,Non core,0.5181347150259068,0.9345794392523363,4,5
+openstack/openstack-ansible-repo_server,openstack/fuel-ui,Core,3.0927835051546393,0.6097560975609756,3,3
+openstack/openstack-ansible-repo_server,openstack/fuel-ui,Non core,0.0,1.2195121951219512,3,3
+openstack/openstack-ansible-repo_server,openstack/fuel-library,Core,2.3904382470119523,0.5893909626719057,7,8
+openstack/openstack-ansible-repo_server,openstack/fuel-library,Non core,0.398406374501992,0.9823182711198428,7,8
+openstack/openstack-ansible-repo_server,openstack/fuel-dev-tools,Core,4.3478260869565215,1.0309278350515463,3,3
+openstack/openstack-ansible-repo_server,openstack/fuel-dev-tools,Non core,0.0,2.0618556701030926,3,3
+openstack/openstack-ansible-repo_server,openstack/fuel-stats,Core,5.333333333333334,1.639344262295082,4,4
+openstack/openstack-ansible-repo_server,openstack/fuel-stats,Non core,0.0,1.639344262295082,4,4
+openstack/openstack-ansible-repo_server,openstack/fuel-nailgun-extension-converted-serializers,Core,1.6666666666666667,1.2345679012345678,1,2
+openstack/openstack-ansible-repo_server,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,1.2345679012345678,1,2
+openstack/openstack-ansible-repo_server,openstack/fuel-nailgun-extension-iac,Core,1.6129032258064515,1.2048192771084338,1,2
+openstack/openstack-ansible-repo_server,openstack/fuel-nailgun-extension-iac,Non core,0.0,1.2048192771084338,1,2
+openstack/openstack-ansible-repo_server,openstack/fuel-plugin-murano-tests,Core,2.941176470588235,0.9523809523809524,2,3
+openstack/openstack-ansible-repo_server,openstack/fuel-plugin-murano-tests,Non core,0.0,1.9047619047619049,2,3
+openstack/openstack-ansible-repo_server,openstack/fuel-astute,Core,2.479338842975207,0.43859649122807015,3,3
+openstack/openstack-ansible-repo_server,openstack/fuel-astute,Non core,0.0,0.8771929824561403,3,3
+openstack/openstack-ansible-repo_server,openstack/fuel-docs,Core,0.6578947368421052,0.7751937984496124,2,6
+openstack/openstack-ansible-repo_server,openstack/fuel-docs,Non core,0.6578947368421052,0.7751937984496124,2,6
+openstack/openstack-ansible-repo_server,openstack/fuel-agent,Core,4.0650406504065035,0.8968609865470852,5,4
+openstack/openstack-ansible-repo_server,openstack/fuel-agent,Non core,0.0,0.8968609865470852,5,4
+openstack/openstack-ansible-repo_server,openstack/fuel-octane,Core,3.5294117647058822,0.7751937984496124,5,5
+openstack/openstack-ansible-repo_server,openstack/fuel-octane,Non core,2.3529411764705883,3.10077519379845,5,5
+openstack/openstack-ansible-repo_server,openstack/tuning-box,Core,3.278688524590164,1.9607843137254901,3,3
+openstack/openstack-ansible-repo_server,openstack/tuning-box,Non core,1.639344262295082,0.9803921568627451,3,3
+openstack/openstack-ansible-repo_server,openstack/python-fuelclient,Core,1.5873015873015872,0.904977375565611,2,4
+openstack/openstack-ansible-repo_server,openstack/python-fuelclient,Non core,0.0,0.904977375565611,2,4
+openstack/openstack-ansible-repo_server,openstack/neutron-interconnection,Core,0.0,1.1235955056179776,0,1
+openstack/openstack-ansible-repo_server,openstack/neutron-interconnection,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/openstack-chef-repo,Core,2.1052631578947367,2.3622047244094486,5,6
+openstack/openstack-ansible-repo_server,openstack/openstack-chef-repo,Non core,3.1578947368421053,2.3622047244094486,5,6
+openstack/openstack-ansible-repo_server,openstack/os-acc,Core,0.0,1.0416666666666665,0,1
+openstack/openstack-ansible-repo_server,openstack/os-acc,Non core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_zaqar,Core,19.11764705882353,18.478260869565215,27,35
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_zaqar,Non core,20.588235294117645,19.565217391304348,27,35
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_watcher,Core,17.91044776119403,17.97752808988764,23,30
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_watcher,Non core,16.417910447761194,15.730337078651685,23,30
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_searchlight,Core,14.285714285714285,18.072289156626507,19,27
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_searchlight,Non core,15.873015873015872,14.457831325301203,19,27
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-vis,Core,1.694915254237288,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-font-awesome,Core,1.5625,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-font-awesome,Non core,0.0,2.2222222222222223,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-jasmine,Core,1.4705882352941175,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-jasmine,Non core,0.0,2.1739130434782608,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-notify,Core,1.694915254237288,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-material,Core,1.639344262295082,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/tempest-tripleo-ui,Core,1.639344262295082,1.1111111111111112,1,1
+openstack/openstack-ansible-repo_server,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/docs-specs,Core,4.040404040404041,2.2058823529411766,7,13
+openstack/openstack-ansible-repo_server,openstack/docs-specs,Non core,3.0303030303030303,2.5735294117647056,7,13
+openstack/openstack-ansible-repo_server,openstack/release-schedule-generator,Core,1.639344262295082,2.4390243902439024,1,3
+openstack/openstack-ansible-repo_server,openstack/release-schedule-generator,Non core,0.0,1.2195121951219512,1,3
+openstack/openstack-ansible-repo_server,openstack-infra/opendev-website,Core,1.694915254237288,2.4096385542168677,1,2
+openstack/openstack-ansible-repo_server,openstack-infra/opendev-website,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/castellan-ui,Core,4.918032786885246,3.1578947368421053,3,4
+openstack/openstack-ansible-repo_server,openstack/castellan-ui,Non core,0.0,1.0526315789473684,3,4
+openstack/openstack-ansible-repo_server,openstack-attic/compute-api,Core,2.5,1.7857142857142856,2,3
+openstack/openstack-ansible-repo_server,openstack-attic/compute-api,Non core,0.0,0.8928571428571428,2,3
+openstack/openstack-ansible-repo_server,openstack/charm-neutron-api-odl,Core,2.9850746268656714,1.1363636363636365,2,2
+openstack/openstack-ansible-repo_server,openstack/charm-neutron-api-odl,Non core,0.0,1.1363636363636365,2,2
+openstack/openstack-ansible-repo_server,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/charm-murano,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/charm-murano,Non core,0.0,1.2345679012345678,1,1
+openstack/openstack-ansible-repo_server,openstack/charm-openvswitch-odl,Core,1.4705882352941175,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/charm-openvswitch-odl,Non core,0.0,1.1494252873563218,1,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-odl-controller-api,Core,3.3333333333333335,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-interface-odl-controller-api,Non core,0.0,1.2345679012345678,2,1
+openstack/openstack-ansible-repo_server,openstack/charm-glusterfs,Core,1.6666666666666667,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/charm-glusterfs,Non core,0.0,1.1627906976744187,1,1
+openstack/openstack-ansible-repo_server,openstack/charm-trove,Core,1.5625,0.0,2,2
+openstack/openstack-ansible-repo_server,openstack/charm-trove,Non core,1.5625,2.380952380952381,2,2
+openstack/openstack-ansible-repo_server,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-positional,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-requests-unixsocket,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-traceback2,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ryu,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-linecache2,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-gabbi,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-cotyledon,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-migrate,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/fuxi,Core,3.6585365853658534,0.8264462809917356,4,4
+openstack/openstack-ansible-repo_server,openstack/fuxi,Non core,1.2195121951219512,2.479338842975207,4,4
+openstack/openstack-ansible-repo_server,openstack/xstatic-filesaver,Core,1.694915254237288,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-uuid,Core,1.694915254237288,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/openstack-ansible-repo_server,openstack/bandit,Core,4.504504504504505,1.3793103448275863,7,4
+openstack/openstack-ansible-repo_server,openstack/bandit,Non core,1.8018018018018018,1.3793103448275863,7,4
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-smart-table,Core,1.639344262295082,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-angular-smart-table,Non core,0.0,1.1764705882352942,1,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-bootswatch,Core,1.6129032258064515,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-bootswatch,Non core,0.0,2.2222222222222223,1,2
+openstack/openstack-ansible-repo_server,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-msgpack-python,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/xstatic-d3,Core,1.5873015873015872,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/xstatic-d3,Non core,0.0,2.2222222222222223,1,2
+openstack/openstack-ansible-repo_server,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pymemcache,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-novnc,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/instack,Core,5.263157894736842,1.834862385321101,5,6
+openstack/openstack-ansible-repo_server,openstack/instack,Non core,1.3157894736842104,3.669724770642202,5,6
+openstack/openstack-ansible-repo_server,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pysaml2,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-trollius,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-autobahn,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pyldap,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/astara,Core,3.260869565217391,0.8,4,3
+openstack/openstack-ansible-repo_server,openstack/astara,Non core,1.0869565217391304,1.6,4,3
+openstack/openstack-ansible-repo_server,openstack/astara-appliance,Core,1.3888888888888888,0.0,1,3
+openstack/openstack-ansible-repo_server,openstack/astara-appliance,Non core,0.0,3.0,1,3
+openstack/openstack-ansible-repo_server,openstack/astara-horizon,Core,1.5384615384615385,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/astara-horizon,Non core,0.0,2.127659574468085,1,2
+openstack/openstack-ansible-repo_server,openstack/astara-neutron,Core,1.4492753623188406,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/astara-neutron,Non core,0.0,2.1052631578947367,1,2
+openstack/openstack-ansible-repo_server,openstack/anchor,Core,0.0,0.8403361344537815,1,3
+openstack/openstack-ansible-repo_server,openstack/anchor,Non core,1.1764705882352942,1.680672268907563,1,3
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/fuxi-golang,Core,1.7241379310344827,1.2195121951219512,1,1
+openstack/openstack-ansible-repo_server,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/fuxi-kubernetes,Core,1.694915254237288,1.1627906976744187,1,2
+openstack/openstack-ansible-repo_server,openstack/fuxi-kubernetes,Non core,0.0,1.1627906976744187,1,2
+openstack/openstack-ansible-repo_server,openstack-infra/puppet-odsreg,Core,3.225806451612903,3.4090909090909087,2,5
+openstack/openstack-ansible-repo_server,openstack-infra/puppet-odsreg,Non core,0.0,2.272727272727273,2,5
+openstack/openstack-ansible-repo_server,openstack-infra/puppet-docker_registry,Core,1.7241379310344827,2.564102564102564,1,2
+openstack/openstack-ansible-repo_server,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/releasestatus,Core,1.6666666666666667,2.380952380952381,1,3
+openstack/openstack-ansible-repo_server,openstack/releasestatus,Non core,0.0,1.1904761904761905,1,3
+openstack/openstack-ansible-repo_server,openstack-infra/vinz-webclient,Core,1.7241379310344827,2.564102564102564,1,2
+openstack/openstack-ansible-repo_server,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/activity-board,Core,1.36986301369863,1.6129032258064515,1,3
+openstack/openstack-ansible-repo_server,openstack/activity-board,Non core,0.0,0.8064516129032258,1,3
+openstack/openstack-ansible-repo_server,openstack-infra/beaker-localhost,Core,1.7241379310344827,2.5316455696202533,1,2
+openstack/openstack-ansible-repo_server,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack-infra/beaker-nodepool,Core,1.7241379310344827,2.5316455696202533,1,2
+openstack/openstack-ansible-repo_server,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/rst2bash,Core,3.3333333333333335,1.1494252873563218,2,2
+openstack/openstack-ansible-repo_server,openstack/rst2bash,Non core,0.0,1.1494252873563218,2,2
+openstack/openstack-ansible-repo_server,openstack/kolla-kubernetes,Core,3.508771929824561,1.0416666666666665,10,7
+openstack/openstack-ansible-repo_server,openstack/kolla-kubernetes,Non core,5.263157894736842,2.604166666666667,10,7
+openstack/openstack-ansible-repo_server,openstack/cue-dashboard,Core,2.9850746268656714,1.1494252873563218,2,3
+openstack/openstack-ansible-repo_server,openstack/cue-dashboard,Non core,0.0,2.2988505747126435,2,3
+openstack/openstack-ansible-repo_server,openstack/python-cueclient,Core,2.857142857142857,1.1494252873563218,2,3
+openstack/openstack-ansible-repo_server,openstack/python-cueclient,Non core,0.0,2.2988505747126435,2,3
+openstack/openstack-ansible-repo_server,openstack/cue,Core,2.272727272727273,0.9009009009009009,2,3
+openstack/openstack-ansible-repo_server,openstack/cue,Non core,0.0,1.8018018018018018,2,3
+openstack/openstack-ansible-repo_server,openstack/app-catalog,Core,2.586206896551724,0.7092198581560284,4,3
+openstack/openstack-ansible-repo_server,openstack/app-catalog,Non core,0.8620689655172413,1.4184397163120568,4,3
+openstack/openstack-ansible-repo_server,openstack-attic/identity-api,Core,2.0202020202020203,1.257861635220126,2,3
+openstack/openstack-ansible-repo_server,openstack-attic/identity-api,Non core,0.0,0.628930817610063,2,3
+openstack/openstack-ansible-repo_server,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-fixtures,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/python-magnetodbclient,Core,1.6129032258064515,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/python-magnetodbclient,Non core,0.0,1.1363636363636365,1,1
+openstack/openstack-ansible-repo_server,openstack/app-catalog-ui,Core,3.076923076923077,1.0752688172043012,2,3
+openstack/openstack-ansible-repo_server,openstack/app-catalog-ui,Non core,0.0,2.1505376344086025,2,3
+openstack/openstack-ansible-repo_server,openstack/salt-formula-kubernetes,Core,1.5873015873015872,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-kubernetes,Non core,0.0,1.1764705882352942,1,1
+openstack/openstack-ansible-repo_server,openstack/app-catalog-common,Core,0.0,1.25,0,2
+openstack/openstack-ansible-repo_server,openstack/app-catalog-common,Non core,0.0,1.25,0,2
+openstack/openstack-ansible-repo_server,openstack/python-appcatalogclient,Core,0.0,1.2048192771084338,0,2
+openstack/openstack-ansible-repo_server,openstack/python-appcatalogclient,Non core,0.0,1.2048192771084338,0,2
+openstack/openstack-ansible-repo_server,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-nova,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-kazoo,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-congressclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-congress,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-net-config,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ironic,Non core,0.0,1.2048192771084338,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-swauth,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-api-ref,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-designate,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-swift,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-manila-ui,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-barbican,Non core,0.0,1.2048192771084338,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-cinder,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-magnum,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-trove,Non core,0.0,1.1904761904761905,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-openstack-pkg-tools,Core,1.5873015873015872,1.1494252873563218,1,2
+openstack/openstack-ansible-repo_server,openstack/deb-openstack-pkg-tools,Non core,0.0,1.1494252873563218,1,2
+openstack/openstack-ansible-repo_server,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-swiftclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-alembic,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-cinderclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-nec,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-neutron-taas,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-mlnx,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-openstack-meta-packages,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-odl,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-nodepool,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-cisco,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-midonet,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-arista,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-hyperv,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-rtslib-fb,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-murano,Core,0.0,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/deb-murano,Non core,1.6129032258064515,1.1904761904761905,1,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-semantic-version,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ldappool,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-zaqar-ui,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-zaqar,Non core,0.0,1.1904761904761905,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-watcher,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-testr,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-win,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pycadf,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pyghmi,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-reno,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-refresh-config,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-vif,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pyeclib,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-quantumclient,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-requestsexceptions,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pbr,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-requests-mock,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-saharaclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-scciclient,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-seamicroclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-auto-backports,Non core,0.0,1.2048192771084338,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-senlinclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-taskflow,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-testtools,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-tooz,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-shotgun,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-tackerclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-tosca-parser,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-troveclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-tuskarclient,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-watcherclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-wsme,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-bootswatch,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-angular-mock,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-d3,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-hogan,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-font-awesome,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jasmine,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-magic-search,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-mdi,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-objectpath,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-qunit,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-rickshaw,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-spin,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-tv4,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-yaql,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-zaqarclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-rally,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-sahara,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-sahara-dashboard,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-senlin,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-senlin-dashboard,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-stevedore,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-swift-bench,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-swift-plugin-s3,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-trove-dashboard,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-tempest,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-osprofiler,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.vmware,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.utils,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.rootwrap,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.service,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.privsep,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.versionedobjects,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslotest,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.serialization,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.reports,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.policy,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.middleware,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.messaging,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.log,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-aodhclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-automaton,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-barbicanclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-bashate,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-castellan,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ceilometerclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ceilometermiddleware,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-cliff,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-cursive,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-debtcollector,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-designateclient,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-dib-utils,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-diskimage-builder,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-doc8,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-openstack-auth,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-fuelclient,Non core,0.0,1.1904761904761905,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-dogpile.cache,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-futurist,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-glanceclient,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-glance-store,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-hacking,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-heatclient,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ironicclient,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ironic-inspector-client,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ironic-lib,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-k8sclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-keystoneauth1,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-keystoneclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-keystonemiddleware,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-magnumclient,Non core,0.0,1.2048192771084338,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-manilaclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-microversion-parse,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-mistralclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-monascaclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-mox3,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-muranoclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-neutronclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-neutron-lib,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-novaclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-openstackclient,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-openstackdocstheme,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-openstacksdk,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-apply-config,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-brick,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-osc-lib,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-client-config,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-collect-config,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.cache,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.db,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.concurrency,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.config,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.i18n,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oslo.context,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-openstack-nose,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-openstack-doc-tools,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-openstack-trove,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-oslosphinx,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-aodh,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-bandit,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ceilometer,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ceilometermiddleware,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-designate-dashboard,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-git-review,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-glance,Core,0.0,0.0,0,2
+openstack/openstack-ansible-repo_server,openstack/deb-glance,Non core,0.0,2.4096385542168677,0,2
+openstack/openstack-ansible-repo_server,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-glare,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-heat,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-heat-cfntools,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-horizon,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ironic-inspector,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-ironic-ui,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-keystone,Non core,0.0,1.2048192771084338,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-liberasurecode,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-manila,Non core,0.0,1.2195121951219512,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-mistral,Core,0.0,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/deb-mistral,Non core,1.5625,1.1904761904761905,1,1
+openstack/openstack-ansible-repo_server,openstack/deb-murano-agent,Core,0.0,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/deb-murano-agent,Non core,1.639344262295082,1.1904761904761905,1,1
+openstack/openstack-ansible-repo_server,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-murano-dashboard,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-l2gw,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-networking-ovn,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-neutron,Non core,0.0,1.2048192771084338,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-neutron-fwaas,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-neutron-vpnaas,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-neutron-lbaas,Core,0.0,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/deb-neutron-lbaas,Non core,1.639344262295082,1.1904761904761905,1,1
+openstack/openstack-ansible-repo_server,openstack/installguide-cookiecutter,Core,2.9850746268656714,2.247191011235955,2,4
+openstack/openstack-ansible-repo_server,openstack/installguide-cookiecutter,Non core,0.0,2.247191011235955,2,4
+openstack/openstack-ansible-repo_server,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-gnocchi,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-eventlet,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pymysql,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-opencontrail,Core,2.73972602739726,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-opencontrail,Non core,0.0,1.1111111111111112,2,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-neutron,Core,1.36986301369863,1.0869565217391304,1,2
+openstack/openstack-ansible-repo_server,openstack/salt-formula-neutron,Non core,0.0,1.0869565217391304,1,2
+openstack/openstack-ansible-repo_server,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-swift,Non core,0.0,1.2048192771084338,0,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-nova,Core,1.2658227848101267,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-nova,Non core,0.0,1.0752688172043012,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-keystone,Core,1.3157894736842104,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-keystone,Non core,0.0,1.098901098901099,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-horizon,Core,1.4084507042253522,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-horizon,Non core,0.0,1.1363636363636365,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-heat,Core,1.282051282051282,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-heat,Non core,0.0,1.1235955056179776,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-glance,Core,1.2987012987012987,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/salt-formula-glance,Non core,0.0,2.2222222222222223,1,2
+openstack/openstack-ansible-repo_server,openstack/salt-formula-cinder,Core,1.3157894736842104,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-cinder,Non core,0.0,1.1363636363636365,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-ceilometer,Core,1.4705882352941175,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-ceilometer,Non core,0.0,1.1111111111111112,1,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pygit2,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-libisal,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xvfbwrapper,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-testresources,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-compressor,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-sqlalchemy-utils,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pykmip,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-coffin,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-txaio,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-hplefthandclient,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-overextends,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pytimeparse,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-nose-timer,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-retrying,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-discover-runner,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-lesscpy,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-happybase,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-extras,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-functools32,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pydot-ng,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-jsonschema,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-kafka,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-rcssmin,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-nose-parameterized,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pika-pool,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-rfc3986,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-httpretty,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pint,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-pyscss,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-falcon,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-subunit,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-formtools,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-nose-exclude,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pydotplus,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pager,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-proliantutils,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-gnocchiclient,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-babel,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-requests-kerberos,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-colander,Non core,0.0,1.2345679012345678,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-dcos,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-bootstrap-form,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-term.js,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-toml,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-semver,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-websocket-client,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-fasteners,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-jingo,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pecan,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-frozendict,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/openstack-ansible-repo_server,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-wrapt,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-funcsigs,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-crank,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pyvmomi,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-wsgi-intercept,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-os-cloud-config,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-weakrefmethod,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-steadymark,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-warlock,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-couleur,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-json-patch,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-jsonrpclib,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-multi-key-dict,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-memcache,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pulp,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-fonts-roboto-fontface,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-websockify,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-daemonize,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-pyngus,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-editor,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-ddt,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-monotonic,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-rjsmin,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-jsonpath-rw,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-django-appconf,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-oauth2client,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-json-pointer,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack-attic/akanda,Core,0.0,0.0,0,2
+openstack/openstack-ansible-repo_server,openstack-attic/akanda,Non core,0.0,2.272727272727273,0,2
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-smart-table,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-requestbuilder,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-nosehtmloutput,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-csscompressor,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-croniter,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-python-concurrent.futures,Non core,0.0,1.25,0,1
+openstack/openstack-ansible-repo_server,openstack/openstack-salt,Core,1.6129032258064515,0.0,1,2
+openstack/openstack-ansible-repo_server,openstack/openstack-salt,Non core,0.0,2.4096385542168677,1,2
+openstack/openstack-ansible-repo_server,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack/deb-spice-html5,Non core,0.0,1.2658227848101267,0,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-midonet,Core,1.7241379310344827,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack/salt-formula-midonet,Non core,0.0,1.2658227848101267,1,1
+openstack/openstack-ansible-repo_server,openstack/magnetodb-specs,Core,2.941176470588235,0.0,2,2
+openstack/openstack-ansible-repo_server,openstack/magnetodb-specs,Non core,0.0,2.1052631578947367,2,2
+openstack/openstack-ansible-repo_server,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack-attic/akanda-appliance-builder,Non core,0.0,1.1904761904761905,0,1
+openstack/openstack-ansible-repo_server,openstack-attic/oslo.version,Core,4.6875,1.0416666666666665,3,2
+openstack/openstack-ansible-repo_server,openstack-attic/oslo.version,Non core,0.0,1.0416666666666665,3,2
+openstack/openstack-ansible-repo_server,openstack-attic/image-api,Core,2.9850746268656714,1.0416666666666665,2,2
+openstack/openstack-ansible-repo_server,openstack-attic/image-api,Non core,0.0,1.0416666666666665,2,2
+openstack/openstack-ansible-repo_server,openstack-attic/object-api,Core,2.5974025974025974,0.9433962264150944,2,2
+openstack/openstack-ansible-repo_server,openstack-attic/object-api,Non core,0.0,0.9433962264150944,2,2
+openstack/openstack-ansible-repo_server,openstack-attic/volume-api,Core,1.3888888888888888,1.0204081632653061,1,2
+openstack/openstack-ansible-repo_server,openstack-attic/volume-api,Non core,0.0,1.0204081632653061,1,2
+openstack/openstack-ansible-repo_server,openstack/magnetodb,Core,2.5316455696202533,0.0,2,1
+openstack/openstack-ansible-repo_server,openstack/magnetodb,Non core,0.0,0.8695652173913043,2,1
+openstack/openstack-ansible-repo_server,openstack/openstack-nose,Core,0.0,1.1764705882352942,0,2
+openstack/openstack-ansible-repo_server,openstack/openstack-nose,Non core,0.0,1.1764705882352942,0,2
+openstack/openstack-ansible-repo_server,openstack-attic/netconn-api,Core,2.380952380952381,0.7874015748031495,2,2
+openstack/openstack-ansible-repo_server,openstack-attic/netconn-api,Non core,0.0,0.7874015748031495,2,2
+openstack/openstack-ansible-repo_server,openstack-attic/python-melangeclient,Core,1.5625,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack-attic/python-melangeclient,Non core,0.0,1.2195121951219512,1,1
+openstack/openstack-ansible-repo_server,openstack-attic/melange,Core,1.3513513513513513,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack-attic/melange,Non core,0.0,1.0869565217391304,1,1
+openstack/openstack-ansible-repo_server,openstack-attic/openstack-qa,Core,1.639344262295082,0.0,1,1
+openstack/openstack-ansible-repo_server,openstack-attic/openstack-qa,Non core,0.0,1.2195121951219512,1,1
+openstack/openstack-ansible-repo_server,openstack-attic/database-api,Core,1.4492753623188406,1.0638297872340425,1,2
+openstack/openstack-ansible-repo_server,openstack-attic/database-api,Non core,0.0,1.0638297872340425,1,2
+openstack/openstack-ansible-repo_server,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/openstack-ansible-repo_server,openstack-attic/openstack-security-notes,Non core,0.0,0.6756756756756757,0,1

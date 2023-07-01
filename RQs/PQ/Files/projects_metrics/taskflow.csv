@@ -1,0 +1,1743 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/taskflow,openstack/python-cyborgclient,Core,4.132231404958678,5.641025641025641,9,16
+openstack/taskflow,openstack/python-cyborgclient,Non core,3.3057851239669422,2.564102564102564,9,16
+openstack/taskflow,openstack/zun,Core,4.072398190045249,4.573170731707317,19,29
+openstack/taskflow,openstack/zun,Non core,4.524886877828054,4.2682926829268295,19,29
+openstack/taskflow,openstack/charm-openstack-loadbalancer,Core,0.0,0.0,2,1
+openstack/taskflow,openstack/charm-openstack-loadbalancer,Non core,1.8867924528301887,0.5780346820809248,2,1
+openstack/taskflow,openstack/ansible-role-python_venv_build,Core,3.2,1.4851485148514851,5,6
+openstack/taskflow,openstack/ansible-role-python_venv_build,Non core,0.8,1.4851485148514851,5,6
+openstack/taskflow,openstack/mistral-dashboard,Core,8.333333333333332,3.0434782608695654,18,17
+openstack/taskflow,openstack/mistral-dashboard,Non core,4.166666666666666,4.3478260869565215,18,17
+openstack/taskflow,openstack/mistral-lib,Core,5.303030303030303,3.3980582524271843,10,15
+openstack/taskflow,openstack/mistral-lib,Non core,2.272727272727273,3.8834951456310676,10,15
+openstack/taskflow,openstack/monasca-events-api,Core,3.389830508474576,1.5384615384615385,6,5
+openstack/taskflow,openstack/monasca-events-api,Non core,1.694915254237288,1.0256410256410255,6,5
+openstack/taskflow,openstack/python-zaqarclient,Core,8.13953488372093,7.346938775510205,21,38
+openstack/taskflow,openstack/python-zaqarclient,Non core,4.069767441860465,8.16326530612245,21,38
+openstack/taskflow,openstack/monasca-api,Core,5.14018691588785,3.2835820895522385,18,23
+openstack/taskflow,openstack/monasca-api,Non core,3.2710280373831773,3.582089552238806,18,23
+openstack/taskflow,openstack/monasca-persister,Core,5.7324840764331215,2.7237354085603114,15,19
+openstack/taskflow,openstack/monasca-persister,Non core,3.821656050955414,4.669260700389105,15,19
+openstack/taskflow,openstack/monasca-notification,Core,6.918238993710692,2.8455284552845526,16,20
+openstack/taskflow,openstack/monasca-notification,Non core,3.1446540880503147,5.284552845528456,16,20
+openstack/taskflow,openstack/python-saharaclient,Core,8.092485549132949,7.03125,22,34
+openstack/taskflow,openstack/python-saharaclient,Non core,4.624277456647398,6.25,22,34
+openstack/taskflow,openstack/charm-magpie,Core,0.0,0.0,2,1
+openstack/taskflow,openstack/charm-magpie,Non core,1.7699115044247788,0.5649717514124294,2,1
+openstack/taskflow,openstack/openstack-ansible-os_placement,Core,2.5210084033613445,1.0582010582010581,4,5
+openstack/taskflow,openstack/openstack-ansible-os_placement,Non core,0.8403361344537815,1.5873015873015872,4,5
+openstack/taskflow,openstack/openstackdocstheme,Core,7.894736842105263,11.25,18,33
+openstack/taskflow,openstack/openstackdocstheme,Non core,3.9473684210526314,2.5,18,33
+openstack/taskflow,openstack/sahara,Core,5.044510385756676,5.2410901467505235,34,52
+openstack/taskflow,openstack/sahara,Non core,5.044510385756676,5.660377358490567,34,52
+openstack/taskflow,openstack/ironic-ui,Core,7.534246575342466,3.4334763948497855,15,13
+openstack/taskflow,openstack/ironic-ui,Non core,2.73972602739726,2.1459227467811157,15,13
+openstack/taskflow,openstack/oslo.serialization,Core,14.492753623188406,13.942307692307693,31,54
+openstack/taskflow,openstack/oslo.serialization,Non core,7.971014492753622,12.01923076923077,31,54
+openstack/taskflow,openstack/oslo.context,Core,11.11111111111111,10.454545454545453,24,45
+openstack/taskflow,openstack/oslo.context,Non core,6.666666666666667,10.0,24,45
+openstack/taskflow,openstack/oslo.limit,Core,5.785123966942149,6.315789473684211,15,22
+openstack/taskflow,openstack/oslo.limit,Non core,6.6115702479338845,5.263157894736842,15,22
+openstack/taskflow,openstack/oslo.middleware,Core,10.967741935483872,10.0418410041841,29,49
+openstack/taskflow,openstack/oslo.middleware,Non core,7.741935483870968,10.460251046025103,29,49
+openstack/taskflow,openstack/oslo.reports,Core,12.195121951219512,9.803921568627452,23,41
+openstack/taskflow,openstack/oslo.reports,Non core,6.504065040650407,10.294117647058822,23,41
+openstack/taskflow,openstack/futurist,Core,11.200000000000001,8.854166666666668,21,35
+openstack/taskflow,openstack/futurist,Non core,5.6000000000000005,9.375,21,35
+openstack/taskflow,openstack/oslo.i18n,Core,11.76470588235294,11.52073732718894,27,49
+openstack/taskflow,openstack/oslo.i18n,Non core,8.088235294117647,11.059907834101383,27,49
+openstack/taskflow,openstack/sushy-oem-idrac,Core,0.0,0.5319148936170213,0,1
+openstack/taskflow,openstack/sushy-oem-idrac,Non core,0.0,0.0,0,1
+openstack/taskflow,openstack/python-dracclient,Core,3.787878787878788,3.225806451612903,9,16
+openstack/taskflow,openstack/python-dracclient,Non core,3.0303030303030303,4.147465437788019,9,16
+openstack/taskflow,openstack/openstack-ansible-os_adjutant,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/openstack-ansible-os_adjutant,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/openstack-ansible-os_masakari,Core,2.34375,2.955665024630542,7,13
+openstack/taskflow,openstack/openstack-ansible-os_masakari,Non core,3.125,3.4482758620689653,7,13
+openstack/taskflow,openstack/ansible-role-systemd_mount,Core,2.5423728813559325,1.6129032258064515,4,5
+openstack/taskflow,openstack/ansible-role-systemd_mount,Non core,0.847457627118644,1.0752688172043012,4,5
+openstack/taskflow,openstack/python-senlinclient,Core,8.187134502923977,3.5999999999999996,23,21
+openstack/taskflow,openstack/python-senlinclient,Non core,5.263157894736842,4.8,23,21
+openstack/taskflow,openstack/senlin-dashboard,Core,6.993006993006993,5.676855895196507,16,27
+openstack/taskflow,openstack/senlin-dashboard,Non core,4.195804195804196,6.11353711790393,16,27
+openstack/taskflow,openstack/networking-generic-switch,Core,3.79746835443038,3.0172413793103448,8,12
+openstack/taskflow,openstack/networking-generic-switch,Non core,1.2658227848101267,2.1551724137931036,8,12
+openstack/taskflow,openstack/sahara-image-elements,Core,7.18954248366013,2.5316455696202533,16,13
+openstack/taskflow,openstack/sahara-image-elements,Non core,3.2679738562091507,2.9535864978902953,16,13
+openstack/taskflow,openstack/ansible-role-thales-hsm,Core,0.0,0.0,1,3
+openstack/taskflow,openstack/ansible-role-thales-hsm,Non core,0.9433962264150944,1.6853932584269662,1,3
+openstack/taskflow,openstack/ansible-role-atos-hsm,Core,0.0,0.5681818181818182,1,3
+openstack/taskflow,openstack/ansible-role-atos-hsm,Non core,0.9523809523809524,1.1363636363636365,1,3
+openstack/taskflow,openstack/adjutant-ui,Core,3.6363636363636362,4.624277456647398,4,11
+openstack/taskflow,openstack/adjutant-ui,Non core,0.0,1.7341040462427744,4,11
+openstack/taskflow,openstack/sahara-extra,Core,6.015037593984962,4.3478260869565215,11,15
+openstack/taskflow,openstack/sahara-extra,Non core,2.2556390977443606,2.898550724637681,11,15
+openstack/taskflow,openstack/blazar-nova,Core,6.557377049180328,5.41871921182266,13,20
+openstack/taskflow,openstack/blazar-nova,Non core,4.098360655737705,4.433497536945813,13,20
+openstack/taskflow,openstack/oslo.service,Core,10.843373493975903,10.15625,29,52
+openstack/taskflow,openstack/oslo.service,Non core,6.626506024096386,10.15625,29,52
+openstack/taskflow,openstack/blazar-dashboard,Core,3.3333333333333335,5.5,7,18
+openstack/taskflow,openstack/blazar-dashboard,Non core,2.5,3.5000000000000004,7,18
+openstack/taskflow,openstack/paunch,Core,2.7777777777777777,4.705882352941177,7,20
+openstack/taskflow,openstack/paunch,Non core,2.083333333333333,3.1372549019607843,7,20
+openstack/taskflow,openstack/service-types-authority,Core,3.3333333333333335,9.523809523809524,4,22
+openstack/taskflow,openstack/service-types-authority,Non core,0.0,0.9523809523809524,4,22
+openstack/taskflow,openstack/python-ironic-inspector-client,Core,5.714285714285714,3.4934497816593884,11,20
+openstack/taskflow,openstack/python-ironic-inspector-client,Non core,2.142857142857143,5.240174672489083,11,20
+openstack/taskflow,openstack/openstack-ansible-memcached_server,Core,5.0359712230215825,0.9259259259259258,11,10
+openstack/taskflow,openstack/openstack-ansible-memcached_server,Non core,2.877697841726619,3.7037037037037033,11,10
+openstack/taskflow,openstack/os-testr,Core,6.521739130434782,6.637168141592921,14,24
+openstack/taskflow,openstack/os-testr,Non core,3.6231884057971016,3.982300884955752,14,24
+openstack/taskflow,openstack/openstack-ansible-ceph_client,Core,4.081632653061225,1.7777777777777777,8,13
+openstack/taskflow,openstack/openstack-ansible-ceph_client,Non core,1.3605442176870748,4.0,8,13
+openstack/taskflow,openstack/openstack-ansible-os_magnum,Core,3.9735099337748347,2.564102564102564,8,12
+openstack/taskflow,openstack/openstack-ansible-os_magnum,Non core,1.3245033112582782,2.564102564102564,8,12
+openstack/taskflow,openstack/openstack-ansible-os_blazar,Core,2.3622047244094486,1.9900497512437811,6,8
+openstack/taskflow,openstack/openstack-ansible-os_blazar,Non core,2.3622047244094486,1.9900497512437811,6,8
+openstack/taskflow,openstack/openstack-ansible-os_designate,Core,3.870967741935484,2.9661016949152543,9,17
+openstack/taskflow,openstack/openstack-ansible-os_designate,Non core,1.935483870967742,4.23728813559322,9,17
+openstack/taskflow,openstack/openstack-ansible-os_gnocchi,Core,4.635761589403973,3.1390134529147984,11,14
+openstack/taskflow,openstack/openstack-ansible-os_gnocchi,Non core,2.6490066225165565,3.1390134529147984,11,14
+openstack/taskflow,openstack/openstack-ansible-os_senlin,Core,0.0,0.0,0,1
+openstack/taskflow,openstack/openstack-ansible-os_senlin,Non core,0.0,0.5681818181818182,0,1
+openstack/taskflow,openstack/ptgbot,Core,3.5398230088495577,7.262569832402235,5,15
+openstack/taskflow,openstack/ptgbot,Non core,0.8849557522123894,1.1173184357541899,5,15
+openstack/taskflow,openstack/openstack-ansible-os_zun,Core,3.2,2.051282051282051,7,10
+openstack/taskflow,openstack/openstack-ansible-os_zun,Non core,2.4,3.076923076923077,7,10
+openstack/taskflow,openstack/openstack-ansible-repo_server,Core,4.666666666666667,2.1645021645021645,10,12
+openstack/taskflow,openstack/openstack-ansible-repo_server,Non core,2.0,3.0303030303030303,10,12
+openstack/taskflow,openstack/python-watcherclient,Core,5.232558139534884,4.385964912280701,15,20
+openstack/taskflow,openstack/python-watcherclient,Non core,3.488372093023256,4.385964912280701,15,20
+openstack/taskflow,openstack/heat-agents,Core,4.477611940298507,5.217391304347826,7,23
+openstack/taskflow,openstack/heat-agents,Non core,0.7462686567164178,4.782608695652174,7,23
+openstack/taskflow,openstack/oslo.rootwrap,Core,11.486486486486488,12.82051282051282,28,50
+openstack/taskflow,openstack/oslo.rootwrap,Non core,7.4324324324324325,8.547008547008547,28,50
+openstack/taskflow,openstack/automaton,Core,8.620689655172415,7.82122905027933,19,31
+openstack/taskflow,openstack/automaton,Non core,7.758620689655173,9.497206703910614,19,31
+openstack/taskflow,openstack/debtcollector,Core,11.29032258064516,10.285714285714285,23,34
+openstack/taskflow,openstack/debtcollector,Non core,7.258064516129033,9.142857142857142,23,34
+openstack/taskflow,openstack/vitrage-dashboard,Core,5.921052631578947,3.587443946188341,18,12
+openstack/taskflow,openstack/vitrage-dashboard,Non core,5.921052631578947,1.7937219730941705,18,12
+openstack/taskflow,openstack/oslotest,Core,12.5,12.62135922330097,28,49
+openstack/taskflow,openstack/oslotest,Non core,8.088235294117647,11.165048543689322,28,49
+openstack/taskflow,openstack/kayobe-config,Core,1.7857142857142856,1.1627906976744187,2,2
+openstack/taskflow,openstack/kayobe-config,Non core,0.0,0.0,2,2
+openstack/taskflow,openstack/compute-hyperv,Core,5.511811023622047,3.125,10,15
+openstack/taskflow,openstack/compute-hyperv,Non core,2.3622047244094486,4.6875,10,15
+openstack/taskflow,openstack/python-cloudkittyclient,Core,5.298013245033113,3.1963470319634704,14,18
+openstack/taskflow,openstack/python-cloudkittyclient,Non core,3.9735099337748347,5.0228310502283104,14,18
+openstack/taskflow,openstack/charm-interface-keystone,Core,2.6785714285714284,0.5649717514124294,6,6
+openstack/taskflow,openstack/charm-interface-keystone,Non core,2.6785714285714284,2.824858757062147,6,6
+openstack/taskflow,openstack/cloudkitty-dashboard,Core,6.474820143884892,3.571428571428571,11,19
+openstack/taskflow,openstack/cloudkitty-dashboard,Non core,1.4388489208633095,4.910714285714286,11,19
+openstack/taskflow,openstack/networking-hyperv,Core,7.092198581560284,2.9702970297029703,15,16
+openstack/taskflow,openstack/networking-hyperv,Non core,3.546099290780142,4.9504950495049505,15,16
+openstack/taskflow,openstack/i18n,Core,5.109489051094891,5.555555555555555,9,21
+openstack/taskflow,openstack/i18n,Non core,1.4598540145985401,4.166666666666666,9,21
+openstack/taskflow,openstack/sahara-tests,Core,4.511278195488721,2.7149321266968327,9,12
+openstack/taskflow,openstack/sahara-tests,Non core,2.2556390977443606,2.7149321266968327,9,12
+openstack/taskflow,openstack/python-zunclient,Core,5.263157894736842,3.1620553359683794,16,17
+openstack/taskflow,openstack/python-zunclient,Non core,4.093567251461988,3.557312252964427,16,17
+openstack/taskflow,openstack/sahara-plugin-cdh,Core,3.6036036036036037,2.8089887640449436,5,10
+openstack/taskflow,openstack/sahara-plugin-cdh,Non core,0.9009009009009009,2.8089887640449436,5,10
+openstack/taskflow,openstack/monasca-ui,Core,7.453416149068323,2.941176470588235,19,25
+openstack/taskflow,openstack/monasca-ui,Non core,4.3478260869565215,6.25,19,25
+openstack/taskflow,openstack/python-adjutantclient,Core,4.587155963302752,2.3255813953488373,6,7
+openstack/taskflow,openstack/python-adjutantclient,Non core,0.9174311926605505,1.744186046511628,6,7
+openstack/taskflow,openstack/charm-ceph-nfs,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/charm-ceph-nfs,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/ansible-role-lunasa-hsm,Core,0.9615384615384616,0.5952380952380952,1,3
+openstack/taskflow,openstack/ansible-role-lunasa-hsm,Non core,0.0,1.1904761904761905,1,3
+openstack/taskflow,openstack/monasca-thresh,Core,3.225806451612903,0.48543689320388345,7,6
+openstack/taskflow,openstack/monasca-thresh,Non core,2.4193548387096775,2.4271844660194173,7,6
+openstack/taskflow,openstack/heat-specs,Core,4.848484848484849,5.993690851735016,9,33
+openstack/taskflow,openstack/heat-specs,Non core,0.6060606060606061,4.416403785488959,9,33
+openstack/taskflow,openstack/watcher-dashboard,Core,5.555555555555555,2.7027027027027026,9,11
+openstack/taskflow,openstack/watcher-dashboard,Non core,0.6944444444444444,2.2522522522522523,9,11
+openstack/taskflow,openstack/sahara-plugin-ambari,Core,3.6363636363636362,1.7341040462427744,5,8
+openstack/taskflow,openstack/sahara-plugin-ambari,Non core,0.9090909090909091,2.8901734104046244,5,8
+openstack/taskflow,openstack/sahara-plugin-mapr,Core,3.669724770642202,2.272727272727273,5,10
+openstack/taskflow,openstack/sahara-plugin-mapr,Non core,0.9174311926605505,3.4090909090909087,5,10
+openstack/taskflow,openstack/sahara-plugin-spark,Core,3.7037037037037033,1.7647058823529411,5,6
+openstack/taskflow,openstack/sahara-plugin-spark,Non core,0.9259259259259258,1.7647058823529411,5,6
+openstack/taskflow,openstack/sahara-plugin-storm,Core,3.7037037037037033,1.7647058823529411,5,7
+openstack/taskflow,openstack/sahara-plugin-storm,Non core,0.9259259259259258,2.3529411764705883,5,7
+openstack/taskflow,openstack/sahara-plugin-vanilla,Core,3.7037037037037033,1.744186046511628,5,7
+openstack/taskflow,openstack/sahara-plugin-vanilla,Non core,0.9259259259259258,2.3255813953488373,5,7
+openstack/taskflow,openstack/sahara-specs,Core,4.10958904109589,1.293103448275862,8,7
+openstack/taskflow,openstack/sahara-specs,Non core,1.36986301369863,1.7241379310344827,8,7
+openstack/taskflow,openstack/venus-tempest-plugin,Core,0.0,0.5847953216374269,1,1
+openstack/taskflow,openstack/venus-tempest-plugin,Non core,0.9174311926605505,0.0,1,1
+openstack/taskflow,openstack/venus-specs,Core,0.0,0.0,1,0
+openstack/taskflow,openstack/venus-specs,Non core,0.9433962264150944,0.0,1,0
+openstack/taskflow,openstack/ceilometermiddleware,Core,7.8125,5.116279069767442,15,25
+openstack/taskflow,openstack/ceilometermiddleware,Non core,3.90625,6.511627906976744,15,25
+openstack/taskflow,openstack/trove-tempest-plugin,Core,2.6548672566371683,2.13903743315508,4,9
+openstack/taskflow,openstack/trove-tempest-plugin,Non core,0.8849557522123894,2.6737967914438503,4,9
+openstack/taskflow,openstack/arch-design,Core,1.8518518518518516,1.7751479289940828,3,3
+openstack/taskflow,openstack/arch-design,Non core,0.9259259259259258,0.0,3,3
+openstack/taskflow,openstack/monasca-common,Core,5.454545454545454,2.34375,13,18
+openstack/taskflow,openstack/monasca-common,Non core,2.4242424242424243,4.6875,13,18
+openstack/taskflow,openstack/monasca-statsd,Core,7.751937984496124,2.403846153846154,14,15
+openstack/taskflow,openstack/monasca-statsd,Non core,3.10077519379845,4.807692307692308,14,15
+openstack/taskflow,openstack/python-monascaclient,Core,7.647058823529412,3.8461538461538463,22,24
+openstack/taskflow,openstack/python-monascaclient,Non core,5.294117647058823,5.384615384615385,22,24
+openstack/taskflow,openstack/renderspec,Core,7.82608695652174,3.867403314917127,12,13
+openstack/taskflow,openstack/renderspec,Non core,2.608695652173913,3.314917127071823,12,13
+openstack/taskflow,openstack/os-service-types,Core,6.086956521739131,5.913978494623656,10,15
+openstack/taskflow,openstack/os-service-types,Non core,2.608695652173913,2.1505376344086025,10,15
+openstack/taskflow,openstack/masakari-dashboard,Core,4.958677685950414,5.05050505050505,9,16
+openstack/taskflow,openstack/masakari-dashboard,Non core,2.479338842975207,3.0303030303030303,9,16
+openstack/taskflow,openstack/freezer-dr,Core,3.3057851239669422,2.631578947368421,7,14
+openstack/taskflow,openstack/freezer-dr,Non core,2.479338842975207,4.736842105263158,7,14
+openstack/taskflow,openstack/tempest-stress,Core,2.5423728813559325,2.8735632183908044,5,9
+openstack/taskflow,openstack/tempest-stress,Non core,1.694915254237288,2.2988505747126435,5,9
+openstack/taskflow,openstack/charm-neutron-api-genericswitch,Core,1.9230769230769231,1.183431952662722,3,2
+openstack/taskflow,openstack/charm-neutron-api-genericswitch,Non core,0.9615384615384616,0.0,3,2
+openstack/taskflow,openstack/charm-neutron-dynamic-routing,Core,2.631578947368421,1.6853932584269662,5,6
+openstack/taskflow,openstack/charm-neutron-dynamic-routing,Non core,1.7543859649122806,1.6853932584269662,5,6
+openstack/taskflow,openstack/charm-interface-ceph-client,Core,1.8518518518518516,1.1494252873563218,3,3
+openstack/taskflow,openstack/charm-interface-ceph-client,Non core,0.9259259259259258,0.5747126436781609,3,3
+openstack/taskflow,openstack/charm-percona-cluster,Core,2.18978102189781,1.4492753623188406,6,9
+openstack/taskflow,openstack/charm-percona-cluster,Non core,2.18978102189781,2.898550724637681,6,9
+openstack/taskflow,openstack/charm-deployment-guide,Core,1.5384615384615385,1.0256410256410255,5,4
+openstack/taskflow,openstack/charm-deployment-guide,Non core,2.307692307692308,1.0256410256410255,5,4
+openstack/taskflow,openstack/rbd-iscsi-client,Core,0.0,1.1695906432748537,0,2
+openstack/taskflow,openstack/rbd-iscsi-client,Non core,0.0,0.0,0,2
+openstack/taskflow,openstack/oslo.metrics,Core,0.9259259259259258,2.923976608187134,3,10
+openstack/taskflow,openstack/oslo.metrics,Non core,1.8518518518518516,2.923976608187134,3,10
+openstack/taskflow,openstack/oslo.vmware,Core,8.80503144654088,12.25296442687747,24,56
+openstack/taskflow,openstack/oslo.vmware,Non core,6.289308176100629,9.881422924901186,24,56
+openstack/taskflow,openstack/oslo.upgradecheck,Core,8.256880733944955,6.8181818181818175,12,18
+openstack/taskflow,openstack/oslo.upgradecheck,Non core,2.7522935779816518,3.4090909090909087,12,18
+openstack/taskflow,openstack/python-masakariclient,Core,4.37956204379562,4.5,8,18
+openstack/taskflow,openstack/python-masakariclient,Non core,1.4598540145985401,4.5,8,18
+openstack/taskflow,openstack/python-vitrageclient,Core,4.964539007092199,1.5151515151515151,16,7
+openstack/taskflow,openstack/python-vitrageclient,Non core,6.382978723404255,2.0202020202020203,16,7
+openstack/taskflow,openstack/python-blazarclient,Core,5.714285714285714,7.4074074074074066,16,27
+openstack/taskflow,openstack/python-blazarclient,Non core,5.714285714285714,5.092592592592593,16,27
+openstack/taskflow,openstack/zaqar-tempest-plugin,Core,3.571428571428571,2.73224043715847,4,8
+openstack/taskflow,openstack/zaqar-tempest-plugin,Non core,0.0,1.639344262295082,4,8
+openstack/taskflow,openstack/tripleo-common-tempest-plugin,Core,3.4782608695652173,2.072538860103627,5,6
+openstack/taskflow,openstack/tripleo-common-tempest-plugin,Non core,0.8695652173913043,1.0362694300518136,5,6
+openstack/taskflow,openstack/mistral-tempest-plugin,Core,2.4390243902439024,1.5384615384615385,4,6
+openstack/taskflow,openstack/mistral-tempest-plugin,Non core,0.8130081300813009,1.5384615384615385,4,6
+openstack/taskflow,openstack/barbican-ui,Core,0.9708737864077669,1.1428571428571428,1,3
+openstack/taskflow,openstack/barbican-ui,Non core,0.0,0.5714285714285714,1,3
+openstack/taskflow,openstack/liberasurecode,Core,1.8018018018018018,0.5524861878453038,4,5
+openstack/taskflow,openstack/liberasurecode,Non core,1.8018018018018018,2.209944751381215,4,5
+openstack/taskflow,openstack/ansible-plugin-container-connection,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/ansible-plugin-container-connection,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/os-client-config,Core,9.25925925925926,6.967213114754098,20,28
+openstack/taskflow,openstack/os-client-config,Non core,3.0864197530864197,4.508196721311475,20,28
+openstack/taskflow,openstack/monasca-specs,Core,1.7699115044247788,0.5154639175257731,2,2
+openstack/taskflow,openstack/monasca-specs,Non core,0.0,0.5154639175257731,2,2
+openstack/taskflow,openstack/os-performance-tools,Core,3.389830508474576,3.3707865168539324,4,9
+openstack/taskflow,openstack/os-performance-tools,Non core,0.0,1.6853932584269662,4,9
+openstack/taskflow,openstack/trove-specs,Core,5.223880597014925,1.6666666666666667,9,10
+openstack/taskflow,openstack/trove-specs,Non core,1.4925373134328357,2.5,9,10
+openstack/taskflow,openstack/manila-image-elements,Core,4.098360655737705,1.9900497512437811,8,11
+openstack/taskflow,openstack/manila-image-elements,Non core,2.459016393442623,3.482587064676617,8,11
+openstack/taskflow,openstack/blazar-specs,Core,1.8181818181818181,2.7472527472527473,2,5
+openstack/taskflow,openstack/blazar-specs,Non core,0.0,0.0,2,5
+openstack/taskflow,openstack/molteniron,Core,4.587155963302752,1.6042780748663104,6,5
+openstack/taskflow,openstack/molteniron,Non core,0.9174311926605505,1.06951871657754,6,5
+openstack/taskflow,openstack/solum-specs,Core,6.25,1.0810810810810811,7,4
+openstack/taskflow,openstack/solum-specs,Non core,0.0,1.0810810810810811,7,4
+openstack/taskflow,openstack/patrole,Core,2.7027027027027026,2.6923076923076925,8,18
+openstack/taskflow,openstack/patrole,Non core,1.6216216216216217,4.230769230769231,8,18
+openstack/taskflow,openstack/performance-docs,Core,2.18978102189781,1.8957345971563981,6,13
+openstack/taskflow,openstack/performance-docs,Non core,2.18978102189781,4.265402843601896,6,13
+openstack/taskflow,openstack/sphinx-feature-classification,Core,8.035714285714286,10.227272727272728,11,25
+openstack/taskflow,openstack/sphinx-feature-classification,Non core,1.7857142857142856,3.977272727272727,11,25
+openstack/taskflow,openstack/etcd3gw,Core,1.8518518518518516,4.117647058823529,3,7
+openstack/taskflow,openstack/etcd3gw,Non core,0.9259259259259258,0.0,3,7
+openstack/taskflow,openstack/watcher-specs,Core,2.8368794326241136,1.6736401673640167,10,10
+openstack/taskflow,openstack/watcher-specs,Non core,4.25531914893617,2.510460251046025,10,10
+openstack/taskflow,openstack/yaql,Core,8.661417322834646,3.414634146341464,12,17
+openstack/taskflow,openstack/yaql,Non core,0.7874015748031495,4.878048780487805,12,17
+openstack/taskflow,openstack/puppet-openstack-guide,Core,4.958677685950414,1.5151515151515151,9,8
+openstack/taskflow,openstack/puppet-openstack-guide,Non core,2.479338842975207,2.525252525252525,9,8
+openstack/taskflow,openstack/puppet-panko,Core,3.7037037037037033,1.5789473684210527,7,9
+openstack/taskflow,openstack/puppet-panko,Non core,1.4814814814814816,3.1578947368421053,7,9
+openstack/taskflow,openstack/heat-cfnclient,Core,6.896551724137931,4.864864864864865,9,14
+openstack/taskflow,openstack/heat-cfnclient,Non core,0.8620689655172413,2.7027027027027026,9,14
+openstack/taskflow,openstack/heat-cfntools,Core,7.462686567164178,5.188679245283019,18,23
+openstack/taskflow,openstack/heat-cfntools,Non core,5.970149253731343,5.660377358490567,18,23
+openstack/taskflow,openstack/heat-templates,Core,4.040404040404041,4.0625,10,25
+openstack/taskflow,openstack/heat-templates,Non core,1.0101010101010102,3.75,10,25
+openstack/taskflow,openstack/governance-sigs,Core,7.142857142857142,7.28744939271255,11,21
+openstack/taskflow,openstack/governance-sigs,Non core,1.5873015873015872,1.214574898785425,11,21
+openstack/taskflow,openstack/openstack-zuul-roles,Core,1.9047619047619049,2.3255813953488373,2,5
+openstack/taskflow,openstack/openstack-zuul-roles,Non core,0.0,0.5813953488372093,2,5
+openstack/taskflow,openstack/nova-powervm,Core,5.369127516778524,4.0650406504065035,11,19
+openstack/taskflow,openstack/nova-powervm,Non core,2.013422818791946,3.6585365853658534,11,19
+openstack/taskflow,openstack/openstack-helm-addons,Core,0.0,0.7352941176470588,1,7
+openstack/taskflow,openstack/openstack-helm-addons,Non core,0.7194244604316548,1.8382352941176472,1,7
+openstack/taskflow,openstack/python-pankoclient,Core,4.166666666666666,4.712041884816754,8,15
+openstack/taskflow,openstack/python-pankoclient,Non core,2.5,3.1413612565445024,8,15
+openstack/taskflow,openstack/qa-specs,Core,4.25531914893617,3.4615384615384617,10,17
+openstack/taskflow,openstack/qa-specs,Non core,2.8368794326241136,3.076923076923077,10,17
+openstack/taskflow,openstack/zaqar-specs,Core,6.349206349206349,5.238095238095238,13,21
+openstack/taskflow,openstack/zaqar-specs,Non core,3.968253968253968,4.761904761904762,13,21
+openstack/taskflow,openstack/swift-bench,Core,0.8620689655172413,2.0618556701030926,5,9
+openstack/taskflow,openstack/swift-bench,Non core,3.4482758620689653,2.5773195876288657,5,9
+openstack/taskflow,openstack/whereto,Core,4.464285714285714,4.519774011299435,8,11
+openstack/taskflow,openstack/whereto,Non core,2.6785714285714284,1.694915254237288,8,11
+openstack/taskflow,openstack/murano-specs,Core,3.6231884057971016,1.3574660633484164,7,7
+openstack/taskflow,openstack/murano-specs,Non core,1.4492753623188406,1.809954751131222,7,7
+openstack/taskflow,openstack/ansible-role-tripleo-modify-image,Core,2.3255813953488373,1.8181818181818181,3,9
+openstack/taskflow,openstack/ansible-role-tripleo-modify-image,Non core,0.0,2.272727272727273,3,9
+openstack/taskflow,openstack/requestsexceptions,Core,3.8095238095238098,4.651162790697675,5,11
+openstack/taskflow,openstack/requestsexceptions,Non core,0.9523809523809524,1.744186046511628,5,11
+openstack/taskflow,openstack/panko,Core,6.962025316455696,4.8979591836734695,17,23
+openstack/taskflow,openstack/panko,Non core,3.79746835443038,4.489795918367347,17,23
+openstack/taskflow,openstack/api-sig,Core,3.4722222222222223,6.918238993710692,10,43
+openstack/taskflow,openstack/api-sig,Non core,3.4722222222222223,6.60377358490566,10,43
+openstack/taskflow,openstack/openstack-chef-specs,Core,3.3057851239669422,2.072538860103627,5,8
+openstack/taskflow,openstack/openstack-chef-specs,Non core,0.8264462809917356,2.072538860103627,5,8
+openstack/taskflow,openstack/freezer-specs,Core,5.172413793103448,1.6042780748663104,8,6
+openstack/taskflow,openstack/freezer-specs,Non core,1.7241379310344827,1.6042780748663104,8,6
+openstack/taskflow,openstack/oslo.tools,Core,7.5,6.9364161849710975,15,22
+openstack/taskflow,openstack/oslo.tools,Non core,5.0,5.780346820809249,15,22
+openstack/taskflow,openstack/microversion-parse,Core,1.8518518518518516,4.069767441860465,4,9
+openstack/taskflow,openstack/microversion-parse,Non core,1.8518518518518516,1.1627906976744187,4,9
+openstack/taskflow,openstack/openstackclient,Core,6.896551724137931,5.978260869565218,11,17
+openstack/taskflow,openstack/openstackclient,Non core,2.586206896551724,3.260869565217391,11,17
+openstack/taskflow,openstack/ossa,Core,3.389830508474576,6.796116504854369,6,21
+openstack/taskflow,openstack/ossa,Non core,1.694915254237288,3.3980582524271843,6,21
+openstack/taskflow,openstack/reviewstats,Core,7.878787878787878,12.145748987854251,15,40
+openstack/taskflow,openstack/reviewstats,Non core,1.2121212121212122,4.048582995951417,15,40
+openstack/taskflow,openstack/oslo-cookiecutter,Core,7.964601769911504,7.909604519774012,12,21
+openstack/taskflow,openstack/oslo-cookiecutter,Non core,2.6548672566371683,3.954802259887006,12,21
+openstack/taskflow,openstack/openstack-helm-deployments,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/openstack-helm-deployments,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/security-analysis,Core,2.7777777777777777,2.1739130434782608,3,6
+openstack/taskflow,openstack/security-analysis,Non core,0.0,1.0869565217391304,3,6
+openstack/taskflow,openstack/charm-cinder-ibm-storwize-svc,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/charm-cinder-ibm-storwize-svc,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/ansible-role-tripleo-keystone,Core,1.8691588785046727,0.5882352941176471,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-keystone,Non core,0.0,0.0,2,1
+openstack/taskflow,openstack/openstack-ansible-apt_package_pinning,Core,4.580152671755725,1.0,8,9
+openstack/taskflow,openstack/openstack-ansible-apt_package_pinning,Non core,1.5267175572519083,3.5000000000000004,8,9
+openstack/taskflow,openstack/ansible-role-qdrouterd,Core,1.7857142857142856,1.5706806282722512,3,5
+openstack/taskflow,openstack/ansible-role-qdrouterd,Non core,0.8928571428571428,1.0471204188481675,3,5
+openstack/taskflow,openstack/openstack-ansible-openstack_openrc,Core,4.25531914893617,0.9569377990430622,9,9
+openstack/taskflow,openstack/openstack-ansible-openstack_openrc,Non core,2.127659574468085,3.349282296650718,9,9
+openstack/taskflow,openstack/openstack-ansible-nspawn_container_create,Core,2.5210084033613445,2.6595744680851063,5,10
+openstack/taskflow,openstack/openstack-ansible-nspawn_container_create,Non core,1.680672268907563,2.6595744680851063,5,10
+openstack/taskflow,openstack/devstack-tools,Core,3.4482758620689653,2.8735632183908044,4,9
+openstack/taskflow,openstack/devstack-tools,Non core,0.0,2.2988505747126435,4,9
+openstack/taskflow,openstack/coverage2sql,Core,4.310344827586207,3.4482758620689653,11,12
+openstack/taskflow,openstack/coverage2sql,Non core,5.172413793103448,3.4482758620689653,11,12
+openstack/taskflow,openstack/bashate,Core,7.2992700729927,5.88235294117647,15,17
+openstack/taskflow,openstack/bashate,Non core,3.64963503649635,2.450980392156863,15,17
+openstack/taskflow,openstack/hacking,Core,10.240963855421686,13.857677902621724,24,55
+openstack/taskflow,openstack/hacking,Non core,4.216867469879518,6.741573033707865,24,55
+openstack/taskflow,openstack/xstatic-mdi,Core,2.8301886792452833,0.5780346820809248,3,5
+openstack/taskflow,openstack/xstatic-mdi,Non core,0.0,2.312138728323699,3,5
+openstack/taskflow,openstack/xstatic-roboto-fontface,Core,2.857142857142857,1.1560693641618496,3,6
+openstack/taskflow,openstack/xstatic-roboto-fontface,Non core,0.0,2.312138728323699,3,6
+openstack/taskflow,openstack/openstack-chef,Core,1.6,2.2346368715083798,3,6
+openstack/taskflow,openstack/openstack-chef,Non core,0.8,1.1173184357541899,3,6
+openstack/taskflow,openstack/cookbook-openstackclient,Core,0.0,0.0,0,4
+openstack/taskflow,openstack/cookbook-openstackclient,Non core,0.0,2.312138728323699,0,4
+openstack/taskflow,openstack/xstatic-angular,Core,1.8181818181818181,1.6666666666666667,4,7
+openstack/taskflow,openstack/xstatic-angular,Non core,1.8181818181818181,2.2222222222222223,4,7
+openstack/taskflow,openstack/charm-interface-hacluster,Core,1.7241379310344827,0.5649717514124294,5,5
+openstack/taskflow,openstack/charm-interface-hacluster,Non core,2.586206896551724,2.2598870056497176,5,5
+openstack/taskflow,openstack/puppet-openstack-specs,Core,5.0,1.4084507042253522,8,9
+openstack/taskflow,openstack/puppet-openstack-specs,Non core,1.6666666666666667,2.8169014084507045,8,9
+openstack/taskflow,openstack/puppet-monasca,Core,3.149606299212598,1.2658227848101267,7,9
+openstack/taskflow,openstack/puppet-monasca,Non core,2.3622047244094486,2.5316455696202533,7,9
+openstack/taskflow,openstack/eslint-config-openstack,Core,2.608695652173913,1.951219512195122,4,8
+openstack/taskflow,openstack/eslint-config-openstack,Non core,0.8695652173913043,1.951219512195122,4,8
+openstack/taskflow,openstack/karma-subunit-reporter,Core,2.8846153846153846,1.183431952662722,3,3
+openstack/taskflow,openstack/karma-subunit-reporter,Non core,0.0,0.591715976331361,3,3
+openstack/taskflow,openstack/openstack-helm-docs,Core,0.9259259259259258,2.1505376344086025,2,5
+openstack/taskflow,openstack/openstack-helm-docs,Non core,0.9259259259259258,0.5376344086021506,2,5
+openstack/taskflow,openstack/openstack-ansible-specs,Core,4.72972972972973,3.4615384615384617,10,17
+openstack/taskflow,openstack/openstack-ansible-specs,Non core,2.027027027027027,3.076923076923077,10,17
+openstack/taskflow,openstack/tempest-lib,Core,4.3478260869565215,3.361344537815126,8,19
+openstack/taskflow,openstack/tempest-lib,Non core,1.4492753623188406,4.621848739495799,8,19
+openstack/taskflow,openstack/tripleo-ha-utils,Core,0.9259259259259258,0.0,3,2
+openstack/taskflow,openstack/tripleo-ha-utils,Non core,1.8518518518518516,1.0582010582010581,3,2
+openstack/taskflow,openstack/devstack-vagrant,Core,2.631578947368421,2.197802197802198,3,8
+openstack/taskflow,openstack/devstack-vagrant,Non core,0.0,2.197802197802198,3,8
+openstack/taskflow,openstack/goal-tools,Core,2.803738317757009,4.022988505747127,3,9
+openstack/taskflow,openstack/goal-tools,Non core,0.0,1.1494252873563218,3,9
+openstack/taskflow,openstack/cookiecutter,Core,7.518796992481203,11.822660098522167,13,32
+openstack/taskflow,openstack/cookiecutter,Non core,2.2556390977443606,3.9408866995073892,13,32
+openstack/taskflow,openstack/dib-utils,Core,3.5398230088495577,3.125,5,12
+openstack/taskflow,openstack/dib-utils,Non core,0.8849557522123894,3.125,5,12
+openstack/taskflow,openstack/constellations,Core,1.9047619047619049,4.705882352941177,3,11
+openstack/taskflow,openstack/constellations,Non core,0.9523809523809524,1.7647058823529411,3,11
+openstack/taskflow,openstack/cookbook-openstack-integration-test,Core,1.694915254237288,1.5706806282722512,3,8
+openstack/taskflow,openstack/cookbook-openstack-integration-test,Non core,0.847457627118644,2.6178010471204187,3,8
+openstack/taskflow,openstack/cookbook-openstack-dashboard,Core,2.083333333333333,0.8771929824561403,4,7
+openstack/taskflow,openstack/cookbook-openstack-dashboard,Non core,0.6944444444444444,2.1929824561403506,4,7
+openstack/taskflow,openstack/cookbook-openstack-telemetry,Core,2.0689655172413794,0.9523809523809524,4,6
+openstack/taskflow,openstack/cookbook-openstack-telemetry,Non core,0.6896551724137931,1.9047619047619049,4,6
+openstack/taskflow,openstack/cookbook-openstack-orchestration,Core,2.2058823529411766,1.8691588785046727,3,7
+openstack/taskflow,openstack/cookbook-openstack-orchestration,Non core,0.0,1.4018691588785046,3,7
+openstack/taskflow,openstack/cookbook-openstack-bare-metal,Core,1.8018018018018018,1.6574585635359116,2,6
+openstack/taskflow,openstack/cookbook-openstack-bare-metal,Non core,0.0,1.6574585635359116,2,6
+openstack/taskflow,openstack/cookbook-openstack-dns,Core,0.0,0.5747126436781609,0,3
+openstack/taskflow,openstack/cookbook-openstack-dns,Non core,0.0,1.1494252873563218,0,3
+openstack/taskflow,openstack/cookbook-openstack-compute,Core,1.8292682926829267,2.0161290322580645,4,11
+openstack/taskflow,openstack/cookbook-openstack-compute,Non core,0.6097560975609756,2.4193548387096775,4,11
+openstack/taskflow,openstack/cookbook-openstack-network,Core,1.7964071856287425,1.6260162601626018,3,8
+openstack/taskflow,openstack/cookbook-openstack-network,Non core,0.0,1.6260162601626018,3,8
+openstack/taskflow,openstack/cookbook-openstack-block-storage,Core,2.515723270440252,1.3157894736842104,5,7
+openstack/taskflow,openstack/cookbook-openstack-block-storage,Non core,0.628930817610063,1.7543859649122806,5,7
+openstack/taskflow,openstack/cookbook-openstack-image,Core,1.9736842105263157,1.3215859030837005,3,7
+openstack/taskflow,openstack/cookbook-openstack-image,Non core,0.0,1.762114537444934,3,7
+openstack/taskflow,openstack/cookbook-openstack-identity,Core,2.631578947368421,1.2987012987012987,5,9
+openstack/taskflow,openstack/cookbook-openstack-identity,Non core,0.6578947368421052,2.5974025974025974,5,9
+openstack/taskflow,openstack/cookbook-openstack-ops-database,Core,2.2222222222222223,0.47393364928909953,3,3
+openstack/taskflow,openstack/cookbook-openstack-ops-database,Non core,0.0,0.9478672985781991,3,3
+openstack/taskflow,openstack/cookbook-openstack-ops-messaging,Core,2.34375,0.49261083743842365,3,4
+openstack/taskflow,openstack/cookbook-openstack-ops-messaging,Non core,0.0,1.477832512315271,3,4
+openstack/taskflow,openstack/cookbook-openstack-common,Core,1.8518518518518516,0.4,3,7
+openstack/taskflow,openstack/cookbook-openstack-common,Non core,0.0,2.4,3,7
+openstack/taskflow,openstack/self-healing-sig,Core,1.8018018018018018,1.6042780748663104,2,4
+openstack/taskflow,openstack/self-healing-sig,Non core,0.0,0.53475935828877,2,4
+openstack/taskflow,openstack/charm-ops-interface-tls-certificates,Core,0.0,0.0,1,0
+openstack/taskflow,openstack/charm-ops-interface-tls-certificates,Non core,0.9523809523809524,0.0,1,0
+openstack/taskflow,openstack/security-specs,Core,3.571428571428571,2.6455026455026456,6,7
+openstack/taskflow,openstack/security-specs,Non core,1.7857142857142856,1.0582010582010581,6,7
+openstack/taskflow,openstack/openstack-ansible-os_panko,Core,2.459016393442623,3.076923076923077,5,10
+openstack/taskflow,openstack/openstack-ansible-os_panko,Non core,1.639344262295082,2.051282051282051,5,10
+openstack/taskflow,openstack/openstack-ansible-nspawn_hosts,Core,2.5,1.5625,5,8
+openstack/taskflow,openstack/openstack-ansible-nspawn_hosts,Non core,1.6666666666666667,2.604166666666667,5,8
+openstack/taskflow,openstack/charm-layer-openstack-principle,Core,1.9047619047619049,0.0,3,0
+openstack/taskflow,openstack/charm-layer-openstack-principle,Non core,0.9523809523809524,0.0,3,0
+openstack/taskflow,openstack/charm-watcher-dashboard,Core,1.9230769230769231,1.1494252873563218,2,2
+openstack/taskflow,openstack/charm-watcher-dashboard,Non core,0.0,0.0,2,2
+openstack/taskflow,openstack/charm-watcher,Core,1.8867924528301887,1.098901098901099,2,3
+openstack/taskflow,openstack/charm-watcher,Non core,0.0,0.5494505494505495,2,3
+openstack/taskflow,openstack/openstack-ansible-galera_client,Core,5.442176870748299,1.9047619047619049,10,13
+openstack/taskflow,openstack/openstack-ansible-galera_client,Non core,1.3605442176870748,4.285714285714286,10,13
+openstack/taskflow,openstack/cloudkitty-specs,Core,2.586206896551724,1.0471204188481675,3,4
+openstack/taskflow,openstack/cloudkitty-specs,Non core,0.0,1.0471204188481675,3,4
+openstack/taskflow,openstack/osops,Core,1.8867924528301887,1.744186046511628,2,3
+openstack/taskflow,openstack/osops,Non core,0.0,0.0,2,3
+openstack/taskflow,openstack/charm-mistral,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/charm-mistral,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/charm-ironic,Core,1.9047619047619049,0.5952380952380952,3,1
+openstack/taskflow,openstack/charm-ironic,Non core,0.9523809523809524,0.0,3,1
+openstack/taskflow,openstack/ansible-role-vault,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/ansible-role-vault,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/multi-arch-sig,Core,0.9615384615384616,1.1695906432748537,1,2
+openstack/taskflow,openstack/multi-arch-sig,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack/charm-nova-compute-proxy,Core,0.9174311926605505,0.0,5,2
+openstack/taskflow,openstack/charm-nova-compute-proxy,Non core,3.669724770642202,1.1363636363636365,5,2
+openstack/taskflow,openstack/charm-odl-controller,Core,0.8928571428571428,0.0,3,2
+openstack/taskflow,openstack/charm-odl-controller,Non core,1.7857142857142856,1.1494252873563218,3,2
+openstack/taskflow,openstack/charm-nova-lxd,Core,1.7241379310344827,1.0869565217391304,7,6
+openstack/taskflow,openstack/charm-nova-lxd,Non core,4.310344827586207,2.1739130434782608,7,6
+openstack/taskflow,openstack/charm-interface-nova-cell,Core,0.0,0.5988023952095809,0,1
+openstack/taskflow,openstack/charm-interface-nova-cell,Non core,0.0,0.0,0,1
+openstack/taskflow,openstack/charm-interface-magpie,Core,0.0,0.0,1,0
+openstack/taskflow,openstack/charm-interface-magpie,Non core,0.9708737864077669,0.0,1,0
+openstack/taskflow,openstack/xstatic-lodash,Core,0.9708737864077669,1.2048192771084338,1,2
+openstack/taskflow,openstack/xstatic-lodash,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack/xstatic-moment,Core,0.9708737864077669,1.2048192771084338,1,2
+openstack/taskflow,openstack/xstatic-moment,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack/charm-interface-barbican-secrets,Core,0.9345794392523363,0.5882352941176471,2,3
+openstack/taskflow,openstack/charm-interface-barbican-secrets,Non core,0.9345794392523363,1.1764705882352942,2,3
+openstack/taskflow,openstack/charm-interface-mysql-innodb-cluster,Core,0.9708737864077669,0.0,1,0
+openstack/taskflow,openstack/charm-interface-mysql-innodb-cluster,Non core,0.0,0.0,1,0
+openstack/taskflow,openstack/charm-interface-ceph-rbd-mirror,Core,0.9433962264150944,0.5847953216374269,2,3
+openstack/taskflow,openstack/charm-interface-ceph-rbd-mirror,Non core,0.9433962264150944,1.1695906432748537,2,3
+openstack/taskflow,openstack/charm-interface-placement,Core,0.9708737864077669,0.0,2,0
+openstack/taskflow,openstack/charm-interface-placement,Non core,0.9708737864077669,0.0,2,0
+openstack/taskflow,openstack/charm-interface-mysql-shared,Core,2.803738317757009,0.0,4,1
+openstack/taskflow,openstack/charm-interface-mysql-shared,Non core,0.9345794392523363,0.5780346820809248,4,1
+openstack/taskflow,openstack/charm-interface-dashboard-plugin,Core,0.9345794392523363,0.5882352941176471,2,3
+openstack/taskflow,openstack/charm-interface-dashboard-plugin,Non core,0.9345794392523363,1.1764705882352942,2,3
+openstack/taskflow,openstack/charm-interface-neutron-load-balancer,Core,0.9345794392523363,0.5882352941176471,2,3
+openstack/taskflow,openstack/charm-interface-neutron-load-balancer,Non core,0.9345794392523363,1.1764705882352942,2,3
+openstack/taskflow,openstack/charm-interface-neutron-plugin-api-subordinate,Core,2.7777777777777777,1.1560693641618496,4,2
+openstack/taskflow,openstack/charm-interface-neutron-plugin-api-subordinate,Non core,0.9259259259259258,0.0,4,2
+openstack/taskflow,openstack/charm-interface-neutron-plugin,Core,2.8301886792452833,0.5847953216374269,3,2
+openstack/taskflow,openstack/charm-interface-neutron-plugin,Non core,0.0,0.5847953216374269,3,2
+openstack/taskflow,openstack/xstatic-json2yaml,Core,0.9708737864077669,1.2048192771084338,1,2
+openstack/taskflow,openstack/xstatic-json2yaml,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack/xstatic-jquery.tablesorter,Core,1.9417475728155338,1.1904761904761905,2,3
+openstack/taskflow,openstack/xstatic-jquery.tablesorter,Non core,0.0,0.5952380952380952,2,3
+openstack/taskflow,openstack/xstatic-magic-search,Core,1.8867924528301887,0.5681818181818182,4,5
+openstack/taskflow,openstack/xstatic-magic-search,Non core,1.8867924528301887,2.272727272727273,4,5
+openstack/taskflow,openstack/xstatic-jsencrypt,Core,1.9230769230769231,0.5649717514124294,4,4
+openstack/taskflow,openstack/xstatic-jsencrypt,Non core,1.9230769230769231,1.694915254237288,4,4
+openstack/taskflow,openstack/xstatic-js-yaml,Core,0.9615384615384616,1.1976047904191618,1,2
+openstack/taskflow,openstack/xstatic-js-yaml,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack/xstatic-spin,Core,1.9417475728155338,1.1904761904761905,2,3
+openstack/taskflow,openstack/xstatic-spin,Non core,0.0,0.5952380952380952,2,3
+openstack/taskflow,openstack/xstatic-rickshaw,Core,1.9047619047619049,1.1560693641618496,4,5
+openstack/taskflow,openstack/xstatic-rickshaw,Non core,1.9047619047619049,1.7341040462427744,4,5
+openstack/taskflow,openstack/charm-panko,Core,0.9523809523809524,1.1428571428571428,3,3
+openstack/taskflow,openstack/charm-panko,Non core,1.9047619047619049,0.5714285714285714,3,3
+openstack/taskflow,openstack/charm-interface-service-control,Core,0.9259259259259258,0.5813953488372093,2,3
+openstack/taskflow,openstack/charm-interface-service-control,Non core,0.9259259259259258,1.1627906976744187,2,3
+openstack/taskflow,openstack/openstack-ansible-os_almanach,Core,2.4193548387096775,1.5625,4,7
+openstack/taskflow,openstack/openstack-ansible-os_almanach,Non core,0.8064516129032258,2.083333333333333,4,7
+openstack/taskflow,openstack/openstack-ansible-pip_install,Core,3.4965034965034967,2.2522522522522523,8,15
+openstack/taskflow,openstack/openstack-ansible-pip_install,Non core,2.097902097902098,4.504504504504505,8,15
+openstack/taskflow,openstack/python-karborclient,Core,4.794520547945205,3.7037037037037033,9,14
+openstack/taskflow,openstack/python-karborclient,Non core,1.36986301369863,2.7777777777777777,9,14
+openstack/taskflow,openstack/charm-interface-keystone-admin,Core,2.8846153846153846,0.0,3,2
+openstack/taskflow,openstack/charm-interface-keystone-admin,Non core,0.0,1.183431952662722,3,2
+openstack/taskflow,openstack/charm-interface-nova-compute,Core,1.8518518518518516,0.5747126436781609,3,3
+openstack/taskflow,openstack/charm-interface-nova-compute,Non core,0.9259259259259258,1.1494252873563218,3,3
+openstack/taskflow,openstack/charm-interface-manila-plugin,Core,1.8867924528301887,0.5847953216374269,2,2
+openstack/taskflow,openstack/charm-interface-manila-plugin,Non core,0.0,0.5847953216374269,2,2
+openstack/taskflow,openstack/murano-apps,Core,2.6490066225165565,1.7391304347826086,4,7
+openstack/taskflow,openstack/murano-apps,Non core,0.0,1.3043478260869565,4,7
+openstack/taskflow,openstack/puppet-senlin,Core,3.6036036036036037,1.1235955056179776,7,6
+openstack/taskflow,openstack/puppet-senlin,Non core,2.7027027027027026,2.247191011235955,7,6
+openstack/taskflow,openstack/cookbook-openstack-application-catalog,Core,0.0,0.0,1,2
+openstack/taskflow,openstack/cookbook-openstack-application-catalog,Non core,0.9345794392523363,1.1627906976744187,1,2
+openstack/taskflow,openstack/training-labs,Core,5.426356589147287,4.081632653061225,11,15
+openstack/taskflow,openstack/training-labs,Non core,3.10077519379845,3.571428571428571,11,15
+openstack/taskflow,openstack/karbor,Core,5.05050505050505,2.9605263157894735,18,26
+openstack/taskflow,openstack/karbor,Non core,4.040404040404041,5.592105263157895,18,26
+openstack/taskflow,openstack/devstack-plugin-open-cas,Core,0.9615384615384616,2.923976608187134,1,5
+openstack/taskflow,openstack/devstack-plugin-open-cas,Non core,0.0,0.0,1,5
+openstack/taskflow,openstack/openstack-ansible-os_congress,Core,2.459016393442623,2.0,6,10
+openstack/taskflow,openstack/openstack-ansible-os_congress,Non core,2.459016393442623,3.0,6,10
+openstack/taskflow,openstack/charm-ops-interface-ceph-client,Core,0.0,0.0,1,0
+openstack/taskflow,openstack/charm-ops-interface-ceph-client,Non core,0.9708737864077669,0.0,1,0
+openstack/taskflow,openstack/charm-interface-keystone-notifications,Core,0.0,0.5988023952095809,0,1
+openstack/taskflow,openstack/charm-interface-keystone-notifications,Non core,0.0,0.0,0,1
+openstack/taskflow,openstack/os-collect-config,Core,7.246376811594203,5.785123966942149,18,28
+openstack/taskflow,openstack/os-collect-config,Non core,5.797101449275362,5.785123966942149,18,28
+openstack/taskflow,openstack/os-apply-config,Core,8.02919708029197,5.9071729957805905,18,25
+openstack/taskflow,openstack/os-apply-config,Non core,5.109489051094891,4.641350210970464,18,25
+openstack/taskflow,openstack/puppet-freezer,Core,3.3333333333333335,1.6129032258064515,7,7
+openstack/taskflow,openstack/puppet-freezer,Non core,2.5,2.1505376344086025,7,7
+openstack/taskflow,openstack/vitrage-specs,Core,3.007518796992481,1.4634146341463417,7,12
+openstack/taskflow,openstack/vitrage-specs,Non core,2.2556390977443606,4.390243902439024,7,12
+openstack/taskflow,openstack/specs-cookiecutter,Core,4.716981132075472,4.678362573099415,5,10
+openstack/taskflow,openstack/specs-cookiecutter,Non core,0.0,1.1695906432748537,5,10
+openstack/taskflow,openstack/rpm-packaging-tools,Core,5.607476635514018,3.296703296703297,7,10
+openstack/taskflow,openstack/rpm-packaging-tools,Non core,0.9345794392523363,2.197802197802198,7,10
+openstack/taskflow,openstack/ansible-role-openstack-operations,Core,2.631578947368421,0.5524861878453038,4,3
+openstack/taskflow,openstack/ansible-role-openstack-operations,Non core,0.8771929824561403,1.1049723756906076,4,3
+openstack/taskflow,openstack/os-refresh-config,Core,8.94308943089431,6.481481481481481,18,25
+openstack/taskflow,openstack/os-refresh-config,Non core,5.691056910569105,5.092592592592593,18,25
+openstack/taskflow,openstack/mistral-specs,Core,3.225806451612903,1.0,7,5
+openstack/taskflow,openstack/mistral-specs,Non core,2.4193548387096775,1.5,7,5
+openstack/taskflow,openstack/scientific-wg,Core,1.9230769230769231,1.183431952662722,2,3
+openstack/taskflow,openstack/scientific-wg,Non core,0.0,0.591715976331361,2,3
+openstack/taskflow,openstack/charm-interface-keystone-fid-service-provider,Core,0.0,0.5847953216374269,0,1
+openstack/taskflow,openstack/charm-interface-keystone-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/taskflow,openstack/manila-test-image,Core,0.9523809523809524,2.2857142857142856,1,7
+openstack/taskflow,openstack/manila-test-image,Non core,0.0,1.7142857142857144,1,7
+openstack/taskflow,openstack/governance-website,Core,1.834862385321101,5.113636363636364,3,11
+openstack/taskflow,openstack/governance-website,Non core,0.9174311926605505,1.1363636363636365,3,11
+openstack/taskflow,openstack/bugdaystats,Core,1.9047619047619049,2.8735632183908044,2,8
+openstack/taskflow,openstack/bugdaystats,Non core,0.0,1.7241379310344827,2,8
+openstack/taskflow,openstack/upstream-institute-virtual-environment,Core,0.9345794392523363,2.2857142857142856,2,4
+openstack/taskflow,openstack/upstream-institute-virtual-environment,Non core,0.9345794392523363,0.0,2,4
+openstack/taskflow,openstack/karbor-dashboard,Core,3.0534351145038165,3.8095238095238098,9,15
+openstack/taskflow,openstack/karbor-dashboard,Non core,3.816793893129771,3.3333333333333335,9,15
+openstack/taskflow,openstack/django_openstack_auth,Core,6.748466257668712,5.245901639344262,17,26
+openstack/taskflow,openstack/django_openstack_auth,Non core,3.6809815950920246,3.278688524590164,17,26
+openstack/taskflow,openstack/monasca-transform,Core,6.153846153846154,2.4271844660194173,13,12
+openstack/taskflow,openstack/monasca-transform,Non core,3.8461538461538463,3.3980582524271843,13,12
+openstack/taskflow,openstack/monasca-ceilometer,Core,7.4074074074074066,2.1834061135371177,17,11
+openstack/taskflow,openstack/monasca-ceilometer,Non core,5.185185185185185,2.6200873362445414,17,11
+openstack/taskflow,openstack/monasca-log-api,Core,7.6923076923076925,3.7815126050420167,15,22
+openstack/taskflow,openstack/monasca-log-api,Non core,2.797202797202797,5.46218487394958,15,22
+openstack/taskflow,openstack/nose-html-output,Core,2.7777777777777777,3.508771929824561,3,10
+openstack/taskflow,openstack/nose-html-output,Non core,0.0,2.3391812865497075,3,10
+openstack/taskflow,openstack/kolla-cli,Core,1.680672268907563,2.564102564102564,5,9
+openstack/taskflow,openstack/kolla-cli,Non core,2.5210084033613445,2.051282051282051,5,9
+openstack/taskflow,openstack/neutron-lbaas-dashboard,Core,6.61764705882353,6.086956521739131,14,25
+openstack/taskflow,openstack/neutron-lbaas-dashboard,Non core,3.6764705882352944,4.782608695652174,14,25
+openstack/taskflow,openstack/searchlight,Core,5.583756345177665,5.204460966542751,23,33
+openstack/taskflow,openstack/searchlight,Non core,6.091370558375635,7.063197026022305,23,33
+openstack/taskflow,openstack/searchlight-ui,Core,5.147058823529411,2.912621359223301,12,12
+openstack/taskflow,openstack/searchlight-ui,Non core,3.6764705882352944,2.912621359223301,12,12
+openstack/taskflow,openstack/searchlight-specs,Core,4.273504273504273,1.5463917525773196,9,8
+openstack/taskflow,openstack/searchlight-specs,Non core,3.418803418803419,2.5773195876288657,9,8
+openstack/taskflow,openstack/python-searchlightclient,Core,5.9259259259259265,3.3980582524271843,12,15
+openstack/taskflow,openstack/python-searchlightclient,Non core,2.9629629629629632,3.8834951456310676,12,15
+openstack/taskflow,openstack/charm-tempest,Core,2.5423728813559325,1.639344262295082,6,8
+openstack/taskflow,openstack/charm-tempest,Non core,2.5423728813559325,2.73224043715847,6,8
+openstack/taskflow,openstack/charm-barbican-softhsm,Core,2.586206896551724,1.1111111111111112,5,6
+openstack/taskflow,openstack/charm-barbican-softhsm,Non core,1.7241379310344827,2.2222222222222223,5,6
+openstack/taskflow,openstack/cookbook-openstack-client,Core,1.8518518518518516,0.5617977528089888,2,3
+openstack/taskflow,openstack/cookbook-openstack-client,Non core,0.0,1.1235955056179776,2,3
+openstack/taskflow,openstack/instack-undercloud,Core,4.166666666666666,3.812316715542522,12,30
+openstack/taskflow,openstack/instack-undercloud,Non core,2.083333333333333,4.9853372434017595,12,30
+openstack/taskflow,openstack/publiccloud-sig,Core,1.8691588785046727,1.1560693641618496,2,3
+openstack/taskflow,openstack/publiccloud-sig,Non core,0.0,0.5780346820809248,2,3
+openstack/taskflow,openstack/ideas,Core,1.9047619047619049,7.103825136612022,2,13
+openstack/taskflow,openstack/ideas,Non core,0.0,0.0,2,13
+openstack/taskflow,openstack/uc-recognition,Core,0.9615384615384616,1.744186046511628,1,4
+openstack/taskflow,openstack/uc-recognition,Non core,0.0,0.5813953488372093,1,4
+openstack/taskflow,openstack/ops-tags-team,Core,1.8181818181818181,3.723404255319149,2,11
+openstack/taskflow,openstack/ops-tags-team,Non core,0.0,2.127659574468085,2,11
+openstack/taskflow,openstack/enterprise-wg,Core,0.9803921568627451,1.2121212121212122,1,2
+openstack/taskflow,openstack/enterprise-wg,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack/governance-uc,Core,3.3333333333333335,3.349282296650718,4,12
+openstack/taskflow,openstack/governance-uc,Non core,0.0,2.3923444976076556,4,12
+openstack/taskflow,openstack/workload-ref-archs,Core,2.727272727272727,2.8901734104046244,5,9
+openstack/taskflow,openstack/workload-ref-archs,Non core,1.8181818181818181,2.312138728323699,5,9
+openstack/taskflow,openstack/arch-wg,Core,0.9523809523809524,4.0,1,8
+openstack/taskflow,openstack/arch-wg,Non core,0.0,0.5714285714285714,1,8
+openstack/taskflow,openstack/project-navigator-data,Core,5.217391304347826,5.524861878453039,6,11
+openstack/taskflow,openstack/project-navigator-data,Non core,0.0,0.5524861878453038,6,11
+openstack/taskflow,openstack/openstack-specs,Core,7.017543859649122,11.564625850340136,8,54
+openstack/taskflow,openstack/openstack-specs,Non core,0.0,6.802721088435375,8,54
+openstack/taskflow,openstack/openstack-ansible-os_monasca,Core,3.007518796992481,1.9230769230769231,6,12
+openstack/taskflow,openstack/openstack-ansible-os_monasca,Non core,1.5037593984962405,3.8461538461538463,6,12
+openstack/taskflow,openstack/openstack-ansible-os_monasca-agent,Core,1.6129032258064515,1.5463917525773196,3,8
+openstack/taskflow,openstack/openstack-ansible-os_monasca-agent,Non core,0.8064516129032258,2.5773195876288657,3,8
+openstack/taskflow,openstack/ironic-inspector-specs,Core,2.479338842975207,1.4563106796116505,6,7
+openstack/taskflow,openstack/ironic-inspector-specs,Non core,2.479338842975207,1.9417475728155338,6,7
+openstack/taskflow,openstack/sushy-cli,Core,2.7777777777777777,0.5681818181818182,3,1
+openstack/taskflow,openstack/sushy-cli,Non core,0.0,0.0,3,1
+openstack/taskflow,openstack/puppet-glare,Core,4.0,1.5957446808510638,7,8
+openstack/taskflow,openstack/puppet-glare,Non core,1.6,2.6595744680851063,7,8
+openstack/taskflow,openstack/xstatic-bootstrap-scss,Core,1.9047619047619049,1.1363636363636365,4,5
+openstack/taskflow,openstack/xstatic-bootstrap-scss,Non core,1.9047619047619049,1.7045454545454544,4,5
+openstack/taskflow,openstack/openstack-planet,Core,3.908794788273615,6.772908366533864,18,23
+openstack/taskflow,openstack/openstack-planet,Non core,1.9543973941368076,2.3904382470119523,18,23
+openstack/taskflow,openstack/charm-interface-keystone-credentials,Core,2.7777777777777777,0.5813953488372093,4,3
+openstack/taskflow,openstack/charm-interface-keystone-credentials,Non core,0.9259259259259258,1.1627906976744187,4,3
+openstack/taskflow,openstack/monasca-kibana-plugin,Core,1.8018018018018018,1.6483516483516485,2,4
+openstack/taskflow,openstack/monasca-kibana-plugin,Non core,0.0,0.5494505494505495,2,4
+openstack/taskflow,openstack/charm-interface-keystone-domain-backend,Core,2.8301886792452833,0.5882352941176471,3,1
+openstack/taskflow,openstack/charm-interface-keystone-domain-backend,Non core,0.0,0.0,3,1
+openstack/taskflow,openstack/devstack-plugin-amqp1,Core,4.587155963302752,5.747126436781609,5,13
+openstack/taskflow,openstack/devstack-plugin-amqp1,Non core,0.0,1.7241379310344827,5,13
+openstack/taskflow,openstack/devstack-plugin-kafka,Core,2.803738317757009,4.046242774566474,3,10
+openstack/taskflow,openstack/devstack-plugin-kafka,Non core,0.0,1.7341040462427744,3,10
+openstack/taskflow,openstack/tripleo-ipsec,Core,2.727272727272727,1.098901098901099,4,4
+openstack/taskflow,openstack/tripleo-ipsec,Non core,0.9090909090909091,1.098901098901099,4,4
+openstack/taskflow,openstack/monasca-grafana-datasource,Core,0.9009009009009009,0.53475935828877,2,3
+openstack/taskflow,openstack/monasca-grafana-datasource,Non core,0.9009009009009009,1.06951871657754,2,3
+openstack/taskflow,openstack/charm-interface-bind-rndc,Core,2.803738317757009,0.5813953488372093,4,2
+openstack/taskflow,openstack/charm-interface-bind-rndc,Non core,0.9345794392523363,0.5813953488372093,4,2
+openstack/taskflow,openstack/charm-interface-rabbitmq,Core,2.8301886792452833,0.5813953488372093,4,3
+openstack/taskflow,openstack/charm-interface-rabbitmq,Non core,0.9433962264150944,1.1627906976744187,4,3
+openstack/taskflow,openstack/charm-interface-openstack-ha,Core,1.8867924528301887,1.1627906976744187,3,3
+openstack/taskflow,openstack/charm-interface-openstack-ha,Non core,0.9433962264150944,0.5813953488372093,3,3
+openstack/taskflow,openstack/charm-interface-gnocchi,Core,2.857142857142857,1.1235955056179776,3,3
+openstack/taskflow,openstack/charm-interface-gnocchi,Non core,0.0,0.5617977528089888,3,3
+openstack/taskflow,openstack/charm-interface-bgp,Core,2.8301886792452833,0.5813953488372093,4,2
+openstack/taskflow,openstack/charm-interface-bgp,Non core,0.9433962264150944,0.5813953488372093,4,2
+openstack/taskflow,openstack/charm-interface-websso-fid-service-provider,Core,0.0,0.591715976331361,0,1
+openstack/taskflow,openstack/charm-interface-websso-fid-service-provider,Non core,0.0,0.0,0,1
+openstack/taskflow,openstack/charm-interface-designate,Core,0.9615384615384616,0.5882352941176471,2,1
+openstack/taskflow,openstack/charm-interface-designate,Non core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/tempest-horizon,Core,4.273504273504273,2.197802197802198,6,6
+openstack/taskflow,openstack/tempest-horizon,Non core,0.8547008547008548,1.098901098901099,6,6
+openstack/taskflow,openstack/logstash-filters,Core,0.0,1.1904761904761905,0,3
+openstack/taskflow,openstack/logstash-filters,Non core,0.0,0.5952380952380952,0,3
+openstack/taskflow,openstack/xstatic-jquery-migrate,Core,1.9230769230769231,1.183431952662722,2,3
+openstack/taskflow,openstack/xstatic-jquery-migrate,Non core,0.0,0.591715976331361,2,3
+openstack/taskflow,openstack/qinling-dashboard,Core,3.7735849056603774,3.488372093023256,4,10
+openstack/taskflow,openstack/qinling-dashboard,Non core,0.0,2.3255813953488373,4,10
+openstack/taskflow,openstack/python-qinlingclient,Core,4.0650406504065035,3.35195530726257,10,13
+openstack/taskflow,openstack/python-qinlingclient,Non core,4.0650406504065035,3.910614525139665,10,13
+openstack/taskflow,openstack/qinling,Core,3.731343283582089,2.631578947368421,13,13
+openstack/taskflow,openstack/qinling,Non core,5.970149253731343,4.2105263157894735,13,13
+openstack/taskflow,openstack/monasca-analytics,Core,5.042016806722689,2.5380710659898478,9,11
+openstack/taskflow,openstack/monasca-analytics,Non core,2.5210084033613445,3.0456852791878175,9,11
+openstack/taskflow,openstack/oslo-incubator,Core,6.395348837209303,7.7798861480075905,30,68
+openstack/taskflow,openstack/oslo-incubator,Non core,2.3255813953488373,5.1233396584440225,30,68
+openstack/taskflow,openstack/puppet-congress,Core,4.0650406504065035,0.546448087431694,9,7
+openstack/taskflow,openstack/puppet-congress,Non core,3.2520325203252036,3.278688524590164,9,7
+openstack/taskflow,openstack/openstack-ansible-os_monasca-ui,Core,2.7027027027027026,1.1049723756906076,4,4
+openstack/taskflow,openstack/openstack-ansible-os_monasca-ui,Non core,0.9009009009009009,1.1049723756906076,4,4
+openstack/taskflow,openstack/auto-scaling-sig,Core,0.9345794392523363,1.1111111111111112,1,2
+openstack/taskflow,openstack/auto-scaling-sig,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack/os-loganalyze,Core,4.0,6.5,6,17
+openstack/taskflow,openstack/os-loganalyze,Non core,0.8,2.0,6,17
+openstack/taskflow,openstack/devstack-plugin-pika,Core,1.9047619047619049,4.191616766467066,2,10
+openstack/taskflow,openstack/devstack-plugin-pika,Non core,0.0,1.7964071856287425,2,10
+openstack/taskflow,openstack/devstack-plugin-zmq,Core,4.716981132075472,4.733727810650888,6,11
+openstack/taskflow,openstack/devstack-plugin-zmq,Non core,0.9433962264150944,1.7751479289940828,6,11
+openstack/taskflow,openstack/networking-l2gw,Core,5.128205128205128,4.794520547945205,14,25
+openstack/taskflow,openstack/networking-l2gw,Non core,3.8461538461538463,3.767123287671233,14,25
+openstack/taskflow,openstack/networking-l2gw-tempest-plugin,Core,0.8928571428571428,1.6216216216216217,2,4
+openstack/taskflow,openstack/networking-l2gw-tempest-plugin,Non core,0.8928571428571428,0.5405405405405406,2,4
+openstack/taskflow,openstack/charm-interface-ceph-mds,Core,2.8301886792452833,0.0,4,1
+openstack/taskflow,openstack/charm-interface-ceph-mds,Non core,0.9433962264150944,0.5847953216374269,4,1
+openstack/taskflow,openstack/xstatic-angular-ui-router,Core,2.941176470588235,2.380952380952381,3,5
+openstack/taskflow,openstack/xstatic-angular-ui-router,Non core,0.0,0.5952380952380952,3,5
+openstack/taskflow,openstack/xstatic-vis,Core,2.912621359223301,1.7857142857142856,3,3
+openstack/taskflow,openstack/xstatic-vis,Non core,0.0,0.0,3,3
+openstack/taskflow,openstack/cookbook-openstack-database,Core,2.7777777777777777,1.639344262295082,3,6
+openstack/taskflow,openstack/cookbook-openstack-database,Non core,0.0,1.639344262295082,3,6
+openstack/taskflow,openstack/cookbook-openstack-data-processing,Core,1.8867924528301887,1.694915254237288,2,6
+openstack/taskflow,openstack/cookbook-openstack-data-processing,Non core,0.0,1.694915254237288,2,6
+openstack/taskflow,openstack/trove-integration,Core,3.0864197530864197,2.788844621513944,6,16
+openstack/taskflow,openstack/trove-integration,Non core,0.6172839506172839,3.5856573705179287,6,16
+openstack/taskflow,openstack/ansible-role-tripleo-sensu,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/python-ceilometerclient,Core,7.179487179487179,7.32484076433121,22,36
+openstack/taskflow,openstack/python-ceilometerclient,Non core,4.102564102564102,4.140127388535031,22,36
+openstack/taskflow,openstack/keystoneauth-saml2,Core,3.6036036036036037,3.2085561497326207,4,12
+openstack/taskflow,openstack/keystoneauth-saml2,Non core,0.0,3.2085561497326207,4,12
+openstack/taskflow,openstack/murano-deployment,Core,3.8461538461538463,1.0204081632653061,8,6
+openstack/taskflow,openstack/murano-deployment,Non core,2.307692307692308,2.0408163265306123,8,6
+openstack/taskflow,openstack/python-keystoneclient-kerberos,Core,3.6036036036036037,3.225806451612903,4,11
+openstack/taskflow,openstack/python-keystoneclient-kerberos,Non core,0.0,2.6881720430107525,4,11
+openstack/taskflow,openstack/python-wsmanclient,Core,0.9523809523809524,0.5813953488372093,1,2
+openstack/taskflow,openstack/python-wsmanclient,Non core,0.0,0.5813953488372093,1,2
+openstack/taskflow,openstack/fuel-upgrade,Core,2.7777777777777777,1.06951871657754,4,5
+openstack/taskflow,openstack/fuel-upgrade,Non core,0.9259259259259258,1.6042780748663104,4,5
+openstack/taskflow,openstack/cookbook-openstack-object-storage,Core,2.3622047244094486,1.477832512315271,3,5
+openstack/taskflow,openstack/cookbook-openstack-object-storage,Non core,0.0,0.9852216748768473,3,5
+openstack/taskflow,openstack/fairy-slipper,Core,1.8691588785046727,2.272727272727273,3,6
+openstack/taskflow,openstack/fairy-slipper,Non core,0.9345794392523363,1.1363636363636365,3,6
+openstack/taskflow,openstack/django-openstack-auth-kerberos,Core,1.9047619047619049,1.1363636363636365,3,6
+openstack/taskflow,openstack/django-openstack-auth-kerberos,Non core,0.9523809523809524,2.272727272727273,3,6
+openstack/taskflow,openstack/horizon-cisco-ui,Core,3.6363636363636362,1.744186046511628,5,7
+openstack/taskflow,openstack/horizon-cisco-ui,Non core,0.9090909090909091,2.3255813953488373,5,7
+openstack/taskflow,openstack/zuul-packaging,Core,1.9417475728155338,2.3529411764705883,2,6
+openstack/taskflow,openstack/zuul-packaging,Non core,0.0,1.1764705882352942,2,6
+openstack/taskflow,openstack/networking-generic-switch-tempest-plugin,Core,0.9708737864077669,0.6024096385542169,1,1
+openstack/taskflow,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/tripleo-incubator,Core,4.25531914893617,7.07070707070707,11,31
+openstack/taskflow,openstack/tripleo-incubator,Non core,1.5957446808510638,3.3670033670033668,11,31
+openstack/taskflow,openstack/ironic-webclient,Core,0.9259259259259258,1.0638297872340425,1,8
+openstack/taskflow,openstack/ironic-webclient,Non core,0.0,3.1914893617021276,1,8
+openstack/taskflow,openstack/puppet-crane,Core,0.9708737864077669,1.2048192771084338,1,3
+openstack/taskflow,openstack/puppet-crane,Non core,0.0,0.6024096385542169,1,3
+openstack/taskflow,openstack/release-tools,Core,8.94308943089431,7.042253521126761,13,25
+openstack/taskflow,openstack/release-tools,Non core,1.6260162601626018,4.694835680751173,13,25
+openstack/taskflow,openstack/gnocchi,Core,4.294478527607362,3.64963503649635,8,21
+openstack/taskflow,openstack/gnocchi,Non core,0.6134969325153374,4.014598540145985,8,21
+openstack/taskflow,openstack/networking-ofagent,Core,3.7037037037037033,2.73224043715847,5,8
+openstack/taskflow,openstack/networking-ofagent,Non core,0.9259259259259258,1.639344262295082,5,8
+openstack/taskflow,openstack/python-neutron-pd-driver,Core,0.9615384615384616,1.1976047904191618,1,3
+openstack/taskflow,openstack/python-neutron-pd-driver,Non core,0.0,0.5988023952095809,1,3
+openstack/taskflow,openstack/charm-ceph,Core,0.8403361344537815,0.5555555555555556,3,5
+openstack/taskflow,openstack/charm-ceph,Non core,1.680672268907563,2.2222222222222223,3,5
+openstack/taskflow,openstack/openstack-ansible-os_freezer,Core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/openstack-ansible-pip_lock_down,Core,4.545454545454546,1.1299435028248588,6,4
+openstack/taskflow,openstack/openstack-ansible-pip_lock_down,Non core,0.9090909090909091,1.1299435028248588,6,4
+openstack/taskflow,openstack/openstack-ansible-security,Core,6.0606060606060606,2.2123893805309733,9,9
+openstack/taskflow,openstack/openstack-ansible-security,Non core,0.7575757575757576,1.7699115044247788,9,9
+openstack/taskflow,openstack/oslosphinx,Core,12.698412698412698,9.35960591133005,23,32
+openstack/taskflow,openstack/oslosphinx,Non core,5.555555555555555,6.403940886699508,23,32
+openstack/taskflow,openstack/python-gnocchiclient,Core,3.149606299212598,2.083333333333333,6,6
+openstack/taskflow,openstack/python-gnocchiclient,Non core,1.574803149606299,1.0416666666666665,6,6
+openstack/taskflow,openstack/ansible-role-k8s-cinder,Core,0.9615384615384616,0.5952380952380952,1,1
+openstack/taskflow,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/ansible-role-k8s-cookiecutter,Core,1.9417475728155338,1.1904761904761905,2,2
+openstack/taskflow,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,2,2
+openstack/taskflow,openstack/ansible-role-k8s-glance,Core,2.912621359223301,1.1904761904761905,3,2
+openstack/taskflow,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,3,2
+openstack/taskflow,openstack/ansible-role-k8s-keystone,Core,2.912621359223301,0.5847953216374269,3,1
+openstack/taskflow,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,3,1
+openstack/taskflow,openstack/ansible-role-k8s-mariadb,Core,2.8846153846153846,1.1764705882352942,3,2
+openstack/taskflow,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,3,2
+openstack/taskflow,openstack/ansible-role-k8s-rabbitmq,Core,0.9708737864077669,0.6024096385542169,1,1
+openstack/taskflow,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/ansible-role-k8s-tripleo,Core,2.912621359223301,1.183431952662722,3,2
+openstack/taskflow,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,3,2
+openstack/taskflow,openstack/ansible-role-tripleo-ui,Core,1.8691588785046727,1.1764705882352942,2,3
+openstack/taskflow,openstack/ansible-role-tripleo-ui,Non core,0.0,0.5882352941176471,2,3
+openstack/taskflow,openstack/ansible-role-tripleo-aodh,Core,1.8691588785046727,0.5847953216374269,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.5847953216374269,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-barbican,Core,1.8691588785046727,0.5882352941176471,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-ceilometer,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-cinder,Core,1.8691588785046727,0.5882352941176471,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-cookiecutter,Core,3.669724770642202,1.1428571428571428,4,5
+openstack/taskflow,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,1.7142857142857144,4,5
+openstack/taskflow,openstack/tripleo-ui,Core,3.8461538461538463,3.65296803652968,7,16
+openstack/taskflow,openstack/tripleo-ui,Non core,1.5384615384615385,3.65296803652968,7,16
+openstack/taskflow,openstack/ansible-role-tripleo-ovn,Core,1.8691588785046727,0.5882352941176471,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-opendaylight,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-octavia,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-nova,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-nova,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/os-cloud-config,Core,6.25,4.621848739495799,10,21
+openstack/taskflow,openstack/os-cloud-config,Non core,0.6944444444444444,4.201680672268908,10,21
+openstack/taskflow,openstack/ansible-role-tripleo-zaqar,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-tempest,Core,1.8691588785046727,0.591715976331361,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.591715976331361,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-sahara,Core,1.8691588785046727,0.5882352941176471,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-swift,Core,1.8691588785046727,0.5882352941176471,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-tacker,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,1.8691588785046727,0.5882352941176471,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-rabbitmq,Core,1.8691588785046727,0.5882352941176471,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-qdrouterd,Core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/ansible-role-tripleo-panko,Core,1.8691588785046727,0.5882352941176471,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-heat,Core,1.8691588785046727,0.5882352941176471,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,2,1
+openstack/taskflow,openstack/ansible-role-tripleo-haproxy,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-gnocchi,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-glance,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-glance,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-designate,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-designate,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-neutron,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-mistral,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-memcached,Core,1.8691588785046727,0.5882352941176471,2,3
+openstack/taskflow,openstack/ansible-role-tripleo-memcached,Non core,0.0,1.1764705882352942,2,3
+openstack/taskflow,openstack/ansible-role-tripleo-manila,Core,1.8691588785046727,0.5847953216374269,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-manila,Non core,0.0,0.5847953216374269,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-ironic,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-keepalived,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-horizon,Core,1.8691588785046727,0.5882352941176471,2,2
+openstack/taskflow,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/pylockfile,Core,4.716981132075472,6.547619047619048,5,17
+openstack/taskflow,openstack/pylockfile,Non core,0.0,3.571428571428571,5,17
+openstack/taskflow,openstack/xstatic-moment-timezone,Core,1.9417475728155338,1.8072289156626504,2,3
+openstack/taskflow,openstack/xstatic-moment-timezone,Non core,0.0,0.0,2,3
+openstack/taskflow,openstack/xstatic-dagre-d3,Core,1.9417475728155338,1.8072289156626504,2,3
+openstack/taskflow,openstack/xstatic-dagre-d3,Non core,0.0,0.0,2,3
+openstack/taskflow,openstack/xstatic-dagre,Core,0.9708737864077669,1.2048192771084338,1,2
+openstack/taskflow,openstack/xstatic-dagre,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack/dragonflow,Core,5.339805825242718,3.9755351681957185,21,30
+openstack/taskflow,openstack/dragonflow,Non core,4.854368932038835,5.198776758409786,21,30
+openstack/taskflow,openstack/openstack,Core,1.9230769230769231,6.470588235294119,3,13
+openstack/taskflow,openstack/openstack,Non core,0.9615384615384616,1.1764705882352942,3,13
+openstack/taskflow,openstack/charm-interface-pacemaker-remote,Core,0.9523809523809524,0.5847953216374269,2,3
+openstack/taskflow,openstack/charm-interface-pacemaker-remote,Non core,0.9523809523809524,1.1695906432748537,2,3
+openstack/taskflow,openstack/networking-onos,Core,1.7241379310344827,0.966183574879227,3,8
+openstack/taskflow,openstack/networking-onos,Non core,0.8620689655172413,2.898550724637681,3,8
+openstack/taskflow,openstack/solum-infra-guestagent,Core,1.8867924528301887,1.1363636363636365,3,3
+openstack/taskflow,openstack/solum-infra-guestagent,Non core,0.9433962264150944,0.5681818181818182,3,3
+openstack/taskflow,openstack/openstack-ux,Core,0.9523809523809524,0.5494505494505495,1,2
+openstack/taskflow,openstack/openstack-ux,Non core,0.0,0.5494505494505495,1,2
+openstack/taskflow,openstack/mox3,Core,7.82608695652174,9.03954802259887,14,26
+openstack/taskflow,openstack/mox3,Non core,4.3478260869565215,5.649717514124294,14,26
+openstack/taskflow,openstack/charm-layer-ceph,Core,0.9615384615384616,0.0,1,0
+openstack/taskflow,openstack/charm-layer-ceph,Non core,0.0,0.0,1,0
+openstack/taskflow,openstack/charm-layer-ceph-base,Core,1.9047619047619049,0.0,2,1
+openstack/taskflow,openstack/charm-layer-ceph-base,Non core,0.0,0.5882352941176471,2,1
+openstack/taskflow,openstack/python-tricircleclient,Core,3.508771929824561,2.7027027027027026,7,10
+openstack/taskflow,openstack/python-tricircleclient,Non core,2.631578947368421,2.7027027027027026,7,10
+openstack/taskflow,openstack/tricircle,Core,5.421686746987952,3.202846975088968,17,23
+openstack/taskflow,openstack/tricircle,Non core,4.819277108433735,4.98220640569395,17,23
+openstack/taskflow,openstack/swift-specs,Core,4.132231404958678,1.3333333333333335,5,5
+openstack/taskflow,openstack/swift-specs,Non core,0.0,0.8888888888888888,5,5
+openstack/taskflow,openstack/congress,Core,4.680851063829787,4.373177842565598,20,33
+openstack/taskflow,openstack/congress,Non core,3.829787234042553,5.247813411078718,20,33
+openstack/taskflow,openstack/congress-tempest-plugin,Core,1.6666666666666667,1.6129032258064515,2,5
+openstack/taskflow,openstack/congress-tempest-plugin,Non core,0.0,1.0752688172043012,2,5
+openstack/taskflow,openstack/python-congressclient,Core,4.861111111111112,3.431372549019608,10,14
+openstack/taskflow,openstack/python-congressclient,Non core,2.083333333333333,3.431372549019608,10,14
+openstack/taskflow,openstack/congress-specs,Core,4.615384615384616,1.4563106796116505,7,7
+openstack/taskflow,openstack/congress-specs,Non core,0.7692307692307693,1.9417475728155338,7,7
+openstack/taskflow,openstack/congress-dashboard,Core,3.278688524590164,4.301075268817205,5,14
+openstack/taskflow,openstack/congress-dashboard,Non core,0.819672131147541,3.225806451612903,5,14
+openstack/taskflow,openstack/syntribos,Core,4.838709677419355,1.0309278350515463,9,7
+openstack/taskflow,openstack/syntribos,Non core,2.4193548387096775,2.5773195876288657,9,7
+openstack/taskflow,openstack/syntribos-payloads,Core,0.9708737864077669,0.0,1,1
+openstack/taskflow,openstack/syntribos-payloads,Non core,0.0,0.5847953216374269,1,1
+openstack/taskflow,openstack/syntribos-openstack-templates,Core,0.9523809523809524,0.0,1,1
+openstack/taskflow,openstack/syntribos-openstack-templates,Non core,0.0,0.5780346820809248,1,1
+openstack/taskflow,openstack/i18n-specs,Core,1.9417475728155338,1.1764705882352942,2,3
+openstack/taskflow,openstack/i18n-specs,Non core,0.0,0.5882352941176471,2,3
+openstack/taskflow,openstack/tempest-plugin-cookiecutter,Core,1.9047619047619049,1.7241379310344827,2,4
+openstack/taskflow,openstack/tempest-plugin-cookiecutter,Non core,0.0,0.5747126436781609,2,4
+openstack/taskflow,openstack/devstack-plugin-cookiecutter,Core,1.9230769230769231,1.7964071856287425,2,4
+openstack/taskflow,openstack/devstack-plugin-cookiecutter,Non core,0.0,0.5988023952095809,2,4
+openstack/taskflow,openstack/xstatic-graphlib,Core,0.9803921568627451,1.1976047904191618,1,2
+openstack/taskflow,openstack/xstatic-graphlib,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack/openstack-ansible-repo_build,Core,3.2467532467532463,1.6877637130801686,7,12
+openstack/taskflow,openstack/openstack-ansible-repo_build,Non core,1.2987012987012987,3.375527426160337,7,12
+openstack/taskflow,openstack/xstatic-bootstrap-datepicker,Core,1.8867924528301887,1.1299435028248588,4,5
+openstack/taskflow,openstack/xstatic-bootstrap-datepicker,Non core,1.8867924528301887,1.694915254237288,4,5
+openstack/taskflow,openstack/xstatic-hogan,Core,1.9417475728155338,1.1904761904761905,2,3
+openstack/taskflow,openstack/xstatic-hogan,Non core,0.0,0.5952380952380952,2,3
+openstack/taskflow,openstack/xstatic-jquery.quicksearch,Core,1.9417475728155338,1.1904761904761905,2,3
+openstack/taskflow,openstack/xstatic-jquery.quicksearch,Non core,0.0,0.5952380952380952,2,3
+openstack/taskflow,openstack/openstack-ansible-os_molteniron,Core,1.639344262295082,1.0638297872340425,4,8
+openstack/taskflow,openstack/openstack-ansible-os_molteniron,Non core,1.639344262295082,3.1914893617021276,4,8
+openstack/taskflow,openstack/xstatic-angular-lrdragndrop,Core,1.9047619047619049,1.1494252873563218,4,5
+openstack/taskflow,openstack/xstatic-angular-lrdragndrop,Non core,1.9047619047619049,1.7241379310344827,4,5
+openstack/taskflow,openstack/faafo,Core,4.62962962962963,1.1363636363636365,5,7
+openstack/taskflow,openstack/faafo,Non core,0.0,2.840909090909091,5,7
+openstack/taskflow,openstack/xstatic-angular-bootstrap,Core,2.803738317757009,2.2598870056497176,5,7
+openstack/taskflow,openstack/xstatic-angular-bootstrap,Non core,1.8691588785046727,1.694915254237288,5,7
+openstack/taskflow,openstack/networking-calico,Core,3.875968992248062,1.8779342723004695,7,10
+openstack/taskflow,openstack/networking-calico,Non core,1.550387596899225,2.8169014084507045,7,10
+openstack/taskflow,openstack/xstatic-angular-gettext,Core,1.8867924528301887,0.5714285714285714,3,4
+openstack/taskflow,openstack/xstatic-angular-gettext,Non core,0.9433962264150944,1.7142857142857144,3,4
+openstack/taskflow,openstack/shotgun,Core,0.8333333333333334,0.8547008547008548,2,5
+openstack/taskflow,openstack/shotgun,Non core,0.8333333333333334,1.282051282051282,2,5
+openstack/taskflow,openstack/deb-python-aioeventlet,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-aioeventlet,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/fuel-devops,Core,3.1645569620253164,1.0204081632653061,6,12
+openstack/taskflow,openstack/fuel-devops,Non core,0.6329113924050633,3.061224489795918,6,12
+openstack/taskflow,openstack/fuel-plugin-murano,Core,1.7857142857142856,0.5208333333333333,3,3
+openstack/taskflow,openstack/fuel-plugin-murano,Non core,0.8928571428571428,1.0416666666666665,3,3
+openstack/taskflow,openstack/fuel-web,Core,2.6490066225165565,1.8832391713747645,11,24
+openstack/taskflow,openstack/fuel-web,Non core,0.9933774834437087,2.6365348399246704,11,24
+openstack/taskflow,openstack/fuel-plugins,Core,2.797202797202797,0.38314176245210724,5,5
+openstack/taskflow,openstack/fuel-plugins,Non core,0.6993006993006993,1.532567049808429,5,5
+openstack/taskflow,openstack/fuel-virtualbox,Core,2.7522935779816518,0.5405405405405406,3,2
+openstack/taskflow,openstack/fuel-virtualbox,Non core,0.0,0.5405405405405406,3,2
+openstack/taskflow,openstack/fuel-ostf,Core,4.736842105263158,1.3736263736263736,10,13
+openstack/taskflow,openstack/fuel-ostf,Non core,0.5263157894736842,2.197802197802198,10,13
+openstack/taskflow,openstack/fuel-qa,Core,2.272727272727273,1.0050251256281406,6,12
+openstack/taskflow,openstack/fuel-qa,Non core,0.45454545454545453,2.0100502512562812,6,12
+openstack/taskflow,openstack/fuel-specs,Core,2.5,2.0044543429844097,5,14
+openstack/taskflow,openstack/fuel-specs,Non core,0.0,1.1135857461024499,5,14
+openstack/taskflow,openstack/fuel-nailgun-extension-cluster-upgrade,Core,1.8018018018018018,1.0869565217391304,2,3
+openstack/taskflow,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,0.5434782608695652,2,3
+openstack/taskflow,openstack/fuel-nailgun-agent,Core,2.18978102189781,0.3875968992248062,3,4
+openstack/taskflow,openstack/fuel-nailgun-agent,Non core,0.0,1.1627906976744187,3,4
+openstack/taskflow,openstack/fuel-mirror,Core,2.272727272727273,0.38314176245210724,3,6
+openstack/taskflow,openstack/fuel-mirror,Non core,0.0,1.9157088122605364,3,6
+openstack/taskflow,openstack/fuel-menu,Core,3.0534351145038165,0.7326007326007326,6,6
+openstack/taskflow,openstack/fuel-menu,Non core,1.5267175572519083,1.465201465201465,6,6
+openstack/taskflow,openstack/fuel-main,Core,2.553191489361702,1.5,6,13
+openstack/taskflow,openstack/fuel-main,Non core,0.0,1.7500000000000002,6,13
+openstack/taskflow,openstack/fuel-ui,Core,2.127659574468085,0.4016064257028112,3,5
+openstack/taskflow,openstack/fuel-ui,Non core,0.0,1.6064257028112447,3,5
+openstack/taskflow,openstack/fuel-library,Core,3.0716723549488054,1.9031141868512111,9,26
+openstack/taskflow,openstack/fuel-library,Non core,0.0,2.5951557093425603,9,26
+openstack/taskflow,openstack/fuel-dev-tools,Core,4.504504504504505,0.546448087431694,5,4
+openstack/taskflow,openstack/fuel-dev-tools,Non core,0.0,1.639344262295082,5,4
+openstack/taskflow,openstack/fuel-stats,Core,6.140350877192982,0.9615384615384616,9,5
+openstack/taskflow,openstack/fuel-stats,Non core,1.7543859649122806,1.4423076923076923,9,5
+openstack/taskflow,openstack/fuel-nailgun-extension-converted-serializers,Core,0.9615384615384616,0.5952380952380952,1,2
+openstack/taskflow,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,0.5952380952380952,1,2
+openstack/taskflow,openstack/fuel-nailgun-extension-iac,Core,1.9047619047619049,0.5882352941176471,2,2
+openstack/taskflow,openstack/fuel-nailgun-extension-iac,Non core,0.0,0.5882352941176471,2,2
+openstack/taskflow,openstack/fuel-plugin-murano-tests,Core,1.7857142857142856,0.5208333333333333,2,3
+openstack/taskflow,openstack/fuel-plugin-murano-tests,Non core,0.0,1.0416666666666665,2,3
+openstack/taskflow,openstack/fuel-astute,Core,2.4390243902439024,0.641025641025641,4,6
+openstack/taskflow,openstack/fuel-astute,Non core,0.0,1.282051282051282,4,6
+openstack/taskflow,openstack/fuel-docs,Core,1.0256410256410255,1.956521739130435,3,20
+openstack/taskflow,openstack/fuel-docs,Non core,0.5128205128205128,2.391304347826087,3,20
+openstack/taskflow,openstack/fuel-agent,Core,4.9079754601226995,0.9868421052631579,9,10
+openstack/taskflow,openstack/fuel-agent,Non core,0.6134969325153374,2.302631578947368,9,10
+openstack/taskflow,openstack/fuel-octane,Core,3.875968992248062,0.9433962264150944,5,9
+openstack/taskflow,openstack/fuel-octane,Non core,0.0,3.30188679245283,5,9
+openstack/taskflow,openstack/tuning-box,Core,0.9345794392523363,1.06951871657754,1,5
+openstack/taskflow,openstack/tuning-box,Non core,0.0,1.6042780748663104,1,5
+openstack/taskflow,openstack/python-fuelclient,Core,2.3952095808383236,1.342281879194631,5,14
+openstack/taskflow,openstack/python-fuelclient,Non core,0.5988023952095809,3.3557046979865772,5,14
+openstack/taskflow,openstack/neutron-interconnection,Core,0.0,2.312138728323699,1,4
+openstack/taskflow,openstack/neutron-interconnection,Non core,0.9615384615384616,0.0,1,4
+openstack/taskflow,openstack/openstack-chef-repo,Core,1.4184397163120568,1.8779342723004695,3,7
+openstack/taskflow,openstack/openstack-chef-repo,Non core,0.7092198581560284,1.4084507042253522,3,7
+openstack/taskflow,openstack/os-acc,Core,0.0,2.2222222222222223,0,4
+openstack/taskflow,openstack/os-acc,Non core,0.0,0.0,0,4
+openstack/taskflow,openstack/openstack-ansible-os_zaqar,Core,3.0303030303030303,0.966183574879227,7,7
+openstack/taskflow,openstack/openstack-ansible-os_zaqar,Non core,2.272727272727273,2.4154589371980677,7,7
+openstack/taskflow,openstack/openstack-ansible-os_watcher,Core,1.5384615384615385,1.5228426395939088,4,9
+openstack/taskflow,openstack/openstack-ansible-os_watcher,Non core,1.5384615384615385,3.0456852791878175,4,9
+openstack/taskflow,openstack/openstack-ansible-os_searchlight,Core,1.639344262295082,0.5208333333333333,4,5
+openstack/taskflow,openstack/openstack-ansible-os_searchlight,Non core,1.639344262295082,2.083333333333333,4,5
+openstack/taskflow,openstack/xstatic-angular-vis,Core,0.9708737864077669,0.6024096385542169,1,1
+openstack/taskflow,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/xstatic-font-awesome,Core,1.9047619047619049,0.5714285714285714,4,4
+openstack/taskflow,openstack/xstatic-font-awesome,Non core,1.9047619047619049,1.7142857142857144,4,4
+openstack/taskflow,openstack/xstatic-jasmine,Core,2.7522935779816518,0.5649717514124294,4,4
+openstack/taskflow,openstack/xstatic-jasmine,Non core,0.9174311926605505,1.694915254237288,4,4
+openstack/taskflow,openstack/xstatic-angular-notify,Core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/xstatic-angular-material,Core,1.9230769230769231,1.1904761904761905,2,2
+openstack/taskflow,openstack/xstatic-angular-material,Non core,0.0,0.0,2,2
+openstack/taskflow,openstack/tempest-tripleo-ui,Core,0.9523809523809524,0.5649717514124294,1,1
+openstack/taskflow,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/docs-specs,Core,5.714285714285714,7.964601769911504,10,33
+openstack/taskflow,openstack/docs-specs,Non core,1.4285714285714286,1.7699115044247788,10,33
+openstack/taskflow,openstack/release-schedule-generator,Core,1.9230769230769231,3.6363636363636362,2,7
+openstack/taskflow,openstack/release-schedule-generator,Non core,0.0,0.6060606060606061,2,7
+openstack/taskflow,openstack-infra/opendev-website,Core,0.9708737864077669,2.9940119760479043,1,5
+openstack/taskflow,openstack-infra/opendev-website,Non core,0.0,0.0,1,5
+openstack/taskflow,openstack/castellan-ui,Core,1.8867924528301887,2.2222222222222223,2,6
+openstack/taskflow,openstack/castellan-ui,Non core,0.0,1.1111111111111112,2,6
+openstack/taskflow,openstack-attic/compute-api,Core,1.6260162601626018,3.0927835051546393,3,8
+openstack/taskflow,openstack-attic/compute-api,Non core,0.8130081300813009,1.0309278350515463,3,8
+openstack/taskflow,openstack/charm-neutron-api-odl,Core,0.9090909090909091,0.0,3,2
+openstack/taskflow,openstack/charm-neutron-api-odl,Non core,1.8181818181818181,1.1428571428571428,3,2
+openstack/taskflow,openstack/charm-manila-glusterfs,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/charm-manila-glusterfs,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/charm-murano,Core,0.9615384615384616,0.0,1,1
+openstack/taskflow,openstack/charm-murano,Non core,0.0,0.5952380952380952,1,1
+openstack/taskflow,openstack/charm-openvswitch-odl,Core,0.9090909090909091,0.0,3,2
+openstack/taskflow,openstack/charm-openvswitch-odl,Non core,1.8181818181818181,1.1560693641618496,3,2
+openstack/taskflow,openstack/charm-interface-odl-controller-api,Core,1.9230769230769231,0.0,2,1
+openstack/taskflow,openstack/charm-interface-odl-controller-api,Non core,0.0,0.5952380952380952,2,1
+openstack/taskflow,openstack/charm-glusterfs,Core,0.9615384615384616,0.0,1,1
+openstack/taskflow,openstack/charm-glusterfs,Non core,0.0,0.5780346820809248,1,1
+openstack/taskflow,openstack/charm-trove,Core,0.9345794392523363,0.0,3,2
+openstack/taskflow,openstack/charm-trove,Non core,1.8691588785046727,1.1695906432748537,3,2
+openstack/taskflow,openstack/deb-python-positional,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-positional,Non core,0.9708737864077669,0.5952380952380952,1,1
+openstack/taskflow,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-requests-unixsocket,Non core,0.9615384615384616,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-traceback2,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-traceback2,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-ryu,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-ryu,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-linecache2,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-linecache2,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-gabbi,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-gabbi,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-cotyledon,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-cotyledon,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-migrate,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-migrate,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/fuxi,Core,2.4390243902439024,1.4705882352941175,7,8
+openstack/taskflow,openstack/fuxi,Non core,3.2520325203252036,2.450980392156863,7,8
+openstack/taskflow,openstack/xstatic-filesaver,Core,0.9708737864077669,0.6024096385542169,1,1
+openstack/taskflow,openstack/xstatic-filesaver,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/xstatic-angular-uuid,Core,0.9708737864077669,0.6024096385542169,1,1
+openstack/taskflow,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/bandit,Core,4.545454545454546,4.6082949308755765,8,19
+openstack/taskflow,openstack/bandit,Non core,0.6493506493506493,4.147465437788019,8,19
+openstack/taskflow,openstack/xstatic-angular-smart-table,Core,1.9230769230769231,0.5847953216374269,2,2
+openstack/taskflow,openstack/xstatic-angular-smart-table,Non core,0.0,0.5847953216374269,2,2
+openstack/taskflow,openstack/xstatic-bootswatch,Core,1.9230769230769231,0.5747126436781609,3,5
+openstack/taskflow,openstack/xstatic-bootswatch,Non core,0.9615384615384616,2.2988505747126435,3,5
+openstack/taskflow,openstack/deb-msgpack-python,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-msgpack-python,Non core,0.9708737864077669,0.5952380952380952,1,1
+openstack/taskflow,openstack/xstatic-d3,Core,1.9230769230769231,0.5714285714285714,4,4
+openstack/taskflow,openstack/xstatic-d3,Non core,1.9230769230769231,1.7142857142857144,4,4
+openstack/taskflow,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/deb-python-pymemcache,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pymemcache,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-novnc,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-novnc,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/instack,Core,3.3333333333333335,2.072538860103627,5,9
+openstack/taskflow,openstack/instack,Non core,0.8333333333333334,2.5906735751295336,5,9
+openstack/taskflow,openstack/deb-python-pysaml2,Core,0.0,0.0,1,2
+openstack/taskflow,openstack/deb-python-pysaml2,Non core,0.9708737864077669,1.1904761904761905,1,2
+openstack/taskflow,openstack/deb-python-trollius,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-trollius,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-autobahn,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-autobahn,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-pyldap,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pyldap,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/astara,Core,4.580152671755725,1.4634146341463417,9,10
+openstack/taskflow,openstack/astara,Non core,2.2900763358778624,3.414634146341464,9,10
+openstack/taskflow,openstack/astara-appliance,Core,1.7391304347826086,1.0869565217391304,2,6
+openstack/taskflow,openstack/astara-appliance,Non core,0.0,2.1739130434782608,2,6
+openstack/taskflow,openstack/astara-horizon,Core,1.8518518518518516,0.5617977528089888,2,5
+openstack/taskflow,openstack/astara-horizon,Non core,0.0,2.247191011235955,2,5
+openstack/taskflow,openstack/astara-neutron,Core,1.7857142857142856,0.5555555555555556,2,4
+openstack/taskflow,openstack/astara-neutron,Non core,0.0,1.6666666666666667,2,4
+openstack/taskflow,openstack/anchor,Core,1.5873015873015872,2.0202020202020203,4,11
+openstack/taskflow,openstack/anchor,Non core,1.5873015873015872,3.535353535353535,4,11
+openstack/taskflow,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/fuxi-golang,Core,0.9803921568627451,0.591715976331361,1,1
+openstack/taskflow,openstack/fuxi-golang,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/fuxi-kubernetes,Core,0.9708737864077669,0.5780346820809248,1,2
+openstack/taskflow,openstack/fuxi-kubernetes,Non core,0.0,0.5780346820809248,1,2
+openstack/taskflow,openstack-infra/puppet-odsreg,Core,0.9345794392523363,3.508771929824561,1,9
+openstack/taskflow,openstack-infra/puppet-odsreg,Non core,0.0,1.7543859649122806,1,9
+openstack/taskflow,openstack-infra/puppet-docker_registry,Core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/releasestatus,Core,1.9417475728155338,2.380952380952381,2,6
+openstack/taskflow,openstack/releasestatus,Non core,0.0,1.1904761904761905,2,6
+openstack/taskflow,openstack-infra/vinz-webclient,Core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack-infra/vinz-webclient,Non core,0.0,0.0,1,1
+openstack/taskflow,openstack/activity-board,Core,2.608695652173913,5.555555555555555,3,16
+openstack/taskflow,openstack/activity-board,Non core,0.0,2.525252525252525,3,16
+openstack/taskflow,openstack-infra/beaker-localhost,Core,0.9803921568627451,1.2048192771084338,1,2
+openstack/taskflow,openstack-infra/beaker-localhost,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack-infra/beaker-nodepool,Core,0.9803921568627451,1.2048192771084338,1,2
+openstack/taskflow,openstack-infra/beaker-nodepool,Non core,0.0,0.0,1,2
+openstack/taskflow,openstack/rst2bash,Core,1.9230769230769231,1.744186046511628,2,4
+openstack/taskflow,openstack/rst2bash,Non core,0.0,0.5813953488372093,2,4
+openstack/taskflow,openstack/kolla-kubernetes,Core,2.484472049689441,1.4492753623188406,7,10
+openstack/taskflow,openstack/kolla-kubernetes,Non core,1.8633540372670807,2.1739130434782608,7,10
+openstack/taskflow,openstack/cue-dashboard,Core,3.7037037037037033,1.1695906432748537,5,6
+openstack/taskflow,openstack/cue-dashboard,Non core,0.9259259259259258,2.3391812865497075,5,6
+openstack/taskflow,openstack/python-cueclient,Core,3.6036036036036037,1.7543859649122806,5,6
+openstack/taskflow,openstack/python-cueclient,Non core,0.9009009009009009,1.7543859649122806,5,6
+openstack/taskflow,openstack/cue,Core,3.937007874015748,1.5706806282722512,7,10
+openstack/taskflow,openstack/cue,Non core,1.574803149606299,3.664921465968586,7,10
+openstack/taskflow,openstack/app-catalog,Core,3.205128205128205,0.8928571428571428,8,7
+openstack/taskflow,openstack/app-catalog,Non core,1.9230769230769231,2.232142857142857,8,7
+openstack/taskflow,openstack-attic/identity-api,Core,2.127659574468085,3.361344537815126,4,11
+openstack/taskflow,openstack-attic/identity-api,Non core,0.7092198581560284,1.2605042016806722,4,11
+openstack/taskflow,openstack/deb-python-fixtures,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-fixtures,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/python-magnetodbclient,Core,0.0,0.5780346820809248,0,3
+openstack/taskflow,openstack/python-magnetodbclient,Non core,0.0,1.1560693641618496,0,3
+openstack/taskflow,openstack/app-catalog-ui,Core,2.7777777777777777,0.5555555555555556,3,3
+openstack/taskflow,openstack/app-catalog-ui,Non core,0.0,1.1111111111111112,3,3
+openstack/taskflow,openstack/salt-formula-kubernetes,Core,0.9345794392523363,0.0,1,2
+openstack/taskflow,openstack/salt-formula-kubernetes,Non core,0.0,1.1695906432748537,1,2
+openstack/taskflow,openstack/app-catalog-common,Core,0.0,0.5988023952095809,0,2
+openstack/taskflow,openstack/app-catalog-common,Non core,0.0,0.5988023952095809,0,2
+openstack/taskflow,openstack/python-appcatalogclient,Core,0.0,1.183431952662722,1,3
+openstack/taskflow,openstack/python-appcatalogclient,Non core,0.9523809523809524,0.591715976331361,1,3
+openstack/taskflow,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/deb-nova,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-nova,Non core,0.9615384615384616,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-kazoo,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-kazoo,Non core,0.9708737864077669,0.5952380952380952,1,1
+openstack/taskflow,openstack/deb-python-congressclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-congressclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-congress,Core,0.9803921568627451,0.0,1,1
+openstack/taskflow,openstack/deb-congress,Non core,0.0,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-os-net-config,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-python-os-net-config,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-ironic,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-ironic,Non core,0.9615384615384616,0.5882352941176471,2,1
+openstack/taskflow,openstack/deb-swauth,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-swauth,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-python-os-api-ref,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-os-api-ref,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-designate,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-designate,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-swift,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-swift,Non core,0.9803921568627451,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-manila-ui,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-manila-ui,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-barbican,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-barbican,Non core,0.9615384615384616,0.5882352941176471,2,1
+openstack/taskflow,openstack/deb-cinder,Core,0.9523809523809524,0.0,2,1
+openstack/taskflow,openstack/deb-cinder,Non core,0.9523809523809524,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-magnum,Core,0.9523809523809524,0.0,2,1
+openstack/taskflow,openstack/deb-magnum,Non core,0.9523809523809524,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-trove,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-trove,Non core,0.9708737864077669,0.5847953216374269,2,1
+openstack/taskflow,openstack/deb-openstack-pkg-tools,Core,0.9433962264150944,0.5747126436781609,2,2
+openstack/taskflow,openstack/deb-openstack-pkg-tools,Non core,0.9433962264150944,0.5747126436781609,2,2
+openstack/taskflow,openstack/deb-python-swiftclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-swiftclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-alembic,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-alembic,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-cinderclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-cinderclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-bootstrap,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.9708737864077669,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/deb-networking-nec,Core,0.9803921568627451,0.0,1,1
+openstack/taskflow,openstack/deb-networking-nec,Non core,0.0,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-neutron-taas,Core,0.9803921568627451,0.0,1,1
+openstack/taskflow,openstack/deb-neutron-taas,Non core,0.0,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-networking-mlnx,Core,0.9615384615384616,0.0,1,1
+openstack/taskflow,openstack/deb-networking-mlnx,Non core,0.0,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-openstack-meta-packages,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-openstack-meta-packages,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-networking-odl,Core,0.9803921568627451,0.0,1,1
+openstack/taskflow,openstack/deb-networking-odl,Non core,0.0,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-nodepool,Core,0.9803921568627451,0.0,1,1
+openstack/taskflow,openstack/deb-nodepool,Non core,0.0,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-networking-cisco,Core,0.9803921568627451,0.0,1,1
+openstack/taskflow,openstack/deb-networking-cisco,Non core,0.0,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-networking-midonet,Core,0.9803921568627451,0.0,1,1
+openstack/taskflow,openstack/deb-networking-midonet,Non core,0.0,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-networking-arista,Core,0.9708737864077669,0.0,1,1
+openstack/taskflow,openstack/deb-networking-arista,Non core,0.0,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/deb-networking-hyperv,Core,0.9803921568627451,0.0,1,1
+openstack/taskflow,openstack/deb-networking-hyperv,Non core,0.0,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-rtslib-fb,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-rtslib-fb,Non core,0.9615384615384616,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-murano,Core,0.9523809523809524,0.0,2,1
+openstack/taskflow,openstack/deb-murano,Non core,0.9523809523809524,0.5847953216374269,2,1
+openstack/taskflow,openstack/deb-python-semantic-version,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-semantic-version,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-ldappool,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-ldappool,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-zaqar-ui,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-zaqar-ui,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-zaqar,Core,0.9523809523809524,0.0,2,1
+openstack/taskflow,openstack/deb-zaqar,Non core,0.9523809523809524,0.5847953216374269,2,1
+openstack/taskflow,openstack/deb-watcher,Core,0.9523809523809524,0.0,2,1
+openstack/taskflow,openstack/deb-watcher,Non core,0.9523809523809524,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-os-testr,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-os-testr,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-os-win,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-os-win,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-pycadf,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-pycadf,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-pyghmi,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-pyghmi,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-reno,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-reno,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-os-refresh-config,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-os-refresh-config,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-os-vif,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-os-vif,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-pyeclib,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-python-pyeclib,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-python-quantumclient,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-python-quantumclient,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-python-requestsexceptions,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-requestsexceptions,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-pbr,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-pbr,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-requests-mock,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-requests-mock,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-saharaclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-saharaclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-scciclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-scciclient,Non core,0.9708737864077669,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-python-seamicroclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-seamicroclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-auto-backports,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-auto-backports,Non core,0.9615384615384616,0.5882352941176471,2,1
+openstack/taskflow,openstack/deb-python-senlinclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-senlinclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-taskflow,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-taskflow,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-testtools,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-testtools,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-tooz,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-tooz,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-shotgun,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-shotgun,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-tackerclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-tackerclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-tosca-parser,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-tosca-parser,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-troveclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-troveclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-tuskarclient,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-python-tuskarclient,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-python-watcherclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-watcherclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-cookies,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-cookies,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-fileupload,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-fileupload,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-wsme,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-wsme,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-schema-form,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-schema-form,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-bootswatch,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-bootswatch,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-gettext,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-gettext,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-mock,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-angular-mock,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-bootstrap-scss,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-d3,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-d3,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-hogan,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-hogan,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-font-awesome,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-font-awesome,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jasmine,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jasmine,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery-migrate,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery-migrate,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jsencrypt,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-jsencrypt,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-magic-search,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-magic-search,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-mdi,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-mdi,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-objectpath,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-objectpath,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-qunit,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-qunit,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-rickshaw,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-rickshaw,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-python-xstatic-spin,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-xstatic-spin,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-xstatic-tv4,Core,0.9708737864077669,0.0,1,1
+openstack/taskflow,openstack/deb-python-xstatic-tv4,Non core,0.0,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-yaql,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-yaql,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-zaqarclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-zaqarclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-rally,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-rally,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-sahara,Core,0.9523809523809524,0.0,2,1
+openstack/taskflow,openstack/deb-sahara,Non core,0.9523809523809524,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-sahara-dashboard,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-sahara-dashboard,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-senlin,Core,0.9523809523809524,0.0,2,1
+openstack/taskflow,openstack/deb-senlin,Non core,0.9523809523809524,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-senlin-dashboard,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-senlin-dashboard,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-stevedore,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-stevedore,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-swift-bench,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-swift-bench,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-swift-plugin-s3,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-swift-plugin-s3,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-trove-dashboard,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-trove-dashboard,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-tempest,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-tempest,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-osprofiler,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-osprofiler,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.vmware,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.vmware,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.utils,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.utils,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.rootwrap,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.rootwrap,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.service,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.service,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.privsep,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.privsep,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.versionedobjects,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.versionedobjects,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslotest,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslotest,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.serialization,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.serialization,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.reports,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.reports,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.policy,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.policy,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.middleware,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.middleware,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.messaging,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.messaging,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.log,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.log,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-aodhclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-aodhclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-automaton,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-automaton,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-barbicanclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-barbicanclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-bashate,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-python-bashate,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-python-castellan,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-castellan,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-ceilometerclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-ceilometerclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-ceilometermiddleware,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-ceilometermiddleware,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-cliff,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-cliff,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-cursive,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-cursive,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-debtcollector,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-debtcollector,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-designateclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-designateclient,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-dib-utils,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-python-dib-utils,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-python-diskimage-builder,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-diskimage-builder,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-doc8,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-doc8,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-django-openstack-auth,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-django-openstack-auth,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-fuelclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-fuelclient,Non core,0.9708737864077669,0.5847953216374269,2,1
+openstack/taskflow,openstack/deb-python-dogpile.cache,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-dogpile.cache,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-futurist,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-futurist,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-glanceclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-glanceclient,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-glance-store,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-glance-store,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-hacking,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-hacking,Non core,0.9615384615384616,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-heatclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-heatclient,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-ironicclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-ironicclient,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-ironic-inspector-client,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-ironic-inspector-client,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-ironic-lib,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-ironic-lib,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-jsonpath-rw-ext,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-jsonpath-rw-ext,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-k8sclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-k8sclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-keystoneauth1,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-keystoneauth1,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-keystoneclient,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-keystoneclient,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-keystonemiddleware,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-keystonemiddleware,Non core,0.9708737864077669,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-magnumclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-magnumclient,Non core,0.9708737864077669,0.5882352941176471,2,1
+openstack/taskflow,openstack/deb-python-manilaclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-manilaclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-microversion-parse,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-microversion-parse,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-mistralclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-mistralclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-monascaclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-monascaclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-mox3,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-mox3,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-muranoclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-muranoclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-neutronclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-neutronclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-neutron-lib,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-neutron-lib,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-novaclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-novaclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-openstackclient,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-openstackclient,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-openstackdocstheme,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-openstackdocstheme,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-openstacksdk,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-openstacksdk,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-os-apply-config,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-os-apply-config,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-os-brick,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-os-brick,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-osc-lib,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-osc-lib,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-os-client-config,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-os-client-config,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-os-collect-config,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-os-collect-config,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.cache,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.cache,Non core,0.9615384615384616,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-python-oslo.db,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.db,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.concurrency,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.concurrency,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.config,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.config,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.i18n,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.i18n,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-python-oslo.context,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-python-oslo.context,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-openstack-nose,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-openstack-nose,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-openstack-doc-tools,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-openstack-doc-tools,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-openstack-trove,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-openstack-trove,Non core,0.9615384615384616,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-oslosphinx,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-oslosphinx,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-aodh,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-aodh,Non core,0.9615384615384616,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-bandit,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-bandit,Non core,0.9615384615384616,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-ceilometer,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-ceilometer,Non core,0.9615384615384616,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-ceilometermiddleware,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-ceilometermiddleware,Non core,0.9803921568627451,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-designate-dashboard,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-designate-dashboard,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-git-review,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-git-review,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-glance,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-glance,Non core,0.9615384615384616,0.5847953216374269,2,1
+openstack/taskflow,openstack/deb-glare,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-glare,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-heat,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-heat,Non core,0.9615384615384616,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-heat-cfntools,Core,0.9708737864077669,0.0,1,1
+openstack/taskflow,openstack/deb-heat-cfntools,Non core,0.0,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-horizon,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-horizon,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-ironic-inspector,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-ironic-inspector,Non core,0.9615384615384616,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-ironic-ui,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-ironic-ui,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-keystone,Core,0.9523809523809524,0.0,2,1
+openstack/taskflow,openstack/deb-keystone,Non core,0.9523809523809524,0.5882352941176471,2,1
+openstack/taskflow,openstack/deb-liberasurecode,Core,0.9803921568627451,0.0,2,1
+openstack/taskflow,openstack/deb-liberasurecode,Non core,0.9803921568627451,0.5988023952095809,2,1
+openstack/taskflow,openstack/deb-manila,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-manila,Non core,0.9615384615384616,0.591715976331361,2,1
+openstack/taskflow,openstack/deb-mistral,Core,0.9433962264150944,0.0,3,1
+openstack/taskflow,openstack/deb-mistral,Non core,1.8867924528301887,0.5847953216374269,3,1
+openstack/taskflow,openstack/deb-murano-agent,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-murano-agent,Non core,0.9615384615384616,0.5847953216374269,2,1
+openstack/taskflow,openstack/deb-murano-dashboard,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-murano-dashboard,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-networking-l2gw,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-networking-l2gw,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-networking-ovn,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-networking-ovn,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-neutron,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-neutron,Non core,0.9615384615384616,0.5882352941176471,2,1
+openstack/taskflow,openstack/deb-neutron-fwaas,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-neutron-fwaas,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-neutron-vpnaas,Core,0.9708737864077669,0.0,2,1
+openstack/taskflow,openstack/deb-neutron-vpnaas,Non core,0.9708737864077669,0.5952380952380952,2,1
+openstack/taskflow,openstack/deb-neutron-lbaas,Core,0.9615384615384616,0.0,2,1
+openstack/taskflow,openstack/deb-neutron-lbaas,Non core,0.9615384615384616,0.5847953216374269,2,1
+openstack/taskflow,openstack/installguide-cookiecutter,Core,2.727272727272727,1.1363636363636365,3,4
+openstack/taskflow,openstack/installguide-cookiecutter,Non core,0.0,1.1363636363636365,3,4
+openstack/taskflow,openstack/deb-gnocchi,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-gnocchi,Non core,0.9523809523809524,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-eventlet,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-eventlet,Non core,0.9615384615384616,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-pymysql,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pymysql,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/salt-formula-opencontrail,Core,0.8547008547008548,0.0,2,2
+openstack/taskflow,openstack/salt-formula-opencontrail,Non core,0.8547008547008548,1.1363636363636365,2,2
+openstack/taskflow,openstack/salt-formula-neutron,Core,0.8620689655172413,0.5586592178770949,2,2
+openstack/taskflow,openstack/salt-formula-neutron,Non core,0.8620689655172413,0.5586592178770949,2,2
+openstack/taskflow,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/taskflow,openstack/salt-formula-swift,Non core,0.0,0.5882352941176471,0,1
+openstack/taskflow,openstack/salt-formula-nova,Core,0.819672131147541,0.0,2,2
+openstack/taskflow,openstack/salt-formula-nova,Non core,0.819672131147541,1.1173184357541899,2,2
+openstack/taskflow,openstack/salt-formula-keystone,Core,0.8403361344537815,0.0,2,1
+openstack/taskflow,openstack/salt-formula-keystone,Non core,0.8403361344537815,0.5617977528089888,2,1
+openstack/taskflow,openstack/salt-formula-horizon,Core,0.8771929824561403,0.0,2,1
+openstack/taskflow,openstack/salt-formula-horizon,Non core,0.8771929824561403,0.5714285714285714,2,1
+openstack/taskflow,openstack/salt-formula-heat,Core,0.8264462809917356,0.0,2,1
+openstack/taskflow,openstack/salt-formula-heat,Non core,0.8264462809917356,0.5681818181818182,2,1
+openstack/taskflow,openstack/salt-formula-glance,Core,0.8333333333333334,0.0,2,3
+openstack/taskflow,openstack/salt-formula-glance,Non core,0.8333333333333334,1.7045454545454544,2,3
+openstack/taskflow,openstack/salt-formula-cinder,Core,0.8403361344537815,0.0,2,1
+openstack/taskflow,openstack/salt-formula-cinder,Non core,0.8403361344537815,0.5714285714285714,2,1
+openstack/taskflow,openstack/salt-formula-ceilometer,Core,0.9009009009009009,0.0,2,1
+openstack/taskflow,openstack/salt-formula-ceilometer,Non core,0.9009009009009009,0.5649717514124294,2,1
+openstack/taskflow,openstack/deb-python-pygit2,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pygit2,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-libisal,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-libisal,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-xvfbwrapper,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-testresources,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-testresources,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-django-compressor,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-django-compressor,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-sqlalchemy-utils,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-pykmip,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pykmip,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-coffin,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-coffin,Non core,0.9708737864077669,0.5952380952380952,1,1
+openstack/taskflow,openstack/deb-python-txaio,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-txaio,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-hplefthandclient,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-hplefthandclient,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-django-overextends,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-django-overextends,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-pytimeparse,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pytimeparse,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-nose-timer,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-nose-timer,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-retrying,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-retrying,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-django-discover-runner,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-django-discover-runner,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-lesscpy,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-lesscpy,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-happybase,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-happybase,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-extras,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-extras,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-functools32,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-functools32,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-pydot-ng,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pydot-ng,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-jsonschema,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-jsonschema,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-kafka,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-kafka,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-rcssmin,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-rcssmin,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-nose-parameterized,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-nose-parameterized,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-pika-pool,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pika-pool,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-rfc3986,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-rfc3986,Non core,0.9615384615384616,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-httpretty,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-httpretty,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-pint,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pint,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-django-pyscss,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-django-pyscss,Non core,0.9803921568627451,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-falcon,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-falcon,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-subunit,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-subunit,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-django-formtools,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-django-formtools,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-nose-exclude,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-nose-exclude,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-pydotplus,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pydotplus,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-pager,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pager,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-proliantutils,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-proliantutils,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-gnocchiclient,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-gnocchiclient,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-django-babel,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-django-babel,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-requests-kerberos,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-requests-kerberos,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-colander,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-colander,Non core,0.9708737864077669,0.5952380952380952,1,1
+openstack/taskflow,openstack/deb-python-dcos,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-dcos,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-django-bootstrap-form,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-xstatic-term.js,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-toml,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-toml,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-semver,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-semver,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-websocket-client,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-websocket-client,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-fasteners,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-fasteners,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-jingo,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-jingo,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-pecan,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pecan,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-frozendict,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-frozendict,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/taskflow,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/taskflow,openstack/deb-python-wrapt,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-wrapt,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-funcsigs,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-funcsigs,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-crank,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-crank,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-pyvmomi,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pyvmomi,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-wsgi-intercept,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-os-cloud-config,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-os-cloud-config,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-weakrefmethod,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-weakrefmethod,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-steadymark,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-steadymark,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-warlock,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-warlock,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-couleur,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-couleur,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-xstatic-roboto-fontface,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-json-patch,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-json-patch,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-jsonrpclib,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-jsonrpclib,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-multi-key-dict,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-multi-key-dict,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-memcache,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-memcache,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-pulp,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pulp,Non core,0.9708737864077669,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-fonts-roboto-fontface,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-websockify,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-websockify,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-daemonize,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-daemonize,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-pyngus,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-pyngus,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-editor,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-editor,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-ddt,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-ddt,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-monotonic,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-monotonic,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-rjsmin,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-rjsmin,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-jsonpath-rw,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-django-appconf,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-django-appconf,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-oauth2client,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-oauth2client,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-json-pointer,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-json-pointer,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack-attic/akanda,Core,0.9523809523809524,0.0,2,3
+openstack/taskflow,openstack-attic/akanda,Non core,0.9523809523809524,1.7241379310344827,2,3
+openstack/taskflow,openstack/deb-python-xstatic,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-xstatic,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-xstatic-smart-table,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-xstatic-jquery-ui,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-requestbuilder,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-requestbuilder,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-nosehtmloutput,Non core,0.9803921568627451,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-csscompressor,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-csscompressor,Non core,0.9708737864077669,0.6024096385542169,1,1
+openstack/taskflow,openstack/deb-python-croniter,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-croniter,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/deb-python-concurrent.futures,Core,0.0,0.0,1,1
+openstack/taskflow,openstack/deb-python-concurrent.futures,Non core,0.9708737864077669,0.5988023952095809,1,1
+openstack/taskflow,openstack/openstack-salt,Core,0.9433962264150944,0.0,1,2
+openstack/taskflow,openstack/openstack-salt,Non core,0.0,1.1764705882352942,1,2
+openstack/taskflow,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/taskflow,openstack/deb-spice-html5,Non core,0.0,0.6024096385542169,0,1
+openstack/taskflow,openstack/salt-formula-midonet,Core,0.9803921568627451,0.0,1,1
+openstack/taskflow,openstack/salt-formula-midonet,Non core,0.0,0.6024096385542169,1,1
+openstack/taskflow,openstack/magnetodb-specs,Core,1.7857142857142856,0.5586592178770949,2,5
+openstack/taskflow,openstack/magnetodb-specs,Non core,0.0,2.2346368715083798,2,5
+openstack/taskflow,openstack-attic/akanda-appliance-builder,Core,0.9433962264150944,0.0,1,2
+openstack/taskflow,openstack-attic/akanda-appliance-builder,Non core,0.0,1.1764705882352942,1,2
+openstack/taskflow,openstack-attic/oslo.version,Core,5.825242718446602,5.232558139534884,8,13
+openstack/taskflow,openstack-attic/oslo.version,Non core,1.9417475728155338,2.3255813953488373,8,13
+openstack/taskflow,openstack-attic/image-api,Core,1.8181818181818181,2.793296089385475,3,6
+openstack/taskflow,openstack-attic/image-api,Non core,0.9090909090909091,0.5586592178770949,3,6
+openstack/taskflow,openstack-attic/object-api,Core,1.6666666666666667,2.1052631578947367,3,5
+openstack/taskflow,openstack-attic/object-api,Non core,0.8333333333333334,0.5263157894736842,3,5
+openstack/taskflow,openstack-attic/volume-api,Core,1.7699115044247788,2.209944751381215,4,6
+openstack/taskflow,openstack-attic/volume-api,Non core,1.7699115044247788,1.1049723756906076,4,6
+openstack/taskflow,openstack/magnetodb,Core,1.6260162601626018,2.604166666666667,2,11
+openstack/taskflow,openstack/magnetodb,Non core,0.0,3.125,2,11
+openstack/taskflow,openstack/openstack-nose,Core,1.8691588785046727,1.1764705882352942,3,4
+openstack/taskflow,openstack/openstack-nose,Non core,0.9345794392523363,1.1764705882352942,3,4
+openstack/taskflow,openstack-attic/netconn-api,Core,2.3622047244094486,2.403846153846154,3,8
+openstack/taskflow,openstack-attic/netconn-api,Non core,0.0,1.4423076923076923,3,8
+openstack/taskflow,openstack-attic/python-melangeclient,Core,0.9259259259259258,0.0,1,1
+openstack/taskflow,openstack-attic/python-melangeclient,Non core,0.0,0.591715976331361,1,1
+openstack/taskflow,openstack-attic/melange,Core,0.8547008547008548,1.7045454545454544,2,4
+openstack/taskflow,openstack-attic/melange,Non core,0.8547008547008548,0.5681818181818182,2,4
+openstack/taskflow,openstack-attic/openstack-qa,Core,0.0,0.5952380952380952,0,2
+openstack/taskflow,openstack-attic/openstack-qa,Non core,0.0,0.5952380952380952,0,2
+openstack/taskflow,openstack-attic/database-api,Core,2.727272727272727,1.1111111111111112,4,3
+openstack/taskflow,openstack-attic/database-api,Non core,0.9090909090909091,0.5555555555555556,4,3
+openstack/taskflow,openstack-attic/openstack-security-notes,Core,0.0,3.153153153153153,0,14
+openstack/taskflow,openstack-attic/openstack-security-notes,Non core,0.0,3.153153153153153,0,14

@@ -1,0 +1,1115 @@
+projectA,projectB,developer,intersect_dev,intersect_rev,devAB_count,revAB_count
+openstack/charm-interface-openstack-ha,openstack/charm-interface-gnocchi,Core,22.22222222222222,11.76470588235294,4,9
+openstack/charm-interface-openstack-ha,openstack/charm-interface-gnocchi,Non core,22.22222222222222,41.17647058823529,4,9
+openstack/charm-interface-openstack-ha,openstack/charm-interface-bgp,Core,18.181818181818183,8.333333333333332,4,7
+openstack/charm-interface-openstack-ha,openstack/charm-interface-bgp,Non core,18.181818181818183,50.0,4,7
+openstack/charm-interface-openstack-ha,openstack/charm-interface-websso-fid-service-provider,Core,0.0,9.090909090909092,2,4
+openstack/charm-interface-openstack-ha,openstack/charm-interface-websso-fid-service-provider,Non core,25.0,27.27272727272727,2,4
+openstack/charm-interface-openstack-ha,openstack/charm-interface-designate,Core,14.285714285714285,10.0,4,6
+openstack/charm-interface-openstack-ha,openstack/charm-interface-designate,Non core,42.857142857142854,50.0,4,6
+openstack/charm-interface-openstack-ha,openstack/tempest-horizon,Core,7.6923076923076925,3.225806451612903,2,2
+openstack/charm-interface-openstack-ha,openstack/tempest-horizon,Non core,0.0,3.225806451612903,2,2
+openstack/charm-interface-openstack-ha,openstack/logstash-filters,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/logstash-filters,Non core,0.0,6.666666666666667,0,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-jquery-migrate,Core,10.0,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-jquery-migrate,Non core,0.0,6.25,1,1
+openstack/charm-interface-openstack-ha,openstack/qinling-dashboard,Core,7.142857142857142,8.0,1,2
+openstack/charm-interface-openstack-ha,openstack/qinling-dashboard,Non core,0.0,0.0,1,2
+openstack/charm-interface-openstack-ha,openstack/python-qinlingclient,Core,5.555555555555555,5.88235294117647,2,3
+openstack/charm-interface-openstack-ha,openstack/python-qinlingclient,Non core,0.0,2.941176470588235,2,3
+openstack/charm-interface-openstack-ha,openstack/qinling,Core,4.0,4.444444444444445,2,3
+openstack/charm-interface-openstack-ha,openstack/qinling,Non core,0.0,2.2222222222222223,2,3
+openstack/charm-interface-openstack-ha,openstack/monasca-analytics,Core,6.451612903225806,4.0,2,3
+openstack/charm-interface-openstack-ha,openstack/monasca-analytics,Non core,0.0,2.0,2,3
+openstack/charm-interface-openstack-ha,openstack/oslo-incubator,Core,0.7220216606498195,0.4576659038901602,2,3
+openstack/charm-interface-openstack-ha,openstack/oslo-incubator,Non core,0.0,0.2288329519450801,2,3
+openstack/charm-interface-openstack-ha,openstack/puppet-congress,Core,5.714285714285714,3.0303030303030303,2,2
+openstack/charm-interface-openstack-ha,openstack/puppet-congress,Non core,0.0,3.0303030303030303,2,2
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_monasca-ui,Core,11.11111111111111,7.4074074074074066,2,3
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_monasca-ui,Non core,0.0,3.7037037037037033,2,3
+openstack/charm-interface-openstack-ha,openstack/auto-scaling-sig,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/auto-scaling-sig,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/os-loganalyze,Core,0.0,1.6666666666666667,0,2
+openstack/charm-interface-openstack-ha,openstack/os-loganalyze,Non core,0.0,1.6666666666666667,0,2
+openstack/charm-interface-openstack-ha,openstack/devstack-plugin-pika,Core,9.090909090909092,10.526315789473683,1,3
+openstack/charm-interface-openstack-ha,openstack/devstack-plugin-pika,Non core,0.0,5.263157894736842,1,3
+openstack/charm-interface-openstack-ha,openstack/devstack-plugin-zmq,Core,6.25,4.3478260869565215,1,2
+openstack/charm-interface-openstack-ha,openstack/devstack-plugin-zmq,Non core,0.0,4.3478260869565215,1,2
+openstack/charm-interface-openstack-ha,openstack/networking-l2gw,Core,2.7777777777777777,1.257861635220126,3,3
+openstack/charm-interface-openstack-ha,openstack/networking-l2gw,Non core,1.3888888888888888,0.628930817610063,3,3
+openstack/charm-interface-openstack-ha,openstack/networking-l2gw-tempest-plugin,Core,0.0,6.25,0,2
+openstack/charm-interface-openstack-ha,openstack/networking-l2gw-tempest-plugin,Non core,0.0,0.0,0,2
+openstack/charm-interface-openstack-ha,openstack/charm-interface-ceph-mds,Core,18.181818181818183,0.0,4,6
+openstack/charm-interface-openstack-ha,openstack/charm-interface-ceph-mds,Non core,18.181818181818183,54.54545454545454,4,6
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-ui-router,Core,11.11111111111111,6.25,1,2
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-ui-router,Non core,0.0,6.25,1,2
+openstack/charm-interface-openstack-ha,openstack/xstatic-vis,Core,22.22222222222222,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-vis,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/cookbook-openstack-database,Core,6.666666666666667,6.451612903225806,1,3
+openstack/charm-interface-openstack-ha,openstack/cookbook-openstack-database,Non core,0.0,3.225806451612903,1,3
+openstack/charm-interface-openstack-ha,openstack/cookbook-openstack-data-processing,Core,8.333333333333332,8.0,1,3
+openstack/charm-interface-openstack-ha,openstack/cookbook-openstack-data-processing,Non core,0.0,4.0,1,3
+openstack/charm-interface-openstack-ha,openstack/trove-integration,Core,1.3888888888888888,1.834862385321101,1,3
+openstack/charm-interface-openstack-ha,openstack/trove-integration,Non core,0.0,0.9174311926605505,1,3
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-sensu,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-sensu,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/python-ceilometerclient,Core,1.6666666666666667,1.0416666666666665,2,3
+openstack/charm-interface-openstack-ha,openstack/python-ceilometerclient,Non core,0.0,0.5208333333333333,2,3
+openstack/charm-interface-openstack-ha,openstack/keystoneauth-saml2,Core,11.11111111111111,4.878048780487805,2,3
+openstack/charm-interface-openstack-ha,openstack/keystoneauth-saml2,Non core,0.0,2.4390243902439024,2,3
+openstack/charm-interface-openstack-ha,openstack/murano-deployment,Core,2.380952380952381,2.2222222222222223,1,2
+openstack/charm-interface-openstack-ha,openstack/murano-deployment,Non core,0.0,2.2222222222222223,1,2
+openstack/charm-interface-openstack-ha,openstack/python-keystoneclient-kerberos,Core,11.11111111111111,5.128205128205128,2,3
+openstack/charm-interface-openstack-ha,openstack/python-keystoneclient-kerberos,Non core,0.0,2.564102564102564,2,3
+openstack/charm-interface-openstack-ha,openstack/python-wsmanclient,Core,10.0,5.88235294117647,1,2
+openstack/charm-interface-openstack-ha,openstack/python-wsmanclient,Non core,0.0,5.88235294117647,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-upgrade,Core,6.25,2.857142857142857,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-upgrade,Non core,0.0,2.857142857142857,1,2
+openstack/charm-interface-openstack-ha,openstack/cookbook-openstack-object-storage,Core,2.941176470588235,4.0,1,3
+openstack/charm-interface-openstack-ha,openstack/cookbook-openstack-object-storage,Non core,0.0,2.0,1,3
+openstack/charm-interface-openstack-ha,openstack/fairy-slipper,Core,7.142857142857142,8.333333333333332,1,3
+openstack/charm-interface-openstack-ha,openstack/fairy-slipper,Non core,0.0,4.166666666666666,1,3
+openstack/charm-interface-openstack-ha,openstack/django-openstack-auth-kerberos,Core,18.181818181818183,4.0,2,2
+openstack/charm-interface-openstack-ha,openstack/django-openstack-auth-kerberos,Non core,0.0,4.0,2,2
+openstack/charm-interface-openstack-ha,openstack/horizon-cisco-ui,Core,5.263157894736842,9.523809523809524,1,3
+openstack/charm-interface-openstack-ha,openstack/horizon-cisco-ui,Non core,0.0,4.761904761904762,1,3
+openstack/charm-interface-openstack-ha,openstack/zuul-packaging,Core,11.11111111111111,11.11111111111111,1,3
+openstack/charm-interface-openstack-ha,openstack/zuul-packaging,Non core,0.0,5.555555555555555,1,3
+openstack/charm-interface-openstack-ha,openstack/networking-generic-switch-tempest-plugin,Core,12.5,9.090909090909092,1,1
+openstack/charm-interface-openstack-ha,openstack/networking-generic-switch-tempest-plugin,Non core,0.0,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/tripleo-incubator,Core,0.9708737864077669,1.1764705882352942,1,3
+openstack/charm-interface-openstack-ha,openstack/tripleo-incubator,Non core,0.0,0.5882352941176471,1,3
+openstack/charm-interface-openstack-ha,openstack/ironic-webclient,Core,7.6923076923076925,2.564102564102564,1,2
+openstack/charm-interface-openstack-ha,openstack/ironic-webclient,Non core,0.0,2.564102564102564,1,2
+openstack/charm-interface-openstack-ha,openstack/puppet-crane,Core,12.5,16.666666666666664,1,2
+openstack/charm-interface-openstack-ha,openstack/puppet-crane,Non core,0.0,0.0,1,2
+openstack/charm-interface-openstack-ha,openstack/release-tools,Core,5.128205128205128,2.5,2,3
+openstack/charm-interface-openstack-ha,openstack/release-tools,Non core,0.0,1.25,2,3
+openstack/charm-interface-openstack-ha,openstack/gnocchi,Core,2.7027027027027026,1.4598540145985401,2,3
+openstack/charm-interface-openstack-ha,openstack/gnocchi,Non core,0.0,0.7299270072992701,2,3
+openstack/charm-interface-openstack-ha,openstack/networking-ofagent,Core,5.88235294117647,6.0606060606060606,1,3
+openstack/charm-interface-openstack-ha,openstack/networking-ofagent,Non core,0.0,3.0303030303030303,1,3
+openstack/charm-interface-openstack-ha,openstack/python-neutron-pd-driver,Core,11.11111111111111,16.666666666666664,1,3
+openstack/charm-interface-openstack-ha,openstack/python-neutron-pd-driver,Non core,0.0,8.333333333333332,1,3
+openstack/charm-interface-openstack-ha,openstack/charm-ceph,Core,4.545454545454546,4.3478260869565215,5,7
+openstack/charm-interface-openstack-ha,openstack/charm-ceph,Non core,18.181818181818183,26.08695652173913,5,7
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_freezer,Core,12.5,8.333333333333332,1,1
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_freezer,Non core,0.0,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-pip_lock_down,Core,10.526315789473683,8.695652173913043,2,3
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-pip_lock_down,Non core,0.0,4.3478260869565215,2,3
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-security,Core,4.545454545454546,2.5974025974025974,2,3
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-security,Non core,0.0,1.2987012987012987,2,3
+openstack/charm-interface-openstack-ha,openstack/oslosphinx,Core,3.8461538461538463,2.5974025974025974,2,3
+openstack/charm-interface-openstack-ha,openstack/oslosphinx,Non core,0.0,1.2987012987012987,2,3
+openstack/charm-interface-openstack-ha,openstack/python-gnocchiclient,Core,2.7027027027027026,5.0,1,3
+openstack/charm-interface-openstack-ha,openstack/python-gnocchiclient,Non core,0.0,2.5,1,3
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-cinder,Core,11.11111111111111,7.6923076923076925,1,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-cinder,Non core,0.0,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-cookiecutter,Core,11.11111111111111,15.384615384615385,1,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-cookiecutter,Non core,0.0,0.0,1,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-glance,Core,22.22222222222222,15.384615384615385,2,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-glance,Non core,0.0,0.0,2,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-keystone,Core,22.22222222222222,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-keystone,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-mariadb,Core,20.0,13.333333333333334,2,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-mariadb,Non core,0.0,0.0,2,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-rabbitmq,Core,12.5,9.090909090909092,1,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-rabbitmq,Non core,0.0,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-tripleo,Core,22.22222222222222,14.285714285714285,2,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-k8s-tripleo,Non core,0.0,0.0,2,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-ui,Core,16.666666666666664,12.5,2,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-ui,Non core,0.0,0.0,2,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-aodh,Core,16.666666666666664,5.88235294117647,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-aodh,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-barbican,Core,16.666666666666664,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-barbican,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-ceilometer,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-ceilometer,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-cinder,Core,16.666666666666664,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-cinder,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-cookiecutter,Core,12.5,8.695652173913043,2,2
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-cookiecutter,Non core,0.0,0.0,2,2
+openstack/charm-interface-openstack-ha,openstack/tripleo-ui,Core,5.0,2.5974025974025974,2,3
+openstack/charm-interface-openstack-ha,openstack/tripleo-ui,Non core,0.0,1.2987012987012987,2,3
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-ovn,Core,16.666666666666664,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-ovn,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-opendaylight,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-opendaylight,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-octavia,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-octavia,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-nova,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-nova,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/os-cloud-config,Core,3.508771929824561,1.9801980198019802,2,3
+openstack/charm-interface-openstack-ha,openstack/os-cloud-config,Non core,0.0,0.9900990099009901,2,3
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-zaqar,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-zaqar,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-tempest,Core,16.666666666666664,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-tempest,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-sahara,Core,16.666666666666664,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-sahara,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-swift,Core,16.666666666666664,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-swift,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-tacker,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-tacker,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-rsyslog-sidecar,Core,16.666666666666664,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-rsyslog-sidecar,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-rabbitmq,Core,16.666666666666664,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-rabbitmq,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-qdrouterd,Core,12.5,8.333333333333332,1,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-qdrouterd,Non core,0.0,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-panko,Core,16.666666666666664,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-panko,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-heat,Core,16.666666666666664,6.666666666666667,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-heat,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-haproxy,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-haproxy,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-gnocchi,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-gnocchi,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-glance,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-glance,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-designate,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-designate,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-neutron,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-neutron,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-mistral,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-mistral,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-memcached,Core,16.666666666666664,5.88235294117647,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-memcached,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-manila,Core,16.666666666666664,5.88235294117647,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-manila,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-ironic,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-ironic,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-keepalived,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-keepalived,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-horizon,Core,16.666666666666664,6.25,2,1
+openstack/charm-interface-openstack-ha,openstack/ansible-role-tripleo-horizon,Non core,0.0,0.0,2,1
+openstack/charm-interface-openstack-ha,openstack/pylockfile,Core,14.285714285714285,7.4074074074074066,2,3
+openstack/charm-interface-openstack-ha,openstack/pylockfile,Non core,0.0,3.7037037037037033,2,3
+openstack/charm-interface-openstack-ha,openstack/xstatic-moment-timezone,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-moment-timezone,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-dagre-d3,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-dagre-d3,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-dagre,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-dagre,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/dragonflow,Core,1.5384615384615385,1.0050251256281406,2,3
+openstack/charm-interface-openstack-ha,openstack/dragonflow,Non core,0.0,0.5025125628140703,2,3
+openstack/charm-interface-openstack-ha,openstack/openstack,Core,0.0,3.8461538461538463,0,2
+openstack/charm-interface-openstack-ha,openstack/openstack,Non core,0.0,3.8461538461538463,0,2
+openstack/charm-interface-openstack-ha,openstack/charm-interface-pacemaker-remote,Core,0.0,7.142857142857142,2,5
+openstack/charm-interface-openstack-ha,openstack/charm-interface-pacemaker-remote,Non core,20.0,28.57142857142857,2,5
+openstack/charm-interface-openstack-ha,openstack/networking-onos,Core,0.0,1.7241379310344827,0,2
+openstack/charm-interface-openstack-ha,openstack/networking-onos,Non core,0.0,1.7241379310344827,0,2
+openstack/charm-interface-openstack-ha,openstack/solum-infra-guestagent,Core,0.0,4.545454545454546,0,2
+openstack/charm-interface-openstack-ha,openstack/solum-infra-guestagent,Non core,0.0,4.545454545454546,0,2
+openstack/charm-interface-openstack-ha,openstack/openstack-ux,Core,0.0,3.7037037037037033,0,2
+openstack/charm-interface-openstack-ha,openstack/openstack-ux,Non core,0.0,3.7037037037037033,0,2
+openstack/charm-interface-openstack-ha,openstack/mox3,Core,6.25,4.444444444444445,2,3
+openstack/charm-interface-openstack-ha,openstack/mox3,Non core,0.0,2.2222222222222223,2,3
+openstack/charm-interface-openstack-ha,openstack/charm-layer-ceph,Core,12.5,0.0,2,2
+openstack/charm-interface-openstack-ha,openstack/charm-layer-ceph,Non core,12.5,20.0,2,2
+openstack/charm-interface-openstack-ha,openstack/charm-layer-ceph-base,Core,25.0,0.0,4,4
+openstack/charm-interface-openstack-ha,openstack/charm-layer-ceph-base,Non core,25.0,33.33333333333333,4,4
+openstack/charm-interface-openstack-ha,openstack/python-tricircleclient,Core,8.333333333333332,5.405405405405405,2,3
+openstack/charm-interface-openstack-ha,openstack/python-tricircleclient,Non core,0.0,2.7027027027027026,2,3
+openstack/charm-interface-openstack-ha,openstack/tricircle,Core,2.3255813953488373,1.36986301369863,2,3
+openstack/charm-interface-openstack-ha,openstack/tricircle,Non core,0.0,0.684931506849315,2,3
+openstack/charm-interface-openstack-ha,openstack/swift-specs,Core,3.3333333333333335,2.7777777777777777,1,3
+openstack/charm-interface-openstack-ha,openstack/swift-specs,Non core,0.0,1.3888888888888888,1,3
+openstack/charm-interface-openstack-ha,openstack/congress,Core,1.2738853503184715,0.9216589861751152,3,4
+openstack/charm-interface-openstack-ha,openstack/congress,Non core,0.6369426751592357,0.9216589861751152,3,4
+openstack/charm-interface-openstack-ha,openstack/congress-tempest-plugin,Core,3.8461538461538463,5.88235294117647,1,2
+openstack/charm-interface-openstack-ha,openstack/congress-tempest-plugin,Non core,0.0,0.0,1,2
+openstack/charm-interface-openstack-ha,openstack/python-congressclient,Core,3.508771929824561,3.3333333333333335,2,3
+openstack/charm-interface-openstack-ha,openstack/python-congressclient,Non core,0.0,1.6666666666666667,2,3
+openstack/charm-interface-openstack-ha,openstack/congress-specs,Core,5.0,1.7857142857142856,2,2
+openstack/charm-interface-openstack-ha,openstack/congress-specs,Non core,0.0,1.7857142857142856,2,2
+openstack/charm-interface-openstack-ha,openstack/congress-dashboard,Core,6.666666666666667,4.761904761904762,2,3
+openstack/charm-interface-openstack-ha,openstack/congress-dashboard,Non core,0.0,2.380952380952381,2,3
+openstack/charm-interface-openstack-ha,openstack/syntribos,Core,2.7027027027027026,2.272727272727273,1,2
+openstack/charm-interface-openstack-ha,openstack/syntribos,Non core,0.0,2.272727272727273,1,2
+openstack/charm-interface-openstack-ha,openstack/syntribos-payloads,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/syntribos-payloads,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack/syntribos-openstack-templates,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/syntribos-openstack-templates,Non core,0.0,5.555555555555555,0,1
+openstack/charm-interface-openstack-ha,openstack/i18n-specs,Core,11.11111111111111,6.25,1,2
+openstack/charm-interface-openstack-ha,openstack/i18n-specs,Non core,0.0,6.25,1,2
+openstack/charm-interface-openstack-ha,openstack/tempest-plugin-cookiecutter,Core,9.090909090909092,10.0,1,3
+openstack/charm-interface-openstack-ha,openstack/tempest-plugin-cookiecutter,Non core,0.0,5.0,1,3
+openstack/charm-interface-openstack-ha,openstack/devstack-plugin-cookiecutter,Core,10.0,7.142857142857142,1,2
+openstack/charm-interface-openstack-ha,openstack/devstack-plugin-cookiecutter,Non core,0.0,7.142857142857142,1,2
+openstack/charm-interface-openstack-ha,openstack/xstatic-graphlib,Core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-graphlib,Non core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-repo_build,Core,1.5384615384615385,1.0869565217391304,1,2
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-repo_build,Non core,0.0,1.0869565217391304,1,2
+openstack/charm-interface-openstack-ha,openstack/xstatic-bootstrap-datepicker,Core,7.142857142857142,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-bootstrap-datepicker,Non core,0.0,3.8461538461538463,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-hogan,Core,11.11111111111111,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-hogan,Non core,0.0,6.666666666666667,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-jquery.quicksearch,Core,11.11111111111111,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-jquery.quicksearch,Non core,0.0,6.666666666666667,1,1
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_molteniron,Core,3.3333333333333335,2.564102564102564,1,2
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_molteniron,Non core,0.0,2.564102564102564,1,2
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-lrdragndrop,Core,7.6923076923076925,4.545454545454546,1,2
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-lrdragndrop,Non core,0.0,4.545454545454546,1,2
+openstack/charm-interface-openstack-ha,openstack/faafo,Core,5.88235294117647,3.8461538461538463,1,2
+openstack/charm-interface-openstack-ha,openstack/faafo,Non core,0.0,3.8461538461538463,1,2
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-bootstrap,Core,6.25,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-bootstrap,Non core,0.0,3.571428571428571,1,1
+openstack/charm-interface-openstack-ha,openstack/networking-calico,Core,2.5,3.076923076923077,1,3
+openstack/charm-interface-openstack-ha,openstack/networking-calico,Non core,0.0,1.5384615384615385,1,3
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-gettext,Core,7.6923076923076925,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-gettext,Non core,0.0,4.3478260869565215,1,1
+openstack/charm-interface-openstack-ha,openstack/shotgun,Core,0.0,1.2195121951219512,0,2
+openstack/charm-interface-openstack-ha,openstack/shotgun,Non core,0.0,1.2195121951219512,0,2
+openstack/charm-interface-openstack-ha,openstack/deb-python-aioeventlet,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-aioeventlet,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/fuel-devops,Core,1.4705882352941175,0.6711409395973155,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-devops,Non core,0.0,0.6711409395973155,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-plugin-murano,Core,0.0,2.631578947368421,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-plugin-murano,Non core,0.0,2.631578947368421,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-web,Core,0.4608294930875576,0.25125628140703515,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-web,Non core,0.0,0.25125628140703515,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-plugins,Core,1.9230769230769231,0.9174311926605505,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-plugins,Non core,0.0,0.9174311926605505,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-virtualbox,Core,0.0,3.3333333333333335,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-virtualbox,Non core,0.0,3.3333333333333335,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-ostf,Core,0.9615384615384616,0.45454545454545453,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-ostf,Non core,0.0,0.45454545454545453,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-qa,Core,0.0,0.3952569169960474,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-qa,Non core,0.0,0.3952569169960474,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-specs,Core,0.9174311926605505,0.32679738562091504,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-specs,Non core,0.0,0.32679738562091504,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-nailgun-extension-cluster-upgrade,Core,0.0,3.3333333333333335,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-nailgun-extension-cluster-upgrade,Non core,0.0,3.3333333333333335,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-nailgun-agent,Core,0.0,0.9523809523809524,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-nailgun-agent,Non core,0.0,0.9523809523809524,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-mirror,Core,2.564102564102564,0.9090909090909091,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-mirror,Non core,0.0,0.9090909090909091,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-menu,Core,2.4390243902439024,1.6528925619834711,1,3
+openstack/charm-interface-openstack-ha,openstack/fuel-menu,Non core,0.0,0.8264462809917356,1,3
+openstack/charm-interface-openstack-ha,openstack/fuel-main,Core,0.0,0.390625,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-main,Non core,0.0,0.390625,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-ui,Core,0.0,1.0309278350515463,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-ui,Non core,0.0,1.0309278350515463,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-library,Core,0.48543689320388345,0.22371364653243847,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-library,Non core,0.0,0.22371364653243847,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-dev-tools,Core,10.526315789473683,3.3333333333333335,2,2
+openstack/charm-interface-openstack-ha,openstack/fuel-dev-tools,Non core,0.0,3.3333333333333335,2,2
+openstack/charm-interface-openstack-ha,openstack/fuel-stats,Core,3.7037037037037033,1.7857142857142856,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-stats,Non core,0.0,1.7857142857142856,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-nailgun-extension-converted-serializers,Core,0.0,7.6923076923076925,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-nailgun-extension-converted-serializers,Non core,0.0,7.6923076923076925,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-nailgun-extension-iac,Core,0.0,6.666666666666667,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-nailgun-extension-iac,Non core,0.0,6.666666666666667,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-plugin-murano-tests,Core,0.0,2.631578947368421,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-plugin-murano-tests,Non core,0.0,2.631578947368421,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-astute,Core,0.0,0.6211180124223602,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-astute,Non core,0.0,0.6211180124223602,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-docs,Core,0.0,0.30959752321981426,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-docs,Non core,0.0,0.30959752321981426,0,2
+openstack/charm-interface-openstack-ha,openstack/fuel-agent,Core,1.3157894736842104,0.6369426751592357,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-agent,Non core,0.0,0.6369426751592357,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-octane,Core,2.631578947368421,1.5625,1,2
+openstack/charm-interface-openstack-ha,openstack/fuel-octane,Non core,0.0,1.5625,1,2
+openstack/charm-interface-openstack-ha,openstack/tuning-box,Core,0.0,2.857142857142857,0,2
+openstack/charm-interface-openstack-ha,openstack/tuning-box,Non core,0.0,2.857142857142857,0,2
+openstack/charm-interface-openstack-ha,openstack/python-fuelclient,Core,0.0,0.6451612903225806,0,2
+openstack/charm-interface-openstack-ha,openstack/python-fuelclient,Non core,0.0,0.6451612903225806,0,2
+openstack/charm-interface-openstack-ha,openstack/neutron-interconnection,Core,0.0,10.0,0,2
+openstack/charm-interface-openstack-ha,openstack/neutron-interconnection,Non core,0.0,0.0,0,2
+openstack/charm-interface-openstack-ha,openstack/openstack-chef-repo,Core,0.0,1.5873015873015872,0,2
+openstack/charm-interface-openstack-ha,openstack/openstack-chef-repo,Non core,0.0,1.5873015873015872,0,2
+openstack/charm-interface-openstack-ha,openstack/os-acc,Core,0.0,3.571428571428571,0,1
+openstack/charm-interface-openstack-ha,openstack/os-acc,Non core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_zaqar,Core,2.3255813953488373,1.7543859649122806,1,2
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_zaqar,Non core,0.0,1.7543859649122806,1,2
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_watcher,Core,0.0,2.0408163265306123,0,2
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_watcher,Non core,0.0,2.0408163265306123,0,2
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_searchlight,Core,3.3333333333333335,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_searchlight,Non core,0.0,2.4390243902439024,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-vis,Core,12.5,0.0,1,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-vis,Non core,0.0,0.0,1,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-font-awesome,Core,7.6923076923076925,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-font-awesome,Non core,0.0,4.3478260869565215,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-jasmine,Core,5.88235294117647,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-jasmine,Non core,0.0,4.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-notify,Core,12.5,0.0,1,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-notify,Non core,0.0,0.0,1,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-material,Core,10.0,0.0,1,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-material,Non core,0.0,0.0,1,0
+openstack/charm-interface-openstack-ha,openstack/tempest-tripleo-ui,Core,10.0,4.545454545454546,1,1
+openstack/charm-interface-openstack-ha,openstack/tempest-tripleo-ui,Non core,0.0,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/docs-specs,Core,1.8518518518518516,0.46511627906976744,1,2
+openstack/charm-interface-openstack-ha,openstack/docs-specs,Non core,0.0,0.46511627906976744,1,2
+openstack/charm-interface-openstack-ha,openstack/release-schedule-generator,Core,0.0,6.666666666666667,0,2
+openstack/charm-interface-openstack-ha,openstack/release-schedule-generator,Non core,0.0,6.666666666666667,0,2
+openstack/charm-interface-openstack-ha,openstack-infra/opendev-website,Core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack-infra/opendev-website,Non core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/castellan-ui,Core,8.333333333333332,3.4482758620689653,1,2
+openstack/charm-interface-openstack-ha,openstack/castellan-ui,Non core,0.0,3.4482758620689653,1,2
+openstack/charm-interface-openstack-ha,openstack-attic/compute-api,Core,0.0,2.2222222222222223,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/compute-api,Non core,0.0,2.2222222222222223,0,2
+openstack/charm-interface-openstack-ha,openstack/charm-neutron-api-odl,Core,7.6923076923076925,0.0,5,6
+openstack/charm-interface-openstack-ha,openstack/charm-neutron-api-odl,Non core,30.76923076923077,37.5,5,6
+openstack/charm-interface-openstack-ha,openstack/charm-manila-glusterfs,Core,0.0,0.0,1,2
+openstack/charm-interface-openstack-ha,openstack/charm-manila-glusterfs,Non core,14.285714285714285,20.0,1,2
+openstack/charm-interface-openstack-ha,openstack/charm-murano,Core,14.285714285714285,0.0,3,4
+openstack/charm-interface-openstack-ha,openstack/charm-murano,Non core,28.57142857142857,40.0,3,4
+openstack/charm-interface-openstack-ha,openstack/charm-openvswitch-odl,Core,7.6923076923076925,0.0,5,6
+openstack/charm-interface-openstack-ha,openstack/charm-openvswitch-odl,Non core,30.76923076923077,42.857142857142854,5,6
+openstack/charm-interface-openstack-ha,openstack/charm-interface-odl-controller-api,Core,12.5,0.0,3,4
+openstack/charm-interface-openstack-ha,openstack/charm-interface-odl-controller-api,Non core,25.0,40.0,3,4
+openstack/charm-interface-openstack-ha,openstack/charm-glusterfs,Core,12.5,0.0,2,5
+openstack/charm-interface-openstack-ha,openstack/charm-glusterfs,Non core,12.5,35.714285714285715,2,5
+openstack/charm-interface-openstack-ha,openstack/charm-trove,Core,9.090909090909092,0.0,4,6
+openstack/charm-interface-openstack-ha,openstack/charm-trove,Non core,27.27272727272727,50.0,4,6
+openstack/charm-interface-openstack-ha,openstack/deb-python-positional,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-positional,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-requests-unixsocket,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-requests-unixsocket,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-traceback2,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-traceback2,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ryu,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ryu,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-linecache2,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-linecache2,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-gabbi,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-gabbi,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-cotyledon,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-cotyledon,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-migrate,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-migrate,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/fuxi,Core,0.0,1.8181818181818181,0,2
+openstack/charm-interface-openstack-ha,openstack/fuxi,Non core,0.0,1.8181818181818181,0,2
+openstack/charm-interface-openstack-ha,openstack/xstatic-filesaver,Core,12.5,0.0,1,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-filesaver,Non core,0.0,0.0,1,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-uuid,Core,12.5,0.0,1,0
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-uuid,Non core,0.0,0.0,1,0
+openstack/charm-interface-openstack-ha,openstack/bandit,Core,1.5151515151515151,2.564102564102564,1,3
+openstack/charm-interface-openstack-ha,openstack/bandit,Non core,0.0,1.282051282051282,1,3
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-smart-table,Core,10.0,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-angular-smart-table,Non core,0.0,5.88235294117647,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-bootswatch,Core,9.090909090909092,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-bootswatch,Non core,0.0,4.3478260869565215,1,1
+openstack/charm-interface-openstack-ha,openstack/deb-msgpack-python,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-msgpack-python,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-d3,Core,8.333333333333332,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/xstatic-d3,Non core,0.0,4.3478260869565215,1,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-cassandra-driver,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/deb-python-cassandra-driver,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/deb-python-pymemcache,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pymemcache,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-novnc,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-novnc,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/instack,Core,3.4482758620689653,2.2222222222222223,1,2
+openstack/charm-interface-openstack-ha,openstack/instack,Non core,0.0,2.2222222222222223,1,2
+openstack/charm-interface-openstack-ha,openstack/deb-python-pysaml2,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pysaml2,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-trollius,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-trollius,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-autobahn,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-autobahn,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pyldap,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pyldap,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/astara,Core,2.272727272727273,1.7241379310344827,1,2
+openstack/charm-interface-openstack-ha,openstack/astara,Non core,0.0,1.7241379310344827,1,2
+openstack/charm-interface-openstack-ha,openstack/astara-appliance,Core,0.0,3.0303030303030303,0,2
+openstack/charm-interface-openstack-ha,openstack/astara-appliance,Non core,0.0,3.0303030303030303,0,2
+openstack/charm-interface-openstack-ha,openstack/astara-horizon,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/astara-horizon,Non core,0.0,3.7037037037037033,0,1
+openstack/charm-interface-openstack-ha,openstack/astara-neutron,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/astara-neutron,Non core,0.0,3.571428571428571,0,1
+openstack/charm-interface-openstack-ha,openstack/anchor,Core,0.0,1.9230769230769231,0,2
+openstack/charm-interface-openstack-ha,openstack/anchor,Non core,0.0,1.9230769230769231,0,2
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_karbor,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/openstack-ansible-os_karbor,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/fuxi-golang,Core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/fuxi-golang,Non core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/fuxi-kubernetes,Core,0.0,5.555555555555555,0,2
+openstack/charm-interface-openstack-ha,openstack/fuxi-kubernetes,Non core,0.0,5.555555555555555,0,2
+openstack/charm-interface-openstack-ha,openstack-infra/puppet-odsreg,Core,0.0,4.3478260869565215,0,2
+openstack/charm-interface-openstack-ha,openstack-infra/puppet-odsreg,Non core,0.0,4.3478260869565215,0,2
+openstack/charm-interface-openstack-ha,openstack-infra/puppet-docker_registry,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack-infra/puppet-docker_registry,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/releasestatus,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/releasestatus,Non core,0.0,5.555555555555555,0,1
+openstack/charm-interface-openstack-ha,openstack-infra/vinz-webclient,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack-infra/vinz-webclient,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/activity-board,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/activity-board,Non core,0.0,1.7241379310344827,0,1
+openstack/charm-interface-openstack-ha,openstack-infra/beaker-localhost,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack-infra/beaker-localhost,Non core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack-infra/beaker-nodepool,Core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack-infra/beaker-nodepool,Non core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/rst2bash,Core,10.0,5.263157894736842,1,2
+openstack/charm-interface-openstack-ha,openstack/rst2bash,Non core,0.0,5.263157894736842,1,2
+openstack/charm-interface-openstack-ha,openstack/kolla-kubernetes,Core,1.3888888888888888,0.7751937984496124,1,2
+openstack/charm-interface-openstack-ha,openstack/kolla-kubernetes,Non core,0.0,0.7751937984496124,1,2
+openstack/charm-interface-openstack-ha,openstack/cue-dashboard,Core,5.88235294117647,5.0,1,2
+openstack/charm-interface-openstack-ha,openstack/cue-dashboard,Non core,0.0,5.0,1,2
+openstack/charm-interface-openstack-ha,openstack/python-cueclient,Core,5.0,10.526315789473683,1,3
+openstack/charm-interface-openstack-ha,openstack/python-cueclient,Non core,0.0,5.263157894736842,1,3
+openstack/charm-interface-openstack-ha,openstack/cue,Core,2.631578947368421,2.272727272727273,1,2
+openstack/charm-interface-openstack-ha,openstack/cue,Non core,0.0,2.272727272727273,1,2
+openstack/charm-interface-openstack-ha,openstack/app-catalog,Core,1.4705882352941175,1.3513513513513513,1,2
+openstack/charm-interface-openstack-ha,openstack/app-catalog,Non core,0.0,1.3513513513513513,1,2
+openstack/charm-interface-openstack-ha,openstack-attic/identity-api,Core,0.0,1.0869565217391304,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/identity-api,Non core,0.0,1.0869565217391304,0,2
+openstack/charm-interface-openstack-ha,openstack/deb-python-fixtures,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-fixtures,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/python-magnetodbclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/python-magnetodbclient,Non core,0.0,5.0,0,1
+openstack/charm-interface-openstack-ha,openstack/app-catalog-ui,Core,0.0,3.8461538461538463,0,2
+openstack/charm-interface-openstack-ha,openstack/app-catalog-ui,Non core,0.0,3.8461538461538463,0,2
+openstack/charm-interface-openstack-ha,openstack/salt-formula-kubernetes,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-kubernetes,Non core,0.0,5.88235294117647,0,1
+openstack/charm-interface-openstack-ha,openstack/app-catalog-common,Core,0.0,8.333333333333332,0,2
+openstack/charm-interface-openstack-ha,openstack/app-catalog-common,Non core,0.0,8.333333333333332,0,2
+openstack/charm-interface-openstack-ha,openstack/python-appcatalogclient,Core,0.0,6.666666666666667,0,2
+openstack/charm-interface-openstack-ha,openstack/python-appcatalogclient,Non core,0.0,6.666666666666667,0,2
+openstack/charm-interface-openstack-ha,openstack/deb-python-kmip,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/deb-python-kmip,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/deb-nova,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-nova,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-kazoo,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-kazoo,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-congressclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-congressclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-congress,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-congress,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-net-config,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-net-config,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ironic,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ironic,Non core,0.0,6.666666666666667,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-swauth,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-swauth,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-api-ref,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-api-ref,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-designate,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-designate,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-swift,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-swift,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-manila-ui,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-manila-ui,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-barbican,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-barbican,Non core,0.0,6.666666666666667,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-cinder,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-cinder,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-magnum,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-magnum,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-trove,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-trove,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-openstack-pkg-tools,Core,0.0,5.263157894736842,0,2
+openstack/charm-interface-openstack-ha,openstack/deb-openstack-pkg-tools,Non core,0.0,5.263157894736842,0,2
+openstack/charm-interface-openstack-ha,openstack/deb-python-swiftclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-swiftclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-alembic,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-alembic,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-cinderclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-cinderclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-bootstrap,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-bootstrap,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-greenio,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/deb-python-greenio,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/deb-networking-nec,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-nec,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-neutron-taas,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-neutron-taas,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-mlnx,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-mlnx,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-openstack-meta-packages,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-openstack-meta-packages,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-odl,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-odl,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-nodepool,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-nodepool,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-cisco,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-cisco,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-midonet,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-midonet,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-arista,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-arista,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-misaka,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/deb-python-misaka,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/deb-networking-hyperv,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-hyperv,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-rtslib-fb,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-rtslib-fb,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-murano,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-murano,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-semantic-version,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-semantic-version,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ldappool,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ldappool,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-zaqar-ui,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-zaqar-ui,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-zaqar,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-zaqar,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-watcher,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-watcher,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-testr,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-testr,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-win,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-win,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pycadf,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pycadf,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pyghmi,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pyghmi,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-reno,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-reno,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-refresh-config,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-refresh-config,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-vif,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-vif,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pyeclib,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pyeclib,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-quantumclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-quantumclient,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-requestsexceptions,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-requestsexceptions,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pbr,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pbr,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-requests-mock,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-requests-mock,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-saharaclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-saharaclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-scciclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-scciclient,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-seamicroclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-seamicroclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-auto-backports,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-auto-backports,Non core,0.0,6.666666666666667,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-senlinclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-senlinclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-taskflow,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-taskflow,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-testtools,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-testtools,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-tooz,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-tooz,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-shotgun,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-shotgun,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-tackerclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-tackerclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-tosca-parser,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-tosca-parser,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-troveclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-troveclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-tuskarclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-tuskarclient,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-watcherclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-watcherclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-cookies,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-cookies,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-fileupload,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-fileupload,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-lrdragndrop,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-lrdragndrop,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-wsme,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-wsme,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-schema-form,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-schema-form,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-bootstrap-datepicker,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-bootstrap-datepicker,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-bootswatch,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-bootswatch,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-gettext,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-gettext,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-mock,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-angular-mock,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-bootstrap-scss,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-bootstrap-scss,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-d3,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-d3,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-hogan,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-hogan,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-font-awesome,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-font-awesome,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jasmine,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jasmine,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery.bootstrap.wizard,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery-migrate,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery-migrate,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery.quicksearch,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery.quicksearch,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery.tablesorter,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery.tablesorter,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jsencrypt,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jsencrypt,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-magic-search,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-magic-search,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-mdi,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-mdi,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-objectpath,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-objectpath,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-qunit,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-qunit,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-rickshaw,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-rickshaw,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-spin,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-spin,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-tv4,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-tv4,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-yaql,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-yaql,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-zaqarclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-zaqarclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-rally,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-rally,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-sahara,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-sahara,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-sahara-dashboard,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-sahara-dashboard,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-senlin,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-senlin,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-senlin-dashboard,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-senlin-dashboard,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-stevedore,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-stevedore,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-swift-bench,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-swift-bench,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-swift-plugin-s3,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-swift-plugin-s3,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-trove-dashboard,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-trove-dashboard,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-tempest,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-tempest,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-osprofiler,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-osprofiler,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.vmware,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.vmware,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.utils,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.utils,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.rootwrap,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.rootwrap,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.service,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.service,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.privsep,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.privsep,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.versionedobjects,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.versionedobjects,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslotest,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslotest,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.serialization,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.serialization,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.reports,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.reports,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.policy,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.policy,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.middleware,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.middleware,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.messaging,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.messaging,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.log,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.log,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-aodhclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-aodhclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-automaton,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-automaton,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-barbicanclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-barbicanclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-bashate,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-bashate,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-castellan,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-castellan,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ceilometerclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ceilometerclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ceilometermiddleware,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-cliff,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-cliff,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-cursive,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-cursive,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-debtcollector,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-debtcollector,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-designateclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-designateclient,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-dib-utils,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-dib-utils,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-diskimage-builder,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-diskimage-builder,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-doc8,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-doc8,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-openstack-auth,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-openstack-auth,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-fuelclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-fuelclient,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-dogpile.cache,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-dogpile.cache,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-futurist,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-futurist,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-glanceclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-glanceclient,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-glance-store,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-glance-store,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-hacking,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-hacking,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-heatclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-heatclient,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ironicclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ironicclient,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ironic-inspector-client,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ironic-inspector-client,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ironic-lib,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ironic-lib,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-jsonpath-rw-ext,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-jsonpath-rw-ext,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-k8sclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-k8sclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-keystoneauth1,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-keystoneauth1,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-keystoneclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-keystoneclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-keystonemiddleware,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-keystonemiddleware,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-magnumclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-magnumclient,Non core,0.0,6.666666666666667,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-manilaclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-manilaclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-microversion-parse,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-microversion-parse,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-mistralclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-mistralclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-monascaclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-monascaclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-mox3,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-mox3,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-muranoclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-muranoclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-neutronclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-neutronclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-neutron-lib,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-neutron-lib,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-novaclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-novaclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-openstackclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-openstackclient,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-openstackdocstheme,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-openstackdocstheme,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-openstacksdk,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-openstacksdk,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-apply-config,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-apply-config,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-brick,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-brick,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-osc-lib,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-osc-lib,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-client-config,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-client-config,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-collect-config,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-collect-config,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.cache,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.cache,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.db,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.db,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.concurrency,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.concurrency,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.config,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.config,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.i18n,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.i18n,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.context,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oslo.context,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-openstack-nose,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-openstack-nose,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-openstack-doc-tools,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-openstack-doc-tools,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-openstack-trove,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-openstack-trove,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-oslosphinx,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-oslosphinx,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-aodh,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-aodh,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-bandit,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-bandit,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ceilometer,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ceilometer,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ceilometermiddleware,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ceilometermiddleware,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-designate-dashboard,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-designate-dashboard,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-git-review,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-git-review,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-glance,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-glance,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-glare,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-glare,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-heat,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-heat,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-heat-cfntools,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-heat-cfntools,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-horizon,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-horizon,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ironic-inspector,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ironic-inspector,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ironic-ui,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-ironic-ui,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-keystone,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-keystone,Non core,0.0,6.666666666666667,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-liberasurecode,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-liberasurecode,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-manila,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-manila,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-mistral,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-mistral,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-murano-agent,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-murano-agent,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-murano-dashboard,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-murano-dashboard,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-l2gw,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-l2gw,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-ovn,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-networking-ovn,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-neutron,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-neutron,Non core,0.0,6.666666666666667,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-neutron-fwaas,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-neutron-fwaas,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-neutron-vpnaas,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-neutron-vpnaas,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-neutron-lbaas,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-neutron-lbaas,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack/installguide-cookiecutter,Core,0.0,4.3478260869565215,0,2
+openstack/charm-interface-openstack-ha,openstack/installguide-cookiecutter,Non core,0.0,4.3478260869565215,0,2
+openstack/charm-interface-openstack-ha,openstack/deb-gnocchi,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-gnocchi,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-eventlet,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-eventlet,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pymysql,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pymysql,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-opencontrail,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-opencontrail,Non core,0.0,4.545454545454546,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-neutron,Core,0.0,4.166666666666666,0,2
+openstack/charm-interface-openstack-ha,openstack/salt-formula-neutron,Non core,0.0,4.166666666666666,0,2
+openstack/charm-interface-openstack-ha,openstack/salt-formula-swift,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-swift,Non core,0.0,6.666666666666667,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-nova,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-nova,Non core,0.0,4.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-keystone,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-keystone,Non core,0.0,4.3478260869565215,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-horizon,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-horizon,Non core,0.0,5.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-heat,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-heat,Non core,0.0,4.761904761904762,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-glance,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-glance,Non core,0.0,4.3478260869565215,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-cinder,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-cinder,Non core,0.0,5.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-ceilometer,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-ceilometer,Non core,0.0,4.545454545454546,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pygit2,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pygit2,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-libisal,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-libisal,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xvfbwrapper,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xvfbwrapper,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-testresources,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-testresources,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-compressor,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-compressor,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-sqlalchemy-utils,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-sqlalchemy-utils,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pykmip,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pykmip,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-coffin,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-coffin,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-txaio,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-txaio,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-hplefthandclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-hplefthandclient,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-overextends,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-overextends,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pytimeparse,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pytimeparse,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-nose-timer,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-nose-timer,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-retrying,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-retrying,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-discover-runner,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-discover-runner,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-lesscpy,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-lesscpy,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-happybase,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-happybase,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-extras,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-extras,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-functools32,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-functools32,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pydot-ng,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pydot-ng,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-jsonschema,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-jsonschema,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-kafka,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-kafka,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-rcssmin,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-rcssmin,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-nose-parameterized,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-nose-parameterized,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pika-pool,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pika-pool,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-rfc3986,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-rfc3986,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-httpretty,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-httpretty,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pint,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pint,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-pyscss,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-pyscss,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-falcon,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-falcon,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-subunit,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-subunit,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-formtools,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-formtools,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-nose-exclude,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-nose-exclude,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pydotplus,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pydotplus,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pager,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pager,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-proliantutils,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-proliantutils,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-gnocchiclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-gnocchiclient,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-babel,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-babel,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-requests-kerberos,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-requests-kerberos,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-colander,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-colander,Non core,0.0,7.6923076923076925,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-dcos,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-dcos,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-bootstrap-form,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-bootstrap-form,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-term.js,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-term.js,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-toml,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-toml,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-semver,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-semver,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-websocket-client,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-websocket-client,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-fasteners,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-fasteners,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-jingo,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-jingo,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pecan,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pecan,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-frozendict,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-frozendict,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-dogpile.core,Core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/deb-python-dogpile.core,Non core,0.0,0.0,0,0
+openstack/charm-interface-openstack-ha,openstack/deb-python-wrapt,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-wrapt,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-funcsigs,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-funcsigs,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-crank,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-crank,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pyvmomi,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pyvmomi,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-wsgi-intercept,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-wsgi-intercept,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-cloud-config,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-os-cloud-config,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-weakrefmethod,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-weakrefmethod,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-steadymark,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-steadymark,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-warlock,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-warlock,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-couleur,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-couleur,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-roboto-fontface,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-roboto-fontface,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-fonts-materialdesignicons-webfont,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-fonts-materialdesignicons-webfont,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-json-patch,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-json-patch,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-jsonrpclib,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-jsonrpclib,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-multi-key-dict,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-multi-key-dict,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-memcache,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-memcache,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pulp,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pulp,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-fonts-roboto-fontface,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-fonts-roboto-fontface,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-websockify,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-websockify,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-daemonize,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-daemonize,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pyngus,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-pyngus,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-editor,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-editor,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ddt,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-ddt,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-monotonic,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-monotonic,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-rjsmin,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-rjsmin,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-jsonpath-rw,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-jsonpath-rw,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-appconf,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-django-appconf,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oauth2client,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-oauth2client,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-json-pointer,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-json-pointer,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/akanda,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/akanda,Non core,0.0,4.761904761904762,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-smart-table,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-smart-table,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery-ui,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-xstatic-jquery-ui,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-requestbuilder,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-requestbuilder,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-nosehtmloutput,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-nosehtmloutput,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-csscompressor,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-csscompressor,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-croniter,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-croniter,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-concurrent.futures,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-python-concurrent.futures,Non core,0.0,8.333333333333332,0,1
+openstack/charm-interface-openstack-ha,openstack/openstack-salt,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/openstack-salt,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-spice-html5,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/deb-spice-html5,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-midonet,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/salt-formula-midonet,Non core,0.0,9.090909090909092,0,1
+openstack/charm-interface-openstack-ha,openstack/magnetodb-specs,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack/magnetodb-specs,Non core,0.0,3.571428571428571,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/akanda-appliance-builder,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/akanda-appliance-builder,Non core,0.0,6.25,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/oslo.version,Core,6.666666666666667,3.571428571428571,1,2
+openstack/charm-interface-openstack-ha,openstack-attic/oslo.version,Non core,0.0,3.571428571428571,1,2
+openstack/charm-interface-openstack-ha,openstack-attic/image-api,Core,0.0,3.571428571428571,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/image-api,Non core,0.0,3.571428571428571,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/object-api,Core,0.0,2.631578947368421,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/object-api,Non core,0.0,2.631578947368421,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/volume-api,Core,0.0,3.3333333333333335,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/volume-api,Non core,0.0,3.3333333333333335,0,2
+openstack/charm-interface-openstack-ha,openstack/magnetodb,Core,3.4482758620689653,0.0,1,1
+openstack/charm-interface-openstack-ha,openstack/magnetodb,Non core,0.0,2.127659574468085,1,1
+openstack/charm-interface-openstack-ha,openstack/openstack-nose,Core,0.0,5.88235294117647,0,2
+openstack/charm-interface-openstack-ha,openstack/openstack-nose,Non core,0.0,5.88235294117647,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/netconn-api,Core,0.0,1.694915254237288,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/netconn-api,Non core,0.0,1.694915254237288,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/python-melangeclient,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/python-melangeclient,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/melange,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/melange,Non core,0.0,4.166666666666666,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/openstack-qa,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/openstack-qa,Non core,0.0,7.142857142857142,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/database-api,Core,0.0,3.8461538461538463,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/database-api,Non core,0.0,3.8461538461538463,0,2
+openstack/charm-interface-openstack-ha,openstack-attic/openstack-security-notes,Core,0.0,0.0,0,1
+openstack/charm-interface-openstack-ha,openstack-attic/openstack-security-notes,Non core,0.0,1.25,0,1

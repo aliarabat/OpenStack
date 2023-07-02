@@ -1,9 +1,7 @@
 import pandas as pd  # for data manipulation
 from efficient_apriori import apriori  # for association analysis
 import ast
-import sys
-sys.path.append('../utils')
-import helpers as hpr
+import utils.helpers as hpr
 
 
 def retrieve_metrics():

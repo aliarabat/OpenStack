@@ -3,9 +3,7 @@ import numpy as np
 import json
 import os
 import shutil
-import sys 
-sys.path.append('../utils')
-import helpers as hpr
+import utils.helpers as hpr
 
 DIR = hpr.DIR
 

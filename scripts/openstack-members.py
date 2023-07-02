@@ -1,11 +1,7 @@
 import json
 import pandas as pd
 import requests
-import os
-from commons import combine_openstack_data
-import sys
-sys.path.append('../utils')
-import helpers as hpr
+import utils.helpers as hpr
 import collections
 
 DIR = hpr.DIR
@@ -16,8 +12,8 @@ def get_openstack_core_members():
     """
     result = {}
     cookies = {
-        "GerritAccount": "aOQvaHsS1ar-vMzULlfZ5ExfJiWecMGx9G",
-        "XSRF_TOKEN": "aOQvaHrC9OUN2lmxiDz8BgpSu.sehm5CSq"
+        "GerritAccount": hpr.GerritAccount,
+        "XSRF_TOKEN": hpr.XSRF_TOKEN
     }
     for repo in os_repositories:
         url = "https://review.opendev.org/groups/%s/members/" % repo
@@ -44,7 +40,7 @@ if __name__ == "__main__":
 
     start_date, start_header = hpr.generate_date("This script started at")
 
-    df = combine_openstack_data()
+    df = hpr.combine_openstack_data()
     # Retrieve OpenStack core team member 
     os_repositories = list(dict.fromkeys(df["project"].values))
 

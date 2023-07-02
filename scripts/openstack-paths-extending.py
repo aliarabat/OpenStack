@@ -1,9 +1,6 @@
 import pandas as pd
 import ast
-import sys
-sys.path.append('../utils')
-import helpers as hpr
-from commons import combine_openstack_data
+import utils.helpers as hpr
 
 
 def number_to_repo(data, df):
@@ -58,7 +55,7 @@ if __name__ == "__main__":
 
     DIR = hpr.DIR
 
-    df = combine_openstack_data()
+    df = hpr.combine_openstack_data()
 
     result_number_co_changes = pd.read_csv("%sFiles/Number/all_paths.csv" % DIR)
 

@@ -2,6 +2,18 @@
 
 This tool was primarily written in python programming language, since it is the most widely used in data science field, with the massive community surrounding it. This project was developed in the context of analyzing the co-evolution of software ecosystem, especially among Openstack components. Therefore, this tool is well-structured to ensure it's easy to use for newcomers.
 
+## Set up your project environment
+
+- Make sure all config values are changed with your own options in the files */utils/helpers.py*.
+- This project requires python version 3 or later to be installed in you machine as well as the following packages :
+    1. pandas
+    2. numpy
+    3. json
+    4. requests
+    5. shutil
+    6. networkx
+- Execute the following command `export PYTHONPATH="${PYTHONPATH}:/path/to/your/project"`
+
 The projects is organized as follows:
 
 1. **Changes directory :** the main data source used in this project, it contains csv file.
@@ -23,14 +35,7 @@ The mian entry point to the project is the core file located at the root directo
 
 ## Requirements for this projects
 
-This project requires python version 3 or later to be installed in you machine as well as the following packages :
 
-- pandas
-- numpy
-- json
-- requests
-- shutil
-- networkx
 
 ## How to run each script
 

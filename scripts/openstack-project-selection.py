@@ -4,12 +4,10 @@ import csv
 from github import Github
 from itertools import chain
 import pandas as pd
-import sys
-sys.path.append('../utils')
-import helpers as hpr
+import utils.helpers as hpr
 
 owner = 'openstack'
-token = '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'
+token = hpr.TOKEN
 
 def getGitRepos(owner):
     g = Github(token)

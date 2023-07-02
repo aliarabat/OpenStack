@@ -1,11 +1,7 @@
 import json
 import requests
 import os
-import sys
-sys.path.append('../utils')
-import helpers as hpr
-
-# from utils import helpers as hpr
+import utils.helpers as hpr
 import shutil
 
 

@@ -3,12 +3,8 @@ import networkx as nx
 from itertools import chain, product,  starmap
 from functools import partial
 import os
-import ast
 import re
-import sys
-sys.path.append('../utils')
-import helpers as hpr
-from commons import combine_openstack_data
+import utils.helpers as hpr
 
 
 def retrieve_project_numbers(x):
@@ -121,7 +117,7 @@ if __name__ == "__main__":
             os.makedirs(d)
         # shutil.rmtree(path=DIR)
 
-    df = combine_openstack_data()
+    df = hpr.combine_openstack_data()
 
     df_depends_needed = pd.read_csv("%sFiles/source_target_evolution.csv" % DIR)
 

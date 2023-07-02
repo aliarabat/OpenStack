@@ -1,10 +1,7 @@
 import pandas as pd
 import re
 import os
-import sys
-sys.path.append('../utils')
-import helpers as hpr
-import commons as cms
+import utils.helpers as hpr
 
 DIR = hpr.DIR
 
@@ -146,7 +143,7 @@ if __name__ == "__main__":
         if not os.path.exists(d):
             os.makedirs(d)
 
-    df = cms.combine_openstack_data()
+    df = hpr.combine_openstack_data()
 
     generate_os_evolution_data(df)
 

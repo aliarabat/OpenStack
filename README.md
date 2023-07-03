@@ -12,6 +12,7 @@ This tool was primarily written in python programming language, since it is the 
     4. requests
     5. shutil
     6. networkx
+    7. bs4
 - Execute the following command `export PYTHONPATH="${PYTHONPATH}:/path/to/your/project"`
 
 The projects is organized as follows:

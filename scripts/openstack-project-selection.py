@@ -89,7 +89,7 @@ def switch_projects_are_services(all_services):
     """
     services = all_services.keys()
     projects_services = []
-    result = all_services.keys()
+    result = all_services.copy()
     for k,v in all_services.items():
         projects_services.append(list(set(v).intersection(services)))
         new_projects = list(set(v).difference(services))
@@ -156,7 +156,7 @@ if __name__ == '__main__':
     all_services = switch_projects_are_services(all_services)
 
     # Link remaining projects
-    linked_projects = link_project_keyword()
+    linked_projects = link_project_keyword(all_services, non_associated_projects)
     
     # Merge two lists of services
     merged_repos = merge(all_services, linked_projects)
@@ -170,6 +170,7 @@ if __name__ == '__main__':
     redundant_projects2 = collections.Counter(hpr.flatten_list(merged_repos.values()))
     redundant_projects2 = pd.DataFrame({"k": redundant_projects2.keys(), "v": redundant_projects2.values()})
     redundant_projects2 = redundant_projects2.loc[redundant_projects2["v"]>1, "k"].values
+    print(len(redundant_projects2))
     for service, projects in merged_repos.items():
         merged_repos[service] = [p for p in projects if p not in redundant_projects2]
 

@@ -182,7 +182,8 @@ p2_2<-cross_service_changes_across_releases[5:26,] %>%
   xlab("Releases") +
   ylab("# cross-service changes")+
   scale_y_continuous(labels = label_comma(), limits =  c(0, max(cross_service_changes_across_releases$count)*1.1))
-p2_2
+# p2_2
+cross_project_changes_across_releases
 ```
 
 ```{r}
@@ -224,6 +225,7 @@ p3_2<-projects_years %>%
   ylab("# of projects") + 
   scale_colour_discrete(name="")
 p3_2
+# sum(projects_years[projects_years$type=="Archived",]$count)
 ```
 
 

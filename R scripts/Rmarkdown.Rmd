@@ -1,0 +1,309 @@
+---
+title: "Rmarkdown"
+author: "Ali"
+date: '2022-06-03'
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+#LOAD NEEDED LIBRARIES FIRST:
+library(tidyverse)
+library(esquisse)
+```
+
+# Basic Syntax and some hotkeys
+
+Comment me with ctrl-shift-C
+
+```{r}
+my_string <- "comment me with ctrl-shift-C"
+print(my_string)
+7 # execute this line with ctrl-enter
+x <- 1
+2 -> y 
+z = x + y
+# Run the whole chunk with ctrl-shift-enter
+```
+
+# Data Types and R objects
+
+In contrast to other programming languages like C and java in R, the variables are not declared as some data type. The variables are assigned with R-Objects and the data type of the R-object becomes the data type of the variable. There are many types of R-objects. The frequently used ones are:
+
+## R objects
+
+- Vectors
+- Lists
+- Matrices
+- Arrays
+- Factors
+- Data Frames
+
+### Vector
+
+```{r}
+
+# Logical	TRUE, FALSE	
+
+v <- TRUE
+print(class(v))
+
+# Numeric	12.3, 5, 999	
+
+v <- 23.5
+print(class(v))
+
+# Integer	2L, 34L, 0L	
+
+v <- 2L
+print(class(v))
+
+# Complex	3 + 2i	
+
+v <- 2+5i
+print(class(v))
+
+# Character	'a' , '"good", "TRUE", '23.4'	
+
+v <- "TRUE"
+print(class(v))
+
+# Raw	"Hello" is stored as 48 65 6c 6c 6f	
+
+v <- charToRaw("Hello")
+print(class(v))
+v
+
+##################################################
+
+# Create a vector.
+apple <- c('red','green',"yellow")
+print(apple)
+
+# Get the class of the vector.
+print(class(apple))
+
+```
+
+### Lists
+
+A list is an R-object which can contain many different types of elements inside it like vectors, functions and even another list inside it.
+
+```{r}
+
+# Create a list.
+list1 <- list(c(2,5,3),21.3,sin, TRUE)
+
+# Print the list.
+print(list1)
+
+print(list1[3])
+
+```
+
+### Matrices
+
+A matrix is a two-dimensional rectangular data set. It can be created using a vector input to the matrix function.
+
+```{r}
+
+# Create a matrix.
+M = matrix( c('a','a','b','c','b','a'), nrow = 2, ncol = 3, byrow = TRUE)
+print(M)
+
+```
+
+### Arrays
+
+```{r}
+
+# Create an array.
+a <- array(c('green','yellow'),dim = c(3,3,2))
+print(a)
+
+```
+
+### Factors
+
+Factors are the r-objects which are created using a vector. It stores the vector along with the distinct values of the elements in the vector as labels. The labels are always character irrespective of whether it is numeric or character or Boolean etc. in the input vector. They are useful in statistical modeling.
+
+Factors are created using the `factor()` function. The `nlevels` functions gives the count of levels.
+
+```{r}
+
+# Create a vector.
+apple_colors <- c('green','green','yellow','red','red','red','green')
+
+# Create a factor object.
+factor_apple <- factor(apple_colors)
+
+# Print the factor.
+print(factor_apple)
+print(nlevels(factor_apple))
+
+```
+
+### Data Frames
+
+Data frames are tabular data objects. Unlike a matrix in data frame each column can contain different modes of data. The first column can be numeric while the second column can be character and third column can be logical. It is a list of vectors of equal length.
+
+Data Frames are created using the `data.frame()` function.
+
+```{r}
+
+# Create the data frame.
+BMI <- 	data.frame(
+   gender = factor(c("Male", "Male","Female")), 
+   height = c(152, 171.5, 165), 
+   weight = c(81,93, 78),
+   Age = c(42,38,26)
+)
+print(BMI)
+BMI %>% 
+dplyr::filter(gender == 'Male')
+
+```
+
+# Get your Data into R
+
+```{r}
+# install.packages("tidyverse")
+library(tidyverse)
+```
+
+# Clean Your Data and Re-shape it
+
+Dplyr and the Pipe %>%
+
+```{r}
+
+mpg %>%
+  
+
+dplyr::filter(model == 'a4') %>%  # return all rows that satisfy conditions
+
+dplyr::arrange(displ, cyl) %>%  # reorder your columns
+
+dplyr::mutate(old = year < 2000, full_Wheel_drive = drv == 'f') %>%   # add new preserve old
+
+# dplyr::transmute(full_wheel_drive = drv == 'f') # add new drop old
+
+dplyr::select(-drv) # keep or remove columns
+
+mpg %>% 
+dplyr::count(model,sort = T) 
+  # dplyr::filter(n > 8)# create aggregate stats
+
+```
+
+
+# Make Some Graphics
+
+
+```{r}
+library("ggplot2")
+# ggplot(data = <DATA>) + 
+#   <GEOM_FUNCTION>(mapping = aes(<MAPPINGS>))
+
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy))
+
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy, color = class))
+
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy)) + 
+  facet_wrap(~ class, nrow = 2)
+
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy)) + 
+  facet_grid(drv ~ cyl)
+
+ggplot(data = mpg) + 
+  geom_point(mapping = aes(x = displ, y = hwy)) +
+  geom_smooth(mapping = aes(x = displ, y = hwy))
+
+ggplot(data = mpg, mapping = aes(x = displ, y = hwy)) + 
+  geom_point(mapping = aes(color = class)) + 
+  geom_smooth()
+
+ggplot(data = diamonds) + 
+  geom_bar(mapping = aes(x = cut))
+
+ggplot(data = diamonds) + 
+  geom_bar(mapping = aes(y = cut), width=0.03)
+
+```
+
+# Examples of EDA
+
+```{r}
+smaller <- diamonds %>% 
+  filter(carat < 3)
+  
+ggplot(data = smaller, mapping = aes(x = carat)) +
+  geom_histogram(binwidth = 0.1)
+
+ggplot(data = mpg) +
+  geom_boxplot(mapping = aes(x = reorder(class, hwy, FUN = median), y = hwy))
+
+diamonds %>% 
+  count(color, cut, sort = T) %>%  
+  ggplot(mapping = aes(x = color, y = cut)) +
+  geom_tile(mapping = aes(fill = n))
+
+View(diamonds)
+
+write.csv(diamonds, file = "C:\\Users\\Ali\\data.csv")
+
+```
+
+# import your own data
+
+```{r}
+
+# read in files
+
+data
+
+# paste tribbles
+preg <- tribble(
+  ~pregnant, ~male, ~female,
+  "yes",     NA,    10,
+  "no",      20,    12
+)
+
+preg
+
+```
+
+# Party winners
+
+```{r}
+
+# or use the data pasta package
+library(datapasta)
+
+# Ease of making ggplots
+library(esquisse)
+
+library(ggplot2)
+
+# Ray shaded graphics
+library(rayshader)
+
+#Here, I load a map with the raster package.
+loadzip = tempfile() 
+download.file("https://tylermw.com/data/dem_01.tif.zip", loadzip)
+localtif = raster::raster(unzip(loadzip, "dem_01.tif"))
+unlink(loadzip)
+#And convert it to a matrix:
+elmat = raster_to_matrix(localtif)
+#We use another one of rayshader's built-in textures:
+elmat %>%
+  sphere_shade(texture = "desert") %>%
+  plot_map()
+
+```

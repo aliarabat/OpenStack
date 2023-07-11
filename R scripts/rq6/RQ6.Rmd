@@ -14,8 +14,8 @@ library(ggplot2)
 ```
 
 ```{r}
-association_rules<-read.csv("/Users/aliarabat/Documents/PhD/projects/openstack-evolution/Files/Metrics/association_rules.csv")
-k_means_data<-read.csv("/Users/aliarabat/Documents/PhD/projects/openstack-evolution/RQs/RQ5_MA/k_means_data.csv")
+RQ6_URL = "/Users/aliarabat/Documents/PhD/projects/openstack-evolution/RQs/RQ6/Files/"
+association_rules<-read.csv(paste(RQ6_URL, "association_rules.csv", sep=""))
 ```
 
 ```{r}
@@ -41,7 +41,7 @@ median(association_rules$conf)
 ```
 
 ```{r}
-k_means_data<-read.csv("/Users/aliarabat/Documents/PhD/projects/openstack-evolution/RQs/RQ5_MA/k_means_data.csv")
+k_means_data<-read.csv(paste(RQ6_URL, "k_means_data.csv", sep=""))
 k_means_data <- k_means_data %>%
   mutate(Total_changes = log(Total_changes),
          Total_cross_project_changes = log(Total_cross_project_changes))

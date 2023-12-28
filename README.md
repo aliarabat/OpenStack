@@ -13,7 +13,7 @@ This tool was primarily written in python programming language, since it is the 
     5. shutil
     6. networkx
     7. bs4
-- Execute the following command `export PYTHONPATH="${PYTHONPATH}:/path/to/your/project"`
+- Execute the following command `export PYTHONPATH="${PYTHONPATH}:/Users/aliarabat/Documents/PhD/projects/openstack-evolution"`
 
 The projects is organized as follows:
 

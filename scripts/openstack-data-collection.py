@@ -14,8 +14,8 @@ def get_openstack_data(dir):
     page = 0
 
     while (not is_done):
-
-        params = {'O': 97, 'n': size, 'S': page * size}
+        # change O to 1916314 for more informations 
+        params = {'O': 1916314, 'n': size, 'S': page * size}
 
         url = "https://review.opendev.org/changes/?q=repositories:{} after:{}&o={}&o={}&o={}&o={}".format(
             "openstack", "2022-05-01", "CURRENT_FILES", "MESSAGES",
@@ -31,7 +31,7 @@ def get_openstack_data(dir):
 
         if len(data_per_request) != 0:
 
-            print("page %s" % page)
+            print("Page %s" % page)
 
             data_per_request = json.dumps(data_per_request)
 
@@ -42,8 +42,8 @@ def get_openstack_data(dir):
             jsonFile.close()
 
             page += 1
-        else:
-            is_done = not is_done
+        # else:
+        is_done = not is_done
 
 
 if __name__ == "__main__":
@@ -52,11 +52,11 @@ if __name__ == "__main__":
 
     start_date, start_header = hpr.generate_date("This script started at")
 
-    DIR = "%sData/" % hpr.DIR
+    DIR = "%sData2/" % hpr.DIR
 
-    if os.path.exists(DIR):
-        shutil.rmtree(path=DIR)
-    os.makedirs(DIR, exist_ok=True)
+    # if os.path.exists(DIR):
+    #     shutil.rmtree(path=DIR)
+    # os.makedirs(DIR, exist_ok=True)
 
     get_openstack_data(DIR)
 

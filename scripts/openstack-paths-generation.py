@@ -119,9 +119,9 @@ if __name__ == "__main__":
 
     df = hpr.combine_openstack_data()
 
-    df_depends_needed = pd.read_csv("%sFiles/source_target_evolution.csv" % DIR)
+    # df_depends_needed = pd.read_csv("%sFiles/source_target_evolution.csv" % DIR)
 
-    paths = get_paths(df_depends_needed)
+    # paths = get_paths(df_depends_needed)
     
     related_bug_number_changes = build_related_bug_paths(df)
     # topic_number_changes = build_other_paths(df, "topic")
@@ -137,14 +137,14 @@ if __name__ == "__main__":
     # change_id_number_changes = pd.read_csv("%sFiles/Number/change_id.csv" % DIR)
     # change_id_number_changes = change_id_number_changes["Path"].apply(ast.literal_eval).values.tolist()
     # END DELETE AFTER
-    result_number_changes = combine_co_changes_number(paths, related_bug_number_changes)
+    # result_number_changes = combine_co_changes_number(paths, related_bug_number_changes)
 
-    result_number_changes = combine_co_changes_number(result_number_changes, change_id_number_changes)
+    # result_number_changes = combine_co_changes_number(result_number_changes, change_id_number_changes)
 
-    pd.DataFrame({"Path": paths}).to_csv("%sFiles/Number/depends_needed.csv" % DIR, index=False)
+    # pd.DataFrame({"Path": paths}).to_csv("%sFiles/Number/depends_needed.csv" % DIR, index=False)
     pd.DataFrame({"Path": related_bug_number_changes}).to_csv("%sFiles/Number/related_bug.csv" % DIR, index=False)
     pd.DataFrame({"Path": change_id_number_changes}).to_csv("%sFiles/Number/change_id.csv" % DIR, index=False)
-    pd.DataFrame({"Path": result_number_changes}).to_csv("%sFiles/Number/all_paths.csv" % DIR, index=False)
+    # pd.DataFrame({"Path": result_number_changes}).to_csv("%sFiles/Number/all_paths.csv" % DIR, index=False)
 
     end_date, end_header = hpr.generate_date("This script ended at")
 

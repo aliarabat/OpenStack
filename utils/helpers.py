@@ -2,27 +2,24 @@ import os
 import pandas as pd
 from datetime import datetime
 
-DIR = "/Users/aliarabat/Documents/PhD/projects/openstack-evolution/"
+DIR = os.getcwd() + '/'
 # DIR = "C:/Users/Ali/Documents/PhD/projects/openstack-evolution/"
 # DIR = "/home/as98450/projects/openstack/"
 
-TOKEN = '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'
+TOKEN = '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'
 GerritAccount = "aOQvaHsS1ar-vMzULlfZ5ExfJiWecMGx9G"
 XSRF_TOKEN = "aOQvaHrC9OUN2lmxiDz8BgpSu.sehm5CSq"
 
 def convert(seconds):
-    """Convert seconds in the following format
-    XX days, XX hours, XX minutes and XX seconds 
-    """
-    day = seconds // (24 * 60 * 60)
-    seconds = seconds % (24 * 60 * 60)
-    hour = seconds // 3600
+    # Calculate days, hours, minutes, and remaining seconds
+    days = seconds // (24 * 3600)
+    seconds %= (24 * 3600)
+    hours = seconds // 3600
     seconds %= 3600
     minutes = seconds // 60
     seconds %= 60
 
-    return "%d days, %d hours, %02d minutes and %02d seconds" % (
-        day, hour, minutes, seconds)
+    return f'{days:.2f} days, {hours:.2f} hours, {minutes:.2f} minutes and {seconds:.2f} seconds'
 
 
 def generate_date(header):
@@ -55,7 +52,7 @@ def flatten_list(array):
     result = [item for sublist in array for item in sublist]
     return result
 
-def combine_openstack_data():
+def combine_openstack_data(filter_merged=True, filter_real_dev=True):
     '''Combine generated csv files into a single DataFrame object
     '''
     df = pd.DataFrame([])
@@ -65,8 +62,18 @@ def combine_openstack_data():
         df_per_file = pd.read_csv("%schanges_data_%d.csv" % (data_path, i))
         df = pd.concat((df, df_per_file))
 
+    if filter_merged:
+        df = df[(df['status'] == 'MERGED')]
+
+    if filter_real_dev:
+        df = df[df['is_owner_bot'] == False]
+    
     df = df.drop_duplicates(subset=["number"])
 
-    df = df.sort_values(by="updated", ascending=False).reset_index(drop=True)
+    df = df.sort_values(by="created", ascending=False).reset_index(drop=True)
+
+    df['created'] = df['created'].map(lambda x: x[:-10])
+
+    df.loc[df['project'].str.startswith('openstack/'), 'project'] = df['project'].map(lambda x: x[10:])
 
     return df

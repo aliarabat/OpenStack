@@ -19,7 +19,7 @@ if __name__ == "__main__":
     ]
 
     for sn in script_names:
-        os.system("python ./Scripts/%s.py" % sn)
+        os.system("python3 ./Scripts/%s.py" % sn)
     
     end_date, end_header = hpr.generate_date("The setup script ended at")
 

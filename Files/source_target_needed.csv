@@ -1,10 +1,10 @@
 Source,Target,Source_repo,Target_repo
+863165,863166,openstack/project-config,openstack/governance
+863954,863958,openstack/project-config,openstack/governance
+863955,864067,openstack/project-config,openstack/governance
 864948,860795,openstack/devstack-plugin-ceph,openstack/devstack
 864993,864920,openstack/ansible-collection-kolla,openstack/kolla-ansible
 864946,860795,openstack/swift,openstack/devstack
-863955,864067,openstack/project-config,openstack/governance
-863954,863958,openstack/project-config,openstack/governance
-863165,863166,openstack/project-config,openstack/governance
 863158,863161,openstack/project-config,openstack/governance
 863581,851099,openstack/requirements,openstack/swift
 844850,843573,openstack/openstack-ansible-ops,openstack/openstack-ansible-ops
@@ -322,8 +322,8 @@ Source,Target,Source_repo,Target_repo
 701513,701514,openstack/project-config,openstack/governance
 701701,701557,openstack/puppet-openstack-integration,openstack/puppet-openstack_spec_helper
 701700,701557,openstack/puppet-openstack-integration,openstack/puppet-openstack_spec_helper
-701699,701557,openstack/puppet-openstack-integration,openstack/puppet-openstack_spec_helper
 701689,701688,openstack/puppet-openstack-integration,openstack/puppet-openstack_spec_helper
+701699,701557,openstack/puppet-openstack-integration,openstack/puppet-openstack_spec_helper
 701534,701557,openstack/puppet-openstack-integration,openstack/puppet-openstack_spec_helper
 700909,700914,openstack/project-config,openstack/governance
 698762,698754,openstack/blazar-tempest-plugin,openstack/tempest
@@ -352,8 +352,8 @@ Source,Target,Source_repo,Target_repo
 687925,687926,openstack/project-config,openstack/governance
 688209,688211,openstack/project-config,openstack/governance
 686177,687915,openstack/charms.openstack,openstack/charm-placement
-688554,654056,openstack/bifrost,openstack/openstacksdk
 688556,654056,openstack/bifrost,openstack/openstacksdk
+688554,654056,openstack/bifrost,openstack/openstacksdk
 687911,687915,openstack/charm-interface-placement,openstack/charm-placement
 681343,687915,openstack/charm-nova-cloud-controller,openstack/charm-placement
 686251,686253,openstack/project-config,openstack/governance
@@ -674,8 +674,8 @@ Source,Target,Source_repo,Target_repo
 626709,623229,openstack/networking-powervm,openstack/openstack-zuul-jobs
 626714,623229,openstack/nova-powervm,openstack/openstack-zuul-jobs
 626730,623229,openstack/python-barbicanclient,openstack/openstack-zuul-jobs
-626726,623229,openstack/sahara-image-elements,openstack/openstack-zuul-jobs
 626727,623229,openstack/sahara-dashboard,openstack/openstack-zuul-jobs
+626726,623229,openstack/sahara-image-elements,openstack/openstack-zuul-jobs
 626698,623229,openstack/monasca-common,openstack/openstack-zuul-jobs
 626692,623229,openstack/ldappool,openstack/openstack-zuul-jobs
 626679,623229,openstack/freezer-api,openstack/openstack-zuul-jobs
@@ -704,8 +704,8 @@ Source,Target,Source_repo,Target_repo
 626664,623229,openstack/automaton,openstack/openstack-zuul-jobs
 626673,623229,openstack/cliff,openstack/openstack-zuul-jobs
 626655,623229,openstack/oslo.rootwrap,openstack/openstack-zuul-jobs
-626648,623229,openstack/oslo.limit,openstack/openstack-zuul-jobs
 626657,623229,openstack/oslo.service,openstack/openstack-zuul-jobs
+626648,623229,openstack/oslo.limit,openstack/openstack-zuul-jobs
 626645,623229,openstack/oslo.cache,openstack/openstack-zuul-jobs
 626654,623229,openstack/oslo.reports,openstack/openstack-zuul-jobs
 626658,623229,openstack/oslo.utils,openstack/openstack-zuul-jobs

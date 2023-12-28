@@ -1,5 +1,5 @@
 ---
-title: "RQ4"
+title: "RQ3"
 author: "Ali Arabat"
 date: "`r Sys.Date()`"
 output: html_document
@@ -7,291 +7,341 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
 library(dplyr)
-library(scales)
+library("scales")
 library(ggplot2)
-library("ggpubr")
 ```
 
 ```{r}
-RQ3_URL = "/Users/aliarabat/Documents/PhD/projects/openstack-evolution/RQs/RQ3/Files/"
+RQ4_URL = "/Users/aliarabat/Documents/PhD/projects/openstack-evolution/RQs/RQ3/Files/"
 
-cross_project_changes_overtime <- read.csv(paste(RQ3_URL, "cross_project_changes_overtime.csv", sep=""))
-cross_service_changes_overtime <- read.csv(paste(RQ3_URL, "cross_service_changes_overtime.csv", sep=""))
-cross_project_changes_across_releases <- read.csv(paste(RQ3_URL, "cross_project_changes_across_releases.csv", sep=""))
-cross_service_changes_across_releases <- read.csv(paste(RQ3_URL, "cross_service_changes_across_releases.csv", sep=""))
-projects_releases <- read.csv(paste(RQ3_URL, "projects_across_releases.csv", sep=""))
-projects_years <- read.csv(paste(RQ3_URL, "projects_across_years.csv", sep=""))
-dependent_projects_year <- read.csv(paste(RQ3_URL, "dependent_projects_year.csv", sep=""))
-dependent_projects_release <- read.csv(paste(RQ3_URL, "dependent_projects_release.csv", sep=""))
-dependent_projects_year <-  mutate(dependent_projects_year,year = as.character(year))
-```
-
-```{r}
-projects_releases[projects_releases$type=="Archived",]
+df_all_dependencies<-read.csv("/Users/aliarabat/Documents/PhD/projects/openstack-evolution/Files/all_dependencies_summarized.csv")
+cross_project_changes_reviewers_intersect <- read.csv(paste(RQ4_URL, "cross_project_changes_reviewers_intersect.csv", sep=""))
+cross_service_changes_reviewers_intersect <- read.csv(paste(RQ4_URL, "cross_service_changes_reviewers_intersect.csv", sep=""))
+same_dev_experience <- read.csv(paste(RQ4_URL, "same_dev_experience.csv", sep=""))
+Same_dev_churn <- read.csv(paste(RQ4_URL, "Same_dev_churn.csv", sep=""))
+Same_dev_duration <- read.csv(paste(RQ4_URL, "Same_dev_duration.csv", sep=""))
+Same_dev_revisions <- read.csv(paste(RQ4_URL, "Same_dev_revisions.csv", sep=""))
+Duration_reviewers <- read.csv(paste(RQ4_URL, "Duration_reviewers.csv", sep=""))
 ```
 
 
 ```{r}
-give.n <- function(x){
-  return(c(y = median(x)*1.05, label = length(x))) 
-  # experiment with the multiplier to find the perfect position
-}
-```
-
-```{r}
-# p1 <-cochanges_releases[1:23,] %>%
-#     # mutate(release = fct_inorder(release)) %>%
-#  ggplot(aes(x=release, y=count)) +
-#   geom_bar(stat="identity", color = "black", position = "dodge", alpha=0.2) +
-#   geom_text(aes(label = count), vjust = -0.3, size = 3,
-#             position = position_dodge(0.5)) +
-#   theme_linedraw() +
-#   theme(
-#     panel.grid.major = element_blank(),
-#     panel.grid.minor = element_blank(),
-#     panel.background = element_blank(),
-# 
-#     axis.line = element_line(colour = "black"),
-#     axis.text = element_text(size = 10, color = "grey50"),
-#     # axis.line.x = element_line(angle = 45),
-#     axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1),
-#     axis.title = element_text(size = 10)
-#   )+
-#   labs(x = "OpenStack releases", y = "# of co-changes")+
-#   scale_y_continuous(labels = label_comma(), limits =  c(0, max(cochanges_releases$count)*1.1))
-
-p1_1<-cross_project_changes_overtime %>%
-  mutate(year=paste(year, ""))%>%
-  ggplot(aes(x=year, y=count)) +
-  geom_segment( aes(xend=year, yend=0)) +
-  geom_point( size=1.5, color="orange") +
-  geom_text(aes(label = paste0("(", count, ")")), vjust = 0.3, hjust = -0.3, size = 2.5) +
-  coord_flip() +
+p1_1<-df_all_dependencies%>%
+  # mutate(service = log1p(service))%>%
+ggplot() +
+  geom_boxplot(aes(x=Project_type, y=Churn, fill=is_same_dev), outlier.shape = NA)+
+  scale_y_continuous(trans = "log1p", breaks = c(0, 1, 10, 100, 1000))+
   theme_linedraw() +
   theme(
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
     panel.background = element_blank(),
-
-    # axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 7, color = "grey50"),
-    # axis.line.x = element_line(angle = 45),
-    # axis.text.x = element_text(angle = 45, vjust = 0.65),
-    # axis.title = element_text(size = 13)
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 10, color = "grey30"),
+    axis.title = element_text(size = 10)
   )+
-  xlab("Periods") +
-  ylab("# of cross-project changes")+
-  scale_y_continuous(labels = label_number(), limits =  c(0, max(cross_project_changes_overtime$count)*1.13))
+  # theme(legend.title=element_blank())+
+  labs(x = "Projects", y = "Code churn", fill = "Developers")
 p1_1
 ```
 
+
 ```{r}
-p1_2<-cross_service_changes_overtime %>%
-  mutate(year=paste(year, ""))%>%
-  ggplot(aes(x=year, y=count)) +
-  geom_segment( aes(xend=year, yend=0)) +
-  geom_point( size=1.5, color="orange") +
-  geom_text(aes(label = paste0("(", count, ")")), vjust = 0.3, hjust = -0.3, size = 2.5) +
-  coord_flip() +
+p1_2<-df_all_dependencies[df_all_dependencies$Duration>=0,]%>%
+  # mutate(service = log1p(service))%>%
+ggplot() +
+  geom_boxplot(aes(x=Project_type, y=Duration, fill=is_same_dev), outlier.shape = NA)+
+  scale_y_continuous(trans = "log1p", breaks = c(0, 1, 10, 100, 1000))+
   theme_linedraw() +
   theme(
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
     panel.background = element_blank(),
-
-    # axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 7, color = "grey50"),
-    # axis.line.x = element_line(angle = 45),
-    # axis.text.x = element_text(angle = 45, vjust = 0.65),
-    # axis.title = element_text(size = 13)
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 10, color = "grey30"),
+    axis.title = element_text(size = 10)
   )+
-  xlab("Periods") +
-  ylab("# of cross-service changes")+
-  scale_y_continuous(labels = label_number(), limits =  c(0, max(cross_service_changes_overtime$count)*1.13))
+  # theme(legend.title=element_blank())+
+  labs(x = "Projects", y = "Duration (hours)", fill = "Developers")
 p1_2
 ```
 
 
 ```{r}
-# p2<-components_releases %>% 
-#     mutate(component = fct_inorder(release)) %>%
-#  ggplot(aes(x=release, y=count)) +
-#   geom_bar(stat="identity", color = "black", position = "dodge", alpha=0.2) +
-#   geom_text(aes(label = count), vjust = -0.3, size = 2.5,
-#             position = position_dodge(0.5)) +
-#   theme_linedraw() +
-#   theme(
-#     panel.grid.major = element_blank(),
-#     panel.grid.minor = element_blank(),
-#     panel.background = element_blank(),
-# 
-#     axis.line = element_line(colour = "black"),
-#     axis.text = element_text(size = 8, color = "grey50"),
-#     # axis.line.x = element_line(angle = 45),
-#     axis.text.x = element_text(angle = 90, vjust = 0.45, hjust = 1),
-#     axis.title = element_text(size = 10)
-#   )+
-#   xlab("OpenStack releases")+ 
-#   ylab("# of components")+
-#   scale_y_continuous(labels = label_comma(), limits =  c(0, max(components_releases$count)*1.1))
-
-p2_1<-cross_project_changes_across_releases[5:26,] %>%
-  ggplot(aes(x=release, y=count)) +
-  geom_segment( aes(xend=release, yend=0)) +
-  geom_point( size=1.5, color="orange") +
-  geom_text(aes(label = paste0("(", count, ")")), vjust = 0.3, hjust = -0.3, size = 2.5) +
-  coord_flip() +
+p1_3<-df_all_dependencies%>%
+  # mutate(service = log1p(service))%>%
+ggplot() +
+  geom_boxplot(aes(x=Project_type, y=Revisions, fill=is_same_dev), outlier.shape = NA)+
+  scale_y_continuous(trans = "log1p", breaks = c(0, 1, 10, 100, 1000))+
   theme_linedraw() +
   theme(
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
     panel.background = element_blank(),
-
-    # axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 7, color = "grey50"),
-    # axis.line.x = element_line(angle = 45),
-    # axis.text.x = element_text(angle = 45, vjust = 0.65),
-    # axis.title = element_text(size = 13)
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 10, color = "grey30"),
+    axis.title = element_text(size = 10)
   )+
-  xlab("Releases") +
-  ylab("# cross-project changes")+
-  scale_y_continuous(labels = label_comma(), limits =  c(0, max(cross_project_changes_across_releases$count)*1.1))
+  # theme(legend.title=element_blank())+
+  labs(x = "Projects", y = "# of revisions", fill = "Developers")
+p1_3
+```
+
+```{r}
+p2_1<-Same_dev_churn%>%
+  # mutate(service = log1p(service))%>%
+ggplot() +
+  geom_boxplot(aes(x=Label, y=Churn), outlier.shape = NA)+
+  scale_y_continuous(trans = "log1p", breaks = c(0, 1, 10, 100, 1000))+
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 10, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
+  # theme(legend.title=element_blank())+
+  labs(x = "Projects", y = "Churn")
 p2_1
 ```
 
 ```{r}
-p2_2<-cross_service_changes_across_releases[5:26,] %>%
-  ggplot(aes(x=release, y=count)) +
-  geom_segment( aes(xend=release, yend=0)) +
-  geom_point( size=1.5, color="orange") +
-  geom_text(aes(label = paste0("(", count, ")")), vjust = 0.3, hjust = -0.3, size = 2.5) +
-  coord_flip() +
+p2_2<-Same_dev_duration%>%
+  # mutate(service = log1p(service))%>%
+ggplot() +
+  geom_boxplot(aes(x=Label, y=Duration), outlier.shape = NA)+
+  scale_y_continuous(trans = "log1p", breaks = c(0, 1, 10, 100, 1000))+
   theme_linedraw() +
   theme(
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
     panel.background = element_blank(),
-
-    # axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 7, color = "grey50"),
-    # axis.line.x = element_line(angle = 45),
-    # axis.text.x = element_text(angle = 45, vjust = 0.65),
-    # axis.title = element_text(size = 13)
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 10, color = "grey30"),
+    axis.title = element_text(size = 10)
   )+
-  xlab("Releases") +
-  ylab("# cross-service changes")+
-  scale_y_continuous(labels = label_comma(), limits =  c(0, max(cross_service_changes_across_releases$count)*1.1))
-# p2_2
-cross_project_changes_across_releases
+  # theme(legend.title=element_blank())+
+  labs(x = "Projects", y = "Duration (hours)")
+p2_2
 ```
 
-```{r}
-p3_1<-ggplot(projects_releases,aes(x=release, y = count, colour = type, group=type)) + 
-    geom_line() +
-    geom_point() +
-    theme_linedraw() +
-    theme(
-      panel.grid.major=element_line(colour="grey"),
-      panel.grid.minor=element_line(colour="grey"),
-      legend.position='top',
-      legend.justification='left',
-      legend.direction='horizontal',
-      axis.text.x = element_text(angle = 45, vjust = 1, hjust=0.9, size=9,colour = "black"),
-          legend.text = element_text(size=10),axis.title.y = element_text(size=10,),
-          axis.text.y = element_text(size=9 ,colour="black")) + 
-    ylab("# of projects") + xlab("Releases")  +
-    scale_colour_discrete(name="")
-p3_1
-```
 
 ```{r}
-p3_2<-projects_years %>%
-  mutate(year=paste(year, ""))%>%
-  ggplot(aes(x=year, y = count, colour = type, group=type)) + 
-  geom_line() +
-  geom_point() +
+p2_3<-Same_dev_revisions%>%
+  # mutate(service = log1p(service))%>%
+ggplot() +
+  geom_boxplot(aes(x=Label, y=Revisions), outlier.shape = NA)+
+  scale_y_continuous(trans = "log1p", breaks = c(0, 1, 10, 100, 1000))+
   theme_linedraw() +
   theme(
-    panel.grid.major=element_line(colour="grey"),
-    panel.grid.minor=element_line(colour="grey"),
-    legend.position='top',
-    legend.justification='left',
-    legend.direction='horizontal',
-    axis.text.x = element_text(angle = 45, vjust = 0.2, hjust=0.2, size=9,colour = "black"),
-          legend.text = element_text(size=10),axis.title.y = element_text(size=10,),
-          axis.text.y = element_text(size=9 ,colour="black")) + 
-  xlab("Years")  +  
-  ylab("# of projects") + 
-  scale_colour_discrete(name="")
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 10, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
+  # theme(legend.title=element_blank())+
+  labs(x = "Projects", y = "# of revisions")
+p2_3
+```
+
+
+
+```{r}
+# developers_cochanges_percentage <- developers_cochanges_percentage %>% 
+#   dplyr::mutate(perc = Count/sum(Count),
+#                 ymax = cumsum(perc),
+#                 ymin = ifelse(is.na(lag(ymax)), 0, lag(ymax)))
+# p1<-ggplot(developers_cochanges_percentage)+
+#   geom_rect(aes(ymin = ymin, ymax = ymax, fill = Owner, xmin = 2, xmax = 4))+
+#   coord_polar(theta = "y", start = 1)+
+#   theme_void()+
+#   xlim(c(-1, 4))+
+#   geom_text(aes(x = 3, y = perc, label = paste0(round(perc*100,1), "%")), 
+#                 position = position_stack(vjust = 0.5), size = 4)+
+#   scale_fill_brewer(palette="Set2")
+# p1
+```
+
+
+```{r}
+p3_1<-cross_project_changes_reviewers_intersect%>%
+   # mutate(Revs_intersection = log1p(Revs_intersection))%>%
+  ggplot(aes(x = factor(0), y = intersect_rev)) + 
+  geom_boxplot() + 
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
+  labs(x = "", y = "Reviewers intersection") +
+  scale_x_discrete(breaks = NULL)
+p3_1
+# median(cross_project_changes_reviewers_intersect$intersect_rev)
+```
+
+```{r}
+p3_2<-cross_service_changes_reviewers_intersect%>%
+   # mutate(Revs_intersection = log1p(Revs_intersection))%>%
+  ggplot(aes(x = factor(0), y = intersect_rev)) + 
+  geom_boxplot() + 
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
+  labs(x = "", y = "Reviewers intersection") +
+  scale_x_discrete(breaks = NULL)
 p3_2
-# sum(projects_years[projects_years$type=="Archived",]$count)
+# median(cross_project_changes_reviewers_intersect$intersect_rev)
 ```
 
 
 ```{r}
-x<-projects_releases[projects_releases$type=="Modified",]$count[-1]
-y<-cross_project_changes_across_releases[5:26,]$count
-cor.test(x=x, y=y, method="spearman")
-# df<-data.frame(x=c(x), y=c(y))
-# p3_2<- ggscatter(df, x = "x", y = "y",
-#    add = "reg.line",  # Add regressin line
-#    add.params = list(color = "blue", fill = "lightgray"), # Customize reg. line
-#    conf.int = TRUE # Add confidence interval
-#    )+ stat_cor(method = "pearson", label.x = 3, label.y = 30)
-# p3_2
-```
-
-```{r}
-dependent_projects_year = dependent_projects_year[dependent_projects_year$dependent_projects>0,]
-dependent_projects_year <-  mutate(dependent_projects_year,year = as.character(year))
-dataMedian0 <- summarise(group_by(dependent_projects_year, year), MD = median(dependent_projects))
-p4_1<-dependent_projects_year %>%
-ggplot() +
-  geom_boxplot(aes(x=year, y=dependent_projects, fill=dependent_projects), outlier.shape = NA)+
+p3_3<-same_dev_experience%>%
+   # mutate(Revs_intersection = log1p(Revs_intersection))%>%
+  ggplot() + 
+  geom_boxplot(aes(x = factor(0), y = max_min), outlier.shape = NA) + 
   scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
   theme_linedraw() +
   theme(
     panel.grid.major = element_blank(),
     panel.grid.minor = element_blank(),
     panel.background = element_blank(),
-    legend.position = "none",
+    legend.position = "top",
     axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 8, color = "grey30"),
-    axis.text.x = element_text(angle = 45, vjust = 0.4, hjust=0.5),
-    axis.title = element_text(size = 10.5)
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 10)
   )+
-  geom_text(data = dataMedian0, aes(year, MD, label = MD), 
-              position = position_dodge(width = 0.8), size = 3, vjust = -.9)+
+  labs(x = "", y = "max / min") +
+  scale_x_discrete(breaks = NULL)
+p3_3
+median(same_dev_experience$max_min)
+```
+
+```{r}
+p3_4<-same_dev_experience%>%
+   # mutate(Revs_intersection = log1p(Revs_intersection))%>%
+  ggplot() + 
+  geom_boxplot(aes(x = factor(0), y = max), outlier.shape = NA) + 
+  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
+  labs(x = "", y = "# of changes") +
+  scale_x_discrete(breaks = NULL)
+p3_4
+```
+
+```{r}
+p3_5<-same_dev_experience%>%
+   # mutate(Revs_intersection = log1p(Revs_intersection))%>%
+  ggplot() + 
+  geom_boxplot(aes(x = factor(0), y = min), outlier.shape = NA) + 
+  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
+  labs(x = "", y = "# of changes") +
+  scale_x_discrete(breaks = NULL)
+p2_3
+```
+
+```{r}
+res <- wilcox.test(same_dev_experience$min, same_dev_experience$max,
+                   exact = FALSE)
+res
+```
+
+
+
+```{r}
+p3_6<-services_intersection%>%
+   # mutate(Revs_intersection = log1p(Revs_intersection))%>%
+  ggplot(aes(x = factor(0), y = Revs_intersect)) + 
+  geom_boxplot() + 
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
+  labs(x = "", y = "Reviewers intersection") +
+  scale_x_discrete(breaks = NULL)
+p3_6
+```
+
+
+```{r}
+p4_1<-Duration_reviewers%>%
+  # mutate(projects_nbr = log1p(projects_nbr))%>%
+ggplot() +
+  geom_boxplot(aes(x=Project_type, y=Duration, fill=Reviewer_sharing), outlier.shape = NA)+
+  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
   # theme(legend.title=element_blank())+
-  labs(x = "Periods", y = "# of dependent projects", fill = "Developer")
+  labs(x = "Projects", y = "Duration (hours)", fill = "Sharing reviewer")
 p4_1
 ```
 
 ```{r}
-dependent_projects_release = dependent_projects_release[dependent_projects_release$dependent_projects!=-1,]
-dataMedian1 <- summarise(group_by(dependent_projects_release, release), MD = median(dependent_projects))
-p4_2<-dependent_projects_release %>%
-  # mutate(year = as.character(year))%>%
-ggplot() +
-  geom_boxplot(aes(x=release, y=dependent_projects, fill=dependent_projects), outlier.shape = NA)+
-  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "none",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 8, color = "grey30"),
-    axis.text.x = element_text(angle = 90, vjust = 0.4, hjust=1),
-    axis.title = element_text(size = 10.5)
-  )+
-  geom_text(data = dataMedian1, aes(release, MD, label = MD), 
-              position = position_dodge(width = 0.8), size = 1.8, vjust = -.7)+
-  # stat_summary(fun.data = give.n, aes(x=release, y=dependent_projects),vjust = -1, size=3.5, geom = "text", fun = "mean",
-  #                  position = position_dodge(width = 0.75))+
-  # theme(legend.title=element_blank())+
-  labs(x = "Releases", y = "# of dependent projects", fill = "Developer")
-p4_2
+res2 <- wilcox.test(df_all_dependencies[(df_all_dependencies$Project_type=="Target")&(df_all_dependencies$is_same_dev=="Same"),]$Revisions, df_all_dependencies[(df_all_dependencies$Project_type=="Target")&(df_all_dependencies$is_same_dev=="Different"),]$Revisions,
+                   exact = FALSE)
+res2
 ```
+
+
+```{r}
+res3 <- wilcox.test(Duration_reviewers[(Duration_reviewers$Project_type=="Target")&(Duration_reviewers$Reviewer_sharing=="At least one"),]$Duration, Duration_reviewers[(Duration_reviewers$Project_type=="Target")&(Duration_reviewers$Reviewer_sharing=="Different"),]$Duration,
+                   exact = FALSE)
+res3
+```
+

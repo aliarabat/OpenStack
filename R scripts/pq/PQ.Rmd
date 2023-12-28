@@ -14,19 +14,16 @@ library(ggplot2)
 
 ```{r}
 PQ_URL = "/Users/aliarabat/Documents/PhD/projects/openstack-evolution/RQs/PQ/Files/"
+all_developers <- read.csv(paste(PQ_URL, "developers.csv", sep=""))
 core_non_core_changes <- read.csv(paste(PQ_URL, "core_non_core_changes.csv", sep=""))
 core_non_core_reviewers_changes <- read.csv(paste(PQ_URL, "core_non_core_reviewers_changes.csv", sep=""))
-projects_metrics <- read.csv(paste(PQ_URL, "projects_metrics.csv", sep=""))
-developers_projects_intersection <- read.csv(paste(PQ_URL, "developers_projects_intersection.csv", sep=""))
-reviewers_project_intersection <- read.csv(paste(PQ_URL, "reviewers_project_intersection.csv", sep=""))
-services_metrics <- read.csv(paste(PQ_URL, "services_metrics.csv", sep=""))
-owners_service_intersection <- read.csv(paste(PQ_URL, "owners_service_intersection.csv", sep=""))
-reviewers_service_intersection <- read.csv(paste(PQ_URL, "reviewers_service_intersection.csv", sep=""))
-devs_per_nbr_project <- read.csv(paste(PQ_URL, "devs_per_nbr_project.csv", sep=""))
-revs_per_nbr_project <- read.csv(paste(PQ_URL, "revs_per_nbr_project.csv", sep=""))
-devs_per_nbr_service <- read.csv(paste(PQ_URL, "devs_per_nbr_service.csv", sep=""))
-revs_per_nbr_service <- read.csv(paste(PQ_URL, "revs_per_nbr_service.csv", sep=""))
-all_services_medians <- read.csv(paste(PQ_URL, "all_services_medians.csv", sep=""))
+dev_with_team <- read.csv(paste(PQ_URL, "dev_with_team.csv", sep=""))
+rev_with_team <- read.csv(paste(PQ_URL, "rev_with_team.csv", sep=""))
+
+inter_team_dev <- read.csv(paste(PQ_URL, "inter_team_dev.csv", sep=""))
+inter_team_rev <- read.csv(paste(PQ_URL, "inter_team_rev.csv", sep=""))
+dev_rev_pro <- read.csv(paste(PQ_URL, "dev_rev_pro.csv", sep=""))
+dev_rev_team <- read.csv(paste(PQ_URL, "dev_rev_team.csv", sep=""))
 ```
 
 
@@ -39,11 +36,9 @@ give.n <- function(x){
 
 
 ```{r}
-core_non_core_changes$dev_status[core_non_core_changes$dev_status=="Not core"] = "Non core"
-p1<-core_non_core_changes %>%
-  # mutate(nbr_changes = log1p(nbr_changes))%>%
-ggplot() +
-  geom_boxplot(aes(x=dev_status, y=nbr_changes, fill=dev_status), outlier.shape = NA)+
+p0 <-all_developers %>%
+  ggplot(aes(x = factor(0), y = changes), outlier.shape = NA) + 
+  geom_boxplot(fatten=.5) + 
   scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
   theme_linedraw() +
   theme(
@@ -55,20 +50,41 @@ ggplot() +
     axis.text = element_text(size = 9, color = "grey30"),
     axis.title = element_text(size = 10)
   )+
-  stat_summary(fun.data = give.n, aes(x=dev_status, y=nbr_changes),vjust = -3, size=3.5, geom = "text", fun = "median", 
+  labs(x = "", y = "# of changes") +
+  scale_x_discrete(breaks = NULL)
+p0
+```
+
+
+```{r}
+p1<-core_non_core_changes %>%
+  # mutate(nbr_changes = log1p(nbr_changes))%>%
+ggplot() +
+  geom_boxplot(aes(x=status, y=changes, fill=status), fatten=.5, outlier.shape = NA)+
+  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "none",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
+  stat_summary(fun.data = give.n, aes(x=status, y=changes),vjust = -3, size=3.5, geom = "text", fun = "median", 
                    position = position_dodge(width = 0.75))+
   # theme(legend.title=element_blank())+
   labs(x = "Developers", y = "# of changes", fill = "Developer")
 p1
 ```
 
-```{r}
-core_non_core_reviewers_changes$rev_status[core_non_core_reviewers_changes$rev_status=="Not core"] = "Non core"
 
+```{r}
 p2<-core_non_core_reviewers_changes%>%
   # mutate(count = log1p(count))%>%
 ggplot() +
-  geom_boxplot(aes(x=rev_status, y=count, fill=rev_status), outlier.shape = NA)+
+  geom_boxplot(aes(x=status, y=changes, fill=status), fatten=.5, outlier.shape = NA)+
   scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000, 10000))+
   theme_linedraw() +
   theme(
@@ -80,13 +96,139 @@ ggplot() +
     axis.text = element_text(size = 9, color = "grey30"),
     axis.title = element_text(size = 10)
   )+
-  stat_summary(fun.data = give.n, aes(x=rev_status, y=count),vjust = -3, size=3.5, geom = "text", fun = "median", 
+  stat_summary(fun.data = give.n, aes(x=status, y=changes),vjust = -3, size=3.5, geom = "text", fun = "median", 
                    position = position_dodge(width = 0.75))+
   # guides(size = 5)+
   # theme(legend.title=element_blank())+
   labs(x = "Reviewers", y = "# of changes", fill = "Developer")
 p2
 ```
+
+```{r}
+p3<-dev_with_team%>%
+  # mutate(service = log1p(service))%>%
+ggplot() +
+  geom_boxplot(aes(x=team, y=intersection, fill=status), fatten=0.4, outlier.shape = NA)+
+  # scale_y_continuous(trans = "log1p", breaks = c(1, 5, 15, 25, 45))+
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+    axis.title = element_text(size = 12)
+  )+
+  labs(x = "Teams", y = "Developers intersection", fill = "Developer")+
+   scale_y_continuous(labels=c('0%', '25%', '50%', '75%', '100%'))
+p3
+```
+
+
+```{r}
+p4<-rev_with_team%>%
+  # mutate(service = log1p(service))%>%
+ggplot() +
+  geom_boxplot(aes(x=team, y=intersection, fill=status), fatten=0.4, outlier.shape = NA)+
+  # scale_y_continuous(trans = "log1p", breaks = c(1, 5, 15, 25, 45))+
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
+    axis.title = element_text(size = 12)
+  )+
+  labs(x = "Teams", y = "Reviewers intersection", fill = "Reviewer")+
+   scale_y_continuous(labels=c('0%', '25%', '50%', '75%', '100%'))
+p4
+```
+
+```{r}
+plot_boxplot <- function(data, individual, labels){
+  result = data%>%
+  ggplot() +
+  geom_boxplot(aes(x=status, y=intersection, fill=status), fatten=0.4)+
+  # scale_y_continuous( breaks = c(1, 5, 15, 25, 45))+
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 12)
+  )+
+  labs(x = individual, y = paste(individual, "s intersection", sep = ""), fill = individual)+
+   scale_y_continuous(labels=labels)
+  return(result)
+}
+```
+
+
+```{r}
+p5<-plot_boxplot(inter_team_dev, 'Developer', c('0%', '25%', '50%', '75%', '100%'))
+p5
+```
+
+```{r}
+p6<-plot_boxplot(inter_team_rev, 'Reviewer', c('0%', '20%', '40%', '60%'))
+p6
+```
+
+
+```{r}
+p7<-dev_rev_pro%>%
+  # mutate(projects_nbr = log1p(projects_nbr))%>%
+ggplot() +
+  geom_boxplot(aes(x=individual, y=project, fill=status), fatten=0.5, outlier.shape = NA)+
+  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
+   # stat_summary(fun.data = give.n, aes(x=dev_status, y=projects_nbr),vjust = -3.5, size=3.5, geom = "text", fun = "median",
+   #                 position = position_dodge(width = 0.75))+
+  # theme(legend.title=element_blank())+
+  labs(x = "Individual", y = "# of projects", fill = "Individual")
+p7
+```
+
+```{r}
+p8<-dev_rev_team%>%
+  # mutate(projects_nbr = log1p(projects_nbr))%>%
+ggplot() +
+  geom_boxplot(aes(x=individual, y=team, fill=status), fatten=0.5, outlier.shape = NA)+
+  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
+  theme_linedraw() +
+  theme(
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.background = element_blank(),
+    legend.position = "top",
+    axis.line = element_line(colour = "black"),
+    axis.text = element_text(size = 9, color = "grey30"),
+    axis.title = element_text(size = 10)
+  )+
+   # stat_summary(fun.data = give.n, aes(x=dev_status, y=projects_nbr),vjust = -3.5, size=3.5, geom = "text", fun = "median",
+   #                 position = position_dodge(width = 0.75))+
+  # theme(legend.title=element_blank())+
+  labs(x = "Individual", y = "# of teams", fill = "Individual")
+p8
+```
+
 
 ```{r}
 p3_1 <- projects_metrics[projects_metrics$intersect_dev>0,] %>%
@@ -106,377 +248,5 @@ p3_1 <- projects_metrics[projects_metrics$intersect_dev>0,] %>%
   labs(x = "", y = "Developers' intersection") +
   scale_x_discrete(breaks = NULL)
 p3_1
-```
-
-
-```{r}
-p3_2<-developers_projects_intersection[(developers_projects_intersection$developer=="Core")&(developers_projects_intersection$intersect_dev>0),] %>%
-  ggplot(aes(x = factor(0), y = intersect_dev)) + 
-  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-  labs(x = "", y = "Core developers' intersections") +
-  scale_x_discrete(breaks = NULL)
-p3_2
-```
-
-```{r}
-p3_3<-developers_projects_intersection[(developers_projects_intersection$intersect_dev>0)&(developers_projects_intersection$developer=="Non core"),] %>%
-  ggplot(aes(x = factor(0), y = intersect_dev)) + 
-  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-  labs(x = "", y = "Non core developers' intersections") +
-  scale_x_discrete(breaks = NULL)
-p3_3
-```
-
-
-```{r}
-p3_4 <- projects_metrics %>%
-  ggplot(aes(x = factor(0), y = intersect_rev)) + 
-  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-  labs(x = "", y = "Reviewers' intersection") +
-  scale_x_discrete(breaks = NULL)
-p3_4
-```
-
-
-```{r}
-p3_5<-reviewers_project_intersection[(reviewers_project_intersection$intersect_rev>0)&(reviewers_project_intersection$developer=="Core"),] %>%
-  ggplot(aes(x = factor(0), y = intersect_rev)) + 
-  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-  labs(x = "", y = "Core reviewers' intersections") +
-  scale_x_discrete(breaks = NULL)
-p3_5
-```
-
-```{r}
-p3_6<-reviewers_project_intersection[(reviewers_project_intersection$intersect_rev>0)&(reviewers_project_intersection$developer=="Non core"),] %>%
-  ggplot(aes(x = factor(0), y = intersect_rev)) + 
-  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-  labs(x = "", y = "Non core reviewers' intersections") +
-  scale_x_discrete(breaks = NULL)
-p3_6
-```
-
-
-```{r}
-p4<-reviewers_repo_intersection%>%
-  # mutate(count = log1p(count))%>%
-ggplot() +
-  geom_boxplot(aes(x=interval, y=count, fill=developer), outlier.shape = NA)+
-  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "none",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-  guides(size = 5)+
-  # theme(legend.title=element_blank())+
-  labs(x = "Reviewers' intersection", y = "% of projects pairs", fill = "Developer")
-p4
-```
-
-```{r}
-p5_1 <- services_metrics %>%
-   # mutate(intersect_dev = log1p(intersect_dev))%>%
-  ggplot(aes(x = factor(0), y = intersect_dev)) + 
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-  labs(x = "", y = "Developers' intersection", fill = "Developer") +
-  scale_x_discrete(breaks = NULL)
-p5_1
-```
-
-```{r}
-p5_2 <- owners_service_intersection[owners_service_intersection$developer=="Core",] %>%
-   # mutate(intersect_dev = log1p(intersect_dev))%>%
-  ggplot(aes(x = factor(0), y = intersect_dev)) + 
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-  labs(x = "", y = "Core developers' intersections") +
-  scale_x_discrete(breaks = NULL)
-p5_2
-```
-
-```{r}
-p5_3 <- owners_service_intersection[owners_service_intersection$developer=="Non core",] %>%
-   # mutate(intersect_dev = log1p(intersect_dev))%>%
-  ggplot(aes(x = factor(0), y = intersect_dev)) + 
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 8, color = "grey30"),
-    axis.title = element_text(size = 9)
-  )+
-  labs(x = "", y = "Non core developers' intersection") +
-  scale_x_discrete(breaks = NULL)
-p5_3
-```
-
-
-
-```{r}
-p6_1 <- services_metrics %>%
-   # mutate(intersect_rev = log1p(intersect_rev))%>%
-  ggplot(aes(x = factor(0), y = intersect_rev)) + 
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-  labs(x = "", y = "Reviewers' intersection") +
-  scale_x_discrete(breaks = NULL)
-p6_1
-```
-
-```{r}
-p6_2 <- reviewers_service_intersection[reviewers_service_intersection$developer=="Core",] %>%
-   # mutate(intersect_dev = log1p(intersect_dev))%>%
-  ggplot(aes(x = factor(0), y = intersect_rev)) + 
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-  labs(x = "", y = "Core reviewers' intersection") +
-  scale_x_discrete(breaks = NULL)
-p6_2
-```
-
-```{r}
-p6_3 <- reviewers_service_intersection[reviewers_service_intersection$developer=="Non core",] %>%
-   # mutate(intersect_dev = log1p(intersect_dev))%>%
-  ggplot(aes(x = factor(0), y = intersect_rev)) + 
-  geom_boxplot() + 
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "top",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 8, color = "grey30"),
-    axis.title = element_text(size = 9)
-  )+
-  labs(x = "", y = "Non core reviewers' intersection") +
-  scale_x_discrete(breaks = NULL)
-p6_3
-```
-
-```{r}
-median(devs_per_nbr_project$projects_nbr)
-```
-
-
-
-```{r}
-p7_1<-devs_per_nbr_project%>%
-  # mutate(projects_nbr = log1p(projects_nbr))%>%
-ggplot() +
-  geom_boxplot(aes(x=dev_status, y=projects_nbr, fill=dev_status), outlier.shape = NA)+
-  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "none",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-   stat_summary(fun.data = give.n, aes(x=dev_status, y=projects_nbr),vjust = -3.5, size=3.5, geom = "text", fun = "median", 
-                   position = position_dodge(width = 0.75))+
-  # theme(legend.title=element_blank())+
-  labs(x = "Developer", y = "# of projects", fill = "Developer")
-p7_1
-```
-
-```{r}
-p7_2<-revs_per_nbr_project%>%
-  # mutate(projects_nbr = log1p(projects_nbr))%>%
-ggplot() +
-  geom_boxplot(aes(x=rev_status, y=projects_nbr, fill=rev_status), outlier.shape = NA)+
-  scale_y_continuous(trans = "log1p", breaks = c(0,1,10, 100, 1000))+
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "none",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-   stat_summary(fun.data = give.n, aes(x=rev_status, y=projects_nbr),vjust = -3.5, size=3.5, geom = "text", fun = "median", 
-                   position = position_dodge(width = 0.75))+
-  # theme(legend.title=element_blank())+
-  labs(x = "Reviewer", y = "# of projects", fill = "Developer")
-p7_2
-```
-
-```{r}
-p7_3<-devs_per_nbr_service%>%
-  # mutate(service = log1p(service))%>%
-ggplot() +
-  geom_boxplot(aes(x=dev_status, y=service, fill=dev_status), outlier.shape = NA)+
-  scale_y_continuous(trans = "log1p", breaks = c(1, 5, 15, 25, 45))+
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "none",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-   stat_summary(fun.data = give.n, aes(x=dev_status, y=service),vjust = -3.5, size=3.5, geom = "text", fun = "median", 
-                   position = position_dodge(width = 0.75))+
-  # theme(legend.title=element_blank())+
-  labs(x = "Developer", y = "# of services", fill = "Developer")
-p7_3
-```
-
-```{r}
-p7_4<-revs_per_nbr_service%>%
-  # mutate(service = log1p(service))%>%
-ggplot() +
-  geom_boxplot(aes(x=rev_status, y=service, fill=rev_status), outlier.shape = NA)+
-  scale_y_continuous(trans = "log1p", breaks = c(1, 5, 15, 25, 45))+
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "none",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.title = element_text(size = 10)
-  )+
-   stat_summary(fun.data = give.n, aes(x=rev_status, y=service),vjust = -3.5, size=3.5, geom = "text", fun = "median", 
-                   position = position_dodge(width = 0.75))+
-  # theme(legend.title=element_blank())+
-  labs(x = "Reviewer", y = "# of services", fill = "Developer")
-p7_4
-```
-
-
-```{r}
-p8<-all_services_medians%>%
-  # mutate(service = log1p(service))%>%
-ggplot() +
-  geom_boxplot(aes(x=service, y=median), outlier.shape = NA)+
-  # scale_y_continuous(trans = "log1p", breaks = c(1, 5, 15, 25, 45))+
-  theme_linedraw() +
-  theme(
-    panel.grid.major = element_blank(),
-    panel.grid.minor = element_blank(),
-    panel.background = element_blank(),
-    legend.position = "none",
-    axis.line = element_line(colour = "black"),
-    axis.text = element_text(size = 9, color = "grey30"),
-    axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
-    axis.title = element_text(size = 12)
-  )+
-   # stat_summary(fun.data = give.n, aes(x=service, y=median),vjust = -3.5, size=3.5, geom = "text", fun = "median", 
-   #                 position = position_dodge(width = 0.75))+
-  # theme(legend.title=element_blank())+
-  labs(x = "Services", y = "Developers intersection", fill = "Developer")+
-   scale_y_continuous(labels=c('0%', '25%', '50%', '75%', '100%'))
-p8
 ```
 

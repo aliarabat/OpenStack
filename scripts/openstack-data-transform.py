@@ -1,9 +1,12 @@
 import pandas as pd
 import numpy as np
+import concurrent.futures
 import json
 import os
+import os.path as osp
 import shutil
 import utils.helpers as hpr
+import re
 
 DIR = hpr.DIR
 
@@ -91,13 +94,14 @@ def retrieve_messages(df, index):
     messages_df.to_csv(filepath, index=False, encoding='utf-8')
 
 
-def filter_files_attr(row):
+def filter_files_attr(revisions):
     """Filter files of the current change
     """
-    if row["current_revision"] not in row["revisions"].keys():
-        return {}
+    # if row["current_revision"] not in row["revisions"].keys():
+    #     return {}
 
-    return row["revisions"][row["current_revision"]]["files"]
+    first_revision = revisions[0]
+    return first_revision["files"]
 
 
 def retrieve_files(df, index):
@@ -159,34 +163,87 @@ def retrieve_commit_message(row):
 
     return row["revisions"][row["current_revision"]]["commit"]["message"]
 
+
+def retrieve_git_command(row):
+    """Retrieve git command for changed lines of code
+    """
+    revisions = list(row.values())
+
+    fetch = revisions[0]["fetch"]["anonymous http"]
+
+    # git_command = "git fetch {} {} && git format-patch -1 --stdout FETCH_HEAD".format(fetch["url"], fetch["ref"])
+    git_command = f'{fetch["commands"]["Pull"]} && git config pull.ff only'
+    return git_command
+
+
 def retrieve_revisions(revisions):
     # revisions = row["revisions"]
     results = []
     # print(revisions.keys())
     for rev in list(revisions.values()):
-        results.append({"created": rev["created"], "message": rev["commit"]["message"]})
+        # url = None
+        # for item in rev['commit']['web_links']:
+        #     if item['name'] == 'gitea':
+        #         url = item['url']
+        #         break
+
+        results.append({
+            "created": rev["created"], 
+            "files": list(rev["files"].keys()) if "files" in rev.keys() else [],
+            # "web_link": url, 
+            "message": rev["commit"]["message"],
+            "number": rev["_number"]
+        })
     results.sort(key=lambda x: x["created"], reverse=False)
 
     return results if len(results) > 0 else []
 
-def retrieve_changes(origin_df, index):
+# def retrieve_commit_id(revisions):
+#     """Retrieve commit id related to a given change
+#     """
+#     first_revision = revisions[0]
+#     return first_revision["commit_id"]
+
+
+def extract_commit_id(revision):
+    """Retrieve commit id related to a given change
+    """
+    url = revision[0]['web_link']
+
+    pattern = r'/commit/([a-f0-9]+)$'  # Regular expression pattern to match the commit ID
+
+    match = re.search(pattern, url)
+    if match:
+        commit_id = match.group(1)
+        # print("Commit ID:", commit_id)
+        return commit_id
+    
+    # print("No commit ID found in the URL.")
+    return None
+
+
+def retrieve_changes(file):
     """Filter the changes
     """
+    print(f'Processing {file} file started...')
+
     changes_columns = [
         "id", "project", "branch", "change_id", "owner", "subject",
-        "status", "created", "updated", "submitted", "insertions", "deletions",
+        "status", "created", "updated", "submitted", 
+        "insertions", "deletions",
         "reviewers", "messages", "revisions", "total_comment_count", "_number",
         "current_revision"
     ]
 
-    df = origin_df[changes_columns]
+    df = pd.read_json('%s/Data/%s' % (os.getcwd(), file))
+
+    df = df[changes_columns]
 
     df["discussion_messages_count"] = df["messages"].copy().map(lambda x: len(x))
     df["reviewers"] = df["reviewers"].map(lambda x: x["REVIEWER"]
                                           if "REVIEWER" in x.keys() else [])
     df["reviewers_count"] = df["reviewers"].map(lambda x: len(x))
     df["revisions_count"] = df["revisions"].map(lambda x: len(x))
-    df["files_count"] = df.apply(calc_nbr_files, axis=1)
 
     df["owner_account_id"] = df["owner"].map(
         lambda x: x["_account_id"] if "_account_id" in x.keys() else None)
@@ -200,10 +257,17 @@ def retrieve_changes(origin_df, index):
 
     df["commit_message"] = df.apply(retrieve_commit_message, axis=1)
 
-    df["revisions"] = df["revisions"].map(retrieve_revisions)
+    # df["git_command"] = df["revisions"].map(retrieve_git_command)
 
-    if "topic" in origin_df.columns:
-        df = pd.concat((df, origin_df[["topic"]]), axis=1)
+    df["revisions"] = df["revisions"].map(retrieve_revisions)
+    # df["commit_id"] = df["revisions"].map(retrieve_commit_id)
+    df["changed_files"] = df["revisions"].map(filter_files_attr)
+    df["files_count"] = df["revisions"].map(calc_nbr_files)
+
+    # df['commit_id'] = df["revisions"].map(extract_commit_id)
+
+    # if "topic" in origin_df.columns:
+    #     df = pd.concat((df, origin_df[["topic"]]), axis=1)
 
     del df["owner"]
 
@@ -214,10 +278,12 @@ def retrieve_changes(origin_df, index):
     del changes_df["messages"]
     # del changes_df["revisions"]
 
-    file_path = "%sChanges/changes_data_%d.csv" % (DIR, index)
+    file_path = osp.join(os.getcwd(), 'Changes', f'changes_data_{file[15:-5]}.csv')
     changes_df.to_csv(file_path, index=False, encoding='utf-8')
 
-    return df
+    print(f'{file} file completed successfully...')
+
+    return file
 
 
 if __name__ == "__main__":
@@ -239,30 +305,17 @@ if __name__ == "__main__":
 
     # index = 0
     # file_path = "openstack_data_722.json"
-    data_dir = "E:/PhD/Projects/Openstack/"
-    for f in hpr.list_file("%sData" % DIR):
-        # for index in range(1406, 1407):
-        # f = "openstack_data_%d.json" % index
+    json_files = hpr.list_file(osp.join(os.getcwd(), 'Data'))
+    processed_files = []
+    # processed_files_path = osp.join(os.getcwd(), 'Changes')
 
-        index = int(f[15:-5])
+    with concurrent.futures.ProcessPoolExecutor() as executor:
+        results = [executor.submit(retrieve_changes, f) for f in json_files]
 
-        print("Filename =====>  %s" % f)
-
-        print("Index =====>  %d" % index)
-
-        # print("Index =====>  %d" % index)
-        origin_df = pd.read_json('%sData/%s' % (DIR, f))
-        # original_data = process_json_file(f)
-
-        df = retrieve_changes(origin_df, index)
-
-        # retrieve_reviewers(df, index)
-
-        # retrieve_messages(df, index)
-
-        # retrieve_files(df, index)
-
-        index += 1
+        for f in concurrent.futures.as_completed(results):
+            if f:
+                processed_files.append(f.result())
+                # pd.DataFrame({'name': processed_files}).to_csv(processed_files_path, index=None)
 
     end_date, end_header = hpr.generate_date("This script ended at")
 

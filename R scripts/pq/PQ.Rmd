@@ -108,7 +108,7 @@ p2
 p3<-dev_with_team%>%
   # mutate(service = log1p(service))%>%
 ggplot() +
-  geom_boxplot(aes(x=team, y=intersection, fill=status), fatten=0.4, outlier.shape = NA)+
+  geom_boxplot(aes(x=team, y=intersection), fatten=0.4, outlier.shape = NA)+
   # scale_y_continuous(trans = "log1p", breaks = c(1, 5, 15, 25, 45))+
   theme_linedraw() +
   theme(
@@ -121,7 +121,7 @@ ggplot() +
     axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1),
     axis.title = element_text(size = 12)
   )+
-  labs(x = "Teams", y = "Developers intersection", fill = "Developer")+
+  labs(x = "Services", y = "Developers intersection")+
    scale_y_continuous(labels=c('0%', '25%', '50%', '75%', '100%'))
 p3
 ```
